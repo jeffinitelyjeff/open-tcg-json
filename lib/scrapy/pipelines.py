@@ -8,7 +8,7 @@ import shutil
 from itemadapter import ItemAdapter
 
 
-class OTCGDPipeline:
+class OTCGJPipeline:
 
   def open_spider(self, spider):
     if getattr(spider, 'clear_output_dir', False):

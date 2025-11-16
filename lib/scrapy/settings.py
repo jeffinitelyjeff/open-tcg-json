@@ -1,4 +1,4 @@
-# Scrapy settings for otcgd project
+# Scrapy settings for otcgjson project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -7,13 +7,13 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = "otcgd"
+BOT_NAME = "otcgjson"
 
-SPIDER_MODULES = ["otcgd.spiders"]
-NEWSPIDER_MODULE = "otcgd.spiders"
+SPIDER_MODULES = ["otcgjson.spiders"]
+NEWSPIDER_MODULE = "otcgjson.spiders"
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = "otcgd (+http://www.yourdomain.com)"
+#USER_AGENT = "otcgjson (+http://www.yourdomain.com)"
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
@@ -44,13 +44,13 @@ ROBOTSTXT_OBEY = False
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    "otcgd.middlewares.OtcgdSpiderMiddleware": 543,
+#    "otcgjson.middlewares.otcgjsonSpiderMiddleware": 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    "otcgd.middlewares.OtcgdDownloaderMiddleware": 543,
+#    "otcgjson.middlewares.otcgjsonDownloaderMiddleware": 543,
 #}
 
 # Enable or disable extensions
@@ -62,7 +62,7 @@ ROBOTSTXT_OBEY = False
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    "otcgd.pipelines.OtcgdPipeline": 300,
+#    "otcgjson.pipelines.otcgjsonPipeline": 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
