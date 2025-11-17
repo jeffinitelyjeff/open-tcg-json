@@ -116,6 +116,6 @@ class TCGPlusSpider(scrapy.Spider):
       logging.info("finished fetching %s cards for %s %s", len(results), lang,
                    game)
       yield {
-          'write_path': ['cardList', f"{game.abbr()}_{lang.abbr()}.json"],
+          'write_path': [game.abbr(), lang.abbr(), 'cardList.json'],
           **results,
       }
