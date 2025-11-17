@@ -73,27 +73,28 @@ class TCGPlusSpider(scrapy.Spider):
     game_id = response.meta['game_id']
     offset = response.meta['offset']
 
-    region = TCG_PLUS_GAME_TITLE_ID_MAPPING[game_id][1].name
-    print(f"Scraping TCG Plus cards for {region}...")
+    game, lang = TCG_PLUS_GAME_TITLE_ID_MAPPING[game_id]
 
     cards = data.get('cards', [])
     if not cards:
-      msg = f"no cards found for {region}"
-      print(f"::error title=TCG Plus Scrape Error::{msg}")
+      msg = f"no cards found for {lang} {game}"
+      print(f"::error title=TCG+ Scrape Error::{msg}")
       logging.error(msg)
       return None
+
+    logging.debug("found %s cards for %s %s", len(cards), lang, game)
 
     for card in cards:
       card_id = card.get('id')
       if not card_id:
-        msg = f"card with no TCG Plus ID found for {region}: {card}"
-        print(f"::error title=TCG Plus Scrape Error::{msg}")
+        msg = f"card with no TCG+ ID found for {lang} {game}: {card}"
+        print(f"::error title=TCG+ Scrape Error::{msg}")
         logging.error(msg)
         continue
 
-      yield {'write_path': [region.lower(), f"{card_id}.json"], **card}
+      yield {'write_path': [lang.name.lower(), f"{card_id}.json"], **card}
 
     total_count = int(data.get('total', 0))
     new_offset = offset + LIMIT
     if new_offset < total_count:
-      yield self.card_list_request(region, new_offset)
+      yield self.card_list_request(game_id, new_offset)
