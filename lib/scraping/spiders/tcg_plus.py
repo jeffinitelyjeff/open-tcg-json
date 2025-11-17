@@ -92,7 +92,13 @@ class TCGPlusSpider(scrapy.Spider):
         logging.error(msg)
         continue
 
-      yield {'write_path': [lang.name.lower(), f"{card_id}.json"], **card}
+      yield {
+          'write_path': [
+              game.value['abbr'],
+              lang.name.lower(), f"{card_id}.json"
+          ],
+          **card
+      }
 
     total_count = int(data.get('total', 0))
     new_offset = offset + LIMIT

@@ -22,6 +22,8 @@ SPIDERS = [
 def main():
   # args = get_cli_args()
 
+  settings_file_path = 'lib.scraping.settings'
+  os.environ.setdefault('SCRAPY_SETTINGS_MODULE', settings_file_path)
   scrapy_settings = get_project_settings()
   set_up_logs(scrapy_settings)
 
