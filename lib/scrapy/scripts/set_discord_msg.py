@@ -12,7 +12,7 @@ REPO_NAME = os.getenv('GITHUB_REPOSITORY')
 RUN_ID = os.getenv('GITHUB_RUN_ID')
 
 RUN_URL = f"{SERVER_URL}/{REPO_NAME}/actions/runs/{RUN_ID}"
-RUN_MD_LINK = f"[{RUN_NUMBER}]({RUN_URL})"
+RUN_MD_LINK = f"[{RUN_NUMBER}](<{RUN_URL}>)"
 
 START_TS = os.getenv('START_TS')
 
@@ -53,7 +53,7 @@ def make_success_msg() -> str:
   # FIXME
   cwd = os.getcwd()
   print("cwd: ", cwd)
-  cwd_otuput = subprocess.run(['cwd'], capture_output=True, text=True).stdout
+  cwd_otuput = subprocess.run(['pwd'], capture_output=True, text=True).stdout
   print("subprocess cwd: ", cwd_otuput)
 
   git_cmd = ['git', 'diff', '--stat']
