@@ -2,32 +2,24 @@ import enum
 
 from .. import util
 
+DISCORD_PATH = util.LOG_DIR / "discord_stats.txt"
+
 
 class Notice(enum.Enum):
 
   @classmethod
-  def global_keys(cls):
-    return []
-
-  @classmethod
   def all_keys(cls):
-    return [n.name for n in cls] + cls.global_keys()
+    return [n.name for n in cls]
 
 
 class Error(enum.Enum):
 
   @classmethod
-  def global_keys(cls):
-    return [
-        'log_count/ERROR',
-    ]
-
-  @classmethod
   def all_keys(cls):
-    return [e.name for e in cls] + cls.global_keys()
+    return [e.name for e in cls]
 
 
-DISCORD_PATH = util.LOG_DIR / "discord_stats.txt"
+# TODO: move this into a spider base class
 
 
 def truthy_print(val):

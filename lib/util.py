@@ -12,13 +12,14 @@ import shutil
 RUN_TS = datetime.datetime.now(datetime.timezone.utc)
 ROOT_DIR = pathlib.Path(__file__).parent.parent
 LOG_DIR = ROOT_DIR / 'logs'
-POLL_PATH = ROOT_DIR / 'last_polls.json'
+POLL_PATH = ROOT_DIR / 'latest_polls.json'
 
 
 def make_log_dir():
   os.makedirs(LOG_DIR, exist_ok=True)
 
 
+# FIXME: move these into a scrapy_util.py file?
 def check_poll_threshold(poll_id: str, threshold_seconds: int) -> bool:
   """Check if the poll threshold has been exceeded for the given poll ID.
 
