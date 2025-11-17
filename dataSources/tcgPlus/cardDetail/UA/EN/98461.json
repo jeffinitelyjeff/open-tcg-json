@@ -1,0 +1,107 @@
+{
+  "backcard_card_config": [
+    {
+      "config_name": "Title"
+    },
+    {
+      "config_name": "Card Type"
+    },
+    {
+      "config_name": "Card Color"
+    },
+    {
+      "config_name": "Required Energy"
+    },
+    {
+      "config_name": "Energy Generation"
+    },
+    {
+      "config_name": "AP Cost"
+    },
+    {
+      "config_name": "BP"
+    },
+    {
+      "config_name": "Rarity"
+    },
+    {
+      "config_name": "Trigger Effect Type"
+    },
+    {
+      "config_name": "Trigger Effect Text"
+    },
+    {
+      "config_name": "Affinity"
+    },
+    {
+      "config_name": "Notes"
+    }
+  ],
+  "backcard_is_favorite": false,
+  "card_config": [
+    {
+      "config_name": "Title",
+      "value": "Rurouni Kenshin"
+    },
+    {
+      "config_name": "Card Type",
+      "value": "Character"
+    },
+    {
+      "config_name": "Card Color",
+      "value": "Red"
+    },
+    {
+      "config_name": "Required Energy",
+      "value": "2"
+    },
+    {
+      "config_name": "Energy Generation",
+      "value": "1"
+    },
+    {
+      "config_name": "AP Cost",
+      "value": "1"
+    },
+    {
+      "config_name": "BP",
+      "value": "2000"
+    },
+    {
+      "config_name": "Rarity",
+      "value": "R"
+    },
+    {
+      "config_name": "Trigger Effect Type",
+      "value": "Active"
+    },
+    {
+      "config_name": "Trigger Effect Text",
+      "value": "Choose one character on your field and switch it to active. It gains 3000 BP until the end of the turn."
+    },
+    {
+      "config_name": "Affinity"
+    },
+    {
+      "config_name": "Notes"
+    }
+  ],
+  "card_name": "Kaoru Kamiya",
+  "card_number": "RNK-1-070",
+  "card_set": "Starter Deck Rurouni Kenshin [UE11ST]",
+  "card_text": "[When Played] #If on the Energy Line# You may place one card from your hand into your sideline. If you do, switch this character to active.<br>[Activate: Main] #Switch to Resting# Choose one other character on your field. It gains 1000 BP until the end of the turn.",
+  "id": 98461,
+  "image_url": "https://files.bandai-tcg-plus.com/card_image/UA-EN/ST11/batch_UE11ST_RNK-1-070_R.png",
+  "is_division_text": false,
+  "is_favorite": false,
+  "regulations": [
+    {
+      "id": 102,
+      "title": "Basic Battle Rule"
+    },
+    {
+      "id": 160,
+      "title": "One Battle Rule Rurouni Kenshin"
+    }
+  ]
+}

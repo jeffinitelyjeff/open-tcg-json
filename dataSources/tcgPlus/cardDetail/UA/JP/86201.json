@@ -1,0 +1,122 @@
+{
+  "backcard_card_config": [
+    {
+      "config_name": "参戦タイトル"
+    },
+    {
+      "config_name": "カード種類"
+    },
+    {
+      "config_name": "カードの色"
+    },
+    {
+      "config_name": "必要エナジー数"
+    },
+    {
+      "config_name": "発生エナジー数"
+    },
+    {
+      "config_name": "消費AP"
+    },
+    {
+      "config_name": "BP"
+    },
+    {
+      "config_name": "レアリティ"
+    },
+    {
+      "config_name": "よみがな"
+    },
+    {
+      "config_name": "トリガー効果種類"
+    },
+    {
+      "config_name": "トリガー効果内容"
+    },
+    {
+      "config_name": "特徴"
+    },
+    {
+      "config_name": "備考"
+    }
+  ],
+  "backcard_is_favorite": false,
+  "card_config": [
+    {
+      "config_name": "参戦タイトル",
+      "value": "ワンパンマン"
+    },
+    {
+      "config_name": "カード種類",
+      "value": "キャラクター"
+    },
+    {
+      "config_name": "カードの色",
+      "value": "赤"
+    },
+    {
+      "config_name": "必要エナジー数",
+      "value": "4"
+    },
+    {
+      "config_name": "発生エナジー数",
+      "value": "1"
+    },
+    {
+      "config_name": "消費AP",
+      "value": "1"
+    },
+    {
+      "config_name": "BP",
+      "value": "4000"
+    },
+    {
+      "config_name": "レアリティ",
+      "value": "R"
+    },
+    {
+      "config_name": "よみがな",
+      "value": "がろう"
+    },
+    {
+      "config_name": "トリガー効果種類",
+      "value": "アクティブ"
+    },
+    {
+      "config_name": "トリガー効果内容",
+      "value": "自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+    },
+    {
+      "config_name": "特徴"
+    },
+    {
+      "config_name": "備考"
+    }
+  ],
+  "card_name": "ガロウ",
+  "card_number": "OPM-1-113",
+  "card_set": "ワンパンマン  スタートデッキ【UA35ST】",
+  "card_text": "自分の場外にあるカードの枚数により、このキャラは以下の効果を全て得る。<br>・5枚以上：【アタック時】自分の山札の上から1枚見る。そのカードを自分の山札の上か場外に置く。<br>・10枚以上：【インパクト無効】（このキャラとバトルをしたキャラはこのバトル中、【インパクト】を失う）<br>・15枚以上：【ダメージ（2）】（このキャラがアタックで直接ダメージを与える時、代わりに2ダメージ）",
+  "id": 86201,
+  "image_url": "https://files.bandai-tcg-plus.com/card_image/UA-JA/ST35/OPM-1-113_R.png",
+  "is_division_text": false,
+  "is_favorite": false,
+  "regulations": [
+    {
+      "id": 15,
+      "title": "Basic Battle Rule"
+    },
+    {
+      "id": 175,
+      "title": "Basic Battle Rule for Asia"
+    },
+    {
+      "id": 156,
+      "title": "ONE Battle Rule ワンパンマン"
+    },
+    {
+      "id": 182,
+      "title": "わがままルール"
+    }
+  ]
+}
