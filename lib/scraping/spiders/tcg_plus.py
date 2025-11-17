@@ -6,7 +6,7 @@ import scrapy
 
 from lib.games import Game
 from lib.langs import Lang
-import util
+from ... import util
 
 # game_title_id => (game_title, language)
 TCG_PLUS_GAME_TITLE_ID_MAPPING = {
