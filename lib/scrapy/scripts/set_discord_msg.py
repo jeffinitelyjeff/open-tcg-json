@@ -44,30 +44,34 @@ def make_success_msg() -> str:
     with open(scrapy_util.DISCORD_STATS_PATH, "r") as f:
       discord_stats = f.read()
   except FileNotFoundError:
-    discord_stats = "No stats found."
+    discord_stats = ""
 
-  git_cmd1 = ['git', 'diff', '--shortstat']
-  diff_summary = subprocess.run(git_cmd1, capture_output=True, text=True).stdout
+  blocks = []
+  if discord_stats:
+    blocks.append(discord_stats)
 
   git_cmd2 = ['git', 'diff', '--stat']
   diff_stats = subprocess.run(git_cmd2, capture_output=True, text=True).stdout
-
-  msg = f"⚙️  Poll run #{RUN_MD_LINK} finished\n"
-  msg += "```\n" + discord_stats
-
-  if diff_summary:
-    parts = diff_summary.split(', ')
-    summary_str = '\n'.join('  ' + p.strip() for p in parts)
-    msg += "[Diff Summary]\n" + summary_str + "```\n"
-
   if diff_stats:
-    msg += "```\n" + diff_stats
+    blocks.append(diff_stats)
 
-  if len(msg) > 1997:
-    msg = msg[:1993] + '...\n'
-  msg += "```\n"
+  title = f"⚙️  Poll run #{RUN_MD_LINK} finished\n"
+
+  msg = make_msg(title, blocks)
+
+  msg_cutoff = 1997
+
+  if len(msg) > msg_cutoff:
+    extra_len = len(msg) - msg_cutoff
+    # trim the start of the diff (summary stats are at the end)
+    blocks[1] = blocks[1][extra_len:]
+    msg = make_msg(title, blocks)
 
   return msg
+
+
+def make_msg(title, blocks):
+  return '\n'.join([title, *[f"```\n{b}\n```" for b in blocks]])
 
 
 if __name__ == '__main__':
