@@ -5,6 +5,8 @@ import shutil
 
 from itemadapter import ItemAdapter
 
+from .. import util
+
 
 class OTCGJPipeline:
 
@@ -30,9 +32,14 @@ class OTCGJPipeline:
       return item
 
     write_path = item.pop('write_path', None)
+    poll_id = item.pop('poll_id', None)
+
     logging.debug("processing item for %s: %s", spider.name, write_path)
     if write_path:
       self.handle_write_path(spider, write_path, item)
+
+    if poll_id:
+      util.update_poll_timestamp(poll_id)
 
     return item
 

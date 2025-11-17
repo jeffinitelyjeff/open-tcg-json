@@ -4,12 +4,12 @@ import pathlib
 
 import scrapy
 
-from lib.games import Game
-from lib.langs import Lang
+from ...games import Game
+from ...langs import Lang
 from ... import util
 
 # game_title_id => (game_title, language)
-TCG_PLUS_GAME_TITLE_ID_MAPPING = {
+GAME_ID_MAPPING = {
     1: (Game.DBS_MASTERS, Lang.EN),
     2: (Game.DIGIMON, Lang.EN),
     3: (Game.DBS_MASTERS, Lang.FR),
@@ -34,35 +34,37 @@ CARD_LIST_URL = 'https://api.bandai-tcg-plus.com/api/user/card/list?game_title_i
 LIMIT = 120
 
 
-class TCGPlusSpider(scrapy.Spider):
+class TCGPlusCardListSpider(scrapy.Spider):
   """
-  Note: For now, this only scans the `card/list` API to get an internal TCG+ ID
-  for each card. The `card/list` endpoint only returns minimal metadata about
-  each card, so the `card/[id]` endpoint will need to be used if we want to
-  fetch the full TCG+ metadata for each card in the future.
-
   When does this data change? => only when a new set releases
   """
 
   # scrapy properties
-  name = "TCG Plus Spider"
+  name = "TCG+ Card List Spider"
 
   # custom properties
-  output_dir = util.ROOT_DIR / 'dataSources' / 'tcgPlus'
+  output_dir = util.ROOT_DIR / 'dataSources' / 'tcgPlus' / 'cardList'
   clear_output_dir = True
+  poll_threshold = 24 * 60 * 60  # 24 hours
 
   async def start(self):
-    for game_id in TCG_PLUS_GAME_TITLE_ID_MAPPING:
-      yield self.card_list_request(game_id, 0)
+    for game_id in GAME_ID_MAPPING:
+      request = self.card_list_request(game_id)
+      if util.check_poll_threshold(request.meta['poll_id'],
+                                   self.poll_threshold):
+        yield request
 
-  def card_list_request(self, game_id, offset, results=None):
+  def card_list_request(self, game_id, offset=0, results=None):
     url = CARD_LIST_URL.format(game_id=game_id, limit=LIMIT, offset=offset)
+    game, lang = GAME_ID_MAPPING[game_id]
+    poll_id = f'tcg_plus.card_list.{game.abbr()}.{lang.abbr()}'
     return scrapy.Request(url,
                           callback=self.parse_card_list,
                           meta={
                               'game_id': game_id,
                               'offset': offset,
                               'results': results or {},
+                              'poll_id': poll_id,
                           })
 
   def parse_card_list(self, response):
@@ -75,7 +77,7 @@ class TCGPlusSpider(scrapy.Spider):
     offset = response.meta['offset']
     results = response.meta['results']
 
-    game, lang = TCG_PLUS_GAME_TITLE_ID_MAPPING[game_id]
+    game, lang = GAME_ID_MAPPING[game_id]
 
     cards = data.get('cards', [])
     if not cards:
@@ -116,6 +118,23 @@ class TCGPlusSpider(scrapy.Spider):
       logging.info("finished fetching %s cards for %s %s", len(results), lang,
                    game)
       yield {
-          'write_path': [game.abbr(), lang.abbr(), 'cardList.json'],
+          'write_path': [game.abbr(), f"{lang.abbr()}.json"],
+          'poll_id': response.meta['poll_id'],
           **results,
       }
+
+
+class TCGPlusCardDetailSpider(scrapy.Spider):
+  """
+  When does this data change? => in theory, only when a new set releases. 
+                                 in practice, maybe at any point?
+  """
+
+  # scrapy properties
+  name = "TCG+ Card Detail Spider"
+
+  # custom properties
+  output_dir = util.ROOT_DIR / 'dataSources' / 'tcgPlus' / 'cardDetail'
+  clear_output_dir = False  # we eventually want per-game scheduling, so definitely don't clear the entire dir
+
+  # TODO: implement

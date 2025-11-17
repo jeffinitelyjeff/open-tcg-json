@@ -12,10 +12,10 @@ from scrapy.crawler import CrawlerProcess
 from scrapy.utils.project import get_project_settings, Settings
 
 from .. import util
-from .spiders.tcg_plus import TCGPlusSpider
+from .spiders.tcg_plus import TCGPlusCardListSpider
 
 SPIDERS = [
-    TCGPlusSpider,
+    TCGPlusCardListSpider,
 ]
 
 
