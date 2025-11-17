@@ -23,7 +23,7 @@ jobs:
       - name: get start timestamp
         run: echo "START_TS=$(date +'%s')" >> "$GITHUB_ENV"
       - name: set discord default messages
-        run: poetry run python -m lib.scrapy.scripts.set_discord_msg --defaults
+        run: python -m lib.scrapy.scripts.set_discord_msg --defaults
       - name: discord notification
         uses: tsickert/discord-webhook@v5.3.0
         with:
