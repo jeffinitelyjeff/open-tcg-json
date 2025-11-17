@@ -38,8 +38,6 @@ def main():
       f.write(f'DISCORD_MSG_FAIL={msg_fail}\n')
       f.write(f'DISCORD_MSG_CANCEL={msg_cancel}\n')
 
-  print(msg)
-
 
 def make_success_msg() -> str:
   try:
