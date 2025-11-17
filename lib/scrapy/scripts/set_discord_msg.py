@@ -50,8 +50,14 @@ def make_success_msg() -> str:
   if discord_stats:
     blocks.append(discord_stats)
 
-  git_cmd2 = ['git', 'diff', '--stat']
-  diff_stats = subprocess.run(git_cmd2, capture_output=True, text=True).stdout
+  # FIXME
+  cwd = os.getcwd()
+  print("cwd: ", cwd)
+  cwd_otuput = subprocess.run(['cwd'], capture_output=True, text=True).stdout
+  print("subprocess cwd: ", cwd_otuput)
+
+  git_cmd = ['git', 'diff', '--stat']
+  diff_stats = subprocess.run(git_cmd, capture_output=True, text=True).stdout
   if diff_stats:
     blocks.append(diff_stats)
 
@@ -64,7 +70,7 @@ def make_success_msg() -> str:
   if len(msg) > msg_cutoff:
     extra_len = len(msg) - msg_cutoff
     # trim the start of the diff (summary stats are at the end)
-    blocks[1] = blocks[1][extra_len:]
+    blocks[-1] = blocks[-1][extra_len:]
     msg = make_msg(title, blocks)
 
   return msg
