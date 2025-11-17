@@ -12,7 +12,7 @@ REPO_NAME = os.getenv('GITHUB_REPOSITORY')
 RUN_ID = os.getenv('GITHUB_RUN_ID')
 
 RUN_URL = f"{SERVER_URL}/{REPO_NAME}/actions/runs/{RUN_ID}"
-RUN_MD_LINK = f"[{RUN_NUMBER}](<{RUN_URL}>)"
+RUN_MD_LINK = f"[Poll run #{RUN_NUMBER}](<{RUN_URL}>)"
 
 START_TS = os.getenv('START_TS')
 
@@ -30,9 +30,9 @@ def main():
     with open(GITHUB_ENV_FILE, 'a') as f:
       f.write(f'DISCORD_MSG_SUCCESS<<EOF\n{msg}\nEOF\n')
   else:
-    msg_start = f"⚙️  Poll run #{RUN_MD_LINK} started (<t:{START_TS}:R>)"
-    msg_fail = f"⚠️  Poll run #{RUN_MD_LINK} failed"
-    msg_cancel = f"❌  Poll run #{RUN_MD_LINK} cancelled"
+    msg_start = f"⚙️  {RUN_MD_LINK} started (<t:{START_TS}:R>)"
+    msg_fail = f"⚠️  {RUN_MD_LINK} failed"
+    msg_cancel = f"❌  {RUN_MD_LINK} cancelled"
     with open(GITHUB_ENV_FILE, 'a') as f:
       f.write(f'DISCORD_MSG_START={msg_start}\n')
       f.write(f'DISCORD_MSG_FAIL={msg_fail}\n')
@@ -58,10 +58,11 @@ def make_success_msg() -> str:
 
   git_cmd = ['git', 'diff', '--stat']
   diff_stats = subprocess.run(git_cmd, capture_output=True, text=True).stdout
+  print("git diff --stat output:\n", diff_stats)
   if diff_stats:
     blocks.append(diff_stats)
 
-  title = f"⚙️  Poll run #{RUN_MD_LINK} finished\n"
+  title = f"⚙️  {RUN_MD_LINK} finished\n"
 
   msg = make_msg(title, blocks)
 
