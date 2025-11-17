@@ -10,7 +10,7 @@ import re
 import shutil
 
 RUN_TS = datetime.datetime.now(datetime.timezone.utc)
-ROOT_DIR = pathlib.Path(__file__).parent.parent
+ROOT_DIR = pathlib.Path(__file__).parent.parent.parent
 LOG_DIR = ROOT_DIR / 'logs'
 DISCORD_STATS_PATH = LOG_DIR / "discord_stats.txt"
 
