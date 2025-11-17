@@ -1,0 +1,77 @@
+name: Scrape Data
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    # every hour
+    - cron: "0 * * * *"
+jobs:
+  scrape-all:
+    timeout-minutes: 30
+    runs-on: ubuntu-latest
+    steps:
+      - name: check out repo
+        uses: actions/checkout@v3
+      - name: get start timestamp
+        id: start_timestamp
+        run: echo "::set-output name=date::$(date +'%s')"
+      - name: discord notification
+        uses: tsickert/discord-webhook@v5.3.0
+        with:
+          webhook-url: ${{ secrets.DISCORD_SCRAPE_NOTIFICATION_URL }}
+          content: "⚙️  Scraping run [#${{ github.run_number }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}) started (<t:${{ steps.start_timestamp.outputs.date }}:R>)"
+      - name: update apt
+        run: sudo apt-get update
+      - name: install imagemagick
+        run: sudo apt-get install libmagickwand-dev
+      - name: install poetry
+        run: pipx install poetry
+      - name: set up python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+          cache: "poetry"
+      - name: display python version
+        run: python -c "import sys; print(sys.version)"
+      - name: install python dependencies
+        run: poetry install --no-interaction --no-ansi
+      - name: mkdir logs
+        run: mkdir logs
+      - name: run scraper
+        run: poetry run python -m lib.scraping.run_scrapy
+      - name: commit and push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "🤖 automated scraping"
+          commit_author: "jeffinitelyjeff"
+      - name: archive logs
+        uses: actions/upload-artifact@v4
+        with:
+          path: logs
+      - name: read file
+        run: |
+          {
+            echo 'DISCORD_MSG<<EOF'
+            cat logs/discord_msg.txt
+            echo EOF
+          } >> "$GITHUB_ENV"
+      - name: discord success notification
+        if: ${{ success() }}
+        uses: tsickert/discord-webhook@v5.3.0
+        with:
+          webhook-url: ${{ secrets.DISCORD_SCRAPE_NOTIFICATION_URL }}
+          content: ${{ env.DISCORD_MSG }}
+      - name: discord failure notification
+        if: ${{ failure() }}
+        uses: tsickert/discord-webhook@v5.3.0
+        with:
+          webhook-url: ${{ secrets.DISCORD_SCRAPE_NOTIFICATION_URL }}
+          content: "😢  Scraping run [#${{ github.run_number }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}) failed"
+      - name: discord cancel notification
+        if: ${{ cancelled() }}
+        uses: tsickert/discord-webhook@v5.3.0
+        with:
+          webhook-url: ${{ secrets.DISCORD_SCRAPE_NOTIFICATION_URL }}
+          content: "❌  Scraping run [#${{ github.run_number }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}) cancelled"

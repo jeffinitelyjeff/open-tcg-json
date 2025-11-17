@@ -21,6 +21,26 @@ class OTCGJPipeline:
   def close_spider(self, spider):
     logging.info("closing spider %s", spider.name)
 
+  # def close_spider(self, spider):
+  #   for f in self.files.values():
+  #     f.close()
+
+  #   try:
+  #     summary_path = os.environ["GITHUB_STEP_SUMMARY"]
+  #   except KeyError:
+  #     logging.warning("no $GITHUB_STEP_SUMMARY env variable")
+  #     summary_path = None
+
+  #   spider_stats = spider.crawler.stats.get_stats()
+
+  #   if summary_path:
+  #     header = f"#### {spider.name} stats:\n\n```\n"
+  #     with open(summary_path, "a") as f:
+  #       f.write(header + pprint.pformat(spider_stats) + "\n```\n\n")
+
+  #   stats.print_github_annotations(spider_stats, spider.name)
+  #   stats.write_discord_lines(spider_stats, spider.name)
+
   def process_item(self, item, spider):
     logging.debug("processing item for spider %s", spider.name)
 
