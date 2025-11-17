@@ -1,8 +1,6 @@
 import json
 import logging
 import os
-import pathlib
-import pprint
 import shutil
 
 from itemadapter import ItemAdapter
@@ -11,12 +9,19 @@ from itemadapter import ItemAdapter
 class OTCGJPipeline:
 
   def open_spider(self, spider):
+    logging.info("opening spider %s", spider.name)
+
     if getattr(spider, 'clear_output_dir', False):
       if spider.output_dir.exists():
         logging.info("Clearing output directory %s", spider.output_dir)
         shutil.rmtree(spider.output_dir)
 
+  def close_spider(self, spider):
+    logging.info("closing spider %s", spider.name)
+
   def process_item(self, item, spider):
+    logging.info("processing item for spider %s", spider.name)
+
     if not item:
       return item
 
@@ -25,6 +30,7 @@ class OTCGJPipeline:
       return item
 
     write_path = item.pop('write_path', None)
+    logging.info("Processing item for %s: %s", spider.name, write_path)
     if write_path:
       self.handle_write_path(spider, write_path, item)
 
@@ -39,4 +45,6 @@ class OTCGJPipeline:
 
     os.makedirs(full_path.parent, exist_ok=True)
     with open(full_path, 'w', encoding='utf-8') as f:
+      # line = json.dumps(ItemAdapter(item).asdict(), ensure_ascii=False)
+      # json.dump(ItemAdapter(data).asdict(), f, ensure_ascii=False, indent=2)
       json.dump(data, f, ensure_ascii=False, indent=2)

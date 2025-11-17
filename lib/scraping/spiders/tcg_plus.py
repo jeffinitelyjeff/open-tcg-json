@@ -51,7 +51,7 @@ class TCGPlusSpider(scrapy.Spider):
   output_dir = util.ROOT_DIR / 'dataSources' / 'tcgPlus'
   clear_output_dir = True
 
-  def start_requests(self):
+  async def start(self):
     for game_id in TCG_PLUS_GAME_TITLE_ID_MAPPING:
       yield self.card_list_request(game_id, 0)
 
@@ -82,7 +82,7 @@ class TCGPlusSpider(scrapy.Spider):
       logging.error(msg)
       return None
 
-    logging.debug("found %s cards for %s %s", len(cards), lang, game)
+    logging.info("found %s cards for %s %s", len(cards), lang, game)
 
     for card in cards:
       card_id = card.get('id')
