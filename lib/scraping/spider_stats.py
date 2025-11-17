@@ -1,8 +1,6 @@
 import enum
 
-from .. import util
-
-DISCORD_PATH = util.LOG_DIR / "discord_stats.txt"
+from . import scrapy_util
 
 
 class Notice(enum.Enum):
@@ -17,9 +15,6 @@ class Error(enum.Enum):
   @classmethod
   def all_keys(cls):
     return [e.name for e in cls]
-
-
-# TODO: move this into a spider base class
 
 
 def truthy_print(val):
@@ -37,6 +32,7 @@ def github_annotation(notice_level: str, spider_name: str, stats: dict,
   return f"::{notice_level} title={spider_name}::{msg}"
 
 
+# FIXME: move to a spider base class
 def print_github_annotations(stats, spider_name):
   for key in Notice.all_keys():
     truthy_print(github_annotation('notice', spider_name, stats, key))
@@ -45,6 +41,7 @@ def print_github_annotations(stats, spider_name):
     truthy_print(github_annotation('error', spider_name, stats, key))
 
 
+# FIXME: move to a spider base class
 def write_discord_lines(stats, spider_name):
   lines = []
 
@@ -55,14 +52,14 @@ def write_discord_lines(stats, spider_name):
   if not lines:
     return
 
-  with open(DISCORD_PATH, "a") as f:
+  with open(scrapy_util.DISCORD_STATS_PATH, "a") as f:
     text = f"[{spider_name}]\n" + "\n".join(lines) + "\n"
     f.write(text)
 
 
 def get_discord_stats():
   try:
-    with open(DISCORD_PATH, "r") as f:
+    with open(scrapy_util.DISCORD_STATS_PATH, "r") as f:
       return f.read()
   except FileNotFoundError:
     return ""

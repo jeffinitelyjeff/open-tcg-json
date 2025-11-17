@@ -1,12 +1,15 @@
 name: Scrape Data
+env:
+  START_TS: ""
+  DISCORD_MSG: ""
 on:
   workflow_dispatch:
   push:
     branches:
       - main
-  schedule:
-    # every hour
-    # - cron: "0 * * * *"
+  # schedule:
+  #   # every day at midnight
+  #   - cron: "0 0 * * *"
 jobs:
   scrape-all:
     timeout-minutes: 30
@@ -15,13 +18,12 @@ jobs:
       - name: check out repo
         uses: actions/checkout@v3
       - name: get start timestamp
-        id: start_timestamp
-        run: echo "::set-output name=date::$(date +'%s')"
+        run: echo "START_TS=$(date +'%s')" >> "$GITHUB_ENV"
       - name: discord notification
         uses: tsickert/discord-webhook@v5.3.0
         with:
           webhook-url: ${{ secrets.DISCORD_SCRAPE_NOTIFICATION_URL }}
-          content: "⚙️  Scraping run [#${{ github.run_number }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}) started (<t:${{ steps.start_timestamp.outputs.date }}:R>)"
+          content: "⚙️  Scraping run [#${{ github.run_number }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}) started (<t:${{ env.START_TS }}:R>)"
       - name: update apt
         run: sudo apt-get update
       - name: install imagemagick
@@ -40,7 +42,9 @@ jobs:
       - name: mkdir logs
         run: mkdir logs
       - name: run scraper
-        run: poetry run python -m lib.scraping.run_scrapy
+        run: poetry run python -m lib.scraping.scripts.run_scrapy
+      - name: set discord msg
+        run: poetry run python -m lib.scraping.scripts.set_discord_msg
       - name: commit and push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
@@ -50,13 +54,6 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           path: logs
-      - name: read file
-        run: |
-          {
-            echo 'DISCORD_MSG<<EOF'
-            cat logs/discord_msg.txt
-            echo EOF
-          } >> "$GITHUB_ENV"
       - name: discord success notification
         if: ${{ success() }}
         uses: tsickert/discord-webhook@v5.3.0

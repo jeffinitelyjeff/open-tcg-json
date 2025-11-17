@@ -6,7 +6,7 @@ import scrapy
 
 from ...games import Game
 from ...langs import Lang
-from ... import util
+from .. import scrapy_util
 
 # game_title_id => (game_title, language)
 GAME_ID_MAPPING = {
@@ -43,29 +43,22 @@ class TCGPlusCardListSpider(scrapy.Spider):
   name = "TCG+ Card List Spider"
 
   # custom properties
-  output_dir = util.ROOT_DIR / 'dataSources' / 'tcgPlus' / 'cardList'
+  output_dir = scrapy_util.ROOT_DIR / 'dataSources' / 'tcgPlus' / 'cardList'
   clear_output_dir = True
   poll_threshold = 24 * 60 * 60  # 24 hours
 
   async def start(self):
     for game_id in GAME_ID_MAPPING:
-      request = self.card_list_request(game_id)
-      if util.check_poll_threshold(request.meta['poll_id'],
-                                   self.poll_threshold):
-        yield request
+      yield self.card_list_request(game_id)
 
   def card_list_request(self, game_id, offset=0, results=None):
     url = CARD_LIST_URL.format(game_id=game_id, limit=LIMIT, offset=offset)
-    game, lang = GAME_ID_MAPPING[game_id]
-    poll_id = f'tcg_plus.card_list.{game.abbr()}.{lang.abbr()}'
-    return scrapy.Request(url,
-                          callback=self.parse_card_list,
-                          meta={
-                              'game_id': game_id,
-                              'offset': offset,
-                              'results': results or {},
-                              'poll_id': poll_id,
-                          })
+    meta = {
+        'game_id': game_id,
+        'offset': offset,
+        'results': results or {},
+    }
+    return scrapy.Request(url, callback=self.parse_card_list, meta=meta)
 
   def parse_card_list(self, response):
     data = response.json().get('success', {})
@@ -118,7 +111,7 @@ class TCGPlusCardListSpider(scrapy.Spider):
       logging.info("finished fetching %s cards for %s %s", len(results), lang,
                    game)
       yield {
-          'write_path': [game.abbr(), f"{lang.abbr()}.json"],
+          'write_subpath': [game.abbr(), f"{lang.abbr()}.json"],
           'poll_id': response.meta['poll_id'],
           **results,
       }
@@ -134,7 +127,7 @@ class TCGPlusCardDetailSpider(scrapy.Spider):
   name = "TCG+ Card Detail Spider"
 
   # custom properties
-  output_dir = util.ROOT_DIR / 'dataSources' / 'tcgPlus' / 'cardDetail'
+  output_dir = scrapy_util.ROOT_DIR / 'dataSources' / 'tcgPlus' / 'cardDetail'
   clear_output_dir = False  # we eventually want per-game scheduling, so definitely don't clear the entire dir
 
   # TODO: implement

@@ -5,10 +5,12 @@ import shutil
 
 from itemadapter import ItemAdapter
 
-from .. import util
+from . import scrapy_util
 
 
 class OTCGJPipeline:
+
+  # FIXME: move this stuff to spider subclass methods?
 
   def open_spider(self, spider):
     logging.info("opening spider %s", spider.name)
@@ -52,22 +54,21 @@ class OTCGJPipeline:
       return item
 
     write_path = item.pop('write_path', None)
-    poll_id = item.pop('poll_id', None)
+    write_subpath = item.pop('write_subpath', None)
 
-    logging.debug("processing item for %s: %s", spider.name, write_path)
-    if write_path:
-      self.handle_write_path(spider, write_path, item)
-
-    if poll_id:
-      util.update_poll_timestamp(poll_id)
-
+    if write_path or write_subpath:
+      self.handle_write_subpath(spider, write_subpath, write_path, item)
     return item
 
-  def handle_write_path(self, spider, write_path: list[str], data: dict):
-    spider_output_path = spider.output_dir
-    assert spider_output_path is not None, "spider.output_dir must be set"
+  def handle_write_subpath(self, spider, write_subpath: list[str] | None,
+                           write_path: str | None, data: dict):
+    if write_path:
+      full_path = write_path
+    else:
+      spider_output_path = spider.output_dir
+      assert spider_output_path is not None, "spider.output_dir must be set"
+      full_path = spider_output_path.joinpath(*write_subpath)
 
-    full_path = spider_output_path.joinpath(*write_path)
     logging.debug("writing data to %s", full_path)
 
     os.makedirs(full_path.parent, exist_ok=True)
