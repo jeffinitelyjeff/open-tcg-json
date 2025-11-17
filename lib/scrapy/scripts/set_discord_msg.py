@@ -60,7 +60,7 @@ def make_success_msg(commit_hash: str | None) -> str:
     if diff_stats:
       blocks.append(diff_stats)
 
-  title = f"⚙️  {RUN_MD_LINK} finished\n"
+  title = f"⚙️  {RUN_MD_LINK} finished"
 
   msg = make_msg(title, blocks)
 
