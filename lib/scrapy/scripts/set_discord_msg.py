@@ -55,6 +55,8 @@ def make_success_msg() -> str:
   print("cwd: ", cwd)
   cwd_otuput = subprocess.run(['pwd'], capture_output=True, text=True).stdout
   print("subprocess cwd: ", cwd_otuput)
+  print("ls output: ",
+        subprocess.run(['ls', '-la'], capture_output=True, text=True).stdout)
 
   git_cmd = ['git', 'diff', '--stat']
   diff_stats = subprocess.run(git_cmd, capture_output=True, text=True).stdout
