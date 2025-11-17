@@ -15,8 +15,7 @@ from .. import scrapy_util
 from ..spiders import tcg_plus
 
 SPIDERS = [
-    tcg_plus.TCGPlusCardListSpider,
-    # tcg_plus.TCGPlusCardDetailSpider,
+    tcg_plus.TCGPlusSpider,
 ]
 
 

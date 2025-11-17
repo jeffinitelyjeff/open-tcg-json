@@ -29,12 +29,13 @@ GAME_ID_MAPPING = {
 }
 
 CARD_LIST_URL = 'https://api.bandai-tcg-plus.com/api/user/card/list?game_title_id={game_id}&limit={limit}&offset={offset}'
+CARD_DETAIL_URL = 'https://api.bandai-tcg-plus.com/api/user/card/{card_id}'
 
 # supported values: 30, 60, 90, 120
 LIMIT = 120
 
 
-class TCGPlusCardListSpider(scrapy.Spider):
+class TCGPlusSpider(scrapy.Spider):
   """
   When does this data change? => only when a new set releases
   """
@@ -43,21 +44,28 @@ class TCGPlusCardListSpider(scrapy.Spider):
   name = "TCG+ Card List Spider"
 
   # custom properties
-  output_dir = scrapy_util.ROOT_DIR / 'dataSources' / 'tcgPlus' / 'cardList'
+  output_dir = scrapy_util.ROOT_DIR / 'dataSources' / 'tcgPlus'
   clear_output_dir = True
 
   async def start(self):
     for game_id in GAME_ID_MAPPING:
       yield self.card_list_request(game_id)
 
-  def card_list_request(self, game_id, offset=0, results=None):
+  def card_list_request(self, game_id, offset=0, prior_results=None):
     url = CARD_LIST_URL.format(game_id=game_id, limit=LIMIT, offset=offset)
     meta = {
         'game_id': game_id,
         'offset': offset,
-        'results': results or {},
+        'results': prior_results or {},
     }
     return scrapy.Request(url, callback=self.parse_card_list, meta=meta)
+
+  def card_detail_request(self, card_id, game_id):
+    url = CARD_DETAIL_URL.format(card_id=card_id)
+    meta = {
+        'game_id': game_id,
+    }
+    return scrapy.Request(url, callback=self.parse_card_detail, meta=meta)
 
   def parse_card_list(self, response):
     data = response.json().get('success', {})
@@ -75,6 +83,7 @@ class TCGPlusCardListSpider(scrapy.Spider):
     cards = data.get('cards', [])
     if not cards:
       msg = f"no cards found for {game_key}"
+      # FIXME: move to stats
       print(f"::error title=TCG+ Poll Error::{msg}")
       logging.error(msg)
       return None
@@ -82,6 +91,7 @@ class TCGPlusCardListSpider(scrapy.Spider):
     total_count = int(data.get('total', 0))
     if not total_count:
       msg = f"no total count found for {game_key}"
+      # FIXME: move to stats
       print(f"::error title=TCG+ Poll Error::{msg}")
       logging.error(msg)
       return None
@@ -93,11 +103,13 @@ class TCGPlusCardListSpider(scrapy.Spider):
 
       if not card_id:
         msg = f"card with no TCG+ ID found for {game_key}: {card}"
+        # FIXME: move to stats
         print(f"::error title=TCG+ Poll Error::{msg}")
         logging.error(msg)
         continue
 
       results[card_id] = card
+      yield self.card_detail_request(card_id, game_id)
 
     new_offset = offset + LIMIT
     if new_offset < total_count:
@@ -109,22 +121,41 @@ class TCGPlusCardListSpider(scrapy.Spider):
     else:
       logging.info("finished fetching %s cards for %s", len(results), game_key)
       yield {
-          'write_subpath': [game.abbr(), f"{lang.abbr()}.json"],
+          'write_subpath': ['cardList',
+                            game.abbr(), f"{lang.abbr()}.json"],
           **results,
       }
 
+  def parse_card_detail(self, response):
+    game_id = response.meta['game_id']
+    game, lang = GAME_ID_MAPPING[game_id]
 
-class TCGPlusCardDetailSpider(scrapy.Spider):
-  """
-  When does this data change? => in theory, only when a new set releases. 
-                                 in practice, maybe at any point?
-  """
+    data = response.json().get('success', {})
+    json_response_code = data.get('code')
+    logging.debug('GET %s (%s) | %s', response.status, json_response_code,
+                  response.url)
 
-  # scrapy properties
-  name = "TCG+ Card Detail Spider"
+    card_data = data.get('card', {})
+    if not card_data:
+      msg = f"no card data found for URL: {response.url}"
+      # FIXME: move to stats
+      print(f"::error title=TCG+ Poll Error::{msg}")
+      logging.error(msg)
+      return None
 
-  # custom properties
-  output_dir = scrapy_util.ROOT_DIR / 'dataSources' / 'tcgPlus' / 'cardDetail'
-  clear_output_dir = False  # we eventually want per-game scheduling, so definitely don't clear the entire dir
+    card_id = card_data.get('id')
+    if not card_id:
+      msg = f"TCG+ ID not in output for URL: {response.url}"
+      # FIXME: move to stats
+      print(f"::error title=TCG+ Poll Error::{msg}")
+      logging.error(msg)
+      return None
 
-  # TODO: implement
+    yield {
+        'write_subpath': [
+            'cardDetail',
+            game.abbr(),
+            lang.abbr(), f"{card_id}.json"
+        ],
+        **card_data,
+    }
