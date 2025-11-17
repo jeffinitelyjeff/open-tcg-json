@@ -26,8 +26,6 @@ jobs:
           content: "⚙️  Scraping run [#${{ github.run_number }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}) started (<t:${{ env.START_TS }}:R>)"
       - name: update apt
         run: sudo apt-get update
-      - name: install imagemagick
-        run: sudo apt-get install libmagickwand-dev
       - name: install poetry
         run: pipx install poetry
       - name: set up python
