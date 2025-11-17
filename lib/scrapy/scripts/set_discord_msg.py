@@ -1,10 +1,47 @@
+import argparse
 import os
 import subprocess
 
 from .. import scrapy_util
 
+GITHUB_ENV_FILE = os.getenv('GITHUB_ENV')
+
+RUN_NUMBER = os.getenv('GITHUB_RUN_NUMBER')
+SERVER_URL = os.getenv('GITHUB_SERVER_URL')
+REPO_NAME = os.getenv('GITHUB_REPOSITORY')
+RUN_ID = os.getenv('GITHUB_RUN_ID')
+
+RUN_URL = f"{SERVER_URL}/{REPO_NAME}/actions/runs/{RUN_ID}"
+RUN_MD_LINK = f"[{RUN_NUMBER}]({RUN_URL})"
+
+START_TS = os.getenv('START_TS')
+
 
 def main():
+
+  parser = argparse.ArgumentParser()
+  group = parser.add_mutually_exclusive_group(required=True)
+  group.add_argument('--success', action='store_true')
+  group.add_argument('--defaults', action='store_true')
+  args = parser.parse_args()
+
+  if args.success:
+    msg = make_success_msg()
+    with open(GITHUB_ENV_FILE, 'a') as f:
+      f.write(f'DISCORD_MSG_SUCCESS<<EOF\n{msg}\nEOF\n')
+  else:
+    msg_start = f"⚙️  Poll run #{RUN_MD_LINK} started (<t:{START_TS}:R>)"
+    msg_fail = f"⚠️  Poll run #{RUN_MD_LINK} failed"
+    msg_cancel = f"❌  Poll run #{RUN_MD_LINK} cancelled"
+    with open(GITHUB_ENV_FILE, 'a') as f:
+      f.write(f'DISCORD_MSG_START={msg_start}\n')
+      f.write(f'DISCORD_MSG_FAIL={msg_fail}\n')
+      f.write(f'DISCORD_MSG_CANCEL={msg_cancel}\n')
+
+  print(msg)
+
+
+def make_success_msg() -> str:
   try:
     with open(scrapy_util.DISCORD_STATS_PATH, "r") as f:
       discord_stats = f.read()
@@ -17,14 +54,7 @@ def main():
   git_cmd2 = ['git', 'diff', '--stat']
   diff_stats = subprocess.run(git_cmd2, capture_output=True, text=True).stdout
 
-  run_number = os.getenv('GITHUB_RUN_NUMBER')
-  server_url = os.getenv('GITHUB_SERVER_URL')
-  repo_name = os.getenv('GITHUB_REPOSITORY')
-  run_id = os.getenv('GITHUB_RUN_ID')
-
-  run_url = f"{server_url}/{repo_name}/actions/runs/{run_id}"
-  link = f"[{run_number}]({run_url})"
-  msg = f"⚙️  Poll run #{link} finished\n"
+  msg = f"⚙️  Poll run #{RUN_MD_LINK} finished\n"
   msg += "```\n" + discord_stats
 
   if diff_summary:
@@ -39,9 +69,7 @@ def main():
     msg = msg[:1993] + '...\n'
   msg += "```\n"
 
-  github_env_file = os.getenv('GITHUB_ENV')
-  with open(github_env_file, 'a') as f:
-    f.write(f'DISCORD_MSG<<EOF\n{msg}\nEOF\n')
+  return msg
 
 
 if __name__ == '__main__':

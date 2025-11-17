@@ -45,7 +45,6 @@ class TCGPlusCardListSpider(scrapy.Spider):
   # custom properties
   output_dir = scrapy_util.ROOT_DIR / 'dataSources' / 'tcgPlus' / 'cardList'
   clear_output_dir = True
-  poll_threshold = 24 * 60 * 60  # 24 hours
 
   async def start(self):
     for game_id in GAME_ID_MAPPING:
@@ -71,33 +70,33 @@ class TCGPlusCardListSpider(scrapy.Spider):
     results = response.meta['results']
 
     game, lang = GAME_ID_MAPPING[game_id]
+    game_key = f"{game.abbr().lower()}_{lang.abbr().lower()}"
 
     cards = data.get('cards', [])
     if not cards:
-      msg = f"no cards found for {lang} {game}"
+      msg = f"no cards found for {game_key}"
       print(f"::error title=TCG+ Poll Error::{msg}")
       logging.error(msg)
       return None
 
     total_count = int(data.get('total', 0))
     if not total_count:
-      msg = f"no total count found for {lang} {game}"
+      msg = f"no total count found for {game_key}"
       print(f"::error title=TCG+ Poll Error::{msg}")
       logging.error(msg)
       return None
 
-    logging.debug("found %s cards for %s %s", len(cards), lang, game)
+    logging.debug("found %s cards for %s", len(cards), game_key)
 
     for card in cards:
       card_id = card.get('id')
 
       if not card_id:
-        msg = f"card with no TCG+ ID found for {lang} {game}: {card}"
+        msg = f"card with no TCG+ ID found for {game_key}: {card}"
         print(f"::error title=TCG+ Poll Error::{msg}")
         logging.error(msg)
         continue
 
-      # logging.info("saving card %s for %s %s", card_id, lang, game)  # FIXME
       results[card_id] = card
 
     new_offset = offset + LIMIT
@@ -108,8 +107,7 @@ class TCGPlusCardListSpider(scrapy.Spider):
           results,
       )
     else:
-      logging.info("finished fetching %s cards for %s %s", len(results), lang,
-                   game)
+      logging.info("finished fetching %s cards for %s", len(results), game_key)
       yield {
           'write_subpath': [game.abbr(), f"{lang.abbr()}.json"],
           **results,

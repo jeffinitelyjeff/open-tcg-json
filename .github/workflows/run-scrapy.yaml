@@ -1,7 +1,10 @@
 name: Poll Data
 env:
   START_TS: ""
-  DISCORD_MSG: ""
+  DISCORD_MSG_START: ""
+  DISCORD_MSG_SUCCESS: ""
+  DISCORD_MSG_FAIL: ""
+  DISCORD_MSG_CANCEL: ""
 on:
   workflow_dispatch:
   push:
@@ -19,11 +22,13 @@ jobs:
         uses: actions/checkout@v3
       - name: get start timestamp
         run: echo "START_TS=$(date +'%s')" >> "$GITHUB_ENV"
+      - name: set discord default messages
+        run: poetry run python -m lib.scrapy.scripts.set_discord_msg --defaults
       - name: discord notification
         uses: tsickert/discord-webhook@v5.3.0
         with:
           webhook-url: ${{ secrets.DISCORD_NOTIFICATION_URL }}
-          content: "⚙️  Poll run [#${{ github.run_number }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}) started (<t:${{ env.START_TS }}:R>)"
+          content: ${{ env.DISCORD_MSG_START }}
       - name: update apt
         run: sudo apt-get update
       - name: install poetry
@@ -40,7 +45,7 @@ jobs:
       - name: run scrapy
         run: poetry run python -m lib.scrapy.scripts.run_scrapy
       - name: set discord msg
-        run: poetry run python -m lib.scrapy.scripts.set_discord_msg
+        run: poetry run python -m lib.scrapy.scripts.set_discord_msg --success
       - name: archive logs
         uses: actions/upload-artifact@v4
         with:
@@ -54,16 +59,16 @@ jobs:
         uses: tsickert/discord-webhook@v5.3.0
         with:
           webhook-url: ${{ secrets.DISCORD_NOTIFICATION_URL }}
-          content: ${{ env.DISCORD_MSG }}
+          content: ${{ env.DISCORD_MSG_SUCCESS }}
       - name: discord failure notification
         if: ${{ failure() }}
         uses: tsickert/discord-webhook@v5.3.0
         with:
           webhook-url: ${{ secrets.DISCORD_NOTIFICATION_URL }}
-          content: "😢  Poll run [#${{ github.run_number }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}) failed"
+          content: ${{ env.DISCORD_MSG_FAIL }}
       - name: discord cancel notification
         if: ${{ cancelled() }}
         uses: tsickert/discord-webhook@v5.3.0
         with:
           webhook-url: ${{ secrets.DISCORD_NOTIFICATION_URL }}
-          content: "❌  Poll run [#${{ github.run_number }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}) cancelled"
+          content: ${{ env.DISCORD_MSG_CANCEL }}
