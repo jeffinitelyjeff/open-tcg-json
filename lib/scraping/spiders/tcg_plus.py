@@ -112,7 +112,6 @@ class TCGPlusCardListSpider(scrapy.Spider):
                    game)
       yield {
           'write_subpath': [game.abbr(), f"{lang.abbr()}.json"],
-          'poll_id': response.meta['poll_id'],
           **results,
       }
 
