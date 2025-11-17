@@ -9,7 +9,7 @@ import pathlib
 import re
 import shutil
 
-RUN_TS = datetime.datetime.now()
+RUN_TS = datetime.datetime.now(datetime.timezone.utc)
 ROOT_DIR = pathlib.Path(__file__).parent.parent
 LOG_DIR = ROOT_DIR / 'logs'
 POLL_PATH = ROOT_DIR / 'last_polls.json'
@@ -44,6 +44,8 @@ def check_poll_threshold(poll_id: str, threshold_seconds: int) -> bool:
     return True
 
   last_poll_dt = datetime.datetime.fromisoformat(last_poll_ts)
+  if last_poll_dt.tzinfo is None:
+    last_poll_dt = last_poll_dt.replace(tzinfo=datetime.timezone.utc)
   elapsed = (RUN_TS - last_poll_dt).total_seconds()
   if elapsed >= threshold_seconds:
     logging.debug(
@@ -68,7 +70,7 @@ def update_poll_timestamp(poll_id: str):
     with open(POLL_PATH, 'r', encoding='utf-8') as f:
       last_polls = json.load(f)
 
-  last_polls[poll_id] = RUN_TS.isoformat()
+  last_polls[poll_id] = RUN_TS.astimezone(datetime.timezone.utc).isoformat()
 
   with open(POLL_PATH, 'w', encoding='utf-8') as f:
     json.dump(last_polls, f, ensure_ascii=False, indent=2, sort_keys=True)
