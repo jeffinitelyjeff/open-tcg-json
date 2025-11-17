@@ -23,10 +23,11 @@ def main():
   group = parser.add_mutually_exclusive_group(required=True)
   group.add_argument('--success', action='store_true')
   group.add_argument('--defaults', action='store_true')
+  parser.add_argument('--commit-hash', type=str, default=None)
   args = parser.parse_args()
 
   if args.success:
-    msg = make_success_msg()
+    msg = make_success_msg(args.commit_hash)
     with open(GITHUB_ENV_FILE, 'a') as f:
       f.write(f'DISCORD_MSG_SUCCESS<<EOF\n{msg}\nEOF\n')
   else:
@@ -39,7 +40,7 @@ def main():
       f.write(f'DISCORD_MSG_CANCEL={msg_cancel}\n')
 
 
-def make_success_msg() -> str:
+def make_success_msg(commit_hash: str | None) -> str:
   try:
     with open(scrapy_util.DISCORD_STATS_PATH, "r") as f:
       discord_stats = f.read()
@@ -50,19 +51,14 @@ def make_success_msg() -> str:
   if discord_stats:
     blocks.append(discord_stats)
 
-  # FIXME
-  cwd = os.getcwd()
-  print("cwd: ", cwd)
-  cwd_otuput = subprocess.run(['pwd'], capture_output=True, text=True).stdout
-  print("subprocess cwd: ", cwd_otuput)
-  print("ls output: ",
-        subprocess.run(['ls', '-la'], capture_output=True, text=True).stdout)
+  print(f"commit_hash: {commit_hash}")  # FIXME
 
-  git_cmd = ['git', 'diff', '--stat']
-  diff_stats = subprocess.run(git_cmd, capture_output=True, text=True).stdout
-  print("git diff --stat output:\n", diff_stats)
-  if diff_stats:
-    blocks.append(diff_stats)
+  if commit_hash:
+    git_cmd = ['git', 'show', '--stat', '--pretty=oneline', commit_hash]
+    diff_stats = subprocess.run(git_cmd, capture_output=True, text=True).stdout
+    print(f"diff_stats: {diff_stats}")  # FIXME
+    if diff_stats:
+      blocks.append(diff_stats)
 
   title = f"⚙️  {RUN_MD_LINK} finished\n"
 
