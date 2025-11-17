@@ -20,7 +20,7 @@ class OTCGJPipeline:
     logging.info("closing spider %s", spider.name)
 
   def process_item(self, item, spider):
-    logging.info("processing item for spider %s", spider.name)
+    logging.debug("processing item for spider %s", spider.name)
 
     if not item:
       return item
@@ -30,7 +30,7 @@ class OTCGJPipeline:
       return item
 
     write_path = item.pop('write_path', None)
-    logging.info("Processing item for %s: %s", spider.name, write_path)
+    logging.debug("processing item for %s: %s", spider.name, write_path)
     if write_path:
       self.handle_write_path(spider, write_path, item)
 
@@ -41,10 +41,8 @@ class OTCGJPipeline:
     assert spider_output_path is not None, "spider.output_dir must be set"
 
     full_path = spider_output_path.joinpath(*write_path)
-    logging.info("Writing data to %s", full_path)
+    logging.debug("writing data to %s", full_path)
 
     os.makedirs(full_path.parent, exist_ok=True)
     with open(full_path, 'w', encoding='utf-8') as f:
-      # line = json.dumps(ItemAdapter(item).asdict(), ensure_ascii=False)
-      # json.dump(ItemAdapter(data).asdict(), f, ensure_ascii=False, indent=2)
-      json.dump(data, f, ensure_ascii=False, indent=2)
+      json.dump(data, f, ensure_ascii=False, indent=2, sort_keys=True)

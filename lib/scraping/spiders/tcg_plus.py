@@ -55,13 +55,14 @@ class TCGPlusSpider(scrapy.Spider):
     for game_id in TCG_PLUS_GAME_TITLE_ID_MAPPING:
       yield self.card_list_request(game_id, 0)
 
-  def card_list_request(self, game_id, offset):
+  def card_list_request(self, game_id, offset, results=None):
     url = CARD_LIST_URL.format(game_id=game_id, limit=LIMIT, offset=offset)
     return scrapy.Request(url,
                           callback=self.parse_card_list,
                           meta={
                               'game_id': game_id,
-                              'offset': offset
+                              'offset': offset,
+                              'results': results or {},
                           })
 
   def parse_card_list(self, response):
@@ -72,6 +73,7 @@ class TCGPlusSpider(scrapy.Spider):
 
     game_id = response.meta['game_id']
     offset = response.meta['offset']
+    results = response.meta['results']
 
     game, lang = TCG_PLUS_GAME_TITLE_ID_MAPPING[game_id]
 
@@ -82,25 +84,40 @@ class TCGPlusSpider(scrapy.Spider):
       logging.error(msg)
       return None
 
-    logging.info("found %s cards for %s %s", len(cards), lang, game)
+    total_count = int(data.get('total', 0))
+    if not total_count:
+      msg = f"no total count found for {lang} {game}"
+      print(f"::error title=TCG+ Scrape Error::{msg}")
+      logging.error(msg)
+      return None
+
+    logging.debug("found %s cards for %s %s", len(cards), lang, game)
 
     for card in cards:
       card_id = card.get('id')
+
       if not card_id:
         msg = f"card with no TCG+ ID found for {lang} {game}: {card}"
         print(f"::error title=TCG+ Scrape Error::{msg}")
         logging.error(msg)
         continue
 
-      yield {
-          'write_path': [
-              game.value['abbr'],
-              lang.name.lower(), f"{card_id}.json"
-          ],
-          **card
-      }
+      # logging.info("saving card %s for %s %s", card_id, lang, game)  # FIXME
+      results[card_id] = card
 
-    total_count = int(data.get('total', 0))
     new_offset = offset + LIMIT
     if new_offset < total_count:
-      yield self.card_list_request(game_id, new_offset)
+      yield self.card_list_request(
+          game_id,
+          new_offset,
+          results,
+      )
+    else:
+      logging.info("finished fetching %s cards for %s %s", len(results), lang,
+                   game)
+      yield {
+          'write_path': [
+              'cardList', f"{game.value['abbr']}_{lang.name.lower()}.json"
+          ],
+          **results,
+      }
