@@ -75,14 +75,14 @@ class TCGPlusCardListSpider(scrapy.Spider):
     cards = data.get('cards', [])
     if not cards:
       msg = f"no cards found for {lang} {game}"
-      print(f"::error title=TCG+ Scrape Error::{msg}")
+      print(f"::error title=TCG+ Poll Error::{msg}")
       logging.error(msg)
       return None
 
     total_count = int(data.get('total', 0))
     if not total_count:
       msg = f"no total count found for {lang} {game}"
-      print(f"::error title=TCG+ Scrape Error::{msg}")
+      print(f"::error title=TCG+ Poll Error::{msg}")
       logging.error(msg)
       return None
 
@@ -93,7 +93,7 @@ class TCGPlusCardListSpider(scrapy.Spider):
 
       if not card_id:
         msg = f"card with no TCG+ ID found for {lang} {game}: {card}"
-        print(f"::error title=TCG+ Scrape Error::{msg}")
+        print(f"::error title=TCG+ Poll Error::{msg}")
         logging.error(msg)
         continue
 

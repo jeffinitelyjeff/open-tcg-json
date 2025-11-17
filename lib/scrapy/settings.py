@@ -9,8 +9,8 @@
 
 BOT_NAME = "otcgjson"
 
-SPIDER_MODULES = ["lib.scraping.spiders"]
-NEWSPIDER_MODULE = "lib.scraping.spiders"
+SPIDER_MODULES = ["lib.scrapy.spiders"]
+NEWSPIDER_MODULE = "lib.scrapy.spiders"
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = "otcgjson (+http://www.yourdomain.com)"
@@ -62,7 +62,7 @@ ROBOTSTXT_OBEY = False
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-    "lib.scraping.pipelines.OTCGJPipeline": 1000,
+    "lib.scrapy.pipelines.OTCGJPipeline": 1000,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)

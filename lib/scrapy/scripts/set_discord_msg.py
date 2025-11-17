@@ -24,7 +24,7 @@ def main():
 
   run_url = f"{server_url}/{repo_name}/actions/runs/{run_id}"
   link = f"[{run_number}]({run_url})"
-  msg = f"⚙️  Scraping run #{link} finished\n"
+  msg = f"⚙️  Poll run #{link} finished\n"
   msg += "```\n" + discord_stats
 
   if diff_summary:

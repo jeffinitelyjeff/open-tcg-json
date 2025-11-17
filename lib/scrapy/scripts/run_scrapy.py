@@ -19,14 +19,11 @@ SPIDERS = [
     # tcg_plus.TCGPlusCardDetailSpider,
 ]
 
-# FIXME: scrape -> poll
-# FIXME: scraping -> polling
-
 
 def main():
   # args = get_cli_args()
 
-  os.environ.setdefault('SCRAPY_SETTINGS_MODULE', 'lib.scraping.settings')
+  os.environ.setdefault('SCRAPY_SETTINGS_MODULE', 'lib.scrapy.settings')
   scrapy_settings = get_project_settings()
   set_up_logs(scrapy_settings)
   run_spiders(scrapy_settings)
