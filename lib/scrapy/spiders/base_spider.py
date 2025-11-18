@@ -5,6 +5,7 @@ import logging
 import os
 import pathlib
 import pprint
+import shutil
 
 import scrapy
 
@@ -67,7 +68,7 @@ class BaseSpider(scrapy.Spider):
 
   def maybe_clear_output_dir(self):
     if self.clear_output_dir and self.output_dir and self.output_dir.exists():
-      scrapy_util.rmtree(self.output_dir)
+      shutil.rmtree(self.output_dir)
 
   def append_github_summary(self):
     summary_path = os.getenv("GITHUB_STEP_SUMMARY")
