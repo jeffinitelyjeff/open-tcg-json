@@ -62,7 +62,7 @@ def run_spiders(scrapy_settings: project.Settings):
   for spider in SPIDERS:
     spider_crawler = process.create_crawler(spider)
     spider_crawler.signals.connect(handle_spider_error,
-                                   signals=signals.spider_error)
+                                   signal=signals.spider_error)
     process.crawl(spider_crawler)
 
   process.start()
