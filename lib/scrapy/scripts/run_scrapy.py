@@ -51,7 +51,7 @@ def set_up_logs(project_settings: project.Settings):
   project_settings['LOG_FILE'] = log_path
 
 
-def run_spiders(scrapy_settings: Settings):
+def run_spiders(scrapy_settings: project.Settings):
 
   def handle_spider_error(failure, response, spider):
     global HIT_ERROR
@@ -60,9 +60,10 @@ def run_spiders(scrapy_settings: Settings):
   process = crawler.CrawlerProcess(scrapy_settings)
 
   for spider in SPIDERS:
-    crawler = process.create_crawler(spider)
-    crawler.signals.connect(handle_spider_error, signals=signals.spider_error)
-    process.crawl(crawler)
+    spider_crawler = process.create_crawler(spider)
+    spider_crawler.signals.connect(handle_spider_error,
+                                   signals=signals.spider_error)
+    process.crawl(spider_crawler)
 
   process.start()
 
