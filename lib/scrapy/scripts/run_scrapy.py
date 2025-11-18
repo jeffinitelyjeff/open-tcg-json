@@ -1,15 +1,11 @@
 import argparse
-import datetime
-import json
 import logging
-from math import log
 import os
-import shutil
-import subprocess
+import sys
 
-from requests import get
-from scrapy.crawler import CrawlerProcess
-from scrapy.utils.project import get_project_settings, Settings
+from scrapy import crawler
+from scrapy import signals
+from scrapy.utils import project
 
 from .. import scrapy_util
 from ..spiders import tcg_plus
@@ -18,14 +14,19 @@ SPIDERS = [
     tcg_plus.TCGPlusSpider,
 ]
 
+HIT_ERROR = False
+
 
 def main():
   # args = get_cli_args()
 
   os.environ.setdefault('SCRAPY_SETTINGS_MODULE', 'lib.scrapy.settings')
-  scrapy_settings = get_project_settings()
+  scrapy_settings = project.get_project_settings()
   set_up_logs(scrapy_settings)
   run_spiders(scrapy_settings)
+
+  if HIT_ERROR:
+    sys.exit(1)
 
 
 def get_cli_args() -> argparse.Namespace:
@@ -36,7 +37,7 @@ def get_cli_args() -> argparse.Namespace:
   return parser.parse_args()
 
 
-def set_up_logs(project_settings: Settings):
+def set_up_logs(project_settings: project.Settings):
   scrapy_util.make_log_dir()
   log_fname = f"run_scrapy.py-{scrapy_util.RUN_TS:%Y%m%d}.log"
   log_path = scrapy_util.LOG_DIR / log_fname
@@ -51,7 +52,13 @@ def set_up_logs(project_settings: Settings):
 
 
 def run_spiders(scrapy_settings: Settings):
-  process = CrawlerProcess(scrapy_settings)
+
+  def handle_spider_error(failure, response, spider):
+    global HIT_ERROR
+    HIT_ERROR = True
+
+  process = crawler.CrawlerProcess(scrapy_settings)
+  process.signals.connect(handle_spider_error, signals=signals.spider_error)
 
   for spider in SPIDERS:
     process.crawl(spider)
