@@ -4,7 +4,6 @@ import os
 import sys
 
 from scrapy import crawler
-from scrapy import signals
 from scrapy.utils import project
 
 from .. import scrapy_util
@@ -52,18 +51,10 @@ def set_up_logs(project_settings: project.Settings):
 
 
 def run_spiders(scrapy_settings: project.Settings):
-
-  def handle_spider_error(failure, response, spider):
-    global HIT_ERROR
-    HIT_ERROR = True
-
   process = crawler.CrawlerProcess(scrapy_settings)
 
   for spider in SPIDERS:
-    spider_crawler = process.create_crawler(spider)
-    spider_crawler.signals.connect(handle_spider_error,
-                                   signal=signals.spider_error)
-    process.crawl(spider_crawler)
+    process.crawl(spider)
 
   process.start()
 
