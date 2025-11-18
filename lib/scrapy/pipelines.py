@@ -41,6 +41,6 @@ class OTCGJPipeline:
     subpath = item.pop('write_subpath', None)
 
     if isinstance(spider, base_spider.BaseSpider) and (path or subpath):
-      spider.write(item, subpath=subpath, path=path)
+      spider.write_item(item, subpath=subpath, path=path)
 
     return item

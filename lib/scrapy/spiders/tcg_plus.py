@@ -36,6 +36,18 @@ CARD_DETAIL_URL = 'https://api.bandai-tcg-plus.com/api/user/card/{card_id}'
 LIMIT = 120
 
 
+class Error(base_spider.Error):
+  LIST_NO_CARDS = 1
+  LIST_NO_TOTAL = 2
+  LIST_NO_ID = 3
+  DETAIL_NO_DATA = 4
+  DETAIL_NO_ID = 5
+
+
+class Notice(base_spider.Notice):
+  pass
+
+
 class TCGPlusSpider(base_spider.BaseSpider):
 
   # scrapy properties
@@ -44,12 +56,6 @@ class TCGPlusSpider(base_spider.BaseSpider):
   # custom properties
   output_dir = scrapy_util.ROOT_DIR / 'dataSources' / 'tcgPlus'
   clear_output_dir = True
-
-  class Notice(base_spider.Notice):
-    pass
-
-  class Error(base_spider.Error):
-    LIST_NO_CARDS = 1
 
   async def start(self):
     for game_id in GAME_ID_MAPPING:
@@ -86,18 +92,13 @@ class TCGPlusSpider(base_spider.BaseSpider):
 
     cards = data.get('cards', [])
     if not cards:
-      msg = f"no cards found for {game_key}"
-      # FIXME: move to stats
-      print(f"::error title=TCG+ Poll Error::{msg}")
-      logging.error(msg)
+      self.log_error(Error.LIST_NO_CARDS, f"no cards found for {game_key}")
       return None
 
     total_count = int(data.get('total', 0))
     if not total_count:
-      msg = f"no total count found for {game_key}"
-      # FIXME: move to stats
-      print(f"::error title=TCG+ Poll Error::{msg}")
-      logging.error(msg)
+      self.log_error(Error.LIST_NO_TOTAL,
+                     f"no total count found for {game_key}")
       return None
 
     logging.debug("found %s cards for %s", len(cards), game_key)
@@ -106,10 +107,8 @@ class TCGPlusSpider(base_spider.BaseSpider):
       card_id = card.get('id')
 
       if not card_id:
-        msg = f"card with no TCG+ ID found for {game_key}: {card}"
-        # FIXME: move to stats
-        print(f"::error title=TCG+ Poll Error::{msg}")
-        logging.error(msg)
+        self.log_error(Error.LIST_NO_ID,
+                       f"card with no TCG+ ID found for {game_key}: {card}")
         continue
 
       results[card_id] = card
@@ -141,18 +140,14 @@ class TCGPlusSpider(base_spider.BaseSpider):
 
     card_data = data.get('card', {})
     if not card_data:
-      msg = f"no card data found for URL: {response.url}"
-      # FIXME: move to stats
-      print(f"::error title=TCG+ Poll Error::{msg}")
-      logging.error(msg)
+      self.log_error(Error.DETAIL_NO_DATA,
+                     f"no card data found for URL: {response.url}")
       return None
 
     card_id = card_data.get('id')
     if not card_id:
-      msg = f"TCG+ ID not in output for URL: {response.url}"
-      # FIXME: move to stats
-      print(f"::error title=TCG+ Poll Error::{msg}")
-      logging.error(msg)
+      self.log_error(Error.DETAIL_NO_ID,
+                     f"TCG+ ID not in output for URL: {response.url}")
       return None
 
     yield {

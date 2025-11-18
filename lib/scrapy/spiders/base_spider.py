@@ -1,4 +1,5 @@
 import enum
+import inspect
 import json
 import logging
 import os
@@ -11,21 +12,32 @@ from .. import scrapy_util
 from ... import util
 
 
-class Notice(enum.Enum):
-
-  @classmethod
-  def all_keys(cls):
-    return [n.name for n in cls]
+def github_annotation(notice_level: str, fields: dict[str, str],
+                      message: str) -> str:
+  fields_str = ','.join(f"{k}={v}" for k, v in fields.items())
+  return f"::{notice_level} {fields_str}::{message}"
 
 
 class Error(enum.Enum):
+  """
+  Each error is printed out as a Github Actions annotation, tied to the file
+  and line where it occurred.
+  """
 
   @classmethod
   def all_keys(cls):
     return [e.name for e in cls]
 
-  def log(self, message: str):
-    logging.error(f"{self.name}: {message}")
+
+class Notice(enum.Enum):
+  """
+  Notices aren't reported as individual Github Actions annotations, but are
+  aggregated via spider stats and reported as a total count.
+  """
+
+  @classmethod
+  def all_keys(cls):
+    return [n.name for n in cls]
 
 
 class BaseSpider(scrapy.Spider):
@@ -37,6 +49,21 @@ class BaseSpider(scrapy.Spider):
   clear_output_dir = False
   notice_keys: list[str] = []
   error_keys: list[str] = []
+
+  def log_error(self, error: Error, message: str):
+    caller = inspect.getframeinfo(inspect.stack()[1][0])
+    logging.error(f"{error.name}: {message}")
+    fields = {
+        'title': error.name,
+        'file': caller.filename,
+        'line': caller.lineno,
+    }
+    print(github_annotation('error', fields, message))
+    self.crawler.stats.inc_value(error.name)
+
+  def log_notice(self, notice: Notice, message: str):
+    logging.info(f"{notice.name}: {message}")
+    self.crawler.stats.inc_value(notice.name)
 
   def maybe_clear_output_dir(self):
     if self.clear_output_dir and self.output_dir and self.output_dir.exists():
@@ -65,7 +92,7 @@ class BaseSpider(scrapy.Spider):
       return None
 
     msg = f"{key}: {val:,}"
-    return f"::{notice_level} title={self.name}::{msg}"
+    return github_annotation(notice_level, {'title': self.name}, msg)
 
   def write_github_annotations(self):
     # FIXME: emit these annotations when the error/notice actually occurs,
@@ -103,10 +130,10 @@ class BaseSpider(scrapy.Spider):
     assert self.output_dir is not None, "spider.output_dir must be set"
     return self.output_dir.joinpath(*subpath)
 
-  def write(self,
-            data: dict,
-            subpath: list[str] | None = None,
-            path: pathlib.Path | None = None):
+  def write_item(self,
+                 data: dict,
+                 subpath: list[str] | None = None,
+                 path: pathlib.Path | None = None):
     if path:
       full_path = path
     else:
