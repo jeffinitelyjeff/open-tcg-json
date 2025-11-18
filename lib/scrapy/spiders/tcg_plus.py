@@ -1,9 +1,10 @@
+from email.mime import base
+import enum
 import logging
-import os
-import pathlib
 
 import scrapy
 
+from . import base_spider
 from ...games import Game
 from ...langs import Lang
 from .. import scrapy_util
@@ -35,10 +36,7 @@ CARD_DETAIL_URL = 'https://api.bandai-tcg-plus.com/api/user/card/{card_id}'
 LIMIT = 120
 
 
-class TCGPlusSpider(scrapy.Spider):
-  """
-  When does this data change? => only when a new set releases
-  """
+class TCGPlusSpider(base_spider.BaseSpider):
 
   # scrapy properties
   name = "TCG+ Card List Spider"
@@ -46,6 +44,12 @@ class TCGPlusSpider(scrapy.Spider):
   # custom properties
   output_dir = scrapy_util.ROOT_DIR / 'dataSources' / 'tcgPlus'
   clear_output_dir = True
+
+  class Notice(base_spider.Notice):
+    pass
+
+  class Error(base_spider.Error):
+    LIST_NO_CARDS = 1
 
   async def start(self):
     for game_id in GAME_ID_MAPPING:
