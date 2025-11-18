@@ -58,10 +58,11 @@ def run_spiders(scrapy_settings: Settings):
     HIT_ERROR = True
 
   process = crawler.CrawlerProcess(scrapy_settings)
-  process.signals.connect(handle_spider_error, signals=signals.spider_error)
 
   for spider in SPIDERS:
-    process.crawl(spider)
+    crawler = process.create_crawler(spider)
+    crawler.signals.connect(handle_spider_error, signals=signals.spider_error)
+    process.crawl(crawler)
 
   process.start()
 
