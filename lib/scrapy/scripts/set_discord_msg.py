@@ -23,7 +23,7 @@ def main():
   group = parser.add_mutually_exclusive_group(required=True)
   group.add_argument('--success', action='store_true')
   group.add_argument('--defaults', action='store_true')
-  parser.add_argument('--commit-hash', type=str, default=None)
+  parser.add_argument('--commit-hash', type=str, nargs='?', default=None)
   args = parser.parse_args()
 
   if args.success:

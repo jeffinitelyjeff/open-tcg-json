@@ -6,7 +6,7 @@ import shutil
 from itemadapter import ItemAdapter
 
 from . import scrapy_util
-from spiders import base_spider
+from .spiders import base_spider
 
 
 class OTCGJPipeline:
