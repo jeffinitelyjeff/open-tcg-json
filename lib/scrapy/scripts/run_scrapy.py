@@ -8,21 +8,26 @@ from scrapy.utils import project
 
 from .. import scrapy_util
 from ..spiders import tcg_plus
+from ..spiders import dcg_wiki
 
-SPIDERS = [
-    tcg_plus.TCGPlusSpider,
-]
+SPIDERS = {
+    "tcg_plus": tcg_plus.TCGPlusSpider,
+    "dcg_wiki": dcg_wiki.DCGWikiSpider,
+}
 
 HIT_ERROR = False
 
 
 def main():
-  # args = get_cli_args()
+  args = get_cli_args()
 
   os.environ.setdefault('SCRAPY_SETTINGS_MODULE', 'lib.scrapy.settings')
   scrapy_settings = project.get_project_settings()
   set_up_logs(scrapy_settings)
-  run_spiders(scrapy_settings)
+
+  logging.info("CLI args: %s", args)
+
+  run_spiders(scrapy_settings, args)
 
   if HIT_ERROR:
     sys.exit(1)
@@ -30,10 +35,17 @@ def main():
 
 def get_cli_args() -> argparse.Namespace:
   parser = argparse.ArgumentParser()
+  spider_group = parser.add_mutually_exclusive_group()
+  spider_group.add_argument('--all',
+                            action='store_true',
+                            help='Run all spiders.')
+  for spider_name in SPIDERS:
+    spider_group.add_argument(f'--{spider_name}',
+                              action='store_true',
+                              help=f'Run the {spider_name} spider.')
 
-  # TODO
-
-  return parser.parse_args()
+  args = parser.parse_args()
+  return args
 
 
 def set_up_logs(project_settings: project.Settings):
@@ -50,11 +62,15 @@ def set_up_logs(project_settings: project.Settings):
   project_settings['LOG_FILE'] = log_path
 
 
-def run_spiders(scrapy_settings: project.Settings):
+def run_spiders(scrapy_settings: project.Settings, args: argparse.Namespace):
   process = crawler.CrawlerProcess(scrapy_settings)
 
-  for spider in SPIDERS:
-    process.crawl(spider)
+  for spider_name, spider in SPIDERS.items():
+    if args.all or getattr(args, spider_name):
+      logging.info("Spider %s ==> start", spider_name)
+      process.crawl(spider)
+    else:
+      logging.info("Spider %s ==> ❌ skipped", spider_name)
 
   process.start()
 

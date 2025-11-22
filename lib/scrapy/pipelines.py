@@ -11,8 +11,6 @@ from .spiders import base_spider
 
 class OTCGJPipeline:
 
-  # FIXME: move this stuff to spider subclass methods?
-
   def open_spider(self, spider):
     logging.info("opening spider %s", spider.name)
 
@@ -26,6 +24,8 @@ class OTCGJPipeline:
       spider.append_github_summary()
       spider.write_github_annotations()
       spider.append_discord_stats()
+      for path in spider.jsonl_files_written:
+        spider.convert_jsonl(path)
 
   def process_item(self, item, spider):
     logging.debug("processing item for spider %s", spider.name)
@@ -37,10 +37,13 @@ class OTCGJPipeline:
       logging.error("%s item is not a dict: %s", spider.name, item)
       return item
 
-    path = item.pop('write_path', None)
-    subpath = item.pop('write_subpath', None)
+    if not isinstance(spider, base_spider.BaseSpider):
+      return item
 
-    if isinstance(spider, base_spider.BaseSpider) and (path or subpath):
-      spider.write_item(item, subpath=subpath, path=path)
+    if spider.write_item_json(item):
+      return item
+
+    if spider.write_item_jsonl(item):
+      return item
 
     return item

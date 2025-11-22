@@ -51,7 +51,7 @@ class Notice(base_spider.Notice):
 class TCGPlusSpider(base_spider.BaseSpider):
 
   # scrapy properties
-  name = "TCG+ Card List Spider"
+  name = "TCG+ Spider"
 
   # custom properties
   output_dir = scrapy_util.ROOT_DIR / 'dataSources' / 'tcgPlus'
@@ -80,6 +80,7 @@ class TCGPlusSpider(base_spider.BaseSpider):
   def parse_card_list(self, response):
     data = response.json().get('success', {})
     json_response_code = data.get('code')
+
     logging.debug('GET %s (%s) | %s', response.status, json_response_code,
                   response.url)
 
