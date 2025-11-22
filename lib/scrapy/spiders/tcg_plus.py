@@ -8,6 +8,7 @@ from . import base_spider
 from ...games import Game
 from ...langs import Lang
 from .. import scrapy_util
+from ..pipelines import JSONItem
 
 # game_title_id => (game_title, language)
 GAME_ID_MAPPING = {
@@ -124,11 +125,8 @@ class TCGPlusSpider(base_spider.BaseSpider):
       )
     else:
       logging.info("finished fetching %s cards for %s", len(results), game_key)
-      yield {
-          'write_subpath': ['cardList',
-                            game.abbr(), f"{lang.abbr()}.json"],
-          **results,
-      }
+      subpath = ['cardList', game.abbr(), f"{lang.abbr()}.json"]
+      yield JSONItem(results, subpath=subpath)
 
   def parse_card_detail(self, response):
     game_id = response.meta['game_id']
@@ -151,11 +149,5 @@ class TCGPlusSpider(base_spider.BaseSpider):
                      f"TCG+ ID not in output for URL: {response.url}")
       return None
 
-    yield {
-        'write_subpath': [
-            'cardDetail',
-            game.abbr(),
-            lang.abbr(), f"{card_id}.json"
-        ],
-        **card_data,
-    }
+    subpath = ['cardDetail', game.abbr(), lang.abbr(), f"{card_id}.json"]
+    yield JSONItem(card_data, subpath=subpath)

@@ -4,6 +4,7 @@ import scrapy
 
 from . import base_spider
 from .. import scrapy_util
+from ..pipelines import JSONLItem
 
 WIKI_DOMAIN = "https://digimoncardgame.fandom.com"
 
@@ -15,6 +16,9 @@ SET_LIST_PATHS = [
 CARD_LIST_PATHS = [
     "/wiki/Category:Promo",
 ]
+
+DEBUG_CARD = 'EX10-074'
+DEBUG_ON = True
 
 
 class DCGWikiSpider(base_spider.BaseSpider):
@@ -30,28 +34,22 @@ class DCGWikiSpider(base_spider.BaseSpider):
 
     self.seen_cards: set[str] = set()
 
+  def request(self, path, callback, **kwargs):
+    return scrapy.Request(WIKI_DOMAIN + path, callback=callback, **kwargs)
+
   async def start(self):
     for path in CARD_LIST_PATHS:
       yield self.card_list_item(path)
-      yield self.card_list_request(path)
+      yield self.request(path, self.parse_card_list)
 
     for path in SET_LIST_PATHS:
-      yield self.set_list_request(path)
-
-  def card_list_request(self, path):
-    return scrapy.Request(
-        WIKI_DOMAIN + path,
-        callback=self.parse_card_list,
-    )
+      yield self.request(path, self.parse_set_list)
 
   def card_list_item(self, path):
-    return {
-        'jsonl_subpath': ['[cardListPages].jsonl'],
-        'jsonl_data': path,
-        'jsonl_sort': self.card_list_sort(path),
-    }
+    sort = self.card_list_sort_value(path)
+    return JSONLItem(path, sort, subpath=['[cardListPages].jsonl'])
 
-  def card_list_sort(self, path):
+  def card_list_sort_value(self, path):
     # examples:
     # /wiki/AD-01:_Advanced_Booster_Digimon_Generation
     # /wiki/BT-11:_Booster_Dimensional_Phase
@@ -70,12 +68,6 @@ class DCGWikiSpider(base_spider.BaseSpider):
     set_type, set_num = set_long_id.split('-')
     return f"{set_type}-{int(set_num):03d}"
 
-  def set_list_request(self, path):
-    return scrapy.Request(
-        WIKI_DOMAIN + path,
-        callback=self.parse_set_list,
-    )
-
   def parse_set_list(self, response):
     # Parses a page that has a list OF sets.
     # NOT a page that has a list of cards in a set.
@@ -85,16 +77,16 @@ class DCGWikiSpider(base_spider.BaseSpider):
 
     for path in paths:
       yield self.card_list_item(path)
-      yield self.card_list_request(path)
+      yield self.request(path, self.parse_card_list)
 
   def parse_card_list(self, response):
     # Parses a page that has a list of cards.
     logging.info('GET %s | %s', response.status, response.url)
 
-    paths = response.css('.cardlist th a::attr(href)').getall()
+    card_paths = response.css('.cardlist th a::attr(href)').getall()
 
-    for path in paths:
-      card_num = path.split('/')[-1]
+    for card_path in card_paths:
+      card_num = card_path.split('/')[-1]
       set_id = card_num.split('-')[0]
 
       if '-' not in card_num:
@@ -105,22 +97,27 @@ class DCGWikiSpider(base_spider.BaseSpider):
         # alt art alongside a new set (as a box topper, etc).
         continue
 
-      # FIXME: any reason to actually store these lists?
-      yield {
-          'jsonl_subpath': [set_id, '[cardPages].jsonl'],
-          'jsonl_data': path,
-          'jsonl_sort': card_num,
-      }
+      yield JSONLItem(card_path,
+                      card_num,
+                      subpath=[set_id, '[cardPages].jsonl'])
 
       self.seen_cards.add(card_num)
 
-      # yield scrapy.Request(
-      #     full_url,
-      #     callback=self.parse_card_page,
-      # )
+      if DEBUG_ON and card_num != DEBUG_CARD:
+        continue
+
+      yield self.request(card_path,
+                         self.parse_card_page,
+                         meta={'card_num': card_num})
 
   def parse_card_page(self, response):
     logging.debug('GET %s | %s', response.status, response.url)
+
+    card_num = response.meta.get('card_num')
+
+    header_categories = response.css('.page-header__categories').get()
+    header_title = response.css('.page-header__title').get()
+    body = response.css('.page__main .mw-body-content').get()
 
     pass  # FIXME
 
