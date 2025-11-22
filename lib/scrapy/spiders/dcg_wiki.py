@@ -1,10 +1,11 @@
+from email import header
 import logging
 
 import scrapy
 
 from . import base_spider
 from .. import scrapy_util
-from ..pipelines import JSONLItem
+from ..pipelines import JSONLItem, TextItem
 
 WIKI_DOMAIN = "https://digimoncardgame.fandom.com"
 
@@ -108,30 +109,85 @@ class DCGWikiSpider(base_spider.BaseSpider):
 
       yield self.request(card_path,
                          self.parse_card_page,
-                         meta={'card_num': card_num})
+                         meta={
+                             'card_num': card_num,
+                             'set_id': set_id
+                         })
 
   def parse_card_page(self, response):
     logging.debug('GET %s | %s', response.status, response.url)
 
-    card_num = response.meta.get('card_num')
+    meta = response.meta
+    card_num = meta.get('card_num')
+    set_id = meta.get('set_id')
 
     header_categories = response.css('.page-header__categories').get()
     header_title = response.css('.page-header__title').get()
     body = response.css('.page__main .mw-body-content').get()
 
-    pass  # FIXME
+    text = "\n".join([
+        "<html>",
+        header_categories,
+        header_title,
+        body,
+        "</html>",
+    ])
 
-  def parse_card_wikitext(self, response):
-    logging.debug('GET %s | %s', response.status, response.url)
+    yield TextItem(data=text, subpath=[set_id, card_num, 'main.html'])
 
-    pass  # FIXME
+    nav_paths = response.css('.ctable .info-navigation a::attr(href)').getall()
+    for path in nav_paths:
+      if '/gallery' in path.lower():
+        yield self.request(path, self.parse_card_gallery, meta=meta)
+      elif '/rulings' in path.lower():
+        yield self.request(path, self.parse_card_rulings, meta=meta)
+      elif '/errata' in path.lower():
+        yield self.request(path, self.parse_card_errata, meta=meta)
 
   def parse_card_gallery(self, response):
     logging.debug('GET %s | %s', response.status, response.url)
 
-    pass  # FIXME
+    meta = response.meta
+    card_num = meta.get('card_num')
+    set_id = meta.get('set_id')
+
+    body = response.css('.page__main .mw-body-content').get()
+    text = "\n".join([
+        "<html>",
+        body,
+        "</html>",
+    ])
+
+    yield TextItem(data=text, subpath=[set_id, card_num, 'gallery.html'])
 
   def parse_card_rulings(self, response):
     logging.debug('GET %s | %s', response.status, response.url)
 
-    pass  # FIXME
+    meta = response.meta
+    card_num = meta.get('card_num')
+    set_id = meta.get('set_id')
+
+    body = response.css('.page__main .mw-body-content').get()
+    text = "\n".join([
+        "<html>",
+        body,
+        "</html>",
+    ])
+
+    yield TextItem(data=text, subpath=[set_id, card_num, 'rulings.html'])
+
+  def parse_card_errata(self, response):
+    logging.debug('GET %s | %s', response.status, response.url)
+
+    meta = response.meta
+    card_num = meta.get('card_num')
+    set_id = meta.get('set_id')
+
+    body = response.css('.page__main .mw-body-content').get()
+    text = "\n".join([
+        "<html>",
+        body,
+        "</html>",
+    ])
+
+    yield TextItem(data=text, subpath=[set_id, card_num, 'errata.html'])

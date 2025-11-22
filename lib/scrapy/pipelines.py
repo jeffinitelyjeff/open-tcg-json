@@ -3,6 +3,7 @@ import logging
 import os
 import pathlib
 import shutil
+from typing import Text
 
 from itemadapter import ItemAdapter
 
@@ -37,16 +38,7 @@ class OTCGJPipeline:
     if not isinstance(spider, base_spider.BaseSpider):
       return item
 
-    if isinstance(item, JSONItem):
-      item.write(spider)
-      return item
-
-    if isinstance(item, JSONLItem):
-      item.write(spider)
-      spider.jsonl_files_written.add(item.full_path(spider))
-      return item
-
-    supportedItems = [JSONItem, JSONLItem]
+    supportedItems = [JSONItem, JSONLItem, TextItem]
     for cls in supportedItems:
       if isinstance(item, cls):
         item.write(spider)
@@ -82,11 +74,8 @@ class JSONItem(BaseItem):
 
   required_extension = '.json'
 
-  def __init__(self,
-               data: any,
-               path: pathlib.Path | None = None,
-               subpath: list[str] | None = None):
-    super().__init__(path, subpath)
+  def __init__(self, data: any, **kwargs):
+    super().__init__(**kwargs)
     self.data = data
 
   def write(self, spider: base_spider.BaseSpider):
@@ -101,12 +90,8 @@ class JSONLItem(BaseItem):
 
   required_extension = '.jsonl'
 
-  def __init__(self,
-               data: any,
-               sort: any,
-               path: str | None = None,
-               subpath: list[str] | None = None):
-    super().__init__(path, subpath)
+  def __init__(self, data: any, sort: any, **kwargs):
+    super().__init__(**kwargs)
     self.data = data
     self.sort = sort
 
@@ -141,5 +126,20 @@ class JSONLItem(BaseItem):
     with open(json_path, 'w', encoding='utf-8') as f:
       json.dump(sorted_data, f, ensure_ascii=False, indent=2, sort_keys=True)
 
-    logging.info("converted: %s -> %s", path, json_path)
+    logging.info("converted: %s -> .json", path)
     os.remove(path)
+
+
+class TextItem(BaseItem):
+  required_extension = None
+
+  def __init__(self, data: str, **kwargs):
+    super().__init__(**kwargs)
+    self.data = data
+
+  def write(self, spider: base_spider.BaseSpider):
+    full_path = self.full_path(spider)
+
+    os.makedirs(full_path.parent, exist_ok=True)
+    with open(full_path, 'w', encoding='utf-8') as f:
+      f.write(self.data)
