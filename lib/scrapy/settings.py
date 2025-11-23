@@ -56,9 +56,9 @@ ROBOTSTXT_OBEY = False
 # Enable or disable extensions
 # See https://docs.scrapy.org/en/latest/topics/extensions.html
 EXTENSIONS = {
-    "scrapy.extensions.closespider.CloseSpider": 100,
+    # "scrapy.extensions.closespider.CloseSpider": 100,
 }
-CLOSESPIDER_ERRORCOUNT = 1
+# CLOSESPIDER_ERRORCOUNT = 1
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
