@@ -1,0 +1,120 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Shakkoumon]/[Zudomon]: Cost 3",
+  "attribute": "Free",
+  "blockIcon": "04",
+  "cardEffects": "＜Iceclad＞ (Other than against Security Digimon, compare the number of digivolution cards instead of DP in this Digimon's battles.)\n[When Digivolving] Trash any 4 digivolution cards from your opponent's Digimon.\n[When Attacking] [Once Per Turn] If your opponent has no Digimon with as many or more digivolution cards as this Digimon, it unsuspends. Then, all of your opponent's Security Digimon get -6000 DP for the turn.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Not released",
+    "korean": "Not released",
+    "nameJapanese": "Not released"
+  },
+  "cardType": "Digimon",
+  "color": "Blue / Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "4",
+      "level": "5"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "5"
+    }
+  ],
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Limited_Card_Pack",
+        "captionText": "BT-21: Limited Card Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:LM-040.png",
+        "imgName": "LM-040.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b6/LM-040.png/revision/latest?cb=20250404050350",
+        "uploadDate": "2025-04-04T05:03:50"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Limited_Card_Pack",
+        "captionText": "BT-21: Limited Card Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:LM-040-Sample.png",
+        "imgName": "LM-040-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d7/LM-040-Sample.png/revision/latest?cb=20250217001638",
+        "uploadDate": "2025-02-17T00:16:38"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-05:_Limited_Card_Pack_Final_Elysion",
+        "captionText": "LM-05: Limited Card Pack Final Elysion (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:LM-040-J.png",
+        "imgName": "LM-040-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/86/LM-040-J.png/revision/latest?cb=20250404055942",
+        "uploadDate": "2025-04-04T05:59:42"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b6/LM-040.png/revision/latest?cb=20250404050350",
+  "level": "6",
+  "name": "Vikemon",
+  "nameJapanese": "ヴァイクモン",
+  "playCost": "12",
+  "rarity": "Promo",
+  "rule": "[Rule] Trait: Has [Sea Beast] Type.",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-05:_Limited_Card_Pack_Final_Elysion",
+          "text": "LM-05: Limited Card Pack Final Elysion"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Limited_Card_Pack",
+          "text": "BT-21: Limited Card Pack"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-05:_Limited_Card_Pack_Final_Elysion",
+          "text": "LM-05: Limited Card Pack Final Elysion"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-05:_Limited_Card_Pack_Final_Elysion",
+          "text": "LM-05: Limited Card Pack Final Elysion"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ]
+  },
+  "type": "Beastkin"
+}

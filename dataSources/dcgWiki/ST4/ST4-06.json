@@ -1,0 +1,147 @@
+{
+  "attribute": "Data",
+  "blockIcon": "00",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-4:_Starter_Deck_Giga_Green",
+        "captionText": "ST-4: Starter Deck Giga Green (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST4-06-C.png",
+        "imgName": "ST4-06-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6c/ST4-06-C.png/revision/latest?cb=20230823200241",
+        "uploadDate": "2023-08-23T20:02:41"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-4:_Starter_Deck_Giga_Green",
+        "captionText": "ST-4: Starter Deck Giga Green (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST4-06.png",
+        "imgName": "ST4-06.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/da/ST4-06.png/revision/latest?cb=20210430124225",
+        "uploadDate": "2021-04-30T12:42:25"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-4:_Starter_Deck_Giga_Green",
+        "captionText": "ST-4: Starter Deck Giga Green (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST4-06-J.png",
+        "imgName": "ST4-06-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/84/ST4-06-J.png/revision/latest?cb=20201218230453",
+        "uploadDate": "2020-12-18T23:04:53"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-4:_Starter_Deck_Giga_Green",
+        "captionText": "ST-4: Starter Deck Giga Green (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST4-06-K.png",
+        "imgName": "ST4-06-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f0/ST4-06-K.png/revision/latest?cb=20230823141101",
+        "uploadDate": "2023-08-23T14:11:01"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/da/ST4-06.png/revision/latest?cb=20210430124225",
+  "inheritedEffect": "[When Attacking] When this Digimon attacks one of your opponent's Digimon, this Digimon gets +2000 DP for the turn.",
+  "korean": "니드몬",
+  "level": "4",
+  "name": "Togemon",
+  "nameJapanese": "トゲモン",
+  "playCost": "4",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=ST4-06#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for ST4-06 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, if you declared an attack against your opponent, this card's effect doesn't activate, even if they use another Digimon to block it.",
+        "question": "I attack my opponent using a Digimon with this card in its digivolution cards. If they block it with one of their Digimon, does this card's effect activate?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, if you declared an attack against an opponent's Digimon, this effect activates.",
+        "question": "I attack an opponent's Digimon using a Digimon with this card in its digivolution cards, and use another effect to delete an opponent's Digimon card. Does this card's effect activate?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-4:_Starter_Deck_Giga_Green",
+          "text": "ST-4: Starter Deck Giga Green"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-4:_Starter_Deck_Giga_Green",
+          "text": "ST-4: Starter Deck Giga Green"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-4:_Starter_Deck_Giga_Green",
+          "text": "ST-4: Starter Deck Giga Green"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-4:_Starter_Deck_Giga_Green",
+          "text": "ST-4: Starter Deck Giga Green"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "仙人掌兽",
+  "traditionalChinese": "仙人掌獸",
+  "type": "Vegetation"
+}

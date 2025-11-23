@@ -1,0 +1,121 @@
+{
+  "ace": "Overflow ＜-4＞ (As this card moves from the field or under a card to an area other than those, lose 4 memory.)",
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[D-Brigade]/[ACCEL] trait: Cost 3",
+  "attribute": "Virus",
+  "blockIcon": "04",
+  "cardEffects": "[Hand] [Counter] ＜Blast Digivolve＞ (Your Digimon may digivolve into this card without paying the cost.)\n＜Scapegoat＞ (When this Digimon would be deleted other than by your effects, by deleting 1 of your other Digimon, prevent that deletion.)\n[On Play] [When Digivolving] ＜De-Digivolve  1＞ 1 of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.) Then, delete all of their Digimon with the lowest play cost.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Not released",
+    "korean": "Not released",
+    "nameJapanese": "Not released"
+  },
+  "cardType": "Digimon",
+  "color": "Black / Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "5"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "4",
+      "level": "5"
+    }
+  ],
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Limited_Card_Pack",
+        "captionText": "BT-21: Limited Card Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:LM-043.png",
+        "imgName": "LM-043.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/86/LM-043.png/revision/latest?cb=20250404050350",
+        "uploadDate": "2025-04-04T05:03:50"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Limited_Card_Pack",
+        "captionText": "BT-21: Limited Card Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:LM-043-Sample.png",
+        "imgName": "LM-043-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/56/LM-043-Sample.png/revision/latest?cb=20250214005223",
+        "uploadDate": "2025-02-14T00:52:23"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-05:_Limited_Card_Pack_Final_Elysion",
+        "captionText": "LM-05: Limited Card Pack Final Elysion (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:LM-043-J.png",
+        "imgName": "LM-043-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8e/LM-043-J.png/revision/latest?cb=20250404055943",
+        "uploadDate": "2025-04-04T05:59:43"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/86/LM-043.png/revision/latest?cb=20250404050350",
+  "inheritedEffect": "＜Collision＞ (During this Digimon's attack, all of your opponent's Digimon gain ＜Blocker＞, and must block if possible.)",
+  "level": "6",
+  "name": "Darkdramon",
+  "nameJapanese": "ダークドラモン",
+  "playCost": "7",
+  "rarity": "Promo",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-05:_Limited_Card_Pack_Final_Elysion",
+          "text": "LM-05: Limited Card Pack Final Elysion"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kuromori_maya",
+          "text": "Kuromori maya"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Limited_Card_Pack",
+          "text": "BT-21: Limited Card Pack"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kuromori_maya",
+          "text": "Kuromori maya"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-05:_Limited_Card_Pack_Final_Elysion",
+          "text": "LM-05: Limited Card Pack Final Elysion"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kuromori_maya",
+          "text": "Kuromori maya"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-05:_Limited_Card_Pack_Final_Elysion",
+          "text": "LM-05: Limited Card Pack Final Elysion"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kuromori_maya",
+          "text": "Kuromori maya"
+        }
+      }
+    ]
+  },
+  "type": "Cyborg/D-Brigade/ACCEL"
+}

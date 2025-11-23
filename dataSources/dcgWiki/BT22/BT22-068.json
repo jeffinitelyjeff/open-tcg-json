@@ -1,0 +1,120 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Koromon]/[Agumon]: Cost 0",
+  "attribute": "Virus",
+  "blockIcon": "05",
+  "cardEffects": "[On Play] [When Digivolving] You may return 1 Digimon card with [Tyrannomon] in its name or the [Dinosaur] trait from your trash to the hand.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple / Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "1",
+      "level": "2"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "1",
+      "level": "2"
+    }
+  ],
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+        "captionText": "BT-22: Booster Cyber Eden (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT22-068.png",
+        "imgName": "BT22-068.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6c/BT22-068.png/revision/latest?cb=20250704054219",
+        "uploadDate": "2025-07-04T05:42:19"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+        "captionText": "BT-22: Booster Cyber Eden (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT22-068-Sample.png",
+        "imgName": "BT22-068-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f5/BT22-068-Sample.png/revision/latest?cb=20250621123213",
+        "uploadDate": "2025-06-21T12:32:13"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+        "captionText": "BT-22: Booster Cyber Eden (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT22-068-J.png",
+        "imgName": "BT22-068-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/15/BT22-068-J.png/revision/latest?cb=20250704055300",
+        "uploadDate": "2025-07-04T05:53:00"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6c/BT22-068.png/revision/latest?cb=20250704054219",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When this Digimon deletes your opponent's Digimon in battle, gain 1 memory.",
+  "level": "3",
+  "name": "Agumon (X Antibody)",
+  "nameJapanese": "アグモンX抗体",
+  "playCost": "3",
+  "rarity": "Uncommon",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+          "text": "BT-22: Booster Cyber Eden"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+          "text": "BT-22: Booster Cyber Eden"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+          "text": "BT-22: Booster Cyber Eden"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+          "text": "BT-22: Booster Cyber Eden"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      }
+    ]
+  },
+  "type": "Reptile/X Antibody"
+}

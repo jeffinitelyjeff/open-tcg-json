@@ -1,0 +1,158 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "00",
+  "cardEffects": "[When Digivolving] Up to 2 of your Digimon gain ＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling.) until the end of your opponent's next turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "3",
+    "level": "5"
+  },
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-6:_Starter_Deck_Venomous_Violet",
+        "captionText": "ST-6: Starter Deck Venomous Violet (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST6-12-C.png",
+        "imgName": "ST6-12-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/10/ST6-12-C.png/revision/latest?cb=20230823201107",
+        "uploadDate": "2023-08-23T20:11:07"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-6:_Starter_Deck_Venomous_Violet",
+        "captionText": "ST-6: Starter Deck Venomous Violet (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST6-12.png",
+        "imgName": "ST6-12.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c8/ST6-12.png/revision/latest?cb=20210430124238",
+        "uploadDate": "2021-04-30T12:42:38"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-6:_Starter_Deck_Venomous_Violet",
+        "captionText": "ST-6: Starter Deck Venomous Violet (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST6-12-J.png",
+        "imgName": "ST6-12-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f6/ST6-12-J.png/revision/latest?cb=20201218230502",
+        "uploadDate": "2020-12-18T23:05:02"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-6:_Starter_Deck_Venomous_Violet",
+        "captionText": "ST-6: Starter Deck Venomous Violet (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST6-12-K.png",
+        "imgName": "ST6-12-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6b/ST6-12-K.png/revision/latest?cb=20230823155622",
+        "uploadDate": "2023-08-23T15:56:22"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c8/ST6-12.png/revision/latest?cb=20210430124238",
+  "korean": "베놈묘티스몬",
+  "level": "6",
+  "name": "VenomMyotismon",
+  "nameJapanese": "ヴェノムヴァンデモン",
+  "nameTranslated": "VenomVamdemon",
+  "playCost": "10",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=ST6-12#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for ST6-12 (Mar. 28, 2024)"
+      },
+      {
+        "link": "https://digimoncard.com/rule/?card_no=ST6-12#qaResult_card",
+        "num": 2,
+        "text": "Official JP Q&A for ST6-12 (translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Digimon retain effects when digivolving or de-digivolving, so ＜Retaliation＞ remains.",
+        "question": "I use this card to give a Digimon ＜Retaliation＞. If that Digimon digivolves into a different Digimon, what happens to ＜Retaliation＞?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it is possible.",
+        "question": "Can the effect of this card give this Digimon itself a \"road companion\"?",
+        "reference": "[2]"
+      },
+      {
+        "answer": "Even if the Digimon digivolves or degenerates, the effect it received is inherited, so the <Digivolve> is still given.",
+        "question": "If the Digimon that is given \"道連れ\" by the effect of this card digivolves and becomes another Digimon, what happens to the \"道連れ\"?",
+        "reference": "[2]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-6:_Starter_Deck_Venomous_Violet",
+          "text": "ST-6: Starter Deck Venomous Violet"
+        },
+        "foil&Rarity": "Gold Outline - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-6:_Starter_Deck_Venomous_Violet",
+          "text": "ST-6: Starter Deck Venomous Violet"
+        },
+        "foil&Rarity": "Gold Outline - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-6:_Starter_Deck_Venomous_Violet",
+          "text": "ST-6: Starter Deck Venomous Violet"
+        },
+        "foil&Rarity": "Gold Outline - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-6:_Starter_Deck_Venomous_Violet",
+          "text": "ST-6: Starter Deck Venomous Violet"
+        },
+        "foil&Rarity": "Gold Outline - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "怨毒吸血魔兽",
+  "traditionalChinese": "究極吸血魔獸",
+  "type": "Dark Animal"
+}

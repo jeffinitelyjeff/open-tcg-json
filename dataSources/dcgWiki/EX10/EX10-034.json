@@ -1,0 +1,119 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "05",
+  "cardEffects": "＜Collision＞ (During this Digimon's attack, all of your opponent's Digimon gain ＜Blocker＞, and must block if possible.)\n＜Fragment (3)＞ (When this Digimon would be deleted, by trashing any 3 of its digivolution cards, it isn't deleted.)\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Play] [When Digivolving] Until your opponent's turn ends, give 1 of their Digimon \"[Start of Your Main Phase] This Digimon attacks.\"\n[All Turns] [Once Per Turn] When Digimon attack, by trashing any 2 of this Digimon's digivolution cards, this Digimon gains ＜Security A. +1＞  (This Digimon checks 1 additional security card.) and +3000 DP until your turn ends.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Not released",
+    "korean": "Not released",
+    "nameJapanese": "Not released"
+  },
+  "cardType": "Digimon",
+  "color": "Black / Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "5",
+      "level": "5"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "5",
+      "level": "5"
+    }
+  ],
+  "digixrosRequirements": "[DigiXros -2] 3 Digimon cards w/[Bagra Army] trait\nWhen this would be played, you may place specified cards from your hand/battle area under it. Each one reduces the play cost.",
+  "dp": "13000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-10:_Extra_Booster_Sinister_Order",
+        "captionText": "EX-10: Extra Booster Sinister Order (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX10-034.png",
+        "imgName": "EX10-034.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/35/EX10-034.png/revision/latest?cb=20250905051359",
+        "uploadDate": "2025-09-05T05:13:59"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-10:_Extra_Booster_Sinister_Order",
+        "captionText": "EX-10: Extra Booster Sinister Order (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX10-034-Sample.png",
+        "imgName": "EX10-034-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9a/EX10-034-Sample.png/revision/latest?cb=20250815130119",
+        "uploadDate": "2025-08-15T13:01:19"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-10:_Extra_Booster_Sinister_Order",
+        "captionText": "EX-10: Extra Booster Sinister Order (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX10-034-J.png",
+        "imgName": "EX10-034-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8c/EX10-034-J.png/revision/latest?cb=20250905052100",
+        "uploadDate": "2025-09-05T05:21:00"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/3/35/EX10-034.png/revision/latest?cb=20250905051359",
+  "level": "6",
+  "name": "Blastmon",
+  "nameJapanese": "ブラストモン",
+  "playCost": "13",
+  "rarity": "Rare",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-10:_Extra_Booster_Sinister_Order",
+          "text": "EX-10: Extra Booster Sinister Order"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "Itohiro"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-10:_Extra_Booster_Sinister_Order",
+          "text": "EX-10: Extra Booster Sinister Order"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "Itohiro"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-10:_Extra_Booster_Sinister_Order",
+          "text": "EX-10: Extra Booster Sinister Order"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "Itohiro"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-10:_Extra_Booster_Sinister_Order",
+          "text": "EX-10: Extra Booster Sinister Order"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "Itohiro"
+        }
+      }
+    ]
+  },
+  "type": "Mineral/Bagra Army"
+}

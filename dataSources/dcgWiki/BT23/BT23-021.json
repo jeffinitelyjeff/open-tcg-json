@@ -1,0 +1,122 @@
+{
+  "altDigivolutionRequirements": "[App Fusion] [Dokamon] & [Perorimon] & [Musclemon]: Cost 0\nIf 2 such cards are linked together, stack the link card on top and digivolve.",
+  "attribute": "Game",
+  "blockIcon": "05",
+  "cardEffects": "[When Digivolving] [When Attacking] [Once Per Turn] You may link 1 level 3 Digimon card from your hand or this Digimon's digivolution cards to this Digimon without paying the cost.\n[Your Turn] [Once Per Turn] When this Digimon gets linked, it can't be deleted in battle until your opponent's turn ends.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Not released",
+    "korean": "Not released",
+    "nameJapanese": "Not released"
+  },
+  "cardType": "Digimon",
+  "color": "Blue / Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "All",
+      "digivolveCost": "3",
+      "form": "Stnd."
+    }
+  ],
+  "dp": "6000 DP",
+  "form": "Sup./Appmon",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+        "captionText": "BT-23: Booster Hackers' Slumber (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT23-021.png",
+        "imgName": "BT23-021.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/49/BT23-021.png/revision/latest?cb=20251003041126",
+        "uploadDate": "2025-10-03T04:11:26"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+        "captionText": "BT-23: Booster Hackers' Slumber (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT23-021-Sample.png",
+        "imgName": "BT23-021-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/85/BT23-021-Sample.png/revision/latest?cb=20250906044508",
+        "uploadDate": "2025-09-06T04:45:08"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+        "captionText": "BT-23: Booster Hackers' Slumber (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT23-021-J.png",
+        "imgName": "BT23-021-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/92/BT23-021-J.png/revision/latest?cb=20251003043303",
+        "uploadDate": "2025-10-03T04:33:03"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/49/BT23-021.png/revision/latest?cb=20251003041126",
+  "level": "4",
+  "linkDp": "<< +3000 DP",
+  "linkEffect": "[When Linking] This Digimon can't be deleted in battle until your opponent's turn ends.",
+  "linkRequirements": "[Link] [Appmon] trait: Cost 2 \n(Plug this card from the hand or battle area sideways into the specified Digimon in the battle area.)",
+  "name": "Dosukomon",
+  "nameJapanese": "ドスコモン",
+  "playCost": "6",
+  "rarity": "Uncommon",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+          "text": "BT-23: Booster Hackers' Slumber"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+          "text": "BT-23: Booster Hackers' Slumber"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+          "text": "BT-23: Booster Hackers' Slumber"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+          "text": "BT-23: Booster Hackers' Slumber"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ]
+  },
+  "type": "Fighting (App Name)"
+}

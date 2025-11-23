@@ -1,0 +1,121 @@
+{
+  "attribute": "Game",
+  "blockIcon": "05",
+  "cardEffects": "[Your Turn] [Once Per Turn] When this Digimon gets linked, 1 of your Digimon gets +4000 DP for the turn.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Not released",
+    "korean": "Not released",
+    "nameJapanese": "Not released"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "2",
+      "level": "3"
+    },
+    {
+      "color": "All",
+      "digivolveCost": "2",
+      "form": "Stnd."
+    }
+  ],
+  "dp": "4000 DP",
+  "form": "Sup./Appmon",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+        "captionText": "BT-23: Booster Hackers' Slumber (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT23-009.png",
+        "imgName": "BT23-009.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f3/BT23-009.png/revision/latest?cb=20251003041126",
+        "uploadDate": "2025-10-03T04:11:26"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+        "captionText": "BT-23: Booster Hackers' Slumber (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT23-009-Sample.png",
+        "imgName": "BT23-009-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a0/BT23-009-Sample.png/revision/latest?cb=20250922064315",
+        "uploadDate": "2025-09-22T06:43:15"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+        "captionText": "BT-23: Booster Hackers' Slumber (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT23-009-J.png",
+        "imgName": "BT23-009-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/af/BT23-009-J.png/revision/latest?cb=20251003043303",
+        "uploadDate": "2025-10-03T04:33:03"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f3/BT23-009.png/revision/latest?cb=20251003041126",
+  "level": "4",
+  "linkDp": "<< +3000 DP",
+  "linkEffect": "[End of Your Turn] [Once Per Turn] This Digimon may attack a player.",
+  "linkRequirements": "[Link] [Appmon] trait: Cost 2 \n(Plug this card from the hand or battle area sideways into the specified Digimon in the battle area.)",
+  "name": "Coachmon",
+  "nameJapanese": "コーチモン",
+  "playCost": "4",
+  "rarity": "Common",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+          "text": "BT-23: Booster Hackers' Slumber"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+          "text": "BT-23: Booster Hackers' Slumber"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+          "text": "BT-23: Booster Hackers' Slumber"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+          "text": "BT-23: Booster Hackers' Slumber"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      }
+    ]
+  },
+  "type": "Training (App Name)/Leviathan"
+}

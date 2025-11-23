@@ -1,0 +1,152 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "00",
+  "cardEffects": "[When Attacking] 1 of your opponent's Digimon gets -4000 DP for the turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "4",
+    "level": "5"
+  },
+  "dp": "10000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BTC-01:_Booster_Ultimate_Evolution",
+        "captionText": "BTC-01: Booster Ultimate Evolution (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST3-11-C.png",
+        "imgName": "ST3-11-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b2/ST3-11-C.png/revision/latest?cb=20230828235731",
+        "uploadDate": "2023-08-28T23:57:31"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-3:_Starter_Deck_Heaven%27s_Yellow",
+        "captionText": "ST-3: Starter Deck Heaven's Yellow (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST3-11.png",
+        "imgName": "ST3-11.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/82/ST3-11.png/revision/latest?cb=20201210184953",
+        "uploadDate": "2020-12-10T18:49:53"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-3:_Starter_Deck_Heaven%27s_Yellow",
+        "captionText": "ST-3: Starter Deck Heaven's Yellow (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST3-11-J.png",
+        "imgName": "ST3-11-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f9/ST3-11-J.png/revision/latest?cb=20201212062801",
+        "uploadDate": "2020-12-12T06:28:01"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-3:_Starter_Deck_Heaven%27s_Yellow",
+        "captionText": "ST-3: Starter Deck Heaven's Yellow (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST3-11-K.png",
+        "imgName": "ST3-11-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b6/ST3-11-K.png/revision/latest?cb=20230821213915",
+        "uploadDate": "2023-08-21T21:39:15"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/82/ST3-11.png/revision/latest?cb=20201210184953",
+  "korean": "세라피몬",
+  "level": "6",
+  "name": "Seraphimon",
+  "nameJapanese": "セラフィモン",
+  "playCost": "12",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=ST3-11#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for ST3-11 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.",
+        "question": "Can I use this card's effect to target one of my opponent's Digimon with 4000 DP or less, reduce its DP to 0, and delete it?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No battle occurs, and the attack ends. If there are other effects to activate (When Attacking effects, etc.), the attack ends after activating them.",
+        "question": "This card attacks an opponent's Digimon, then that Digimon's DP is reduced to 0 and deleted by this card's effect. What happens to the attack?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. ＜Blocker＞ and other effects that activate when an opponent's Digimon attacks only activate during the reaction timing window that occurs after When Attacking effects, etc. finish activating. As such, once a block has been declared, the window for activating this card's inherited effect has already passed, so it can't be activated.",
+        "question": "This card attacks an opponent's Digimon, then my opponent blocks with a Digimon that has ＜Blocker＞. Can I use this card's effect to reduce the DP of the blocking Digimon to 0 and delete it?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BTC-01:_Booster_Ultimate_Evolution",
+          "text": "BTC-01: Booster Ultimate Evolution"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-3:_Starter_Deck_Heaven%27s_Yellow",
+          "text": "ST-3: Starter Deck Heaven's Yellow"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-3:_Starter_Deck_Heaven%27s_Yellow",
+          "text": "ST-3: Starter Deck Heaven's Yellow"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-3:_Starter_Deck_Heaven%27s_Yellow",
+          "text": "ST-3: Starter Deck Heaven's Yellow"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "炽天使兽",
+  "traditionalChinese": "究極天使獸",
+  "type": "Seraph/Three Great Angels"
+}

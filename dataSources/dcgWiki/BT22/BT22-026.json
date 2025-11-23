@@ -1,0 +1,120 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[Garurumon] in name or w/[CS] trait: Cost 3",
+  "attribute": "Data",
+  "blockIcon": "05",
+  "cardEffects": "[Hand] [Main] If you have [Nokia Shiramine], 1 of your [Gabumon] digivolves into this card for a digivolution cost of 6, ignoring digivolution requirements.\n[When Digivolving] Activate 1 of the effects below:\n・1 of your [Agumon] may digivolve into [WarGreymon] in the hand, ignoring digivolution requirements and without paying the cost.\n・Return 1 of your opponent's Digimon with the lowest level to the hand.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "4",
+      "level": "5"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "4",
+      "level": "5"
+    }
+  ],
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+        "captionText": "BT-22: Booster Cyber Eden (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT22-026.png",
+        "imgName": "BT22-026.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/28/BT22-026.png/revision/latest?cb=20250704054354",
+        "uploadDate": "2025-07-04T05:43:54"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+        "captionText": "BT-22: Booster Cyber Eden (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT22-026-Sample.png",
+        "imgName": "BT22-026-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/28/BT22-026-Sample.png/revision/latest?cb=20250615001631",
+        "uploadDate": "2025-06-15T00:16:31"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+        "captionText": "BT-22: Booster Cyber Eden (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT22-026-J.png",
+        "imgName": "BT22-026-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/08/BT22-026-J.png/revision/latest?cb=20250704054938",
+        "uploadDate": "2025-07-04T05:49:38"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/28/BT22-026.png/revision/latest?cb=20250704054354",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] If this Digimon has [Omnimon] in its name, it unsuspends.",
+  "level": "6",
+  "name": "MetalGarurumon",
+  "nameJapanese": "メタルガルルモン",
+  "playCost": "12",
+  "rarity": "Rare",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+          "text": "BT-22: Booster Cyber Eden"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+          "text": "BT-22: Booster Cyber Eden"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+          "text": "BT-22: Booster Cyber Eden"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+          "text": "BT-22: Booster Cyber Eden"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ]
+  },
+  "type": "Cyborg/CS"
+}

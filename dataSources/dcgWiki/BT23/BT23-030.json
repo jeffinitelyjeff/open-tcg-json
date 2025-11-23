@@ -1,0 +1,120 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Sukamon] in name or w/[CS] trait: Cost 3",
+  "attribute": "Virus",
+  "blockIcon": "05",
+  "cardEffects": "＜Alliance＞ (When this Digimon attacks, by suspending 1 of your other Digimon, add the suspended Digimon's DP to this Digimon and it gains ＜Security A. +1＞ for the attack.)\n[Main] [Once Per Turn] By paying 1 cost, you may play 1 play cost 3 or lower card with [Chuumon] or [Sukamon] in its name or the [CS] trait from your hand without paying the cost. Then, 1 of your level 3 or higher Digimon gains ＜Reboot＞ (Unsuspend this Digimon during your opponent's unsuspend phase.) and ＜Blocker＞ (This Digimon can block in the blocker timing.) until your opponent's turn ends.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Not released",
+    "korean": "Not released",
+    "nameJapanese": "Not released"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+        "captionText": "BT-23: Booster Hackers' Slumber (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT23-030.png",
+        "imgName": "BT23-030.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ec/BT23-030.png/revision/latest?cb=20251003041126",
+        "uploadDate": "2025-10-03T04:11:26"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+        "captionText": "BT-23: Booster Hackers' Slumber (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT23-030-Sample.png",
+        "imgName": "BT23-030-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a3/BT23-030-Sample.png/revision/latest?cb=20250916061229",
+        "uploadDate": "2025-09-16T06:12:29"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+        "captionText": "BT-23: Booster Hackers' Slumber (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT23-030-J.png",
+        "imgName": "BT23-030-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/52/BT23-030-J.png/revision/latest?cb=20251003043407",
+        "uploadDate": "2025-10-03T04:34:07"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ec/BT23-030.png/revision/latest?cb=20251003041126",
+  "inheritedEffect": "＜Alliance＞ (When this Digimon attacks, by suspending 1 of your other Digimon, add the suspended Digimon's DP to this Digimon and it gains ＜Security A. +1＞ for the attack.)",
+  "level": "5",
+  "name": "Etemon",
+  "nameJapanese": "エテモン",
+  "playCost": "7",
+  "rarity": "Common",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+          "text": "BT-23: Booster Hackers' Slumber"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+          "text": "BT-23: Booster Hackers' Slumber"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+          "text": "BT-23: Booster Hackers' Slumber"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+          "text": "BT-23: Booster Hackers' Slumber"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ]
+  },
+  "type": "Puppet/CS"
+}

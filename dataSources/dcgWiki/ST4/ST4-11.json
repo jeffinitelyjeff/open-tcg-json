@@ -1,0 +1,148 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "00",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-4:_Starter_Deck_Giga_Green",
+        "captionText": "ST-4: Starter Deck Giga Green (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST4-11-C.png",
+        "imgName": "ST4-11-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/dd/ST4-11-C.png/revision/latest?cb=20230823200332",
+        "uploadDate": "2023-08-23T20:03:32"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-4:_Starter_Deck_Giga_Green",
+        "captionText": "ST-4: Starter Deck Giga Green (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST4-11.png",
+        "imgName": "ST4-11.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a4/ST4-11.png/revision/latest?cb=20210430124227",
+        "uploadDate": "2021-04-30T12:42:27"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-4:_Starter_Deck_Giga_Green",
+        "captionText": "ST-4: Starter Deck Giga Green (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST4-11-J.png",
+        "imgName": "ST4-11-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/82/ST4-11-J.png/revision/latest?cb=20201218230454",
+        "uploadDate": "2020-12-18T23:04:54"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-4:_Starter_Deck_Giga_Green",
+        "captionText": "ST-4: Starter Deck Giga Green (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST4-11-K.png",
+        "imgName": "ST4-11-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2e/ST4-11-K.png/revision/latest?cb=20230823141706",
+        "uploadDate": "2023-08-23T14:17:06"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a4/ST4-11.png/revision/latest?cb=20210430124227",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When this Digimon deletes an opponent's Digimon in battle and survives, trash the top card of your opponent's security stack.",
+  "korean": "아트라캅테리몬",
+  "level": "5",
+  "name": "MegaKabuterimon",
+  "nameJapanese": "アトラーカブテリモン",
+  "nameTranslated": "AtlurKabuterimon",
+  "playCost": "7",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=ST4-11#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for ST4-11 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, [Security] effects only activate when flipped over from the security stack.",
+        "question": "I use this card's inherited effect to trash an opponent's Security Card. Does the security effect on that card activate?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, this effect only trashes the top card of your opponent's security stack. It doesn't win you the game if it's empty.",
+        "question": "My opponent has an empty security stack. If I have a Digimon with this card in its digivolution cards, and I use it to attack and delete an opponent's Digimon and survive, do I win the game?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-4:_Starter_Deck_Giga_Green",
+          "text": "ST-4: Starter Deck Giga Green"
+        },
+        "foil&Rarity": "Gold Outline - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-4:_Starter_Deck_Giga_Green",
+          "text": "ST-4: Starter Deck Giga Green"
+        },
+        "foil&Rarity": "Gold Outline - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-4:_Starter_Deck_Giga_Green",
+          "text": "ST-4: Starter Deck Giga Green"
+        },
+        "foil&Rarity": "Gold Outline - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-4:_Starter_Deck_Giga_Green",
+          "text": "ST-4: Starter Deck Giga Green"
+        },
+        "foil&Rarity": "Gold Outline - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "超比多兽",
+  "traditionalChinese": "超比多獸",
+  "type": "Insectoid"
+}

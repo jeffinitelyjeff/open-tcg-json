@@ -1,0 +1,134 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.6 w/[Hero] trait: Cost 3",
+  "attribute": "Data",
+  "blockIcon": "05",
+  "cardEffects": "When this card would be played, by placing 1 of your [Shoutmon] under it, reduce the play cost by 1 and cards in your trash can also be placed for DigiXros.\n[On Play] [When Digivolving] Trash the top 10 stacked cards of 1 of your opponent's Digimon.\n[When Attacking] [Once Per Turn] You may return 1 of your opponent's Digimon with no digivolution cards to the bottom of the deck.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red / Yellow",
+  "digixrosRequirements": "[DigiXros -1] ∞ Digimon cards w/[Xros Heart] or [Blue Flare] trait & different card numbers\nWhen this would be played, you may place specified cards from your hand/battle area under it. Each one reduces the play cost.",
+  "dp": "17000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-030.png",
+        "imgName": "BT21-030.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/51/BT21-030.png/revision/latest?cb=20250404055211",
+        "uploadDate": "2025-04-04T05:52:11"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-030-Sample.png",
+        "imgName": "BT21-030-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d0/BT21-030-Sample.png/revision/latest?cb=20250315122102",
+        "uploadDate": "2025-03-15T12:21:02"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-030-J.png",
+        "imgName": "BT21-030-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6c/BT21-030-J.png/revision/latest?cb=20250404050147",
+        "uploadDate": "2025-04-04T05:01:47"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/51/BT21-030.png/revision/latest?cb=20250404055211",
+  "level": "7",
+  "name": "Shoutmon X7: Superior Mode",
+  "nameJapanese": "シャウトモンX7：スペリオルモード",
+  "playCost": "15",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT21-030#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT21-030 (Apr. 4, 2025)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "The top card is trashed until there are no more stacked cards.Once there is 1 card left, it isn't considered to have \"stacked cards,\" therefore no more are trashed.",
+        "question": "What happens if a Digimon with 10 or fewer cards stacked with it is chosen for this card's [On Play] [When Digivolving] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "It's trashed upon the rule check timing.This trashing isn't considered trashing from the battle area.",
+        "question": "What happens if this card's [On Play] [When Digivolving] effect trashes stacked cards and the Digimon becomes a Digimon without DP?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "It's trashed upon the rule check timing.This trashing isn't considered trashing from the battle area.",
+        "question": "What happens if this card's [On Play] [When Digivolving] effect trashes stacked cards and the Digimon becomes an Option card?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      }
+    ]
+  },
+  "type": "Composite/Xros Heart/Blue Flare/Hero"
+}
