@@ -194,7 +194,8 @@ class DCGWikiSpider(base_spider.BaseSpider):
     card_tables = response.css('.ctable')
     assert len(card_tables) > 0, f"no ctable found"
 
-    # TODO: handle special case with tabber (BT6-084)
+    # TODO: handle special case with tabber (BT6-084, BT23-077)
+    multi_tabs = len(card_tables) > 1
     card_table = card_tables[0]
 
     card_data = self.parse_key_value_table(card_table.css('.info-main'),
@@ -221,12 +222,13 @@ class DCGWikiSpider(base_spider.BaseSpider):
       for lang in [Lang.EN, Lang.JP, Lang.CH, Lang.KR]:
         abbr = lang.abbr().lower()
         cls_name = f'.settable-{abbr}'
-        table = response.css(cls_name)
-        assert len(table) <= 1, f"multiple {cls_name}"
+        tables = response.css(cls_name)
         if lang == Lang.EN or lang == Lang.JP:
-          assert len(table) == 1, f"missing {cls_name}"
-        if len(table) == 1:
-          card_data['setData'][abbr] = self.parse_generic_col_table(table[0])
+          assert len(tables) > 0, f"missing {cls_name}"
+        assert multi_tabs or len(tables) <= 1, f"multiple {cls_name}"
+        if len(tables) == 1:
+          data = self.parse_generic_col_table(tables[0])
+          card_data['setData'][abbr] = data
 
     nav_paths = card_table.css('.info-navigation a::attr(href)').getall()
     pending_subpages = []
