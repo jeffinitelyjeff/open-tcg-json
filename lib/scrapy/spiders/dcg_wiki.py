@@ -25,6 +25,7 @@ CARD_LIST_PATHS = [
 
 KNOWN_ERRATA_WITHOUT_TABLES = [
     'https://digimoncardgame.fandom.com/wiki/BT6-084/Errata',  # Sistermon Ciel
+    'https://digimoncardgame.fandom.com/wiki/ST12-13/Errata',  # Sistermon Ciel
 ]
 
 DEBUG_CARDS = set([
