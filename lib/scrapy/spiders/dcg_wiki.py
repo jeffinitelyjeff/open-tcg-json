@@ -31,6 +31,7 @@ DEBUG_CARDS = set([
     'BT6-084',
     'EX10-074',
     'EX9-021',
+    'Familiar_Token',
 ])
 DEBUG_ON = True
 
@@ -187,6 +188,7 @@ class DCGWikiSpider(base_spider.BaseSpider):
         body=re.sub(r"<br\s*/?>", '\n', response.text).encode())
 
     meta = response.meta
+    set_id = meta.get('set_id')
 
     card_tables = response.css('.ctable')
     assert len(card_tables) > 0, f"no ctable found"
@@ -196,6 +198,9 @@ class DCGWikiSpider(base_spider.BaseSpider):
 
     card_data = self.parse_key_value_table(card_table.css('.info-main'),
                                            ignore_header=True)
+
+    image_url = card_table.css('.image img').xpath('@src').get()
+    card_data['image'] = image_url
 
     # automatically append for key collisions
     for info_table in card_table.css('table')[1:]:
@@ -211,17 +216,16 @@ class DCGWikiSpider(base_spider.BaseSpider):
           card_data[key] = val
 
     card_data['setData'] = {}
-    for lang in [Lang.EN, Lang.JP, Lang.CH, Lang.KR]:
-      abbr = lang.abbr().lower()
-      cls_name = f'.settable-{abbr}'
-      table = response.css(cls_name)
-      assert len(table) <= 1, f"multiple {cls_name}"
-      if lang == Lang.EN or lang == Lang.JP:
-        assert len(table) == 1, f"missing {cls_name}"
-      if len(table) == 1:
-        card_data['setData'][abbr] = self.parse_generic_col_table(table[0])
-
-    # yield JSONItem(card_data, subpath=[set_id, card_num, 'card_data.json'])
+    if set_id != 'tokens':
+      for lang in [Lang.EN, Lang.JP, Lang.CH, Lang.KR]:
+        abbr = lang.abbr().lower()
+        cls_name = f'.settable-{abbr}'
+        table = response.css(cls_name)
+        assert len(table) <= 1, f"multiple {cls_name}"
+        if lang == Lang.EN or lang == Lang.JP:
+          assert len(table) == 1, f"missing {cls_name}"
+        if len(table) == 1:
+          card_data['setData'][abbr] = self.parse_generic_col_table(table[0])
 
     nav_paths = card_table.css('.info-navigation a::attr(href)').getall()
     pending_subpages = []
@@ -259,7 +263,7 @@ class DCGWikiSpider(base_spider.BaseSpider):
     url = response.url
 
     if '/gallery' in url.lower():
-      card_data['images'] = self.parse_card_gallery(response)
+      card_data['galleryImages'] = self.parse_card_gallery(response)
     elif '/rulings' in url.lower():
       card_data['rulings'] = self.parse_card_rulings(response)
     elif '/errata' in url.lower():
