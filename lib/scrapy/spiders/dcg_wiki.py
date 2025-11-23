@@ -72,6 +72,7 @@ def response_url_logger(log_level=logging.DEBUG):
     @functools.wraps(func)
     def wrapper(self, response, *args, **kwargs):
       logging.log(log_level, 'GET %s | %s', response.status, response.url)
+      self.crawler.stats.inc_value(f'httpstatus/count/{response.status}')
       try:
         result = func(self, response, *args, **kwargs)
         if hasattr(result, '__iter__') and not isinstance(result, (str, bytes)):
