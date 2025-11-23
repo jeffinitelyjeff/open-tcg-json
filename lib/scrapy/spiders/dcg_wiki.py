@@ -24,14 +24,17 @@ KNOWN_ERRATA_WITHOUT_TABLES = [
 ]
 
 # DEBUG_CARD = 'EX10-074'
-DEBUG_CARD = 'EX9-021'
+# DEBUG_CARD = 'EX9-021'
+DEBUG_CARD = 'BT6-084'
 DEBUG_ON = True
 
 
 def wiki_url(path: str | None) -> str | None:
   if not path:
     return None
-  return WIKI_DOMAIN + path
+  if path.startswith('/'):
+    return WIKI_DOMAIN + path
+  return path
 
 
 class DCGWikiSpider(base_spider.BaseSpider):
@@ -167,15 +170,6 @@ class DCGWikiSpider(base_spider.BaseSpider):
     card_num = meta.get('card_num')
     set_id = meta.get('set_id')
 
-    body = response.css('.page__main .mw-body-content').get()
-    text = "\n".join([
-        "<html>",
-        body,
-        "</html>",
-    ])
-
-    # yield TextItem(data=text, subpath=[set_id, card_num, 'gallery.html'])
-
     imgs = []
 
     gallery_items = response.css('.wikia-gallery-item')
@@ -207,8 +201,8 @@ class DCGWikiSpider(base_spider.BaseSpider):
       })
 
     # FIXME: store this in a main json file instead
-    yield JSONItem(data={'images': imgs},
-                   subpath=[set_id, card_num, 'gallery_images.json'])
+    data = {'images': imgs}
+    yield JSONItem(data=data, subpath=[set_id, card_num, 'gallery_images.json'])
 
   @staticmethod
   def full_img_for_thumb(thumb_url: str) -> str:
@@ -221,14 +215,36 @@ class DCGWikiSpider(base_spider.BaseSpider):
     card_num = meta.get('card_num')
     set_id = meta.get('set_id')
 
-    body = response.css('.page__main .mw-body-content').get()
-    text = "\n".join([
-        "<html>",
-        body,
-        "</html>",
-    ])
+    ruling_items = response.css('.ruling')
+    assert len(ruling_items) > 0, f"no rulings: {response.url}"
 
-    yield TextItem(data=text, subpath=[set_id, card_num, 'rulings.html'])
+    rulings = []
+    for item in ruling_items:
+      question = ''.join(item.css('.question-body ::text').getall())
+      answer = ''.join(item.css('.answer-body ::text').getall())
+      ref = ''.join(item.css('sup ::text').getall())
+
+      rulings.append({
+          'question': question,
+          'answer': answer,
+          'reference': ref,
+      })
+
+    references = []
+    reference_items = response.css('ol.references li')
+    for i, item in enumerate(reference_items):
+      ref_body = item.css('.reference-text')
+      ref_number = i + 1  # not 0-based index
+      ref_text = ''.join(ref_body.css('::text').getall())
+      ref_link = ref_body.css('a::attr(href)').get()
+      references.append({
+          'num': ref_number,
+          'text': ref_text,
+          'link': wiki_url(ref_link),
+      })
+
+    data = {'rulings': rulings, 'references': references}
+    yield JSONItem(data=data, subpath=[set_id, card_num, 'rulings.json'])
 
   def parse_card_errata(self, response):
     logging.debug('GET %s | %s', response.status, response.url)
