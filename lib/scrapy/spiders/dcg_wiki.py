@@ -33,7 +33,7 @@ DEBUG_CARDS = set([
     'EX9-021',
     'Familiar_Token',
 ])
-DEBUG_ON = True
+DEBUG_ON = False
 
 MANUAL_FIELD_OVERRIDES = {
     'japanese': 'nameJapanese',
