@@ -116,7 +116,7 @@ class DCGWikiSpider(base_spider.BaseSpider):
 
   def card_list_item(self, path):
     sort = self.card_list_sort_value(path)
-    return JSONLItem(path, sort, subpath=['[cardListPages].jsonl'])
+    yield JSONLItem(path, sort, subpath=['[cardListPages].jsonl'])
 
   def card_list_sort_value(self, path):
     # examples:
@@ -181,14 +181,12 @@ class DCGWikiSpider(base_spider.BaseSpider):
                              'set_id': set_id
                          })
 
-  @response_url_logger_DEBUG
+  @response_url_logger_INFO
   def parse_card_page(self, response):
     response = response.replace(
         body=re.sub(r"<br\s*/?>", '\n', response.text).encode())
 
     meta = response.meta
-    card_num = meta.get('card_num')
-    set_id = meta.get('set_id')
 
     card_tables = response.css('.ctable')
     assert len(card_tables) > 0, f"no ctable found"
@@ -196,23 +194,23 @@ class DCGWikiSpider(base_spider.BaseSpider):
     # TODO: handle special case with tabber (BT6-084)
     card_table = card_tables[0]
 
-    data = self.parse_key_value_table(card_table.css('.info-main'),
-                                      ignore_header=True)
+    card_data = self.parse_key_value_table(card_table.css('.info-main'),
+                                           ignore_header=True)
 
     # automatically append for key collisions
     for info_table in card_table.css('table')[1:]:
       new_data = self.parse_key_value_table(info_table)
       for key, val in new_data.items():
-        old_val = data.get(key)
-        if key in data:
+        old_val = card_data.get(key)
+        if key in card_data:
           if isinstance(old_val, list):
-            data[key].append(val)
+            card_data[key].append(val)
           else:
-            data[key] = [old_val, val]
+            card_data[key] = [old_val, val]
         else:
-          data[key] = val
+          card_data[key] = val
 
-    data['setData'] = {}
+    card_data['setData'] = {}
     for lang in [Lang.EN, Lang.JP, Lang.CH, Lang.KR]:
       abbr = lang.abbr().lower()
       cls_name = f'.settable-{abbr}'
@@ -221,19 +219,55 @@ class DCGWikiSpider(base_spider.BaseSpider):
       if lang == Lang.EN or lang == Lang.JP:
         assert len(table) == 1, f"missing {cls_name}"
       if len(table) == 1:
-        data['setData'][abbr] = self.parse_generic_col_table(table[0])
+        card_data['setData'][abbr] = self.parse_generic_col_table(table[0])
 
-    yield JSONItem(data, subpath=[set_id, card_num, 'card_data.json'])
+    # yield JSONItem(card_data, subpath=[set_id, card_num, 'card_data.json'])
 
-    # FIXME: call these sequentially, store everything in a single json file
-    nav_paths = response.css('.ctable .info-navigation a::attr(href)').getall()
+    nav_paths = card_table.css('.info-navigation a::attr(href)').getall()
+    pending_subpages = []
     for path in nav_paths:
       if '/gallery' in path.lower():
-        yield self.request(path, self.parse_card_gallery, meta=meta)
+        pending_subpages.append(path)
       elif '/rulings' in path.lower():
-        yield self.request(path, self.parse_card_rulings, meta=meta)
+        pending_subpages.append(path)
       elif '/errata' in path.lower():
-        yield self.request(path, self.parse_card_errata, meta=meta)
+        pending_subpages.append(path)
+      else:
+        assert False, f"unexpected nav link: {path}"
+
+    meta['card_data'] = card_data
+    meta['pending_subpages'] = pending_subpages
+    yield self.request_or_result(meta)
+
+  def request_or_result(self, meta):
+    pending_subpages = meta.get('pending_subpages', [])
+    card_data = meta.get('card_data')
+    card_num = meta.get('card_num')
+    set_id = meta.get('set_id')
+
+    if pending_subpages:
+      next_path = pending_subpages.pop()
+      return self.request(next_path, self.parse_card_subpage, meta=meta)
+    else:
+      return JSONItem(card_data, subpath=[set_id, f'{card_num}.json'])
+
+  @response_url_logger_INFO
+  def parse_card_subpage(self, response):
+    meta = response.meta
+    card_data = meta.get('card_data')
+
+    url = response.url
+
+    if '/gallery' in url.lower():
+      card_data['images'] = self.parse_card_gallery(response)
+    elif '/rulings' in url.lower():
+      card_data['rulings'] = self.parse_card_rulings(response)
+    elif '/errata' in url.lower():
+      card_data['errata'] = self.parse_card_errata(response)
+    else:
+      assert False, f"unexpected subpage url: {url}"
+
+    yield self.request_or_result(meta)
 
   @staticmethod
   def parse_key_value_table(table,
@@ -291,12 +325,7 @@ class DCGWikiSpider(base_spider.BaseSpider):
 
     return data
 
-  @response_url_logger_DEBUG
   def parse_card_gallery(self, response):
-    meta = response.meta
-    card_num = meta.get('card_num')
-    set_id = meta.get('set_id')
-
     data = defaultdict(list)
 
     headers = response.css('.mw-content-ltr > h2')
@@ -337,19 +366,13 @@ class DCGWikiSpider(base_spider.BaseSpider):
             'captionLink': wiki_url(caption_link)
         })
 
-    # FIXME: store this in a main json file instead
-    yield JSONItem(data, subpath=[set_id, card_num, 'gallery_images.json'])
+    return data
 
   @staticmethod
   def full_img_for_thumb(thumb_url: str) -> str:
     return re.sub(r'/scale-to-width-down/\d+', '', thumb_url)
 
-  @response_url_logger_DEBUG
   def parse_card_rulings(self, response):
-    meta = response.meta
-    card_num = meta.get('card_num')
-    set_id = meta.get('set_id')
-
     ruling_items = response.css('.ruling')
     assert len(ruling_items) > 0, f"no rulings"
 
@@ -379,14 +402,9 @@ class DCGWikiSpider(base_spider.BaseSpider):
       })
 
     data = {'rulings': rulings, 'references': references}
-    yield JSONItem(data, subpath=[set_id, card_num, 'rulings.json'])
+    return data
 
-  @response_url_logger_DEBUG
   def parse_card_errata(self, response):
-    meta = response.meta
-    card_num = meta.get('card_num')
-    set_id = meta.get('set_id')
-
     tables = response.css('.errata-table')
 
     if len(tables) == 0:
@@ -416,5 +434,4 @@ class DCGWikiSpider(base_spider.BaseSpider):
         item['beforeImageURL'] = self.full_img_for_thumb(before_thumb_url)
       data.append(item)
 
-    # FIXME: store this in a main json file instead
-    yield JSONItem(data, subpath=[set_id, card_num, 'errata.json'])
+    return data
