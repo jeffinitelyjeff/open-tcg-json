@@ -338,7 +338,12 @@ class DCGWikiSpider(base_spider.BaseSpider):
 
     for (header, gallery) in zip(headers, galleries):
       region_name = get_text(header.css('.mw-headline')).lower()
-      region_abbr = Lang.abbr_from_full(region_name).lower()
+      region_abbr = (Lang.abbr_from_full(region_name) or "").lower()
+
+      # ignore "other" gallery subsections
+      if not region_abbr:
+        continue
+
       items = gallery.css('.wikia-gallery-item')
 
       for item in items:
