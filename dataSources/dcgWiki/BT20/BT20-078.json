@@ -1,0 +1,134 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "04",
+  "cardEffects": "＜Collision＞ (During this Digimon's attack, all of your opponent's Digimon gain ＜Blocker＞, and must block if possible.)\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n[All Turns] [Once Per Turn] When effects digivolve your opponent's Digimon, ＜De-Digivolve  1＞ 1 of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.)\n[On Deletion] Delete 1 of your opponent's play cost 4 or lower Digimon or Tamers.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "3",
+      "level": "5"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "5"
+    }
+  ],
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-078.png",
+        "imgName": "BT20-078.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f7/BT20-078.png/revision/latest?cb=20250207071157",
+        "uploadDate": "2025-02-07T07:11:57"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-078-Sample.png",
+        "imgName": "BT20-078-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/61/BT20-078-Sample.png/revision/latest?cb=20250113090713",
+        "uploadDate": "2025-01-13T09:07:13"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-078-J.png",
+        "imgName": "BT20-078-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/ae/BT20-078-J.png/revision/latest?cb=20250124093230",
+        "uploadDate": "2025-01-24T09:32:30"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-078-Sample-J.png",
+        "imgName": "BT20-078-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/69/BT20-078-Sample-J.png/revision/latest?cb=20250113090537",
+        "uploadDate": "2025-01-13T09:05:37"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f7/BT20-078.png/revision/latest?cb=20250207071157",
+  "level": "6",
+  "name": "Reapermon",
+  "nameJapanese": "ゴクモン",
+  "nameTranslated": "Gokumon",
+  "playCost": "11",
+  "rarity": "Uncommon",
+  "rule": "[Rule] Trait: Has [Ghost] Type.",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT20-078#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for BT20-078 (2025/01/24, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Since it is triggered simultaneously, it is activated from the turn player's side of the effect.",
+        "question": "Which can be activated first, the [When Digivolving] effect of the opponent's Digimon digivolved by the effect or the [All Opponent's Turns] effect of this card?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Digivolutions are triggered when Digimon are digivolved by effects such as \"P-103 Offense Training. The effects of BT4-011 Agunimon, which treats tamers as Lv.3 Digimon, and BT6-060 Deputymon, which ignores digivolution requirements, are not triggered because they do not cause digivolution.",
+        "question": "When is the [All Turns] effect of this card triggered?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.5_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.5 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+          "text": "BT-20: Booster Over the X"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ]
+  },
+  "type": "Cyborg"
+}

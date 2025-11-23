@@ -1,0 +1,105 @@
+{
+  "blockIcon": "03",
+  "cardEffects": "[Main] Search your security stack. 1 of your Digimon may digivolve in to 1 yellow level 6 or lower Digimon with the [Vaccine] trait among them without paying its cost. Then, shuffle your security stack. If digivolved by this effect and you have Tamer with [T.K. Takaishi] in its name, ＜Recovery +1 (Deck)＞ (Place the top card of your deck on top of your security stack.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Yellow",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-093.png",
+        "imgName": "BT14-093.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f6/BT14-093.png/revision/latest?cb=20231027105757",
+        "uploadDate": "2023-10-27T10:57:57"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Blast_Ace_Pre-Release_Pack",
+        "captionText": "Blast Ace Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-093_P0.png",
+        "imgName": "BT14-093_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/79/BT14-093_P0.png/revision/latest?cb=20231116222519",
+        "uploadDate": "2023-11-16T22:25:19"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-093-J.png",
+        "imgName": "BT14-093-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3b/BT14-093-J.png/revision/latest?cb=20231112134637",
+        "uploadDate": "2023-11-12T13:46:37"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f6/BT14-093.png/revision/latest?cb=20231027105757",
+  "name": "Emissary of Hope",
+  "nameJapanese": "希望の使者",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT14-093#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT14-093 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, this card's effect does not allow ignoring digivolution requirements, so you can only digivolve into a card that meets the digivolution requirements.",
+        "question": "When I use this card's effect to digivolve it into a yellow Digimon card with the [Vaccine] trait in my security stack, can it digivolve regardless of its digivolution requirements?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "You place it after shuffling.",
+        "question": "When using this card's effect to digivolve a security card and I have a Tamer with [T.K. Takaishi], do I place 1 card in my security stack for <Recovery +1 (Deck)> before or after I shuffle my security stack?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't. Since you have 3 cards in your security stack [BT8-024 Angemon]'s effect will trigger, but effects that add or remove cards from the security stack aren't allowed while looking at a security stack, so the effect won't activate.",
+        "question": "I use this card's effect to digivolve my [BT8-024 Angemon] into a level 5 yellow Digimon card with the [Vaccine] trait in my security stack when my security stack has 4 cards. Can I activate my [BT8-024 Angemon]'s [Your Turn] effect to <Recovery +1 (Deck)> if it were to digivolve when my security stack has 3 cards?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] You may play 1 [Patamon] from your hand or trash without paying the cost. Then, add this card to your hand.",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Blast_Ace_Pre-Release_Pack",
+          "text": "Blast Ace Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "traditionalChinese": "希望的使者",
+  "useCost": "1"
+}

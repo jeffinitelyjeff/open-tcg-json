@@ -1,0 +1,107 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "02",
+  "cardEffects": "[On Play] 1 of your purple Digimon gains ＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling.) until the end of your opponent's turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-079.png",
+        "imgName": "BT13-079.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/30/BT13-079.png/revision/latest?cb=20230714185529",
+        "uploadDate": "2023-07-14T18:55:29"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-079-J.png",
+        "imgName": "BT13-079-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/56/BT13-079-J.png/revision/latest?cb=20230217122638",
+        "uploadDate": "2023-02-17T12:26:38"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-079-Sample-J.png",
+        "imgName": "BT13-079-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1c/BT13-079-Sample-J.png/revision/latest?cb=20230204071806",
+        "uploadDate": "2023-02-04T07:18:06"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/3/30/BT13-079.png/revision/latest?cb=20230714185529",
+  "inheritedEffect": "[On Deletion] If not deleted in battle, your opponent trashes 1 card in their hand.",
+  "level": "3",
+  "name": "Falcomon",
+  "nameJapanese": "ファルコモン",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT13-079#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT13-079 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Your opponent chooses.",
+        "question": "Do I or my opponent choose the card to be trashed from their hand when I activate this card's inherited effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes. It activates because the Digimon is deleted by the ＜Retaliation＞ effect, not by battle.",
+        "question": "Does this card’s inherited effect activate when the Digimon with this card in its digivolution cards is deleted by ＜Retaliation＞ on a battled opponent's Digimon?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ryodan",
+          "text": "Ryodan"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ryodan",
+          "text": "Ryodan"
+        }
+      }
+    ]
+  },
+  "type": "Avian"
+}

@@ -1,0 +1,137 @@
+{
+  "attribute": "Data",
+  "blockIcon": "02",
+  "cardEffects": "[Opponent's Turn] This Digimon can't be deleted by your opponent's effects.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "4"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-13:_Starter_Deck_RagnaLoardmon",
+        "captionText": "ST-13: Starter Deck RagnaLoardmon (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST13-13.png",
+        "imgName": "ST13-13.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/69/ST13-13.png/revision/latest?cb=20220916204855",
+        "uploadDate": "2022-09-16T20:48:55"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-13:_Starter_Deck_RagnaLoardmon",
+        "captionText": "ST-13: Starter Deck RagnaLoardmon (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST13-13-J.png",
+        "imgName": "ST13-13-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/56/ST13-13-J.png/revision/latest?cb=20220415091248",
+        "uploadDate": "2022-04-15T09:12:48"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-13:_Starter_Deck_RagnaLoardmon",
+        "captionText": "ST-13: Starter Deck RagnaLoardmon (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST13-13-Sample-J.png",
+        "imgName": "ST13-13-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f7/ST13-13-Sample-J.png/revision/latest?cb=20220320101432",
+        "uploadDate": "2022-03-20T10:14:32"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/69/ST13-13.png/revision/latest?cb=20220916204855",
+  "inheritedEffect": "[End of Your Turn] This Digimon and any of your other Digimon may DNA digivolve into a Digimon card in the hand.",
+  "level": "5",
+  "name": "RaijiLudomon",
+  "nameJapanese": "ライジルドモン",
+  "playCost": "7",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=ST13-13#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for ST13-13 (Mar. 28, 2024)"
+      },
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=ST13-13#qaResult_card",
+        "num": 2,
+        "text": "Official English Q&A for ST13-13 (Sep. 6, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "At the end of your turn, this effect allows you to DNA digivolve the Digimon with this card in its digivolution cards, along with one of your other Digimon, into a Digimon that has a DNA digivolution requirement from your hand. Note that this happens before it becomes your opponent’s turn.",
+        "question": "How does this card’s inherited effect work, exactly?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. You can’t ignore the digivolution requirements, so you can’t DNA digivolve into a Digimon card that doesn’t have a DNA digivolution requirement.",
+        "question": "With this card's inherited effect, can I DNA digivolve into a Digimon card in my hand that doesn’t have a DNA digivolution requirement?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. You can’t ignore the digivolution requirements, so you can’t DNA digivolve using Digimon that aren’t specified in [DNA Digivolution].",
+        "question": "Does this card's inherited effect allow me to DNA digivolve into a card other than the Digimon specified by [DNA Digivolution] in the hand?",
+        "reference": "[2]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-13:_Starter_Deck_RagnaLoardmon",
+          "text": "ST-13: Starter Deck RagnaLoardmon"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-13:_Starter_Deck_RagnaLoardmon",
+          "text": "ST-13: Starter Deck RagnaLoardmon"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-13:_Starter_Deck_RagnaLoardmon",
+          "text": "ST-13: Starter Deck RagnaLoardmon"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ]
+  },
+  "type": "Armor/Legend-Arms"
+}

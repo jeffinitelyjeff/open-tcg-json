@@ -1,0 +1,124 @@
+{
+  "attribute": "Unknown",
+  "blockIcon": "01",
+  "cardEffects": "[On Play] [When Digivolving] You may trash 1 card in your hand. If you trash a purple card, delete 1 of your opponent's level 3 Digimon. If you trash a yellow card, 1 of your opponent's Digimon gets -3000 DP for the turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple / Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "6000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-076.png",
+        "imgName": "BT9-076.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/88/BT9-076.png/revision/latest?cb=20220625065138",
+        "uploadDate": "2022-06-25T06:51:38"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-076-J.png",
+        "imgName": "BT9-076-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/26/BT9-076-J.png/revision/latest?cb=20220218110429",
+        "uploadDate": "2022-02-18T11:04:29"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-076-Sample-J.png",
+        "imgName": "BT9-076-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2b/BT9-076-Sample-J.png/revision/latest?cb=20220114061214",
+        "uploadDate": "2022-01-14T06:12:14"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/88/BT9-076.png/revision/latest?cb=20220625065138",
+  "inheritedEffect": "[On Deletion] When this Digimon had 2 or more colurs, gain 2 memory.",
+  "level": "5",
+  "name": "Maycrackmon: Vicious Mode",
+  "nameJapanese": "メイクラックモン：ヴィシャスモード",
+  "playCost": "6",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT9-076#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT9-076 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes. A 2-color card is treated as both colors, so you can activate both effects.",
+        "question": "If this card’s [On Play][When Digivolving] effect trashes a card that’s both purple and yellow, can I both delete 1 of my opponent’s level 3 Digimon and give 1 of my opponent’s Digimon -3000 DP for the turn?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it does.",
+        "question": "When this card is in the digivolution cards of a Digimon with an effect that adds colors, such as “This Digimon is also treated as red,” does this card’s inherited effect activate?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ]
+  },
+  "type": "Unknown"
+}

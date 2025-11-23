@@ -1,0 +1,86 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "04",
+  "cardEffects": "[On Deletion] 1 of your opponent's Digimon gains ＜Security A. -1＞  (This Digimon checks 1 additional security card.) until the end of their turn. Then, if you have 2 or fewer security cards, ＜Recovery +1 (Deck)＞ (Place the top card of your deck on top of your security stack.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-032.png",
+        "imgName": "BT19-032.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/56/BT19-032.png/revision/latest?cb=20241011092007",
+        "uploadDate": "2024-10-11T09:20:07"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-032-J.png",
+        "imgName": "BT19-032-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f6/BT19-032-J.png/revision/latest?cb=20240920100000",
+        "uploadDate": "2024-09-20T10:00:00"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-032-Sample-J.png",
+        "imgName": "BT19-032-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/23/BT19-032-Sample-J.png/revision/latest?cb=20240908061429",
+        "uploadDate": "2024-09-08T06:14:29"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/56/BT19-032.png/revision/latest?cb=20241011092007",
+  "inheritedEffect": "＜Barrier＞ (When this Digimon would be deleted in battle, by trashing the top card of your security stack, prevent that deletion.)",
+  "level": "4",
+  "name": "Airdramon",
+  "nameJapanese": "エアドラモン",
+  "playCost": "4",
+  "rarity": "Common",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+          "text": "BT18-19: Special Booster Ver.2.0"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+          "text": "BT-19: Booster Xros Evolution"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      }
+    ]
+  },
+  "type": "Mythical Beast"
+}

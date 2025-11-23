@@ -1,0 +1,141 @@
+{
+  "blockIcon": "02",
+  "cardEffects": "[Main] Choose 1 of your level 4 or higher Digimon with [Shoutmon] in its name. Delete 1 of your opponent's Digimon with DP less than or equal to the chosen Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Red",
+  "errata": [
+    {
+      "afterImageURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8f/BT10-096-Errata.png/revision/latest?cb=20221021171623",
+      "afterText": "[Security] Reveal the top 3 cards of your deck. You may add 1 Digimon card with the [Xros Heart] trait among them to your hand, and play 1 [Taiki Kudo] among them without paying its memory cost. Place the rest at the bottom of your deck in any order.",
+      "beforeImageURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7b/BT10-096.png/revision/latest?cb=20221007211153",
+      "beforeText": "[Security] Reveal the top 3 cards of your deck. Add 1 card with the [Xros Heart] trait among them to your hand, and you may play 1 [Taiki Kudo] among them without paying its memory cost. Place the rest at the bottom of your deck in any order."
+    }
+  ],
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-096.png",
+        "imgName": "BT10-096.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7b/BT10-096.png/revision/latest?cb=20221007211153",
+        "uploadDate": "2022-10-07T21:11:53"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Revision_Pack_2023",
+        "captionText": "Revision Pack 2023 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-096-Errata.png",
+        "imgName": "BT10-096-Errata.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8f/BT10-096-Errata.png/revision/latest?cb=20221021171623",
+        "uploadDate": "2022-10-21T17:16:23"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-096-J.png",
+        "imgName": "BT10-096-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3c/BT10-096-J.png/revision/latest?cb=20220520104233",
+        "uploadDate": "2022-05-20T10:42:33"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-096-Sample-J.png",
+        "imgName": "BT10-096-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/82/BT10-096-Sample-J.png/revision/latest?cb=20220429040932",
+        "uploadDate": "2022-04-29T04:09:32"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8f/BT10-096-Errata.png/revision/latest?cb=20221021171623",
+  "name": "Burning Star Crusher",
+  "nameJapanese": "バーニングスタークラッシャー",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT10-096#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT10-096 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, that's correct.",
+        "question": "If [Taiki Kudo] is among the cards revealed by this card's [Security] effect, can it be played?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can play [Taiki Kudo] even if there isn't a Digimon card with the [Xros Heart] trait.",
+        "question": "If there is no Digimon card with the [Xros Heart] trait among the three revealed cards, can I still play [Taiki Kudo] from among the revealed cards?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, if you perform any of this effect you must perform as much of it as possible, so if both a Digimon card with the [Xros Heart] trait and a [Taiki Kudo] are among the 3 cards revealed, you must perform both \"add [...] to your hand\" and \"play 1 [Taiki Kudo],\" or you must choose to perform neither.",
+        "question": "This card's [Security] effect reveals 3 cards. If both a Digimon card with the [Xros Heart] trait and a [Taiki Kudo] are among the cards revealed, can I choose to only activate the effect that adds the Digimon to my hand and not play [Taiki Kudo], or the other way around?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Reveal the top 3 cards of your deck. You may add 1 Digimon card with the [Xros Heart] trait among them to your hand, and play 1 [Taiki Kudo] among them without paying its memory cost. Place the rest at the bottom of your deck in any order.",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Revision_Pack_2023",
+          "text": "Revision Pack 2023"
+        },
+        "foil&Rarity": "No Foil - Errata Text - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "燃星碎裂斩",
+  "traditionalChinese": "燃星碎裂斬",
+  "useCost": "4"
+}

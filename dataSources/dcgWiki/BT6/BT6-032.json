@@ -1,0 +1,121 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "01",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-032.png",
+        "imgName": "BT6-032.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bd/BT6-032.png/revision/latest?cb=20210921061232",
+        "uploadDate": "2021-09-21T06:12:32"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-032-J.png",
+        "imgName": "BT6-032-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b6/BT6-032-J.png/revision/latest?cb=20210521045905",
+        "uploadDate": "2021-05-21T04:59:05"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-01:_Limited_Card_Pack_Digimon_Ghost_Game",
+        "captionText": "LM-01: Limited Card Pack Digimon Ghost Game (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-032_P1-J.png",
+        "imgName": "BT6-032_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3c/BT6-032_P1-J.png/revision/latest?cb=20230721075210",
+        "uploadDate": "2023-07-21T07:52:10"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-01:_Limited_Card_Pack_Digimon_Ghost_Game",
+        "captionText": "LM-01: Limited Card Pack Digimon Ghost Game (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-032_P1-Sample-J.png",
+        "imgName": "BT6-032_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c1/BT6-032_P1-Sample-J.png/revision/latest?cb=20230710144114",
+        "uploadDate": "2023-07-10T14:41:14"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bd/BT6-032.png/revision/latest?cb=20210921061232",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When a card is removed from your security stack, ＜Draw 1＞ (Draw 1 card from your deck.)",
+  "korean": "테이파몬",
+  "level": "3",
+  "name": "Tapirmon",
+  "nameJapanese": "バクモン",
+  "nameTranslated": "Bakumon",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT6-032#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT6-032 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes. Both effects activate, so you can draw a total of 2 cards.",
+        "question": "I have 2 Digimon with this card in their digivolution cards in my battle area, and a card is removed from my security stack. Do the inherited effects on both Digimon activate, activating ＜Draw 1＞ twice and drawing me 2 cards?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+          "text": "BT-06: Booster Double Diamond"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+          "text": "BT-06: Booster Double Diamond"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-01:_Limited_Card_Pack_Digimon_Ghost_Game",
+          "text": "LM-01: Limited Card Pack Digimon Ghost Game"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "simplifiedChinese": "梦貘兽",
+  "traditionalChinese": "夢貘獸",
+  "type": "Holy Beast"
+}

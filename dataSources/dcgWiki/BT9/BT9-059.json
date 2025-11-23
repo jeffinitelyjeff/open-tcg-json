@@ -1,0 +1,122 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "01",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "0",
+      "level": "2"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "0",
+      "level": "2"
+    }
+  ],
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-059.png",
+        "imgName": "BT9-059.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fb/BT9-059.png/revision/latest?cb=20220625065121",
+        "uploadDate": "2022-06-25T06:51:21"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-059-J.png",
+        "imgName": "BT9-059-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1c/BT9-059-J.png/revision/latest?cb=20220218110417",
+        "uploadDate": "2022-02-18T11:04:17"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-059-Sample-J.png",
+        "imgName": "BT9-059-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f3/BT9-059-Sample-J.png/revision/latest?cb=20220129095827",
+        "uploadDate": "2022-01-29T09:58:27"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fb/BT9-059.png/revision/latest?cb=20220625065121",
+  "inheritedEffect": "[All Turns] While this Digimon has 2 or more colors, this Digimon gets +1000 DP.",
+  "korean": "테이파몬",
+  "level": "3",
+  "name": "Tapirmon",
+  "nameJapanese": "バクモン",
+  "nameTranslated": "Bakumon",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT9-059#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT9-059 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it does.",
+        "question": "When this card is in the digivolution cards of a Digimon with an effect that adds colors, such as “This Digimon is also treated as red,” does this card’s inherited effect activate?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "梦貘兽",
+  "traditionalChinese": "夢貘獸",
+  "type": "Holy Beast"
+}

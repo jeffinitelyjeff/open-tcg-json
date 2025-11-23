@@ -1,0 +1,106 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[Your Turn] [Once Per Turn] When you play [Hina Kurihara], delete 1 of your opponent's Digimon with 3000 DP or less.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "0",
+      "level": "2"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "0",
+      "level": "2"
+    }
+  ],
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-005.png",
+        "imgName": "EX3-005.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/dd/EX3-005.png/revision/latest?cb=20221111122903",
+        "uploadDate": "2022-11-11T12:29:03"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-005-J.png",
+        "imgName": "EX3-005-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3a/EX3-005-J.png/revision/latest?cb=20220722083948",
+        "uploadDate": "2022-07-22T08:39:48"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-005-Sample-J.png",
+        "imgName": "EX3-005-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f6/EX3-005-Sample-J.png/revision/latest?cb=20220706060732",
+        "uploadDate": "2022-07-06T06:07:32"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/dd/EX3-005.png/revision/latest?cb=20221111122903",
+  "inheritedEffect": "[When Attacking] If this Digimon has an [On Play] effect, delete 1 of your opponent's Digimon with 3000 DP or less.",
+  "korean": "보보몬",
+  "level": "3",
+  "name": "Vorvomon",
+  "nameJapanese": "ヴォーボモン",
+  "playCost": "3",
+  "rarity": "Uncommon",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-02: Extra Booster 2 Draconic Roar",
+        "foil&Rarity": "",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+          "text": "EX-03: Theme Booster Draconic Roar"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+          "text": "EX-03: Theme Booster Draconic Roar"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "火波兽",
+  "traditionalChinese": "火波獸",
+  "type": "Rock Dragon"
+}

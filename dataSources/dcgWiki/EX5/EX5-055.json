@@ -1,0 +1,155 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[Leomon] in name: Cost 4",
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "＜Fortitude＞ (When this Digimon with digivolution cards is deleted, play this card without paying the cost.)\n[When Digivolving] [On Deletion] ＜De-Digivolve  1＞ 1 of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.) Then, return 1 of their 6000 DP or lower Digimon to the bottom of the deck.\n[End of Attack] [Once Per Turn] Return 1 of your opponent's 4000 DP or lower Digimon to the bottom of the deck. If you didn't, unsuspend this Digimon.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black / Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "5",
+      "level": "5"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "5",
+      "level": "5"
+    }
+  ],
+  "dp": "13000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-055.png",
+        "imgName": "EX5-055.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ef/EX5-055.png/revision/latest?cb=20240112102921",
+        "uploadDate": "2024-01-12T10:29:21"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-055_P1.png",
+        "imgName": "EX5-055_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1e/EX5-055_P1.png/revision/latest?cb=20240119125629",
+        "uploadDate": "2024-01-19T12:56:29"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-055-J.png",
+        "imgName": "EX5-055-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/28/EX5-055-J.png/revision/latest?cb=20230818055404",
+        "uploadDate": "2023-08-18T05:54:04"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-055-Sample-J.png",
+        "imgName": "EX5-055-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/ae/EX5-055-Sample-J.png/revision/latest?cb=20230806090605",
+        "uploadDate": "2023-08-06T09:06:05"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-055_P1-J.png",
+        "imgName": "EX5-055_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c8/EX5-055_P1-J.png/revision/latest?cb=20230825062254",
+        "uploadDate": "2023-08-25T06:22:54"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-055_P1-Sample-J.png",
+        "imgName": "EX5-055_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5e/EX5-055_P1-Sample-J.png/revision/latest?cb=20230813092356",
+        "uploadDate": "2023-08-13T09:23:56"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ef/EX5-055.png/revision/latest?cb=20240112102921",
+  "level": "6",
+  "name": "HeavyLeomon",
+  "nameJapanese": "ヘヴィーレオモン",
+  "playCost": "13",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX5-055#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX5-055 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can't activate it.  If a card moves to an area other than the trash before a triggered [On Deletion] effect activates, that [On Deletion] effect won't activate.",
+        "question": "If I activate ＜Fortitude＞ before the [On Deletion] effect when this Digimon is deleted, can I still activate the [On Deletion] effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naochika_Morishita",
+          "text": "Naochika Morishita"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naochika_Morishita",
+          "text": "Naochika Morishita"
+        }
+      }
+    ]
+  },
+  "type": "Machine"
+}

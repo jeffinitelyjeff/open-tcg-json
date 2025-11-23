@@ -1,0 +1,102 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "01",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "6000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-058.png",
+        "imgName": "EX1-058.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c0/EX1-058.png/revision/latest?cb=20211126152132",
+        "uploadDate": "2021-11-26T15:21:32"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-058-J.png",
+        "imgName": "EX1-058-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5c/EX1-058-J.png/revision/latest?cb=20210721041524",
+        "uploadDate": "2021-07-21T04:15:24"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c0/EX1-058.png/revision/latest?cb=20211126152132",
+  "inheritedEffect": "[On Deletion] Return 1 purple level 4 or lower Digimon card from your trash to your hand.",
+  "korean": "데블몬",
+  "level": "4",
+  "name": "Devimon",
+  "nameJapanese": "デビモン",
+  "playCost": "5",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX1-058#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX1-058 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it can.",
+        "question": "Can this card's inherited effect return this card to its owner's hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you must return a card to your hand.",
+        "question": "When activating this card’s inherited effect, am I required to return a level 4 or lower Digimon card from my trash to my hand?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-01: Extra Booster",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "simplifiedChinese": "恶魔兽",
+  "traditionalChinese": "惡魔獸",
+  "type": "Fallen Angel"
+}

@@ -1,0 +1,171 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Ophanimon]: Cost 2",
+  "attribute": "Vaccine",
+  "blockIcon": "01",
+  "cardEffects": "[When Digivolving] If this Digimon has a purple card in its digivolution cards, delete 1 of your opponent's level 4 or lower Digimon. If this Digimon has a yellow card in its digivolution cards, ＜Recovery +1 (Deck)＞ (Place the top card of your deck on top of your security stack.)\n[On Deletion] You may play 1 purple or yellow level 4 or lower Digimon card from your trash without paying its memory cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple / Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "4",
+      "level": "5"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "5"
+    }
+  ],
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-082.png",
+        "imgName": "BT8-082.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fe/BT8-082.png/revision/latest?cb=20220422124930",
+        "uploadDate": "2022-04-22T12:49:30"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-082_P1.png",
+        "imgName": "BT8-082_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/78/BT8-082_P1.png/revision/latest?cb=20220520080046",
+        "uploadDate": "2022-05-20T08:00:46"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-082-J.png",
+        "imgName": "BT8-082-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a0/BT8-082-J.png/revision/latest?cb=20211119075609",
+        "uploadDate": "2021-11-19T07:56:09"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-082_P1-J.png",
+        "imgName": "BT8-082_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5e/BT8-082_P1-J.png/revision/latest?cb=20211119111916",
+        "uploadDate": "2021-11-19T11:19:16"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-082-Sample-J.png",
+        "imgName": "BT8-082-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b6/BT8-082-Sample-J.png/revision/latest?cb=20211031043018",
+        "uploadDate": "2021-10-31T04:30:18"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fe/BT8-082.png/revision/latest?cb=20220422124930",
+  "level": "6",
+  "name": "Ophanimon Falldown Mode",
+  "nameJapanese": "オファニモン：フォールダウンモード",
+  "nameTranslated": "Ofanimon Falldown Mode",
+  "playCost": "12",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT8-082#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT8-082 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.",
+        "question": "If both purple and yellow cards are in this card’s digivolution cards, can I activate both parts of this card’s [When Digivolving] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "If a single purple and yellow multicolor card is in this card’s digivolution cards, can I activate both parts of this card’s [When Digivolving] effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naochika_Morishita",
+          "text": "Naochika Morishita"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naochika_Morishita",
+          "text": "Naochika Morishita"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naochika_Morishita",
+          "text": "Naochika Morishita"
+        }
+      }
+    ]
+  },
+  "type": "Fallen Angel"
+}

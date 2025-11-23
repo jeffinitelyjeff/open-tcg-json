@@ -1,0 +1,166 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [GeoGreymon]: Cost 3",
+  "attribute": "Vaccine",
+  "blockIcon": "05",
+  "cardEffects": "[On Play] [When Digivolving] For the turn, 1 of your [Marcus Damon]s is also treated as a 3000 DP Digimon, can't digivolve, and gains ＜Rush＞ (This Digimon can attack the turn it comes into play.) and ＜Alliance＞  (When this Digimon attacks, by suspending 1 of your other Digimon, add the suspended Digimon's DP to this Digimon and it gains ＜Security A. +1＞ for the attack.) Then, 1 of your Digimon may attack.\n[All Turns] [Once Per Turn] When any of your yellow or red Tamers are deleted, you may place 1 [Marcus Damon] from your trash as the top security card.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow / Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-044.png",
+        "imgName": "BT21-044.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/98/BT21-044.png/revision/latest?cb=20250404060610",
+        "uploadDate": "2025-04-04T06:06:10"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-044-Sample.png",
+        "imgName": "BT21-044-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/33/BT21-044-Sample.png/revision/latest?cb=20250212062352",
+        "uploadDate": "2025-02-12T06:23:52"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-044-J.png",
+        "imgName": "BT21-044-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c7/BT21-044-J.png/revision/latest?cb=20250404053533",
+        "uploadDate": "2025-04-04T05:35:33"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/98/BT21-044.png/revision/latest?cb=20250404060610",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When any of your yellow or red Tamers are deleted, you may place 1 [Marcus Damon] from your trash as the top security card.",
+  "level": "5",
+  "name": "RizeGreymon",
+  "nameJapanese": "ライズグレイモン",
+  "playCost": "7",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT21-044#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT21-044 (Apr. 4, 2025)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "It causes that card to also be treated as a Digimon with X000 DP.For example, if a Tamer is treated as a Digimon, it will gain inherited effects. In addition, it will be able to attack.",
+        "question": "What does an \"is also treated as a Digimon with X000 DP\" effect do, exactly?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it is treated as both a Digimon and a Tamer.",
+        "question": "If a Tamer is treated as a Digimon using an \"is also treated as a Digimon with X000 DP\" effect, is it no longer considered a Tamer?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "When it activates an effect, it is considered both a Digimon effect and a Tamer effect.",
+        "question": "If a Tamer is treated as a Digimon using an \"is also treated as a Digimon with X000 DP\" effect and it activates an effect, is it treated as an effect of a Digimon or a Tamer?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.When an effect is activated on a card that's treated as both a Digimon and a Tamer, the effect is treated as both a Digimon effect and a Tamer effect, therefore you can gain memory.",
+        "question": "Can I gain memory using an effect on a Tamer that's treated as a Digimon with X000 DP due to an effect while my opponent has \"your opponent can't gain memory other than by Tamer effects\" activated?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it can attack.",
+        "question": "If this card's [On Play] [When Digivolving] effect is used to treat [Marcus Damon] as a Digimon, can I use the part of the effect after \"then\" to attack using that [Marcus Damon]?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "If this card's [On Play] [When Digivolving] effect is used to treat [Marcus Damon] as a Digimon, can I choose to not attack using the part of the effect after \"then\"?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it triggers.",
+        "question": "Does this card's [All Turns] effect also trigger when a [Marcus Damon] treated as a Digimon is deleted?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      }
+    ]
+  },
+  "type": "Cyborg"
+}

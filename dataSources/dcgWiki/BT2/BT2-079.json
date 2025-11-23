@@ -1,0 +1,152 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "00",
+  "cardEffects": "＜Security A. +1＞ (This Digimon checks 1 additional security card.)\n[Opponent's Turn] When one of your opponent's Digimon becomes suspended, gain 1 memory.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "4",
+    "level": "5"
+  },
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BTC-01:_Booster_Ultimate_Evolution",
+        "captionText": "BTC-01: Booster Ultimate Evolution (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT2-079-C.png",
+        "imgName": "BT2-079-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cc/BT2-079-C.png/revision/latest?cb=20230829001349",
+        "uploadDate": "2023-08-29T00:13:49"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+        "captionText": "BT01-03: Release Special Booster Ver.1.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT2-079.png",
+        "imgName": "BT2-079.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d5/BT2-079.png/revision/latest?cb=20201212014912",
+        "uploadDate": "2020-12-12T01:49:12"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-02:_Booster_Ultimate_Power",
+        "captionText": "BT-02: Booster Ultimate Power (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT2-079-J.png",
+        "imgName": "BT2-079-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/36/BT2-079-J.png/revision/latest?cb=20201218172617",
+        "uploadDate": "2020-12-18T17:26:17"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+        "captionText": "BT01-03: Release Special Booster Ver.1.0 (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT2-079-K.png",
+        "imgName": "BT2-079-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/27/BT2-079-K.png/revision/latest?cb=20230814201312",
+        "uploadDate": "2023-08-14T20:13:12"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d5/BT2-079.png/revision/latest?cb=20201212014912",
+  "korean": "베놈묘티스몬",
+  "level": "6",
+  "name": "VenomMyotismon",
+  "nameJapanese": "ヴェノムヴァンデモン",
+  "nameTranslated": "VenomVamdemon",
+  "playCost": "12",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [],
+    "rulings": [
+      {
+        "answer": "Since the effect of [BT2-079 VenomMyotismon] and [When Attacking] would be resolved at the same time, the opponent's effect will be resolved first, and then VenomMyotismon's effect will be resolved.",
+        "question": "[BT2-079 VenomMyotismon]'s effect is \"[Opponent's Turn] When the opponent's Digimon suspends\". The opponent's Digimon is rested to attack. Which comes first [When Attacking] or the [Opponent's Turn] effect of VenomMyotismon to increase memory by 1? Is it the same timing as [When Attacking]?",
+        "reference": ""
+      },
+      {
+        "answer": "No, it is triggered as soon as the opponent declares an attack suspending the Digimon. (See more in Attack Resolution)",
+        "question": "Is [BT2-079 VenomMyotismon]'s [Opponent's Turn] effect considered a [Reaction] effect?",
+        "reference": ""
+      },
+      {
+        "answer": "No, you cannot. The effect of this card was not triggered when the attack was declared (which caused the Digimon to suspend), so it cannot be activated. (See more in Effect Resolution)",
+        "question": "My opponent attacks and activates an effect that ＜De-Digivolve＞ on my Level 7 Digimon that becomes a [BT2-079 VenomMyotismon]. Can I use VenomMyotismon's effect?",
+        "reference": ""
+      },
+      {
+        "answer": "No, you cannot. Even though the effect of [BT2-079 VenomMyotismon] was triggered, the Digimon has lost the [Opponent's Turn] effect of VenomMyotismon so it cannot be activated. (See more in Effect Resolution)",
+        "question": "My opponent attacks and activates an effect that ＜De-Digivolve＞ on my [BT2-079 VenomMyotismon]. Can I use VenomMyotismon's effect?",
+        "reference": ""
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BTC-01:_Booster_Ultimate_Evolution",
+          "text": "BTC-01: Booster Ultimate Evolution"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+          "text": "BT01-03: Release Special Booster Ver.1.0"
+        },
+        "foil&Rarity": "Gold Outline - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-02:_Booster_Ultimate_Power",
+          "text": "BT-02: Booster Ultimate Power"
+        },
+        "foil&Rarity": "Gold Outline - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+          "text": "BT01-03: Release Special Booster Ver.1.0"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "怨毒吸血魔兽",
+  "traditionalChinese": "究極吸血魔獸",
+  "type": "Dark Animal"
+}

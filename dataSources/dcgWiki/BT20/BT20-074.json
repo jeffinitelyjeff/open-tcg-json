@@ -1,0 +1,129 @@
+{
+  "altDigivolutionRequirements": "[DNA Digivolve] Purple Lv.4 + Red Lv.4 : Cost 0\nStack the 2 specified Digimon and digivolve unsuspended.",
+  "attribute": "Free",
+  "blockIcon": "04",
+  "cardEffects": "[On Play] [When Digivolving] You may return 1 Digimon card with [Imperialdramon] in its name or the [Free] trait from your trash to the hand.\n[All Turns] When any of your [Dinobeemon] or [Paildramon] would be returned to hands or decks, 2 of your Digimon may DNA digivolve into [Imperialdramon: Dragon Mode] in the hand.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple / Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-074.png",
+        "imgName": "BT20-074.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2e/BT20-074.png/revision/latest?cb=20250207071157",
+        "uploadDate": "2025-02-07T07:11:57"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-074-Sample.png",
+        "imgName": "BT20-074-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/14/BT20-074-Sample.png/revision/latest?cb=20250112081525",
+        "uploadDate": "2025-01-12T08:15:25"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-074-J.png",
+        "imgName": "BT20-074-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/64/BT20-074-J.png/revision/latest?cb=20250124093230",
+        "uploadDate": "2025-01-24T09:32:30"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-074-Sample-J.png",
+        "imgName": "BT20-074-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2d/BT20-074-Sample-J.png/revision/latest?cb=20250112082430",
+        "uploadDate": "2025-01-12T08:24:30"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2e/BT20-074.png/revision/latest?cb=20250207071157",
+  "inheritedEffect": "[Your Turn] This Digimon doesn't activate [Security] effects on Option cards it checks.",
+  "level": "5",
+  "name": "Dinobeemon",
+  "nameJapanese": "",
+  "playCost": "8",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT20-074#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for BT20-074 (2025/01/24, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, they do not leave the Battle Area. DNA digivolves digivolve as a new Digimon, so it is a different Digimon than the one that leaves.",
+        "question": "If this card's [All Turns] effect is activated and two Digimon including the leaving Digimon digivolve, does the digivolved Digimon leave the Battle Area?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.5_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.5 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+          "text": "BT-20: Booster Over the X"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ]
+  },
+  "type": "Mutant"
+}

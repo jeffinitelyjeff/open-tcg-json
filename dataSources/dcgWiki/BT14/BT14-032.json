@@ -1,0 +1,110 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] Add the top card of your security stack to the hand. Then, you may place 1 card with [Sukamon] in its name from your hand on top of your security stack.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "0",
+      "level": "2"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "0",
+      "level": "2"
+    }
+  ],
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-032.png",
+        "imgName": "BT14-032.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2f/BT14-032.png/revision/latest?cb=20231027105752",
+        "uploadDate": "2023-10-27T10:57:52"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-032-J.png",
+        "imgName": "BT14-032-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5f/BT14-032-J.png/revision/latest?cb=20231111045355",
+        "uploadDate": "2023-11-11T04:53:55"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2f/BT14-032.png/revision/latest?cb=20231027105752",
+  "inheritedEffect": "[On Deletion] 1 of your opponent's Digimon gets -3000 DP for the turn.",
+  "korean": "츄몬",
+  "level": "3",
+  "name": "Chuumon",
+  "nameJapanese": "チューモン",
+  "nameTranslated": "Tyumon",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT14-032#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT14-032 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "You can't add a card to the hand because you have 0 cards in your security stack, but you may perform \"place 1 card with [Sukamon] from your hand on top of your security stack.\"",
+        "question": "How does this card’s effect work if it activates when I have 0 cards in my security stack?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, there are no requirements for the card you add to your hand with this effect, so you don't have to reveal it to your opponent.",
+        "question": "When I use this card's [On Play] effect to add 1 card from my security stack to the hand, do I have to reveal the added card to my opponent?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "吱吱兽",
+  "traditionalChinese": "老鼠獸",
+  "type": "Beast"
+}

@@ -1,0 +1,119 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.2 [Argomon]: Cost 0",
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] Reveal the top 3 cards of your deck. Add 1 [Argomon] and 1 [Rhythm] among them to the hand. Return the rest to the bottom of the deck.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green / Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "1",
+      "level": "2"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "1",
+      "level": "2"
+    }
+  ],
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-042.png",
+        "imgName": "BT17-042.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a1/BT17-042.png/revision/latest?cb=20240720075952",
+        "uploadDate": "2024-07-20T07:59:52"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-042-J.png",
+        "imgName": "BT17-042-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/37/BT17-042-J.png/revision/latest?cb=20240322064308",
+        "uploadDate": "2024-03-22T06:43:08"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-042-Sample-J.png",
+        "imgName": "BT17-042-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9e/BT17-042-Sample-J.png/revision/latest?cb=20240305094758",
+        "uploadDate": "2024-03-05T09:47:58"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a1/BT17-042.png/revision/latest?cb=20240720075952",
+  "inheritedEffect": "[On Deletion] Gain 1 memory.",
+  "korean": "아르고몬",
+  "level": "3",
+  "name": "Argomon",
+  "nameJapanese": "アルゴモン",
+  "nameTranslated": "Algomon",
+  "playCost": "4",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT17-042#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT17-042 (Sep. 6, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, even if you only reveal one of the applicable cards, you can still add it to your hand.",
+        "question": "If the 3 cards I reveal with this card's effect include only an [Argomon] or [Rhythm], can I just add that 1 card to my hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. If you have cards that are targets of this effect, you must add as many cards to your hand as possible.",
+        "question": "If the cards I reveal from my deck for this card's effect include both an [Argomon] and [Rhythm], can I choose to only add one of them to my hand, and place the remaining cards at the bottom of my deck?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "阿耳戈兽",
+  "traditionalChinese": "阿爾戈獸",
+  "type": "Mutant"
+}

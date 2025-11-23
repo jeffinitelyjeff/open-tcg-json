@@ -1,0 +1,97 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "01",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-003.png",
+        "imgName": "EX1-003.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/73/EX1-003.png/revision/latest?cb=20211126152018",
+        "uploadDate": "2021-11-26T15:20:18"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-003-J.png",
+        "imgName": "EX1-003-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/50/EX1-003-J.png/revision/latest?cb=20210721041507",
+        "uploadDate": "2021-07-21T04:15:07"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/73/EX1-003.png/revision/latest?cb=20211126152018",
+  "inheritedEffect": "[When Attacking] When this Digimon attacks a player, delete 1 of your opponent's Digimon with 3000 DP or less.",
+  "korean": "버드라몬",
+  "level": "4",
+  "name": "Birdramon",
+  "nameJapanese": "バードラモン",
+  "playCost": "5",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX1-003#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX1-003 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it does.   [When Attacking] effects activate before your opponent gets to activate ＜Blocker＞.",
+        "question": "I attack my opponent with a Digimon that has this card in its digivolution cards. If they block it with one of their Digimon, does this card's effect activate?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-01: Extra Booster",
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "simplifiedChinese": "巴多拉兽",
+  "traditionalChinese": "巴多拉獸",
+  "type": "Giant Bird"
+}

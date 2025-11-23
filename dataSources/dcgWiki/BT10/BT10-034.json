@@ -1,0 +1,115 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Xros Heart] trait: Cost 2",
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[On Play] If you have another Digimon or Tamer with the [Xros Heart] trait, 1 of your opponent's Digimon gets -3000 DP until the end your opponent's next turn.\n[On Deletion] ＜Save＞ (You may place this card under one of your Tamers.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-034.png",
+        "imgName": "BT10-034.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/ab/BT10-034.png/revision/latest?cb=20221007204403",
+        "uploadDate": "2022-10-07T20:44:03"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-034-J.png",
+        "imgName": "BT10-034-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b3/BT10-034-J.png/revision/latest?cb=20220520104223",
+        "uploadDate": "2022-05-20T10:42:23"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-034-Sample-J.png",
+        "imgName": "BT10-034-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/86/BT10-034-Sample-J.png/revision/latest?cb=20220415050137",
+        "uploadDate": "2022-04-15T05:01:37"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/ab/BT10-034.png/revision/latest?cb=20221007204403",
+  "inheritedEffect": "[Your Turn] While this Digimon has [Shoutmon] in its name, all of your opponent's Security Digimon get -2000 DP.",
+  "level": "4",
+  "name": "Dorulumon",
+  "nameJapanese": "ドルルモン",
+  "playCost": "4",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT10-034#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT10-034 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, they get -2000 DP even when checked by some other Digimon than the one that has this in its digivolution cards.",
+        "question": "While this card is in the digivolution cards of a Digimon with [Shoutmon], do my opponent's Security Digimon get -2000 DP from this card's inherited effect even when they are checked by some other Digimon?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "多鲁路兽",
+  "traditionalChinese": "多路路獸",
+  "type": "Beast/Xros Heart"
+}

@@ -1,0 +1,103 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Wizardmon]: Cost 0",
+  "attribute": "Data",
+  "blockIcon": "02",
+  "cardEffects": "[When Digivolving] Trash the top 2 cards of your deck. If [Wizardmon] or [X Antibody] is in this Digimon's digivolution cards, it gains ＜Blocker＞ (This Digimon can block in the blocker timing.) until the end of your opponent's turn instead.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "6000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-078.png",
+        "imgName": "BT12-078.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/df/BT12-078.png/revision/latest?cb=20230421194635",
+        "uploadDate": "2023-04-21T19:46:35"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-078-J.png",
+        "imgName": "BT12-078-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/04/BT12-078-J.png/revision/latest?cb=20221111110526",
+        "uploadDate": "2022-11-11T11:05:26"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-078-Sample-J.png",
+        "imgName": "BT12-078-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/de/BT12-078-Sample-J.png/revision/latest?cb=20221031054333",
+        "uploadDate": "2022-10-31T05:43:33"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/df/BT12-078.png/revision/latest?cb=20230421194635",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] Trash the top 2 cards of your deck.",
+  "level": "4",
+  "name": "Wizardmon (X Antibody)",
+  "nameJapanese": "ウィザ ーモンX抗体",
+  "playCost": "6",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT12-078#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT12-078 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can't. If [Wizardmon] or [X Antibody] are in the digivolution cards, this Digimon gains ＜Blocker＞ instead. You can't activate \"\"Trash the top 2 cards of your deck\"\".",
+        "question": "Can I activate \"Trash the top 2 cards of your deck.\" of this card's [When Digivolving] effect if [Wizardmon] or [X Antibody] are in its digivolution cards when digivolving into this card ?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      }
+    ]
+  },
+  "type": "Wizard/X Antibody"
+}

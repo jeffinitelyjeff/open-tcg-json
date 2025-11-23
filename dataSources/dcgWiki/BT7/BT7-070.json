@@ -1,0 +1,110 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "01",
+  "cardEffects": "[When Digivolving] You may reveal the top 5 cards of your deck. Trash all Tamer cards among them. Place the remaining cards at the bottom of your deck in any order.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-070.png",
+        "imgName": "BT7-070.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9c/BT7-070.png/revision/latest?cb=20220218130621",
+        "uploadDate": "2022-02-18T13:06:21"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-070-J.png",
+        "imgName": "BT7-070-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3e/BT7-070-J.png/revision/latest?cb=20210820091057",
+        "uploadDate": "2021-08-20T09:10:57"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9c/BT7-070.png/revision/latest?cb=20220218130621",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When you play a Tamer, ＜Draw 1＞ (Draw 1 card from your deck.)",
+  "level": "4",
+  "name": "Wendigomon",
+  "nameJapanese": "ウェンディモン",
+  "nameTranslated": "Wendimon",
+  "playCost": "5",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT7-070#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT7-070 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes. The effect reads, “You may,” so you can choose not to activate it. However, after revealing a card from your deck, you must perform the rest of the effect to the best of your ability.",
+        "question": "Can I choose not to activate this card’s [When Digivolving] effect when digivolving?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes. Once you choose to reveal cards, you must trash all Tamer cards you reveal.",
+        "question": "If Tamer cards are among the 5 cards revealed by this card’s [When Digivolving] effect, am I required to trash them?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      }
+    ]
+  },
+  "type": "Beastkin"
+}

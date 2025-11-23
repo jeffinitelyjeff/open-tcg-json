@@ -1,0 +1,139 @@
+{
+  "altDigivolutionRequirements": "[DNA Digivolve] Red Lv.4 + Purple Lv.4 : Cost 0\nStack the 2 specified Digimon and digivolve unsuspended.",
+  "attribute": "Free",
+  "blockIcon": "04",
+  "cardEffects": "[On Play] [When Digivolving] For the turn, 1 of your Digimon gains ＜Piercing＞  (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.) and gets +4000 DP. Then, this Digimon may attack.\n[All Turns] When any of your [Paildramon] or [Dinobeemon] would be deleted, 2 of your Digimon may DNA digivolve into [Imperialdramon: Dragon Mode] in the hand.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red / Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-016.png",
+        "imgName": "BT20-016.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/41/BT20-016.png/revision/latest?cb=20250207070810",
+        "uploadDate": "2025-02-07T07:08:10"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-016-Sample.png",
+        "imgName": "BT20-016-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/dc/BT20-016-Sample.png/revision/latest?cb=20250112081529",
+        "uploadDate": "2025-01-12T08:15:29"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-016-J.png",
+        "imgName": "BT20-016-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/06/BT20-016-J.png/revision/latest?cb=20250124093846",
+        "uploadDate": "2025-01-24T09:38:46"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-016-Sample-J.png",
+        "imgName": "BT20-016-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7d/BT20-016-Sample-J.png/revision/latest?cb=20250112082535",
+        "uploadDate": "2025-01-12T08:25:35"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/41/BT20-016.png/revision/latest?cb=20250207070810",
+  "inheritedEffect": "＜Security A. +1＞ (This Digimon checks 1 additional security card.)",
+  "level": "5",
+  "name": "Paildramon",
+  "nameJapanese": "パイルドラモン",
+  "playCost": "8",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT20-016#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for BT20-016 (2025/01/24, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it is possible.",
+        "question": "Can I not attack with this card after this card's [On Play] [When Digivolving] effect grants \"Penetrating\" and DP+4000 to one of my Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you cannot attack. While attacking, you cannot declare a new attack. In this situation, you can attack with \"BT16-077 Dino Beamon\" under the [When Digivolving] effect of \"BT16-077 Dino Beamon\". Before the Counter timing, the card's [On Play] and [When Digivolving] effects can be activated, but you cannot declare an attack during the attack, so you cannot attack even if you activate it.",
+        "question": "With the [When Digivolving] effect of \"BT16-077 Dinobeamon\", I played this card [On Play] and attacked a player with \"BT16-077 Dinobeamon\" with \"Quick Attack\" as it is. After that, can I attack with this card by its [On Play] [When Digivolving] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, they do not leave the Battle Area. DNA digivolves digivolve as a new Digimon, so it is a different Digimon than the one that leaves.",
+        "question": "If this card's [All Turns] effect is activated and two Digimon including the leaving Digimon digivolve, does the digivolved Digimon leave the Battle Area?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.5_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.5 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+          "text": "BT-20: Booster Over the X"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ]
+  },
+  "type": "Dragonkin"
+}

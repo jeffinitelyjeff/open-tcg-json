@@ -1,0 +1,92 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "04",
+  "cardEffects": "＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Deletion] By trashing 1 card with the [Puppet] trait in your hand, ＜Draw 2＞ (Draw 2 cards from your deck.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black / Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "1",
+      "level": "2"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "1",
+      "level": "2"
+    }
+  ],
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-19:_Starter_Deck_Fable_Waltz",
+        "captionText": "ST-19: Starter Deck Fable Waltz (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST19-05.png",
+        "imgName": "ST19-05.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/db/ST19-05.png/revision/latest?cb=20240830171837",
+        "uploadDate": "2024-08-30T17:18:37"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-19:_Starter_Deck_Fable_Waltz",
+        "captionText": "ST-19: Starter Deck Fable Waltz (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST19-05-J.png",
+        "imgName": "ST19-05-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b9/ST19-05-J.png/revision/latest?cb=20240419105048",
+        "uploadDate": "2024-04-19T10:50:48"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-19:_Starter_Deck_Fable_Waltz",
+        "captionText": "ST-19: Starter Deck Fable Waltz (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST19-05-Sample-J.png",
+        "imgName": "ST19-05-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/59/ST19-05-Sample-J.png/revision/latest?cb=20240407090117",
+        "uploadDate": "2024-04-07T09:01:17"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/db/ST19-05.png/revision/latest?cb=20240830171837",
+  "level": "3",
+  "name": "PawnChessmon",
+  "nameJapanese": "ポーンチェスモン",
+  "playCost": "3",
+  "rarity": "Common",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-19:_Starter_Deck_Fable_Waltz",
+          "text": "ST-19: Starter Deck Fable Waltz"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-19:_Starter_Deck_Fable_Waltz",
+          "text": "ST-19: Starter Deck Fable Waltz"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
+        }
+      }
+    ]
+  },
+  "type": "Puppet"
+}

@@ -1,0 +1,94 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Elecmon]/[Liollmon]: Cost 2",
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[When Attacking] This Digimon may digivolve into a Digimon card with [Leomon] in its name in your hand with the digivolution cost reduced by 1.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black / Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-047.png",
+        "imgName": "EX5-047.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/78/EX5-047.png/revision/latest?cb=20240112102922",
+        "uploadDate": "2024-01-12T10:29:22"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-047-J.png",
+        "imgName": "EX5-047-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/41/EX5-047-J.png/revision/latest?cb=20230818055404",
+        "uploadDate": "2023-08-18T05:54:04"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-047-Sample-J.png",
+        "imgName": "EX5-047-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c2/EX5-047-Sample-J.png/revision/latest?cb=20230806053622",
+        "uploadDate": "2023-08-06T05:36:22"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/78/EX5-047.png/revision/latest?cb=20240112102922",
+  "inheritedEffect": "[On Deletion] ＜De-Digivolve  1＞ 1 of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.)",
+  "level": "4",
+  "name": "Leomon",
+  "nameJapanese": "レオモン",
+  "playCost": "5",
+  "rarity": "Uncommon",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ]
+  },
+  "type": "Beastkin"
+}

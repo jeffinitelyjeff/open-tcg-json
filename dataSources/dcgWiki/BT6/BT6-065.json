@@ -1,0 +1,163 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "01",
+  "cardEffects": "＜Blocker＞ (This Digimon can block in the blocker timing.)\n[When Digivolving] Reveal the top 5 cards of your deck. You may use 1 Option card with a memory cost of 7 among them without paying its memory cost. Trash the remaining cards. If you don't use an Option card with this effect, delete 1 of your opponent's Digimon with a play cost of 4 or less.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "4",
+    "level": "5"
+  },
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-065.png",
+        "imgName": "BT6-065.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7a/BT6-065.png/revision/latest?cb=20210921061251",
+        "uploadDate": "2021-09-21T06:12:51"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Double_Diamond_Pre-Release_Promotion",
+        "captionText": "Double Diamond Pre-Release Promotion (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-065_P0.png",
+        "imgName": "BT6-065_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a1/BT6-065_P0.png/revision/latest?cb=20220304192906",
+        "uploadDate": "2022-03-04T19:29:06"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Digimon_Card_Game_Deck_Box_Set_Beelzemon",
+        "captionText": "Digimon Card Game Deck Box Set Beelzemon (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-065_P1.png",
+        "imgName": "BT6-065_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/34/BT6-065_P1.png/revision/latest?cb=20230203024849",
+        "uploadDate": "2023-02-03T02:48:49"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-065-J.png",
+        "imgName": "BT6-065-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cc/BT6-065-J.png/revision/latest?cb=20210521045926",
+        "uploadDate": "2021-05-21T04:59:26"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Digimon_Card_Game_Deck_Box_Set_Beelzemon",
+        "captionText": "Digimon Card Game Deck Box Set Beelzemon (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-065_P1-J.png",
+        "imgName": "BT6-065_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e8/BT6-065_P1-J.png/revision/latest?cb=20241129070739",
+        "uploadDate": "2024-11-29T07:07:39"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-065-Sample-J.png",
+        "imgName": "BT6-065-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c9/BT6-065-Sample-J.png/revision/latest?cb=20210508090559",
+        "uploadDate": "2021-05-08T09:05:59"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7a/BT6-065.png/revision/latest?cb=20210921061251",
+  "level": "6",
+  "name": "Gundramon",
+  "nameJapanese": "ガンドラモン",
+  "playCost": "11",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT6-065#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT6-065 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, this card’s [When Digivolving] effect reads “you may,” so you can choose whether or not to use the Option card.  If you don’t use it, you delete 1 of your opponent’s Digimon with a play cost of 4 or less.",
+        "question": "I use this card's [When Digivolving] effect to reveal cards from the top of my deck. If I reveal a 7-cost Option card, do I have to use it?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it does. Reveal as many cards from your deck as you can, then perform the rest of the effect as normal.",
+        "question": "If I have 4 or fewer cards in my deck, does this Digimon’s [When Digivolving] effect activate?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+          "text": "BT-06: Booster Double Diamond"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Double_Diamond_Pre-Release_Pack",
+          "text": "Double Diamond Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Stamped - Pre-Release",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Digimon_Card_Game_Deck_Box_Set_Beelzemon",
+          "text": "Digimon Card Game Deck Box Set Beelzemon"
+        },
+        "foil&Rarity": "Textured - Full Art - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+          "text": "BT-06: Booster Double Diamond"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Digimon_Card_Game_Deck_Box_Set_Beelzemon",
+          "text": "Digimon Card Game Deck Box Set Beelzemon"
+        },
+        "foil&Rarity": "Textured - Full Art - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "type": "Machine/Three Musketeers"
+}

@@ -1,0 +1,168 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "02",
+  "cardEffects": "[When Digivolving] You may play 1 green or blue Tamer card with a play cost of 4 or less from your hand without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "3",
+      "level": "4"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "3",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-054.png",
+        "imgName": "BT11-054.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/00/BT11-054.png/revision/latest?cb=20230210132446",
+        "uploadDate": "2023-02-10T13:24:46"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Dimensional_Phase_Pre-Release_Pack",
+        "captionText": "Dimensional Phase Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-054_P0.png",
+        "imgName": "BT11-054_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b0/BT11-054_P0.png/revision/latest?cb=20230210210902",
+        "uploadDate": "2023-02-10T21:09:02"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Event_Pack_6",
+        "captionText": "Event Pack 6 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-054_P1-Sample.png",
+        "imgName": "BT11-054_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/ba/BT11-054_P1-Sample.png/revision/latest?cb=20240220061634",
+        "uploadDate": "2024-02-20T06:16:34"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Event_Pack_6",
+        "captionText": "Event Pack 6 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-054_P1.png",
+        "imgName": "BT11-054_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b2/BT11-054_P1.png/revision/latest?cb=20240707120350",
+        "uploadDate": "2024-07-07T12:03:50"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-054-J.png",
+        "imgName": "BT11-054-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bc/BT11-054-J.png/revision/latest?cb=20220922115234",
+        "uploadDate": "2022-09-22T11:52:34"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-054-Sample-J.png",
+        "imgName": "BT11-054-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f8/BT11-054-Sample-J.png/revision/latest?cb=20220829090920",
+        "uploadDate": "2022-08-29T09:09:20"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/00/BT11-054.png/revision/latest?cb=20230210132446",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When you play another Digimon by an effect, 1 of your Digimon gains ＜Rush＞ for the turn. (This Digimon can attack the turn it comes into play.)",
+  "level": "5",
+  "name": "Panjyamon",
+  "nameJapanese": "パンジャモン",
+  "playCost": "7",
+  "rarity": "Uncommon",
+  "rule": "[Rule] Name: Also treated as having [Leomon].",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT11-054#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT11-054 (Sep. 13, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "This is a special rule for this card that always treats it as if it also includes the [Leomon] name.  This card can be chosen for text that specifies cards with [Leomon].  This card can't be chosen for text that specifies cards with the name [Leomon].",
+        "question": "What does this card's (Rule) mean, exactly?  (*This card's \"Treat this card/Digimon as if it also has [Leomon]\" has been changed to \"(Rule) Name: Also treated as having [Leomon].\")",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Dimensional_Phase_Pre-Release_Pack",
+          "text": "Dimensional Phase Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Event_Pack_6",
+          "text": "Event Pack 6"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ]
+  },
+  "traditionalChinese": "邦加獸",
+  "type": "Beastkin"
+}

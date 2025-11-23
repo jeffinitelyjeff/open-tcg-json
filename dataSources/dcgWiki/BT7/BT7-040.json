@@ -1,0 +1,159 @@
+{
+  "attribute": "Data",
+  "blockIcon": "01",
+  "cardEffects": "When you would digivolve into this card from your hand, the memory cost of the digivolution is equal to the number of cards in your security stack. If you have 0 security cards, the memory cost is 1.\n[Main] [Once Per Turn] ＜Digi-Burst up to 4＞ (You may trash up to 4 of this Digimon's digivolution cards to activate the effect below.)\n・1 of your opponent's Digimon gets -3000 DP for the turn for each card trashed by this card's effect.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "5",
+    "level": "5"
+  },
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-040.png",
+        "imgName": "BT7-040.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c1/BT7-040.png/revision/latest?cb=20220218130600",
+        "uploadDate": "2022-02-18T13:06:00"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-040_P1.png",
+        "imgName": "BT7-040_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f9/BT7-040_P1.png/revision/latest?cb=20220226050308",
+        "uploadDate": "2022-02-26T05:03:08"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-040-J.png",
+        "imgName": "BT7-040-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c7/BT7-040-J.png/revision/latest?cb=20210820091045",
+        "uploadDate": "2021-08-20T09:10:45"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-040_P1-J.png",
+        "imgName": "BT7-040_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d0/BT7-040_P1-J.png/revision/latest?cb=20210827045733",
+        "uploadDate": "2021-08-27T04:57:33"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c1/BT7-040.png/revision/latest?cb=20220218130600",
+  "level": "6",
+  "name": "Rasenmon",
+  "nameJapanese": "ラセンモン",
+  "playCost": "11",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT7-040#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT7-040 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "The digivolution cost is equal to the number of cards in your security stack minus the amount reduced by the effect.  If you have 4 security cards and activate an effect that reduces digivolution costs by 2, the final digivolution cost will be 2. (4 minus 2.)",
+        "question": "When digivolving into this card from my hand, I activate an effect on another card that reduces digivolution costs. What happens to this card’s digivolution cost?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can. This card's <Digi-Burst up to 4> allows you to choose any number of digivolution cards to trash, from 1 to 4. If you have 3 or fewer digivolution cards, you can activate the effect as long as you can trash 1 or more of them.",
+        "question": "This card’s <Digi-Burst> reads “up to 4.” Can I activate the effect if I have 3 or fewer digivolution cards?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, this effect can only target 1 of your opponent's Digimon.",
+        "question": "I trash 2 digivolution cards to activate this card's <Digi-Burst>. Can I have 2 of my opponent's Digimon both get -3000 DP?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "type": "Beastkin"
+}

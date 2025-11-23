@@ -1,0 +1,138 @@
+{
+  "attribute": "Free",
+  "blockIcon": "01",
+  "cardEffects": "[When Digivolving] If a Digimon card with the [Free] trait is in this Digimon's digivolution cards, unsuspend this Digimon and suspend 1 of your opponent's Digimon.\n[Your Turn] For each color in this Digimon's digivolution cards, it gets +1000 DP.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "3",
+      "level": "5"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "3",
+      "level": "5"
+    }
+  ],
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-022.png",
+        "imgName": "EX1-022.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/58/EX1-022.png/revision/latest?cb=20211126152120",
+        "uploadDate": "2021-11-26T15:21:20"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-022_P1.png",
+        "imgName": "EX1-022_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5f/EX1-022_P1.png/revision/latest?cb=20211203111711",
+        "uploadDate": "2021-12-03T11:17:11"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-022-J.png",
+        "imgName": "EX1-022-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b6/EX1-022-J.png/revision/latest?cb=20210721041513",
+        "uploadDate": "2021-07-21T04:15:13"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-022_P1-J.png",
+        "imgName": "EX1-022_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5e/EX1-022_P1-J.png/revision/latest?cb=20210730160813",
+        "uploadDate": "2021-07-30T16:08:13"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/58/EX1-022.png/revision/latest?cb=20211126152120",
+  "level": "6",
+  "name": "Imperialdramon Dragon Mode",
+  "nameJapanese": "インペリアルドラモン：ドラゴンモード",
+  "playCost": "12",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX1-022#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX1-022 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. “For each color” refers to unique colors.   Blue is a single color, so the effect only grants +1000 DP.",
+        "question": "If I have 4 blue cards in my digivolution cards, does this card’s [Your Turn] effect grant +4000 DP?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-01: Extra Booster",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": "EXC-01: Extra Booster",
+        "foil&Rarity": "Textured - Classic Art - Alternative Art",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "Textured - Classic Art - Alternative Art",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "Textured - Classic Art - Alternative Art",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "type": "Ancient Dragon"
+}

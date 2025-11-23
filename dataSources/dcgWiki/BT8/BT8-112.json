@@ -1,0 +1,249 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "01",
+  "cardEffects": "When one of your Digimon would digivolve into this card in your hand, you may return 1 white level 7 Digimon card from your trash to the bottom of your deck to reduce the digivolution cost by 4.\n[When Digivolving] [When Attacking] You may return 1 2-color card from this Digimon's digivolution cards to the bottom of its owner's deck to trash all of the digivolution cards of 1 of your opponent's Digimon. Then, return all of your opponent's Digimon with no digivolution cards to the bottom of their owners' decks in any order.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "White",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "7",
+      "level": "6"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "7",
+      "level": "6"
+    }
+  ],
+  "dp": "16000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-112.png",
+        "imgName": "BT8-112.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/60/BT8-112.png/revision/latest?cb=20220422124932",
+        "uploadDate": "2022-04-22T12:49:32"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-112_P1.png",
+        "imgName": "BT8-112_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/69/BT8-112_P1.png/revision/latest?cb=20220520080130",
+        "uploadDate": "2022-05-20T08:01:30"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Ultimate_Cup_2022",
+        "captionText": "Ultimate Cup 2022 (1st Place Prize) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-112_P2.png",
+        "imgName": "BT8-112_P2.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/67/BT8-112_P2.png/revision/latest?cb=20220325132916",
+        "uploadDate": "2022-03-25T13:29:16"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Ultimate_Cup_2023",
+        "captionText": "Ultimate Cup 2023 (Top 2 Prize) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-112_P3.png",
+        "imgName": "BT8-112_P3.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0f/BT8-112_P3.png/revision/latest?cb=20230307204134",
+        "uploadDate": "2023-03-07T20:41:34"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (Rare Pull) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-112_P4.png",
+        "imgName": "BT8-112_P4.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/53/BT8-112_P4.png/revision/latest?cb=20231103021329",
+        "uploadDate": "2023-11-03T02:13:29"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-112-J.png",
+        "imgName": "BT8-112-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0e/BT8-112-J.png/revision/latest?cb=20231103022716",
+        "uploadDate": "2023-11-03T02:27:16"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-112_P1-J.png",
+        "imgName": "BT8-112_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0b/BT8-112_P1-J.png/revision/latest?cb=20211119110357",
+        "uploadDate": "2021-11-19T11:03:57"
+      },
+      {
+        "captionLink": null,
+        "captionText": "Ultimate Cup 2023 Japanese (1st Place Prize) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-112_P2-J.png",
+        "imgName": "BT8-112_P2-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/94/BT8-112_P2-J.png/revision/latest?cb=20230721075209",
+        "uploadDate": "2023-07-21T07:52:09"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (Rare Pull) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-112_P3-J.png",
+        "imgName": "BT8-112_P3-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1a/BT8-112_P3-J.png/revision/latest?cb=20231222085657",
+        "uploadDate": "2023-12-22T08:56:57"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/60/BT8-112.png/revision/latest?cb=20220422124932",
+  "level": "7",
+  "name": "Imperialdramon Paladin Mode",
+  "nameJapanese": "インペリアルドラモン：パラディンモード",
+  "playCost": "15",
+  "rarity": "Secret Rare",
+  "rulings": {
+    "references": [],
+    "rulings": [
+      {
+        "answer": "This effect will activate in both timing [When Digivolving] and [When Attacking]. When you digivolving into this Digimon, it will activate as a [When Digivolving] effect, and for the following turns when this Digimon attacks, it will then activate again as a [When Attacking] effect.",
+        "question": "This card's effect has 2 timing, [When Digivolving] and [When Attacking]. What does that mean?",
+        "reference": ""
+      },
+      {
+        "answer": "No, you cannot. If you do not do <X> you cannot do the rest of the effect. (See more in Effect Structure#Optional and Mandatory Effects",
+        "question": "This card has \"you may <X> to <Y>. Then, <Z>\" If I do not do <X>, am I still allowed to do <Z>?",
+        "reference": ""
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "Textured - Secret Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "Textured - Secret Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Ultimate_Cup_2022",
+          "text": "Ultimate Cup 2022"
+        },
+        "foil&Rarity": "Textured - Full Art - 1st Place Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naochika_Morishita",
+          "text": "Naochika Morishita"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Ultimate_Cup_2023",
+          "text": "Ultimate Cup 2023"
+        },
+        "foil&Rarity": "Textured - Stamped - Top 2 Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naochika_Morishita",
+          "text": "Naochika Morishita"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "Textured - Rare Pull",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "Textured - Secret Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": "Ultimate Cup 2023 Japanese",
+        "foil&Rarity": "Textured - Full Art - 1st Place Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naochika_Morishita",
+          "text": "Naochika Morishita"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "Textured - Rare Pull",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "帝皇龙甲兽：圣骑士形态",
+  "traditionalChinese": "帝皇龍甲獸：天國型態",
+  "type": "Ancient Holy Warrior"
+}

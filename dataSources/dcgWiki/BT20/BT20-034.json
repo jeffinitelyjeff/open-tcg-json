@@ -1,0 +1,158 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Pulsemon] in text or Lv.4 w/[SEEKERS] trait: Cost 3",
+  "attribute": "Vaccine",
+  "blockIcon": "04",
+  "cardEffects": "＜Fortitude＞ (When this Digimon with digivolution cards is deleted, play this card without paying the cost.)\n[All Turns] When Tamer cards are placed in this Digimon's digivolution cards, 1 of your opponent's Digimon can't activate [When Digivolving] effects until the end of their turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow / Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-034.png",
+        "imgName": "BT20-034.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9f/BT20-034.png/revision/latest?cb=20250207070810",
+        "uploadDate": "2025-02-07T07:08:10"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-034-Sample.png",
+        "imgName": "BT20-034-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c2/BT20-034-Sample.png/revision/latest?cb=20241219030342",
+        "uploadDate": "2024-12-19T03:03:42"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-034-J.png",
+        "imgName": "BT20-034-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c2/BT20-034-J.png/revision/latest?cb=20250124093732",
+        "uploadDate": "2025-01-24T09:37:32"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-034-Sample-J.png",
+        "imgName": "BT20-034-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/dc/BT20-034-Sample-J.png/revision/latest?cb=20241219030403",
+        "uploadDate": "2024-12-19T03:04:03"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9f/BT20-034.png/revision/latest?cb=20250207070810",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When this Digimon deletes your opponent's Digimon in battle, trash their top security card.",
+  "level": "5",
+  "name": "Boutmon",
+  "nameJapanese": "バウトモン",
+  "playCost": "7",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT20-034#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for BT20-034 (2025/01/24, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "It refers to cards with the specified word or icon included in \"name, trait, effect, inherited effect, <Overflow X>, jogress, digivolution requirements, burst digivolution\". For example, a card with the text \"Knightmon\" refers to a card whose name is \"Dark Knightmon\" or whose effect says \"Knightmon\".",
+        "question": "What do you mean by \"cards with text?\"",
+        "reference": "[1]"
+      },
+      {
+        "answer": "This is an effect that prevents a card's [When Digivolving] effect from being activated. When a card digivolves and triggers the [When Digivolving] effect, or the \"Activate [When Digivolving] effect\" effect, etc., the card will no longer be able to activate the [When Digivolving] effect.",
+        "question": "What does \"[When Digivolving] effect is not activated\" mean?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it activates. If the effect is triggered by [When Attacking], it can be activated.",
+        "question": "I attacked with a card that has \"No [When Digivolving] effect activated\". In this case, can I activate the card's [When Digivolving] and [When Attacking] effects?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it cannot be activated.",
+        "question": "Can a card with \"No [When Digivolving] effect\" activate its own [When Digivolving] effect with the \"Activate 1 [When Digivolving] effect\" effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it cannot be activated.",
+        "question": "Can a card with \"No [When Digivolving] effect\" activate another card's [When Digivolving] effect with the \"Activate one [When Digivolving] effect as this card's effect\" effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it activates.",
+        "question": "Can I activate the [When Digivolving] effect of a card that does not have the [When Digivolving] effect activated by another card that has the [When Digivolving] effect activated?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, I cannot.",
+        "question": "Can a card with \"Does not activate [When Digivolving] effect\" handle only the \"By\" requirements of the [When Digivolved] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it is not consumed. No [X times per turn] is consumed because the [When Digivolving] effect cannot be activated at the time of digivolved.",
+        "question": "A card with \"[When Digivolved] Effect is not activated\" has evolved into a card with [When Digivolved] [When Attacking] [Once Per Turn]. In this case, the effect could not be activated at the time it digivolved to that card, but does it consume the [X times per turn] of the effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it cannot be activated.",
+        "question": "Can the inherited effect of this card be activated even if the opponent's Digimon and the Digimon that has this card as its digivolved card are deleted at the same time?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+          "text": "BT-20: Booster Over the X"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ]
+  },
+  "type": "Beastkin/Abadin Electronics/SEEKERS"
+}

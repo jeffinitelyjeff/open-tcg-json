@@ -1,0 +1,139 @@
+{
+  "blockIcon": "02",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digi-Egg",
+  "color": "Red",
+  "form": "In-Training",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-001.png",
+        "imgName": "BT12-001.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7c/BT12-001.png/revision/latest?cb=20230421194624",
+        "uploadDate": "2023-04-21T19:46:24"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Across_Time_Pre-Release_Pack",
+        "captionText": "Across Time Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-001_P0.png",
+        "imgName": "BT12-001_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4e/BT12-001_P0.png/revision/latest?cb=20230421205118",
+        "uploadDate": "2023-04-21T20:51:18"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Ultimate_Cup_2023",
+        "captionText": "Ultimate Cup 2023 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-001_P1.png",
+        "imgName": "BT12-001_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3e/BT12-001_P1.png/revision/latest?cb=20230307204019",
+        "uploadDate": "2023-03-07T20:40:19"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-001-J.png",
+        "imgName": "BT12-001-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b6/BT12-001-J.png/revision/latest?cb=20221111110531",
+        "uploadDate": "2022-11-11T11:05:31"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-001-Sample-J.png",
+        "imgName": "BT12-001-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7d/BT12-001-Sample-J.png/revision/latest?cb=20221027063921",
+        "uploadDate": "2022-10-27T06:39:21"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7c/BT12-001.png/revision/latest?cb=20230421194624",
+  "inheritedEffect": "[Your Turn] Add 1000 to the maximum DP you can choose with DP-based deletion effects.",
+  "korean": "기기몬",
+  "level": "2",
+  "name": "Gigimon",
+  "nameJapanese": "ギギモン",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT12-001#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT12-001 (Sep. 13, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Such effects increase the maximum value shown for DP-based deletion effects.  For example, while \"[Your Turn] Add 1000 to the maximum your DP-based deletion effects can delete\" is activated, \"[When Digivolving] Delete 1 of your opponent's Digimon with 3000 DP or less\" will allow you to delete an opponent's Digimon with 4000 DP or less.",
+        "question": "What does an \"add X000 to the maximum your DP-based deletion effects can delete\" effect do?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it can't be increased.  You can't increase the maximum of a DP-based deletion effect that doesn't show a numerical value.",
+        "question": "If \"add X000 to the maximum your DP-based deletion effects can delete\" is activating, can the maximum be increased for an effect such as \"delete 1 of your opponent's Digimon with DP less than or equal to this Digimon's DP\" that references a Digimon's DP for deletion?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Minato_Sashima",
+          "text": "Minato Sashima"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Across_Time_Pre-Release_Pack",
+          "text": "Across Time Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Minato_Sashima",
+          "text": "Minato Sashima"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Ultimate_Cup_2023",
+          "text": "Ultimate Cup 2023"
+        },
+        "foil&Rarity": "Textured - Stamped - Participation",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Minato_Sashima",
+          "text": "Minato Sashima"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "基基兽",
+  "traditionalChinese": "基基獸",
+  "type": "Lesser"
+}

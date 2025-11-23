@@ -1,0 +1,119 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[Leomon] in name or w/[CS] trait: Cost 3",
+  "attribute": "Vaccine",
+  "blockIcon": "05",
+  "cardEffects": "When this card would be played, if your opponent has a Digimon with 10000 DP or more, reduce the play cost by 5.\n[On Play] [When Digivolving] 1 of your other Digimon may digivolve into a level 6 or lower Digimon card with [Leomon] in its name or the [CS] trait in the hand without paying the cost.\n[End of Your Turn] [Once Per Turn] 1 of your Digimon gains ＜Raid＞ for the turn. (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.) Then, that Digimon may attack.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Not released",
+    "korean": "Not released",
+    "nameJapanese": "Not released"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow / Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "5"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "4",
+      "level": "5"
+    }
+  ],
+  "dp": "12 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+        "captionText": "BT-23: Booster Hackers' Slumber (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT23-036.png",
+        "imgName": "BT23-036.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/61/BT23-036.png/revision/latest?cb=20251003041127",
+        "uploadDate": "2025-10-03T04:11:27"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+        "captionText": "BT-23: Booster Hackers' Slumber (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT23-036-Sample.png",
+        "imgName": "BT23-036-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/18/BT23-036-Sample.png/revision/latest?cb=20250909045257",
+        "uploadDate": "2025-09-09T04:52:57"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+        "captionText": "BT-23: Booster Hackers' Slumber (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT23-036-J.png",
+        "imgName": "BT23-036-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c9/BT23-036-J.png/revision/latest?cb=20251003043407",
+        "uploadDate": "2025-10-03T04:34:07"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/61/BT23-036.png/revision/latest?cb=20251003041127",
+  "level": "6",
+  "name": "BanchoLeomon",
+  "nameJapanese": "バンチョーレオモン",
+  "playCost": "12",
+  "rarity": "Uncommon",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+          "text": "BT-23: Booster Hackers' Slumber"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+          "text": "BT-23: Booster Hackers' Slumber"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+          "text": "BT-23: Booster Hackers' Slumber"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+          "text": "BT-23: Booster Hackers' Slumber"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ]
+  },
+  "type": "Beastkin/Boss/CS"
+}

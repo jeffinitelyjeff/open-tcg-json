@@ -1,0 +1,159 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[On Play] Delete all of your opponent's Digimon with the lowest DP. If no Digimon is deleted by this effect, your opponent can't play Digimon with 5000 DP or less until the end of their turn.\n[When Attacking] If you have a Tamer in play, trash the top card of your opponent's security stack.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "4",
+      "level": "5"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "5"
+    }
+  ],
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-012.png",
+        "imgName": "EX3-012.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8b/EX3-012.png/revision/latest?cb=20221111122903",
+        "uploadDate": "2022-11-11T12:29:03"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-012_P1.png",
+        "imgName": "EX3-012_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/ba/EX3-012_P1.png/revision/latest?cb=20221111122903",
+        "uploadDate": "2022-11-11T12:29:03"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-012-J.png",
+        "imgName": "EX3-012-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3e/EX3-012-J.png/revision/latest?cb=20220722083951",
+        "uploadDate": "2022-07-22T08:39:51"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-012_P1-J.png",
+        "imgName": "EX3-012_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/06/EX3-012_P1-J.png/revision/latest?cb=20220729042019",
+        "uploadDate": "2022-07-29T04:20:19"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-012-Sample-J.png",
+        "imgName": "EX3-012-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1c/EX3-012-Sample-J.png/revision/latest?cb=20220710090130",
+        "uploadDate": "2022-07-10T09:01:30"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (Alternative Art) (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-012_P1-Sample-J.png",
+        "imgName": "EX3-012_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/48/EX3-012_P1-Sample-J.png/revision/latest?cb=20220718063230",
+        "uploadDate": "2022-07-18T06:32:30"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8b/EX3-012.png/revision/latest?cb=20221111122903",
+  "korean": "볼케닉드라몬",
+  "level": "6",
+  "name": "Volcanicdramon",
+  "nameJapanese": "ヴォルケニックドラモン",
+  "playCost": "12",
+  "rarity": "Super Rare",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-02: Extra Booster 2 Draconic Roar",
+        "foil&Rarity": "",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      },
+      {
+        "boosterSet": "EXC-02: Extra Booster 2 Draconic Roar",
+        "foil&Rarity": "",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+          "text": "EX-03: Theme Booster Draconic Roar"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+          "text": "EX-03: Theme Booster Draconic Roar"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+          "text": "EX-03: Theme Booster Draconic Roar"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+          "text": "EX-03: Theme Booster Draconic Roar"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "火山岩龙兽",
+  "traditionalChinese": "火山岩龍獸",
+  "type": "Earth Dragon"
+}

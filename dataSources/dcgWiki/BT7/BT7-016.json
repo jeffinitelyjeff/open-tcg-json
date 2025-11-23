@@ -1,0 +1,150 @@
+{
+  "attribute": "Variable",
+  "blockIcon": "01",
+  "cardEffects": "[When Digivolving] ＜Blitz＞ (If your opponent has 1 or more memory, this Digimon may attack.)\n[Your Turn] [Once Per Turn] When this Digimon is blocked, unsuspend it, and gain 1 memory for each digivolution card this Digimon has with the [Hybrid] trait.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "4",
+    "level": "5"
+  },
+  "dp": "12000 DP",
+  "form": "Hybrid",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-016.png",
+        "imgName": "BT7-016.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9f/BT7-016.png/revision/latest?cb=20220218130546",
+        "uploadDate": "2022-02-18T13:05:46"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-016_P1.png",
+        "imgName": "BT7-016_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bc/BT7-016_P1.png/revision/latest?cb=20220226050307",
+        "uploadDate": "2022-02-26T05:03:07"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-016-J.png",
+        "imgName": "BT7-016-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/82/BT7-016-J.png/revision/latest?cb=20210820091035",
+        "uploadDate": "2021-08-20T09:10:35"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-016_P1-J.png",
+        "imgName": "BT7-016_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/11/BT7-016_P1-J.png/revision/latest?cb=20210827045732",
+        "uploadDate": "2021-08-27T04:57:32"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9f/BT7-016.png/revision/latest?cb=20220218130546",
+  "level": "6",
+  "name": "EmperorGreymon",
+  "nameJapanese": "カイゼルグレイモン",
+  "nameTranslated": "KaiserGreymon",
+  "playCost": "12",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT7-016#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT7-016 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "The [Your Turn] effect is activated immediately after this Digimon is blocked and it's attack target is changed. So, since the effect is triggered by your opponent blocking this Digimon, it will finish resolving before the battle against the blocking Digimon.",
+        "question": "I attack with this Digimon, and it is blocked by an opponent's Digimon at the blocker timing. At what timing does this card's [Your Turn] effect activate?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ]
+  },
+  "type": "Dragon Warrior"
+}

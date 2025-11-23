@@ -1,0 +1,120 @@
+{
+  "ace": "Overflow ＜-4＞ (As this card moves from the field or under a card to an area other than those, lose 4 memory.)",
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[DM] trait: Cost 3",
+  "attribute": "Virus",
+  "blockIcon": "05",
+  "cardEffects": "[Hand] [Counter] ＜Blast Digivolve＞ (Your Digimon may digivolve into this card without paying the cost.)\n＜Collision＞ (During this Digimon's attack, all of your opponent's Digimon gain ＜Blocker＞, and must block if possible.)\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Play] [When Digivolving] You may unsuspend 1 Digimon. Then, you may suspend 1 Digimon.\n[All Turns] [Once Per Turn] When any of your [Ver.5] trait Digimon suspend, ＜De-Digivolve  1＞ 1 of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black / Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "5"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "4",
+      "level": "5"
+    }
+  ],
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+        "captionText": "BT-22: Booster Cyber Eden (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT22-066.png",
+        "imgName": "BT22-066.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e7/BT22-066.png/revision/latest?cb=20250704054219",
+        "uploadDate": "2025-07-04T05:42:19"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+        "captionText": "BT-22: Booster Cyber Eden (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT22-066-Sample.png",
+        "imgName": "BT22-066-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/46/BT22-066-Sample.png/revision/latest?cb=20250616132746",
+        "uploadDate": "2025-06-16T13:27:46"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+        "captionText": "BT-22: Booster Cyber Eden (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT22-066-J.png",
+        "imgName": "BT22-066-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/78/BT22-066-J.png/revision/latest?cb=20250704055300",
+        "uploadDate": "2025-07-04T05:53:00"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e7/BT22-066.png/revision/latest?cb=20250704054219",
+  "level": "6",
+  "name": "Raidenmon",
+  "nameJapanese": "ライデンモン",
+  "playCost": "7",
+  "rarity": "Uncommon",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+          "text": "BT-22: Booster Cyber Eden"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Robomisutya",
+          "text": "robomisutya"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+          "text": "BT-22: Booster Cyber Eden"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Robomisutya",
+          "text": "robomisutya"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+          "text": "BT-22: Booster Cyber Eden"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Robomisutya",
+          "text": "robomisutya"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+          "text": "BT-22: Booster Cyber Eden"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Robomisutya",
+          "text": "robomisutya"
+        }
+      }
+    ]
+  },
+  "type": "Machine/DM/Ver.5"
+}

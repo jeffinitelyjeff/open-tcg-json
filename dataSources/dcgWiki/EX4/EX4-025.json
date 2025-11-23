@@ -1,0 +1,94 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Lopmon]/[Terriermon] in name: Cost 2",
+  "attribute": "Data",
+  "blockIcon": "02",
+  "cardEffects": "＜Alliance＞ (When this Digimon attacks, by suspending 1 of your other Digimon, add the suspended Digimon's DP to this Digimon and it gains ＜Security A. +1＞ for the attack.)",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow / Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+        "captionText": "EX-04: Theme Booster Alternative Being (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX4-025.png",
+        "imgName": "EX4-025.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7c/EX4-025.png/revision/latest?cb=20230623132843",
+        "uploadDate": "2023-06-23T13:28:43"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+        "captionText": "EX-04: Theme Booster Alternative Being (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX4-025-J.png",
+        "imgName": "EX4-025-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f8/EX4-025-J.png/revision/latest?cb=20221216140139",
+        "uploadDate": "2022-12-16T14:01:39"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+        "captionText": "EX-04: Theme Booster Alternative Being (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX4-025-Sample-J.png",
+        "imgName": "EX4-025-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5b/EX4-025-Sample-J.png/revision/latest?cb=20221123091137",
+        "uploadDate": "2022-11-23T09:11:37"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7c/EX4-025.png/revision/latest?cb=20230623132843",
+  "inheritedEffect": "[End of Attack] [Once Per Turn] If you have another suspended Digimon, 1 of your opponent's Digimon gets -2000 DP for the turn.",
+  "level": "4",
+  "name": "Turuiemon",
+  "nameJapanese": "トゥルイエモン",
+  "playCost": "4",
+  "rarity": "Common",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+          "text": "EX-04: Theme Booster Alternative Being"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:P!k@ru",
+          "text": "p!k@ru"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+          "text": "EX-04: Theme Booster Alternative Being"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:P!k@ru",
+          "text": "p!k@ru"
+        }
+      }
+    ]
+  },
+  "type": "Beastkin"
+}

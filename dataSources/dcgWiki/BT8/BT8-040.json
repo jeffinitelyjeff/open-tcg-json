@@ -1,0 +1,116 @@
+{
+  "attribute": "Data",
+  "blockIcon": "01",
+  "cardEffects": "[When Digivolving] You may trash 1 card in your hand to treat this Digimon as also having the colors of the trashed card for the turn. Then, if this Digimon has 2 or more colors, ＜Draw 2＞ (Draw 2 cards from your deck.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-040.png",
+        "imgName": "BT8-040.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/66/BT8-040.png/revision/latest?cb=20220422124927",
+        "uploadDate": "2022-04-22T12:49:27"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-040-J.png",
+        "imgName": "BT8-040-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9d/BT8-040-J.png/revision/latest?cb=20211119075607",
+        "uploadDate": "2021-11-19T07:56:07"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-040-Sample-J.png",
+        "imgName": "BT8-040-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e7/BT8-040-Sample-J.png/revision/latest?cb=20211106034441",
+        "uploadDate": "2021-11-06T03:44:41"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/66/BT8-040.png/revision/latest?cb=20220422124927",
+  "level": "5",
+  "name": "Betsumon",
+  "nameJapanese": "ベツモン",
+  "playCost": "6",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT8-040#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT8-040 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, the Digimon is now treated as having two colors, so you ＜Draw 2＞.",
+        "question": "This card's effect trashes a red card in my hand. Does this make this Digimon a red/yellow 2-color Digimon, allowing me to ＜Draw 2＞?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, the Digimon is now treated as having three colors.",
+        "question": "This card's effect trashes a blue/green multicolor card in my hand. Does this make this Digimon a yellow/blue/green 3-color Digimon?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ]
+  },
+  "type": "Puppet"
+}

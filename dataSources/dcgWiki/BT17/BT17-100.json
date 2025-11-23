@@ -1,0 +1,118 @@
+{
+  "blockIcon": "03",
+  "cardEffects": "[Security] Add this card to the hand.\n[Main] Play 1 [Diaboromon] Token without paying the cost. (Digimon/Cost 14/Lv.6/White/Mega/Unknown/Unidentified/3000 DP) Then, place this card as the bottom digivolution card of 1 of your  [Diaboromon] without [Doomsday Clock] in its digivolution cards.\n[Start of Your Turn] If 4 [Doomsday Clock]s are placed in your battle area, you win the game.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Black",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-100.png",
+        "imgName": "BT17-100.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d5/BT17-100.png/revision/latest?cb=20240705214737",
+        "uploadDate": "2024-07-05T21:47:37"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Secret_Crisis",
+        "captionText": "Pre-Release Pack Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-100_P0.png",
+        "imgName": "BT17-100_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7f/BT17-100_P0.png/revision/latest?cb=20240727082048",
+        "uploadDate": "2024-07-27T08:20:48"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-100-J.png",
+        "imgName": "BT17-100-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8b/BT17-100-J.png/revision/latest?cb=20240322062944",
+        "uploadDate": "2024-03-22T06:29:44"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-100-Sample-J.png",
+        "imgName": "BT17-100-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/df/BT17-100-Sample-J.png/revision/latest?cb=20240130134333",
+        "uploadDate": "2024-01-30T13:43:33"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d5/BT17-100.png/revision/latest?cb=20240705214737",
+  "inheritedEffect": "[All Turns] When this Digimon would leave the battle area by an opponent's effect, by deleting 1 of your other [Diaboromon], prevent it from leaving.\n[End of Opponent's Turn] Place 1 [Doomsday Clock] from this Digimon's digivolution cards in the battle area.",
+  "name": "Doomsday Clock",
+  "nameJapanese": "終末のトケイ",
+  "nameTranslated": "Shūmatsu no Tokei",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT17-100#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT17-100 (Sep. 6, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can't.  Cards can't be placed under tokens.",
+        "question": "Can I use this card's [Main] effect to place this card in the digivolution cards of a [Diaboromon] Token that was played by this effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "When this effect activates, the player that activated the effect wins the game.",
+        "question": "What does \"you win the game\" in this card's [Start of Your Turn] effect mean, exactly?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "\"When [...] would leave the battle area\" refers to when that Digimon is placed in the trash, returned to the hand/deck, placed in the security stack, moved to the breeding area, or placed under another card.",
+        "question": "What does this card's \"when [...] would leave the battle area\" mean, exactly?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "Can I use the [End of Opponent's Turn] effect in this card's inherited effects to place this card itself in the battle area when this card is in a Digimon's digivolution cards?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Secret_Crisis",
+          "text": "Pre-Release Pack Secret Crisis"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "useCost": "3"
+}

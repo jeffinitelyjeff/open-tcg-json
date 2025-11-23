@@ -1,0 +1,110 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[X Antibody]/[DigiPolice] trait: Cost 2",
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Play] [When Digivolving] Suspend 1 of your opponent's Digimon. If a Tamer card with the [DigiPolice] trait is in this Digimon's digivolution cards, that Digimon can't unsuspend until the end of their turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black / Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-058.png",
+        "imgName": "BT15-058.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ec/BT15-058.png/revision/latest?cb=20240209090320",
+        "uploadDate": "2024-02-09T09:03:20"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-058-J.png",
+        "imgName": "BT15-058-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/ff/BT15-058-J.png/revision/latest?cb=20230922100136",
+        "uploadDate": "2023-09-22T10:01:36"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-058-Sample-J.png",
+        "imgName": "BT15-058-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/30/BT15-058-Sample-J.png/revision/latest?cb=20230911155801",
+        "uploadDate": "2023-09-11T15:58:01"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ec/BT15-058.png/revision/latest?cb=20240209090320",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When this Digimon becomes suspended, suspend 1 of your opponent's Digimon or Tamers with a play cost less than or equal to this Digimon's play cost.",
+  "level": "4",
+  "name": "Ginryumon",
+  "nameJapanese": "ギンリュウモン",
+  "playCost": "4",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT15-058#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT15-058 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. As long as the conditions were met at the time you activated the effect, the effect will persist and it can't unsuspend until the end of your opponent’s turn, even if the conditions are no longer met at a later point.",
+        "question": "I activated this card's [On Play] [When Digivolving] effect and suspended 1 of my opponent's Digimon when a Tamer card with the [DigiPolice] trait was in this Digimon's digivolution cards.  If the Tamer card with the [DigiPolice] trait is then removed from this Digimon's digivolution cards, can my opponent's Digimon that I suspended now unsuspend?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+          "text": "BT-15: Booster Exceed Apocalypse"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+          "text": "BT-15: Booster Exceed Apocalypse"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      }
+    ]
+  },
+  "type": "Beast Dragon/X Antibody/DigiPolice"
+}

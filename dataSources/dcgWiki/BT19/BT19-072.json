@@ -1,0 +1,138 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "04",
+  "cardEffects": "[On Play] [When Digivolving] You may play 1 level 4 or lower Digimon card from your trash without paying the cost.\n[Opponent's Turn] [Once Per Turn] When an opponent's Digimon attacks, you may switch the attack target to 1 of your Digimon with the [Royal Knight] trait.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "3",
+      "level": "5"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "5"
+    }
+  ],
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-072.png",
+        "imgName": "BT19-072.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0b/BT19-072.png/revision/latest?cb=20241011093345",
+        "uploadDate": "2024-10-11T09:33:45"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Championship_25-26_Season_1_Tamers_Pack",
+        "captionText": "Championship 25-26 Season 1 Tamers Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-072_P1.png",
+        "imgName": "BT19-072_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/16/BT19-072_P1.png/revision/latest?cb=20251115115743",
+        "uploadDate": "2025-11-15T11:57:43"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-072-J.png",
+        "imgName": "BT19-072-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4d/BT19-072-J.png/revision/latest?cb=20240920100129",
+        "uploadDate": "2024-09-20T10:01:29"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-072-Sample-J.png",
+        "imgName": "BT19-072-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c4/BT19-072-Sample-J.png/revision/latest?cb=20240829090348",
+        "uploadDate": "2024-08-29T09:03:48"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0b/BT19-072.png/revision/latest?cb=20241011093345",
+  "level": "6",
+  "name": "LordKnightmon",
+  "nameJapanese": "ブラックセラフィモン",
+  "playCost": "11",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT19-072#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT19-072 (Nov. 1, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.",
+        "question": "Can I use this card's [Opponent's Turn] effect to switch the target of attack to a Digimon that isn't affected by effects?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+          "text": "BT18-19: Special Booster Ver.2.0"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.0_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.0 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Stamped - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Championship_25-26_Season_1_Tamers_Pack",
+          "text": "Championship 25-26 Season 1 Tamers Pack"
+        },
+        "foil&Rarity": "Foil - Championship Stamp - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Robomisutya",
+          "text": "robomisutya"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+          "text": "BT-19: Booster Xros Evolution"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ]
+  },
+  "type": "Holy Warrior/Royal Knight"
+}

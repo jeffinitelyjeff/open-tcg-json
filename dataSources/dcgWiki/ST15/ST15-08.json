@@ -1,0 +1,121 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Agumon] in name: Cost 2",
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[Security] You may play 1 [Agumon] or 1 Tamer card with [Tai Kamiya] in its name from your hand or trash without paying the cost.\n＜Blocker＞ (This Digimon can block in the blocker timing.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-15:_Starter_Deck_Dragon_of_Courage",
+        "captionText": "ST-15: Starter Deck Dragon of Courage (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST15-08.png",
+        "imgName": "ST15-08.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a0/ST15-08.png/revision/latest?cb=20230908205954",
+        "uploadDate": "2023-09-08T20:59:54"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-15:_Starter_Deck_Dragon_of_Courage",
+        "captionText": "ST-15: Starter Deck Dragon of Courage (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST15-08-J.png",
+        "imgName": "ST15-08-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/27/ST15-08-J.png/revision/latest?cb=20230908213951",
+        "uploadDate": "2023-09-08T21:39:51"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a0/ST15-08.png/revision/latest?cb=20230908205954",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When an attack target is switched, gain 1 memory.",
+  "korean": "그레이몬",
+  "level": "4",
+  "name": "Greymon",
+  "nameJapanese": "グレイモン",
+  "playCost": "6",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=ST15-08#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for ST15-08 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "\"No, you can't.  In order to play an [Agumon], the Digimon card's name can only be [Agumon].\"",
+        "question": "Can I use this card’s effect to play a Digimon with [Agumon] such as [Agumon Expert] or [BushiAgumon]?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes. Blocking causes the attack target to be switched, so the effect activates.",
+        "question": "If I attack my opponent using a Digimon with this card in its digivolution cards and my opponent blocks, does this card's inherited effect activate?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it activates.",
+        "question": "Does this card’s inherited effect activate when an attack target is switched for a Digimon other than a Digimon with this card in its digivolution cards?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-15:_Starter_Deck_Dragon_of_Courage",
+          "text": "ST-15: Starter Deck Dragon of Courage"
+        },
+        "foil&Rarity": "Textured - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-15:_Starter_Deck_Dragon_of_Courage",
+          "text": "ST-15: Starter Deck Dragon of Courage"
+        },
+        "foil&Rarity": "Textured - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-15:_Starter_Deck_Dragon_of_Courage",
+          "text": "ST-15: Starter Deck Dragon of Courage"
+        },
+        "foil&Rarity": "Textured - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "暴龙兽",
+  "traditionalChinese": "暴龍獸",
+  "type": "Dinosaur"
+}

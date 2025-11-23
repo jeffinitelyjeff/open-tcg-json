@@ -1,0 +1,107 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] [When Digivolving] Reveal the top 3 cards of your deck. For each [D-Brigade] or [DigiPolice] trait card among them, reduce the play costs of all of your opponent's Digimon by 1 until the end of the turn. Return the revealed cards to the top or the bottom of the deck. Then, delete 1 of your opponent's Digimon with a play cost of 4 or less.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-060.png",
+        "imgName": "BT16-060.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9b/BT16-060.png/revision/latest?cb=20240426204050",
+        "uploadDate": "2024-04-26T20:40:50"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-060-J.png",
+        "imgName": "BT16-060-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/92/BT16-060-J.png/revision/latest?cb=20231215073418",
+        "uploadDate": "2023-12-15T07:34:18"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-060-Sample-J.png",
+        "imgName": "BT16-060-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/ff/BT16-060-Sample-J.png/revision/latest?cb=20231119003935",
+        "uploadDate": "2023-11-19T00:39:35"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9b/BT16-060.png/revision/latest?cb=20240426204050",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When one of your other Digimon with the [D-Brigade] or [DigiPolice] trait is played, ＜De-Digivolve  1＞ 1 of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.)",
+  "level": "5",
+  "name": "Tankdramon",
+  "nameJapanese": "タンクドラモン",
+  "playCost": "7",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT16-060#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT16-060 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, it doesn't. The minimum value is 0, the resulting play cost can't be negative.",
+        "question": "If I use the \"reduce the play costs of all of your opponent's Digimon by 1\" effect and all of my opponent's Digimon have their play costs reduced by 3, does an opponent's Digimon with a play cost of 2 now have a play cost of -1?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it isn't. This card's effect only reduces the play costs of Digimon in your opponent's battle area.",
+        "question": "If I use the \"reduce the play costs of all of your opponent's Digimon by 1\" effect, is the play cost also reduced for Digimon cards in areas other than the battle area (such as my opponent's hand or trash)?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ]
+  },
+  "type": "Machine/D-Brigade/DigiPolice"
+}

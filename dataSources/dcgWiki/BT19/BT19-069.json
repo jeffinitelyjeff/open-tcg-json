@@ -1,0 +1,94 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Gazimon]/[Gizamon]: Cost 2",
+  "attribute": "Virus",
+  "blockIcon": "04",
+  "cardEffects": "[On Play] [When Digivolving] [On Deletion] By trashing 1 card in your hand, delete 1 of your opponent's level 4 or lower Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Not released"
+  },
+  "cardType": "Digimon",
+  "color": "Purple / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-069.png",
+        "imgName": "BT19-069.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5e/BT19-069.png/revision/latest?cb=20241011093345",
+        "uploadDate": "2024-10-11T09:33:45"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-069-J.png",
+        "imgName": "BT19-069-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/69/BT19-069-J.png/revision/latest?cb=20240920100129",
+        "uploadDate": "2024-09-20T10:01:29"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-069-Sample-J.png",
+        "imgName": "BT19-069-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/01/BT19-069-Sample-J.png/revision/latest?cb=20240827090220",
+        "uploadDate": "2024-08-27T09:02:20"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5e/BT19-069.png/revision/latest?cb=20241011093345",
+  "inheritedEffect": "＜Blocker＞ (This Digimon can block in the blocker timing.)",
+  "level": "4",
+  "name": "Deltamon",
+  "nameJapanese": "デルタモン",
+  "playCost": "5",
+  "rarity": "Common",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+          "text": "BT18-19: Special Booster Ver.2.0"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+          "text": "BT-19: Booster Xros Evolution"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ]
+  },
+  "type": "Composite"
+}

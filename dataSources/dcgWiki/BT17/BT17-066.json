@@ -1,0 +1,94 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Darcmon]: Cost 3",
+  "attribute": "Data",
+  "blockIcon": "03",
+  "cardEffects": "＜Blocker＞ (This Digimon can block in the blocker timing.)\n[When Digivolving] You may play 1 level 3 Purple or Yellow Digimon card from your hand without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple / Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-066.png",
+        "imgName": "BT17-066.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c4/BT17-066.png/revision/latest?cb=20240720080102",
+        "uploadDate": "2024-07-20T08:01:02"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-066-J.png",
+        "imgName": "BT17-066-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/34/BT17-066-J.png/revision/latest?cb=20240322062943",
+        "uploadDate": "2024-03-22T06:29:43"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-066-Sample-J.png",
+        "imgName": "BT17-066-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d6/BT17-066-Sample-J.png/revision/latest?cb=20240228031055",
+        "uploadDate": "2024-02-28T03:10:55"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c4/BT17-066.png/revision/latest?cb=20240720080102",
+  "inheritedEffect": "＜Blocker＞ (This Digimon can block in the blocker timing.)",
+  "level": "5",
+  "name": "HippoGryphonmon",
+  "nameJapanese": "ヒポグリフォモン",
+  "playCost": "7",
+  "rarity": "Common",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ]
+  },
+  "type": "Mythical Beast"
+}

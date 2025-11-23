@@ -1,0 +1,166 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Bibimon]/Lv.2 w/[SEEKERS] trait: Cost 0",
+  "attribute": "Vaccine",
+  "blockIcon": "04",
+  "cardEffects": "[Your Turn] When this Digimon would digivolve into a Digimon card with [Pulsemon] in its name or [SEEKERS] trait, reduce the digivolution cost by 1.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow / Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "1",
+      "level": "2"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "1",
+      "level": "2"
+    }
+  ],
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-029.png",
+        "imgName": "BT20-029.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/ae/BT20-029.png/revision/latest?cb=20250207070924",
+        "uploadDate": "2025-02-07T07:09:24"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-029-Sample.png",
+        "imgName": "BT20-029-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/56/BT20-029-Sample.png/revision/latest?cb=20241230062824",
+        "uploadDate": "2024-12-30T06:28:24"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Regionals_25-26_Season_1_Finalist_Set",
+        "captionText": "Regionals 25-26 Season 1 Finalist Set (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-029_P1.png",
+        "imgName": "BT20-029_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/be/BT20-029_P1.png/revision/latest?cb=20251115120445",
+        "uploadDate": "2025-11-15T12:04:45"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Regionals_25-26_Season_1_Finalist_Set",
+        "captionText": "Regionals 25-26 Season 1 Finalist Set (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-029_P1-Sample.png",
+        "imgName": "BT20-029_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f2/BT20-029_P1-Sample.png/revision/latest?cb=20250314090557",
+        "uploadDate": "2025-03-14T09:05:57"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-029-J.png",
+        "imgName": "BT20-029-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/dd/BT20-029-J.png/revision/latest?cb=20250124093732",
+        "uploadDate": "2025-01-24T09:37:32"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-029-Sample-J.png",
+        "imgName": "BT20-029-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/db/BT20-029-Sample-J.png/revision/latest?cb=20241230062834",
+        "uploadDate": "2024-12-30T06:28:34"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/ae/BT20-029.png/revision/latest?cb=20250207070924",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When this Digimon deletes your opponent's Digimon in battle. gain 1 memory.",
+  "level": "3",
+  "name": "Pulsemon",
+  "nameJapanese": "パルスモン",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT20-029#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for BT20-029 (2025/01/24, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "It refers to cards with the specified word or icon included in \"name, trait, effect, inherited effect, <Overflow X>, jogress, digivolution requirements, burst digivolution\". For example, a card with the text \"Knightmon\" refers to a card whose name is \"Dark Knightmon\" or whose effect says \"Knightmon\".",
+        "question": "What do you mean by \"cards with text?\"",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it will not trigger. In the Breeding Area, no effects other than those of the [Breeding] icon can be triggered or activated.",
+        "question": "When this card in the Breeding Area evolves into a Digimon card that has \"Pulsemon\" text or \"Seekers\" in its trait, does this card's [Your Turn] effect trigger?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it cannot be activated.",
+        "question": "Can the inherited effect of this card be activated even if the opponent's Digimon and the Digimon that has this card as its digivolved card are deleted at the same time?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Regionals_25-26_Season_1_Finalist_Set",
+          "text": "Regionals 25-26 Season 1 Finalist Set"
+        },
+        "foil&Rarity": "Foil - Participation Stamp - Top 32 Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+          "text": "BT-20: Booster Over the X"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Regionals_25-26_Season_1_Finalist_Set",
+          "text": "Regionals 25-26 Season 1 Finalist Set"
+        },
+        "foil&Rarity": "Foil - Participation Stamp - Top 32 Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
+        }
+      }
+    ]
+  },
+  "type": "Beastkin/Abadin Electronics/SEEKERS"
+}

@@ -1,0 +1,129 @@
+{
+  "blockIcon": "05",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digi-Egg",
+  "color": "Red",
+  "form": "In-Training",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-001.png",
+        "imgName": "BT21-001.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/93/BT21-001.png/revision/latest?cb=20250404055209",
+        "uploadDate": "2025-04-04T05:52:09"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-001-Sample.png",
+        "imgName": "BT21-001-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bd/BT21-001-Sample.png/revision/latest?cb=20250326062453",
+        "uploadDate": "2025-03-26T06:24:53"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-001-J.png",
+        "imgName": "BT21-001-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/91/BT21-001-J.png/revision/latest?cb=20250404045727",
+        "uploadDate": "2025-04-04T04:57:27"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/93/BT21-001.png/revision/latest?cb=20250404055209",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When your opponent's security stack is removed from, 1 of your Digimon may digivolve into a Digimon card with the [Reptile] or [Dragonkin] trait in the hand with the digivolution cost reduced by 1.",
+  "level": "2",
+  "name": "Gigimon",
+  "nameJapanese": "ギギモン",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT21-001#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT21-001 (Apr. 4, 2025)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "The [Security] effect will activate first.Upon a security check, a [Security] effect will immediately activate without pending activation.",
+        "question": "What order do an effect that triggers when a card is removed from a security stack and a [Security] effect on a checked card activate when they trigger simultaneously upon a security check?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, another security check is performed.",
+        "question": "A Digimon that has this card in its digivolution cards attacks, and a security check was performed on my opponent's security stack.If the attacking Digimon with this card in its digivolution cards digivolves into a Digimon with ＜Security A. +1＞ (This Digimon checks 1 additional security card.) using this card's inherited effect, is another security check performed?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "The top card of the security stack.Upon a security check, the checked card is already considered to be removed from the security stack, therefore that card won't be trashed.",
+        "question": "I use a Digimon that has this card in its digivolution cards to perform a security check on my opponent's security stack, then I use this Digimon's inherited effect to digivolve into BT21-024 [Cyberdramon]. What card is trashed by BT21-024 [Cyberdramon]'s [When Digivolving] effect at such times?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      }
+    ]
+  },
+  "type": "Lesser/LIBERATOR"
+}

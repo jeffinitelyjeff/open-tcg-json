@@ -1,0 +1,125 @@
+{
+  "attribute": "Data",
+  "blockIcon": "04",
+  "cardEffects": "[Main] [Once Per Turn] You may play 1 Digimon with [Sistermon] or [Gankoomon] in its name from your hand with the play cost reduced by 2.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-013.png",
+        "imgName": "BT20-013.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/29/BT20-013.png/revision/latest?cb=20250207070809",
+        "uploadDate": "2025-02-07T07:08:09"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-013-Sample.png",
+        "imgName": "BT20-013-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/05/BT20-013-Sample.png/revision/latest?cb=20241225051446",
+        "uploadDate": "2024-12-25T05:14:46"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-013-J.png",
+        "imgName": "BT20-013-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/35/BT20-013-J.png/revision/latest?cb=20250124093846",
+        "uploadDate": "2025-01-24T09:38:46"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-013-Sample-J.png",
+        "imgName": "BT20-013-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c5/BT20-013-Sample-J.png/revision/latest?cb=20241225051453",
+        "uploadDate": "2024-12-25T05:14:53"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/29/BT20-013.png/revision/latest?cb=20250207070809",
+  "inheritedEffect": "[Your Turn] All of your Diigmon get +1000 DP.",
+  "level": "4",
+  "name": "BaoHuckmon",
+  "nameJapanese": "バオハックモン",
+  "playCost": "5",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT20-013#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for BT20-013 (2025/01/24, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you cannot. No. [Main] More than one effect cannot be activated at the same time.",
+        "question": "There are two of these cards in the Battle Area. Can I activate the [Main] effect of these two cards to play a card whose name contains \"Sistamon\" or \"Gankumon\" with the total play cost I pay -4?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, the total play cost to be paid is -6.",
+        "question": "If I use this card's [Main] effect to play \"BT20-057 Gancumon\", does it activate the first effect of \"BT20-057 Gancumon\" and the total play cost I pay is -6?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "It can be activated and played, but the play cost is not minus.",
+        "question": "Cannot minus the play cost you pay, such as \"ST12-03 Solarmon.\" Can I activate the [Main] effect of this card to play a card whose name contains \"Sistamon\" or \"Gankumon\" when a Digimon with the effect is in the Battle Area?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "It can be activated, but it cannot be played.",
+        "question": "BT9-047 Pormmon\" and so on, \"Cannot play Digimon under the effect.\" Can I activate the [Main] effect of this card to play a card with \"Sistamon\" or \"Gankumon\" in its name when a Digimon with the effect is in the Battle Area?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+          "text": "BT-20: Booster Over the X"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ]
+  },
+  "type": "Dinosaur"
+}

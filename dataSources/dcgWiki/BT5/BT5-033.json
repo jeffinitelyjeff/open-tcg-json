@@ -1,0 +1,187 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "00,03",
+  "cardEffects": "[Opponent's Turn] Your opponent can't reduce digivolution costs.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "3000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": null,
+        "captionText": "BTC-03: Booster Diamond Legend (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-033-C.png",
+        "imgName": "BT5-033-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/58/BT5-033-C.png/revision/latest?cb=20231120180944",
+        "uploadDate": "2023-11-20T18:09:44"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-033.png",
+        "imgName": "BT5-033.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/03/BT5-033.png/revision/latest?cb=20210720175535",
+        "uploadDate": "2021-07-20T17:55:35"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Winner_Pack:_Exceed_Apocalypse",
+        "captionText": "Winner Pack: Exceed Apocalypse (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-033_P1.png",
+        "imgName": "BT5-033_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b4/BT5-033_P1.png/revision/latest?cb=20240330185450",
+        "uploadDate": "2024-03-30T18:54:50"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-033-J.png",
+        "imgName": "BT5-033-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a9/BT5-033-J.png/revision/latest?cb=20210219055822",
+        "uploadDate": "2021-02-19T05:58:22"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Tamer_Battle_Pack_19",
+        "captionText": "Tamer Battle Pack 19 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-033_P1-J.png",
+        "imgName": "BT5-033_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/64/BT5-033_P1-J.png/revision/latest?cb=20230630105307",
+        "uploadDate": "2023-06-30T10:53:07"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-033-K.png",
+        "imgName": "BT5-033-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/94/BT5-033-K.png/revision/latest?cb=20230819152958",
+        "uploadDate": "2023-08-19T15:29:58"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/03/BT5-033.png/revision/latest?cb=20210720175535",
+  "korean": "큐트몬",
+  "level": "3",
+  "name": "Cutemon",
+  "nameJapanese": "キュートモン",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT5-033#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT5-033 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "It negates effects that read, \"reduce the memory cost of the digivolution by X,\" like <Digisorption> and [BT3-103 Hidden Potential Discovered!]. Even if your opponent activates effects like these, it won't reduce the memory cost of their digivolutions. They have to pay the digivolution cost on the card in order to digivolve.",
+        "question": "What does this card's \"can't reduce digivolution costs\" effect do, exactly?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't.",
+        "question": "My opponent has this Digimon in play. If I activate <Digisorption> on a card in my hand, will I be able to reduce digivolution costs with it?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes. [BT2-111 Beelzemon]'s effect doesn't reduce digivolution costs--it allows you to ignore digivolution requirements and digivolve for a specific memory cost, so you can still activate it.",
+        "question": "My opponent has this Digimon in play. Can I use effects like [BT2-111 Beelzemon]'s \"digivolve into this card in your hand for a memory cost of X, ignoring this card's digivolution requirements\" effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-03: Booster Diamond Legend",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Winner_Pack:_Exceed_Apocalypse",
+          "text": "Winner Pack: Exceed Apocalypse"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Tamer_Battle_Pack_19",
+          "text": "Tamer Battle Pack 19"
+        },
+        "foil&Rarity": "No Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "萌萌兽",
+  "traditionalChinese": "可愛獸",
+  "type": "Fairy"
+}

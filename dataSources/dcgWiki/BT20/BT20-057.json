@@ -1,0 +1,111 @@
+{
+  "attribute": "Data",
+  "blockIcon": "04",
+  "cardEffects": "When this card would be played, if you have a Digimon with [Huckmon], [Jesmon] or [Sistermon] in its name, reduce the play cost by 4.\n＜Reboot＞ (Unsuspend this Digimon during your opponent's unsuspend phase.)\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Play] [When Digivolving] 1 of your Digimon may digivolve into a level 6 or lower Digimon card with [Huckmon], [Jesmon] or [Sistermon] in its name or the [Royal Knight] trait in the hand or trash without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "5"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "4",
+      "level": "5"
+    }
+  ],
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-057.png",
+        "imgName": "BT20-057.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/89/BT20-057.png/revision/latest?cb=20250207071056",
+        "uploadDate": "2025-02-07T07:10:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-057-Sample.png",
+        "imgName": "BT20-057-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4b/BT20-057-Sample.png/revision/latest?cb=20250106091307",
+        "uploadDate": "2025-01-06T09:13:07"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-057-J.png",
+        "imgName": "BT20-057-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d2/BT20-057-J.png/revision/latest?cb=20250124093436",
+        "uploadDate": "2025-01-24T09:34:36"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-057-Sample-J.png",
+        "imgName": "BT20-057-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/ca/BT20-057-Sample-J.png/revision/latest?cb=20250106091305",
+        "uploadDate": "2025-01-06T09:13:05"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/89/BT20-057.png/revision/latest?cb=20250207071056",
+  "level": "6",
+  "name": "Gankoomon",
+  "nameJapanese": "ガンクゥモン",
+  "playCost": "12",
+  "rarity": "Rare",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.5_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.5 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+          "text": "BT-20: Booster Over the X"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      }
+    ]
+  },
+  "type": "Holy Warrior/Royal Knight"
+}

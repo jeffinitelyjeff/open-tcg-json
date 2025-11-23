@@ -1,0 +1,150 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Sakuyamon: Maid Mode]: Cost 1",
+  "attribute": "Data",
+  "blockIcon": "03",
+  "cardEffects": "＜Barrier＞ (When this Digimon would be deleted in battle, by trashing the top card of your security stack, prevent that deletion.)\n[When Digivolving] 1 of your opponent's Digimon gets -6000 DP for the turn. Then, you may use 1 Option card with [Plug-In] in its name or 1 yellow Option card with a cost of 5 or less from your hand without paying the cost.\n[Your Turn] [Once Per Turn] When you use an Option card with a cost of 2 or more, this Digimon can't be returned to hand or deck by your opponent's effects until the end of their turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "3",
+    "level": "5"
+  },
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-038.png",
+        "imgName": "BT17-038.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/58/BT17-038.png/revision/latest?cb=20240720080102",
+        "uploadDate": "2024-07-20T08:01:02"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Secret_Crisis",
+        "captionText": "Pre-Release Pack Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-038_P0.png",
+        "imgName": "BT17-038_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0e/BT17-038_P0.png/revision/latest?cb=20240727082331",
+        "uploadDate": "2024-07-27T08:23:31"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Championship_2024_Gold_Stamp_Card_Set",
+        "captionText": "Championship 2024 Gold Stamp Card Set (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-038_P1.png",
+        "imgName": "BT17-038_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b2/BT17-038_P1.png/revision/latest?cb=20250110145655",
+        "uploadDate": "2025-01-10T14:56:55"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Championship_2024_Gold_Stamp_Card_Set",
+        "captionText": "Championship 2024 Gold Stamp Card Set (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-038_P1-Sample.png",
+        "imgName": "BT17-038_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/10/BT17-038_P1-Sample.png/revision/latest?cb=20241214210319",
+        "uploadDate": "2024-12-14T21:03:19"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-038-J.png",
+        "imgName": "BT17-038-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cd/BT17-038-J.png/revision/latest?cb=20240322064309",
+        "uploadDate": "2024-03-22T06:43:09"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/58/BT17-038.png/revision/latest?cb=20240720080102",
+  "level": "6",
+  "name": "Sakuyamon",
+  "nameJapanese": "サクヤモン",
+  "playCost": "11",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT17-038#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT17-038 (Sep. 6, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, this card's [When Digivolving] effect doesn't allow ignoring color requirements, so you can only use cards that meet the color requirements.",
+        "question": "Can I ignore the color requirements when I use this card's [When Digivolving] effect in order to use an Option card with [Plug-In] or a yellow Option card?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, as long as the Option card you use has a cost of 2 or more, this card's [Your Turn] effect activates regardless of the actual cost paid.",
+        "question": "If I activate an effect that reduces the cost of an Option card with a cost of 2 or more and I only pay a cost of 1, or if I do not pay the cost at all by activating an effect that allows me to use an Option card without paying the cost, does this card's [Your Turn] effect activate?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it doesn’t activate.  It doesn't activate if the cost of an Option card consistently changes when it's in the hand and becomes 1 or less due to that card's effect.",
+        "question": "Does this card's [Your Turn] effect activate if I use an Option card when it has a cost of 1 or less due to a \"reduce the cost of this card in the hand by 1\" effect on a card such as  such as BT2-099 [Glorious Burst] or BT8-097 [Crimson Blaze]?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Secret_Crisis",
+          "text": "Pre-Release Pack Secret Crisis"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Championship_2024_Gold_Stamp_Card_Set",
+          "text": "Championship 2024 Gold Stamp Card Set"
+        },
+        "foil&Rarity": "Foil - Championship Stamp - Top 32 Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
+        }
+      }
+    ]
+  },
+  "type": "Shaman"
+}

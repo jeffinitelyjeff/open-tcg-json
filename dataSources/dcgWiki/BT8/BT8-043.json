@@ -1,0 +1,142 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "01",
+  "cardEffects": "When you would play this card from your hand, you may delete 1 of your purple [Cherubimon] to reduce this card's play cost by 8.\n[On Play] [When Digivolving] For each Tamer you have in play, activate the effect below.\n・1 of your opponent's Digimon gets ＜Security A. -2＞ (This Digimon checks 2 fewer security cards.) until the end of your opponent's next turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "5"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "4",
+      "level": "5"
+    }
+  ],
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-043.png",
+        "imgName": "BT8-043.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0e/BT8-043.png/revision/latest?cb=20220422124928",
+        "uploadDate": "2022-04-22T12:49:28"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/New_Awakening_Pre-Release_Pack",
+        "captionText": "New Awakening Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-043_P0.png",
+        "imgName": "BT8-043_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cf/BT8-043_P0.png/revision/latest?cb=20220507123743",
+        "uploadDate": "2022-05-07T12:37:43"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-043-J.png",
+        "imgName": "BT8-043-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/16/BT8-043-J.png/revision/latest?cb=20211119075607",
+        "uploadDate": "2021-11-19T07:56:07"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-043-Sample-J.png",
+        "imgName": "BT8-043-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5b/BT8-043-Sample-J.png/revision/latest?cb=20211109173902",
+        "uploadDate": "2021-11-09T17:39:02"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0e/BT8-043.png/revision/latest?cb=20220422124928",
+  "level": "6",
+  "name": "Cherubimon",
+  "nameJapanese": "ケルビモン",
+  "playCost": "11",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT8-043#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT8-043 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes. The effect activates for each Tamer you have in play, and you can choose a different target for each activation.",
+        "question": "If I have multiple Tamers in play, can this card's [On Play][When Digivolving] effect give <Security Attack -2> to a different one of my opponent’s Digimon for each Tamer I have in play?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it’s treated as a single timing.",
+        "question": "When I activate this card’s [On Play][When Digivolving] effect multiple times, is each activation treated as its own timing?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/New_Awakening_Pre-Release_Pack",
+          "text": "New Awakening Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ]
+  },
+  "type": "Cherub/Three Great Angels"
+}

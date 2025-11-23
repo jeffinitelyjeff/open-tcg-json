@@ -1,0 +1,92 @@
+{
+  "blockIcon": "03",
+  "cardEffects": "[Main] Until the end of your opponent's turn, 1 of their Digimon gains \"[End of Your Turn] Delete this Digimon.\" Then, place this card in the battle area.\n[End of Opponent's Turn] If you have a Digimon with [Lilithmon] in its name, ＜Delay＞ (By trashing this card after the placing turn, activate the effect below.)\n・Delete 1 of your opponent's unsuspended Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Purple",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-070.png",
+        "imgName": "EX6-070.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/73/EX6-070.png/revision/latest?cb=20240531091330",
+        "uploadDate": "2024-05-31T09:13:30"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-070-J.png",
+        "imgName": "EX6-070-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/32/EX6-070-J.png/revision/latest?cb=20240216085317",
+        "uploadDate": "2024-02-16T08:53:17"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-070-Sample-J.png",
+        "imgName": "EX6-070-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/af/EX6-070-Sample-J.png/revision/latest?cb=20240124090747",
+        "uploadDate": "2024-01-24T09:07:47"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/73/EX6-070.png/revision/latest?cb=20240531091330",
+  "name": "Phantom Pain",
+  "nameJapanese": "ファントムペイン",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX6-070#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX6-070 (Jun. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "A Digimon with a \"this Digimon isn't affected by your opponent’s effects\" effect can also be chosen as a target for this effect, therefore your opponent's Digimon will be affected by this card's effect as soon as it loses the \"this Digimon isn't affected by your opponent’s effects\" effect.  As a result, it's deleted at the [End of Your Turn] timing.",
+        "question": "What happens if this card's [Main] effect is given to a Digimon that activated a \"this Digimon isn't affected by your opponent’s effects until the end of your opponent's turn\" effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Delete 1 of your opponent's unsuspended Digimon.",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      }
+    ]
+  },
+  "useCost": "4"
+}

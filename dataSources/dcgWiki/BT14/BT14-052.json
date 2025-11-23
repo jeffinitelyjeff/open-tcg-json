@@ -1,0 +1,103 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.)\n[When Digivolving] Suspend 1 of your opponent's Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-052.png",
+        "imgName": "BT14-052.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4e/BT14-052.png/revision/latest?cb=20231027105753",
+        "uploadDate": "2023-10-27T10:57:53"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-052-J.png",
+        "imgName": "BT14-052-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c5/BT14-052-J.png/revision/latest?cb=20231111055801",
+        "uploadDate": "2023-11-11T05:58:01"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4e/BT14-052.png/revision/latest?cb=20231027105753",
+  "inheritedEffect": "[Your Turn] While this Digimon has [Leomon] in its name, it gets +2000 DP.",
+  "korean": "화이트레오몬",
+  "level": "5",
+  "name": "Panjyamon",
+  "nameJapanese": "パンジャモン",
+  "playCost": "8",
+  "rarity": "Common",
+  "rule": "[Rule] Name: Also treated as having [Leomon].",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT14-052#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT14-052 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "This is a special rule for this card that treats it as a card that has [Leomon]. This is a rule and not an effect, therefore this card is treated as having [Leomon] when the card is in your hand, breeding area, or any other area.",
+        "question": "What does this card's \"(Rule) Name: Treated as having [Leomon]\" mean, exactly?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it can't. This card's name is treated as having [Leomon], but it is not treated as [Leomon].",
+        "question": "Can this card be selected as the target of an effect that targets exactly [Leomon] due to the text \"(Rule) Name: Treated as having [Leomon]\"?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "白狮兽",
+  "traditionalChinese": "邦加獸",
+  "type": "Beastkin"
+}

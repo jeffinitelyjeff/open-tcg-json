@@ -1,0 +1,99 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] [When Digivolving] Your opponent reveals the top 3 cards of their deck. ＜De-Digivolve  1＞ 1 of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.) for each Digimon card among them. Return the cards to either the top or bottom of the deck.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-065.png",
+        "imgName": "BT14-065.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fa/BT14-065.png/revision/latest?cb=20231027105754",
+        "uploadDate": "2023-10-27T10:57:54"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-065-J.png",
+        "imgName": "BT14-065-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e2/BT14-065-J.png/revision/latest?cb=20231111063756",
+        "uploadDate": "2023-11-11T06:37:56"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fa/BT14-065.png/revision/latest?cb=20231027105754",
+  "level": "5",
+  "name": "Vademon",
+  "nameJapanese": "ベーダモン",
+  "playCost": "7",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT14-065#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT14-065 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. ＜De-Digivolve  1＞ nocategory of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.) activates 3 times, not ＜De-Digivolve  3＞ nocategory of your opponent's Digimon. (Trash up to 3 cards from the top. You can't trash past level 3 cards.).  The difference is that ＜De-Digivolve  3＞ nocategory of your opponent's Digimon. (Trash up to 3 cards from the top. You can't trash past level 3 cards.) allows you to trash 1 to 3 cards, but ＜De-Digivolve  1＞ nocategory of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.) trashes 1 card three times, meaning that you always trash 3 cards (or until there are no more digivolution cards or until the Digimon is reduced to level 3).",
+        "question": "If my opponent reveals 3 Digimon cards from their deck by this card's effect, does it ＜De-Digivolve  3＞ nocategory of your opponent's Digimon. (Trash up to 3 cards from the top. You can't trash past level 3 cards.) 1 of my opponent's Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "The player that activated this effect chooses.",
+        "question": "When this card’s effect returns revealed cards to my opponent's deck, which player decides the order the cards are placed in and whether the cards are placed on the top or bottom of the deck?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ]
+  },
+  "traditionalChinese": "入侵者獸",
+  "type": "Alien"
+}

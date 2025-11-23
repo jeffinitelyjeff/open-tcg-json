@@ -1,0 +1,107 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Insectoid] trait: Cost 3",
+  "attribute": "Data",
+  "blockIcon": "03",
+  "cardEffects": "＜Evade＞ (When this Digimon would be deleted, you may suspend it to prevent that deletion.)\n[All Turns] While this Digimon is suspended, it isn't affected by the effects of your opponent's Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green / Blue",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2024",
+        "captionText": "Update Pack 2024 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-140.png",
+        "imgName": "P-140.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c8/P-140.png/revision/latest?cb=20240705214737",
+        "uploadDate": "2024-07-05T21:47:37"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2024",
+        "captionText": "Update Pack 2024 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-140-J.png",
+        "imgName": "P-140-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/76/P-140-J.png/revision/latest?cb=20240322062941",
+        "uploadDate": "2024-03-22T06:29:41"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c8/P-140.png/revision/latest?cb=20240705214737",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When this Digimon deletes an opponent's Digimon in battle, trash the top card of your opponent's security stack.",
+  "level": "5",
+  "name": "MegaKabuterimon",
+  "nameJapanese": "アトラーカブテリモン",
+  "playCost": "8",
+  "rarity": "Promo",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=P-140#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for P-140 (Sep. 6, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes. It's no longer affected by your opponent's effects as soon as it's suspended, so it can now unsuspend.",
+        "question": "If this Digimon is unsuspended, then it's suspended by an opponent Digimon's \"Suspend 1 of your opponent's Digimon. That Digimon can't unsuspend during your opponent's next unsuspend phase\" effect, is the effect that prevents unsuspending during the unsuspend phase negated?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it isn't affected.  [Security] effects on Security Digimon are treated as Digimon effects, so the \"this Digimon isn't affected by the effects of your opponent's Digimon\" effect prevents such effects from affecting this Digimon.",
+        "question": "Does this card's [All Turns] effect prevent [Security] effects on my opponent's Security Digimon from affecting this Digimon when it's suspended?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2024",
+          "text": "Update Pack 2024"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2024",
+          "text": "Update Pack 2024"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ]
+  },
+  "type": "Insectoid"
+}

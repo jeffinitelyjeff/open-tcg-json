@@ -1,0 +1,127 @@
+{
+  "altDigivolutionRequirements": "[App Fusion] [Coordemon] & [Consulmon]: Cost 0\nIf 2 such cards are linked together, stack the link card on top and digivolve.",
+  "attribute": "Life",
+  "blockIcon": "05",
+  "cardEffects": "＜Barrier＞ (When this Digimon would be deleted in battle, by trashing the top card of your security stack, prevent that deletion.)\n[On Play] [When Digivolving] You may link 1 level 4 or lower Digimon card from your trash or this Digimon's digivolution cards to this Digimon without paying the cost.\n[Your Turn] [Once Per Turn] When this Digimon gets linked, if you have 5 or fewer security cards, ＜Recovery +1 (Deck)＞ (Place the top card of your deck on top of your security stack.) Then, to 1 of your opponent's Digimon, give -1000 DP until their turn ends for each of your security cards.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Not released",
+    "korean": "Not released",
+    "nameJapanese": "Not released"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "All",
+      "digivolveCost": "4",
+      "form": "Sup."
+    }
+  ],
+  "dp": "8000 DP",
+  "form": "Ult./Appmon",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+        "captionText": "BT-23: Booster Hackers' Slumber (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT23-033.png",
+        "imgName": "BT23-033.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a3/BT23-033.png/revision/latest?cb=20251003041126",
+        "uploadDate": "2025-10-03T04:11:26"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+        "captionText": "BT-23: Booster Hackers' Slumber (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT23-033-Sample.png",
+        "imgName": "BT23-033-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/25/BT23-033-Sample.png/revision/latest?cb=20250922155504",
+        "uploadDate": "2025-09-22T15:55:04"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+        "captionText": "BT-23: Booster Hackers' Slumber (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT23-033-J.png",
+        "imgName": "BT23-033-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/90/BT23-033-J.png/revision/latest?cb=20251003043407",
+        "uploadDate": "2025-10-03T04:34:07"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a3/BT23-033.png/revision/latest?cb=20251003041126",
+  "level": "5",
+  "linkDp": "<< +4000 DP",
+  "linkEffect": "[When Linking] Until your opponent's turn ends, their effects can't return this Digimon to hands or decks or affect it with ＜De-Digivolve＞ effects.",
+  "linkRequirements": "[Link] [Appmon] trait: Cost 3 \n(Plug this card from the hand or battle area sideways into the specified Digimon in the battle area.)",
+  "name": "Beautymon",
+  "nameJapanese": "ビューティモン",
+  "playCost": "8",
+  "rarity": "Rare",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+          "text": "BT-23: Booster Hackers' Slumber"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+          "text": "BT-23: Booster Hackers' Slumber"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+          "text": "BT-23: Booster Hackers' Slumber"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+          "text": "BT-23: Booster Hackers' Slumber"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ]
+  },
+  "type": "Beauty (App Name)"
+}

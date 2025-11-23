@@ -1,0 +1,113 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Raptordramon]/Lv.4 w/[Chronicle] trait: Cost 3",
+  "attribute": "Vaccine",
+  "blockIcon": "04",
+  "cardEffects": "[On Play] [When Digivolving] You may play 1 [Dorumon] or [Ryudamon] from your hand to your empty breeding area without paying the cost. Then, if during an attack until the end of your opponent's turn, 1 of your Digimon isn't affected by your opponent's Digimon's effects and gets +5000 DP.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black / Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-053.png",
+        "imgName": "BT20-053.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/16/BT20-053.png/revision/latest?cb=20250207071056",
+        "uploadDate": "2025-02-07T07:10:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-053-Sample.png",
+        "imgName": "BT20-053-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9c/BT20-053-Sample.png/revision/latest?cb=20241220032617",
+        "uploadDate": "2024-12-20T03:26:17"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-053-J.png",
+        "imgName": "BT20-053-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/21/BT20-053-J.png/revision/latest?cb=20250124093436",
+        "uploadDate": "2025-01-24T09:34:36"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-053-Sample-J.png",
+        "imgName": "BT20-053-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/eb/BT20-053-Sample-J.png/revision/latest?cb=20241220032653",
+        "uploadDate": "2024-12-20T03:26:53"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/16/BT20-053.png/revision/latest?cb=20250207071056",
+  "inheritedEffect": "[Opponent's Turn] [Once Per Turn] When one of your opponent's Digimon attacks, you may change the attack target to this Digimon.",
+  "level": "5",
+  "name": "Grademon",
+  "nameJapanese": "グレイドモン",
+  "playCost": "7",
+  "rarity": "Uncommon",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.5_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.5 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp -",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+          "text": "BT-20: Booster Over the X"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      }
+    ]
+  },
+  "type": "Warrior/X Antibody/Chronicle"
+}

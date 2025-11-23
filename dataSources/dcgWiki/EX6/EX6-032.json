@@ -1,0 +1,94 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Kokomon]: Cost 0",
+  "attribute": "Data",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] You may suspend 1 Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green / Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "1",
+      "level": "2"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "1",
+      "level": "2"
+    }
+  ],
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-032.png",
+        "imgName": "EX6-032.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/62/EX6-032.png/revision/latest?cb=20240621073102",
+        "uploadDate": "2024-06-21T07:31:02"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-032-J.png",
+        "imgName": "EX6-032-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/26/EX6-032-J.png/revision/latest?cb=20240216085318",
+        "uploadDate": "2024-02-16T08:53:18"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-032-Sample-J.png",
+        "imgName": "EX6-032-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/89/EX6-032-Sample-J.png/revision/latest?cb=20240114104730",
+        "uploadDate": "2024-01-14T10:47:30"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/62/EX6-032.png/revision/latest?cb=20240621073102",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] 1 of your opponent's Digimon gets -2000 DP for the turn.",
+  "level": "3",
+  "name": "Lopmon",
+  "nameJapanese": "ロップモン",
+  "playCost": "3",
+  "rarity": "Common",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ryodan",
+          "text": "Ryodan"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ryodan",
+          "text": "Ryodan"
+        }
+      }
+    ]
+  },
+  "type": "Beast"
+}

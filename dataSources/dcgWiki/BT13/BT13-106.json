@@ -1,0 +1,131 @@
+{
+  "blockIcon": "02",
+  "cardEffects": "When an effect trashes this card from the security stack, activate this card's [Main] effect.\n[Main] 1 of your opponent's Digimon gets -3000 DP until the end of your opponent's turn. Then, if there're 6 or fewer total cards in both players' security stacks, all of your opponent's Digimon gain ＜Security A. -1＞ (This Digimon checks 1 fewer security card.) until the end of your opponent's turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Yellow",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-106.png",
+        "imgName": "BT13-106.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c8/BT13-106.png/revision/latest?cb=20230714185531",
+        "uploadDate": "2023-07-14T18:55:31"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Royal_Knights_Pre-Release_Pack",
+        "captionText": "Royal Knights Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-106_P0.png",
+        "imgName": "BT13-106_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d1/BT13-106_P0.png/revision/latest?cb=20230714195913",
+        "uploadDate": "2023-07-14T19:59:13"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-106-J.png",
+        "imgName": "BT13-106-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/62/BT13-106-J.png/revision/latest?cb=20230217122628",
+        "uploadDate": "2023-02-17T12:26:28"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-106-Sample-J.png",
+        "imgName": "BT13-106-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9f/BT13-106-Sample-J.png/revision/latest?cb=20230209092133",
+        "uploadDate": "2023-02-09T09:21:33"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c8/BT13-106.png/revision/latest?cb=20230714185531",
+  "name": "Odin's Breath",
+  "nameJapanese": "オーディンズブレス",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT13-106#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT13-106 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "This card's effect activates before the security check.",
+        "question": "If my opponent's Digimon attacks a player and this card is trashed from the security stack by a [When Attacking] effect, which comes first, the security check from the attack or this card's “When this card is trashed from a security stack by an effect” effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it means if the total sum of cards in your security stack and the cards in your opponent's security stack is 6 or less.",
+        "question": "Does \"If the total cards in both players' security stacks is 6 or less\" mean 6 or less cards in either me or my opponent's security stacks?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, the Digimon's security check is zero. No checks are performed.",
+        "question": "My opponent's Digimon attacks a player and this card is trashed from the security stack by a [When Attacking] effect. If this card's [Main] effect gives all of my opponent's Digimon <Security Attack -1> and the attacking Digimon now has a security check number of 0, is a security check performed?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes. It activates because \"When this card is trashed from a security stack by an effect\" isn't a [Security] effect.",
+        "question": "Does this card's [Main] effect activate if this card is trashed from the security stack when my opponent has activated a \"your opponent doesn't activate [Security] effects\" effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it doesn't. A card revealed from your security stack and then trashed isn't considered \"When this card is trashed from a security stack.\"",
+        "question": "If this card is revealed from my security stack and trashed by [BT10-086 Omnimon (X Antibody)]'s effect, does this card's “When this card is trashed from a security stack by an effect” effect activate?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Activate this card's [Main] effects.",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Royal_Knights_Pre-Release_Pack",
+          "text": "Royal Knights Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ]
+  },
+  "useCost": "5"
+}

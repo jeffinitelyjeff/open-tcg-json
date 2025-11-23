@@ -1,0 +1,170 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Gammamon] in name: Cost 3",
+  "attribute": "Vaccine",
+  "blockIcon": "02",
+  "cardEffects": "One of your [Gammamon] that has a digivolution card with [Gammamon] in its name may digivolve into this card in your hand for a digivolution cost of 3, ignoring digivolution requirements.\n[All Turns] This Digimon gains all effects of cards with [Gammamon] in their names in this Digimon's digivolution cards.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-009.png",
+        "imgName": "RB1-009.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/76/RB1-009.png/revision/latest?cb=20230901095552",
+        "uploadDate": "2023-09-01T09:55:52"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Event_Pack_6",
+        "captionText": "Event Pack 6 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-009_P1-Sample.png",
+        "imgName": "RB1-009_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b5/RB1-009_P1-Sample.png/revision/latest?cb=20240220061637",
+        "uploadDate": "2024-02-20T06:16:37"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Event_Pack_6",
+        "captionText": "Event Pack 6 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-009_P1.png",
+        "imgName": "RB1-009_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/61/RB1-009_P1.png/revision/latest?cb=20240707120348",
+        "uploadDate": "2024-07-07T12:03:48"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-009-J.png",
+        "imgName": "RB1-009-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/ff/RB1-009-J.png/revision/latest?cb=20231017163615",
+        "uploadDate": "2023-10-17T16:36:15"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-01:_Limited_Card_Pack_Digimon_Ghost_Game",
+        "captionText": "LM-01: Limited Card Pack Digimon Ghost Game (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-009_P1-J.png",
+        "imgName": "RB1-009_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7d/RB1-009_P1-J.png/revision/latest?cb=20231017163744",
+        "uploadDate": "2023-10-17T16:37:44"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/76/RB1-009.png/revision/latest?cb=20230901095552",
+  "inheritedEffect": "[All Turns] This Digimon gains all effects of cards with [Gammamon] in their names in this Digimon's digivolution cards.",
+  "level": "5",
+  "name": "Canoweissmon",
+  "nameJapanese": "カノーヴァイスモン",
+  "playCost": "8",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=RB1-009#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for RB1-009 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, it can't. This effect can only be used to digivolve from a Digimon whose card name is [Gammamon] and also has a digivolution card with [Gammamon]. Note that digivolutions from cards with non-[Gammamon] card names are possible using digivolution requirements or this card's special digivolution requirements.",
+        "question": "Does this card's \"This card in your hand can digivolve onto one of your [Gammamon] that has a digivolution card with [Gammamon] for a digivolution cost of 3, ignoring this card's digivolution requirements\" mean that it can also digivolve from cards that have [Gammamon] such as [BetelGammamon], [KausGammamon], [WezenGammamon], or [GulusGammamon]?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, they activate. This card's \"\"This Digimon gains all effects of cards with [Gammamon] in this Digimon's digivolution cards\"\" effect is an [All Turns] effect, so it will activate as soon as the digivolution is confirmed. Therefore, [When Digivolving] effects are gained and will trigger.",
+        "question": "When digivolving into this card, do the [When Digivolving] effects on digivolution cards with [Gammamon] activate?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, if the memory gauge is now at 1 or greater on your opponent's side, you can activate ＜Blitz＞ .",
+        "question": "I digivolve a Digimon with [Gammamon] and a [When Digivolving] ＜Blitz＞ effect into this card. Can I activate the [When Digivolving] ＜Blitz＞ effect through this card's [All Turns] effect and attack?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "Can I digivolve one of my [Gammamon] with a digivolution card with [Gammamon] in the battle area into this card in the hand when an effect to digivolve one of my Digimon is activated?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, this card's [All Turns] effect and inherited effect don't affect the inherited effects of digivolution cards with [Gammamon].",
+        "question": "Does this card's [All Turns] effect and inherited effect allow me to activate the inherited effect of a digivolution card with [Gammamon] as an effect of this card?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-07: Booster Great Warrior",
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Event_Pack_6",
+          "text": "Event Pack 6"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-01:_Limited_Card_Pack_Digimon_Ghost_Game",
+          "text": "LM-01: Limited Card Pack Digimon Ghost Game"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "simplifiedChinese": "卡诺维斯兽",
+  "traditionalChinese": "卡諾維斯獸",
+  "type": "Sky Dragon"
+}

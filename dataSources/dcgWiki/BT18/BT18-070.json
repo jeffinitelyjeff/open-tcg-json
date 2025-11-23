@@ -1,0 +1,141 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Black/Yellow Lv.4 w/[Hybrid] trait: Cost 3",
+  "attribute": "Variable",
+  "blockIcon": "04",
+  "cardEffects": "[Hand] [Main] By placing 1 [Beetlemon] and [MetalKabuterimon] from your trash under 1 of your black or yellow Tamers, that Tamer digivolves into this card for digivolution cost of 3, ignoring its digivolution requirements.\n＜Collision＞ (During this Digimon's attack, all of your opponent's Digimon gain ＜Blocker＞, and must block if possible.)\n[All Turns] [Once Per Turn] When an attack target is switched, you may unsuspend this Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black / Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "8000 DP",
+  "form": "Hybrid",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-070.png",
+        "imgName": "BT18-070.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/36/BT18-070.png/revision/latest?cb=20241011092901",
+        "uploadDate": "2024-10-11T09:29:01"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-070-J.png",
+        "imgName": "BT18-070-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e5/BT18-070-J.png/revision/latest?cb=20240621114656",
+        "uploadDate": "2024-06-21T11:46:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-070-Sample-J.png",
+        "imgName": "BT18-070-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b4/BT18-070-Sample-J.png/revision/latest?cb=20240615180142",
+        "uploadDate": "2024-06-15T18:01:42"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/3/36/BT18-070.png/revision/latest?cb=20241011092901",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] 1 of your opponent's Digimon gets -4000 DP for the turn.",
+  "level": "5",
+  "name": "RhinoKabuterimon",
+  "nameJapanese": "ライノカブテリモン",
+  "playCost": "8",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT18-070#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT18-070 (Nov. 1, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Effects with the [Hand] icon can activate when their card is revealed from the hand.  This effect can activate during the main phase when you reveal this card from the hand and process the effect.",
+        "question": "How do I activate this card's [Hand] [Main] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't.  A \"by doing X\" condition can't be met if only some of the required actions are performed.  In order for the conditions for this card's [Hand] [Main] effect to be met, you must place 1 [Beetlemon] and 1 [MetalKabuterimon] under your Tamer.",
+        "question": "Can I use this card's [Hand] [Main] effect to place just 1 [Beetlemon] or [MetalKabuterimon] from my trash under my Tamer?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it digivolves from the Tamer as-is.",
+        "question": "Does this card's [Hand] [Main] effect where it can digivolve from a Tamer mean that the Tamer that will become a digivolution card is treated as a Digimon when it digivolves?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it isn't considered a Digimon that would digivolve.  When a Tamer would digivolve using this card's [Hand] [Main] effect, \"when a Digimon would digivolve\" effects don't trigger.",
+        "question": "When a Tamer would digivolve using this card's [Hand] [Main] effect, is it considered a Digimon that would digivolve?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it isn't considered a Digimon that digivolves.  When a Tamer digivolves using this card's [Hand] [Main] effect, \"when a Digimon digivolves\" effects don't trigger.",
+        "question": "When a Tamer digivolves using this card's [Hand] [Main] effect, is it considered a Digimon that digivolves?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+          "text": "BT18-19: Special Booster Ver.2.0"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.0_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.0 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+          "text": "BT-18: Booster Elemental Successor"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ]
+  },
+  "type": "Insectoid"
+}

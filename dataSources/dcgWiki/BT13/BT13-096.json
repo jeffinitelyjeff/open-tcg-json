@@ -1,0 +1,103 @@
+{
+  "blockIcon": "02",
+  "cardEffects": "[On Play] You may play 1 blue level 3 Digimon card from 1 of your Digimon's digivolution cards without paying its cost.\n[All Turns] When you play a blue Digimon, you can suspend this Tamer to place 1 blue level 4 or lower Digimon card from your hand under that Digimon as its bottom digivolution card.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Tamer",
+  "color": "Blue",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-096.png",
+        "imgName": "BT13-096.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b4/BT13-096.png/revision/latest?cb=20230714185530",
+        "uploadDate": "2023-07-14T18:55:30"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Royal_Knights_Pre-Release_Pack",
+        "captionText": "Royal Knights Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-096_P0.png",
+        "imgName": "BT13-096_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/be/BT13-096_P0.png/revision/latest?cb=20230714195910",
+        "uploadDate": "2023-07-14T19:59:10"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-096-J.png",
+        "imgName": "BT13-096-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e4/BT13-096-J.png/revision/latest?cb=20230217122630",
+        "uploadDate": "2023-02-17T12:26:30"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-096-Sample-J.png",
+        "imgName": "BT13-096-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d4/BT13-096-Sample-J.png/revision/latest?cb=20230123090503",
+        "uploadDate": "2023-01-23T09:05:03"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b4/BT13-096.png/revision/latest?cb=20230714185530",
+  "name": "Homer Yushima",
+  "nameJapanese": "湯島浩",
+  "nameTranslated": "Yushima Hiroshi",
+  "playCost": "3",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT13-096#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT13-096 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it does.",
+        "question": "When I played a blue Digimon, its DP became 0 by an opponent's effect that had already activated, so the Digimon was deleted at the same time it was played. Does this Tamer's [All Turns] effect still trigger in such cases?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Play this card without paying the cost.",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Royal_Knights_Pre-Release_Pack",
+          "text": "Royal Knights Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  }
+}

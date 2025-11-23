@@ -1,0 +1,115 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Light Fang]/[Night Claw] trait: Cost 2",
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] [When Digivolving] Reveal the top 3 cards of your deck. Add 1 card with the [Light Fang] trait and 1 card with the [Night Claw] or [Galaxy] trait among them to the hand. Return the rest to the bottom of the deck.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "2",
+      "level": "3"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "2",
+      "level": "3"
+    }
+  ],
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-008.png",
+        "imgName": "EX5-008.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a0/EX5-008.png/revision/latest?cb=20240112102923",
+        "uploadDate": "2024-01-12T10:29:23"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-008-J.png",
+        "imgName": "EX5-008-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/79/EX5-008-J.png/revision/latest?cb=20230818055401",
+        "uploadDate": "2023-08-18T05:54:01"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-008-Sample-J.png",
+        "imgName": "EX5-008-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/58/EX5-008-Sample-J.png/revision/latest?cb=20230730060255",
+        "uploadDate": "2023-07-30T06:02:55"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a0/EX5-008.png/revision/latest?cb=20240112102923",
+  "inheritedEffect": "[Your Turn] This Digimon gets +2000 DP.",
+  "level": "4",
+  "name": "Firamon",
+  "nameJapanese": "ファイラモン",
+  "playCost": "4",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX5-008#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX5-008 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, even if you only reveal one of the applicable cards, you can still add it to your hand.",
+        "question": "If the cards revealed for this card's [On Play][When Digivolving] effect include only either 1 card with the [Light Fang] trait or 1 card with the [Night Claw] or [Galaxy] trait, can I just add that 1 card to my hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. If you have cards that are targets of this effect, you must add as many cards to your hand as possible.",
+        "question": "If the 3 cards I reveal from my deck for this card's [On Play][When Digivolving] effect include both a card with the [Light Fang] trait and a card with the [Night Claw] or [Galaxy] trait, can I choose to only add one of them to my hand, and place the remaining cards at the bottom of my deck?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ]
+  },
+  "type": "Beast/Light Fang"
+}

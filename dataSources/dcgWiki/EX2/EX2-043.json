@@ -1,0 +1,175 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "01",
+  "cardEffects": "[When Digivolving] All players trash cards in their hand until they have 5 cards left.\n[Your Turn] [Once Per Turn] When one of your effects trashes a card in your hand, you may unsuspend 1 of your Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "4",
+    "level": "5"
+  },
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+        "captionText": "EX-02: Theme Booster Digital Hazard (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX2-043.png",
+        "imgName": "EX2-043.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c2/EX2-043.png/revision/latest?cb=20220617101801",
+        "uploadDate": "2022-06-17T10:18:01"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+        "captionText": "EX-02: Theme Booster Digital Hazard (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX2-043_P1.png",
+        "imgName": "EX2-043_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/82/EX2-043_P1.png/revision/latest?cb=20220624094751",
+        "uploadDate": "2022-06-24T09:47:51"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+        "captionText": "EX-02: Theme Booster Digital Hazard (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX2-043-J.png",
+        "imgName": "EX2-043-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9c/EX2-043-J.png/revision/latest?cb=20211217092421",
+        "uploadDate": "2021-12-17T09:24:21"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+        "captionText": "EX-02: Theme Booster Digital Hazard (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX2-043_P1-J.png",
+        "imgName": "EX2-043_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e3/EX2-043_P1-J.png/revision/latest?cb=20211224051019",
+        "uploadDate": "2021-12-24T05:10:19"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+        "captionText": "EX-02: Theme Booster Digital Hazard (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX2-043-Sample-J.png",
+        "imgName": "EX2-043-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/91/EX2-043-Sample-J.png/revision/latest?cb=20211209114003",
+        "uploadDate": "2021-12-09T11:40:03"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+        "captionText": "EX-02: Theme Booster Digital Hazard (Alternative Art) (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX2-043_P1-Sample-J.png",
+        "imgName": "EX2-043_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/da/EX2-043_P1-Sample-J.png/revision/latest?cb=20211219114525",
+        "uploadDate": "2021-12-19T11:45:25"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c2/EX2-043.png/revision/latest?cb=20220617101801",
+  "level": "6",
+  "name": "Gulfmon",
+  "nameJapanese": "ガルフモン",
+  "playCost": "12",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX2-043#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX2-043 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Both players decide which cards to trash from their own hands.",
+        "question": "Which player decides which cards are trashed from hand by this card’s [When Digivolving] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "It activates after you draw.  [When Digivolving] effects trigger after a player finishes drawing the digivolution bonus card.",
+        "question": "Does this card’s [When Digivolving] effect activate before or after drawing the digivolution bonus card?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "If you have 5 or fewer cards in hand, you don't trash any cards.",
+        "question": "How does this card’s [When Digivolving] effect work when I have 5 or fewer cards in hand?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-01: Extra Booster",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      },
+      {
+        "boosterSet": "EXC-01: Extra Booster",
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+          "text": "EX-02: Theme Booster Digital Hazard"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+          "text": "EX-02: Theme Booster Digital Hazard"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+          "text": "EX-02: Theme Booster Digital Hazard"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+          "text": "EX-02: Theme Booster Digital Hazard"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ]
+  },
+  "type": "Dark Animal"
+}

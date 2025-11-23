@@ -1,0 +1,130 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "04",
+  "cardEffects": "[On Play] [When Digivolving] ＜De-Digivolve  2＞ 1 of your opponent's Digimon. (Trash up to 2 cards from the top. You can't trash past level 3 cards.) Then, if your opponent has 2 or more Digimon, return 1 of your opponent's level 4 or lower Digimon to the hand.\n[On Deletion] You may play 1 [Blue Flare] or [Xros Heart] trait trait Digimon card with a play cost of 5 or less from under your Tamers without paying the cost. Then, ＜Save＞ (You may place this card under one of your Tamers.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "3",
+      "level": "5"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "5"
+    }
+  ],
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-026.png",
+        "imgName": "BT19-026.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2c/BT19-026.png/revision/latest?cb=20250207192639",
+        "uploadDate": "2025-02-07T19:26:39"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-026-J.png",
+        "imgName": "BT19-026-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/19/BT19-026-J.png/revision/latest?cb=20240920095655",
+        "uploadDate": "2024-09-20T09:56:55"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-026-Sample-J.png",
+        "imgName": "BT19-026-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5c/BT19-026-Sample-J.png/revision/latest?cb=20240909090116",
+        "uploadDate": "2024-09-09T09:01:16"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2c/BT19-026.png/revision/latest?cb=20250207192639",
+  "inheritedEffect": "[All Turns] This Digimon gets +2000 DP.",
+  "level": "6",
+  "name": "ZeigGreymon",
+  "nameJapanese": "ジークグレイモン",
+  "playCost": "11",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT19-026#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for BT19-026 (2024/09/20, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it satisfies. In this situation, even if <De-Digivolving> causes the opponent's Digimon to become a Digitamon card with no DP, it is not trashed until the card's [On Play] and [When Digivolved] effects are resolved, and the card is treated as a Digimon. Therefore, the \"if there are 2 or more opponent Digimon\" condition of this effect is met, and you can return one of your opponent's Digimon of Lv.4 or lower to your hand. After returning it, the Digimon card is trashed. Also, if this effect returns a Digimon card to your hand, the card is placed at the bottom of the Digi-egg Deck.",
+        "question": "The situation is that the opponent has 2 Digimon. If one of my opponent's Digimon becomes a Digitama Card without DP due to <De-Digivolve 2> of this card's [On Play] and [When Digivolving] effects, does it satisfy the \"if the opponent has 2 or more Digimon\" requirement of this effect after that?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it does not. In this situation, if the opponent's Digimon becomes a Tamer by <De-Digivolve>, the \"if the opponent has 2 or more Digimon\" condition of this effect is not met.",
+        "question": "The situation is that the opponent has 2 Digimon. If an opponent's Digimon becomes a Tamer by <De-Digivolve 1> of this card's [On Play] [When Digivolving] effect, does it satisfy the \"if the opponent has 2 or more Digimon\" requirement of this effect after that?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "A Digimon card with \"Blue Flare\" or \"Cross Heart\" in its trait and play cost 5 or less.",
+        "question": "Which card can play from under the tamer by this card's [On Deletion] effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.5_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.5 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+          "text": "BT-19: Booster Xros Evolution"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ]
+  },
+  "type": "Cyborg/Blue Flare"
+}

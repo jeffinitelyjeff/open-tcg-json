@@ -1,0 +1,92 @@
+{
+  "blockIcon": "03",
+  "cardEffects": "[Main] By trashing 1 Digimon card in your hand, delete 1 of your opponent's Digimon whose level is less than or equal to the trashed card's level. When a card with [Myotismon] in its text is trashed by this effect, ＜Draw 2＞ (Draw 2 cards from your deck.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Purple",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-099.png",
+        "imgName": "BT15-099.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c3/BT15-099.png/revision/latest?cb=20240209090315",
+        "uploadDate": "2024-02-09T09:03:15"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-099-J.png",
+        "imgName": "BT15-099-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f8/BT15-099-J.png/revision/latest?cb=20230922100137",
+        "uploadDate": "2023-09-22T10:01:37"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-099-Sample-J.png",
+        "imgName": "BT15-099-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fa/BT15-099-Sample-J.png/revision/latest?cb=20230903071901",
+        "uploadDate": "2023-09-03T07:19:01"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c3/BT15-099.png/revision/latest?cb=20240209090315",
+  "name": "Venom Infusion",
+  "nameJapanese": "ヴェノムインフューズ",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT15-099#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT15-099 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can't.  \"Lv.-\" Digimon and Digimon cards without a level can't be targeted by effects that have levels in their conditions.",
+        "question": "If I use this card's effect to trash a Lv.- Digimon card in my hand, can I delete my opponent's Lv.- Digimon?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Activate this card's [Main] effects.",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+          "text": "BT-15: Booster Exceed Apocalypse"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+          "text": "BT-15: Booster Exceed Apocalypse"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      }
+    ]
+  },
+  "useCost": "6"
+}

@@ -1,0 +1,130 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Cyborg]/[Machine] trait: Cost 2",
+  "attribute": "Virus",
+  "blockIcon": "04",
+  "cardEffects": "[When Digivolving] Flip your opponent's top face-down security card face-up.\n[End of Attack] [Once Per Turn] ＜Draw 1＞ (Draw 1 card from your deck.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black / Blue",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-050.png",
+        "imgName": "BT20-050.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d0/BT20-050.png/revision/latest?cb=20250207191901",
+        "uploadDate": "2025-02-07T19:19:01"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-050-J.png",
+        "imgName": "BT20-050-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ee/BT20-050-J.png/revision/latest?cb=20241107060509",
+        "uploadDate": "2024-11-07T06:05:09"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-050-Sample-J.png",
+        "imgName": "BT20-050-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/ce/BT20-050-Sample-J.png/revision/latest?cb=20250118074815",
+        "uploadDate": "2025-01-18T07:48:15"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d0/BT20-050.png/revision/latest?cb=20250207191901",
+  "inheritedEffect": "[All Turns] This Digimon gets +1000 DP.",
+  "level": "4",
+  "name": "HoverEspimon",
+  "nameJapanese": "ホバーエスピモン",
+  "playCost": "4",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT20-050#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for BT20-050 (2025/01/24, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Turn the second card from the top of the security face up.",
+        "question": "The situation is that only the top card of the opponent's security is face-up. If you activate the [When Digivolving] effect of this card, which card of the security should you turn face up?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "It becomes ostensible security and remains public. The rules are the same as for normal security, except that it is ostensible.",
+        "question": "What happens to a card placed face up in security by an effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Checked as published. The rules are the same as for normal checks, except as published.",
+        "question": "What happens when checking a security placed face down?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, triggered.",
+        "question": "If a security placed face up is checked, does the card's [Security] effect trigger?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "The security that was face up is turned back face down and then shuffled. After shuffling, the cards are not turned face up.",
+        "question": "What happens when shuffling a security that contains a security placed face up?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+          "text": "BT-20: Booster Over the X"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ]
+  },
+  "type": "Cyborg/LIBERATOR"
+}

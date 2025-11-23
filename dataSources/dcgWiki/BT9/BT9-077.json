@@ -1,0 +1,112 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "01",
+  "cardEffects": "[When Attacking] By trash 1 card with the [Undead] or [Dark Animal] trait from your hand, this Digimon gets +3000 DP for the turn.\n[Your Turn] When this Digimon would digivolve into a Digimon card in your trash, reduce the memory cost of the digivolution by 1.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-077.png",
+        "imgName": "BT9-077.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/44/BT9-077.png/revision/latest?cb=20220625065138",
+        "uploadDate": "2022-06-25T06:51:38"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-077-J.png",
+        "imgName": "BT9-077-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b1/BT9-077-J.png/revision/latest?cb=20220218110430",
+        "uploadDate": "2022-02-18T11:04:30"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-077-Sample-J.png",
+        "imgName": "BT9-077-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0a/BT9-077-Sample-J.png/revision/latest?cb=20220118090945",
+        "uploadDate": "2022-01-18T09:09:45"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/44/BT9-077.png/revision/latest?cb=20220625065138",
+  "level": "5",
+  "name": "Matadormon",
+  "nameJapanese": "マタドゥルモ ン",
+  "nameTranslated": "Matadoramon",
+  "playCost": "7",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT9-077#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT9-077 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, this card can’t digivolve into a card from your trash on its own.  When some other card’s effect digivolves this card into a card from your trash, this card’s effect will then reduce the digivolution cost.",
+        "question": "Does this card’s [Your Turn] effect let me digivolve into a card in my trash?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ]
+  },
+  "type": "Undead"
+}

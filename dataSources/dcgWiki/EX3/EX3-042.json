@@ -1,0 +1,112 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[When Digivolving] If this Digimon is suspended, suspend 1 of your opponent's Digimon.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-042.png",
+        "imgName": "EX3-042.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b9/EX3-042.png/revision/latest?cb=20221111122900",
+        "uploadDate": "2022-11-11T12:29:00"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-042-J.png",
+        "imgName": "EX3-042-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0e/EX3-042-J.png/revision/latest?cb=20220722083954",
+        "uploadDate": "2022-07-22T08:39:54"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-042-Sample-J.png",
+        "imgName": "EX3-042-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/88/EX3-042-Sample-J.png/revision/latest?cb=20220629040611",
+        "uploadDate": "2022-06-29T04:06:11"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b9/EX3-042.png/revision/latest?cb=20221111122900",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When an effect suspends one of your Digimon, suspend 1 of your opponent's Digimon.",
+  "level": "5",
+  "name": "Toropiamon",
+  "nameJapanese": "トロピアモン",
+  "playCost": "7",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX3-042#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX3-042 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it activates.",
+        "question": "Does this card's \"when an effect suspends this Digimon\" also activate when it's suspended by an ＜Evade＞ effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-02: Extra Booster 2 Draconic Roar",
+        "foil&Rarity": "",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+          "text": "EX-03: Theme Booster Draconic Roar"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+          "text": "EX-03: Theme Booster Draconic Roar"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ]
+  },
+  "type": "Vegetation"
+}

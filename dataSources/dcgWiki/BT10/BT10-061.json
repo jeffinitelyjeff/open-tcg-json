@@ -1,0 +1,125 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[On Play] Reveal the top 3 cards of your deck. Add 1 card with [Knightmon] in its name or 1 [DeadlyAxemon] or [Nene Amano] among them to your hand. Trash the rest. Then, if DigiXrosing with 2 cards, delete 1 of your opponent's Digimon with a play cost of 4 or less.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "3",
+    "level": "3"
+  },
+  "digixrosRequirements": "[DigiXros -1] [SkullKnightmon] x [DeadlyAxemon] \nWhen this would be played, you may place specified cards from your hand/battle area under it. Each one reduces the play cost.",
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-061.png",
+        "imgName": "BT10-061.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/43/BT10-061.png/revision/latest?cb=20221007210132",
+        "uploadDate": "2022-10-07T21:01:32"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-061-J.png",
+        "imgName": "BT10-061-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/99/BT10-061-J.png/revision/latest?cb=20220520104226",
+        "uploadDate": "2022-05-20T10:42:26"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-061-Sample-J.png",
+        "imgName": "BT10-061-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/37/BT10-061-Sample-J.png/revision/latest?cb=20220423093401",
+        "uploadDate": "2022-04-23T09:34:01"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/43/BT10-061.png/revision/latest?cb=20221007210132",
+  "level": "4",
+  "name": "SkullKnightmon: Mighty Axe Mode",
+  "nameJapanese": "スカルナイトモン:ビッグアックスモード",
+  "playCost": "4",
+  "rarity": "Common",
+  "rule": "[Rule] Name: Also treated as [SkullKnightmon]/[DeadlyAxemon].",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT10-061#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT10-061 (Mar. 28, 2024)"
+      },
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT10-061#qaResult_card",
+        "num": 2,
+        "text": "Official English Q&A for BT10-061 (Sep. 13, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it does.",
+        "question": "I play this card while DigiXrosing with 2 cards, but there are no cards with [Knightmon] in their name, [DeadlyAxemon], or [Nene Amano] among the cards revealed by the [On Play] effect. Does the \"delete 1 of your opponent's Digimon with a play cost of 4 or less\" effect still activate?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "This is a special rule for this card that always treats it as if it also has the [SkullKnightmon] and [DeadlyAxemon] names.",
+        "question": "What does this card's (Rule) mean, exactly?  (*This card's \"The name of this card/Digimon is also treated as [SkullKnightmon] and [DeadlyAxemon]\" has been changed to \"(Rule) Name: Also treated as [SkullKnightmon] and [DeadlyAxemon].\")",
+        "reference": "[2]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "骷髅骑士兽：巨斧形态",
+  "traditionalChinese": "骷髏騎士獸:巨斧模式",
+  "type": "Enhancement/Twilight"
+}

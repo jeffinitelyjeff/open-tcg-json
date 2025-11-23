@@ -1,0 +1,108 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "[When Digivolving] Delete 1 of your opponent's Digimon with 6000 DP or less. If this effect didn't delete, this Digimon gains ＜Security A. +1＞ for the turn. (This Digimon checks 1 additional security card.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-013.png",
+        "imgName": "BT17-013.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/86/BT17-013.png/revision/latest?cb=20240720075634",
+        "uploadDate": "2024-07-20T07:56:34"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-013-J.png",
+        "imgName": "BT17-013-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/56/BT17-013-J.png/revision/latest?cb=20240322064310",
+        "uploadDate": "2024-03-22T06:43:10"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-013-Sample-J.png",
+        "imgName": "BT17-013-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a7/BT17-013-Sample-J.png/revision/latest?cb=20240226091228",
+        "uploadDate": "2024-02-26T09:12:28"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/86/BT17-013.png/revision/latest?cb=20240720075634",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When an effect deletes an opponent's Digimon, you may unsuspend this Digimon with [Gallantmon] in its name.",
+  "level": "5",
+  "name": "WarGrowlmon",
+  "nameJapanese": "メガログラウモン",
+  "nameTranslated": "Growmon",
+  "playCost": "7",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT17-013#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT17-013 (Sep. 6, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. If there's a valid target, you must choose it when you activate the effect. You can't choose to not activate the effect when there is a valid target.",
+        "question": "When my opponent has a Digimon with 6000 DP or less, can I activate this card's effect and gain ＜Security A. +1＞ but choose not to delete my opponent’s Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes. You can choose your opponent’s Digimon with 6000 DP or less as a target, even if the chosen Digimon has an effect that prevents it from being deleted, in order to get the “if this effect didn't delete” part of the effect.",
+        "question": "My opponent has a Digimon with 6000 DP or less and an effect that reads, “This Digimon can't be deleted by your opponent’s effects,” and another Digimon with 6000 DP or less but no effect. Can I intentionally have this card’s effect target the Digimon with the effect preventing deletion and gain ＜Security A. +1＞?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ]
+  },
+  "type": "Cyborg"
+}

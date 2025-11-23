@@ -1,0 +1,157 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[On Play] Reveal the top 3 cards of your deck. Add 1 card with [Gammamon] in its text and 1 [Hiro Amanokawa] among them to your hand. Place the rest at the bottom of your deck in any order.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-005.png",
+        "imgName": "RB1-005.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2f/RB1-005.png/revision/latest?cb=20230901095549",
+        "uploadDate": "2023-09-01T09:55:49"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Resurgence_Booster",
+        "captionText": "Box Promotion Pack: Resurgence Booster (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-005_P1.png",
+        "imgName": "RB1-005_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/06/RB1-005_P1.png/revision/latest?cb=20230901095550",
+        "uploadDate": "2023-09-01T09:55:50"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-005-J.png",
+        "imgName": "RB1-005-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/28/RB1-005-J.png/revision/latest?cb=20231016122353",
+        "uploadDate": "2023-10-16T12:23:53"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Resurgence_Booster",
+        "captionText": "Box Promotion Pack: Resurgence Booster (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-005_P1-J.png",
+        "imgName": "RB1-005_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/49/RB1-005_P1-J.png/revision/latest?cb=20231016122459",
+        "uploadDate": "2023-10-16T12:24:59"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2f/RB1-005.png/revision/latest?cb=20230901095549",
+  "inheritedEffect": "[Your Turn] While this Digimon has [Gammamon] in its text, it gets +2000 DP.",
+  "level": "3",
+  "name": "Gammamon",
+  "nameJapanese": "ガンマモン",
+  "playCost": "3",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=RB1-005#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for RB1-005 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, it doesn’t. You can only reference the top card among stacked cards for \"\"XX in its text.\"\" Therefore, this card will not be the top card when it is a digivolution card, and you can't reference its own text.",
+        "question": "Is the [Gammamon] text in this card's inherited effect itself considered to fulfill \"While this Digimon has [Gammamon] in its text\" in this card's inherited effect, and then the effect activates?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. If you have cards that are targets of this effect, you must add as many cards to your hand as possible. However, because one of the cards revealed and added to your hand is a [Hiro Amanokawa] with [Gammamon] in its text, that card fulfills \"\"card with [Gammamon] in its text,\"\" so you may just add that [Hiro Amanokawa] card to your hand and return the non-[Hiro Amanokawa] card to the bottom of your deck without adding it to your hand.",
+        "question": "If the cards I reveal from my deck for this card's [On Play] effect include both a [Hiro Amanokawa] with [Gammamon] in its text and a non-[Hiro Amanokawa] card with [Gammamon] in its text, can I choose to only add one of them to my hand, and place the remaining cards at the bottom of my deck?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-07: Booster Great Warrior",
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": "BTC-07: Booster Great Warrior",
+        "foil&Rarity": "Foil - Variant Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Resurgence_Booster",
+          "text": "Box Promotion Pack: Resurgence Booster"
+        },
+        "foil&Rarity": "Foil - Variant Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Resurgence_Booster",
+          "text": "Box Promotion Pack: Resurgence Booster"
+        },
+        "foil&Rarity": "Foil - Variant Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "伽马兽",
+  "traditionalChinese": "伽馬獸",
+  "type": "Ceratopsian"
+}

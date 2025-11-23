@@ -1,0 +1,93 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Gatomon]: Cost 0",
+  "attribute": "Free",
+  "blockIcon": "03",
+  "cardEffects": "＜Raid＞ (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.)\n＜Armor Purge＞  (When this Digimon would be deleted, you may trash the top card of this Digimon to prevent that deletion.)\n[When Digivolving] 1  of your opponent's Digimon gets -3000 DP for the turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red / Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Armor Form",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-009.png",
+        "imgName": "BT16-009.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4e/BT16-009.png/revision/latest?cb=20240426204051",
+        "uploadDate": "2024-04-26T20:40:51"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-009-J.png",
+        "imgName": "BT16-009-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5e/BT16-009-J.png/revision/latest?cb=20231215073420",
+        "uploadDate": "2023-12-15T07:34:20"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-009-Sample-J.png",
+        "imgName": "BT16-009-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/db/BT16-009-Sample-J.png/revision/latest?cb=20231111151756",
+        "uploadDate": "2023-11-11T15:17:56"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4e/BT16-009.png/revision/latest?cb=20240426204051",
+  "level": "4",
+  "name": "Lynxmon",
+  "nameJapanese": "ランクスモン",
+  "playCost": "5",
+  "rarity": "Common",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ]
+  },
+  "type": "Beast"
+}

@@ -1,0 +1,94 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Leomon] in name: Cost 3",
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "＜Fortitude＞ (When this Digimon with digivolution cards is deleted, play this card without paying the cost.)\n[On Play] [When Digivolving] 1 of your opponent's Digimon gets -3000 DP until the end of their turn.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow / Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-032.png",
+        "imgName": "EX5-032.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cb/EX5-032.png/revision/latest?cb=20240112102922",
+        "uploadDate": "2024-01-12T10:29:22"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-032-J.png",
+        "imgName": "EX5-032-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/30/EX5-032-J.png/revision/latest?cb=20230818055403",
+        "uploadDate": "2023-08-18T05:54:03"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-032-Sample-J.png",
+        "imgName": "EX5-032-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/60/EX5-032-Sample-J.png/revision/latest?cb=20230807090121",
+        "uploadDate": "2023-08-07T09:01:21"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cb/EX5-032.png/revision/latest?cb=20240112102922",
+  "inheritedEffect": "[Opponent's Turn] While this Digimon has [Leomon] in its name, it gains ＜Blocker＞ (This Digimon can block in the blocker timing.)",
+  "level": "5",
+  "name": "LoaderLeomon",
+  "nameJapanese": "ローダーレオモン",
+  "playCost": "7",
+  "rarity": "Rare",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      }
+    ]
+  },
+  "type": "Machine"
+}

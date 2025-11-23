@@ -1,0 +1,109 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Patamon]: Cost 2",
+  "attribute": "Free",
+  "blockIcon": "03",
+  "cardEffects": "＜Armor Purge＞  (When this Digimon would be deleted, you may trash the top card of this Digimon to prevent that deletion.)\n[When Digivolving] Trash the bottom 2 digivolution cards of 1 of your opponent's Digimon.\n[Your Turn] When this Digimon attacks an opponent's Digimon with no digivolution cards, delete that Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Not released"
+  },
+  "cardType": "Digimon",
+  "color": "Purple / Blue",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Armor Form",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-064.png",
+        "imgName": "BT17-064.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/77/BT17-064.png/revision/latest?cb=20240720080102",
+        "uploadDate": "2024-07-20T08:01:02"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-064-J.png",
+        "imgName": "BT17-064-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f9/BT17-064-J.png/revision/latest?cb=20240322062943",
+        "uploadDate": "2024-03-22T06:29:43"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-064-Sample-J.png",
+        "imgName": "BT17-064-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fc/BT17-064-Sample-J.png/revision/latest?cb=20240301090255",
+        "uploadDate": "2024-03-01T09:02:55"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/77/BT17-064.png/revision/latest?cb=20240720080102",
+  "level": "4",
+  "name": "Pipismon",
+  "nameJapanese": "ピピスモン",
+  "playCost": "5",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT17-064#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT17-064 (Sep. 6, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Because your opponent's Digimon was the target of the battle and is no longer in play, a battle doesn't occur. However, the counter timing and end of attack timing still exist, therefore any applicable effects will trigger.",
+        "question": "When I use this Digimon to attack an opponent's Digimon without digivolution cards, and this card's [Your Turn] effect deletes that Digimon, what happens to the attack?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:KISUKE",
+          "text": "KISUKE"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:KISUKE",
+          "text": "KISUKE"
+        }
+      }
+    ]
+  },
+  "type": "Mutant"
+}

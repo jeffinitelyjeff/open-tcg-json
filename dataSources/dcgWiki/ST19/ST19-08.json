@@ -1,0 +1,107 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "04",
+  "cardEffects": "[Security] You may play 1 card with the [LIBERATOR] trait and a play cost of 4 or less from your hand or trash without paying the cost.\n＜Overclock ([Puppet] Trait)＞ (At the end of your turn, by deleting 1 of your Tokens or other [Puppet] trait Digimon, this Digimon attacks a player without suspending.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-19:_Starter_Deck_Fable_Waltz",
+        "captionText": "ST-19: Starter Deck Fable Waltz (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST19-08.png",
+        "imgName": "ST19-08.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/90/ST19-08.png/revision/latest?cb=20240830171837",
+        "uploadDate": "2024-08-30T17:18:37"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-19:_Starter_Deck_Fable_Waltz",
+        "captionText": "ST-19: Starter Deck Fable Waltz (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST19-08-J.png",
+        "imgName": "ST19-08-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/89/ST19-08-J.png/revision/latest?cb=20240419105048",
+        "uploadDate": "2024-04-19T10:50:48"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-19:_Starter_Deck_Fable_Waltz",
+        "captionText": "ST-19: Starter Deck Fable Waltz (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST19-08-Sample-J.png",
+        "imgName": "ST19-08-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/46/ST19-08-Sample-J.png/revision/latest?cb=20240330092945",
+        "uploadDate": "2024-03-30T09:29:45"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/90/ST19-08.png/revision/latest?cb=20240830171837",
+  "inheritedEffect": "[Your Turn] All of your opponent's security Digimon get -3000 DP.",
+  "level": "4",
+  "name": "ShoeShoemon",
+  "nameJapanese": "シューシューモン",
+  "playCost": "6",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=ST19-08#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for ST19-08 (Sep. 13, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.  You can play it as long as the card has the [LIBERATOR] trait and a play cost of 4 or less.",
+        "question": "Can I use this card's [Security] effect to play a Tamer card with the [LIBERATOR] trait and a play cost of 4 or less?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't.  You can't play it because Digi-Egg cards don't have play costs.",
+        "question": "Can I use this card's [Security] effect to play a Digi-Egg card with the [LIBERATOR] trait?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-19:_Starter_Deck_Fable_Waltz",
+          "text": "ST-19: Starter Deck Fable Waltz"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-19:_Starter_Deck_Fable_Waltz",
+          "text": "ST-19: Starter Deck Fable Waltz"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ]
+  },
+  "type": "Puppet/LIBERATOR"
+}

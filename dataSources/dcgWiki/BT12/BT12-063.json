@@ -1,0 +1,116 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/＜Save＞ in text: Cost 2",
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[On Play] [When Digivolving] Reveal the top 3 cards of your deck. You may play 1 [Taiki Kudo], [Yuu Amano] or [Tagiru Akashi] among them without paying the cost. Place the rest at the bottom of your deck in any order.\n[On Deletion] ＜Save＞. Then, place 1 Digimon card with ＜Save＞ in its text from your trash under 1 of your Tamers.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "digixrosRequirements": "[DigiXros -2] 1 Digimon card with ＜Save＞ in text\nWhen this would be played, you may place specified cards from your hand/battle area under it. Each one reduces the play cost.",
+  "dp": "4000 DP",
+  "errata": [
+    {
+      "afterImageURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c5/BT12-063-J.png/revision/latest?cb=20221111110528",
+      "afterText": "【相手のターン】このデジモンに≪セーブ≫の記述がある間、このデジモンは≪ブロッカー≫を得る。",
+      "beforeText": "【自分のターン】このデジモンに≪セーブ≫の記述がある間、このデジモンは≪ブロッカー≫を得る。"
+    }
+  ],
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-063.png",
+        "imgName": "BT12-063.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/de/BT12-063.png/revision/latest?cb=20230421194633",
+        "uploadDate": "2023-04-21T19:46:33"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Across_Time_Pre-Release_Pack",
+        "captionText": "Across Time Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-063_P0.png",
+        "imgName": "BT12-063_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/07/BT12-063_P0.png/revision/latest?cb=20230421205133",
+        "uploadDate": "2023-04-21T20:51:33"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-063-J.png",
+        "imgName": "BT12-063-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c5/BT12-063-J.png/revision/latest?cb=20221111110528",
+        "uploadDate": "2022-11-11T11:05:28"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-063-Sample-J.png",
+        "imgName": "BT12-063-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/30/BT12-063-Sample-J.png/revision/latest?cb=20221107091545",
+        "uploadDate": "2022-11-07T09:15:45"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/de/BT12-063.png/revision/latest?cb=20230421194633",
+  "inheritedEffect": "[Opponent's Turn] While this Digimon has ＜Save＞ in its text, it gains ＜Blocker＞ (This Digimon can block in the blocker timing.).",
+  "level": "4",
+  "name": "Damemon",
+  "nameJapanese": "ダメモン",
+  "playCost": "5",
+  "rarity": "Uncommon",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Across_Time_Pre-Release_Pack",
+          "text": "Across Time Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "不行兽",
+  "traditionalChinese": "不行獸",
+  "type": "Mutant/Xros Heart"
+}

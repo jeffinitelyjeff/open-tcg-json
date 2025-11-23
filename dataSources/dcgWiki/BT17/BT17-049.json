@@ -1,0 +1,115 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Turuiemon]/[Wendigomon]: Cost 3",
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "＜Alliance＞ (When this Digimon attacks, by suspending 1 of your other Digimon, add the suspended Digimon's DP to this Digimon and it gains ＜Security A. +1＞ for the attack.)\n[When Digivolving] You may play 1 level 3 green or yellow Digimon card from your trash without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green / Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-049.png",
+        "imgName": "BT17-049.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2c/BT17-049.png/revision/latest?cb=20240720075952",
+        "uploadDate": "2024-07-20T07:59:52"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-049-J.png",
+        "imgName": "BT17-049-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bc/BT17-049-J.png/revision/latest?cb=20240322064308",
+        "uploadDate": "2024-03-22T06:43:08"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-049-Sample-J.png",
+        "imgName": "BT17-049-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6d/BT17-049-Sample-J.png/revision/latest?cb=20240312052018",
+        "uploadDate": "2024-03-12T05:20:18"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2c/BT17-049.png/revision/latest?cb=20240720075952",
+  "inheritedEffect": "[End of Attack] [Once Per Turn] By deleting 1 of your other suspended Digimon, you may play 1 level 3 Digimon card with the [Beast] trait from your trash without paying the cost.",
+  "level": "5",
+  "name": "Antylamon",
+  "nameJapanese": "アンティラモン",
+  "playCost": "8",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT17-049#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT17-049 (Sep. 6, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.",
+        "question": "Can I use this card's inherited effect to delete another of my level 3 Digimon cards with the [Beast] trait and then play that deleted Digimon card from the trash without paying the cost?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't.  If a card is removed from the trash before a triggered [On Deletion] effect activates, that [On Deletion] effect can't be activated.",
+        "question": "I used this card's inherited effect to delete a level 3 Digimon card with an [On Deletion] effect and the [Beast] trait, then I played that deleted Digimon card from the trash without paying the cost. Can I activate the deleted Digimon's [On Deletion] effect at such times?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naru",
+          "text": "naru"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naru",
+          "text": "naru"
+        }
+      }
+    ]
+  },
+  "type": "Holy Beast"
+}

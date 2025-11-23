@@ -1,0 +1,103 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Gammamon] in text: Cost 3",
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] [When Digivolving] ＜De-Digivolve  1＞ 1 of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.) with as much or less DP as this Digimon. Then, delete 1 Digimon with a play cost of 3 or less.\n[All Turns] This Digimon gains all of the effects on cards with [Gammamon] in its name in this Digimon's digivolution cards.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-062.png",
+        "imgName": "BT16-062.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/24/BT16-062.png/revision/latest?cb=20240426204050",
+        "uploadDate": "2024-04-26T20:40:50"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-062-J.png",
+        "imgName": "BT16-062-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e3/BT16-062-J.png/revision/latest?cb=20231215073418",
+        "uploadDate": "2023-12-15T07:34:18"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-062-Sample-J.png",
+        "imgName": "BT16-062-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/93/BT16-062-Sample-J.png/revision/latest?cb=20231129091759",
+        "uploadDate": "2023-11-29T09:17:59"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/24/BT16-062.png/revision/latest?cb=20240426204050",
+  "inheritedEffect": "[All Turns] This Digimon gains all of the effects on cards with [Gammamon] in its name in this Digimon's digivolution cards.",
+  "level": "5",
+  "name": "Zanmetsumon",
+  "nameJapanese": "ザンメツモン",
+  "playCost": "8",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT16-062#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT16-062 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, they activate.  This card's \"This Digimon gains all effects of cards with [Gammamon] in this Digimon's digivolution cards\"  effect is an [All Turns] effect, so it will activate as soon as the digivolution is confirmed. Therefore, [When Evolving] effects are gained and will trigger.",
+        "question": "When digivolving into this card, do the [When Digivolving] effects on digivolution cards with [Gammamon] activate?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ]
+  },
+  "type": "Beast Dragon"
+}

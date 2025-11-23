@@ -1,0 +1,142 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Blue/Red Lv.4 w/[Hybrid] trait: Cost 3",
+  "attribute": "Variable",
+  "blockIcon": "04",
+  "cardEffects": "[Hand] [Main] By placing 1 [Kumamon] and [Korikakumon] from your trash under 1 of your blue or red Tamers, that Tamer digivolves into this card for digivolution cost of 3, ignoring its digivolution requirements.\n＜Iceclad＞ (Other than against Security Digimon, compare the number of digivolution cards instead of DP in this Digimon's battles.)\n[When Digivolving] Delete 1 of your opponent's Digimon with no digivolution cards.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue / Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "8000 DP",
+  "form": "Hybrid",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-026.png",
+        "imgName": "BT18-026.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/83/BT18-026.png/revision/latest?cb=20241011091642",
+        "uploadDate": "2024-10-11T09:16:42"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-026-J.png",
+        "imgName": "BT18-026-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f6/BT18-026-J.png/revision/latest?cb=20240621114656",
+        "uploadDate": "2024-06-21T11:46:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-026-Sample-J.png",
+        "imgName": "BT18-026-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a8/BT18-026-Sample-J.png/revision/latest?cb=20240609094244",
+        "uploadDate": "2024-06-09T09:42:44"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/83/BT18-026.png/revision/latest?cb=20241011091642",
+  "inheritedEffect": "[All Turns] This Digimon gets +2000 DP.",
+  "level": "5",
+  "name": "DaiPenmon",
+  "nameJapanese": "ダイペンモン",
+  "playCost": "8",
+  "rarity": "Uncommon",
+  "rule": "[Rule] Trait: Has [Ice-Snow] Type.",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT18-026#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT18-026 (Nov. 1, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Effects with the [Hand] icon can activate when their card is revealed from the hand.  This effect can activate during the main phase when you reveal this card from the hand and process the effect.",
+        "question": "How do I activate this card's [Hand] [Main] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't.  A \"by doing X\" condition can't be met if only some of the required actions are performed.  In order for the conditions for this card's [Hand] [Main] effect to be met, you must place 1 [Kumamon] and 1 [Korikakumon] under your Tamer.",
+        "question": "Can I use this card's [Hand] [Main] effect to place just 1 [Kumamon] or [Korikakumon] from my trash under my Tamer?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it digivolves from the Tamer as-is.",
+        "question": "Does this card's [Hand] [Main] effect where it can digivolve from a Tamer mean that the Tamer that will become a digivolution card is treated as a Digimon when it digivolves?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it isn't considered a Digimon that would digivolve.  When a Tamer would digivolve using this card's [Hand] [Main] effect, \"when a Digimon would digivolve\" effects don't trigger.",
+        "question": "When a Tamer would digivolve using this card's [Hand] [Main] effect, is it considered a Digimon that would digivolve?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it isn't considered a Digimon that digivolves.  When a Tamer digivolves using this card's [Hand] [Main] effect, \"when a Digimon digivolves\" effects don't trigger.",
+        "question": "When a Tamer digivolves using this card's [Hand] [Main] effect, is it considered a Digimon that digivolves?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+          "text": "BT18-19: Special Booster Ver.2.0"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.0_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.0 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+          "text": "BT-18: Booster Elemental Successor"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ]
+  },
+  "type": "Cyborg"
+}

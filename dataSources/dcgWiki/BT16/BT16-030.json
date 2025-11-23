@@ -1,0 +1,186 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Nyaromon]: Cost 0",
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[Start of Your Main Phase] [On Play] If it's your turn, 1 of your Digimon may digivolve into a level 4 Digimon card with the [Holy Beast] or [Free] trait in the trash with the digivolution cost reduced by 1.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow / Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "1",
+      "level": "2"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "1",
+      "level": "2"
+    }
+  ],
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-030.png",
+        "imgName": "BT16-030.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2b/BT16-030.png/revision/latest?cb=20240426204049",
+        "uploadDate": "2024-04-26T20:40:49"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Beginning_Observer",
+        "captionText": "Pre-Release Pack Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-030_P0.png",
+        "imgName": "BT16-030_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/64/BT16-030_P0.png/revision/latest?cb=20240429054832",
+        "uploadDate": "2024-04-29T05:48:32"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-06:_Limited_Card_Pack_Billion_Bullet",
+        "captionText": "LM-06: Limited Card Pack Billion Bullet (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-030_P1.png",
+        "imgName": "BT16-030_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f5/BT16-030_P1.png/revision/latest?cb=20251017071741",
+        "uploadDate": "2025-10-17T07:17:41"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-030-J.png",
+        "imgName": "BT16-030-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/81/BT16-030-J.png/revision/latest?cb=20231215073419",
+        "uploadDate": "2023-12-15T07:34:19"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-030-Sample-J.png",
+        "imgName": "BT16-030-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d1/BT16-030-Sample-J.png/revision/latest?cb=20231112004412",
+        "uploadDate": "2023-11-12T00:44:12"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2b/BT16-030.png/revision/latest?cb=20240426204049",
+  "inheritedEffect": "[Your Turn] All of your opponent's Security Digimon get -3000 DP.",
+  "level": "3",
+  "name": "Salamon",
+  "nameJapanese": "プロットモン",
+  "nameTranslated": "Plotmon",
+  "playCost": "3",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT16-030#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT16-030 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, this card's effect does not allow ignoring digivolution requirements, so you can only digivolve into a card that meets the digivolution requirements.",
+        "question": "When I use this card's [Start of Your Main Phase] [On Play] effect to digivolve it into a level 4 Digimon card with the [Holy Beast] or [Free] trait in the trash, can it digivolve regardless of its digivolution requirements?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-06:_Limited_Card_Pack_Billion_Bullet",
+          "text": "LM-06: Limited Card Pack Billion Bullet"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Iori_Sunakura",
+          "text": "Iori Sunakura"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Iori_Sunakura",
+          "text": "Iori Sunakura"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Beginning_Observer",
+          "text": "Pre-Release Pack Beginning Observer"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Iori_Sunakura",
+          "text": "Iori Sunakura"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-06:_Limited_Card_Pack_Billion_Bullet",
+          "text": "LM-06: Limited Card Pack Billion Bullet"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Iori_Sunakura",
+          "text": "Iori Sunakura"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Iori_Sunakura",
+          "text": "Iori Sunakura"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-06:_Limited_Card_Pack_Billion_Bullet",
+          "text": "LM-06: Limited Card Pack Billion Bullet"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Iori_Sunakura",
+          "text": "Iori Sunakura"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-06:_Limited_Card_Pack_Billion_Bullet",
+          "text": "LM-06: Limited Card Pack Billion Bullet"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Iori_Sunakura",
+          "text": "Iori Sunakura"
+        }
+      }
+    ]
+  },
+  "type": "Mammal"
+}

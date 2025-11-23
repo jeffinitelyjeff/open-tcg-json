@@ -1,0 +1,101 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "04",
+  "cardEffects": "[On Play] Reveal the top 3 cards of your deck. Add 1 card with the [Hybrid] or [Ten Warriors] trait and 1 red Tamer card with inherited effects among them to the hand. Return the rest to the bottom of the deck.\n[Your Turn] [Once Per Turn] When any of your Digimon or Tamers digivolve into Digimon with the [Hybrid] or [Ten Warriors] trait, gain 1 memory.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-010.png",
+        "imgName": "BT18-010.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e5/BT18-010.png/revision/latest?cb=20241011091523",
+        "uploadDate": "2024-10-11T09:15:23"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-010-J.png",
+        "imgName": "BT18-010-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/66/BT18-010-J.png/revision/latest?cb=20240621114656",
+        "uploadDate": "2024-06-21T11:46:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-010-Sample-J.png",
+        "imgName": "BT18-010-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/24/BT18-010-Sample-J.png/revision/latest?cb=20240606115210",
+        "uploadDate": "2024-06-06T11:52:10"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e5/BT18-010.png/revision/latest?cb=20241011091523",
+  "level": "3",
+  "name": "Bokomon",
+  "nameJapanese": "ボコモン",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT18-010#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT18-010 (Nov. 1, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you must add as many cards to your hand as possible.",
+        "question": "If cards that are targets of this effect are revealed from the deck, do I have to add as many cards to my hand as possible?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+          "text": "BT18-19: Special Booster Ver.2.0"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sanosuke_Sakuma",
+          "text": "Sanosuke Sakuma"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+          "text": "BT-18: Booster Elemental Successor"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sanosuke_Sakuma",
+          "text": "Sanosuke Sakuma"
+        }
+      }
+    ]
+  },
+  "type": "Mutant"
+}

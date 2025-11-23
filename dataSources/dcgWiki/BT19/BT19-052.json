@@ -1,0 +1,133 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Royal Base] trait: Cost 3",
+  "attribute": "Virus",
+  "blockIcon": "04",
+  "cardEffects": "[Security] [Opponent's Turn] All of your [Royal Base] trait Digimon gain ＜Blocker＞ (This Digimon can block in the blocker timing.).\n[On Play] [When Digivolving] Delete 1 of your opponent's Digimon with a play cost of 2 or less. For each of your face-up security cards, add 2 to this effect's maximum play cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-052.png",
+        "imgName": "BT19-052.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ef/BT19-052.png/revision/latest?cb=20241020220257",
+        "uploadDate": "2024-10-20T22:02:57"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.0_Lucky_Pack",
+        "captionText": "Special Booster Ver.2.0 Lucky Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-052_P1.png",
+        "imgName": "BT19-052_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/96/BT19-052_P1.png/revision/latest?cb=20241011093345",
+        "uploadDate": "2024-10-11T09:33:45"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Championship_25-26_Season_1_Tamers_Pack",
+        "captionText": "Championship 25-26 Season 1 Tamers Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-052_P2.png",
+        "imgName": "BT19-052_P2.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/35/BT19-052_P2.png/revision/latest?cb=20251115115743",
+        "uploadDate": "2025-11-15T11:57:43"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-052-J.png",
+        "imgName": "BT19-052-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/ba/BT19-052-J.png/revision/latest?cb=20240523041657",
+        "uploadDate": "2024-05-23T04:16:57"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-052-Sample-J.png",
+        "imgName": "BT19-052-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bc/BT19-052-Sample-J.png/revision/latest?cb=20240814210834",
+        "uploadDate": "2024-08-14T21:08:34"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ef/BT19-052.png/revision/latest?cb=20241020220257",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When this Digimon deletes your opponent's Digimon in battle, trash their top security card.",
+  "level": "5",
+  "name": "Vespamon",
+  "nameJapanese": "ヴェスパモン",
+  "playCost": "8",
+  "rarity": "Uncommon",
+  "rule": "[Rule] Trait: Has [Insectoid] Type.",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+          "text": "BT18-19: Special Booster Ver.2.0"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.0_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.0 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Championship_25-26_Season_1_Tamers_Pack",
+          "text": "Championship 25-26 Season 1 Tamers Pack"
+        },
+        "foil&Rarity": "Foil - Championship Stamp - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Moyasi",
+          "text": "Moyasi"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+          "text": "BT-19: Booster Xros Evolution"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ]
+  },
+  "type": "Cyborg/X Antibody/Royal Base/LIBERATOR"
+}

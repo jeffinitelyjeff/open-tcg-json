@@ -1,0 +1,117 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Sukamon] in name: Cost 3",
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "[Security] If you have 3 or more cards with [Sukamon] in their names in your trash, you may play 1 level 6 Digimon card with [Etemon] in its name from your hand without paying its cost.\n[On Deletion] Place this card at the bottom of your security stack.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "4",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-038.png",
+        "imgName": "BT14-038.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2f/BT14-038.png/revision/latest?cb=20231027105752",
+        "uploadDate": "2023-10-27T10:57:52"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Blast_Ace_Pre-Release_Pack",
+        "captionText": "Blast Ace Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-038_P0.png",
+        "imgName": "BT14-038_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/69/BT14-038_P0.png/revision/latest?cb=20231116222459",
+        "uploadDate": "2023-11-16T22:24:59"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-038-J.png",
+        "imgName": "BT14-038-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/41/BT14-038-J.png/revision/latest?cb=20231111050452",
+        "uploadDate": "2023-11-11T05:04:52"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2f/BT14-038.png/revision/latest?cb=20231027105752",
+  "inheritedEffect": "[On Deletion] Place 1 [Etemon] from your trash at the bottom of your security stack.",
+  "korean": "에테몬",
+  "level": "5",
+  "name": "Etemon",
+  "nameJapanese": "エテモン",
+  "playCost": "7",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT14-038#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT14-038 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "This is a [Security] effect, so it happens before the battle.  The battle with your Security Digimon happens after the activation of [On Play] effects on played Digimon or \"When you play a Digimon\" effects.",
+        "question": "Does this cards [Security] effect play 1 level 6 Digimon card with [Etemon] from my hand before or after the battle with my Security Digimon?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Blast_Ace_Pre-Release_Pack",
+          "text": "Blast Ace Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "猿猴兽",
+  "traditionalChinese": "悟空獸",
+  "type": "Puppet"
+}

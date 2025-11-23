@@ -1,0 +1,125 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[DS] trait: Cost 3",
+  "attribute": "Data",
+  "blockIcon": "04",
+  "cardEffects": "[When Digivolving] You may play 1 level 4 or lower Digimon card from this Digimon's digivolution cards without paying the cost.\n[Your Turn] [Once Per Turn] When any of your Digimon are played or digivolve, if any of them have the [DS] trait, 2 of your Digimon may DNA digivolve into a Digimon card with the [DS] trait in the hand. Then, that DNA digivolved Digimon may attack.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "4",
+    "level": "5"
+  },
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+        "captionText": "EX-08: Extra Booster Chain of Liberation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-027.png",
+        "imgName": "EX8-027.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a3/EX8-027.png/revision/latest?cb=20241213123154",
+        "uploadDate": "2024-12-13T12:31:54"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+        "captionText": "EX-08: Extra Booster Chain of Liberation (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-027-J.png",
+        "imgName": "EX8-027-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/40/EX8-027-J.png/revision/latest?cb=20241122064633",
+        "uploadDate": "2024-11-22T06:46:33"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+        "captionText": "EX-08: Extra Booster Chain of Liberation (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-027-Sample-J.png",
+        "imgName": "EX8-027-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5e/EX8-027-Sample-J.png/revision/latest?cb=20241110032623",
+        "uploadDate": "2024-11-10T03:26:23"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a3/EX8-027.png/revision/latest?cb=20241213123154",
+  "level": "6",
+  "name": "Plesiomon",
+  "nameJapanese": "プレシオモン",
+  "playCost": "11",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX8-027#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX8-027 (Jan. 10, 2025)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it triggers.",
+        "question": "Does this card's [Your Turn] effect trigger when this card itself is played?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it triggers.",
+        "question": "Does this card's [Your Turn] effect trigger when a card digivolves into this card itself?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "The effects trigger simultaneously, so the player can choose the activation order.",
+        "question": "I used this card's [Your Turn] effect to DNA digivolve, then I attacked using that Digimon.  At such times, in what order can I activate that Digimon's [When Digivolving] effect and [When Attacking] effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naru",
+          "text": "naru"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naru",
+          "text": "naru"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naru",
+          "text": "naru"
+        }
+      }
+    ]
+  },
+  "type": "Plesiosaur/DS"
+}

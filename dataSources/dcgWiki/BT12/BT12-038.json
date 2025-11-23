@@ -1,0 +1,137 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Agumon] in name and [Dinosaur] trait: Cost 2",
+  "attribute": "Vaccine",
+  "blockIcon": "02",
+  "cardEffects": "[When Digivolving] If you don't have [Marcus Damon] in play, you may play 1 [Marcus Damon] from your hand without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow / Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-038.png",
+        "imgName": "BT12-038.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7b/BT12-038.png/revision/latest?cb=20230421194631",
+        "uploadDate": "2023-04-21T19:46:31"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Final_Championships_2023_Tamers_Pack",
+        "captionText": "Final Championships 2023 Tamers Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-038_P1.png",
+        "imgName": "BT12-038_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3a/BT12-038_P1.png/revision/latest?cb=20231031022044",
+        "uploadDate": "2023-10-31T02:20:44"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-038-J.png",
+        "imgName": "BT12-038-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/00/BT12-038-J.png/revision/latest?cb=20231030193354",
+        "uploadDate": "2023-10-30T19:33:54"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Official_Deck_Box_Set_2023",
+        "captionText": "Official Deck Box Set 2023 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-038_P1-J.png",
+        "imgName": "BT12-038_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/87/BT12-038_P1-J.png/revision/latest?cb=20230727003442",
+        "uploadDate": "2023-07-27T00:34:42"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7b/BT12-038.png/revision/latest?cb=20230421194631",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When one of your yellow or red Tamers becomes suspended, 1 of your opponent's Digimon gets -2000 DP for the turn.",
+  "korean": "지오그레이몬",
+  "level": "4",
+  "name": "GeoGreymon",
+  "nameJapanese": "ジオグレイモン",
+  "playCost": "5",
+  "rarity": "Common",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-06: Booster Across Dimension",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Final_Championships_2023_Tamers_Pack",
+          "text": "Final Championships 2023 Tamers Pack"
+        },
+        "foil&Rarity": "Foil - Championship Stamp - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Official_Deck_Box_Set_2023",
+          "text": "Official Deck Box Set 2023"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "大地暴龙兽",
+  "traditionalChinese": "大地暴龍獸",
+  "type": "Dinosaur"
+}

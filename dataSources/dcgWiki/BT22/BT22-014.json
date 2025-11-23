@@ -1,0 +1,120 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[Greymon] in name or w/[CS] trait: Cost 4",
+  "attribute": "Virus",
+  "blockIcon": "05",
+  "cardEffects": "＜Raid＞ (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.)\n＜Reboot＞ (Unsuspend this Digimon during your opponent's unsuspend phase.)\n[When Digivolving] You may unsuspend 1 of your opponent's Digimon. Then, this Digimon may attack.\n[All Turns] [Once Per Turn] When attack targets change, this Digimon gains ＜Piercing＞  (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.) and +5000 DP for the turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "5",
+      "level": "5"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "5",
+      "level": "5"
+    }
+  ],
+  "dp": "13000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+        "captionText": "BT-22: Booster Cyber Eden (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT22-014.png",
+        "imgName": "BT22-014.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/95/BT22-014.png/revision/latest?cb=20250704054620",
+        "uploadDate": "2025-07-04T05:46:20"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+        "captionText": "BT-22: Booster Cyber Eden (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT22-014-Sample.png",
+        "imgName": "BT22-014-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cf/BT22-014-Sample.png/revision/latest?cb=20250622124547",
+        "uploadDate": "2025-06-22T12:45:47"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+        "captionText": "BT-22: Booster Cyber Eden (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT22-014-J.png",
+        "imgName": "BT22-014-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/29/BT22-014-J.png/revision/latest?cb=20250704054938",
+        "uploadDate": "2025-07-04T05:49:38"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/95/BT22-014.png/revision/latest?cb=20250704054620",
+  "level": "6",
+  "name": "Gaiomon",
+  "nameJapanese": "ガイオウモン",
+  "playCost": "13",
+  "rarity": "Rare",
+  "rule": "[Rule] Name: Also treated as having [Greymon].",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+          "text": "BT-22: Booster Cyber Eden"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+          "text": "BT-22: Booster Cyber Eden"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+          "text": "BT-22: Booster Cyber Eden"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+          "text": "BT-22: Booster Cyber Eden"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      }
+    ]
+  },
+  "type": "Dragonkin/X Antibody/CS"
+}

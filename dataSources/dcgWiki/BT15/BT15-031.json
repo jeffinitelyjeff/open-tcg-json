@@ -1,0 +1,121 @@
+{
+  "attribute": "Data",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] [When Attacking] Return 1 of your opponent's level 5 or lower Digimon to the hand.\n[Your Turn] This Digimon can only digivolve into white Digimon.\n[End of Opponent's Turn] Delete this Digimon. Then, you may play 1 Digimon card with the [Dark Masters] trait, other than [MetalSeadramon], from your hand without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "3",
+    "level": "5"
+  },
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-031.png",
+        "imgName": "BT15-031.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/60/BT15-031.png/revision/latest?cb=20240209090323",
+        "uploadDate": "2024-02-09T09:03:23"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack:_Exceed_Apocalypse",
+        "captionText": "Pre-Release Pack: Exceed Apocalypse (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-031_P0.png",
+        "imgName": "BT15-031_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a1/BT15-031_P0.png/revision/latest?cb=20240211092358",
+        "uploadDate": "2024-02-11T09:23:58"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-031-J.png",
+        "imgName": "BT15-031-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ef/BT15-031-J.png/revision/latest?cb=20230922100135",
+        "uploadDate": "2023-09-22T10:01:35"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-031-Sample-J.png",
+        "imgName": "BT15-031-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9f/BT15-031-Sample-J.png/revision/latest?cb=20230823111422",
+        "uploadDate": "2023-08-23T11:14:22"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/60/BT15-031.png/revision/latest?cb=20240209090323",
+  "inheritedEffect": "＜Blocker＞ (This Digimon can block in the blocker timing.)",
+  "level": "6",
+  "name": "MetalSeadramon",
+  "nameJapanese": "メタルシードラモン",
+  "playCost": "11",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT15-031#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT15-031 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, it doesn’t activate.  It won't activate because the trigger timing for this card's [End of Opponent's Turn] effect has already passed when [BT15-052 Puppetmon], [BT15-066 Machinedramon], or [BT15-079 Piedmon]'s [End of Opponent's Turn] effect is used to play this card, so it won't trigger until the end of your opponent's next turn.",
+        "question": "If I use [BT15-052 Puppetmon], [BT15-066 Machinedramon], or [BT15-079 Piedmon]'s [End of Opponent's Turn] effect to play this card from my hand, does this card's [End of Opponent's Turn] effect activate?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+          "text": "BT-15: Booster Exceed Apocalypse"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack:_Exceed_Apocalypse",
+          "text": "Pre-Release Pack: Exceed Apocalypse"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+          "text": "BT-15: Booster Exceed Apocalypse"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ]
+  },
+  "type": "Cyborg/Dark Masters"
+}

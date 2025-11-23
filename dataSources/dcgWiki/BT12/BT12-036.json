@@ -1,0 +1,92 @@
+{
+  "attribute": "Data",
+  "blockIcon": "02",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow / Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "2",
+      "level": "3"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "2",
+      "level": "3"
+    }
+  ],
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-036.png",
+        "imgName": "BT12-036.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/63/BT12-036.png/revision/latest?cb=20230421194630",
+        "uploadDate": "2023-04-21T19:46:30"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-036-J.png",
+        "imgName": "BT12-036-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bd/BT12-036-J.png/revision/latest?cb=20221111110530",
+        "uploadDate": "2022-11-11T11:05:30"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-036-Sample-J.png",
+        "imgName": "BT12-036-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a0/BT12-036-Sample-J.png/revision/latest?cb=20221104053630",
+        "uploadDate": "2022-11-04T05:36:30"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/63/BT12-036.png/revision/latest?cb=20230421194630",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When this Digimon deletes an opponent's Digimon in battle, gain 1 memory.",
+  "level": "4",
+  "name": "Mikemon",
+  "nameJapanese": "ミケモ ン",
+  "playCost": "4",
+  "rarity": "Common",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ]
+  },
+  "type": "Beast"
+}

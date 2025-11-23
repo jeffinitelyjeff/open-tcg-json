@@ -1,0 +1,86 @@
+{
+  "blockIcon": "04",
+  "cardEffects": "While your opponent has a white Digimon or Tamer, you may ignore this card's color requirements.\n[Main] Until the end of your opponent's turn, 1 of your Digimon isn't affected by the effects of your opponent's Option cards and it can't have its DP reduced.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Red",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-089.png",
+        "imgName": "BT19-089.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/93/BT19-089.png/revision/latest?cb=20250207065615",
+        "uploadDate": "2025-02-07T06:56:15"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-089-J.png",
+        "imgName": "BT19-089-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/56/BT19-089-J.png/revision/latest?cb=20240920100438",
+        "uploadDate": "2024-09-20T10:04:38"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-089-Sample-J.png",
+        "imgName": "BT19-089-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/79/BT19-089-Sample-J.png/revision/latest?cb=20240904090155",
+        "uploadDate": "2024-09-04T09:01:55"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/93/BT19-089.png/revision/latest?cb=20250207065615",
+  "name": "Red Card",
+  "nameJapanese": "レッドカード",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT19-089#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for BT19-089 (2024/09/20, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "The number will be unaffected by DP minus. For example, if you choose a Digimon with an original DP of 5000 (current DP is 3000) that is DP-2000 due to the card's [Main] effect, that Digimon will no longer be DP minus and its DP will be 5000.",
+        "question": "I am in a situation where I have my Digimon with a minus DP. What happens if I use this card's [Main] effect to select that Digimon with a minus DP?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Add this card to the hand.",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+          "text": "BT-19: Booster Xros Evolution"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "useCost": "2"
+}

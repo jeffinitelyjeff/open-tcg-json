@@ -1,0 +1,118 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Pinamon]/Lv.2 w/[ACCEL] trait: Cost 0",
+  "attribute": "Vaccine",
+  "blockIcon": "04",
+  "cardEffects": "[Your Turn] When this Digimon would digivolve into a Digimon card with the [ACCEL] trait, reduce the digivolution cost by 1.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green / Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "1",
+      "level": "3"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "1",
+      "level": "3"
+    }
+  ],
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-038.png",
+        "imgName": "BT20-038.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/77/BT20-038.png/revision/latest?cb=20250207070925",
+        "uploadDate": "2025-02-07T07:09:25"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-038-Sample.png",
+        "imgName": "BT20-038-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/02/BT20-038-Sample.png/revision/latest?cb=20241215034924",
+        "uploadDate": "2024-12-15T03:49:24"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-038-J.png",
+        "imgName": "BT20-038-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a4/BT20-038-J.png/revision/latest?cb=20250124093437",
+        "uploadDate": "2025-01-24T09:34:37"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-038-Sample-J.png",
+        "imgName": "BT20-038-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8d/BT20-038-Sample-J.png/revision/latest?cb=20241215035805",
+        "uploadDate": "2024-12-15T03:58:05"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/77/BT20-038.png/revision/latest?cb=20250207070925",
+  "inheritedEffect": "＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.)",
+  "level": "3",
+  "name": "Falcomon",
+  "nameJapanese": "ファルコモン",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT20-038#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for BT20-038 (2025/01/24, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, it will not trigger. In the Breeding Area, no effects other than those of the [Breeding] icon can be triggered or activated.",
+        "question": "When this card in Breeding Area evolves into a Digimon card with \"Accel\" in its trait, does this card's [Your Turn] effect trigger?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:P!k@ru",
+          "text": "p!k@ru"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+          "text": "BT-20: Booster Over the X"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:P!k@ru",
+          "text": "p!k@ru"
+        }
+      }
+    ]
+  },
+  "type": "Avian/ACCEL"
+}

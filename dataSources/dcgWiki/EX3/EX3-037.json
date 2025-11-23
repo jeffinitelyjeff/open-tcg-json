@@ -1,0 +1,182 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Bebydomon]: Cost 0",
+  "attribute": "Data",
+  "blockIcon": "02",
+  "cardEffects": "[On Play] Reveal the top 4 cards of your deck. Add 1 green or blue card with [Dramon] in its name and 1 card with [Examon] in its name among them to your hand. Place the rest at the bottom of your deck in any order.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green / Blue",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "1",
+      "level": "2"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "1",
+      "level": "2"
+    }
+  ],
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-037.png",
+        "imgName": "EX3-037.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6a/EX3-037.png/revision/latest?cb=20221111122901",
+        "uploadDate": "2022-11-11T12:29:01"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-037_P1.png",
+        "imgName": "EX3-037_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e4/EX3-037_P1.png/revision/latest?cb=20221111122901",
+        "uploadDate": "2022-11-11T12:29:01"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-037-J.png",
+        "imgName": "EX3-037-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/08/EX3-037-J.png/revision/latest?cb=20220722083954",
+        "uploadDate": "2022-07-22T08:39:54"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-037_P1-J.png",
+        "imgName": "EX3-037_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/40/EX3-037_P1-J.png/revision/latest?cb=20220729042019",
+        "uploadDate": "2022-07-29T04:20:19"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-037-Sample-J.png",
+        "imgName": "EX3-037-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/84/EX3-037-Sample-J.png/revision/latest?cb=20220626043039",
+        "uploadDate": "2022-06-26T04:30:39"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (Alternative Art) (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-037_P1-Sample-J.png",
+        "imgName": "EX3-037_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/86/EX3-037_P1-Sample-J.png/revision/latest?cb=20220714051926",
+        "uploadDate": "2022-07-14T05:19:26"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6a/EX3-037.png/revision/latest?cb=20221111122901",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When one of your Digimon with [Dramon] or [Examon] in its name becomes suspended, this Digimon gets +1000 DP for the turn.",
+  "korean": "드라코몬",
+  "level": "3",
+  "name": "Dracomon",
+  "nameJapanese": "ドラコモン",
+  "playCost": "3",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX3-037#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX3-037 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, as long as either a green or blue card with [Dramon] or a card with [Examon] is among the cards revealed, you can add it to your hand.",
+        "question": "This card’s effect reveals 4 cards. If the cards revealed only include a green or blue card with [Dramon] or a card with [Examon], can I still add a card to my hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. This card's effect reads “Add [...] to your hand,” so you must add as many cards to your hand as possible.",
+        "question": "This card's effect reveals 4 cards. If both a green or blue card with [Dramon] and a card with [Examon] are among the cards revealed, can I choose to only add one of them to my hand, and place the remaining card at the bottom of my deck?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-02: Extra Booster 2 Draconic Roar",
+        "foil&Rarity": "",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": "EXC-02: Extra Booster 2 Draconic Roar",
+        "foil&Rarity": "",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+          "text": "EX-03: Theme Booster Draconic Roar"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+          "text": "EX-03: Theme Booster Draconic Roar"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+          "text": "EX-03: Theme Booster Draconic Roar"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+          "text": "EX-03: Theme Booster Draconic Roar"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "龙仔兽",
+  "traditionalChinese": "天龍獸",
+  "type": "Dragon"
+}

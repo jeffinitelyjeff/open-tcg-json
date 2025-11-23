@@ -1,0 +1,164 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Koromon]: Cost 0",
+  "attribute": "Vaccine",
+  "blockIcon": "02",
+  "cardEffects": "[Main] [Once Per Turn] For the turn, 1 of your [Marcus Damon]s is also treated as a 3000 DP Digimon and can't digivolve.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red / Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "1",
+      "level": "2"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "1",
+      "level": "2"
+    }
+  ],
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-008.png",
+        "imgName": "BT13-008.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/49/BT13-008.png/revision/latest?cb=20230714185525",
+        "uploadDate": "2023-07-14T18:55:25"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Ultimate_Cup_2024_Season_2",
+        "captionText": "Ultimate Cup 2024 Season 2 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-008_P1.png",
+        "imgName": "BT13-008_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a8/BT13-008_P1.png/revision/latest?cb=20240830171120",
+        "uploadDate": "2024-08-30T17:11:20"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-008-J.png",
+        "imgName": "BT13-008-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c4/BT13-008-J.png/revision/latest?cb=20230217122644",
+        "uploadDate": "2023-02-17T12:26:44"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-008-Sample-J.png",
+        "imgName": "BT13-008-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f1/BT13-008-Sample-J.png/revision/latest?cb=20230121070057",
+        "uploadDate": "2023-01-21T07:00:57"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-04:_Limited_Card_Pack_Torrid_Weiss",
+        "captionText": "LM-04: Limited Card Pack Torrid Weiss (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-008_P1-Sample-J.png",
+        "imgName": "BT13-008_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7b/BT13-008_P1-Sample-J.png/revision/latest?cb=20240712184141",
+        "uploadDate": "2024-07-12T18:41:41"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-04:_Limited_Card_Pack_Torrid_Weiss",
+        "captionText": "LM-04: Limited Card Pack Torrid Weiss (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-008_P1-J.png",
+        "imgName": "BT13-008_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1a/BT13-008_P1-J.png/revision/latest?cb=20241128214513",
+        "uploadDate": "2024-11-28T21:45:13"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/49/BT13-008.png/revision/latest?cb=20230714185525",
+  "inheritedEffect": "[Your Turn] [Once Per Turn]  When one of your red or yellow Tamers becomes suspended, you may delete 1 of your opponent's Digimon with 3000 DP or less.",
+  "korean": "아구몬",
+  "level": "3",
+  "name": "Agumon",
+  "nameJapanese": "アグモン",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT13-008#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT13-008 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "The DP is overwritten by the effect that activated afterward, therefore the card is treated as a Digimon with 3000 DP.  The ＜Rush＞ gained from [BT13-020 ShineGreymon: Burst Mode]'s effect remains because it isn't overwritten by anything.",
+        "question": "What happens if this card's effect activates for my [Marcus Damon] that's treated as a 12000 DP Digimon with ＜Rush＞ due to [BT13-020 ShineGreymon: Burst Mode]'s effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it's deleted.",
+        "question": "If [Marcus Damon] is treated as a Digimon by this card's effect and then its DP is reduced to 0 by an effect, is it deleted?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:P!k@ru",
+          "text": "p!k@ru"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Ultimate_Cup_2024_Season_2",
+          "text": "Ultimate Cup 2024 Season 2"
+        },
+        "foil&Rarity": "Textured - Stamped - Top 128 Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:P!k@ru",
+          "text": "p!k@ru"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-04:_Limited_Card_Pack_Torrid_Weiss",
+          "text": "LM-04: Limited Card Pack Torrid Weiss"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:P!k@ru",
+          "text": "p!k@ru"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "亚古兽",
+  "traditionalChinese": "亞古獸",
+  "type": "Dinosaur"
+}

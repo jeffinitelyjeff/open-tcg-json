@@ -1,0 +1,102 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Dorumon]/Lv.3 w/[Chronicle] trait: Cost 2",
+  "attribute": "Vaccine",
+  "blockIcon": "04",
+  "cardEffects": "[When Digivolving] If you have 1 or fewer Tamers, you may play 1 [Kota Domoto] from your hand without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black / Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "6000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-051.png",
+        "imgName": "BT20-051.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/00/BT20-051.png/revision/latest?cb=20250207070809",
+        "uploadDate": "2025-02-07T07:08:09"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-051-Sample.png",
+        "imgName": "BT20-051-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d6/BT20-051-Sample.png/revision/latest?cb=20241213040344",
+        "uploadDate": "2024-12-13T04:03:44"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-051-J.png",
+        "imgName": "BT20-051-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/be/BT20-051-J.png/revision/latest?cb=20250124093436",
+        "uploadDate": "2025-01-24T09:34:36"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-051-Sample-J.png",
+        "imgName": "BT20-051-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7e/BT20-051-Sample-J.png/revision/latest?cb=20241213040654",
+        "uploadDate": "2024-12-13T04:06:54"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/00/BT20-051.png/revision/latest?cb=20250207070809",
+  "inheritedEffect": "[Opponent's Turn] This Digimon gets +2000 DP.",
+  "level": "4",
+  "name": "Raptordramon",
+  "nameJapanese": "ラプタードラモン",
+  "playCost": "5",
+  "rarity": "Common",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+          "text": "BT-20: Booster Over the X"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      }
+    ]
+  },
+  "type": "Cyborg/X Antibody/Chronicle"
+}

@@ -1,0 +1,113 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "01",
+  "cardEffects": "[Your Turn] While your opponent has no Digimon with digivolution cards in play, this Digimon gains ＜Jamming＞  (This Digimon can't be deleted in battles against Security Digimon.).",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-024.png",
+        "imgName": "BT6-024.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f1/BT6-024.png/revision/latest?cb=20210921061227",
+        "uploadDate": "2021-09-21T06:12:27"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Double_Diamond_Pre-Release_Pack",
+        "captionText": "Double Diamond Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-024_P0.png",
+        "imgName": "BT6-024_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a1/BT6-024_P0.png/revision/latest?cb=20220304192859",
+        "uploadDate": "2022-03-04T19:28:59"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-024-J.png",
+        "imgName": "BT6-024-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/10/BT6-024-J.png/revision/latest?cb=20210521045900",
+        "uploadDate": "2021-05-21T04:59:00"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f1/BT6-024.png/revision/latest?cb=20210921061227",
+  "inheritedEffect": "[When Attacking] Trash 1 digivolution card from the bottom of 1 of your opponent's Digimon.",
+  "level": "4",
+  "name": "Mojyamon",
+  "nameJapanese": "モジャモン",
+  "playCost": "5",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT6-024#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT6-024 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it does.",
+        "question": "Does this card’s effect activate when my opponent has no Digimon in play in their battle area?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+          "text": "BT-06: Booster Double Diamond"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Double_Diamond_Pre-Release_Pack",
+          "text": "Double Diamond Pre-Release Pack"
+        },
+        "foil&Rarity": "No Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+          "text": "BT-06: Booster Double Diamond"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      }
+    ]
+  },
+  "type": "Rare Animal"
+}

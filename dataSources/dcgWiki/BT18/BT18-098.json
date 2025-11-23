@@ -1,0 +1,97 @@
+{
+  "blockIcon": "04",
+  "cardEffects": "When this card is trashed from the security stack, activate its [Security] effects.\nWhile you have a yellow [Data] or [Witchelny] trait Digimon, you can ignore this card's color requirements.\n[Main] By trashing your top security card, 1 of your opponent's Digimon gets -6000 DP until the end of their turn. Then, if you have 2 or fewer security cards, place this card as your bottom security card.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Yellow / Red",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-098.png",
+        "imgName": "BT18-098.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2d/BT18-098.png/revision/latest?cb=20241011093344",
+        "uploadDate": "2024-10-11T09:33:44"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-098-J.png",
+        "imgName": "BT18-098-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e2/BT18-098-J.png/revision/latest?cb=20240621114657",
+        "uploadDate": "2024-06-21T11:46:57"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-098-Sample-J.png",
+        "imgName": "BT18-098-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/97/BT18-098-Sample-J.png/revision/latest?cb=20240612092352",
+        "uploadDate": "2024-06-12T09:23:52"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2d/BT18-098.png/revision/latest?cb=20241011093344",
+  "name": "Dragon's Roar",
+  "nameJapanese": "ドラゴンズロア",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT18-098#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT18-098 (Nov. 1, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, they trigger simultaneously.",
+        "question": "When multiple copies of this card are trashed from the security stack at the same time, does the \"when this card is trashed from the security stack\" effect on each of those cards trigger simultaneously?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't.  If the \"by trashing your top security card\" condition isn't performed, the rest of the effect isn't processed. In this case, you can't process this effect unless you trash your top security card.",
+        "question": "Can I process \"then, if you have 2 or fewer security cards, place this card as your bottom security card\" in this card's [Main] effect even I don't perform \"by trashing your top security card\"?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Delete 1 of your opponent's Digimon with 6000 DP or less. Then, if you have 0 security cards, ＜Recovery +1 (Deck)＞ (Place the top card of your deck on top of your security stack.)",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+          "text": "BT18-19: Special Booster Ver.2.0"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+          "text": "BT-18: Booster Elemental Successor"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ]
+  },
+  "useCost": "5"
+}

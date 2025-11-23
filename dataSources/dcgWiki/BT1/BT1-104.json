@@ -1,0 +1,162 @@
+{
+  "blockIcon": "00",
+  "cardEffects": "[Main] All of your Digimon gain the following effect for the turn: \"[When Attacking] 1 of your opponent's Digimon gets -2000 DP for the turn.\"",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Yellow",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BTC-01:_Booster_Ultimate_Evolution",
+        "captionText": "BTC-01: Booster Ultimate Evolution (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-104-C.png",
+        "imgName": "BT1-104-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b0/BT1-104-C.png/revision/latest?cb=20230828234952",
+        "uploadDate": "2023-08-28T23:49:52"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+        "captionText": "BT01-03: Release Special Booster Ver.1.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-104.png",
+        "imgName": "BT1-104.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c4/BT1-104.png/revision/latest?cb=20201212014810",
+        "uploadDate": "2020-12-12T01:48:10"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-01:_Booster_New_Evolution",
+        "captionText": "BT-01: Booster New Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-104-J.png",
+        "imgName": "BT1-104-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6f/BT1-104-J.png/revision/latest?cb=20201213121535",
+        "uploadDate": "2020-12-13T12:15:35"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+        "captionText": "BT01-03: Release Special Booster Ver.1.0 (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-104-K.png",
+        "imgName": "BT1-104-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fb/BT1-104-K.png/revision/latest?cb=20230814075423",
+        "uploadDate": "2023-08-14T07:54:23"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c4/BT1-104.png/revision/latest?cb=20201212014810",
+  "korean": "헤븐즈 리퍼",
+  "name": "Golden Ripper",
+  "nameJapanese": "ヘブンズリッパー",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT1-104#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT1-104 (Mar. 28, 2024)"
+      },
+      {
+        "link": "https://media.discordapp.net/attachments/749146995708395601/807757192043692042/unknown.png",
+        "num": 2,
+        "text": "Carddass Email Japanese 07/02/2021: BanchoStingmon Golden Ripper"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it does.",
+        "question": "If one of my Digimon digivolves after I use this card, does that Digimon still receive this card's effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it does.",
+        "question": "After activating this card's effect, I use [BT1-089 Mimi Tachikawa]'s effect to move a Digimon from my breeding area to my battle area. Does this card's effect also apply to that Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No battle occurs, and the attack ends. If there are other When Attacking effects, \"when one of your Digimon attacks\" effects, and/or effects activated at counter timing, they activate, and then the attack ends. If it's then blocked at blocker timing, start a battle with the blocking Digimon.",
+        "question": "I attack an opponent's Digimon with a Digimon that's gained the When Attacking effect from this card. The When Attacking effect reduces my opponent's Digimon to 0 DP, deleting it. What happens next?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it does.",
+        "question": "I play this card, then play a Digimon. Does it receive this card's effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "I use 2 copies of this card. When I attack with a Digimon, can I activate its When Attacking effect twice in a single attack, giving an opponent's Digimon -4000 DP?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can still use BanchoStingmon's effect if the attack target's DP decreases before BanchoStingmon's effect activates as long as it was 12000 DP when it was targeted for the attack.",
+        "question": "I have activated [BT1-104 Golden Ripper] and attack with [BT3-058 BanchoStingmon]. If I use this card's effect to decrease the attack of the attack target from 12000 DP to 10000 DP before I use BanchoStingmon's effect, can I give it +7000 DP?",
+        "reference": "[2]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BTC-01:_Booster_Ultimate_Evolution",
+          "text": "BTC-01: Booster Ultimate Evolution"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:MATSUMOTO_EIGHT",
+          "text": "MATSUMOTO EIGHT"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+          "text": "BT01-03: Release Special Booster Ver.1.0"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:MATSUMOTO_EIGHT",
+          "text": "MATSUMOTO EIGHT"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-01:_Booster_New_Evolution",
+          "text": "BT-01: Booster New Evolution"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:MATSUMOTO_EIGHT",
+          "text": "MATSUMOTO EIGHT"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+          "text": "BT01-03: Release Special Booster Ver.1.0"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:MATSUMOTO_EIGHT",
+          "text": "MATSUMOTO EIGHT"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "天堂斩裂刃",
+  "traditionalChinese": "天堂斬裂刃",
+  "useCost": "3"
+}

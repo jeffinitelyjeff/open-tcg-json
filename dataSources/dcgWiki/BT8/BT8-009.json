@@ -1,0 +1,190 @@
+{
+  "attribute": "Free",
+  "blockIcon": "01",
+  "cardEffects": "[On Play] Reveal the top 4 cards of your deck. Add 1 2-color red card among them to your hand. Place the remaining cards at the bottom of your deck in any order.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "0",
+      "level": "2"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "0",
+      "level": "2"
+    }
+  ],
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-009.png",
+        "imgName": "BT8-009.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7d/BT8-009.png/revision/latest?cb=20220422124924",
+        "uploadDate": "2022-04-22T12:49:24"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-009_P1.png",
+        "imgName": "BT8-009_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3a/BT8-009_P1.png/revision/latest?cb=20220520075433",
+        "uploadDate": "2022-05-20T07:54:33"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/New_Awakening_Pre-Release_Pack",
+        "captionText": "New Awakening Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-009_P0.png",
+        "imgName": "BT8-009_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/37/BT8-009_P0.png/revision/latest?cb=20220507123739",
+        "uploadDate": "2022-05-07T12:37:39"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-009-J.png",
+        "imgName": "BT8-009-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fe/BT8-009-J.png/revision/latest?cb=20211119075602",
+        "uploadDate": "2021-11-19T07:56:02"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-009_P1-J.png",
+        "imgName": "BT8-009_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/11/BT8-009_P1-J.png/revision/latest?cb=20211119110354",
+        "uploadDate": "2021-11-19T11:03:54"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-009-Sample-J.png",
+        "imgName": "BT8-009-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bb/BT8-009-Sample-J.png/revision/latest?cb=20211023050806",
+        "uploadDate": "2021-10-23T05:08:06"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7d/BT8-009.png/revision/latest?cb=20220422124924",
+  "level": "3",
+  "name": "Hawkmon",
+  "nameJapanese": "ホークモン",
+  "playCost": "3",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT8-009#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT8-009 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it can.",
+        "question": "Can this card’s effect add a２-color Option card to my hand if one of its colors is red?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. Effects don't activate for cards revealed from your deck.",
+        "question": "Can this card’s effect add a card with a \"this Digimon is also treated as red\" effect to my hand?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      },
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/New_Awakening_Pre-Release_Pack",
+          "text": "New Awakening Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "麻鹰兽",
+  "traditionalChinese": "麻鷹獸",
+  "type": "Avian"
+}

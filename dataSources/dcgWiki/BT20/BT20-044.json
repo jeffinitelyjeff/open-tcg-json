@@ -1,0 +1,149 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Groundramon]/[Wingdramon]: Cost 3",
+  "attribute": "Virus",
+  "blockIcon": "04",
+  "cardEffects": "＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Play] [When Digivolving] Suspend 2 of your opponent's Digimon or Tamers. Then, 1 of your Digimon may attack.\n[All Turns] [Once Per Turn] When any of your Digimon with [Dracomon] or [Examon] in their texts delete 1 of your opponent's Digimon in battle, delete 1 of their suspended Digimon or Tamers.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green / Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "4",
+      "level": "5"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "4",
+      "level": "5"
+    }
+  ],
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-044.png",
+        "imgName": "BT20-044.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ec/BT20-044.png/revision/latest?cb=20250207070925",
+        "uploadDate": "2025-02-07T07:09:25"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-044-Sample.png",
+        "imgName": "BT20-044-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/74/BT20-044-Sample.png/revision/latest?cb=20241229072632",
+        "uploadDate": "2024-12-29T07:26:32"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-044-J.png",
+        "imgName": "BT20-044-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b5/BT20-044-J.png/revision/latest?cb=20250124093437",
+        "uploadDate": "2025-01-24T09:34:37"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-044-Sample-J.png",
+        "imgName": "BT20-044-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/96/BT20-044-Sample-J.png/revision/latest?cb=20241229073034",
+        "uploadDate": "2024-12-29T07:30:34"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ec/BT20-044.png/revision/latest?cb=20250207070925",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When any of your Digimon with [Dracomon] or [Examon] in their texts delete your opponent's Digimon in battle, delete 1 of their suspended Digimon or Tamers.",
+  "level": "6",
+  "name": "Breakdramon",
+  "nameJapanese": "ブレイクドラモン",
+  "playCost": "12",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT20-044#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for BT20-044 (2025/01/24, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "The text is either \"My Digimon with the text \"DRACOMON\"\" or \"My Digimon with the text \"EXAMON\"\".",
+        "question": "Does this card's [All Opponent's Turns] effect trigger when any card deletes an opponent's Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it cannot be activated.",
+        "question": "Can this card's [All Opponent's Turns] effect be activated even if the opponent's Digimon and this card are deleted at the same time?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "The text is either \"My Digimon with the text \"DRACOMON\"\" or \"My Digimon with the text \"EXAMON\"\".",
+        "question": "Which digivolved card's inherited effect is triggered when it deletes an opponent's Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "It refers to cards with the specified word or icon included in \"name, trait, effect, inherited effect, <Overflow X>, jogress, digivolution requirements, burst digivolution\". For example, a card with the text \"Knightmon\" refers to a card whose name is \"Dark Knightmon\" or whose effect says \"Knightmon\".",
+        "question": "What do you mean by \"cards with text?\"",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it cannot be activated.",
+        "question": "Can the inherited effect of this card be activated even if the opponent's Digimon and the Digimon that has this card as its digivolved card are deleted at the same time?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.5_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.5 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+          "text": "BT-20: Booster Over the X"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ]
+  },
+  "type": "Machine Dragon"
+}

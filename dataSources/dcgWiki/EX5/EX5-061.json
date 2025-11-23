@@ -1,0 +1,103 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[Cerberusmon] in name w/o [X Antibody] trait: Cost 0",
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] You may play 1 purple level 3 Digimon card from your trash without paying the cost.\n[When Digivolving] ＜Draw 1＞ (Draw 1 card from your deck.) Then, trash 1 card in your hand. If a Digimon card with [Cerberusmon] in its name or [X Antibody] is in this Digimon's digivolution cards, activate this Digimon's [On Play] effects.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-061.png",
+        "imgName": "EX5-061.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/98/EX5-061.png/revision/latest?cb=20240112102921",
+        "uploadDate": "2024-01-12T10:29:21"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-061-J.png",
+        "imgName": "EX5-061-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5c/EX5-061-J.png/revision/latest?cb=20230818055404",
+        "uploadDate": "2023-08-18T05:54:04"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-061-Sample-J.png",
+        "imgName": "EX5-061-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f6/EX5-061-Sample-J.png/revision/latest?cb=20230803114400",
+        "uploadDate": "2023-08-03T11:44:00"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/98/EX5-061.png/revision/latest?cb=20240112102921",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] By deleting 1 of your other Digimon, unsuspend this Digimon.",
+  "level": "5",
+  "name": "Cerberusmon (X Antibody)",
+  "nameJapanese": "ケルベロモンX抗体",
+  "playCost": "8",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX5-061#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX5-061 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, they activate.",
+        "question": "When a [Cerberusmon] with [BT10-011 Canoweissmon] and [Gammamon] with an [On Play] effect in its digivolution cards digivolves into this card, does this card's [When Digivolving] effect activate the [On Play] effect on both this card and the [Gammamon] digivolution card?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ]
+  },
+  "type": "Dark Animal/X Antibody"
+}

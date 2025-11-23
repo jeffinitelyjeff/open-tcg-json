@@ -1,0 +1,138 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[On Play] Reveal the top 4 cards of your deck. Add 1 Digimon card with [Bagra Army] in any of its traits and 1 [Yuu Amano] among them to your hand. Place the rest at the bottom of your deck in any order.\n[On Deletion] ＜Save＞ (You may place this card under one of your Tamers.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-073.png",
+        "imgName": "BT10-073.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/11/BT10-073.png/revision/latest?cb=20221007204711",
+        "uploadDate": "2022-10-07T20:47:11"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Xros_Encounter_Pre-Release_Pack",
+        "captionText": "Xros Encounter Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-073_P0.png",
+        "imgName": "BT10-073_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d9/BT10-073_P0.png/revision/latest?cb=20221022210006",
+        "uploadDate": "2022-10-22T21:00:06"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-073-J.png",
+        "imgName": "BT10-073-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7a/BT10-073-J.png/revision/latest?cb=20220520104228",
+        "uploadDate": "2022-05-20T10:42:28"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-073-Sample-J.png",
+        "imgName": "BT10-073-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/ba/BT10-073-Sample-J.png/revision/latest?cb=20220419043428",
+        "uploadDate": "2022-04-19T04:34:28"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/11/BT10-073.png/revision/latest?cb=20221007204711",
+  "inheritedEffect": "[Opponent's Turn] When this card is trashed from digivolution cards by an effect, gain 1 memory.",
+  "level": "3",
+  "name": "ChuuChuumon",
+  "nameJapanese": "チューチューモン",
+  "playCost": "4",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT10-073#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT10-073 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, as long as either a Digimon card with the [Bagra Army] trait or a [Yuu Amano] is among the cards revealed, you can add it to your hand.",
+        "question": "This card’s effect reveals 4 cards. If the cards revealed only include 1 card with the [Bagra Army] trait or a [Yuu Amano], can I still add a card to my hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. This card's effect reads “Add 1 card [...] among them to your hand,” so you must add as many cards to your hand as possible.",
+        "question": "This card's effect reveals 4 cards. If both a card with the [Bagra Army] trait and a [Yuu Amano] are among the cards revealed, can I choose to only add one of them to my hand, and place the remaining card at the bottom of my deck?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Xros_Encounter_Pre-Release_Pack",
+          "text": "Xros Encounter Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "啾啾兽",
+  "traditionalChinese": "啾啾獸",
+  "type": "Beast/Bagra Army"
+}

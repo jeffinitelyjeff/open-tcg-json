@@ -1,0 +1,164 @@
+{
+  "attribute": "Data",
+  "blockIcon": "00",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "3000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": null,
+        "captionText": "BTC-03: Booster Diamond Legend (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-022-C.png",
+        "imgName": "BT5-022-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/ad/BT5-022-C.png/revision/latest?cb=20231120180422",
+        "uploadDate": "2023-11-20T18:04:22"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-022.png",
+        "imgName": "BT5-022.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3a/BT5-022.png/revision/latest?cb=20210720180127",
+        "uploadDate": "2021-07-20T18:01:27"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Battle_of_Omni_Pre-Release_Pack",
+        "captionText": "Battle of Omni Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-022_P0.png",
+        "imgName": "BT5-022_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/97/BT5-022_P0.png/revision/latest?cb=20220306110330",
+        "uploadDate": "2022-03-06T11:03:30"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-022-J.png",
+        "imgName": "BT5-022-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f8/BT5-022-J.png/revision/latest?cb=20240111161024",
+        "uploadDate": "2024-01-11T16:10:24"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-022-K.png",
+        "imgName": "BT5-022-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d3/BT5-022-K.png/revision/latest?cb=20230819152630",
+        "uploadDate": "2023-08-19T15:26:30"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3a/BT5-022.png/revision/latest?cb=20210720180127",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When one of your opponent's digivolution cards is trashed, gain 1 memory.",
+  "korean": "블루코몬",
+  "level": "3",
+  "name": "Bulucomon",
+  "nameJapanese": "ブルコモン",
+  "nameTranslated": "Blucomon",
+  "playCost": "4",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT5-022#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT5-022 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. When you return a Digimon to its owner's hand, the game doesn't treat the digivolution cards as being trashed, so you don't gain 1 memory.",
+        "question": "When I use this card's inherited effect to return an opponent's Digimon to its owner's hand, can I gain 1 memory?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. Even if you trash the digivolution cards of 2 of your opponent's Digimon at the same time, you can only use this effect to gain 1 memory per turn.",
+        "question": "When I use this card's inherited effect to trash the digivolution cards of 2 of my opponent's Digimon at the same time, can I gain 2 memory?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-03: Booster Diamond Legend",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Gold Outline - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Battle_of_Omni_Pre-Release_Pack",
+          "text": "Battle of Omni Pre-Release Pack"
+        },
+        "foil&Rarity": "Gold Outline - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Gold Outline - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "碧龙兽",
+  "traditionalChinese": "碧龍獸",
+  "type": "Mini Dragon"
+}

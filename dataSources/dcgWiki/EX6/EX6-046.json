@@ -1,0 +1,103 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "[On Deletion] If your opponent has 5 or fewer cards in their hand, ＜Draw 1＞ (Draw 1 card from your deck.) and trash 1 card in your hand. If your opponent has 7 or more cards in their hand, your opponent trashes 1 card in their hand.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-046.png",
+        "imgName": "EX6-046.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/aa/EX6-046.png/revision/latest?cb=20240531091330",
+        "uploadDate": "2024-05-31T09:13:30"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-046-J.png",
+        "imgName": "EX6-046-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b6/EX6-046-J.png/revision/latest?cb=20240216085318",
+        "uploadDate": "2024-02-16T08:53:18"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-046-Sample-J.png",
+        "imgName": "EX6-046-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/10/EX6-046-Sample-J.png/revision/latest?cb=20240115064605",
+        "uploadDate": "2024-01-15T06:46:05"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/aa/EX6-046.png/revision/latest?cb=20240531091330",
+  "inheritedEffect": "[All Turns] While your opponent has 6 or fewer cards in their hand, this Digimon gets +1000 DP.",
+  "level": "3",
+  "name": "DemiDevimon",
+  "nameJapanese": "ピコデビモン",
+  "nameTranslated": "PicoDevimon",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX6-046#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX6-046 (Jun. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "The player that activated this effect.",
+        "question": "If my opponent has 5 or fewer cards in their hand, which player gains ＜Draw 1＞ from this card’s [On Deletion] effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ryodan",
+          "text": "Ryodan"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ryodan",
+          "text": "Ryodan"
+        }
+      }
+    ]
+  },
+  "type": "Evil"
+}

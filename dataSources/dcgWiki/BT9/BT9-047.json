@@ -1,0 +1,121 @@
+{
+  "attribute": "Data",
+  "blockIcon": "01",
+  "cardEffects": "[All Turns] Players can't play Digimon by effects.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-047.png",
+        "imgName": "BT9-047.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c4/BT9-047.png/revision/latest?cb=20220625065108",
+        "uploadDate": "2022-06-25T06:51:08"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-047-J.png",
+        "imgName": "BT9-047-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5b/BT9-047-J.png/revision/latest?cb=20220218110410",
+        "uploadDate": "2022-02-18T11:04:10"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-047-Sample-J.png",
+        "imgName": "BT9-047-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/19/BT9-047-Sample-J.png/revision/latest?cb=20220118054542",
+        "uploadDate": "2022-01-18T05:45:42"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c4/BT9-047.png/revision/latest?cb=20220625065108",
+  "level": "3",
+  "name": "Pomumon",
+  "nameJapanese": "ポームモン",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT9-047#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT9-047 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes. Moving a Digimon out of your breeding area does not count as playing a Digimon.",
+        "question": "If this Digimon is in play, can I move one of my level 3 or higher Digimon from my breeding area to my battle area with [BT1-089 Mimi Tachikawa]'s effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes. Effects that only reduce play costs can still be activated.  Effects that reduce play costs AND play Digimon can’t be activated.",
+        "question": "If this Digimon is in play, can I activate effects that reduce play costs?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes. Option card effects are effects just like any other, so you can't use them to play Digimon.",
+        "question": "Does this card's effect also prevent me from using Option card effects to play Digimon?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ryodan",
+          "text": "Ryodan"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ryodan",
+          "text": "Ryodan"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ryodan",
+          "text": "Ryodan"
+        }
+      }
+    ]
+  },
+  "type": "Vegetation"
+}

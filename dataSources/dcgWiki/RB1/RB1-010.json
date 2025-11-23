@@ -1,0 +1,203 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[Gammamon] in text: Cost 3",
+  "attribute": "Vaccine",
+  "blockIcon": "02",
+  "cardEffects": "[When Digivolving] By placing 1 Digimon card with [Gammamon] in its text from your hand as this Digimon's bottom digivolution card, delete 1 of your opponent's Digimon with DP less than or equal to this Digimon's DP.\n[Your Turn] [Once Per Turn] When an opponent's Digimon is deleted, you may unsuspend this Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "3",
+    "level": "5"
+  },
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-010.png",
+        "imgName": "RB1-010.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5b/RB1-010.png/revision/latest?cb=20230901095552",
+        "uploadDate": "2023-09-01T09:55:52"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-010_P1.png",
+        "imgName": "RB1-010_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/42/RB1-010_P1.png/revision/latest?cb=20230901095552",
+        "uploadDate": "2023-09-01T09:55:52"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Resurgence_Booster",
+        "captionText": "Box Promotion Pack: Resurgence Booster (Rare Pull) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-010_P2.png",
+        "imgName": "RB1-010_P2.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/58/RB1-010_P2.png/revision/latest?cb=20230901095552",
+        "uploadDate": "2023-09-01T09:55:52"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-010-J.png",
+        "imgName": "RB1-010-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/38/RB1-010-J.png/revision/latest?cb=20231017164159",
+        "uploadDate": "2023-10-17T16:41:59"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-010_P1-J.png",
+        "imgName": "RB1-010_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/57/RB1-010_P1-J.png/revision/latest?cb=20231017164251",
+        "uploadDate": "2023-10-17T16:42:51"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Resurgence_Booster",
+        "captionText": "Box Promotion Pack: Resurgence Booster (Rare Pull) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-010_P2-J.png",
+        "imgName": "RB1-010_P2-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a5/RB1-010_P2-J.png/revision/latest?cb=20230301161514",
+        "uploadDate": "2023-03-01T16:15:14"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5b/RB1-010.png/revision/latest?cb=20230901095552",
+  "level": "6",
+  "name": "Siriusmon",
+  "nameJapanese": "シリウスモン",
+  "playCost": "11",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=RB1-010#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for RB1-010 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "If that inherited effect is an effect such as a [Your Turn] [All Turns] effect that increases DP upon activation after being placed in digivolution cards, you can delete 1 of your opponent's Digimon with DP less than or equal to the DP after it was increased.",
+        "question": "I used this card's [When Digivolving] effect to place a Digimon card with an inherited effect that increases DP in this card’s digivolution cards. In such cases, can I use \"delete 1 of your opponent's Digimon with DP less than or equal to this Digimon's DP\" to delete 1 of my opponent's Digimon with DP less than or equal to the DP after it was increased?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can. This card's [Your Turn] effect reads \"\"you may unsuspend.\"\" Therefore, if you don't unsuspend this Digimon, it means you haven't yet used this [Once Per Turn] effect, and you can activate it when you delete an opponent's Digimon upon a different timing.",
+        "question": "I used this card's [When Digivolving] effect to delete 1 of my opponent's Digimon. At this time, can I choose to not unsuspend this Digimon for the [Your Turn] effect, and then when I later delete another opponent's Digimon in battle, etc., can I activate the effect and unsuspend this Digimon?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-07: Booster Great Warrior",
+        "foil&Rarity": "Textured - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": "BTC-07: Booster Great Warrior",
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": "BTC-07: Booster Great Warrior",
+        "foil&Rarity": "Textured - Silver Background - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Textured - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Resurgence_Booster",
+          "text": "Box Promotion Pack: Resurgence Booster"
+        },
+        "foil&Rarity": "Textured - Silver Background - Rare Pull",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Textured - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Resurgence_Booster",
+          "text": "Box Promotion Pack: Resurgence Booster"
+        },
+        "foil&Rarity": "Textured - Silver Background - Rare Pull",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "天狼星兽",
+  "traditionalChinese": "天狼星獸",
+  "type": "Light Dragon"
+}

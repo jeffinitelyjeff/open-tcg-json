@@ -1,0 +1,110 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Turuiemon]/[Wendigomon]: Cost 3",
+  "attribute": "Data",
+  "blockIcon": "03",
+  "cardEffects": "＜Alliance＞ (When this Digimon attacks, by suspending 1 of your other Digimon, add the suspended Digimon's DP to this Digimon and it gains ＜Security A. +1＞ for the attack.)\n[When Digivolving] You may play 1 level 3 green or yellow Digimon card from your hand without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green / Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-034.png",
+        "imgName": "EX6-034.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/81/EX6-034.png/revision/latest?cb=20240621073102",
+        "uploadDate": "2024-06-21T07:31:02"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-034-J.png",
+        "imgName": "EX6-034-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1b/EX6-034-J.png/revision/latest?cb=20240216085318",
+        "uploadDate": "2024-02-16T08:53:18"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-034-Sample-J.png",
+        "imgName": "EX6-034-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/40/EX6-034-Sample-J.png/revision/latest?cb=20240114104651",
+        "uploadDate": "2024-01-14T10:46:51"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/81/EX6-034.png/revision/latest?cb=20240621073102",
+  "inheritedEffect": "[End of Attack] [Once Per Turn] By returning 1 of your other suspended Digimon to the hand, you may play 1 level 3 card with the [Beast] trait from your hand without paying the cost.",
+  "level": "5",
+  "name": "Antylamon",
+  "nameJapanese": "アンティラモン",
+  "playCost": "8",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX6-034#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX6-034 (Jun. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it can be played as long as it is a level 3 card with the [Beast] trait.",
+        "question": "Can my other Digimon that was returned to the hand by this card's inherited effect be played by this inherited effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sanosuke_Sakuma",
+          "text": "Sanosuke Sakuma"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sanosuke_Sakuma",
+          "text": "Sanosuke Sakuma"
+        }
+      }
+    ]
+  },
+  "type": "Holy Beast/Deva"
+}

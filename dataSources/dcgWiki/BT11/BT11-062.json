@@ -1,0 +1,139 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Agumon]: Cost 0",
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[On Play] [When Digivolving] Reveal the top 3 cards of your deck. Add 1 card with [Greymon] or [X Antibody] in its name and 1 black Tamer card among them to your hand. Place the rest at the bottom of your deck in any order.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "3000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-062.png",
+        "imgName": "BT11-062.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/67/BT11-062.png/revision/latest?cb=20230210132456",
+        "uploadDate": "2023-02-10T13:24:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Dimensional_Phase_Pre-Release_Pack",
+        "captionText": "Dimensional Phase Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-062_P0.png",
+        "imgName": "BT11-062_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1d/BT11-062_P0.png/revision/latest?cb=20230210210904",
+        "uploadDate": "2023-02-10T21:09:04"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-062-J.png",
+        "imgName": "BT11-062-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4b/BT11-062-J.png/revision/latest?cb=20220922114913",
+        "uploadDate": "2022-09-22T11:49:13"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-062-Sample-J.png",
+        "imgName": "BT11-062-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/79/BT11-062-Sample-J.png/revision/latest?cb=20220904053313",
+        "uploadDate": "2022-09-04T05:33:13"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/67/BT11-062.png/revision/latest?cb=20230210132456",
+  "inheritedEffect": "[All Turns] When this Digimon with [Greymon] or [Omnimon] in its name would be deleted or returned to your hand or deck by an effect, by placing 1 [X Antibody] from this Digimon's digivolution cards at the bottom of its owner's deck, prevent this Digimon from leaving play.",
+  "level": "3",
+  "name": "Agumon (X Antibody)",
+  "nameJapanese": "アグモンX抗体",
+  "playCost": "4",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT11-062#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT11-062 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, as long as either a Digimon card with [Greymon] or a black Tamer card is among the cards revealed, you can add it to your hand.",
+        "question": "If the cards revealed only include either a Digimon card with [Greymon] or a black Tamer, can I still add a card to my hand using this effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. This card's effect reads “Add 1 card [...] and 1 black Tamer card among them to your hand,” so you must add as many cards to your hand as possible.",
+        "question": "If both a Digimon card with [Greymon] and a black Tamer are among the cards revealed, can I choose to only add one of them to my hand, and place the remaining cards at the bottom of my deck using this effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Dimensional_Phase_Pre-Release_Pack",
+          "text": "Dimensional Phase Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ]
+  },
+  "traditionalChinese": "亞古獸X抗體",
+  "type": "Reptile/X Antibody"
+}

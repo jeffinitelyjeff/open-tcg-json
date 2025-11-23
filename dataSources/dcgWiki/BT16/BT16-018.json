@@ -1,0 +1,111 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Veemon]: Cost 2",
+  "attribute": "Free",
+  "blockIcon": "03",
+  "cardEffects": "＜Raid＞ (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.)\n[On Play] [When Digivolving] 1 of your Digimon can't be deleted in battle until the end of your opponent's turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue / Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-018.png",
+        "imgName": "BT16-018.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7c/BT16-018.png/revision/latest?cb=20240426204049",
+        "uploadDate": "2024-04-26T20:40:49"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-018-J.png",
+        "imgName": "BT16-018-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3e/BT16-018-J.png/revision/latest?cb=20231215073419",
+        "uploadDate": "2023-12-15T07:34:19"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-018-Sample-J.png",
+        "imgName": "BT16-018-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/15/BT16-018-Sample-J.png/revision/latest?cb=20231110064801",
+        "uploadDate": "2023-11-10T06:48:01"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7c/BT16-018.png/revision/latest?cb=20240426204049",
+  "inheritedEffect": "[Your Turn] This Digimon gets +2000 DP.",
+  "level": "4",
+  "name": "ExVeemon",
+  "nameJapanese": "エクスブイモン",
+  "nameTranslated": "XV-mon",
+  "playCost": "4",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT16-018#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT16-018 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it prevents deletion.",
+        "question": "Does this card's [On Play] [When Digivolving] effect prevent deletion in battles against Security Digimon?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shin_Sasaki",
+          "text": "Shin Sasaki"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shin_Sasaki",
+          "text": "Shin Sasaki"
+        }
+      }
+    ]
+  },
+  "type": "Mythical Dragon"
+}

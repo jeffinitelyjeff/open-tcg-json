@@ -1,0 +1,112 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[On Deletion] If it's your turn, you may play 1 level 3 or lower Digimon card with [Chessmon] in its name from your hand without paying its cost. If you have 8 or more Digimon cards with [Chessmon] in its name in their names in your trash, add 2 to the maximum level of the card you can play by this effect.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "1",
+      "level": "2"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "1",
+      "level": "2"
+    }
+  ],
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-035.png",
+        "imgName": "BT13-035.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1c/BT13-035.png/revision/latest?cb=20230714185527",
+        "uploadDate": "2023-07-14T18:55:27"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Royal_Knights_Pre-Release_Pack",
+        "captionText": "Royal Knights Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-035_P0.png",
+        "imgName": "BT13-035_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cb/BT13-035_P0.png/revision/latest?cb=20230714195735",
+        "uploadDate": "2023-07-14T19:57:35"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-035-J.png",
+        "imgName": "BT13-035-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6f/BT13-035-J.png/revision/latest?cb=20230217122642",
+        "uploadDate": "2023-02-17T12:26:42"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-035-Sample-J.png",
+        "imgName": "BT13-035-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/66/BT13-035-Sample-J.png/revision/latest?cb=20230130042211",
+        "uploadDate": "2023-01-30T04:22:11"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1c/BT13-035.png/revision/latest?cb=20230714185527",
+  "inheritedEffect": "＜Reboot＞ (Unsuspend this Digimon during your opponent's unsuspend phase.)",
+  "level": "3",
+  "name": "PawnChessmon",
+  "nameJapanese": "ポーンチェスモン",
+  "playCost": "3",
+  "rarity": "Rare",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Royal_Knights_Pre-Release_Pack",
+          "text": "Royal Knights Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ]
+  },
+  "type": "Puppet"
+}

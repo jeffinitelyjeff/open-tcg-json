@@ -1,0 +1,169 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "01",
+  "cardEffects": "[On Play] [When Digivolving] Place 1 [Raijinmon], [Fujinmon], and [Suijinmon] from your trash under this Digimon in any order as its bottom digivolution cards. Gain 1 memory for each card placed.\n[When Attacking] If the level 6 cards in this Digimon's digivolution cards have 3 or more colors among them, this Digimon gain +3000 DP until the end of your opponent's next turn. If they have 4 or more colors, ＜De-Digivolve  1＞ 1 of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "5"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "2",
+      "level": "6"
+    }
+  ],
+  "dp": "12000 DP",
+  "errata": [
+    {
+      "afterImageURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b8/BT9-067-Errata.png/revision/latest?cb=20220905113914",
+      "afterText": "[On Play] [When Digivolving] Place 1 [Fujinmon], [Raijinmon], and [Suijinmon] from your trash under this Digimon in any order as its bottom digivolution cards. Gain 1 memory for each card placed.",
+      "beforeImageURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1b/BT9-067.png/revision/latest?cb=20220625065127",
+      "beforeText": "[On Play] [When Digivolving] Place 1 [Fuijinmon] or [Raijinmon], and [Suijinmon] from your trash under this Digimon in any order as its bottom digivolution cards. Gain 1 memory for each card placed."
+    }
+  ],
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-067.png",
+        "imgName": "BT9-067.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1b/BT9-067.png/revision/latest?cb=20220625065127",
+        "uploadDate": "2022-06-25T06:51:27"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/X_Record_Pre-Release_Pack",
+        "captionText": "X Record Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-067_P0.png",
+        "imgName": "BT9-067_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/00/BT9-067_P0.png/revision/latest?cb=20230426013008",
+        "uploadDate": "2023-04-26T01:30:08"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Revision_Pack_2023",
+        "captionText": "Revision Pack 2023 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-067-Errata.png",
+        "imgName": "BT9-067-Errata.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b8/BT9-067-Errata.png/revision/latest?cb=20220905113914",
+        "uploadDate": "2022-09-05T11:39:14"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-067-J.png",
+        "imgName": "BT9-067-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/95/BT9-067-J.png/revision/latest?cb=20220218110423",
+        "uploadDate": "2022-02-18T11:04:23"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-067-Sample-J.png",
+        "imgName": "BT9-067-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1a/BT9-067-Sample-J.png/revision/latest?cb=20220125091117",
+        "uploadDate": "2022-01-25T09:11:17"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b8/BT9-067-Errata.png/revision/latest?cb=20220905113914",
+  "level": "6",
+  "name": "Raidenmon",
+  "nameJapanese": "ライデンモン",
+  "playCost": "12",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT9-067#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT9-067 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes. As long as you have at least 1 of any of the cards listed, you can place 1 of each from your trash under this Digimon as its bottom digivolution cards.",
+        "question": "Can I activate this card’s [On Play][When Digivolving] effect if I don't have exactly 1 [Raijinmon], 1 [Fuijinmon], and 1 [Suijinmon] in my trash?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes. If there are 4 or more colors present, this card’s [When Attacking] effect grants both +3000 DP to this Digimon and <De-Digivolves 1> 1 of your opponent’s Digimon.",
+        "question": "If the level 6 cards in this Digimon’s digivolution cards have 4 or more colors among them, does this card’s [When Attacking] effect also grant +3000 DP?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/X_Record_Pre-Release_Pack",
+          "text": "X Record Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Revision_Pack_2023",
+          "text": "Revision Pack 2023"
+        },
+        "foil&Rarity": "No Foil - Errata Text - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ]
+  },
+  "type": "Machine"
+}

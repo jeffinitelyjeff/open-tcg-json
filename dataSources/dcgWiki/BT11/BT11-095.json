@@ -1,0 +1,128 @@
+{
+  "blockIcon": "02",
+  "cardEffects": "[Start of Your Main Phase] By placing 1 Digimon card with the [Xros Heart] or [Blue Flare] trait from your hand under this Tamer, gain 1 memory and ＜Draw 1＞ (Draw 1 card from your deck.)\n[Your Turn] When you would play 1 Digimon card with a DigiXros requirement, by suspending this Tamer, you may place cards from under your Tamers as digivolution cards for a DigiXros.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Tamer",
+  "color": "White",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-095.png",
+        "imgName": "BT11-095.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/50/BT11-095.png/revision/latest?cb=20230210132530",
+        "uploadDate": "2023-02-10T13:25:30"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Dimensional_Phase_Pre-Release_Pack",
+        "captionText": "Dimensional Phase Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-095_P0.png",
+        "imgName": "BT11-095_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/56/BT11-095_P0.png/revision/latest?cb=20230210210911",
+        "uploadDate": "2023-02-10T21:09:11"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-095-J.png",
+        "imgName": "BT11-095-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/18/BT11-095-J.png/revision/latest?cb=20220922114917",
+        "uploadDate": "2022-09-22T11:49:17"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-095-Sample-J.png",
+        "imgName": "BT11-095-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6f/BT11-095-Sample-J.png/revision/latest?cb=20220911090257",
+        "uploadDate": "2022-09-11T09:02:57"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/50/BT11-095.png/revision/latest?cb=20230210132530",
+  "name": "Taiki, Kiriha, & Nene",
+  "nameJapanese": "タイキ＆キリハ＆ネネ",
+  "playCost": "4",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT11-095#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT11-095 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, it doesn't activate if it becomes your opponent's turn before your main phase.",
+        "question": "Can I activate this card's [Start of Your Main Phase] effect if an effect at the start of my turn or during my unsuspend phase or breeding phase causes the memory counter to move to my opponent's side and it becomes my opponent's turn?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "When you play a Digimon card with DigiXros requirements, normally you can only DigiXros with Digimon from your hand or battle area. However, this effect also allows you to DigiXros with Digimon cards placed under a Tamer.",
+        "question": "What does this card's \"by suspending this Tamer, you may place cards from under your Tamers as digivolution cards for a DigiXros\" effect do, exactly?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it does.",
+        "question": "Does this card's [Your Turn] effect also allow me to DigiXros with cards placed under a Tamer other than this Tamer?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it doesn't.",
+        "question": "Does this card's [Your Turn] effect also allow me to DigiXros using the digivolution cards of a Digimon that digivolved from a Tamer?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, since this card's effect reads \"When you would play 1 Digimon card with DigiXros requirements\", if you would play 2 or more Digimon cards at the same time, you can't activate the effect.",
+        "question": "Can I activate this card's effect when I would play 2 or more Digimon with DigiXros requirements with an effect at the same time?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No you can't.  This effect can only be activated when you would play 1 Digimon card with DigiXros conditions.",
+        "question": "Can I activate this card's effect when I play 1 Digimon card with DigiXros requirements and other Digimon cards without DigiXros requirements with an effect at the same time?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Play this card without paying the cost.",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Dimensional_Phase_Pre-Release_Pack",
+          "text": "Dimensional Phase Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "type": "Xros Heart/Blue Flare/General"
+}

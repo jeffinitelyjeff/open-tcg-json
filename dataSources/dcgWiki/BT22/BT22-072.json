@@ -1,0 +1,120 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Night Claw]/[Light Fang]/[CS] trait: Cost 2",
+  "attribute": "Data",
+  "blockIcon": "05",
+  "cardEffects": "[When Digivolving] If this Digimon's stack has 2 or more same-level cards, you may play 1 Tamer card with the [Night Claw] or [Light Fang] trait from your hand without paying the cost. This effect can't play cards with the same name as any of your Tamers.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple / Blue",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "6000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+        "captionText": "BT-22: Booster Cyber Eden (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT22-072.png",
+        "imgName": "BT22-072.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/29/BT22-072.png/revision/latest?cb=20250704054113",
+        "uploadDate": "2025-07-04T05:41:13"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+        "captionText": "BT-22: Booster Cyber Eden (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT22-072-Sample.png",
+        "imgName": "BT22-072-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d7/BT22-072-Sample.png/revision/latest?cb=20250628015515",
+        "uploadDate": "2025-06-28T01:55:15"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+        "captionText": "BT-22: Booster Cyber Eden (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT22-072-J.png",
+        "imgName": "BT22-072-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/dd/BT22-072-J.png/revision/latest?cb=20250704055300",
+        "uploadDate": "2025-07-04T05:53:00"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/29/BT22-072.png/revision/latest?cb=20250704054113",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When this Digimon with the [Night Claw], [Light Fang] or [Galaxy] trait would be deleted, by trashing 2 same-level cards from its digivolution cards, it isn't deleted.",
+  "level": "4",
+  "name": "Lekismon",
+  "nameJapanese": "レキスモン",
+  "playCost": "5",
+  "rarity": "Common",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+          "text": "BT-22: Booster Cyber Eden"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+          "text": "BT-22: Booster Cyber Eden"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+          "text": "BT-22: Booster Cyber Eden"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-22:_Booster_Cyber_Eden",
+          "text": "BT-22: Booster Cyber Eden"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
+        }
+      }
+    ]
+  },
+  "type": "Beastkin/Night Claw/CS"
+}

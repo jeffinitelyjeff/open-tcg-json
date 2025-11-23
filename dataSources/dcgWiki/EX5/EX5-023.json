@@ -1,0 +1,110 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [WereGarurumon]: Cost 1",
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[When Digivolving] By trashing 2 cards in your hand, unsuspend this Digimon. Then, if [WereGarurumon] or [X Antibody] is in this Digimon's digivolution cards, you may return 1 Digimon card with [Garurumon] or [X Antibody] in its name from your trash to the hand.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue / Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-023.png",
+        "imgName": "EX5-023.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6d/EX5-023.png/revision/latest?cb=20240112102923",
+        "uploadDate": "2024-01-12T10:29:23"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-023-J.png",
+        "imgName": "EX5-023-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/74/EX5-023-J.png/revision/latest?cb=20230818055403",
+        "uploadDate": "2023-08-18T05:54:03"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-023-Sample-J.png",
+        "imgName": "EX5-023-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/17/EX5-023-Sample-J.png/revision/latest?cb=20230808091319",
+        "uploadDate": "2023-08-08T09:13:19"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6d/EX5-023.png/revision/latest?cb=20240112102923",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] If this Digimon has [Garurumon] or [Omnimon] in its name, by trashing 1 card in your hand, unsuspend this Digimon.",
+  "level": "5",
+  "name": "WereGarurumon (X Antibody)",
+  "nameJapanese": "ワーガルルモンX抗体",
+  "playCost": "8",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX5-023#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX5-023 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, it can't.  If you don't perform the action specified for \"by X\" in such an effect, the rest of the effect won't activate.",
+        "question": "If I don't trash 2 cards in my hand, can the part after \"then\" in this card's [When Digivolving] effect activate?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ]
+  },
+  "type": "Beastkin/X Antibody"
+}

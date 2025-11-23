@@ -1,0 +1,93 @@
+{
+  "blockIcon": "04",
+  "cardEffects": "[Main] Activate 1 of the following effects:\n・You may play 1 Digimon card with the [Xros Heart] trait and 4000 DP or less from under your Tamer without paying the cost.\n・By unsuspending 1 of your [Shoutmon EX6] and 1 of your [ShootingStarmon], attack a player with 1 of your Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Red",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-090.png",
+        "imgName": "BT19-090.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ea/BT19-090.png/revision/latest?cb=20250207065615",
+        "uploadDate": "2025-02-07T06:56:15"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-090-J.png",
+        "imgName": "BT19-090-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4f/BT19-090-J.png/revision/latest?cb=20240920100438",
+        "uploadDate": "2024-09-20T10:04:38"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-090-Sample-J.png",
+        "imgName": "BT19-090-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/91/BT19-090-Sample-J.png/revision/latest?cb=20240907090053",
+        "uploadDate": "2024-09-07T09:00:53"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ea/BT19-090.png/revision/latest?cb=20250207065615",
+  "name": "Meteor Rock Soul",
+  "nameJapanese": "リュウセイロックダマシー",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT19-090#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for BT19-090 (2024/09/20, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you cannot. A condition for a [thing] cannot be performed only in part of its content. For the conditions of this [Main] effect, one \"Shoutmon EX6\" and one \"Shooting Starmon\" must be active respectively.",
+        "question": "I am in a situation where I have \"Shoutmon EX6\" in my Rest state and \"Shooting Starmon\" in my Active state. If I choose the second effect for this card's [Main] effect, can I make only \"Shoutmon EX6\" active and attack with one of my Digimon?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] You may play 1 Digimon card with the [Xros Heart] trait and 4000 DP or less from under your Tamer without paying the cost.",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+          "text": "BT-19: Booster Xros Evolution"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      }
+    ]
+  },
+  "type": "Xros Heart",
+  "useCost": "3"
+}

@@ -1,0 +1,121 @@
+{
+  "attribute": "Life",
+  "blockIcon": "05",
+  "cardEffects": "[Security] At the end of the battle, play this card without paying the cost.\n[On Play] [When Digivolving] 1 of your opponent's Digimon can't attack players until their turn ends.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Not released",
+    "korean": "Not released",
+    "nameJapanese": "Not released"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "2",
+      "level": "3"
+    },
+    {
+      "color": "All",
+      "digivolveCost": "2",
+      "form": "Stnd."
+    }
+  ],
+  "dp": "4000 DP",
+  "form": "Sup./Appmon",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+        "captionText": "BT-23: Booster Hackers' Slumber (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT23-052.png",
+        "imgName": "BT23-052.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/08/BT23-052.png/revision/latest?cb=20251003041240",
+        "uploadDate": "2025-10-03T04:12:40"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+        "captionText": "BT-23: Booster Hackers' Slumber (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT23-052-Sample.png",
+        "imgName": "BT23-052-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/75/BT23-052-Sample.png/revision/latest?cb=20250922064542",
+        "uploadDate": "2025-09-22T06:45:42"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+        "captionText": "BT-23: Booster Hackers' Slumber (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT23-052-J.png",
+        "imgName": "BT23-052-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/ae/BT23-052-J.png/revision/latest?cb=20251003043407",
+        "uploadDate": "2025-10-03T04:34:07"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/08/BT23-052.png/revision/latest?cb=20251003041240",
+  "level": "4",
+  "linkDp": "<< +3000 DP",
+  "linkEffect": "[When Linking] [When Linking] This Digimon gains ＜Reboot＞ (Unsuspend this Digimon during your opponent's unsuspend phase.) and ＜Blocker＞ (This Digimon can block in the blocker timing.) until your opponent's turn ends.",
+  "linkRequirements": "[Link] [Appmon] trait: Cost 2 \n(Plug this card from the hand or battle area sideways into the specified Digimon in the battle area.)",
+  "name": "Consulmon",
+  "nameJapanese": "コンサルモン",
+  "playCost": "4",
+  "rarity": "Common",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+          "text": "BT-23: Booster Hackers' Slumber"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NIJIMAARC",
+          "text": "NIJIMAARC"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+          "text": "BT-23: Booster Hackers' Slumber"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NIJIMAARC",
+          "text": "NIJIMAARC"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+          "text": "BT-23: Booster Hackers' Slumber"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NIJIMAARC",
+          "text": "NIJIMAARC"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-23:_Booster_Hackers%27_Slumber",
+          "text": "BT-23: Booster Hackers' Slumber"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NIJIMAARC",
+          "text": "NIJIMAARC"
+        }
+      }
+    ]
+  },
+  "type": "Saving (App Name)"
+}

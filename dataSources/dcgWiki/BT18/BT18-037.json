@@ -1,0 +1,146 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Koji Minamoto]: Cost 2 \n[Digivolve]  [KendoGarurumon]: Cost 0",
+  "attribute": "Variable",
+  "blockIcon": "04",
+  "cardEffects": "[When Digivolving] Search your security stack. You may add 1 card with the [Hybrid] or [Ten Warriors] trait among them to your hand. If you added, ＜Recovery +1 (Deck)＞ (Place the top card of your deck on top of your security stack.) Then, shuffle your security stack.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow / Blue",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "form": "Tamer"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "3",
+      "form": "Tamer"
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Hybrid",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-037.png",
+        "imgName": "BT18-037.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4d/BT18-037.png/revision/latest?cb=20241011092514",
+        "uploadDate": "2024-10-11T09:25:14"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-037-J.png",
+        "imgName": "BT18-037-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f7/BT18-037-J.png/revision/latest?cb=20240621114656",
+        "uploadDate": "2024-06-21T11:46:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-037-Sample-J.png",
+        "imgName": "BT18-037-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b1/BT18-037-Sample-J.png/revision/latest?cb=20240521094609",
+        "uploadDate": "2024-05-21T09:46:09"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4d/BT18-037.png/revision/latest?cb=20241011092514",
+  "inheritedEffect": "[When Attacking] If you have 7 or fewer cards in your hand, ＜Draw 1＞ (Draw 1 card from your deck.)",
+  "level": "4",
+  "name": "Lobomon",
+  "nameJapanese": "ヴォルフモン",
+  "playCost": "5",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT18-037#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT18-037 (Nov. 1, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, it digivolves from the Tamer as-is.",
+        "question": "Does this card's digivolution requirement where it can digivolve from a Tamer mean that the Tamer that will become a digivolution card is treated as a Digimon when it digivolves?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it isn't considered a Digimon that would digivolve.  When a Tamer would digivolve using this card's digivolution requirement, \"when a Digimon would digivolve\" effects don't trigger.",
+        "question": "When a Tamer would digivolve using this card's digivolution requirement, is it considered a Digimon that would digivolve?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it isn't considered a Digimon that digivolves.  When a Tamer digivolves using this card's digivolution requirement, \"when a Digimon digivolves\" effects don't trigger.",
+        "question": "When a Tamer digivolves using this card's digivolution requirement, is it considered a Digimon that digivolves?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can also choose to not add them to your hand.  If you don't add them, you shuffle your security stack without gaining <Recovery +1 ≪Deck≫>.",
+        "question": "If cards that are targets of this effect are found in my security stack, do I have to add as many cards to my hand as possible?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+          "text": "BT18-19: Special Booster Ver.2.0"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hokuyuu",
+          "text": "hokuyuu"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.0_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.0 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hokuyuu",
+          "text": "hokuyuu"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+          "text": "BT-18: Booster Elemental Successor"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hokuyuu",
+          "text": "hokuyuu"
+        }
+      }
+    ]
+  },
+  "type": "Warrior"
+}

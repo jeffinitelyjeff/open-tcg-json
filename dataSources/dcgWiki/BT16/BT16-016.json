@@ -1,0 +1,94 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Tokomon]: Cost 0",
+  "attribute": "Data",
+  "blockIcon": "03",
+  "cardEffects": "[Start of Your Main Phase] [On Play] If it's your turn, 1 of your Digimon may digivolve into a level 4 Digimon card with the [Angel] or [Free] trait in your hand with the digivolution cost reduced by 1.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue / Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "1",
+      "level": "2"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "1",
+      "level": "2"
+    }
+  ],
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-016.png",
+        "imgName": "BT16-016.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/47/BT16-016.png/revision/latest?cb=20240412064150",
+        "uploadDate": "2024-04-12T06:41:50"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-016-J.png",
+        "imgName": "BT16-016-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d5/BT16-016-J.png/revision/latest?cb=20231215073419",
+        "uploadDate": "2023-12-15T07:34:19"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-016-Sample-J.png",
+        "imgName": "BT16-016-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/56/BT16-016-Sample-J.png/revision/latest?cb=20231121074922",
+        "uploadDate": "2023-11-21T07:49:22"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/47/BT16-016.png/revision/latest?cb=20240412064150",
+  "inheritedEffect": "[When Attacking] Trash the top digivolution card of 1 of your opponent's Digimon.",
+  "level": "3",
+  "name": "Patamon",
+  "nameJapanese": "パタモン",
+  "playCost": "3",
+  "rarity": "Common",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naru",
+          "text": "naru"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naru",
+          "text": "naru"
+        }
+      }
+    ]
+  },
+  "type": "Mammal"
+}

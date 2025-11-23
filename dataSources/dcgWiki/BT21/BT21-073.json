@@ -1,0 +1,160 @@
+{
+  "altDigivolutionRequirements": "[App Fusion] [Sociamon] & [Gossipmon]: Cost 0\nIf 2 such cards are linked together, stack the link card on top and digivolve.",
+  "attribute": "Social",
+  "blockIcon": "05",
+  "cardEffects": "＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Play] [When Digivolving] You may link 1 level 4 or lower Digimon card from your trash or this Digimon's digivolution cards to this Digimon without paying the cost.\n[Your Turn] [Once Per Turn] When this Digimon gets linked, give 1 of your opponent's Digimon \"[Start of Your Main Phase] This Digimon attacks.\" until their turn ends.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "All",
+      "digivolveCost": "4",
+      "form": "Sup."
+    }
+  ],
+  "dp": "8000 DP",
+  "errata": [
+    {
+      "afterImageURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/54/BT21-073.png/revision/latest?cb=20250404170850",
+      "afterText": "Purple/Black",
+      "beforeText": "Purple"
+    }
+  ],
+  "form": "Ult./Appmon",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-073.png",
+        "imgName": "BT21-073.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/54/BT21-073.png/revision/latest?cb=20250404170850",
+        "uploadDate": "2025-04-04T17:08:50"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-073-Sample.png",
+        "imgName": "BT21-073-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/ff/BT21-073-Sample.png/revision/latest?cb=20250317120041",
+        "uploadDate": "2025-03-17T12:00:41"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-073-J.png",
+        "imgName": "BT21-073-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4a/BT21-073-J.png/revision/latest?cb=20250404053848",
+        "uploadDate": "2025-04-04T05:38:48"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/54/BT21-073.png/revision/latest?cb=20250404170850",
+  "level": "5",
+  "linkDp": "<< +4000 DP",
+  "linkEffect": "[All Turns] [Once Per Turn] When this Digimon would leave the battle area, by trashing 1 of this Digimon's link cards, it doesn't leave.",
+  "linkRequirements": "[Link] [Appmon] trait: Cost 3 \n(Plug this card from the hand or battle area sideways into the specified Digimon in the battle area.)",
+  "name": "Charismon",
+  "nameJapanese": "カリスモン",
+  "playCost": "8",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT21-073#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT21-073 (Apr. 4, 2025)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can't.",
+        "question": "Can I use this card's [On Play] [When Digivolving] effect to link a card that doesn't have [Link]?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "You can give that effect to such Digimon, but Digimon that aren't affected by effects won't be affected by it, therefore the gained effect won't trigger.",
+        "question": "Can I use this card's [Your Turn] effect to give \"[Start of Your Main Phase] This Digimon attacks\" to a Digimon that isn't affected by effects?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can choose 1 card from among that Digimon's link cards and trash it.",
+        "question": "If a Digimon's maximum links is increased using ＜Link +1＞ and has a total of 2 link cards including this card, then it would be removed from the battle area, can I choose from among those cards to trash for this card's [Link] effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ]
+  },
+  "type": "Mind Control (App Name)"
+}

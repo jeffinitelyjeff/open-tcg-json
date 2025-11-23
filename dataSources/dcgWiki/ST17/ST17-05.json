@@ -1,0 +1,95 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Terriermon]/[Lopmon] in name: Cost 2",
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[Your Turn] [Once Per Turn] When this Digimon becomes suspended, 1 of your Digimon gains ＜Jamming＞ for the turn. (This Digimon can't be deleted in battles against Security Digimon.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-17:_Advanced_Deck_Set_Double_Typhoon",
+        "captionText": "ST-17: Advanced Deck Set Double Typhoon (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST17-05.png",
+        "imgName": "ST17-05.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f8/ST17-05.png/revision/latest?cb=20240313231308",
+        "uploadDate": "2024-03-13T23:13:08"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-17:_Advanced_Deck_Set_Double_Typhoon",
+        "captionText": "ST-17: Advanced Deck Set Double Typhoon (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST17-05-J.png",
+        "imgName": "ST17-05-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f6/ST17-05-J.png/revision/latest?cb=20231117101603",
+        "uploadDate": "2023-11-17T10:16:03"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-17:_Advanced_Deck_Set_Double_Typhoon",
+        "captionText": "ST-17: Advanced Deck Set Double Typhoon (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST17-05-Sample-J.png",
+        "imgName": "ST17-05-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/77/ST17-05-Sample-J.png/revision/latest?cb=20231028073155",
+        "uploadDate": "2023-10-28T07:31:55"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f8/ST17-05.png/revision/latest?cb=20240313231308",
+  "inheritedEffect": "[All Turns] While this Digimon is suspended, it gets +1000 DP.",
+  "level": "4",
+  "name": "Gargomon",
+  "nameJapanese": "ガルゴモン",
+  "playCost": "6",
+  "rarity": "Common",
+  "rule": "[Rule] Name: Not treated as having [Argomon].",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-17:_Advanced_Deck_Set_Double_Typhoon",
+          "text": "ST-17: Advanced Deck Set Double Typhoon"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-17:_Advanced_Deck_Set_Double_Typhoon",
+          "text": "ST-17: Advanced Deck Set Double Typhoon"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "type": "Beastkin"
+}

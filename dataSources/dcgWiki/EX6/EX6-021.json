@@ -1,0 +1,103 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] [When Digivolving] By adding the top or bottom card of your security stack to the hand, 1 of your opponent's Digimon gets -4000 DP for the turn. Then, you may place 1 Digimon card with the [Angel], [Archangel] or [Three Great Angels] trait from your hand at the bottom of your security stack.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-021.png",
+        "imgName": "EX6-021.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2a/EX6-021.png/revision/latest?cb=20240531091329",
+        "uploadDate": "2024-05-31T09:13:29"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-021-J.png",
+        "imgName": "EX6-021-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/50/EX6-021-J.png/revision/latest?cb=20240216085320",
+        "uploadDate": "2024-02-16T08:53:20"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-021-Sample-J.png",
+        "imgName": "EX6-021-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/78/EX6-021-Sample-J.png/revision/latest?cb=20240112090209",
+        "uploadDate": "2024-01-12T09:02:09"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2a/EX6-021.png/revision/latest?cb=20240531091329",
+  "inheritedEffect": "[Opponent's Turn] All of your Digimon with the [Angel], [Archangel] or [Three Great Angels] trait, gain ＜Blocker＞ (This Digimon can block in the blocker timing.).",
+  "level": "5",
+  "name": "ArkhaiAngemon",
+  "nameJapanese": "アルケーエンジェモン",
+  "playCost": "7",
+  "rarity": "Rare",
+  "rule": "[Rule] Trait: Has [Angel] Type.",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX6-021#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX6-021 (Jun. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can't.  If you don't meet the conditions specified for \"by X\" in such an effect, the rest of the effect won't activate.",
+        "question": "If I have 0 security cards or if I don't add the top or bottom card of my security stack to the hand for this card's [On Play] [When Digivolving] effect, can I activate the part of the effect after \"then\"?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hokuyuu",
+          "text": "hokuyuu"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hokuyuu",
+          "text": "hokuyuu"
+        }
+      }
+    ]
+  },
+  "type": "Principality"
+}

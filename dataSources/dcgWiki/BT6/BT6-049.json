@@ -1,0 +1,149 @@
+{
+  "attribute": "Variable",
+  "blockIcon": "01",
+  "cardEffects": "You may digivolve this card from your hand onto one of your green Tamers as if the Tamer is a level 3 green Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "errata": [
+    {
+      "afterImageURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e8/BT6-049.png/revision/latest?cb=20210921061241",
+      "afterText": "You may Digivolve this card from your hand onto one of your red Tamers as if the Tamer is a level 3 green Digimon.",
+      "beforeText": "You may Digivolve this card from your hand onto one of your red Tamers as if the Tamer is a level 3 Digimon."
+    }
+  ],
+  "form": "Hybrid",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-049.png",
+        "imgName": "BT6-049.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e8/BT6-049.png/revision/latest?cb=20210921061241",
+        "uploadDate": "2021-09-21T06:12:41"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Double_Diamond_Pre-Release_Pack",
+        "captionText": "Double Diamond Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-049_P0.png",
+        "imgName": "BT6-049_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/85/BT6-049_P0.png/revision/latest?cb=20220304192903",
+        "uploadDate": "2022-03-04T19:29:03"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-049-J.png",
+        "imgName": "BT6-049-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e6/BT6-049-J.png/revision/latest?cb=20210521045916",
+        "uploadDate": "2021-05-21T04:59:16"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e8/BT6-049.png/revision/latest?cb=20210921061241",
+  "level": "4",
+  "name": "Arbormon",
+  "nameJapanese": "アルボルモン",
+  "playCost": "5",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT6-049#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT6-049 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, Tamer cards' [Security] effects aren't inherited effects. Some Tamer cards do have inherited effects, and those can be activated when such cards are placed in digivolution cards.",
+        "question": "If this card has a tamer card as a digivolution card, does the [Security] effect of that tamer card become an inherited effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it can.",
+        "question": "Can this card digivolve on top of a Level 3 Digimon that meets its requirements instead of a tamer card?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it is.   However, if the effect specifies Digimon cards, Digi-Egg cards, or any other type of card that isn't a tamer card, it can't be targeted by that effect.",
+        "question": "If I use this card's effect to make a tamer card into a digivolution card, is that card affected by effects that say \"trash digivolution cards\"?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you do. Even if you digivolve using a tamer card, make sure to draw 1 card as the digivolution bonus.",
+        "question": "If I digivolve this card on top of a tamer card, do I still get the digivolution bonus?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes. Digivolution doesn't count as “playing” a card, so you can attack that turn.",
+        "question": "Can I attack the turn I digivolve this card on top of a tamer card?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. Since it's the first turn the tamer was played, the limitation for attacking on the first turn a card is played still applies.",
+        "question": "I play a Tamer card, then digivolve it into this Digimon. Can I then attack with that Digimon during that same turn?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "It’s trashed.",
+        "question": "If I've digivolved this card on top of a tamer card and the Digimon is deleted, what happens to the tamer card?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+          "text": "BT-06: Booster Double Diamond"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Double_Diamond_Pre-Release_Pack",
+          "text": "Double Diamond Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+          "text": "BT-06: Booster Double Diamond"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ]
+  },
+  "type": "Cyborg"
+}

@@ -1,0 +1,113 @@
+{
+  "attribute": "Data",
+  "blockIcon": "01",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "6000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-011.png",
+        "imgName": "BT6-011.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4d/BT6-011.png/revision/latest?cb=20231228213215",
+        "uploadDate": "2023-12-28T21:32:15"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Event_Pack_3",
+        "captionText": "Event Pack 3 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-011_P1.png",
+        "imgName": "BT6-011_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/65/BT6-011_P1.png/revision/latest?cb=20220904060020",
+        "uploadDate": "2022-09-04T06:00:20"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-011-J.png",
+        "imgName": "BT6-011-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8e/BT6-011-J.png/revision/latest?cb=20210521045852",
+        "uploadDate": "2021-05-21T04:58:52"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4d/BT6-011.png/revision/latest?cb=20231228213215",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] If you have a Digimon with [Sistermon] in its name in play, delete 1 of your opponent's Digimon with 5000 DP or less.",
+  "level": "4",
+  "name": "BaoHuckmon",
+  "nameJapanese": "バオハックモン",
+  "nameTranslated": "BaoHackmon",
+  "playCost": "5",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT6-011#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT6-011 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. Even if you have multiple Digimon with [Sistermon] in play, you can only use this Digimon’s effect to delete 1 of your opponent’s Digimon.",
+        "question": "If I have 2 Digimon with [Sistermon] in play, can I use this card’s effect to delete 2 of my opponent’s Digimon with 5000 DP or less?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+          "text": "BT-06: Booster Double Diamond"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Event_Pack_3",
+          "text": "Event Pack 3"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+          "text": "BT-06: Booster Double Diamond"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ]
+  },
+  "type": "Dinosaur"
+}

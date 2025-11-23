@@ -1,0 +1,94 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [HippoGryphonmon]: Cost 1",
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling.)\n[When Digivolving] ＜Draw 1＞ (Draw 1 card from your deck.) and trash 1 card in your hand. Then, if [HippoGryphonmon] is in this Digimon's digivolution cards, this Digimon may digivolve into [Murmukusmon] in the hand for a digivolution cost of 2, ignoring its digivolution requirements.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple / Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-063.png",
+        "imgName": "BT17-063.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3f/BT17-063.png/revision/latest?cb=20240720075952",
+        "uploadDate": "2024-07-20T07:59:52"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-063-J.png",
+        "imgName": "BT17-063-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a1/BT17-063-J.png/revision/latest?cb=20240322062942",
+        "uploadDate": "2024-03-22T06:29:42"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-063-Sample-J.png",
+        "imgName": "BT17-063-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f8/BT17-063-Sample-J.png/revision/latest?cb=20240228031206",
+        "uploadDate": "2024-02-28T03:12:06"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3f/BT17-063.png/revision/latest?cb=20240720075952",
+  "inheritedEffect": "＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling.)",
+  "level": "4",
+  "name": "Darcmon",
+  "nameJapanese": "ダルクモン",
+  "playCost": "5",
+  "rarity": "Common",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ]
+  },
+  "type": "Angel"
+}

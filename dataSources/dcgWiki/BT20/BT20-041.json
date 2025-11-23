@@ -1,0 +1,103 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[ACCEL] trait: Cost 3",
+  "attribute": "Vaccine",
+  "blockIcon": "04",
+  "cardEffects": "[On Play] [When Digivolving] Suspend 1 of your opponent's Digimon and 1 of your Digimon gets +3000 DP for the turn. Then, 1 of your Digimon may attack.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green / Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "6000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-041.png",
+        "imgName": "BT20-041.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/dc/BT20-041.png/revision/latest?cb=20250207070925",
+        "uploadDate": "2025-02-07T07:09:25"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-041-Sample.png",
+        "imgName": "BT20-041-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4e/BT20-041-Sample.png/revision/latest?cb=20241231094514",
+        "uploadDate": "2024-12-31T09:45:14"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-041-J.png",
+        "imgName": "BT20-041-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/22/BT20-041-J.png/revision/latest?cb=20250124093437",
+        "uploadDate": "2025-01-24T09:34:37"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-041-Sample-J.png",
+        "imgName": "BT20-041-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/dd/BT20-041-Sample-J.png/revision/latest?cb=20241231094450",
+        "uploadDate": "2024-12-31T09:44:50"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/dc/BT20-041.png/revision/latest?cb=20250207070925",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] 1 of your opponent's Digimon gets -4000 DP for the turn.",
+  "level": "5",
+  "name": "Crowmon",
+  "nameJapanese": "ヤタガラモン",
+  "nameTranslated": "Yatagaramon",
+  "playCost": "6",
+  "rarity": "Common",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:P!k@ru",
+          "text": "p!k@ru"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+          "text": "BT-20: Booster Over the X"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:P!k@ru",
+          "text": "p!k@ru"
+        }
+      }
+    ]
+  },
+  "type": "Mysterious Bird/ACCEL"
+}

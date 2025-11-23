@@ -1,0 +1,102 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Pinamon]: Cost 0",
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] Suspend 1 of your opponent's level 6 or lower Digimon. Then, by placing this Digimon as the bottom digivolution card of 1 of your Digimon with [Ravemon] in its name, that Digimon may attack an opponent's Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple / Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "1",
+      "level": "2"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "1",
+      "level": "2"
+    }
+  ],
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2024",
+        "captionText": "Update Pack 2024 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-142.png",
+        "imgName": "P-142.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b1/P-142.png/revision/latest?cb=20240705214737",
+        "uploadDate": "2024-07-05T21:47:37"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2024",
+        "captionText": "Update Pack 2024 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-142-J.png",
+        "imgName": "P-142-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c4/P-142-J.png/revision/latest?cb=20240322062941",
+        "uploadDate": "2024-03-22T06:29:41"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b1/P-142.png/revision/latest?cb=20240705214737",
+  "inheritedEffect": "[On Deletion] When this Digimon is deleted other than in battle, your opponent trashes 1 card in their hand.",
+  "level": "3",
+  "name": "Falcomon",
+  "nameJapanese": "ファルコモン",
+  "playCost": "3",
+  "rarity": "Promo",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=P-142#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for P-142 (Sep. 6, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can't.  This card's [On Play] effect does not allow you to attack with Digimon that are in a state where they can't attack.",
+        "question": "Can I use this card's [On Play] effect to attack using the Digimon with [Ravemon] where I placed this card in digivolution cards even when it's suspended?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2024",
+          "text": "Update Pack 2024"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2024",
+          "text": "Update Pack 2024"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ]
+  },
+  "type": "Avian"
+}

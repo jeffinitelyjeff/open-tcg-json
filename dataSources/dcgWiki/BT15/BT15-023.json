@@ -1,0 +1,101 @@
+{
+  "attribute": "Data",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] Trash the bottom 2 digivolution cards of 1 of your opponent's Digimon. Then, if your opponent has no Digimon with digivolution cards, gain 1 memory.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-023.png",
+        "imgName": "BT15-023.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e1/BT15-023.png/revision/latest?cb=20240209090324",
+        "uploadDate": "2024-02-09T09:03:24"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-023-J.png",
+        "imgName": "BT15-023-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/03/BT15-023-J.png/revision/latest?cb=20230922100134",
+        "uploadDate": "2023-09-22T10:01:34"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-023-Sample-J.png",
+        "imgName": "BT15-023-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/57/BT15-023-Sample-J.png/revision/latest?cb=20230904062804",
+        "uploadDate": "2023-09-04T06:28:04"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e1/BT15-023.png/revision/latest?cb=20240209090324",
+  "level": "4",
+  "name": "Coelamon",
+  "nameJapanese": "シーラモン",
+  "playCost": "4",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT15-023#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT15-023 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it activates.",
+        "question": "Does this card’s [On Play] effect activate when my opponent has no Digimon in their battle area?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+          "text": "BT-15: Booster Exceed Apocalypse"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:KISUKE",
+          "text": "KISUKE"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+          "text": "BT-15: Booster Exceed Apocalypse"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:KISUKE",
+          "text": "KISUKE"
+        }
+      }
+    ]
+  },
+  "type": "Ancient Fish"
+}

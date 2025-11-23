@@ -1,0 +1,120 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[Opponent's Turn] [Once Per Turn] When an effect adds cards to your opponent's hand, by choosing and trashing 1 of this Digimon's digivolution cards, your opponent trashes cards from their hand equal to the number of cards added to their hand by the effect.\n[On Deletion] ＜Save＞ (You may place this card under one of your Tamers.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "digixrosRequirements": "[DigiXros -2] 1 Digimon card w/[Bagra Army] trait\nWhen this would be played, you may place specified cards from your hand/battle area under it. Each one reduces the play cost.",
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-077.png",
+        "imgName": "BT10-077.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8c/BT10-077.png/revision/latest?cb=20221007204815",
+        "uploadDate": "2022-10-07T20:48:15"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-077-J.png",
+        "imgName": "BT10-077-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3f/BT10-077-J.png/revision/latest?cb=20220520104229",
+        "uploadDate": "2022-05-20T10:42:29"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-077-Sample-J.png",
+        "imgName": "BT10-077-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/37/BT10-077-Sample-J.png/revision/latest?cb=20220416091823",
+        "uploadDate": "2022-04-16T09:18:23"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8c/BT10-077.png/revision/latest?cb=20221007204815",
+  "inheritedEffect": "[Opponent's Turn] When this card is trashed from digivolution cards by an effect, gain 1 memory.",
+  "level": "4",
+  "name": "MadLeomon",
+  "nameJapanese": "マッドレオモン",
+  "playCost": "5",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT10-077#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT10-077 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can only trash cards equal to the number of cards added by one effect. Even if they were triggered at the same time, different effects are still separate from each other, and you can only activate this effect for one of them, so in this case you can count only one of the ＜Draw 1＞ and only 1 card in your opponent's hand will be trashed.",
+        "question": "One of my opponent's Digimon attacks, ＜Draw 1＞ activates twice from both a [When Attacking] effect and an inherited effect, and their hand increases by 2 cards. Will this card's [Opponent's Turn] effect trash 2 of my opponent's cards in their hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it activates. This card's effect trashes the number of cards that were drawn. In the example given in the question, after trashing 2 cards from their hand, your opponent would trash an additional 2 cards, for a total of 4 cards trashed.",
+        "question": "Does this card's [Opponent's Turn] effect activate after an effect that adds and trashes cards in your opponent's hand so that the result is net 0 total cards gained, like \"＜Draw 2＞. Then, trash 2 cards in your hand\"?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "疯狂狮子兽",
+  "traditionalChinese": "瘋狂獅子獸",
+  "type": "Undead/Bagra Army"
+}

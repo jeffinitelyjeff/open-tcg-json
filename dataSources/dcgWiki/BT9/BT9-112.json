@@ -1,0 +1,291 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "01",
+  "cardEffects": "When you would play this card, reduce its memory cost by 3 for each Digimon and Tamer your opponent has in play.\n[On Play] [When Digivolving] ＜De-Digivolve  1＞ all of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.) Then, delete all of your opponent's level 4 or lower Digimon.\n[End of Opponent's Turn] [Once Per Turn] Delete all of your opponent's Digimon with the lowest play cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "6",
+      "level": "6"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "6",
+      "level": "6"
+    }
+  ],
+  "dp": "15000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-112.png",
+        "imgName": "BT9-112.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5a/BT9-112.png/revision/latest?cb=20220625065209",
+        "uploadDate": "2022-06-25T06:52:09"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-112_P1.png",
+        "imgName": "BT9-112_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e4/BT9-112_P1.png/revision/latest?cb=20220625064949",
+        "uploadDate": "2022-06-25T06:49:49"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Event_Pack_7",
+        "captionText": "Event Pack 7 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-112_P2.png",
+        "imgName": "BT9-112_P2.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ee/BT9-112_P2.png/revision/latest?cb=20240830171514",
+        "uploadDate": "2024-08-30T17:15:14"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Special_Limited_Set",
+        "captionText": "Special Limited Set (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-112_P2.png",
+        "imgName": "BT9-112_P2.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ee/BT9-112_P2.png/revision/latest?cb=20240830171514",
+        "uploadDate": "2024-08-30T17:15:14"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/PB-21:_Tamer%27s_Evolution_Box_-_Rise_of_Digimon",
+        "captionText": "PB-21: Tamer's Evolution Box - Rise of Digimon (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-112_P3.png",
+        "imgName": "BT9-112_P3.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b2/BT9-112_P3.png/revision/latest?cb=20250320070548",
+        "uploadDate": "2025-03-20T07:05:48"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-112-J.png",
+        "imgName": "BT9-112-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c4/BT9-112-J.png/revision/latest?cb=20220218110500",
+        "uploadDate": "2022-02-18T11:05:00"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-112-Sample-J.png",
+        "imgName": "BT9-112-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/77/BT9-112-Sample-J.png/revision/latest?cb=20220208122307",
+        "uploadDate": "2022-02-08T12:23:07"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-112_P1-J.png",
+        "imgName": "BT9-112_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0b/BT9-112_P1-J.png/revision/latest?cb=20220225093218",
+        "uploadDate": "2022-02-25T09:32:18"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (Alternative Art) (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-112_P1-Sample-J.png",
+        "imgName": "BT9-112_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/dd/BT9-112_P1-Sample-J.png/revision/latest?cb=20220217092324",
+        "uploadDate": "2022-02-17T09:23:24"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-02:_Limited_Card_Pack_DeathXmon",
+        "captionText": "LM-02: Limited Card Pack DeathXmon (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-112_P2-J.png",
+        "imgName": "BT9-112_P2-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c3/BT9-112_P2-J.png/revision/latest?cb=20231110181529",
+        "uploadDate": "2023-11-10T18:15:29"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/PB-21:_Tamer%27s_Evolution_Box_-_Rise_of_Digimon",
+        "captionText": "PB-21: Tamer's Evolution Box - Rise of Digimon (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-112_P3-J.png",
+        "imgName": "BT9-112_P3-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ea/BT9-112_P3-J.png/revision/latest?cb=20250320130513",
+        "uploadDate": "2025-03-20T13:05:13"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5a/BT9-112.png/revision/latest?cb=20220625065209",
+  "level": "7",
+  "name": "DeathXmon",
+  "nameJapanese": "デクスモン",
+  "playCost": "20",
+  "rarity": "Secret Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT9-112#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT9-112 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you reduce its memory cost by 3 based on the total number of Digimon and Tamer cards your opponent has in play.  For example, if your opponent has 2 Digimon and 1 Tamer, this adds up to 3 cards total, which means you get to reduce the play cost by 9.",
+        "question": "When playing this card, do I reduce its memory cost by 3 for each pair of Digimon and Tamer cards my opponent has in play?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "Textured - Secret Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/PB-21:_Tamer%27s_Evolution_Box_-_Rise_of_Digimon",
+          "text": "PB-21: Tamer's Evolution Box - Rise of Digimon"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "Textured - Secret Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Event_Pack_7",
+          "text": "Event Pack 7"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Limited_Set",
+          "text": "Special Limited Set"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/PB-21:_Tamer%27s_Evolution_Box_-_Rise_of_Digimon",
+          "text": "PB-21: Tamer's Evolution Box - Rise of Digimon"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "Textured - Secret Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-02:_Limited_Card_Pack_DeathXmon",
+          "text": "LM-02: Limited Card Pack DeathXmon"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/PB-21:_Tamer%27s_Evolution_Box_-_Rise_of_Digimon",
+          "text": "PB-21: Tamer's Evolution Box - Rise of Digimon"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/PB-21:_Tamer%27s_Evolution_Box_-_Rise_of_Digimon",
+          "text": "PB-21: Tamer's Evolution Box - Rise of Digimon"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ]
+  },
+  "type": "Unanalyzable/X Program"
+}

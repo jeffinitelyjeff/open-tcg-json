@@ -1,0 +1,99 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] [When Digivolving] Reveal the top 3 cards of your deck. Add 1 Digimon card with [Veedramon] in its name and 1 blue Tamer card among them to the hand. Return the rest to the bottom of the deck.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2024",
+        "captionText": "Update Pack 2024 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-138.png",
+        "imgName": "P-138.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2c/P-138.png/revision/latest?cb=20240705214737",
+        "uploadDate": "2024-07-05T21:47:37"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2024",
+        "captionText": "Update Pack 2024 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-138-J.png",
+        "imgName": "P-138-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/15/P-138-J.png/revision/latest?cb=20240322062940",
+        "uploadDate": "2024-03-22T06:29:40"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2c/P-138.png/revision/latest?cb=20240705214737",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When this Digimon becomes unsuspended, gain 1 memory.",
+  "level": "4",
+  "name": "Veedramon",
+  "nameJapanese": "ブイドラモン",
+  "playCost": "5",
+  "rarity": "Promo",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=P-138#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for P-138 (Sep. 6, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, even if you only reveal one of the applicable cards, you can still add it to your hand.",
+        "question": "If the 3 cards I reveal from the deck with this card's effect include only a Digimon card with [Veedramon] or a blue Tamer card, can I just add that 1 card to my hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. If you have cards that are targets of this effect, you must add as many cards to your hand as possible.",
+        "question": "If the cards I reveal from my deck for this card's effect include both a Digimon card with [Veedramon] and a blue Tamer card, can I choose to only add one of them to my hand, and place the remaining cards at the bottom of my deck?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2024",
+          "text": "Update Pack 2024"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2024",
+          "text": "Update Pack 2024"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ]
+  },
+  "type": "Mythical Dragon"
+}

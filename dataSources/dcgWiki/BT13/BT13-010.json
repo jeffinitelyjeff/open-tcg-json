@@ -1,0 +1,125 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "02",
+  "cardEffects": "[On Play] If played by an effect, by returning 1 of your [Kristy Damon]s to the hand, this Digimon may digivolve into [Garudamon] in the hand, ignoring its digivolution requirements and without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-010.png",
+        "imgName": "BT13-010.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/af/BT13-010.png/revision/latest?cb=20230714185525",
+        "uploadDate": "2023-07-14T18:55:25"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Royal_Knights_Pre-Release_Pack",
+        "captionText": "Royal Knights Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-010_P0.png",
+        "imgName": "BT13-010_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e2/BT13-010_P0.png/revision/latest?cb=20230714195732",
+        "uploadDate": "2023-07-14T19:57:32"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-010-J.png",
+        "imgName": "BT13-010-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/22/BT13-010-J.png/revision/latest?cb=20230217122643",
+        "uploadDate": "2023-02-17T12:26:43"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-010-Sample-J.png",
+        "imgName": "BT13-010-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ec/BT13-010-Sample-J.png/revision/latest?cb=20230203084605",
+        "uploadDate": "2023-02-03T08:46:05"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/af/BT13-010.png/revision/latest?cb=20230714185525",
+  "inheritedEffect": "[On Deletion] ＜Draw 1＞ (Draw 1 card from your deck.)",
+  "korean": "피요몬",
+  "level": "3",
+  "name": "Biyomon",
+  "nameJapanese": "ピヨモン",
+  "nameTranslated": "Piyomon",
+  "playCost": "3",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT13-010#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT13-010 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.",
+        "question": "Can I use this card’s [On Play] effect to return my [Kristy Damon] to my hand even if I don't have a [Garudamon] in my hand?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Royal_Knights_Pre-Release_Pack",
+          "text": "Royal Knights Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "比丘兽",
+  "traditionalChinese": "比丘獸",
+  "type": "Bird"
+}

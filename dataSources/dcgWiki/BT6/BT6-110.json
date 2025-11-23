@@ -1,0 +1,103 @@
+{
+  "blockIcon": "01",
+  "cardEffects": "[Main] You may play 1 level 5 or lower [Eosmon] from your hand without paying its memory cost. Then, delete 1 of your opponent's Digimon with DP less than or equal to the Digimon played with this effect.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "White",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-110.png",
+        "imgName": "BT6-110.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cd/BT6-110.png/revision/latest?cb=20210921061253",
+        "uploadDate": "2021-09-21T06:12:53"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Double_Diamond_Pre-Release_Pack",
+        "captionText": "Double Diamond Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-110_P0.png",
+        "imgName": "BT6-110_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9b/BT6-110_P0.png/revision/latest?cb=20220304192913",
+        "uploadDate": "2022-03-04T19:29:13"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-110-J.png",
+        "imgName": "BT6-110-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/48/BT6-110-J.png/revision/latest?cb=20210521045947",
+        "uploadDate": "2021-05-21T04:59:47"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cd/BT6-110.png/revision/latest?cb=20210921061253",
+  "name": "Cutting Edge",
+  "nameJapanese": "カッティングエッジ",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT6-110#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT6-110 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes. If a DP-boosting effect activates when you play a Digimon, the Digimon’s modified DP value is referenced by this card’s effect. You can delete 1 of your opponent’s Digimon with DP less than or equal to [Eosmon]’s boosted DP.",
+        "question": "I use this card while I have 1 [ST1-12 Tai Kamiya] in play, and play a [BT6-085 Eosmon] from my hand. [ST1-12 Tai Kamiya]’s effect gives [BT6-085 Eosmon] +1000 DP, bringing it up to a total of 7000 DP. Can I delete 1 of my opponent’s Digimon with 7000 DP or less?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Activate this card's [Main] effects.",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+          "text": "BT-06: Booster Double Diamond"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Funbolt",
+          "text": "funbolt"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Double_Diamond_Pre-Release_Pack",
+          "text": "Double Diamond Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Funbolt",
+          "text": "funbolt"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+          "text": "BT-06: Booster Double Diamond"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Funbolt",
+          "text": "funbolt"
+        }
+      }
+    ]
+  },
+  "useCost": "6"
+}

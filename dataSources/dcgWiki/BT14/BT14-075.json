@@ -1,0 +1,115 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] [When Attacking] Trash the top 3 cards of your deck.\n[Your Turn] This Digimon gets +1000 DP for every 3 cards in your trash.\n[On Deletion] Trash 1 card in your opponent's hand without looking.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "3",
+    "level": "3"
+  },
+  "dp": "6000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-075.png",
+        "imgName": "BT14-075.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/56/BT14-075.png/revision/latest?cb=20231027105755",
+        "uploadDate": "2023-10-27T10:57:55"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Blast_Ace_Pre-Release_Pack",
+        "captionText": "Blast Ace Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-075_P0.png",
+        "imgName": "BT14-075_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/95/BT14-075_P0.png/revision/latest?cb=20231116222507",
+        "uploadDate": "2023-11-16T22:25:07"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-075-J.png",
+        "imgName": "BT14-075-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/81/BT14-075-J.png/revision/latest?cb=20231112061830",
+        "uploadDate": "2023-11-12T06:18:30"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/56/BT14-075.png/revision/latest?cb=20231027105755",
+  "korean": "데블몬",
+  "level": "4",
+  "name": "Devimon",
+  "nameJapanese": "デビモン",
+  "playCost": "7",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT14-075#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT14-075 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, the the trashed card is public information. \"Trash [...] without looking\" means that you must choose a card to trash from your opponent's hand without looking at the front of the cards in their hand.",
+        "question": "Is the card trashed by this card's [On Deletion] effect also private information?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hokuyuu",
+          "text": "hokuyuu"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Blast_Ace_Pre-Release_Pack",
+          "text": "Blast Ace Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hokuyuu",
+          "text": "hokuyuu"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hokuyuu",
+          "text": "hokuyuu"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "恶魔兽",
+  "traditionalChinese": "惡魔獸",
+  "type": "Fallen Angel"
+}

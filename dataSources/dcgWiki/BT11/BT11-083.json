@@ -1,0 +1,175 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[When Digivolving] You may trash 1 card in your hand. If you do, you may return 1 [Mirei Mikagura] trait or 1 card with the [Angel], [Archangel] or [Fallen Angel] trait from your trash to your hand.\n[Your Turn] [Once Per Turn] When you play [Angewomon] or [Mirei Mikagura], gain 1 memory.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "3",
+      "level": "4"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "4"
+    }
+  ],
+  "dp": "6000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-083.png",
+        "imgName": "BT11-083.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/85/BT11-083.png/revision/latest?cb=20230210132520",
+        "uploadDate": "2023-02-10T13:25:20"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-083_P1.png",
+        "imgName": "BT11-083_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d4/BT11-083_P1.png/revision/latest?cb=20230210210855",
+        "uploadDate": "2023-02-10T21:08:55"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Dimensional_Phase_Pre-Release_Pack",
+        "captionText": "Dimensional Phase Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-083_P0.png",
+        "imgName": "BT11-083_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e2/BT11-083_P0.png/revision/latest?cb=20230210210908",
+        "uploadDate": "2023-02-10T21:09:08"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-083-J.png",
+        "imgName": "BT11-083-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2c/BT11-083-J.png/revision/latest?cb=20220922114917",
+        "uploadDate": "2022-09-22T11:49:17"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-083_P1-J.png",
+        "imgName": "BT11-083_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/21/BT11-083_P1-J.png/revision/latest?cb=20220930043804",
+        "uploadDate": "2022-09-30T04:38:04"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-083-Sample-J.png",
+        "imgName": "BT11-083-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/ae/BT11-083-Sample-J.png/revision/latest?cb=20220906054846",
+        "uploadDate": "2022-09-06T05:48:46"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (Alternative Art) (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-083_P1-Sample-J.png",
+        "imgName": "BT11-083_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/72/BT11-083_P1-Sample-J.png/revision/latest?cb=20220918061759",
+        "uploadDate": "2022-09-18T06:17:59"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/85/BT11-083.png/revision/latest?cb=20230210132520",
+  "inheritedEffect": "[Opponent's Turn] While you have a yellow Digimon in play, all of your Digimon with the [Angel], [Archangel] or [Fallen Angel] trait gain ＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling.).",
+  "level": "5",
+  "name": "LadyDevimon",
+  "nameJapanese": "レディーデビモン",
+  "playCost": "7",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT11-083#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT11-083 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.",
+        "question": "Can I use this card's [When Digivolving] effect to return the trashed card from my trash to my hand if 1 [Mirei Mikagura] or 1 card with the [Angel], [Archangel], or [Fallen Angel] trait is trashed from my hand?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Dimensional_Phase_Pre-Release_Pack",
+          "text": "Dimensional Phase Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "traditionalChinese": "女惡魔獸",
+  "type": "Fallen Angel"
+}

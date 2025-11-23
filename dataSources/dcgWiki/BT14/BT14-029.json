@@ -1,0 +1,128 @@
+{
+  "attribute": "Data",
+  "blockIcon": "03",
+  "cardEffects": "[When Digivolving] Trash any 3 digivolution cards from your opponent's Digimon.\n[When Attacking] [Once Per Turn] If your opponent has no Digimon with as many or more digivolution cards as this Digimon, unsuspend this Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "3",
+    "level": "5"
+  },
+  "dp": "11000 DP",
+  "errata": [
+    {
+      "afterImageURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/33/BT14-029-Errata.png/revision/latest?cb=20240209090326",
+      "afterText": "[When Attacking] [Once Per Turn] If your opponent has no Digimon with as many or more digivolution cards as this Digimon, unsuspend this Digimon.",
+      "beforeImageURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/24/BT14-029.png/revision/latest?cb=20231027105751",
+      "beforeText": "[When Attacking] [Once Per Turn] If your opponent has no Digimon with more digivolution cards as this Digimon, unsuspend this Digimon."
+    }
+  ],
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-029.png",
+        "imgName": "BT14-029.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/24/BT14-029.png/revision/latest?cb=20231027105751",
+        "uploadDate": "2023-10-27T10:57:51"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Blast_Ace_Pre-Release_Pack",
+        "captionText": "Blast Ace Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-029_P0.png",
+        "imgName": "BT14-029_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/79/BT14-029_P0.png/revision/latest?cb=20231116222509",
+        "uploadDate": "2023-11-16T22:25:09"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-029-J.png",
+        "imgName": "BT14-029-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d7/BT14-029-J.png/revision/latest?cb=20231111042858",
+        "uploadDate": "2023-11-11T04:28:58"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/3/33/BT14-029-Errata.png/revision/latest?cb=20240209090326",
+  "korean": "플레시오몬",
+  "level": "6",
+  "name": "Plesiomon",
+  "nameJapanese": "プレシオモン",
+  "playCost": "11",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT14-029#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT14-029 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it can.",
+        "question": "Can this card's [When Digivolving] effect trash 1 digivolution card each from 3 of my opponent's Digimon or trash 2 digivolution cards from 1 of their Digimon and 1 digivolution card from another?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it can.",
+        "question": "Can this card's [When Attacking] effect unsuspend this Digimon when my opponent has no Digimon?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Blast_Ace_Pre-Release_Pack",
+          "text": "Blast Ace Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "蛇颈龙兽",
+  "traditionalChinese": "蛇頸龍獸",
+  "type": "Plesiosaur"
+}

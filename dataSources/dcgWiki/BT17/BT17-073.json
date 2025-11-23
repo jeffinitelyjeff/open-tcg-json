@@ -1,0 +1,161 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Dorugoramon]: Cost 2",
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "[Trash] [All Turns] When one of your [Dorugoramon] would be deleted, by digivolving it into this card without paying the cost, prevent that deletion.\n[When Digivolving] ＜De-Digivolve  3＞ 1 of your opponent's Digimon. (Trash up to 3 cards from the top. You can't trash past level 3 cards.) Then, if [Dorugoramon] is in this Digimon's digivolution cards or this card is digivolving from the trash, delete all of your opponent's Digimon with the lowest level.\n[All Turns] [Once Per Turn] When another Digimon is deleted, you may unsuspend this Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "5",
+      "level": "5"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "5",
+      "level": "5"
+    }
+  ],
+  "dp": "13000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-073.png",
+        "imgName": "BT17-073.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/df/BT17-073.png/revision/latest?cb=20240720080102",
+        "uploadDate": "2024-07-20T08:01:02"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-073_P1.png",
+        "imgName": "BT17-073_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f4/BT17-073_P1.png/revision/latest?cb=20240720080319",
+        "uploadDate": "2024-07-20T08:03:19"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-073-J.png",
+        "imgName": "BT17-073-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a1/BT17-073-J.png/revision/latest?cb=20240322062943",
+        "uploadDate": "2024-03-22T06:29:43"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-073-Sample-J.png",
+        "imgName": "BT17-073-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2b/BT17-073-Sample-J.png/revision/latest?cb=20240310054013",
+        "uploadDate": "2024-03-10T05:40:13"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-073_P1-J.png",
+        "imgName": "BT17-073_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/46/BT17-073_P1-J.png/revision/latest?cb=20240329090654",
+        "uploadDate": "2024-03-29T09:06:54"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-073_P1-Sample-J.png",
+        "imgName": "BT17-073_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/16/BT17-073_P1-Sample-J.png/revision/latest?cb=20240323064426",
+        "uploadDate": "2024-03-23T06:44:26"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/df/BT17-073.png/revision/latest?cb=20240720080102",
+  "level": "6",
+  "name": "DexDorugoramon",
+  "nameJapanese": "デクスドルゴラモン",
+  "nameTranslated": "DeathXDorugoramon",
+  "playCost": "13",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT17-073#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT17-073 (Sep. 6, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "It triggers at the timing when this card is in the trash and your [Dorugoramon] would be deleted.  [Trash] means that an effect can trigger and activate when the card is in the trash.",
+        "question": "When exactly is the timing when this card's [Trash] [All Turns] effect triggers?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.  However, the DP-reducing effect will be carried over after the [Dorugoramon] effect activates and digivolution occurs, therefore deletion will occur again if the DP is still 0 after the effect activates and digivolution occurs.",
+        "question": "If I use this card's [Trash] effect to digivolve when my [Dorugoramon] would be deleted by its DP becoming 0, can I prevent that deletion?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      }
+    ]
+  },
+  "type": "Undead/X Antibody/SoC"
+}

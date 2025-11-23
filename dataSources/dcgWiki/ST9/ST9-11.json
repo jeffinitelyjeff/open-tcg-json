@@ -1,0 +1,120 @@
+{
+  "altDigivolutionRequirements": "[DNA Digivolve] Green Lv.4 + Blue Lv.4 : Cost 0\nStack the 2 specified Digimon and digivolve unsuspended.",
+  "attribute": "Free",
+  "blockIcon": "01",
+  "cardEffects": "[When Digivolving] Suspend 1 of your opponent's Digimon. When DNA digivolving, that Digimon doesn't unsuspend during its owner's next unsuspend phase.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green / Blue",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-9:_Starter_Deck_Ultimate_Ancient_Dragon",
+        "captionText": "ST-9: Starter Deck Ultimate Ancient Dragon (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST9-11.png",
+        "imgName": "ST9-11.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d9/ST9-11.png/revision/latest?cb=20220422124923",
+        "uploadDate": "2022-04-22T12:49:23"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-9:_Starter_Deck_Ultimate_Ancient_Dragon",
+        "captionText": "ST-9: Starter Deck Ultimate Ancient Dragon (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST9-11-J.png",
+        "imgName": "ST9-11-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0b/ST9-11-J.png/revision/latest?cb=20211022041318",
+        "uploadDate": "2021-10-22T04:13:18"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d9/ST9-11.png/revision/latest?cb=20220422124923",
+  "inheritedEffect": "[Your Turn] This Digimon gets +1000 DP for each of its colors.",
+  "level": "5",
+  "name": "Dinobeemon",
+  "nameJapanese": "ディノビーモン",
+  "playCost": "8",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=ST9-11#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for ST9-11 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "When performing a non-DNA digivolution, only the “Suspend 1 of your opponent’s Digimon” part of the effect activates. The part of the effect that reads, “that Digimon doesn't unsuspend during its owner’s next unsuspend phase” only activates when DNA digivolving.",
+        "question": "Does this card’s [When Digivolving] effect activate when performing a non-DNA digivolution?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, only the colors of the top card are counted. If the card is a mono-colored Digimon card, it will be counted as a single color, even if its digivolution cards are different colors.",
+        "question": "Does this card’s inherited effect also count the colors of its digivolution cards?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-9:_Starter_Deck_Ultimate_Ancient_Dragon",
+          "text": "ST-9: Starter Deck Ultimate Ancient Dragon"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-9:_Starter_Deck_Ultimate_Ancient_Dragon",
+          "text": "ST-9: Starter Deck Ultimate Ancient Dragon"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-9:_Starter_Deck_Ultimate_Ancient_Dragon",
+          "text": "ST-9: Starter Deck Ultimate Ancient Dragon"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ]
+  },
+  "type": "Mutant"
+}

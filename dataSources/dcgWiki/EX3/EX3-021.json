@@ -1,0 +1,116 @@
+{
+  "attribute": "Data",
+  "blockIcon": "02",
+  "cardEffects": "[When Digivolving] Trash any 2 digivolution cards under 1 of your opponent's Digimon. Then, 1 of your opponent's Digimon with no digivolution cards can't attack or block until the end of your opponent's turn.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-021.png",
+        "imgName": "EX3-021.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6b/EX3-021.png/revision/latest?cb=20221111122902",
+        "uploadDate": "2022-11-11T12:29:02"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-021-J.png",
+        "imgName": "EX3-021-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/20/EX3-021-J.png/revision/latest?cb=20220722083952",
+        "uploadDate": "2022-07-22T08:39:52"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-021-Sample-J.png",
+        "imgName": "EX3-021-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2e/EX3-021-Sample-J.png/revision/latest?cb=20220702095810",
+        "uploadDate": "2022-07-02T09:58:10"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6b/EX3-021.png/revision/latest?cb=20221111122902",
+  "level": "5",
+  "name": "CrysPaledramon",
+  "nameJapanese": "クリスペイルドラモン",
+  "playCost": "7",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX3-021#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX3-021 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, different Digimon can be chosen.",
+        "question": "Can different Digimon be chosen for the target digivolution cards to trash and the target digivolution cards that \"can't attack or block\" for this card's [When Digivolving] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, this is possible.",
+        "question": "When this card's [When Digivolving] effect is activated on an opponent's Digimon with 4 digivolution cards, is it possible to trash the 1st and 3rd digivolution cards from the top?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-02: Extra Booster 2 Draconic Roar",
+        "foil&Rarity": "",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:P!k@ru",
+          "text": "p!k@ru"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+          "text": "EX-03: Theme Booster Draconic Roar"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:P!k@ru",
+          "text": "p!k@ru"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+          "text": "EX-03: Theme Booster Draconic Roar"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:P!k@ru",
+          "text": "p!k@ru"
+        }
+      }
+    ]
+  },
+  "type": "Dragonkin"
+}

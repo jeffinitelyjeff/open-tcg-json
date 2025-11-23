@@ -1,0 +1,159 @@
+{
+  "attribute": "Data",
+  "blockIcon": "01",
+  "cardEffects": "[When Digivolving] You may trash the top card of your security stack to reveal the top 6 cards of your deck. Add up to 2 level 6 or lower Digimon cards among them to your hand. Trash the remaining cards.\n[All Turns] [Once Per Turn] When a card is removed from your security stack, if you have 3 or fewer security cards, ＜Recovery +1 (Deck)＞ (Place the top card of your deck on top of your security stack.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "4",
+    "level": "5"
+  },
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-044.png",
+        "imgName": "BT6-044.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a1/BT6-044.png/revision/latest?cb=20210921061238",
+        "uploadDate": "2021-09-21T06:12:38"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-044_P1.png",
+        "imgName": "BT6-044_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/ce/BT6-044_P1.png/revision/latest?cb=20211001053927",
+        "uploadDate": "2021-10-01T05:39:27"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-044-J.png",
+        "imgName": "BT6-044-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cd/BT6-044-J.png/revision/latest?cb=20210521045913",
+        "uploadDate": "2021-05-21T04:59:13"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-044_P1-J.png",
+        "imgName": "BT6-044_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7f/BT6-044_P1-J.png/revision/latest?cb=20210528044249",
+        "uploadDate": "2021-05-28T04:42:49"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (Alternative Art) (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-044_P1-Sample-J.png",
+        "imgName": "BT6-044_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/17/BT6-044_P1-Sample-J.png/revision/latest?cb=20210529113344",
+        "uploadDate": "2021-05-29T11:33:44"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a1/BT6-044.png/revision/latest?cb=20210921061238",
+  "level": "6",
+  "name": "Dynasmon",
+  "nameJapanese": "デュナスモン",
+  "playCost": "12",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT6-044#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT6-044 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, this card’s [When Digivolving] effect reads “you may,” so you can choose whether or not to trash the top card of your security stack.",
+        "question": "Does this card’s [When Digivolving] effect force me to trash the top card of my security stack?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. You must trash a card from your security stack in order to activate it.",
+        "question": "Can I activate this card’s [When Digivolving] effect when my security stack is empty?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it does.",
+        "question": "I use this card’s [When Digivolving] effect to trash a card from my security stack. If there are 3 or fewer cards left in my security stack, does this card’s [All Turns] effect trigger?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Fundamentally, this is possible. However, the effects don’t activate simultaneously, but one at a time in order. Once <Recovery> results in you having 4 cards in your security stack, any remaining copies of the effect don't activate.  Any [BT6-044 Dynasmon] whose effects don’t activate can still be activated later in the turn.",
+        "question": "I have 2 or more copies of this Digimon in play. My opponent attacks with a Digimon, removing a card from my security stack. Do all of the effects on copies of this Digimon activate simultaneously, activating <Recovery +1 (Deck)> for each one?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "The [Security] effect activates first.   After the [Security] effect and any effects triggered by its activation have finished activating, this card’s [All Turns] effect activates.",
+        "question": "An opponent’s Digimon performs a security check, flipping over a card with a [Security] effect. Which activates first: This card’s [All Turns] effect, or the [Security] effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+          "text": "BT-06: Booster Double Diamond"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+          "text": "BT-06: Booster Double Diamond"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+          "text": "BT-06: Booster Double Diamond"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+          "text": "BT-06: Booster Double Diamond"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "type": "Holy Warrior/Royal Knight"
+}

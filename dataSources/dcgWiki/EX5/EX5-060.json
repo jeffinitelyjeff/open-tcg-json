@@ -1,0 +1,118 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] [When Digivolving] Your opponent plays 1 level 4 or lower Digimon card from their trash suspended without paying the cost. [On Play] effects on Digimon played by this effect don't activate.\n[All Turns] [Once Per Turn] When an effect plays an opponent's Digimon, you may play 1 purple Digimon card with a level less than or equal to it from your trash without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-060.png",
+        "imgName": "EX5-060.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fd/EX5-060.png/revision/latest?cb=20240112102921",
+        "uploadDate": "2024-01-12T10:29:21"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-060-J.png",
+        "imgName": "EX5-060-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b0/EX5-060-J.png/revision/latest?cb=20230818055404",
+        "uploadDate": "2023-08-18T05:54:04"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-060-Sample-J.png",
+        "imgName": "EX5-060-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cf/EX5-060-Sample-J.png/revision/latest?cb=20230728102514",
+        "uploadDate": "2023-07-28T10:25:14"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fd/EX5-060.png/revision/latest?cb=20240112102921",
+  "inheritedEffect": "＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.)",
+  "level": "5",
+  "name": "Dragomon",
+  "nameJapanese": "ダゴモン",
+  "nameTranslated": "Dagomon",
+  "playCost": "7",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX5-060#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX5-060 (Mar. 28, 2024)"
+      },
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX5-060#qaResult_card",
+        "num": 2,
+        "text": "Official English Q&A for EX5-060 (Sep. 13, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can't.  This effect reads \"your opponent plays,\" therefore you must play a card when possible.",
+        "question": "When my opponent activates this card's [On Play][When Digivolving] effect and I have a card that can be played from my trash, can I choose to not play it?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Level 4 or lower.  If the same reference to an \"X\" trigger condition being performed is made for an effect when it has a \"when X\" trigger condition, the state when the effect has triggered will be referenced. In this case, your opponent's Digimon was level 4 when this card's [All Turns] effect triggered, therefore you can play a level 4 or lower Digimon.",
+        "question": "My opponent's level 4 Digimon was played by an effect, then this card's [All Turns] effect and another effect triggered simultaneously. I activated the other effect, then the level of the Digimon that was played by an effect increased from 4 to 5.  If I then activate this card's [All Turns] effect, what levels of Digimon can I play?",
+        "reference": "[2]"
+      },
+      {
+        "answer": "Yes, you can.  If the same reference to an \"X\" trigger condition being performed is made for an effect when it has a \"when X\" trigger condition, the state when the effect has triggered will be referenced.  In this case, your opponent's Digimon was level 4 when this card's [All Turns] effect triggered, therefore you can play a level 4 or lower Digimon.",
+        "question": "My opponent's level 4 Digimon was played by an effect, then this card's [All Turns] effect and another effect triggered simultaneously. I activated the other effect, then the Digimon that was played by an effect was removed from the battle area.  If I then activate this card's [All Turns] effect, can I play a Digimon card?",
+        "reference": "[2]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ]
+  },
+  "type": "Aquabeast"
+}

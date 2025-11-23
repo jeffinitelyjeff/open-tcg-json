@@ -1,0 +1,199 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[DS] trait: Cost 3",
+  "attribute": "Vaccine",
+  "blockIcon": "04",
+  "cardEffects": "[Security] At the end of the battle, give 2 of your opponent's Digimon ＜Security A. -1＞ for the turn. (This Digimon checks 1 additional security card.) Then, add this card to the hand.\n[All Turns] While you have 1 or more memory, none of your opponent's Digimon can activate [When Digivolving] effects.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "3",
+    "level": "5"
+  },
+  "dp": "9000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+        "captionText": "EX-08: Extra Booster Chain of Liberation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-035.png",
+        "imgName": "EX8-035.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/40/EX8-035.png/revision/latest?cb=20241213123153",
+        "uploadDate": "2024-12-13T12:31:53"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+        "captionText": "EX-08: Extra Booster Chain of Liberation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-035_P1.png",
+        "imgName": "EX8-035_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/96/EX8-035_P1.png/revision/latest?cb=20241213123153",
+        "uploadDate": "2024-12-13T12:31:53"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+        "captionText": "EX-08: Extra Booster Chain of Liberation (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-035-J.png",
+        "imgName": "EX8-035-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/85/EX8-035-J.png/revision/latest?cb=20241122064122",
+        "uploadDate": "2024-11-22T06:41:22"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+        "captionText": "EX-08: Extra Booster Chain of Liberation (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-035-Sample-J.png",
+        "imgName": "EX8-035-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/97/EX8-035-Sample-J.png/revision/latest?cb=20241029063043",
+        "uploadDate": "2024-10-29T06:30:43"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+        "captionText": "EX-08: Extra Booster Chain of Liberation (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-035_P1-J.png",
+        "imgName": "EX8-035_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/93/EX8-035_P1-J.png/revision/latest?cb=20241129065733",
+        "uploadDate": "2024-11-29T06:57:33"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/40/EX8-035.png/revision/latest?cb=20241213123153",
+  "level": "6",
+  "name": "MarineAngemon",
+  "nameJapanese": "マリンエンジェモン",
+  "playCost": "9",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX8-035#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX8-035 (Jan. 10, 2025)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "It refers to when the memory gauge is at 1 or further to the left on your side.",
+        "question": "What position on the memory gauge does \"if you have 1 or more memory\" refer to?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "This effect prevents [When Digivolving] effects on cards from activating.  Triggered [When Digivolving] effects can no longer activate when a card digivolves or when effects such as \"activate that card's [When Digivolving]\" effect\" activate.",
+        "question": "What does \"can't [...] activate [When Digivolving] effects\" mean, exactly?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.  The effect can activate if it's triggered upon the [When Attacking] timing.",
+        "question": "I used a card affected by \"can't [...] activate [When Digivolving] effects\" to attack.  Can I activate that card's [When Digivolving] [When Attacking] effect at such times?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it can't be activated.",
+        "question": "If a card is affected by \"can't [...] activate [When Digivolving] effects,\" can it activate its own [When Digivolving] effect using an effect such as \"activate 1 of that card's [When Digivolving] effects\"?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it can't be activated.",
+        "question": "If a card is affected by \"can't [...] activate [When Digivolving] effects,\" can another card's [When Digivolving] effect be activated using an effect such as \"activate 1 of that card's [When Digivolving] effects as an effect of this card\"?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "Can I use \"activate 1 of that card's [When Digivolving] effects as an effect of this card\" on a card that isn't affected by \"can't [...] activate [When Digivolving] effects\" to activate the [When Digivolving] effect on another card that's affected by \"can't [...] activate [When Digivolving] effects\"?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't.",
+        "question": "If a card is affected by \"can't [...] activate [When Digivolving] effects,\" can I process just the \"by doing X\" condition in its [When Digivolving] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it doesn't count.  The effect can't activate upon the [When Digivolving] timing, therefore it doesn't count as an instance of that effect's [X Per Turn].",
+        "question": "A card digivolved into a card that has a [When Digivolving] [When Attacking] [Once Per Turn] effect while \"can't [...] activate [When Digivolving] effects\" was activated.  Does that count as an instance of that effect's [X Per Turn] even if that effect can't be activated upon the timing when that card digivolved?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
+        }
+      }
+    ]
+  },
+  "type": "Fairy/DS"
+}

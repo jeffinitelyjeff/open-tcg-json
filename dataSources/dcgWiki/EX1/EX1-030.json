@@ -1,0 +1,148 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "01",
+  "cardEffects": "[When Attacking] If you have 3 or more security cards, 1 of your opponent's Digimon and all of your opponent's security Digimon get -3000 DP for the turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-030.png",
+        "imgName": "EX1-030.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c6/EX1-030.png/revision/latest?cb=20211126152123",
+        "uploadDate": "2021-11-26T15:21:23"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-030_P1.png",
+        "imgName": "EX1-030_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a8/EX1-030_P1.png/revision/latest?cb=20211203111529",
+        "uploadDate": "2021-12-03T11:15:29"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-030-J.png",
+        "imgName": "EX1-030-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2b/EX1-030-J.png/revision/latest?cb=20210721041515",
+        "uploadDate": "2021-07-21T04:15:15"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-030_P1-J.png",
+        "imgName": "EX1-030_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8e/EX1-030_P1-J.png/revision/latest?cb=20210730160811",
+        "uploadDate": "2021-07-30T16:08:11"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (Alternative Art) (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-030_P1-Sample-J.png",
+        "imgName": "EX1-030_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/df/EX1-030_P1-Sample-J.png/revision/latest?cb=20210706110815",
+        "uploadDate": "2021-07-06T11:08:15"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c6/EX1-030.png/revision/latest?cb=20211126152123",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When a card is added to your security stack, 1 of your opponent's Digimon gets -2000 DP for the turn.",
+  "korean": "엔젤우몬",
+  "level": "5",
+  "name": "Angewomon",
+  "nameJapanese": "エンジェウーモン",
+  "playCost": "8",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX1-030#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX1-030 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes. The effect gives “all of your opponent’s Security Digimon -3000 DP for the turn,” so every Security Digimon flipped over for the duration of the turn gets -3000 DP.",
+        "question": "This Digimon’s attack ends and I attack my opponent with another Digimon. Does this card’s [When Attacking] effect still give my opponent’s Security Digimon -3000 DP?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. So long as you had 3 or more security cards at the time you activated this card’s effect, the effect will persist until the end of the turn, even if you end up with 2 or fewer security cards.",
+        "question": "After giving 1 of my opponent’s Digimon and all of my opponent’s Security Digimon -3000 DP, I end up with 2 or fewer security cards. Does this card’s -3000 DP effect go away?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-01: Extra Booster",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": "EXC-01: Extra Booster",
+        "foil&Rarity": "Textured - Classic Art - Alternative Art",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "Textured - Classic Art - Alternative Art",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "Textured - Classic Art - Alternative Art",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "simplifiedChinese": "天女兽",
+  "traditionalChinese": "天女獸",
+  "type": "Archangel"
+}

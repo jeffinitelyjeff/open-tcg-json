@@ -1,0 +1,115 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] [When Digivolving] Reveal the top 3 cards of your deck. Add 1 card with the [Angel], [Archangel] or [Fallen Angel] trait and 1 [Mirei Mikagura] among them to the hand. Return the rest to the bottom of the deck.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "2",
+      "level": "3"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "2",
+      "level": "3"
+    }
+  ],
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-020.png",
+        "imgName": "EX6-020.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6f/EX6-020.png/revision/latest?cb=20240621073102",
+        "uploadDate": "2024-06-21T07:31:02"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-020-J.png",
+        "imgName": "EX6-020-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/06/EX6-020-J.png/revision/latest?cb=20240216085320",
+        "uploadDate": "2024-02-16T08:53:20"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-020-Sample-J.png",
+        "imgName": "EX6-020-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a2/EX6-020-Sample-J.png/revision/latest?cb=20240121071638",
+        "uploadDate": "2024-01-21T07:16:38"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6f/EX6-020.png/revision/latest?cb=20240621073102",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] 1 of your opponent's Digimon gets -2000 DP for the turn.",
+  "level": "4",
+  "name": "Gatomon",
+  "nameJapanese": "テイルモン",
+  "nameTranslated": "Tailmon",
+  "playCost": "4",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX6-020#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX6-020 (Jun. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, even if you only reveal one of the applicable cards, you can still add it to your hand.",
+        "question": "If the cards I reveal from my deck for this card's [On Play] [When Digivolving] effect include only either a card with the [Angel], [Archangel] or [Fallen Angel] trait or a [Mirei Mikagura], can I only add 1 card to my hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. If you have cards that are targets of this effect, you must add as many cards to your hand as possible.",
+        "question": "If the cards I reveal from my deck for this card's [On Play] [When Digivolving] effect include both a card with the [Angel], [Archangel] or [Fallen Angel] trait and a [Mirei Mikagura], can I choose to only add one of them to my hand, and place the remaining cards at the bottom of my deck?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ]
+  },
+  "type": "Holy Beast"
+}

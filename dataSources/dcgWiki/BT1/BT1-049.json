@@ -1,0 +1,147 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "00",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BTC-01:_Booster_Ultimate_Evolution",
+        "captionText": "BTC-01: Booster Ultimate Evolution (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-049-C.png",
+        "imgName": "BT1-049-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a2/BT1-049-C.png/revision/latest?cb=20230828233604",
+        "uploadDate": "2023-08-28T23:36:04"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+        "captionText": "BT01-03: Release Special Booster Ver.1.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-049.png",
+        "imgName": "BT1-049.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0f/BT1-049.png/revision/latest?cb=20201212014713",
+        "uploadDate": "2020-12-12T01:47:13"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-01:_Booster_New_Evolution",
+        "captionText": "BT-01: Booster New Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-049-J.png",
+        "imgName": "BT1-049-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/91/BT1-049-J.png/revision/latest?cb=20201213121512",
+        "uploadDate": "2020-12-13T12:15:12"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+        "captionText": "BT01-03: Release Special Booster Ver.1.0 (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-049-K.png",
+        "imgName": "BT1-049-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/49/BT1-049-K.png/revision/latest?cb=20230814073337",
+        "uploadDate": "2023-08-14T07:33:37"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0f/BT1-049.png/revision/latest?cb=20201212014713",
+  "inheritedEffect": "[Your Turn] When an opponent's Digimon is deleted by dropping to 0 DP, ＜Draw 1＞ (Draw 1 card from your deck.).",
+  "korean": "래브라몬",
+  "level": "3",
+  "name": "Labramon",
+  "nameJapanese": "ラブラモン",
+  "playCost": "3",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT1-049#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT1-049 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, if multiple Digimon are deleted at the same time, you can only draw 1 card.",
+        "question": "Two of my opponent's Digimon reach zero DP and are deleted simultaneously. Can I draw 2 cards?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, the deletion of multiple Digimon using [BT2-041 ShineGreymon]'s skill is treated as occurring at the same timing, so you only draw 1 card.",
+        "question": "I use BT2-041 [ShineGreymon]'s [When Digivolving] effect to delete 2 or more of my opponent's Digimon simultaneously. Does this mean I can draw 2 cards?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BTC-01:_Booster_Ultimate_Evolution",
+          "text": "BTC-01: Booster Ultimate Evolution"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+          "text": "BT01-03: Release Special Booster Ver.1.0"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-01:_Booster_New_Evolution",
+          "text": "BT-01: Booster New Evolution"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+          "text": "BT01-03: Release Special Booster Ver.1.0"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "拉布拉兽",
+  "traditionalChinese": "拉布拉獸",
+  "type": "Beast"
+}

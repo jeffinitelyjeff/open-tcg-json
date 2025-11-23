@@ -1,0 +1,120 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Lanamon]: Cost 1",
+  "attribute": "Variable",
+  "blockIcon": "04",
+  "cardEffects": "[On Play] [When Digivolving] If a level 3 Digimon card Is in this Digimon's digivolution cards, return 1 of your opponent's level 4 or lower Digimon to the hand. If there isn't, you may place 1 blue level 3 Digimon card from your hand as this Digimon's bottom digivolution card.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "3",
+      "form": "Tamer"
+    }
+  ],
+  "dp": "6000 DP",
+  "form": "Hybrid",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-024.png",
+        "imgName": "BT18-024.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1f/BT18-024.png/revision/latest?cb=20241011091642",
+        "uploadDate": "2024-10-11T09:16:42"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-024-J.png",
+        "imgName": "BT18-024-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/27/BT18-024-J.png/revision/latest?cb=20240621114656",
+        "uploadDate": "2024-06-21T11:46:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-024-Sample-J.png",
+        "imgName": "BT18-024-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/48/BT18-024-Sample-J.png/revision/latest?cb=20240529091138",
+        "uploadDate": "2024-05-29T09:11:38"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1f/BT18-024.png/revision/latest?cb=20241011091642",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] You may return 1 level 3 Digimon to the hand.",
+  "level": "4",
+  "name": "Calmaramon",
+  "nameJapanese": "ラーナモン",
+  "playCost": "6",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT18-024#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT18-024 (Nov. 1, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, it digivolves from the Tamer as-is.",
+        "question": "Does this card's digivolution requirement where it can digivolve from a Tamer mean that the Tamer that will become a digivolution card is treated as a Digimon when it digivolves?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it isn't considered a Digimon that would digivolve.  When a Tamer would digivolve using this card's digivolution requirement, \"when a Digimon would digivolve\" effects don't trigger.",
+        "question": "When a Tamer would digivolve using this card's digivolution requirement, is it considered a Digimon that would digivolve?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it isn't considered a Digimon that digivolves.  When a Tamer digivolves using this card's digivolution requirement, \"when a Digimon digivolves\" effects don't trigger.",
+        "question": "When a Tamer digivolves using this card's digivolution requirement, is it considered a Digimon that digivolves?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+          "text": "BT18-19: Special Booster Ver.2.0"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+          "text": "BT-18: Booster Elemental Successor"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ]
+  },
+  "type": "Aquatic"
+}

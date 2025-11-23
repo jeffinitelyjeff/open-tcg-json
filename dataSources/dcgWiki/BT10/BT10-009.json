@@ -1,0 +1,142 @@
+{
+  "attribute": "Data",
+  "blockIcon": "02",
+  "cardEffects": "＜Material Save 2＞ (When this Digimon would be deleted, you may place 2 cards in this Digimon's DigiXros requirements from this Digimon's digivolution cards under 1 of your Tamers.)\n[On Play] ＜Draw 2＞ (Draw 2 cards from your deck.)\n[End of Attack] By placing all digivolution cards from under this Digimon under 1 of your Tamers, unsuspend 1 of your Tamers, and delete this Digimon.",
+  "cardRestriction": {
+    "chinese": "Restricted to 1",
+    "english": "Restricted to 1",
+    "korean": "Not released",
+    "nameJapanese": "Restricted to 1"
+  },
+  "cardType": "Digimon",
+  "color": "Red / Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "digixrosRequirements": "[DigiXros -2] [Shoutmon] x [Ballistamon] x [Dorulumon] x [Starmons] \nWhen this would be played, you may place specified cards from your hand/battle area under it. Each one reduces the play cost.",
+  "dp": "8000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-009.png",
+        "imgName": "BT10-009.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4c/BT10-009.png/revision/latest?cb=20221007205356",
+        "uploadDate": "2022-10-07T20:53:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Xros_Encounter_Pre-Release_Pack",
+        "captionText": "Xros Encounter Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-009_P0.png",
+        "imgName": "BT10-009_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/84/BT10-009_P0.png/revision/latest?cb=20221022205946",
+        "uploadDate": "2022-10-22T20:59:46"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-009-J.png",
+        "imgName": "BT10-009-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a3/BT10-009-J.png/revision/latest?cb=20231023151635",
+        "uploadDate": "2023-10-23T15:16:35"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4c/BT10-009.png/revision/latest?cb=20221007205356",
+  "level": "4",
+  "name": "Shoutmon X4",
+  "nameJapanese": "シャウトモンX4",
+  "playCost": "9",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT10-009#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT10-009 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.",
+        "question": "Can I choose not to activate this card’s [End of Attack] effect by not performing \"placing all digivolution cards from under this Digimon under 1 of your Tamers\", thus preventing this Digimon from being deleted?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it doesn't activate unless you can perform \"placing all digivolution cards from under this Digimon under 1 of your Tamers.\"",
+        "question": "Can I activate this card's [End of Attack] effect if this Digimon doesn't have any digivolution cards?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "If I activate this card's [End of Attack] effect, can I unsuspend a different Tamer than the Tamer under which I placed the digivolution cards?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Xros_Encounter_Pre-Release_Pack",
+          "text": "Xros Encounter Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "高吼兽X4",
+  "traditionalChinese": "咆哮獸X4",
+  "type": "Composite/Xros Heart"
+}

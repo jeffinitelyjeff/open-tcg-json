@@ -1,0 +1,135 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "01",
+  "cardEffects": "[End of Attack] You may place this Digimon under 1 of your other Digimon as its bottom digivolution card.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "3",
+    "level": "5"
+  },
+  "dp": "11000 DP",
+  "errata": [
+    {
+      "afterImageURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7b/EX2-028-J.png/revision/latest?cb=20211217092416",
+      "afterText": "【アタック終了時】このデジモンを他の自分のデジモン1体の進化元の1番下に置ける。",
+      "beforeText": "【アタック終了時】このデジモンを自分のデジモン1体の進化元の1番下に置ける。"
+    }
+  ],
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+        "captionText": "EX-02: Theme Booster Digital Hazard (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX2-028.png",
+        "imgName": "EX2-028.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0b/EX2-028.png/revision/latest?cb=20220617101759",
+        "uploadDate": "2022-06-17T10:17:59"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+        "captionText": "EX-02: Theme Booster Digital Hazard (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX2-028-J.png",
+        "imgName": "EX2-028-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7b/EX2-028-J.png/revision/latest?cb=20211217092416",
+        "uploadDate": "2021-12-17T09:24:16"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+        "captionText": "EX-02: Theme Booster Digital Hazard (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX2-028-Sample-J.png",
+        "imgName": "EX2-028-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/41/EX2-028-Sample-J.png/revision/latest?cb=20211204073709",
+        "uploadDate": "2021-12-04T07:37:09"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0b/EX2-028.png/revision/latest?cb=20220617101759",
+  "inheritedEffect": "＜Security A. +1＞ (This Digimon checks 1 additional security card.)\n[Your Turn] This Digimon gets +2000 DP.",
+  "level": "6",
+  "name": "Parasitemon",
+  "nameJapanese": "パラサイモン",
+  "nameTranslated": "Parasimon",
+  "playCost": "11",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX2-028#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX2-028 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "They're trashed.  Only this card will be placed in your Digimon's digivolution cards by this effect.",
+        "question": "With this card’s [End of Attack] effect, I place this Digimon under one of my other Digimon as its bottom digivolution card. What happens to the digivolution cards under this Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it can.",
+        "question": "Can this card's [End of Attack] effect place this card under one of my Digimon that doesn't have a level?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can activate both.",
+        "question": "This card has two inherited effects. If this card becomes a digivolution card, can I activate both effects?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't.  This card's Japanese [End of Attack] effect was corrected so that the target is \"your other Digimon.\"  Please see the notices regarding changes to the rules/rulings on the official website.",
+        "question": "Can I use this card's [End of Attack] effect on this Digimon itself to place this card under this Digimon as its bottom digivolution card?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-01: Extra Booster",
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+          "text": "EX-02: Theme Booster Digital Hazard"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+          "text": "EX-02: Theme Booster Digital Hazard"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ]
+  },
+  "type": "Parasite"
+}

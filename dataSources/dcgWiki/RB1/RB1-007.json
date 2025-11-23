@@ -1,0 +1,107 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "02",
+  "cardEffects": "[Your Turn] While this Digimon has an [Agumon] digivolution card, it gains ＜Security A. +1＞  (This Digimon checks 1 additional security card.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-007.png",
+        "imgName": "RB1-007.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e1/RB1-007.png/revision/latest?cb=20230901095550",
+        "uploadDate": "2023-09-01T09:55:50"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-007-J.png",
+        "imgName": "RB1-007-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3f/RB1-007-J.png/revision/latest?cb=20231016123906",
+        "uploadDate": "2023-10-16T12:39:06"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e1/RB1-007.png/revision/latest?cb=20230901095550",
+  "korean": "그레이몬",
+  "level": "4",
+  "name": "Greymon",
+  "nameJapanese": "グレイモン",
+  "playCost": "5",
+  "rarity": "Rare",
+  "rule": "[Rule] Card Number: Also treated as [P-010]. A deck may not have more than 4 total copies of this and [P-010].",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=RB1-007#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for RB1-007 (Sep. 13, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "This is a special rule for this card that always treats it as if it also has the card number [P-010] and states that only up to 4 copies total can be included in a deck together with [P-010].",
+        "question": "What does this card's (Rule) mean, exactly?  (*This card's \"※Card Number: Also treated as [P-010]. A deck may not have more than 4 total copies of this and [P-010]\" has been changed to \"(Rule) Card Number: Also treated as [P-010]. A deck may not have more than 4 total copies of this and [P-010].\")",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-07: Booster Great Warrior",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "暴龙兽",
+  "traditionalChinese": "暴龍獸",
+  "type": "Dinosaur"
+}

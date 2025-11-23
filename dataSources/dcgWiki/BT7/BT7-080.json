@@ -1,0 +1,183 @@
+{
+  "attribute": "Data",
+  "blockIcon": "01",
+  "cardEffects": "[On Play] You may play 1 Tamer card with an inherited effect from your hand without paying its memory cost.\n[All Turns] [Once Per Turn] When one of your Digimon with a Tamer card in its digivolution cards is deleted, you may play 1 Tamer card from your trash without paying its memory cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "White",
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-080.png",
+        "imgName": "BT7-080.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/45/BT7-080.png/revision/latest?cb=20220218130629",
+        "uploadDate": "2022-02-18T13:06:29"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Store_Championship_2022_Participant_Pack",
+        "captionText": "Store Championship 2022 Participant Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-080_P1.png",
+        "imgName": "BT7-080_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b7/BT7-080_P1.png/revision/latest?cb=20220610072714",
+        "uploadDate": "2022-06-10T07:27:14"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Store_Championships_2022",
+        "captionText": "Store Championships 2022 (1st Place Prize) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-080_P2.png",
+        "imgName": "BT7-080_P2.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/57/BT7-080_P2.png/revision/latest?cb=20220610072715",
+        "uploadDate": "2022-06-10T07:27:15"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/PB-12E:_Digimon_Card_Game_2nd_Anniversary_Set",
+        "captionText": "PB-12E: Digimon Card Game 2nd Anniversary Set (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-080_P3.png",
+        "imgName": "BT7-080_P3.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c0/BT7-080_P3.png/revision/latest?cb=20230203022144",
+        "uploadDate": "2023-02-03T02:21:44"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-080-J.png",
+        "imgName": "BT7-080-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e7/BT7-080-J.png/revision/latest?cb=20210820091101",
+        "uploadDate": "2021-08-20T09:11:01"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/PB-12:_Digimon_Frontier_20th_Memorial_Set",
+        "captionText": "PB-12: Digimon Frontier 20th Memorial Set (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-080_P1-J.png",
+        "imgName": "BT7-080_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/18/BT7-080_P1-J.png/revision/latest?cb=20220801164759",
+        "uploadDate": "2022-08-01T16:47:59"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-080-Sample-J.png",
+        "imgName": "BT7-080-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f8/BT7-080-Sample-J.png/revision/latest?cb=20210817091305",
+        "uploadDate": "2021-08-17T09:13:05"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/45/BT7-080.png/revision/latest?cb=20220218130629",
+  "level": "3",
+  "name": "Neemon",
+  "nameJapanese": "ネーモン",
+  "nameTranslated": "Neamon",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT7-080#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT7-080 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it can.",
+        "question": "A Tamer card is in a Digimon’s digivolution cards. If that Digimon is deleted, can this card's [All Turns] effect play the Tamer card that used to be in that Digimon’s digivolution cards from my trash without paying its memory cost?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Store_Championship_2022_Participant_Pack",
+          "text": "Store Championship 2022 Participant Pack"
+        },
+        "foil&Rarity": "Foil - Participation Stamp - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ryodan",
+          "text": "Ryodan"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Store_Championships_2022",
+          "text": "Store Championships 2022"
+        },
+        "foil&Rarity": "Foil - Champion Stamp - 1st Place Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ryodan",
+          "text": "Ryodan"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/PB-12E:_Digimon_Card_Game_2nd_Anniversary_Set",
+          "text": "PB-12E: Digimon Card Game 2nd Anniversary Set"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/PB-12:_Digimon_Frontier_20th_Memorial_Set",
+          "text": "PB-12: Digimon Frontier 20th Memorial Set"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ]
+  },
+  "type": "Beast"
+}

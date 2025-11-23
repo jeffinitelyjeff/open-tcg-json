@@ -1,0 +1,107 @@
+{
+  "blockIcon": "01",
+  "cardEffects": "[Main] Delete 1 of your opponent's Digimon with 4000 DP or less. If you have a Digimon in play with 2 or more colors, or with 2 or more colors in its digivolution cards, delete 1 of your opponent's Digimon with 7000 DP or less instead.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Red",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-096.png",
+        "imgName": "BT8-096.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/21/BT8-096.png/revision/latest?cb=20220422124932",
+        "uploadDate": "2022-04-22T12:49:32"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-096-J.png",
+        "imgName": "BT8-096-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/95/BT8-096-J.png/revision/latest?cb=20211119075610",
+        "uploadDate": "2021-11-19T07:56:10"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-096-Sample-J.png",
+        "imgName": "BT8-096-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/db/BT8-096-Sample-J.png/revision/latest?cb=20211023092933",
+        "uploadDate": "2021-10-23T09:29:33"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/21/BT8-096.png/revision/latest?cb=20220422124932",
+  "name": "Top Gun",
+  "nameJapanese": "トップガン",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT8-096#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT8-096 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, it doesn't.  The effect is looking for a Digimon with a digivolution card that has 2 or more colors.",
+        "question": "Does this card’s “If you have a Digimon in play with...2 or more colors in one of its digivolution cards” count a Digimon that has both a red card and a blue card in its digivolution cards?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it doesn't.  Effects that grant additional colors don't do anything as digivolution cards, so the card is only treated as a single color.",
+        "question": "Does this card’s “If you have a Digimon in play with...2 or more colors in one of its digivolution cards” count a Digimon with a card like [BT3-040 Shakkoumon]’s “This Digimon is also treated as blue” in its digivolution cards?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Activate this card's [Main] effects.",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ]
+  },
+  "useCost": "3"
+}

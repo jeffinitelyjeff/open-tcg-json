@@ -1,0 +1,90 @@
+{
+  "blockIcon": "04",
+  "cardEffects": "[On Play] For each digivolution card of 1 of your [Mother D-Reaper]s, 1 of your opponent's Digimon gets -1000 for the turn.\n[Main] Place this Digimon as the bottom digivolution card of 1 of your [Mother D-Reaper] without [ADR-01 Jeri] in its digivolution cards.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "White",
+  "dp": "2000 DP",
+  "form": "D-Reaper",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-078.png",
+        "imgName": "BT19-078.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8f/BT19-078.png/revision/latest?cb=20250207065615",
+        "uploadDate": "2025-02-07T06:56:15"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-078-J.png",
+        "imgName": "BT19-078-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7d/BT19-078-J.png/revision/latest?cb=20240920100437",
+        "uploadDate": "2024-09-20T10:04:37"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-078-Sample-J.png",
+        "imgName": "BT19-078-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f1/BT19-078-Sample-J.png/revision/latest?cb=20240906054445",
+        "uploadDate": "2024-09-06T05:44:45"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8f/BT19-078.png/revision/latest?cb=20250207065615",
+  "inheritedEffect": "[Opponent's Turn] When any of your opponent's Digimon attack, you may play 1 [ADR-01 Jeri] from this Digimon's digivolution cards without paying the cost. If you played, you may change the attack target to the Digimon played by this effect.",
+  "name": "ADR-01 Jeri",
+  "nameJapanese": "ADR-01=ジュリ",
+  "nameTranslated": "ADR-01=Juri",
+  "playCost": "5",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=2024/09/20#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for 2024/09/20 (translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "BT19-078",
+        "question": "Yes, it is possible.",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+          "text": "BT-19: Booster Xros Evolution"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "type": "Espionage Agent"
+}

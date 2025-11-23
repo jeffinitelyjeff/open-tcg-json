@@ -1,0 +1,172 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Terriermon]/[Lopmon] in name: Cost 2",
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] [When Digivolving] Delete 1 level 3 or lower Digimon. If this effect deleted one of your Digimon, you may play 1 level 3 Digimon card with [Terriermon] or [Lopmon] in its name from your trash without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green / Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-17:_Advanced_Deck_Set_Double_Typhoon",
+        "captionText": "ST-17: Advanced Deck Set Double Typhoon (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST17-04.png",
+        "imgName": "ST17-04.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1a/ST17-04.png/revision/latest?cb=20240313231308",
+        "uploadDate": "2024-03-13T23:13:08"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-17:_Advanced_Deck_Set_Double_Typhoon",
+        "captionText": "ST-17: Advanced Deck Set Double Typhoon (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST17-04_P1.png",
+        "imgName": "ST17-04_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/29/ST17-04_P1.png/revision/latest?cb=20240313231308",
+        "uploadDate": "2024-03-13T23:13:08"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Double_Typhoon_Pre-Release_Pack",
+        "captionText": "Double Typhoon Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST17-04_P0.png",
+        "imgName": "ST17-04_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9f/ST17-04_P0.png/revision/latest?cb=20240315132224",
+        "uploadDate": "2024-03-15T13:22:24"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-17:_Advanced_Deck_Set_Double_Typhoon",
+        "captionText": "ST-17: Advanced Deck Set Double Typhoon (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST17-04-J.png",
+        "imgName": "ST17-04-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cc/ST17-04-J.png/revision/latest?cb=20231117101603",
+        "uploadDate": "2023-11-17T10:16:03"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-17:_Advanced_Deck_Set_Double_Typhoon",
+        "captionText": "ST-17: Advanced Deck Set Double Typhoon (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST17-04-Sample-J.png",
+        "imgName": "ST17-04-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e0/ST17-04-Sample-J.png/revision/latest?cb=20231023052746",
+        "uploadDate": "2023-10-23T05:27:46"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-17:_Advanced_Deck_Set_Double_Typhoon",
+        "captionText": "ST-17: Advanced Deck Set Double Typhoon (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST17-04_P1-J.png",
+        "imgName": "ST17-04_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b4/ST17-04_P1-J.png/revision/latest?cb=20231224090915",
+        "uploadDate": "2023-12-24T09:09:15"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1a/ST17-04.png/revision/latest?cb=20240313231308",
+  "inheritedEffect": "[All Turns] While this Digimon is suspended, it gets +1000 DP.",
+  "level": "4",
+  "name": "Wendigomon",
+  "nameJapanese": "ウェンディモン",
+  "playCost": "5",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=ST17-04#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for ST17-04 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes. You must delete your own Digimon if you have a corresponding Digimon while your opponent doesn't.",
+        "question": "If my opponent doesn't have any level 3 or lower Digimon, do I have to delete my level 3 or lower Digimon for this card's effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "If I use this card's effect to delete my level 3 Digimon with [Terriermon], can I then use this effect to play that deleted Digimon card from my trash without paying the cost?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-17:_Advanced_Deck_Set_Double_Typhoon",
+          "text": "ST-17: Advanced Deck Set Double Typhoon"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-17:_Advanced_Deck_Set_Double_Typhoon",
+          "text": "ST-17: Advanced Deck Set Double Typhoon"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Double_Typhoon_Pre-Release_Pack",
+          "text": "Double Typhoon Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-17:_Advanced_Deck_Set_Double_Typhoon",
+          "text": "ST-17: Advanced Deck Set Double Typhoon"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-17:_Advanced_Deck_Set_Double_Typhoon",
+          "text": "ST-17: Advanced Deck Set Double Typhoon"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ]
+  },
+  "type": "Beastkin"
+}

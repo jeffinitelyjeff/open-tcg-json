@@ -1,0 +1,93 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[On Play]  By trashing 1 card with the [Blue Flare] trait or [Twilight] trait in your hand, ＜Draw 2＞ (Draw 2 cards from your deck.)\n[On Deletion] Reveal the top card of your deck. If that card has the [Blue Flare] trait or [Twilight] trait, add it to your hand. Trash the rest.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+        "captionText": "EX-04: Theme Booster Alternative Being (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX4-041.png",
+        "imgName": "EX4-041.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2b/EX4-041.png/revision/latest?cb=20230623132842",
+        "uploadDate": "2023-06-23T13:28:42"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+        "captionText": "EX-04: Theme Booster Alternative Being (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX4-041-J.png",
+        "imgName": "EX4-041-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4e/EX4-041-J.png/revision/latest?cb=20221216140138",
+        "uploadDate": "2022-12-16T14:01:38"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+        "captionText": "EX-04: Theme Booster Alternative Being (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX4-041-Sample-J.png",
+        "imgName": "EX4-041-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9f/EX4-041-Sample-J.png/revision/latest?cb=20221211062239",
+        "uploadDate": "2022-12-11T06:22:39"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2b/EX4-041.png/revision/latest?cb=20230623132842",
+  "inheritedEffect": "[All Turns] This Digimon gets +1000 DP.",
+  "level": "4",
+  "name": "DeadlyAxemon",
+  "nameJapanese": "デッドリーアックスモン",
+  "playCost": "4",
+  "rarity": "Common",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+          "text": "EX-04: Theme Booster Alternative Being"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+          "text": "EX-04: Theme Booster Alternative Being"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ]
+  },
+  "type": "Dark Animal/Twilight"
+}

@@ -1,0 +1,109 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[On Play] [When Digivolving] Reveal the top 3 cards of your deck. Add 1 purple or black Digimon card among them to your hand. Place the rest at the top or bottom of your deck in any order.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "6000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-080.png",
+        "imgName": "BT12-080.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e0/BT12-080.png/revision/latest?cb=20230421194635",
+        "uploadDate": "2023-04-21T19:46:35"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-080-J.png",
+        "imgName": "BT12-080-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1e/BT12-080-J.png/revision/latest?cb=20221111110527",
+        "uploadDate": "2022-11-11T11:05:27"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-080-Sample-J.png",
+        "imgName": "BT12-080-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c2/BT12-080-Sample-J.png/revision/latest?cb=20221019091206",
+        "uploadDate": "2022-10-19T09:12:06"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e0/BT12-080.png/revision/latest?cb=20230421194635",
+  "inheritedEffect": "＜Blocker＞ (This Digimon can block in the blocker timing.)",
+  "level": "5",
+  "name": "Wisemon",
+  "nameJapanese": "ワイズモン",
+  "playCost": "6",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncardgame.fandom.com/wiki/BT12-080/Gallery?file=BT12-080-J.png",
+        "num": 1,
+        "text": "BT12-080 original Japanese card text"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you must place all cards at the top or all cards at the bottom.",
+        "question": "When I place 2-3 cards at the top or bottom of my deck for this card's [On Play] [When Digivolving] effect, can I place some cards at the top and some at the bottom?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ]
+  },
+  "type": "Wizard"
+}

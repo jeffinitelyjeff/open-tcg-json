@@ -1,0 +1,144 @@
+{
+  "attribute": "Data",
+  "blockIcon": "00",
+  "cardEffects": "[On Deletion] Place 1 [Palmon] from your trash under 1 of your green Digimon at the bottom of its digivolution cards.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": null,
+        "captionText": "BTC-03: Booster Diamond Legend (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-047-C.png",
+        "imgName": "BT5-047-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/75/BT5-047-C.png/revision/latest?cb=20231120181439",
+        "uploadDate": "2023-11-20T18:14:39"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-047.png",
+        "imgName": "BT5-047.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5c/BT5-047.png/revision/latest?cb=20210720175541",
+        "uploadDate": "2021-07-20T17:55:41"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-047-J.png",
+        "imgName": "BT5-047-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9e/BT5-047-J.png/revision/latest?cb=20240111182122",
+        "uploadDate": "2024-01-11T18:21:22"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-047-K.png",
+        "imgName": "BT5-047-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4b/BT5-047-K.png/revision/latest?cb=20230819153407",
+        "uploadDate": "2023-08-19T15:34:07"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5c/BT5-047.png/revision/latest?cb=20210720175541",
+  "korean": "팔몬",
+  "level": "3",
+  "name": "Palmon",
+  "nameJapanese": "パルモン",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT5-047#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT5-047 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.",
+        "question": "This card is being deleted. Can I use this card's effect to place it at the bottom of 1 of my green Digimon's digivolution cards?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can. The [On Deletion] effect is activated while treated as [Sukamon], but the name changing effect is lost when the card is deleted and placed in the trash, so you can treat this card as a [Palmon] card.",
+        "question": "This card that was targeted by [BT11-043 KingSukamon]'s effect and had its name changed to [Sukamon] is deleted. If I have no other [Palmon] in the trash, can I place this same card at the bottom of the digivolution cards of one of my green Digimon from the trash with it's [On Deletion] effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-03: Booster Diamond Legend",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sanosuke_Sakuma",
+          "text": "Sanosuke Sakuma"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sanosuke_Sakuma",
+          "text": "Sanosuke Sakuma"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sanosuke_Sakuma",
+          "text": "Sanosuke Sakuma"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sanosuke_Sakuma",
+          "text": "Sanosuke Sakuma"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "巴鲁兽",
+  "traditionalChinese": "巴魯獸",
+  "type": "Vegetation"
+}

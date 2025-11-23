@@ -1,0 +1,127 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[NSo] trait: Cost 3 \n[DNA Digivolve] Black/Yellow Lv.5 + Purple/Red Lv.5 : Cost 0\nStack the 2 specified Digimon and digivolve unsuspended.",
+  "attribute": "Data",
+  "blockIcon": "04",
+  "cardEffects": "When this card would be played, if [Nightmare Soldiers] is face-up in your security stack, reduce the play cost by 4.\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n[When Digivolving] [On Deletion] ＜De-Digivolve  1＞ 1 of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.) Then, delete 1 of their level 4 or lower Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black / Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "5"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "3",
+      "level": "5"
+    }
+  ],
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2025",
+        "captionText": "Update Pack 2025 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-174.png",
+        "imgName": "P-174.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1e/P-174.png/revision/latest?cb=20250124092159",
+        "uploadDate": "2025-01-24T09:21:59"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2025",
+        "captionText": "Update Pack 2025 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-174-Sample.png",
+        "imgName": "P-174-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e4/P-174-Sample.png/revision/latest?cb=20241225090919",
+        "uploadDate": "2024-12-25T09:09:19"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2025",
+        "captionText": "Update Pack 2025 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-174-J.png",
+        "imgName": "P-174-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/13/P-174-J.png/revision/latest?cb=20250124092650",
+        "uploadDate": "2025-01-24T09:26:50"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2025",
+        "captionText": "Update Pack 2025 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-174-Sample-J.png",
+        "imgName": "P-174-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/96/P-174-Sample-J.png/revision/latest?cb=20241225090928",
+        "uploadDate": "2024-12-25T09:09:28"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1e/P-174.png/revision/latest?cb=20250124092159",
+  "level": "6",
+  "name": "Boltmon",
+  "nameJapanese": "ボルトモン",
+  "playCost": "11",
+  "rarity": "Promo",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2025",
+          "text": "Update Pack 2025"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2025",
+          "text": "Update Pack 2025"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2025",
+          "text": "Update Pack 2025"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2025",
+          "text": "Update Pack 2025"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ]
+  },
+  "type": "Cyborg/NSo"
+}

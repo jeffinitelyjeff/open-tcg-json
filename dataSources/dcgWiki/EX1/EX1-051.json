@@ -1,0 +1,108 @@
+{
+  "attribute": "Unknown",
+  "blockIcon": "01",
+  "cardEffects": "[Opponent's Turn] [Once Per Turn] When an opponent's Digimon digivolves into a level 5 or higher Digimon, gain 1 memory.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-051.png",
+        "imgName": "EX1-051.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b2/EX1-051.png/revision/latest?cb=20211126152130",
+        "uploadDate": "2021-11-26T15:21:30"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-051-J.png",
+        "imgName": "EX1-051-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/72/EX1-051-J.png/revision/latest?cb=20210721041522",
+        "uploadDate": "2021-07-21T04:15:22"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b2/EX1-051.png/revision/latest?cb=20211126152130",
+  "inheritedEffect": "[All Turns] All of your other Digimon with the same name as this Digimon get +2000 DP.",
+  "korean": "인펠몬",
+  "level": "5",
+  "name": "Infermon",
+  "nameJapanese": "インフェルモン",
+  "playCost": "8",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX1-051#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX1-051 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, the effect doesn't count Digimon in breeding areas.",
+        "question": "Does this card’s [Opponent's Turn] effect activate when an opponent’s Digimon in their breeding area digivolves into a level 5 or higher Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. It’s not referring to this card’s name, but the name of the Digimon that has this card in its digivolution cards.",
+        "question": "Does “the same name as this Digimon” refer to Digimon with the name [Infermon]?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, this Digimon is deleted before its effect can activate.",
+        "question": "My opponent digivolves one of their Digimon into a level 5 or higher Digimon, and deletes this Digimon with its [When Digivolving] effect. Do I gain 1 memory from this Digimon's [Opponent's Turn] effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-01: Extra Booster",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "simplifiedChinese": "地狱使者兽",
+  "traditionalChinese": "地獄使者獸",
+  "type": "Unidentified"
+}

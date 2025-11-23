@@ -1,0 +1,196 @@
+{
+  "attribute": "Unknown",
+  "blockIcon": "01",
+  "cardEffects": "[On Play] Play 1 purple or yellow Digimon with 6000 DP or less from your trash without paying its memory cost. If your have 1 or fewer security cards, you may play 1 level 6 or lower Digimon card with the [Angel] or [Fallen Angel] trait from your trash without paying its memory cost instead.\n[End of Your Turn] This Digimon and any of your other Digimon may DNA digivolve into a Digimon card in the hand.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple / Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "4",
+      "level": "5"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "5"
+    }
+  ],
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-080.png",
+        "imgName": "BT9-080.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/11/BT9-080.png/revision/latest?cb=20220625065139",
+        "uploadDate": "2022-06-25T06:51:39"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-080_P1.png",
+        "imgName": "BT9-080_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/ca/BT9-080_P1.png/revision/latest?cb=20220625064945",
+        "uploadDate": "2022-06-25T06:49:45"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/X_Record_Pre-Release_Pack",
+        "captionText": "X Record Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-080_P0.png",
+        "imgName": "BT9-080_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e2/BT9-080_P0.png/revision/latest?cb=20220625081417",
+        "uploadDate": "2022-06-25T08:14:17"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-080-J.png",
+        "imgName": "BT9-080-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5d/BT9-080-J.png/revision/latest?cb=20220218110433",
+        "uploadDate": "2022-02-18T11:04:33"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-080_P1-J.png",
+        "imgName": "BT9-080_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b2/BT9-080_P1-J.png/revision/latest?cb=20220225093218",
+        "uploadDate": "2022-02-25T09:32:18"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-080-Sample-J.png",
+        "imgName": "BT9-080-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/32/BT9-080-Sample-J.png/revision/latest?cb=20220114093534",
+        "uploadDate": "2022-01-14T09:35:34"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (Alternative Art) (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-080_P1-Sample-J.png",
+        "imgName": "BT9-080_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e9/BT9-080_P1-Sample-J.png/revision/latest?cb=20220215091037",
+        "uploadDate": "2022-02-15T09:10:37"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/11/BT9-080.png/revision/latest?cb=20220625065139",
+  "level": "6",
+  "name": "Raguelmon",
+  "nameJapanese": "ラグエルモン",
+  "playCost": "12",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT9-080#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT9-080 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.",
+        "question": "If I have 1 or fewer security cards, can I still play a purple or yellow Digimon card with 6000 DP or less from my trash with this card’s [On Play] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you do.",
+        "question": "If I have 1 or fewer security cards and activate this card’s [On Play] effect to play a level 6 or lower Digimon card with [Angel] or [Fallen Angel] in its traits, do I play it from my trash?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/X_Record_Pre-Release_Pack",
+          "text": "X Record Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "type": "Unknown"
+}

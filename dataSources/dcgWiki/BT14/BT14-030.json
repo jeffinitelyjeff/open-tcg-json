@@ -1,0 +1,142 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] [When Digivolving] By returning 1 of your opponent's level 3 Digimon or 1 of your Digimon to the hand, return 1 of your opponent's Digimon with an equal or lower level to the hand.\n[Your Turn] [Once Per Turn] When another Digimon is returned to the hand, ＜Recovery +1 (Deck)＞ (Place the top card of your deck on top of your security stack.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "3",
+      "level": "5"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "5"
+    }
+  ],
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-030.png",
+        "imgName": "BT14-030.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8a/BT14-030.png/revision/latest?cb=20231027105751",
+        "uploadDate": "2023-10-27T10:57:51"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Blast_Ace_Pre-Release_Pack",
+        "captionText": "Blast Ace Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-030_P0.png",
+        "imgName": "BT14-030_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/63/BT14-030_P0.png/revision/latest?cb=20231116222514",
+        "uploadDate": "2023-11-16T22:25:14"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-030-J.png",
+        "imgName": "BT14-030-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f0/BT14-030-J.png/revision/latest?cb=20231111043053",
+        "uploadDate": "2023-11-11T04:30:53"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8a/BT14-030.png/revision/latest?cb=20231027105751",
+  "level": "6",
+  "name": "MarineAngemon",
+  "nameJapanese": "マリンエンジェモン",
+  "nameTranslated": "Marineanegemon",
+  "playCost": "11",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT14-030#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT14-030 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can return your Digimon of any level to the hand.",
+        "question": "Can this card's [On Play] [When Digivolving] effect return any level Digimon when it returns my Digimon to the hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it can.",
+        "question": "Can this card's [On Play] [When Digivolving] effect return my Digimon to the hand even when my opponent has no Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.  If your [EX2-007 Mother D-Reaper] is chosen as the target to return to the hand for this card's effect, it will ultimately be placed at the bottom of the Digi-Egg deck instead of the hand according to the rules, but it meets this card's \"by returning 1 of your Digimon to the hand\" condition. A card isn't actually added to the hand, therefore effects such as \"when a card is added to the hand\" don't trigger.",
+        "question": "Can I use this card's [On Play] [When Digivolving] effect to return my [EX2-007 Mother D-Reaper] from the battle area to the hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "[EX2-007 Mother D-Reaper] is a Digimon without a level, therefore your opponent can't return a Digimon to the hand.",
+        "question": "If I use this card's [On Play] [When Digivolving] effect to return my [EX2-007 Mother D-Reaper] from the battle area to the hand, what happens for \"return 1 of your opponent's Digimon whose level is less than or equal to the returned Digimon's level to the hand\"?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.  If your token is chosen as the target to return to the hand for this card's effect, it will ultimately be removed from the game instead of being returned to the hand according to the rules, but it meets this card's \"by returning 1 of your Digimon to the hand\" condition. A card isn't actually added to the hand, therefore effects such as \"when a card is added to the hand\" don't trigger.",
+        "question": "Can I use this card's [On Play] [When Digivolving] effect to return my token that was played as a Digimon from the battle area to the hand?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Blast_Ace_Pre-Release_Pack",
+          "text": "Blast Ace Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "海天使兽",
+  "traditionalChinese": "海天使獸",
+  "type": "Fairy"
+}

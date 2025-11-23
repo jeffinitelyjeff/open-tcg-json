@@ -1,0 +1,103 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.2 w/[Light Fang]/[Night Claw] trait: Cost 0",
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] Reveal the top 3 cards of your deck. Add 1 [Light Fang] trait card and 1 [Night Claw] trait or 1 2-color card among them to the hand. Return the rest to the bottom of the deck.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-029.png",
+        "imgName": "BT16-029.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/56/BT16-029.png/revision/latest?cb=20240426204049",
+        "uploadDate": "2024-04-26T20:40:49"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-029-J.png",
+        "imgName": "BT16-029-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/ce/BT16-029-J.png/revision/latest?cb=20231215073419",
+        "uploadDate": "2023-12-15T07:34:19"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-029-Sample-J.png",
+        "imgName": "BT16-029-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/52/BT16-029-Sample-J.png/revision/latest?cb=20231118103339",
+        "uploadDate": "2023-11-18T10:33:39"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/56/BT16-029.png/revision/latest?cb=20240426204049",
+  "inheritedEffect": "[Your Turn] All of your opponent's Security Digimon get -3000 DP.",
+  "level": "3",
+  "name": "Agumon",
+  "nameJapanese": "アグモン",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT16-029#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT16-029 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can't.  You can only add 1 [Night Claw] trait or 1 2-color card to the hand.",
+        "question": "If the cards I reveal for this card's [On Play] effect include only two types of cards, one being a [Night Claw] trait card and one being a 2-color card, can I add both types to the hand?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tsunemi_Aosa",
+          "text": "Tsunemi Aosa"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tsunemi_Aosa",
+          "text": "Tsunemi Aosa"
+        }
+      }
+    ]
+  },
+  "type": "Dinosaur/Light Fang"
+}

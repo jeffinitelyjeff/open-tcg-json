@@ -1,0 +1,137 @@
+{
+  "attribute": "Data",
+  "blockIcon": "02",
+  "cardEffects": "[When Digivolving] Trash any 1 digivolution card under 1 of your opponent's Digimon.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-019.png",
+        "imgName": "EX3-019.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8d/EX3-019.png/revision/latest?cb=20221111122902",
+        "uploadDate": "2022-11-11T12:29:02"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-019-J.png",
+        "imgName": "EX3-019-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/25/EX3-019-J.png/revision/latest?cb=20220722083952",
+        "uploadDate": "2022-07-22T08:39:52"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-019-Sample-J.png",
+        "imgName": "EX3-019-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b3/EX3-019-Sample-J.png/revision/latest?cb=20220702054054",
+        "uploadDate": "2022-07-02T05:40:54"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8d/EX3-019.png/revision/latest?cb=20221111122902",
+  "inheritedEffect": "[Opponent's Turn] When an opponent's Digimon with no digivolution cards would digivolve, increase the digivolution cost by 1.",
+  "level": "4",
+  "name": "Paledramon",
+  "nameJapanese": "ペイルドラモン",
+  "playCost": "5",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX3-019#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX3-019 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, the inherited effect activates for each of the 2 Digimon, so the digivolution cost increases by a total of 2.",
+        "question": "I have 2 Digimon in this card's digivolution cards, and my opponent's Digimon digivolves with no digivolution cards. Does the digivolution cost increase by 2?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, the digivolution cost only increases by 1. This card's inherited effect reads \"When an opponent's Digimon with no digivolution cards would digivolve,\" so even in the case of a DNA digivolution where there are 2 of the target opponent's Digimon, the digivolution cost only increases by 1 with this effect because the digivolution only occurs once.",
+        "question": "2 of my opponent's Digimon with no digivolution cards DNA digivolves when my Digimon has this card in its digivolution cards. Does the digivolution cost increase by 2?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, the digivolution cost increases by 1.",
+        "question": "1 of my opponent's Digimon with no digivolution cards and 1 of my opponent's Digimon with digivolution cards DNA digivolves when my Digimon has this card in its digivolution cards. Does the digivolution cost increase by 1?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, the digivolution cost increases by 1. [BT4-011 Agunimon]'s effect reads \"You may Digivolve this card from your hand onto one of your red Tamers as if the Tamer is a level 3 Digimon,\" so the Tamer is considered to be a Digimon without digivolution cards, and the digivolution cost increases by 1 due to this card's inherited effect.",
+        "question": "My opponent's red Tamer digivolves into a [BT4-011 Agunimon] when my Digimon has this card in its digivolution cards. Does the digivolution cost increase by 1?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it doesn't. [BT4-011 Agunimon]'s effect reads \"You may Digivolve this card from your hand onto one of your red Tamers as if the Tamer is a level 3 Digimon,\" so a Tamer with cards under it is considered to be a Digimon with digivolution cards.",
+        "question": "My Digimon has this card in its digivolution cards. Does the digivolution cost increase by 1 when my opponent digivolves a red Tamer with cards under it into a [BT4-011 Agunimon]?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "The digivolution fails, and the revealed card to digivolve into is returned to its owner's hand.",
+        "question": "When a Digimon with no digivolution cards digivolves and the digivolution cost increases due to this card's inherited effect, what happens if I can't pay the digivolution cost as a result?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-02: Extra Booster 2 Draconic Roar",
+        "foil&Rarity": "",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:P!k@ru",
+          "text": "p!k@ru"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+          "text": "EX-03: Theme Booster Draconic Roar"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:P!k@ru",
+          "text": "p!k@ru"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+          "text": "EX-03: Theme Booster Draconic Roar"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:P!k@ru",
+          "text": "p!k@ru"
+        }
+      }
+    ]
+  },
+  "type": "Dragon"
+}

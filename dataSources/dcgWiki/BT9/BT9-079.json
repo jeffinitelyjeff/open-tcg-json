@@ -1,0 +1,130 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "01",
+  "cardEffects": "[When Digivolving] You may play 1 level 3 purple Digimon card from your trash without paying its memory cost.\n[End of Attack] [Once Per Turn] You may digivolve 1 of your other Digimon in play into a Digimon card with the [Undead] or [Dark Animal] trait from your trash without paying its memory cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "4",
+    "level": "5"
+  },
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-079.png",
+        "imgName": "BT9-079.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/10/BT9-079.png/revision/latest?cb=20220625065139",
+        "uploadDate": "2022-06-25T06:51:39"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/X_Record_Pre-Release_Pack",
+        "captionText": "X Record Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-079_P0.png",
+        "imgName": "BT9-079_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/ae/BT9-079_P0.png/revision/latest?cb=20220625081417",
+        "uploadDate": "2022-06-25T08:14:17"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-079-J.png",
+        "imgName": "BT9-079-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/40/BT9-079-J.png/revision/latest?cb=20220218110432",
+        "uploadDate": "2022-02-18T11:04:32"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-079-Sample-J.png",
+        "imgName": "BT9-079-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2e/BT9-079-Sample-J.png/revision/latest?cb=20220207094759",
+        "uploadDate": "2022-02-07T09:47:59"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/10/BT9-079.png/revision/latest?cb=20220625065139",
+  "level": "6",
+  "name": "GranDracmon",
+  "nameJapanese": "グランドラクモン",
+  "playCost": "12",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT9-079#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT9-079 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. This effect can’t ignore digivolution requirements. When activating this effect, you can only digivolve into a card with [Undead] or [Dark Animal] in its traits if it also meets the digivolution requirements.",
+        "question": "If I have cards in my trash with [Undead] or [Dark Animal] in their traits, does this card's [End of Attack] effect let me digivolve any card into them, regardless of digivolution requirements?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/X_Record_Pre-Release_Pack",
+          "text": "X Record Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ]
+  },
+  "type": "Dark Animal"
+}

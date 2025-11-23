@@ -1,0 +1,95 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Royal Base] trait: Cost 2",
+  "attribute": "Virus",
+  "blockIcon": "04",
+  "cardEffects": "[Security] [All Turns] All of your [Royal Base] trait Digimon get +1000 DP.\n[Opponent's Turn] None of your opponent's Digimon with as much or less DP as this Digimon can attack players.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-046.png",
+        "imgName": "BT18-046.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/db/BT18-046.png/revision/latest?cb=20241020220229",
+        "uploadDate": "2024-10-20T22:02:29"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-046-J.png",
+        "imgName": "BT18-046-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/04/BT18-046-J.png/revision/latest?cb=20240523041655",
+        "uploadDate": "2024-05-23T04:16:55"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-046-Sample-J.png",
+        "imgName": "BT18-046-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fc/BT18-046-Sample-J.png/revision/latest?cb=20240608063139",
+        "uploadDate": "2024-06-08T06:31:39"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/db/BT18-046.png/revision/latest?cb=20241020220229",
+  "inheritedEffect": "[All Turns] This Digimon gets +1000 DP.",
+  "level": "4",
+  "name": "Waspmon",
+  "nameJapanese": "ワスプモン",
+  "playCost": "4",
+  "rarity": "Common",
+  "rule": "[Rule] Trait: Has [Insectoid] Type.",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+          "text": "BT18-19: Special Booster Ver.2.0"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+          "text": "BT-18: Booster Elemental Successor"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ]
+  },
+  "type": "Cyborg/X Antibody/Royal Base"
+}

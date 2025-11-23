@@ -1,0 +1,122 @@
+{
+  "altDigivolutionRequirements": "[App Fusion] [Watchmon] & [Savemon] & [Calendamon]: Cost 0\nIf 2 such cards are linked together, stack the link card on top and digivolve.",
+  "attribute": "Tool",
+  "blockIcon": "05",
+  "cardEffects": "＜Blocker＞ (This Digimon can block in the blocker timing.)\n[Your Turn] [Once Per Turn] When this Digimon gets linked, ＜De-Digivolve  1＞ 1 of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "2",
+      "level": "3"
+    },
+    {
+      "color": "All",
+      "digivolveCost": "2",
+      "form": "Stnd."
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Sup./Appmon",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-059.png",
+        "imgName": "BT21-059.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/75/BT21-059.png/revision/latest?cb=20250404060610",
+        "uploadDate": "2025-04-04T06:06:10"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-059-Sample.png",
+        "imgName": "BT21-059-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/21/BT21-059-Sample.png/revision/latest?cb=20250228145115",
+        "uploadDate": "2025-02-28T14:51:15"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-059-J.png",
+        "imgName": "BT21-059-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/40/BT21-059-J.png/revision/latest?cb=20250404053624",
+        "uploadDate": "2025-04-04T05:36:24"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/75/BT21-059.png/revision/latest?cb=20250404060610",
+  "level": "4",
+  "linkDp": "<< +3000 DP",
+  "linkEffect": "[When Linking] ＜De-Digivolve  1＞ 1 of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.)",
+  "linkRequirements": "[Link] [Appmon] trait: Cost 2 \n(Plug this card from the hand or battle area sideways into the specified Digimon in the battle area.)",
+  "name": "Timemon",
+  "nameJapanese": "タイムモン",
+  "playCost": "5",
+  "rarity": "Rare",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ]
+  },
+  "type": "Time Slip (App Name)"
+}

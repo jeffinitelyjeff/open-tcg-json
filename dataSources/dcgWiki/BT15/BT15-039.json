@@ -1,0 +1,137 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Gammamon] in name: Cost 3",
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] [When Digivolving] Until the end of your opponent's turn, 1 of their Digimon gets -3000 DP and gains \"[On Deletion] Lose 1 memory.\"\n[All Turns] This Digimon gains all of the effects of cards with [Gammamon] in their names in this Digimon's digivolution cards.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-039.png",
+        "imgName": "BT15-039.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1d/BT15-039.png/revision/latest?cb=20240209090322",
+        "uploadDate": "2024-02-09T09:03:22"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack:_Exceed_Apocalypse",
+        "captionText": "Pre-Release Pack: Exceed Apocalypse (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-039_P0.png",
+        "imgName": "BT15-039_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1e/BT15-039_P0.png/revision/latest?cb=20240211092358",
+        "uploadDate": "2024-02-11T09:23:58"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-039-J.png",
+        "imgName": "BT15-039-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/63/BT15-039-J.png/revision/latest?cb=20230922100135",
+        "uploadDate": "2023-09-22T10:01:35"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-039-Sample-J.png",
+        "imgName": "BT15-039-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c4/BT15-039-Sample-J.png/revision/latest?cb=20230901111143",
+        "uploadDate": "2023-09-01T11:11:43"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1d/BT15-039.png/revision/latest?cb=20240209090322",
+  "inheritedEffect": "[All Turns] This Digimon gains all of the effects of cards with [Gammamon] in their names in this Digimon's digivolution cards.",
+  "level": "5",
+  "name": "Bombermon",
+  "nameJapanese": "ボマーモン",
+  "playCost": "7",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT15-039#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT15-039 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, your opponent loses 1 memory.",
+        "question": "If this card’s [On Play] [When Digivolving] effect activates on an opponent's Digimon with 3000 DP or less, then its DP is reduced to 0 and it's deleted, does the \"[On Deletion] Lose 1 memory\" effect given to my opponent's Digimon at the same time cause my opponent to lose 1 memory?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, they activate.  This card's \"This Digimon gains all effects of cards with [Gammamon] in this Digimon's digivolution cards\" effect is an [All Turns] effect, so it will activate as soon as the digivolution is confirmed. Therefore, [When Evolving] effects are gained and will trigger.",
+        "question": "When digivolving into this card, do the [When Digivolving] effects on digivolution cards with [Gammamon] activate?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, if the memory gauge is now at 1 or greater on your opponent's side, you can activate ＜Blitz＞ .",
+        "question": "I digivolve a Digimon with [Gammamon] and a [When Digivolving] ＜Blitz＞ effect into this card. Can I activate the [When Digivolving] ＜Blitz＞ effect through this card's [All Turns] effect and attack?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, this card's [All Turns] effect and inherited effect don't affect the inherited effects of digivolution cards with [Gammamon].",
+        "question": "Does this card's [All Turns] effect and inherited effect allow me to activate the inherited effect of a digivolution card with [Gammamon] as an effect of this card?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+          "text": "BT-15: Booster Exceed Apocalypse"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack:_Exceed_Apocalypse",
+          "text": "Pre-Release Pack: Exceed Apocalypse"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+          "text": "BT-15: Booster Exceed Apocalypse"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ]
+  },
+  "type": "Mutant"
+}

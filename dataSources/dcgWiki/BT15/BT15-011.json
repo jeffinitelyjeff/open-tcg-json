@@ -1,0 +1,119 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[SoC] trait: Cost 2",
+  "attribute": "Data",
+  "blockIcon": "03",
+  "cardEffects": "＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Play] Reveal the top 4 cards of your deck. Add 1 Digimon card with the [SoC] trait and 1 such Tamer card among them to the hand. Return the rest to the bottom of the deck. If you added cards, trash 1 card in your hand.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red / Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-011.png",
+        "imgName": "BT15-011.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/75/BT15-011.png/revision/latest?cb=20240209090325",
+        "uploadDate": "2024-02-09T09:03:25"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-011-J.png",
+        "imgName": "BT15-011-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4d/BT15-011-J.png/revision/latest?cb=20230922100132",
+        "uploadDate": "2023-09-22T10:01:32"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-011-Sample-J.png",
+        "imgName": "BT15-011-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/26/BT15-011-Sample-J.png/revision/latest?cb=20230831065540",
+        "uploadDate": "2023-08-31T06:55:40"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/75/BT15-011.png/revision/latest?cb=20240209090325",
+  "level": "4",
+  "name": "Tyrannomon",
+  "nameJapanese": "ティラノモン",
+  "playCost": "4",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT15-011#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT15-011 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, even if you only reveal one of the applicable cards, you can still add it to your hand.",
+        "question": "If the cards I reveal from my deck for this card's [On Play] effect include only either a Digimon card or a Tamer card with the [SoC] trait, can I only add 1 card to my hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes. If the Tamer card doesn't have the [SoC] trait, you can't add it to your hand.",
+        "question": "If the Tamer card revealed for this card's [On Play] effect doesn't have the [SoC] trait, does that mean I can't add it to my hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. If you have cards that are targets of this effect, you must add as many cards to your hand as possible.",
+        "question": "If the cards revealed for this card's [On Play] effect include both a Digimon card and Tamer card with the [SoC] trait, can I choose to only add one of them to my hand, and place the remaining cards at the bottom of my deck?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+          "text": "BT-15: Booster Exceed Apocalypse"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+          "text": "BT-15: Booster Exceed Apocalypse"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "type": "Dinosaur/SoC"
+}

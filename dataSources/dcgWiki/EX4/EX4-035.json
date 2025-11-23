@@ -1,0 +1,96 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Terriermon]/[Lopmon] in name: Cost 2",
+  "attribute": "Vaccine",
+  "blockIcon": "02",
+  "cardEffects": "＜Alliance＞ (When this Digimon attacks, by suspending 1 of your other Digimon, add the suspended Digimon's DP to this Digimon and it gains ＜Security A. +1＞ for the attack.)",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+        "captionText": "EX-04: Theme Booster Alternative Being (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX4-035.png",
+        "imgName": "EX4-035.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0b/EX4-035.png/revision/latest?cb=20230623132842",
+        "uploadDate": "2023-06-23T13:28:42"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+        "captionText": "EX-04: Theme Booster Alternative Being (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX4-035-J.png",
+        "imgName": "EX4-035-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a9/EX4-035-J.png/revision/latest?cb=20221216140138",
+        "uploadDate": "2022-12-16T14:01:38"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+        "captionText": "EX-04: Theme Booster Alternative Being (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX4-035-Sample-J.png",
+        "imgName": "EX4-035-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/39/EX4-035-Sample-J.png/revision/latest?cb=20221209090209",
+        "uploadDate": "2022-12-09T09:02:09"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0b/EX4-035.png/revision/latest?cb=20230623132842",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When another Digimon is suspended by an effect, this Digimon gets +2000 DP until the end of your opponent's turn.",
+  "level": "4",
+  "name": "BlackGargomon",
+  "nameJapanese": "ブラックガルゴモン",
+  "nameTranslated": "BlackGalgomon",
+  "playCost": "4",
+  "rarity": "Uncommon",
+  "rule": "[Rule] Name: Not treated as having [Argomon].",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+          "text": "EX-04: Theme Booster Alternative Being"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+          "text": "EX-04: Theme Booster Alternative Being"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ]
+  },
+  "type": "Beastkin"
+}

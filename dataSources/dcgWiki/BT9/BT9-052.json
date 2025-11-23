@@ -1,0 +1,125 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Okuwamon]: Cost 0",
+  "attribute": "Virus",
+  "blockIcon": "01",
+  "cardEffects": "[When Digivolving] If [Okuwamon] or [X Antibody] is in this Digimon's digivolution cards, suspend 1 of your opponent's Digimon. Then, if this Digimon is attacking, you may switch the target of the attack to 1 of your opponent's suspended Digimon.\n[Your Turn] When this Digimon would digivolve into a Digimon with the [Insectoid] trait, reduce the digivolution cost by 1.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-052.png",
+        "imgName": "BT9-052.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/55/BT9-052.png/revision/latest?cb=20220625065115",
+        "uploadDate": "2022-06-25T06:51:15"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/X_Record_Pre-Release_Pack",
+        "captionText": "X Record Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-052_P0.png",
+        "imgName": "BT9-052_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/63/BT9-052_P0.png/revision/latest?cb=20220625081413",
+        "uploadDate": "2022-06-25T08:14:13"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-052-J.png",
+        "imgName": "BT9-052-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f2/BT9-052-J.png/revision/latest?cb=20220218110413",
+        "uploadDate": "2022-02-18T11:04:13"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-052-Sample-J.png",
+        "imgName": "BT9-052-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4d/BT9-052-Sample-J.png/revision/latest?cb=20220110064638",
+        "uploadDate": "2022-01-10T06:46:38"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/55/BT9-052.png/revision/latest?cb=20220625065115",
+  "level": "5",
+  "name": "Okuwamon (X Antibody)",
+  "nameJapanese": "オオクワモンX抗 体",
+  "playCost": "8",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [],
+    "rulings": [
+      {
+        "answer": "",
+        "question": "The effect of \"If you have [Okuwamon]",
+        "reference": ""
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/X_Record_Pre-Release_Pack",
+          "text": "X Record Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ]
+  },
+  "type": "Insectoid/X Antibody"
+}

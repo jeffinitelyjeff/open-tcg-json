@@ -1,0 +1,180 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [DarkKnightmon]: Cost 4",
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[When Digivolving] Return 1 black or purple Digimon card other than [DarkKnightmon (X Antibody)] from your trash to your hand. Then, if [DarkKnightmon] or [X Antibody] is in this Digimon's digivolution cards, delete 1 Tamer, and unsuspend this Digimon.\n[On Deletion] You may play 1 [DarkKnightmon] from your trash without paying its memory cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black / Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "5",
+      "level": "5"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "5",
+      "level": "5"
+    }
+  ],
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-069.png",
+        "imgName": "BT10-069.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/82/BT10-069.png/revision/latest?cb=20221007205932",
+        "uploadDate": "2022-10-07T20:59:32"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-069_P1.png",
+        "imgName": "BT10-069_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/98/BT10-069_P1.png/revision/latest?cb=20221013102256",
+        "uploadDate": "2022-10-13T10:22:56"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-069-J.png",
+        "imgName": "BT10-069-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/94/BT10-069-J.png/revision/latest?cb=20220520104226",
+        "uploadDate": "2022-05-20T10:42:26"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-069_P1-J.png",
+        "imgName": "BT10-069_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e8/BT10-069_P1-J.png/revision/latest?cb=20220527051941",
+        "uploadDate": "2022-05-27T05:19:41"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-069-Sample-J.png",
+        "imgName": "BT10-069-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/15/BT10-069-Sample-J.png/revision/latest?cb=20220504090243",
+        "uploadDate": "2022-05-04T09:02:43"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (Alternative Art) (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-069_P1-Sample-J.png",
+        "imgName": "BT10-069_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b3/BT10-069_P1-Sample-J.png/revision/latest?cb=20220514115718",
+        "uploadDate": "2022-05-14T11:57:18"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/82/BT10-069.png/revision/latest?cb=20221007205932",
+  "level": "6",
+  "name": "DarkKnightmon (X Antibody)",
+  "nameJapanese": "ダークナイトモンX抗体",
+  "playCost": "13",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT10-069#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT10-069 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it still unsuspends.",
+        "question": "If [DarkKnightmon] or [X Antibody] is in this Digimon's digivolution cards but I can't delete a Tamer because neither I nor my opponent have any, does this card's [When Digivolving] effect unsuspend this Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't.",
+        "question": "If [DarkKnightmon] or [X Antibody] is in this Digimon's digivolution cards but only I have a Tamer, can I choose to not delete my Tamer with this card's [When Digivolving] effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "黑暗骑士兽X抗体",
+  "traditionalChinese": "黑暗騎士獸X抗體",
+  "type": "Dark Knight/X Antibody"
+}

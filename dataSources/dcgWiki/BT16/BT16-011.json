@@ -1,0 +1,106 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Garudamon]: Cost 0",
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] [When Digivolving] You may return 1 red Digimon card from your trash to the hand. Then, if [Garudamon] or [X Antibody] is in this Digimon's digivolution cards, delete 1 of your opponent's Digimon with as much or less DP as this Digimon.\n[Your Turn] [Once Per Turn] When a red card returns from your trash to the hand, 1 of your Digimon gains ＜Rush＞ for the turn. (This Digimon can attack the turn it comes into play.)",
+  "cardRestriction": {
+    "chinese": "Restricted to 1",
+    "english": "Restricted to 1",
+    "korean": "Restricted to 1",
+    "nameJapanese": "Restricted to 1"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-011.png",
+        "imgName": "BT16-011.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f2/BT16-011.png/revision/latest?cb=20240426204049",
+        "uploadDate": "2024-04-26T20:40:49"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Beginning_Observer",
+        "captionText": "Pre-Release Pack Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-011_P0.png",
+        "imgName": "BT16-011_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/73/BT16-011_P0.png/revision/latest?cb=20240429054832",
+        "uploadDate": "2024-04-29T05:48:32"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-011-J.png",
+        "imgName": "BT16-011-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4f/BT16-011-J.png/revision/latest?cb=20231215073420",
+        "uploadDate": "2023-12-15T07:34:20"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-011-Sample-J.png",
+        "imgName": "BT16-011-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/58/BT16-011-Sample-J.png/revision/latest?cb=20231115090300",
+        "uploadDate": "2023-11-15T09:03:00"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f2/BT16-011.png/revision/latest?cb=20240426204049",
+  "inheritedEffect": "[On Deletion] Trash the top card of your opponent's security stack.",
+  "level": "5",
+  "name": "Garudamon (X Antibody)",
+  "nameJapanese": "ガルダモンX抗体",
+  "playCost": "8",
+  "rarity": "Uncommon",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Beginning_Observer",
+          "text": "Pre-Release Pack Beginning Observer"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ]
+  },
+  "type": "Birdkin/X Antibody"
+}

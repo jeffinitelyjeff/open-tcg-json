@@ -1,0 +1,101 @@
+{
+  "blockIcon": "04",
+  "cardEffects": "While you have a Digimon with [Chaosmon] in its name or the [ACCEL] trait, you can ignore this card's color requirements.\n[Security] Gain 1 memory and add this card to the hand.\n[Main] You may play 1 Digimon card with the [ACCEL] trait from your hand with the play cost reduced by 4. Then, place this card as any of your Digimon's bottom digivolution card.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "White",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-099.png",
+        "imgName": "BT20-099.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c7/BT20-099.png/revision/latest?cb=20250207071158",
+        "uploadDate": "2025-02-07T07:11:58"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-099-Sample.png",
+        "imgName": "BT20-099-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fa/BT20-099-Sample.png/revision/latest?cb=20241215090108",
+        "uploadDate": "2024-12-15T09:01:08"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-099-J.png",
+        "imgName": "BT20-099-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c4/BT20-099-J.png/revision/latest?cb=20250124093012",
+        "uploadDate": "2025-01-24T09:30:12"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-099-Sample-J.png",
+        "imgName": "BT20-099-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/48/BT20-099-Sample-J.png/revision/latest?cb=20241215090200",
+        "uploadDate": "2024-12-15T09:02:00"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c7/BT20-099.png/revision/latest?cb=20250207071158",
+  "name": "Singularity of Chaos",
+  "nameJapanese": "混沌の特異点",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT20-099#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT20-099 (Apr. 4, 2025)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it triggers.When deletion occurs by DP becoming 0, it's considered deletion by the rules, therefore ＜Partition＞'s trigger conditions are met.",
+        "question": "If BT20-037 [Chaosmon: Valdur Arm] has this card, a yellow level 6 card, and a green level 6 card in its digivolution cards, then this card's inherited effect causes its DP to become 0 and it's deleted, does BT20-037 [Chaosmon: Valdur Arm]'s ＜Partition (Yellow Lv.6 + Green/Black Lv.6)＞ trigger?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[End of Opponent's Turn] If this Digimon has [Chaosmon] in its name, trash your opponent's top security card and this Digimon gets -30000 DP for the turn.",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+          "text": "BT-20: Booster Over the X"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ]
+  },
+  "type": "ACCEL",
+  "useCost": "2"
+}

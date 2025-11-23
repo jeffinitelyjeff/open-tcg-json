@@ -1,0 +1,135 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "04",
+  "cardEffects": "[On Play] [When Digivolving] Delete 1 level 5 or lower Digimon.\n[On Deletion] You may play 1 level 5 or lower Digimon card with the [Cyborg] or [Composite] trait from your trash without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Not released"
+  },
+  "cardType": "Digimon",
+  "color": "Black / Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "5"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "3",
+      "level": "5"
+    }
+  ],
+  "digixrosRequirements": "[DigiXros -1] 5 Lv.5 or lower [Cyborg] or [Composite] trait Digimon cards w/different card numbers\nWhen this would be played, you may place specified cards from your hand/battle area under it. Each one reduces the play cost.",
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-065.png",
+        "imgName": "BT19-065.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c6/BT19-065.png/revision/latest?cb=20241011093345",
+        "uploadDate": "2024-10-11T09:33:45"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-065_P1.png",
+        "imgName": "BT19-065_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5c/BT19-065_P1.png/revision/latest?cb=20241011093458",
+        "uploadDate": "2024-10-11T09:34:58"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-065-J.png",
+        "imgName": "BT19-065-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/ac/BT19-065-J.png/revision/latest?cb=20240920100129",
+        "uploadDate": "2024-09-20T10:01:29"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-065-Sample-J.png",
+        "imgName": "BT19-065-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/06/BT19-065-Sample-J.png/revision/latest?cb=20240910060914",
+        "uploadDate": "2024-09-10T06:09:14"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c6/BT19-065.png/revision/latest?cb=20241011093345",
+  "inheritedEffect": "[Opponent's Turn] [Once Per Turn] When any of your opponent's Digimon attack, you may change the attack target to 1 of your Digimon with the [Composite] or [Wicked God] trait.",
+  "level": "6",
+  "name": "Machinedramon",
+  "nameJapanese": "ムゲンドラモン",
+  "playCost": "11",
+  "rarity": "Uncommon",
+  "rule": "[Rule] Trait: Has [Composite] Type.",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT19-065#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT19-065 (Nov. 1, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can delete a Digimon.",
+        "question": "Can I also use this card's [On Play] [When Digivolving] effect to delete my Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "Can I use this card's inherited effect to switch the target of attack to a Digimon that isn't affected by effects?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+          "text": "BT18-19: Special Booster Ver.2.0"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.0_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.0 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+          "text": "BT-19: Booster Xros Evolution"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ]
+  },
+  "type": "Machine"
+}

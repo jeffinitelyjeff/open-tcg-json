@@ -1,0 +1,127 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[On Play] Reveal the top 4 cards of your deck. Add 1 Digimon card with the [Rock Dragon], [Earth Dragon], [Bird Dragon], [Machine Dragon] or [Sky Dragon] trait, and 1 [Hina Kurihara] among them to your hand. Place the rest at the bottom of your deck in any order.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "2",
+      "level": "3"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "2",
+      "level": "3"
+    }
+  ],
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-007.png",
+        "imgName": "EX3-007.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/33/EX3-007.png/revision/latest?cb=20221111122903",
+        "uploadDate": "2022-11-11T12:29:03"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-007-J.png",
+        "imgName": "EX3-007-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/07/EX3-007-J.png/revision/latest?cb=20220722083948",
+        "uploadDate": "2022-07-22T08:39:48"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-007-Sample-J.png",
+        "imgName": "EX3-007-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f7/EX3-007-Sample-J.png/revision/latest?cb=20220708045111",
+        "uploadDate": "2022-07-08T04:51:11"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/3/33/EX3-007.png/revision/latest?cb=20221111122903",
+  "inheritedEffect": "[When Attacking] While this Digimon has an [On Play] effect, delete 1 of your opponent's Digimon with 3000 DP or less.",
+  "korean": "라보보몬",
+  "level": "4",
+  "name": "Lavorvomon",
+  "nameJapanese": "ラヴォーボモン",
+  "playCost": "4",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX3-007#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX3-007 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, as long as either a Digimon card with the [Rock Dragon], [Earth Dragon], [Bird Dragon], [Machine Dragon], or [Sky Dragon] trait or a [Hina Kurihara] is among the cards revealed, you can add it to your hand.",
+        "question": "This card’s effect reveals 4 cards. If the cards revealed only include 1 card with the [Rock Dragon], [Earth Dragon], [Bird Dragon], [Machine Dragon], or [Sky Dragon] trait or a [Hina Kurihara], can I still add a card to my hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. This card's effect reads “Add 1 Digimon card [...] and 1 [Hina Kurihara] among them to your hand,” so you must add as many cards to your hand as possible.",
+        "question": "This card's effect reveals 4 cards. If both a card with the [Rock Dragon], [Earth Dragon], [Bird Dragon], [Machine Dragon], or [Sky Dragon] trait and a [Hina Kurihara] are among the cards revealed, can I choose to only add one of them to my hand, and place the remaining card at the bottom of my deck?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-02: Extra Booster 2 Draconic Roar",
+        "foil&Rarity": "",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+          "text": "EX-03: Theme Booster Draconic Roar"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+          "text": "EX-03: Theme Booster Draconic Roar"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "熔火波兽",
+  "traditionalChinese": "熔火波獸",
+  "type": "Rock Dragon"
+}

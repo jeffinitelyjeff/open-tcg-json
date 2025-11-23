@@ -1,0 +1,110 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[SoC] trait: Cost 2",
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "[When Digivolving] [When Attacking] By trashing 1 card in your hand, this Digimon gets +2000 DP for the turn. If a Tamer card with the [SoC] trait is in this Digimon's digivolution cards, ＜Draw 1＞ (Draw 1 card from your deck.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple / Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-075.png",
+        "imgName": "BT15-075.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/84/BT15-075.png/revision/latest?cb=20240209090319",
+        "uploadDate": "2024-02-09T09:03:19"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-075-J.png",
+        "imgName": "BT15-075-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e6/BT15-075-J.png/revision/latest?cb=20230922100136",
+        "uploadDate": "2023-09-22T10:01:36"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-075-Sample-J.png",
+        "imgName": "BT15-075-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7e/BT15-075-Sample-J.png/revision/latest?cb=20230908031138",
+        "uploadDate": "2023-09-08T03:11:38"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/84/BT15-075.png/revision/latest?cb=20240209090319",
+  "inheritedEffect": "[End of Attack] [Once Per Turn] If your opponent has 1 or more memory, gain 1 memory.",
+  "level": "4",
+  "name": "Loogarmon",
+  "nameJapanese": "ルガモン",
+  "playCost": "5",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT15-075#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT15-075 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can't activate it.  If you don't perform the action specified for \"by X\" in such an effect, the rest of the effect won't activate.",
+        "question": "Can I activate the \"if a Tamer card with the [SoC] trait is in this Digimon's digivolution cards, ＜Draw 1＞\" effect in this card's [When Digivolving] [When Attacking] effect even if I don't perform \"by trashing 1 card in your hand, this Digimon gets +2000 DP for the turn\"?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+          "text": "BT-15: Booster Exceed Apocalypse"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+          "text": "BT-15: Booster Exceed Apocalypse"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      }
+    ]
+  },
+  "type": "Dark Animal/X Antibody/SoC"
+}

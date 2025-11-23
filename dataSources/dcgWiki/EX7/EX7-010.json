@@ -1,0 +1,108 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Three Musketeers] in text: Cost 2",
+  "attribute": "Vaccine",
+  "blockIcon": "04",
+  "cardEffects": "[When Digivolving] [When Attacking]  You may trash any 1 Option card from 1 Digimon's digivolution cards.\n [Your Turn] This Digimon gains the [Three Musketeers] trait.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "6000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+        "captionText": "EX-07: Extra Booster Digimon Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX7-010.png",
+        "imgName": "EX7-010.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/40/EX7-010.png/revision/latest?cb=20240830172140",
+        "uploadDate": "2024-08-30T17:21:40"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+        "captionText": "EX-07: Extra Booster Digimon Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX7-010-J.png",
+        "imgName": "EX7-010-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/eb/EX7-010-J.png/revision/latest?cb=20240524113207",
+        "uploadDate": "2024-05-24T11:32:07"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+        "captionText": "EX-07: Extra Booster Digimon Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX7-010-Sample-J.png",
+        "imgName": "EX7-010-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/19/EX7-010-Sample-J.png/revision/latest?cb=20240507092043",
+        "uploadDate": "2024-05-07T09:20:43"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/40/EX7-010.png/revision/latest?cb=20240830172140",
+  "inheritedEffect": "[Your Turn] This Digimon gets +2000 DP.",
+  "level": "4",
+  "name": "Deputymon",
+  "nameJapanese": "リボルモン",
+  "playCost": "6",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX7-010#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX7-010 (Sep. 13, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can choose either your Digimon or an opponent's Digimon.",
+        "question": "Can I choose either my Digimon or an opponent's Digimon for this card's [When Digivolving] [When Attacking] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it doesn't gain the [Three Musketeers] trait.  Only effects with the [Breeding] icon trigger and activate in the breeding area.",
+        "question": "Does this card's [Your Turn] effect give it the [Three Musketeers] trait when it's in the breeding area?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+          "text": "EX-07: Extra Booster Digimon Liberator"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+          "text": "EX-07: Extra Booster Digimon Liberator"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ]
+  },
+  "type": "Mutant"
+}

@@ -1,0 +1,120 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[NSp] trait: Cost 3 \n[DNA Digivolve] Blue/Yellow Lv.5 + Green/Black Lv.5 : Cost 0\nStack the 2 specified Digimon and digivolve unsuspended.",
+  "attribute": "Virus",
+  "blockIcon": "04",
+  "cardEffects": "[On Play] [When Digivolving] [On Deletion] 1 of your opponent's Digimon gains ＜Security A. -2＞ (This Digimon checks 2 fewer security cards.) until the end of their turn. Then, ＜De-Digivolve  1＞ 1 of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "5"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "5"
+    }
+  ],
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-041.png",
+        "imgName": "BT18-041.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/80/BT18-041.png/revision/latest?cb=20241011092514",
+        "uploadDate": "2024-10-11T09:25:14"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-041-J.png",
+        "imgName": "BT18-041-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8f/BT18-041-J.png/revision/latest?cb=20240621114656",
+        "uploadDate": "2024-06-21T11:46:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-041-Sample-J.png",
+        "imgName": "BT18-041-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/29/BT18-041-Sample-J.png/revision/latest?cb=20240601103741",
+        "uploadDate": "2024-06-01T10:37:41"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/80/BT18-041.png/revision/latest?cb=20241011092514",
+  "level": "6",
+  "name": "MetalEtemon",
+  "nameJapanese": "メタルエテモン",
+  "playCost": "11",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT18-041#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT18-041 (Nov. 1, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "This card can DNA digivolve using a level 5 blue or yellow Digimon and a level 5 green or black Digimon.",
+        "question": "What DNA digivolution combinations are possible with this card's DNA digivolution requirements?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+          "text": "BT18-19: Special Booster Ver.2.0"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.0_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.0 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+          "text": "BT-18: Booster Elemental Successor"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ]
+  },
+  "type": "Cyborg/NSp"
+}

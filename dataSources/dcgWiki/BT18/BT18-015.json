@@ -1,0 +1,166 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Composite] trait: Cost 3",
+  "attribute": "Data",
+  "blockIcon": "04",
+  "cardEffects": "[When Digivolving] [When Attacking] By deleting 1 of your Digimon, delete 1 of your opponent's Digimon with the lowest DP.\n[On Deletion] You may DNA digivolve 1 of your [Machinedramon] in play and 1 [Kimeramon] in the trash into [Millenniummon] in the hand.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red / Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-015.png",
+        "imgName": "BT18-015.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/64/BT18-015.png/revision/latest?cb=20241011091642",
+        "uploadDate": "2024-10-11T09:16:42"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-015-J.png",
+        "imgName": "BT18-015-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c6/BT18-015-J.png/revision/latest?cb=20240621114656",
+        "uploadDate": "2024-06-21T11:46:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-015-Sample-J.png",
+        "imgName": "BT18-015-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/69/BT18-015-Sample-J.png/revision/latest?cb=20240616051502",
+        "uploadDate": "2024-06-16T05:15:02"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/64/BT18-015.png/revision/latest?cb=20241011091642",
+  "inheritedEffect": "＜Security A. +1＞ (This Digimon checks 1 additional security card.)",
+  "level": "5",
+  "name": "Kimeramon",
+  "nameJapanese": "キメラモン",
+  "playCost": "8",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT18-015#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT18-015 (Nov. 1, 2024)"
+      },
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT18-015#qaResult_card",
+        "num": 2,
+        "text": "Official English Q&A for BT18-015 (Jan. 10, 2025)"
+      },
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT18-015#qaResult_card",
+        "num": 3,
+        "text": "Official JP Q&A for BT18-015 (2024/06/21, translated by DeepL)"
+      },
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT18-015#qaResult_card",
+        "num": 4,
+        "text": "Official JP Q&A for BT18-015 (2024/11/22, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, the DNA digivolution requirements have to be met.  In addition, DNA digivolution can't be performed unless the [Millenniummon] has DNA digivolution.",
+        "question": "If I use this card's [On Deletion] effect to DNA digivolve into [Millenniummon] in the hand, do the DNA digivolution requirements have to be met for [Millenniummon]?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, that's correct.  The [On Deletion] effect activates after the card is placed in the trash, therefore this card itself in the trash can DNA digivolve into [Millenniummon] in the hand.",
+        "question": "Does this card's [On Deletion] effect allow my [Machinedramon] and this card itself in the trash that activated the effect to DNA digivolve into [Millenniummon] in the hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "You can DNA digivolve into [Millenniummon] from your hand by using your [Machinedramon] in the battle area and your [Kimeramon] in the trash.",
+        "question": "For this card's [On Deletion] effect, which locations must the [Machinedramon] and [Kimeramon] be in to DNA digivolve to [Millenniummon] from the hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Your [Machinedramon] in the battle area and [Kimeramon] in your trash can DNA digivolve into [Millenniummon] in the hand.",
+        "question": "What are the areas where [Machinedramon] and [Kimeramon] can DNA digivolve into [Millenniummon] in the hand using this card's [On Deletion] effect?",
+        "reference": "[2]"
+      },
+      {
+        "answer": "Yes, DNA digivolution requirements must be met. Also, \"Millenniummon\" without DNA digivolution cannot have DNA digivolution.",
+        "question": "When this card's [On Deletion] effect digivolves Joggles to a \"Millenniummon\" in my hand, does it have to meet the digivolution requirements for that \"Millenniummon\"'s Joggles?",
+        "reference": "[3]"
+      },
+      {
+        "answer": "Yes, it is possible. Since the [On Deletion] effect is activated after the card is placed in Trash, this card in Trash itself can DNA digivolves to \"Millenniummon\" in your hand.",
+        "question": "Can this card's [On Deletion] effect digivolve [DNA digivolves] to [Millenniummon] in my [Hand] with my [Machinedramon] and this card itself in the trash that activated this effect?",
+        "reference": "[3]"
+      },
+      {
+        "answer": "With your \"Mugendramon\" in the Battle Area and \"Kimeramon\" in your trash, you can DNA digivolve to \"Millenniummon\" in your hand.",
+        "question": "In what location can the [On Deletion] effect of this card [On Deletion] be used with Machinedramon and Kimeramon to DNA digivolve to Millenniummon in the hand?",
+        "reference": "[4]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+          "text": "BT18-19: Special Booster Ver.2.0"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NIJIMAARC",
+          "text": "NIJIMAARC"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.0_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.0 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NIJIMAARC",
+          "text": "NIJIMAARC"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+          "text": "BT-18: Booster Elemental Successor"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NIJIMAARC",
+          "text": "NIJIMAARC"
+        }
+      }
+    ]
+  },
+  "type": "Composite"
+}

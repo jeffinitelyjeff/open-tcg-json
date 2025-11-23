@@ -1,0 +1,133 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Royal Base] trait: Cost 3",
+  "attribute": "Virus",
+  "blockIcon": "04",
+  "cardEffects": "[Security] [Opponent's Turn] All of your [Royal Base] trait Digimon gain ＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Play] [When Digivolving] For each of your face up security cards, ＜De-Digivolve  1＞ 1 of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-052.png",
+        "imgName": "BT18-052.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a7/BT18-052.png/revision/latest?cb=20241020220239",
+        "uploadDate": "2024-10-20T22:02:39"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-052-J.png",
+        "imgName": "BT18-052-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/66/BT18-052-J.png/revision/latest?cb=20240523041655",
+        "uploadDate": "2024-05-23T04:16:55"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-052-Sample-J.png",
+        "imgName": "BT18-052-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a3/BT18-052-Sample-J.png/revision/latest?cb=20240608063135",
+        "uploadDate": "2024-06-08T06:31:35"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a7/BT18-052.png/revision/latest?cb=20241020220239",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When this Digimon deletes your opponent's Digimon in battle, trash their top security card.",
+  "level": "5",
+  "name": "CannonBeemon",
+  "nameJapanese": "キャノンビーモン",
+  "playCost": "8",
+  "rarity": "Uncommon",
+  "rule": "[Rule] Trait: Has [Insectoid] Type.",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT18-052#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT18-052 (Nov. 1, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. You perform ＜De-Digivolve  1＞ twice, not ＜De-Digivolve  2＞.  When performing ＜De-Digivolve  2＞, the top 2 cards are considered to be trashed at the same time, but when performing ＜De-Digivolve  1＞ twice, the top 2 cards are trashed 1 at a time.  For example, if using ＜De-Digivolve  2＞ to simultaneously trash the top 2 cards of a suspended Digimon and the 2nd card trashed is BT15-047 [Kabuterimon], its effect won't activate. However, if performing ＜De-Digivolve  1＞ twice and the Digimon becomes BT15-047 [Kabuterimon] after the 1st instance of ＜De-Digivolve  1＞ trashes a card, it won't be affected by the 2nd instance of ＜De-Digivolve  1＞ and won't be trashed.",
+        "question": "I have 2 face-up security cards.  If this card's [On Play] [When Digivolving] effect activates, do I perform ＜De-Digivolve  2＞?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+          "text": "BT18-19: Special Booster Ver.2.0"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+          "text": "BT18-19: Special Booster Ver.2.0"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.0_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.0 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+          "text": "BT-18: Booster Elemental Successor"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ]
+  },
+  "type": "Cyborg/X Antibody/Royal Base"
+}

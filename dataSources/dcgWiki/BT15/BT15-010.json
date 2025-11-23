@@ -1,0 +1,101 @@
+{
+  "attribute": "Data",
+  "blockIcon": "03",
+  "cardEffects": "[Your Turn] [Once Per Turn] When one of your Digimon attacks a player, delete 1 of your opponent's Digimon with 3000 DP or less.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-010.png",
+        "imgName": "BT15-010.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a6/BT15-010.png/revision/latest?cb=20240209090325",
+        "uploadDate": "2024-02-09T09:03:25"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-010-J.png",
+        "imgName": "BT15-010-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/35/BT15-010-J.png/revision/latest?cb=20230922100131",
+        "uploadDate": "2023-09-22T10:01:31"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-010-Sample-J.png",
+        "imgName": "BT15-010-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fd/BT15-010-Sample-J.png/revision/latest?cb=20230907042957",
+        "uploadDate": "2023-09-07T04:29:57"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a6/BT15-010.png/revision/latest?cb=20240209090325",
+  "level": "4",
+  "name": "Akatorimon",
+  "nameJapanese": "アカトリモン",
+  "playCost": "4",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT15-010#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT15-010 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it activates.  This card's effect activates before your opponent blocks, therefore it can't be canceled even if a block is performed after activation.",
+        "question": "My Digimon attacked the opponent player and was blocked by an opponent's Digimon. Does this Digimon's effect activate in such cases?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+          "text": "BT-15: Booster Exceed Apocalypse"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+          "text": "BT-15: Booster Exceed Apocalypse"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ]
+  },
+  "type": "Giant Bird"
+}

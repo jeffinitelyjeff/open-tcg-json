@@ -1,0 +1,197 @@
+{
+  "attribute": "Variable",
+  "blockIcon": "00",
+  "cardEffects": "You may digivolve this card from your hand onto one of your blue Tamers as if the Tamer is a level 3 blue Digimon.\n[When Attacking] Return 1 of your opponent's level 3 Digimon to its owner's hand.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "3",
+    "level": "3"
+  },
+  "dp": "6000 DP",
+  "errata": [
+    {
+      "afterImageURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/06/BT4-027.png/revision/latest?cb=20210416140044",
+      "afterText": "You may Digivolve this card from your hand onto one of your red Tamers as if the Tamer is a level 3 blue Digimon.",
+      "beforeText": "You may Digivolve this card from your hand onto one of your red Tamers as if the Tamer is a level 3 Digimon."
+    }
+  ],
+  "form": "Hybrid",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": null,
+        "captionText": "BTC-03: Booster Diamond Legend (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-027-C.png",
+        "imgName": "BT4-027-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/12/BT4-027-C.png/revision/latest?cb=20231120151420",
+        "uploadDate": "2023-11-20T15:14:20"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-027.png",
+        "imgName": "BT4-027.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/06/BT4-027.png/revision/latest?cb=20210416140044",
+        "uploadDate": "2021-04-16T14:00:44"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Great_Legend_Pre-Release_Pack",
+        "captionText": "Great Legend Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-027_P0.png",
+        "imgName": "BT4-027_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b5/BT4-027_P0.png/revision/latest?cb=20220306110320",
+        "uploadDate": "2022-03-06T11:03:20"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-027-J.png",
+        "imgName": "BT4-027-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b0/BT4-027-J.png/revision/latest?cb=20201218200850",
+        "uploadDate": "2020-12-18T20:08:50"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-027-K.png",
+        "imgName": "BT4-027-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9a/BT4-027-K.png/revision/latest?cb=20230815131038",
+        "uploadDate": "2023-08-15T13:10:38"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/06/BT4-027.png/revision/latest?cb=20210416140044",
+  "korean": "가름몬",
+  "level": "4",
+  "name": "KendoGarurumon",
+  "nameJapanese": "ガルムモン",
+  "nameTranslated": "Garummon",
+  "playCost": "6",
+  "rarity": "Uncommon",
+  "rule": "[Rule] Name: Not treated as having [Garurumon].",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT4-027#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT4-027 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, Tamer cards' [Security] effects aren't inherited effects. Some Tamer cards do have inherited effects, and those can be activated when such cards are placed in digivolution cards.",
+        "question": "If this card has a tamer card as a digivolution card, does the [Security] effect of that tamer card become an inherited effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it can.",
+        "question": "Can this card digivolve on top of a Level 3 Digimon that meets its requirements instead of a tamer card?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it is. However, if the effect specifies Digimon cards, Digi-Egg cards, or any other type of card that isn't a tamer card, it can't be targeted by that effect.",
+        "question": "If I use this card's effect to make a tamer card into a digivolution card, is that card affected by effects that say \"trash digivolution cards\"?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you do. Even if you digivolve using a tamer card, make sure to draw 1 card as the digivolution bonus.",
+        "question": "If I digivolve this card on top of a tamer card, do I still get the digivolution bonus?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes. Digivolution doesn't count as playing, so you can attack that turn.",
+        "question": "Can I attack the turn I digivolve this card on top of a tamer card?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. Since it's the first turn the tamer was played, the limitation for attacking on the first turn a card is played still applies.",
+        "question": "Can I attack the turn I played a tamer card if I then digivolve this card on top of it?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "It is trashed.",
+        "question": "If I've digivolved this card on top of a tamer card and the Digimon is deleted, what happens to the tamer card?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-03: Booster Diamond Legend",
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Great_Legend_Pre-Release_Pack",
+          "text": "Great Legend Pre-Release Pack"
+        },
+        "foil&Rarity": "No Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "加鲁姆兽",
+  "traditionalChinese": "銀狼獸",
+  "type": "Cyborg"
+}

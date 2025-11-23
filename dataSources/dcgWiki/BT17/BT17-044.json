@@ -1,0 +1,121 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[Your Turn] When this Digimon would digivolve into [Eosmon], reduce the digivolution cost by 1.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-044.png",
+        "imgName": "BT17-044.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/78/BT17-044.png/revision/latest?cb=20240720075952",
+        "uploadDate": "2024-07-20T07:59:52"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Secret_Crisis",
+        "captionText": "Pre-Release Pack Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-044_P0.png",
+        "imgName": "BT17-044_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/aa/BT17-044_P0.png/revision/latest?cb=20240727082331",
+        "uploadDate": "2024-07-27T08:23:31"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-044-J.png",
+        "imgName": "BT17-044-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c1/BT17-044-J.png/revision/latest?cb=20240322064308",
+        "uploadDate": "2024-03-22T06:43:08"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-044-Sample-J.png",
+        "imgName": "BT17-044-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e5/BT17-044-Sample-J.png/revision/latest?cb=20240227090614",
+        "uploadDate": "2024-02-27T09:06:14"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/78/BT17-044.png/revision/latest?cb=20240720075952",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When another [Eosmon] is played, this Digimon may digivolve into [Eosmon] in your hand with the digivolution cost Reduced by 3.",
+  "level": "3",
+  "name": "Morphomon",
+  "nameJapanese": "モルフォモン",
+  "playCost": "3",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT17-044#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT17-044 (Sep. 6, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, this card's inherited effect does not allow ignoring digivolution requirements, so you can only digivolve into a card that meets the digivolution requirements.",
+        "question": "When I use this card's inherited effect to digivolve into [Eosmon] in my hand, can it digivolve regardless of its digivolution requirements?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Secret_Crisis",
+          "text": "Pre-Release Pack Secret Crisis"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      }
+    ]
+  },
+  "type": "Insectoid"
+}

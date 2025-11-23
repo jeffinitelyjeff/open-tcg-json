@@ -1,0 +1,121 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.2 w/[Royal Base] trait: Cost 0",
+  "attribute": "Virus",
+  "blockIcon": "04",
+  "cardEffects": "[Security] [All Turns] All of your [Royal Base] trait Digimon get +1000 DP.\n[Your Turn] When this Digimon would digivolve into a [Royal Base] trait Digimon card, reduce the digivolution cost by 1.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "1",
+      "level": "2"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "1",
+      "level": "2"
+    }
+  ],
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-045.png",
+        "imgName": "BT19-045.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/86/BT19-045.png/revision/latest?cb=20241011093345",
+        "uploadDate": "2024-10-11T09:33:45"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-045-J.png",
+        "imgName": "BT19-045-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e7/BT19-045-J.png/revision/latest?cb=20240920100000",
+        "uploadDate": "2024-09-20T10:00:00"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-045-Sample-J.png",
+        "imgName": "BT19-045-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6a/BT19-045-Sample-J.png/revision/latest?cb=20240828065524",
+        "uploadDate": "2024-08-28T06:55:24"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/86/BT19-045.png/revision/latest?cb=20241011093345",
+  "inheritedEffect": "[All Turns] This Digimon gets +1000 DP.",
+  "level": "3",
+  "name": "FunBeemon",
+  "nameJapanese": "ファンビーモン",
+  "playCost": "3",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT19-045#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT19-045 (Nov. 1, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, it doesn’t trigger.  Only effects with the [Breeding] icon trigger and activate in the breeding area.",
+        "question": "Does this card's [Your Turn] effect trigger when this card is in the breeding area and would digivolve into a card with the [Royal Base] trait?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+          "text": "BT18-19: Special Booster Ver.2.0"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.0_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.0 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+          "text": "BT-19: Booster Xros Evolution"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      }
+    ]
+  },
+  "type": "Insectoid/X Antibody/Royal Base/LIBERATOR"
+}

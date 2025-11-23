@@ -1,0 +1,188 @@
+{
+  "blockIcon": "00",
+  "cardEffects": "[Main] All of your Digimon gain \"[Your Turn] When attacking an opponent's Digimon with no digivolution cards, delete that Digimon.\" for the turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Blue",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+        "captionText": "BTC-02: Booster Digital Impact (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-101-C.png",
+        "imgName": "BT4-101-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/24/BT4-101-C.png/revision/latest?cb=20231120154911",
+        "uploadDate": "2023-11-20T15:49:11"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-101.png",
+        "imgName": "BT4-101.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2b/BT4-101.png/revision/latest?cb=20210430125233",
+        "uploadDate": "2021-04-30T12:52:33"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Great_Legend_Pre-Release_Pack",
+        "captionText": "Great Legend Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-101_P0.png",
+        "imgName": "BT4-101_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/26/BT4-101_P0.png/revision/latest?cb=20220306110327",
+        "uploadDate": "2022-03-06T11:03:27"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-101-J.png",
+        "imgName": "BT4-101-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/21/BT4-101-J.png/revision/latest?cb=20201218201046",
+        "uploadDate": "2020-12-18T20:10:46"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-101-K.png",
+        "imgName": "BT4-101-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4f/BT4-101-K.png/revision/latest?cb=20230815134348",
+        "uploadDate": "2023-08-15T13:43:48"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2b/BT4-101.png/revision/latest?cb=20210430125233",
+  "korean": "물밑으로 끌어당겨라!!",
+  "name": "I'll Drag You Into the Depths!",
+  "nameJapanese": "水底に引きずり込め！！",
+  "nameTranslated": "I'll Drag You Into the Depths of the Ocean!!",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT4-101#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT4-101 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, it's deleted by this card's effect, not by battle.  As such, effects that read, \"deletes an opponent's Digimon and survives,\" and effects like ＜Retaliation＞ don't activate.",
+        "question": "I use this card to grant my Digimon this card's effect. I then use one of my Digimon to attack an opponent's Digimon with no digivolution cards. Does my opponent's Digimon get deleted in battle?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. This card's effect deletes your Digimon before blocker timing.",
+        "question": "My opponent uses this card during their turn, then attacks one of my Digimon with no digivolution cards. Can I block with one of my other Digimon to prevent that Digimon from being deleted?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can. The Digimon that was a target of the attack will still be deleted by the effect of this card, but you can still block as counter timing and blocker timing will occur normally.",
+        "question": "My opponent uses this card during their turn, then attacks one of my Digimon with no digivolution cards. Can I block with one of my other Digimon to force it to attack that Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, the effect granted by this card will only delete the Digimon that was the target of the attack. If you block to force the target of attack to change, the blocking Digimon won't be deleted, and the battle will occur normally.",
+        "question": "My opponent uses this card during their turn, then attacks one of my Digimon with no digivolution cards. If I block with one of my other Digimon, will it be deleted by this card's effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can delete your opponent's Digimon with this card's effect before the battle begins. The attacking Digimon is not deleted.",
+        "question": "One of my Digimon has been granted the effect from this card. If I use it to attack an opponent's Digimon with higher DP, is my Digimon deleted after losing the battle?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, a Digimon with ＜Piercing＞ has to attack and delete an opponent's Digimon and survive the battle, but this card's effect deletes the opposing Digimon before the battle begins. As such, ＜Piercing＞ does not apply.",
+        "question": "I use this card, then attack an opponent's Digimon with no digivolution cards using a Digimon with ＜Piercing＞. Does ＜Piercing＞ take effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, Dimension Scissor requires the Digimon to attack and delete an opponent's Digimon and survive the battle. This card's effect deletes the opposing Digimon before the battle begins, so the effect doesn't apply.",
+        "question": "I use [BT-112 Dimension Scissor], which allows 1 of my Digimon to unsuspend every time it deletes an opponent's Digimon. If I then use this card and attack an opponent's Digimon with no digivolution cards, can I unsuspend my Digimon using Dimension Scissor's effect after deleting the opponent's Digimon using this card's effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "The opposing Digimon isn't deleted by the effect granted by this card. If the opponent's Digimon has 1 or more digivolution cards at the time you declare the attack, it can't be targeted by the effect granted by this card, even if it loses all of its digivolution cards later.",
+        "question": "I use this card, then attack an opponent's Digimon with 1 digivolution card. If I use a [When Attacking] effect to trash the opposing Digimon's digivolution card, what happens?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Add this card to the hand.",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+          "text": "BTC-02: Booster Digital Impact"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Great_Legend_Pre-Release_Pack",
+          "text": "Great Legend Pre-Release Pack"
+        },
+        "foil&Rarity": "No Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "拖到水底！！",
+  "traditionalChinese": "拖入水底！！",
+  "useCost": "1"
+}

@@ -1,0 +1,108 @@
+{
+  "blockIcon": "01",
+  "cardEffects": "While you have [Three Musketeers] trait Digimon, you can ignore this card's color requirements.\n[Main] Delete all of your opponent's Digimon with the lowest DP.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Red",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-095.png",
+        "imgName": "BT6-095.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/85/BT6-095.png/revision/latest?cb=20210921061302",
+        "uploadDate": "2021-09-21T06:13:02"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Double_Diamond_Pre-Release_Pack",
+        "captionText": "Double Diamond Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-095_P0.png",
+        "imgName": "BT6-095_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/71/BT6-095_P0.png/revision/latest?cb=20220304192911",
+        "uploadDate": "2022-03-04T19:29:11"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-095-J.png",
+        "imgName": "BT6-095-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/61/BT6-095-J.png/revision/latest?cb=20210521045939",
+        "uploadDate": "2021-05-21T04:59:39"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/85/BT6-095.png/revision/latest?cb=20210921061302",
+  "name": "Happy Bullet Showering",
+  "nameJapanese": "ハッピーバレットシャワリング",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT6-095#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT6-095 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "If you have a Digimon with [Three Musketeers] in its type in play in your battle area, you can use this Option card even if you don’t have a red Digimon or Tamer in play.",
+        "question": "\"If you have a Digimon with [Three Musketeers] in its type in play, you may use this Option card without meeting its color requirements.” How does this effect work, exactly?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "The effect deletes your opponent’s Digimon with the lowest DP. If multiple Digimon are tied for lowest, all of them are deleted.",
+        "question": "What does “all of your opponent's Digimon with the lowest DP” mean, exactly?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Activate this card's [Main] effects.",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+          "text": "BT-06: Booster Double Diamond"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ryuda",
+          "text": "Ryuda"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Double_Diamond_Pre-Release_Pack",
+          "text": "Double Diamond Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ryuda",
+          "text": "Ryuda"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+          "text": "BT-06: Booster Double Diamond"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ryuda",
+          "text": "Ryuda"
+        }
+      }
+    ]
+  },
+  "useCost": "7"
+}

@@ -1,0 +1,148 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[ACCEL] trait: Cost 3",
+  "attribute": "Vaccine",
+  "blockIcon": "04",
+  "cardEffects": "[On Play] [When Digivolving] Until the end of your opponent's turn, 1 of their Digimon can't activate [When Digivolving] effects and gets -3000 DP.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "6000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-033.png",
+        "imgName": "BT20-033.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c1/BT20-033.png/revision/latest?cb=20250207070924",
+        "uploadDate": "2025-02-07T07:09:24"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-033-Sample.png",
+        "imgName": "BT20-033-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/73/BT20-033-Sample.png/revision/latest?cb=20241231094357",
+        "uploadDate": "2024-12-31T09:43:57"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-033-J.png",
+        "imgName": "BT20-033-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/88/BT20-033-J.png/revision/latest?cb=20250124093732",
+        "uploadDate": "2025-01-24T09:37:32"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-033-Sample-J.png",
+        "imgName": "BT20-033-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/69/BT20-033-Sample-J.png/revision/latest?cb=20241231094434",
+        "uploadDate": "2024-12-31T09:44:34"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c1/BT20-033.png/revision/latest?cb=20250207070924",
+  "inheritedEffect": "[Opponent's Turn] [Once Per Turn] When one of your opponent's Digimon attacks, you may change the attack target to this Digimon.",
+  "level": "5",
+  "name": "LoaderLeomon",
+  "nameJapanese": "ローダーレオモン",
+  "playCost": "6",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT20-033#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for BT20-033 (2025/01/24, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "This is an effect that prevents a card's [When Digivolving] effect from being activated. When a card digivolves and triggers the [When Digivolving] effect, or the \"Activate [When Digivolving] effect\" effect, etc., the card will no longer be able to activate the [When Digivolving] effect.",
+        "question": "What does \"[When Digivolving] effect is not activated\" mean?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it activates. If the effect is triggered by [When Attacking], it can be activated.",
+        "question": "I attacked with a card that has \"No [When Digivolving] effect activated\". In this case, can I activate the card's [When Digivolving] and [When Attacking] effects?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it cannot be activated.",
+        "question": "Can a card with \"No [When Digivolving] effect\" activate its own [When Digivolving] effect with the \"Activate 1 [When Digivolving] effect\" effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it cannot be activated.",
+        "question": "Can a card with \"No [When Digivolving] effect\" activate another card's [When Digivolving] effect with the \"Activate one [When Digivolving] effect as this card's effect\" effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it activates.",
+        "question": "Can I activate the [When Digivolving] effect of a card that does not have the [When Digivolving] effect activated by another card that has the [When Digivolving] effect activated?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, I cannot.",
+        "question": "Can a card with \"Does not activate [When Digivolving] effect\" handle only the \"By\" requirements of the [When Digivolved] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it is not consumed. No [X times per turn] is consumed because the [When Digivolving] effect cannot be activated at the time of digivolved.",
+        "question": "A card with \"[When Digivolved] Effect is not activated\" has evolved into a card with [When Digivolved] [When Attacking] [Once Per Turn]. In this case, the effect could not be activated at the time it digivolved to that card, but does it consume the [X times per turn] of the effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+          "text": "BT-20: Booster Over the X"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ]
+  },
+  "type": "Machine/ACCEL"
+}

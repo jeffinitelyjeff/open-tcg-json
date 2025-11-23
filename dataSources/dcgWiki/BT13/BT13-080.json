@@ -1,0 +1,100 @@
+{
+  "attribute": "Unknown",
+  "blockIcon": "02",
+  "cardEffects": "When you would play this card from your hand, by deleting 1 of your level 2 Digimon from the breeding area, reduce the play cost by 2.\n[On Play] ＜Draw 1＞ (Draw 1 card from your deck.) Then, trash 1 card from your hand.\n[All Turns] This Digimon can't digivolve.\n[On Deletion] By returning 2 cards with [Gizmon] in their names from your trash to the bottom of your deck in any order, you may play 1 [Gizmon: AT] from your trash without paying its cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "dp": "3000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-080.png",
+        "imgName": "BT13-080.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2d/BT13-080.png/revision/latest?cb=20230714185530",
+        "uploadDate": "2023-07-14T18:55:30"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-080-J.png",
+        "imgName": "BT13-080-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/dc/BT13-080-J.png/revision/latest?cb=20230217122638",
+        "uploadDate": "2023-02-17T12:26:38"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-080-Sample-J.png",
+        "imgName": "BT13-080-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/65/BT13-080-Sample-J.png/revision/latest?cb=20230128061950",
+        "uploadDate": "2023-01-28T06:19:50"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2d/BT13-080.png/revision/latest?cb=20230714185530",
+  "level": "3",
+  "name": "ProtoGizmon",
+  "nameJapanese": "プロトギズモン",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT13-080#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT13-080 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes it can. Placing a card in digivolution cards isn't digivolution.",
+        "question": "This Digimon can't Digivolve, but can it be placed in another Digimon's digivolution cards by a card effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "Can I use this card's [On Deletion] effect to return this card itself from my trash to the bottom of my deck?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "When I only have 2 cards with [Gizmon] including this card in my trash, can I use this card's [On Deletion] effect to return those 2 cards to the bottom of my deck but not play [Gizmon: AT] from my trash?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "type": "Unknown"
+}

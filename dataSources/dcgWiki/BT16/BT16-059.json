@@ -1,0 +1,110 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Pulsemon] in text: Cost 3",
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] [When Digivolving] If you have 3 or more security cards, ＜De-Digivolve  1＞ 1 of your opponent's Digimon. If you have 3 or fewer, delete 1 of their Digimon with a play cost of 6 or less.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "4"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "4"
+    }
+  ],
+  "dp": "6000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-059.png",
+        "imgName": "BT16-059.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d5/BT16-059.png/revision/latest?cb=20240426204050",
+        "uploadDate": "2024-04-26T20:40:50"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-059-J.png",
+        "imgName": "BT16-059-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/29/BT16-059-J.png/revision/latest?cb=20231215073418",
+        "uploadDate": "2023-12-15T07:34:18"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-059-Sample-J.png",
+        "imgName": "BT16-059-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3e/BT16-059-Sample-J.png/revision/latest?cb=20231125090116",
+        "uploadDate": "2023-11-25T09:01:16"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d5/BT16-059.png/revision/latest?cb=20240426204050",
+  "inheritedEffect": "[End of Attack] [Once Per Turn] If this Digimon has [Pulsemon] in its text, by trashing the top card of your security stack, unsuspend this Digimon.",
+  "level": "5",
+  "name": "Shootmon",
+  "nameJapanese": "シュートモン",
+  "playCost": "6",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT16-059#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT16-059 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, that's correct.",
+        "question": "If I have exactly 3 cards in my security stack, do I activate both the \"＜De-Digivolve  1＞ nocategory of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.) 1 of your opponent's Digimon\" effect and the \"delete 1 of their Digimon with a play cost of 6 or less\" effect when activating this card's [On Play] [When Digivolving] effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ]
+  },
+  "type": "Machine"
+}

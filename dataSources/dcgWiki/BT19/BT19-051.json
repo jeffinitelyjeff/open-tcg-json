@@ -1,0 +1,121 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Xros Heart] trait: Cost 3",
+  "attribute": "Vaccine",
+  "blockIcon": "04",
+  "cardEffects": "This card is also treated as [Ballistamon] for a DigiXros.\n[On Play] [When Digivolving] 1 of your Digimon can't be returned to the hand or deck and gets +3000 DP until the end of your opponent's turn.\n[On Deletion] You may place 1 Digimon card with the [Xros Heart] or [Blue Flare] trait from your hand or trash under any of your Tamers.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-051.png",
+        "imgName": "BT19-051.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/96/BT19-051.png/revision/latest?cb=20250207192450",
+        "uploadDate": "2025-02-07T19:24:50"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-051-J.png",
+        "imgName": "BT19-051-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/57/BT19-051-J.png/revision/latest?cb=20240920100129",
+        "uploadDate": "2024-09-20T10:01:29"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-051-Sample-J.png",
+        "imgName": "BT19-051-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/51/BT19-051-Sample-J.png/revision/latest?cb=20240823090354",
+        "uploadDate": "2024-08-23T09:03:54"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/96/BT19-051.png/revision/latest?cb=20250207192450",
+  "inheritedEffect": "[Opponent's Turn] This Digimon with the [Xros Heart] trait gains ＜Blocker＞ (This Digimon can block in the blocker timing.).",
+  "level": "5",
+  "name": "AtlurBallistamon",
+  "nameJapanese": "アトラーバリスタモン",
+  "playCost": "7",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT19-051#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for BT19-051 (2024/09/20, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, it cannot. This card can also be treated as a \"ballistamon\" only in DigiXros.",
+        "question": "Can this card be placed under a tamer in a \"material save\" of a Digimon with \"ballistamon\" in the DigiXros conditions, such as \"BT10-013 Shoutmon X5\"?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.5_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.5 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Stamped - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+          "text": "BT-19: Booster Xros Evolution"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ]
+  },
+  "type": "Machine/Xros Heart"
+}

@@ -1,0 +1,102 @@
+{
+  "attribute": "Free",
+  "blockIcon": "04",
+  "cardEffects": "[On Play] [When Digivolving] Delete 1 of your opponent's Digimon with 3000 DP or less. Then, if it's your turn, 2 of your Digimon may DNA digivolve into a Digimon card with [Imperialdramon] in its name or the [Free] trait in the hand.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "2",
+      "level": "3"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "2",
+      "level": "3"
+    }
+  ],
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-011.png",
+        "imgName": "BT20-011.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a6/BT20-011.png/revision/latest?cb=20250207070809",
+        "uploadDate": "2025-02-07T07:08:09"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-011-Sample.png",
+        "imgName": "BT20-011-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/76/BT20-011-Sample.png/revision/latest?cb=20250115060920",
+        "uploadDate": "2025-01-15T06:09:20"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-011-J.png",
+        "imgName": "BT20-011-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4a/BT20-011-J.png/revision/latest?cb=20250124093846",
+        "uploadDate": "2025-01-24T09:38:46"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-011-Sample-J.png",
+        "imgName": "BT20-011-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/99/BT20-011-Sample-J.png/revision/latest?cb=20250115060944",
+        "uploadDate": "2025-01-15T06:09:44"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a6/BT20-011.png/revision/latest?cb=20250207070809",
+  "inheritedEffect": "[Your Turn] This Digimon gets +2000 DP.",
+  "level": "4",
+  "name": "ExVeemon",
+  "nameJapanese": "エクスブイモン",
+  "nameTranslated": "XVmon",
+  "playCost": "4",
+  "rarity": "Common",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+          "text": "BT-20: Booster Over the X"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      }
+    ]
+  },
+  "type": "Mythical Dragon"
+}

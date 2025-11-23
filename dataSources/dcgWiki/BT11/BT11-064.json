@@ -1,0 +1,106 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Greymon]: Cost 0",
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[Your Turn] When this Digimon would digivolve into a card with [Greymon] in its name, reduce the cost by 1 for each of that card's colors.",
+  "cardRestriction": {
+    "chinese": "Restricted to 1",
+    "english": "Restricted to 1",
+    "korean": "Not released",
+    "nameJapanese": "Restricted to 1"
+  },
+  "cardType": "Digimon",
+  "color": "Black / Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "6000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-064.png",
+        "imgName": "BT11-064.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0e/BT11-064.png/revision/latest?cb=20230210132458",
+        "uploadDate": "2023-02-10T13:24:58"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-064-J.png",
+        "imgName": "BT11-064-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c1/BT11-064-J.png/revision/latest?cb=20220922114915",
+        "uploadDate": "2022-09-22T11:49:15"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-064-Sample-J.png",
+        "imgName": "BT11-064-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bd/BT11-064-Sample-J.png/revision/latest?cb=20220904052543",
+        "uploadDate": "2022-09-04T05:25:43"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0e/BT11-064.png/revision/latest?cb=20230210132458",
+  "inheritedEffect": "[All Turns] When this Digimon with [Greymon] or [Omnimon] in its name would be deleted or returned to your hand or deck by an effect, by placing 1 [X Antibody] from this Digimon's digivolution cards at the bottom of its owner's deck, prevent this Digimon from leaving play.",
+  "level": "4",
+  "name": "Greymon (X Antibody)",
+  "nameJapanese": "グレイモンX抗体",
+  "playCost": "5",
+  "rarity": "Common",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ]
+  },
+  "traditionalChinese": "暴龍獸X抗體",
+  "type": "Dinosaur/X Antibody"
+}

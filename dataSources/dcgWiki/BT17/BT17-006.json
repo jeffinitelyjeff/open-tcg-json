@@ -1,0 +1,117 @@
+{
+  "blockIcon": "03",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digi-Egg",
+  "color": "Purple",
+  "form": "In-Training",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-006.png",
+        "imgName": "BT17-006.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6c/BT17-006.png/revision/latest?cb=20240705214737",
+        "uploadDate": "2024-07-05T21:47:37"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Secret_Crisis",
+        "captionText": "Pre-Release Pack Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-006_P0.png",
+        "imgName": "BT17-006_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bd/BT17-006_P0.png/revision/latest?cb=20240727082048",
+        "uploadDate": "2024-07-27T08:20:48"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-006-J.png",
+        "imgName": "BT17-006-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6d/BT17-006-J.png/revision/latest?cb=20240322064311",
+        "uploadDate": "2024-03-22T06:43:11"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-006-Sample-J.png",
+        "imgName": "BT17-006-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f0/BT17-006-Sample-J.png/revision/latest?cb=20240314054718",
+        "uploadDate": "2024-03-14T05:47:18"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6c/BT17-006.png/revision/latest?cb=20240705214737",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When an effect places a Tamer card in this Digimon's digivolution cards, this Digimon may digivolve into a Digimon card with the [SoC] trait in your trash.",
+  "level": "2",
+  "name": "Bowmon",
+  "nameJapanese": "バウモン",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT17-006#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT17-006 (Sep. 6, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.",
+        "question": "Can I use this card's inherited effect to digivolve when I activate ＜Mind Link＞ to 1 of your Digimon. (Place this Tamer as that Digimon's bottom digivolution card if there are no Tamer cards in its digivolution cards.) on a digivolution card of a Digimon with this card in its digivolution cards and place a Tamer card?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, this card's inherited effect does not allow ignoring digivolution requirements, so you can only digivolve into a card that meets the digivolution requirements.",
+        "question": "When I use this card's inherited effect to digivolve into a Digimon card with the [SoC] trait in the trash, can it digivolve regardless of its digivolution requirements?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Secret_Crisis",
+          "text": "Pre-Release Pack Secret Crisis"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      }
+    ]
+  },
+  "type": "Lesser/X Antibody/SoC"
+}

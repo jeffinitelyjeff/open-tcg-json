@@ -1,0 +1,170 @@
+{
+  "blockIcon": "00",
+  "cardEffects": "[Main] Delete 1 of your opponent's unsuspended level 4 Digimon and 1 of your opponent's unsuspended level 5 Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Purple",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": null,
+        "captionText": "BTC-03: Booster Diamond Legend (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-108-C.png",
+        "imgName": "BT5-108-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7c/BT5-108-C.png/revision/latest?cb=20231120191627",
+        "uploadDate": "2023-11-20T19:16:27"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-108.png",
+        "imgName": "BT5-108.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/73/BT5-108.png/revision/latest?cb=20210720175605",
+        "uploadDate": "2021-07-20T17:56:05"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Battle_of_Omni_Pre-Release_Pack",
+        "captionText": "Battle of Omni Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-108_P0.png",
+        "imgName": "BT5-108_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/71/BT5-108_P0.png/revision/latest?cb=20220306110335",
+        "uploadDate": "2022-03-06T11:03:35"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-108-J.png",
+        "imgName": "BT5-108-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9d/BT5-108-J.png/revision/latest?cb=20240113160610",
+        "uploadDate": "2024-01-13T16:06:10"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-108-K.png",
+        "imgName": "BT5-108-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/79/BT5-108-K.png/revision/latest?cb=20230819155939",
+        "uploadDate": "2023-08-19T15:59:39"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/73/BT5-108.png/revision/latest?cb=20210720175605",
+  "korean": "일의 태도",
+  "name": "Earth Shaker",
+  "nameJapanese": "壱の太刀",
+  "nameTranslated": "First Tachi",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT5-108#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT5-108 (Mar. 28, 2024)"
+      },
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT5-108#qaResult_card",
+        "num": 2,
+        "text": "Official JP Q&A for BT5-108 (translated by DeepL)"
+      },
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT5-108#qaResult_card",
+        "num": 3,
+        "text": "Official JP Q&A for BT5-108 (2024/09/20, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes. As long as your opponent has either an unsuspended level 4 or level 5 in Digimon in play, you can activate this card's effect.",
+        "question": "Can I activate this card's effect if my opponent doesn't have both an unsuspended level 4 and level 5 Digimon in play?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. It is activated even when only one of the opponent's Digimon is in active state, either Lv.4 or Lv.5.",
+        "question": "Does this card have to have both Lv.4 and Lv.5 opponent's Digimon in active state for it to be effective?",
+        "reference": "[2]"
+      },
+      {
+        "answer": "One Digimon of the opponent in the active state of Lv.4 and one Digimon of the opponent in the active state of Lv.5.",
+        "question": "Which card is deleted by the [Main] effect of this card?",
+        "reference": "[3]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Activate this card's [Main] effects.",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-03: Booster Diamond Legend",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Gold Outline - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Battle_of_Omni_Pre-Release_Pack",
+          "text": "Battle of Omni Pre-Release Pack"
+        },
+        "foil&Rarity": "Gold Outline - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Gold Outline - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "壹之太刀",
+  "traditionalChinese": "壹之太刀",
+  "useCost": "6"
+}

@@ -1,0 +1,94 @@
+{
+  "attribute": "Data",
+  "blockIcon": "04",
+  "cardEffects": "[Start of Your Main Phase] By trashing 1 card with the [Rock Dragon] or [Earth Dragon] trait from your hand, ＜Draw 1＞ (Draw 1 card from your deck.) and gain 1 memory.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "0",
+      "level": "2"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "0",
+      "level": "2"
+    }
+  ],
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+        "captionText": "EX-07: Extra Booster Digimon Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX7-039.png",
+        "imgName": "EX7-039.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b1/EX7-039.png/revision/latest?cb=20240830172710",
+        "uploadDate": "2024-08-30T17:27:10"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+        "captionText": "EX-07: Extra Booster Digimon Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX7-039-J.png",
+        "imgName": "EX7-039-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/ac/EX7-039-J.png/revision/latest?cb=20240524113207",
+        "uploadDate": "2024-05-24T11:32:07"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+        "captionText": "EX-07: Extra Booster Digimon Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX7-039-Sample-J.png",
+        "imgName": "EX7-039-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a5/EX7-039-Sample-J.png/revision/latest?cb=20240418090214",
+        "uploadDate": "2024-04-18T09:02:14"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b1/EX7-039.png/revision/latest?cb=20240830172710",
+  "inheritedEffect": "[Opponent's Turn] This Digimon gets +2000 DP.",
+  "level": "3",
+  "name": "Jazamon",
+  "nameJapanese": "ジャザモン",
+  "playCost": "3",
+  "rarity": "Rare",
+  "rule": "[Rule] Trait: Has [Machine Dragon] Type.",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+          "text": "EX-07: Extra Booster Digimon Liberator"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+          "text": "EX-07: Extra Booster Digimon Liberator"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ]
+  },
+  "type": "Bird Dragon"
+}

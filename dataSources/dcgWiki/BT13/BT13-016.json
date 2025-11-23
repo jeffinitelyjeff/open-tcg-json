@@ -1,0 +1,122 @@
+{
+  "attribute": "Data",
+  "blockIcon": "02",
+  "cardEffects": "[Your Turn] When you play a Digimon with [Sistermon] in its name, you may digivolve this Digimon into a Digimon card with [Jesmon] in its name in your hand for its digivolution cost. When this Digimon would digivolve by this effect, reduce the digivolution cost by 2.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-016.png",
+        "imgName": "BT13-016.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/97/BT13-016.png/revision/latest?cb=20230714185525",
+        "uploadDate": "2023-07-14T18:55:25"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Royal_Knights_Pre-Release_Pack",
+        "captionText": "Royal Knights Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-016_P0.png",
+        "imgName": "BT13-016_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a0/BT13-016_P0.png/revision/latest?cb=20230714195733",
+        "uploadDate": "2023-07-14T19:57:33"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-016-J.png",
+        "imgName": "BT13-016-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8d/BT13-016-J.png/revision/latest?cb=20230217122643",
+        "uploadDate": "2023-02-17T12:26:43"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-016-Sample-J.png",
+        "imgName": "BT13-016-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2b/BT13-016-Sample-J.png/revision/latest?cb=20230120134509",
+        "uploadDate": "2023-01-20T13:45:09"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/97/BT13-016.png/revision/latest?cb=20230714185525",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] If this Digimon has the [Royal Knight] trait, you may play 1 Digimon card with [Sistermon] in its name from your hand or trash without paying its cost.",
+  "level": "5",
+  "name": "SaviorHuckmon",
+  "nameJapanese": "セイバーハックモン",
+  "nameTranslated": "SaviorHackmon",
+  "playCost": "8",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT13-016#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT13-016 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "The effects trigger simultaneously, so the player chooses the activation order.",
+        "question": "When I play a Digimon with [Sistermon], which effect activates first, that Digimon's [On Play] effect or this card's [Your Turn] effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Royal_Knights_Pre-Release_Pack",
+          "text": "Royal Knights Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      }
+    ]
+  },
+  "type": "Dragonkin"
+}

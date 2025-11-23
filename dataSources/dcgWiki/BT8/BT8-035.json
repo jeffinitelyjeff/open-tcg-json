@@ -1,0 +1,103 @@
+{
+  "attribute": "Data",
+  "blockIcon": "01",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "0",
+      "level": "2"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "0",
+      "level": "2"
+    }
+  ],
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-035.png",
+        "imgName": "BT8-035.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e3/BT8-035.png/revision/latest?cb=20220422124927",
+        "uploadDate": "2022-04-22T12:49:27"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-035-J.png",
+        "imgName": "BT8-035-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/54/BT8-035-J.png/revision/latest?cb=20211119075606",
+        "uploadDate": "2021-11-19T07:56:06"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-035-Sample-J.png",
+        "imgName": "BT8-035-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/94/BT8-035-Sample-J.png/revision/latest?cb=20211112040832",
+        "uploadDate": "2021-11-12T04:08:32"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e3/BT8-035.png/revision/latest?cb=20220422124927",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When you play another purple Digimon, gain 1 memory.",
+  "level": "3",
+  "name": "Candlemon",
+  "nameJapanese": "キャンドモン",
+  "nameTranslated": "Candmon",
+  "playCost": "3",
+  "rarity": "Common",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ]
+  },
+  "type": "Flame"
+}

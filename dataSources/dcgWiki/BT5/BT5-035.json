@@ -1,0 +1,168 @@
+{
+  "attribute": "Data",
+  "blockIcon": "00",
+  "cardEffects": "[On Play] For each Digimon you have in play, 1 of your opponent's Digimon gets -1000 DP for the turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": null,
+        "captionText": "BTC-03: Booster Diamond Legend (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-035-C.png",
+        "imgName": "BT5-035-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/19/BT5-035-C.png/revision/latest?cb=20231120181018",
+        "uploadDate": "2023-11-20T18:10:18"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-035.png",
+        "imgName": "BT5-035.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/de/BT5-035.png/revision/latest?cb=20210720175536",
+        "uploadDate": "2021-07-20T17:55:36"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Event_Pack_2",
+        "captionText": "Event Pack 2 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-035_P1.png",
+        "imgName": "BT5-035_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/af/BT5-035_P1.png/revision/latest?cb=20220102152351",
+        "uploadDate": "2022-01-02T15:23:51"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-035-J.png",
+        "imgName": "BT5-035-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d8/BT5-035-J.png/revision/latest?cb=20240111170501",
+        "uploadDate": "2024-01-11T17:05:01"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-035-K.png",
+        "imgName": "BT5-035-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d0/BT5-035-K.png/revision/latest?cb=20230819153036",
+        "uploadDate": "2023-08-19T15:30:36"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/de/BT5-035.png/revision/latest?cb=20210720175536",
+  "korean": "스타몬즈",
+  "level": "3",
+  "name": "Starmons",
+  "nameJapanese": "スターモンズ",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT5-035#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT5-035 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it does. This Digimon counts toward this card's effect.",
+        "question": "Does this card's effect count this Digimon itself?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't. The effect only targets 1 of your opponent's Digimon.",
+        "question": "I have 2 Digimon in play. Can I use this card's effect to give -1000 DP each to 2 of my opponent's Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't. The [On Play] effect has already finished activating.",
+        "question": "After playing this Digimon, I play another Digimon during the same turn. Since I now have more Digimon in play, can I give my opponent's Digimon an additional -1000 DP?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-03: Booster Diamond Legend",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Event_Pack_2",
+          "text": "Event Pack 2"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "星星兽S",
+  "traditionalChinese": "星星獸軍團",
+  "type": "Major"
+}

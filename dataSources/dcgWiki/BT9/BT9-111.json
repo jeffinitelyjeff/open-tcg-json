@@ -1,0 +1,171 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Alphamon] w/[Ouryumon] digivolution card: Cost 3",
+  "attribute": "Vaccine",
+  "blockIcon": "01",
+  "cardEffects": "[When Digivolving] Delete all of your opponent's Digimon with the highest play cost.\n[End of Your Turn] [Once Per Turn] You may return up to 7 non-Digi-Egg cards with the [X Antibody] trait from this Digimon's digivolution cards to the bottom of your deck in any order, if you do, gain 1 memory for each card returned.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "7",
+    "level": "6"
+  },
+  "dp": "16000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-111.png",
+        "imgName": "BT9-111.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2d/BT9-111.png/revision/latest?cb=20220625065208",
+        "uploadDate": "2022-06-25T06:52:08"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-111_P1.png",
+        "imgName": "BT9-111_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/db/BT9-111_P1.png/revision/latest?cb=20220625064949",
+        "uploadDate": "2022-06-25T06:49:49"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-111-J.png",
+        "imgName": "BT9-111-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fc/BT9-111-J.png/revision/latest?cb=20220218110459",
+        "uploadDate": "2022-02-18T11:04:59"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-111_P1-J.png",
+        "imgName": "BT9-111_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2a/BT9-111_P1-J.png/revision/latest?cb=20220225093218",
+        "uploadDate": "2022-02-25T09:32:18"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-111-Sample-J.png",
+        "imgName": "BT9-111-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6e/BT9-111-Sample-J.png/revision/latest?cb=20220203133933",
+        "uploadDate": "2022-02-03T13:39:33"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (Alternative Art) (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-111_P1-Sample-J.png",
+        "imgName": "BT9-111_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e1/BT9-111_P1-Sample-J.png/revision/latest?cb=20220217093148",
+        "uploadDate": "2022-02-17T09:31:48"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2d/BT9-111.png/revision/latest?cb=20220625065208",
+  "level": "7",
+  "name": "Alphamon: Ouryuken",
+  "nameJapanese": "アルファモン：王竜剣",
+  "playCost": "15",
+  "rarity": "Secret Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT9-111#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT9-111 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. In this case, your turn simply continues without switching over.",
+        "question": "If this card’s [End of Your Turn] effect gains me enough memory to bring the memory gauge to 0 or greater on my side, does it briefly become my opponent’s turn before switching back to my turn again?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes. You're not trashing it, so there’s nothing preventing you from returning it to your deck.",
+        "question": "If [BT9-109 X Antibody] is in this card’s digivolution cards, can this card’s [End of Your Turn] effect return [BT9-109 X Antibody] from this card’s digivolution cards to the bottom of my deck?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "Textured - Secret Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "Textured - Secret Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "Textured - Secret Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ]
+  },
+  "type": "NO DATA/Royal Knight/X Antibody"
+}

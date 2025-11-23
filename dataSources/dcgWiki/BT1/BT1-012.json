@@ -1,0 +1,163 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "00",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BTC-01:_Booster_Ultimate_Evolution",
+        "captionText": "BTC-01: Booster Ultimate Evolution (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-012-C.png",
+        "imgName": "BT1-012-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/93/BT1-012-C.png/revision/latest?cb=20230828232636",
+        "uploadDate": "2023-08-28T23:26:36"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+        "captionText": "BT01-03: Release Special Booster Ver.1.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-012.png",
+        "imgName": "BT1-012.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2f/BT1-012.png/revision/latest?cb=20201212014629",
+        "uploadDate": "2020-12-12T01:46:29"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-01:_Booster_New_Evolution",
+        "captionText": "BT-01: Booster New Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-012-J.png",
+        "imgName": "BT1-012-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/37/BT1-012-J.png/revision/latest?cb=20201213121446",
+        "uploadDate": "2020-12-13T12:14:46"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+        "captionText": "BT01-03: Release Special Booster Ver.1.0 (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-012-K.png",
+        "imgName": "BT1-012-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/62/BT1-012-K.png/revision/latest?cb=20230814072335",
+        "uploadDate": "2023-08-14T07:23:35"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2f/BT1-012.png/revision/latest?cb=20201212014629",
+  "inheritedEffect": "[Your Turn] When this Digimon is blocked, it gets +2000 DP.",
+  "korean": "피요몬",
+  "level": "3",
+  "name": "Biyomon",
+  "nameJapanese": "ピヨモン",
+  "nameTranslated": "Piyomon",
+  "playCost": "3",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT1-012#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT1-012 (Mar. 28, 2024)"
+      },
+      {
+        "link": "https://cdn.discordapp.com/attachments/749146995708395601/910836411064807444/unknown.png",
+        "num": 2,
+        "text": "Carddass Email English 18/11/2021: Effects without \"for the turn\""
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "It lasts until the end of the turn you activated it.",
+        "question": "How long does the 2000 DP boost from this card's inherited effect last?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, the +2000 DP boost ends.",
+        "question": "I activate this card's inherited effect to boost its DP. Later, this digivolution card is trashed. Does the DP boost go away?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. If your opponent doesn't block, the effect doesn't activate.  Regardless of what the target of attack is, the effect activates when a Digimon with this card in its digivolution cards attacks an opponent's Digimon and has its attack target changed to a blocking opponent's Digimon.",
+        "question": "Does this card's inherited effect activate when attacking an opponent's Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, as it does not specify \"for the turn\" it loses the boost as soon as the inherited effect was lost.",
+        "question": "If after activating this effect, the Digimon is hit by ＜De-Digivolve＞ so that it becomes this card again. Does the Digimon keep the boost if it digivolves into a new Digimon?",
+        "reference": "[2]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BTC-01:_Booster_Ultimate_Evolution",
+          "text": "BTC-01: Booster Ultimate Evolution"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+          "text": "BT01-03: Release Special Booster Ver.1.0"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-01:_Booster_New_Evolution",
+          "text": "BT-01: Booster New Evolution"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+          "text": "BT01-03: Release Special Booster Ver.1.0"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "比丘兽",
+  "traditionalChinese": "比丘獸",
+  "type": "Bird"
+}

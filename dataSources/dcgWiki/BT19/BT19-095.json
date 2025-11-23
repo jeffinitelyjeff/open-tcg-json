@@ -1,0 +1,87 @@
+{
+  "blockIcon": "04",
+  "cardEffects": "While you don't have [Knight Device] in the battle area, you may ignore this card's color requirements.\nWhen effects trash this card from the  battle area, 1 of your Digimon gains ＜Piercing＞  (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.) and gets +4000 DP for the turn.\n[Main] 1 of your Digimon gains ＜Piercing＞  (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.) and gets +4000 DP for the turn. Then, place this card in the battle area.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Green",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-095.png",
+        "imgName": "BT19-095.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/ca/BT19-095.png/revision/latest?cb=20250207065734",
+        "uploadDate": "2025-02-07T06:57:34"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-095-J.png",
+        "imgName": "BT19-095-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/48/BT19-095-J.png/revision/latest?cb=20240920100602",
+        "uploadDate": "2024-09-20T10:06:02"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-095-Sample-J.png",
+        "imgName": "BT19-095-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e7/BT19-095-Sample-J.png/revision/latest?cb=20240821064429",
+        "uploadDate": "2024-08-21T06:44:29"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/ca/BT19-095.png/revision/latest?cb=20250207065734",
+  "name": "Knight Device",
+  "nameJapanese": "ナイト・デヴァイス",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT19-095#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for BT19-095 (2024/09/20, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "The second effect is activated, until the end of that opponent's turn.",
+        "question": "If this card in the Battle Area is trashed during my opponent's turn, how long will the second effect of this card be given?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Suspend 2 of your opponent's Digimon or Tamers. Then, add this card to the hand.",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+          "text": "BT-19: Booster Xros Evolution"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "type": "Device",
+  "useCost": "3"
+}

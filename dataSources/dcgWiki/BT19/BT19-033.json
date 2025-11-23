@@ -1,0 +1,93 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "04",
+  "cardEffects": "[On Play] This Digimon may digivolve into [JaegerDorulumon] under your Tamers without paying the cost.\n[On Deletion] ＜Save＞ (You may place this card under one of your Tamers.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow / Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-033.png",
+        "imgName": "BT19-033.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3b/BT19-033.png/revision/latest?cb=20250207065427",
+        "uploadDate": "2025-02-07T06:54:27"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-033-J.png",
+        "imgName": "BT19-033-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/18/BT19-033-J.png/revision/latest?cb=20240920100000",
+        "uploadDate": "2024-09-20T10:00:00"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-033-Sample-J.png",
+        "imgName": "BT19-033-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/92/BT19-033-Sample-J.png/revision/latest?cb=20240830054316",
+        "uploadDate": "2024-08-30T05:43:16"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3b/BT19-033.png/revision/latest?cb=20250207065427",
+  "inheritedEffect": "[Your Turn] This Digimon with the [Xros Heart] trait gains ＜Piercing＞  (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.).",
+  "level": "4",
+  "name": "Dorulumon",
+  "nameJapanese": "ドルルモン",
+  "playCost": "4",
+  "rarity": "Common",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+          "text": "BT-19: Booster Xros Evolution"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ]
+  },
+  "type": "Beast/Xros Heart"
+}

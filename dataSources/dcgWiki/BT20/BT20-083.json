@@ -1,0 +1,154 @@
+{
+  "attribute": "Data",
+  "blockIcon": "04",
+  "cardEffects": "＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Play] If you have 1 or fewer security cards, this Digimon may digivolve into [Omnimon (X Antibody)] in the hand, ignoring digivolution requirements and without paying the cost.\n[On Deletion] You may place this card as the bottom digivolution card of your [King Drasil_7D6] in the breeding area.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "White",
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-083.png",
+        "imgName": "BT20-083.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2c/BT20-083.png/revision/latest?cb=20250207192013",
+        "uploadDate": "2025-02-07T19:20:13"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-083-Sample.png",
+        "imgName": "BT20-083-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bb/BT20-083-Sample.png/revision/latest?cb=20250114062357",
+        "uploadDate": "2025-01-14T06:23:57"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Judge_Pack_2025_Season_1",
+        "captionText": "Judge Pack 2025 Season 1 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-083_P1.png",
+        "imgName": "BT20-083_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1a/BT20-083_P1.png/revision/latest?cb=20250409103807",
+        "uploadDate": "2025-04-09T10:38:07"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Judge_Pack_2025_Season_1",
+        "captionText": "Judge Pack 2025 Season 1 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-083_P1-Sample.png",
+        "imgName": "BT20-083_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/47/BT20-083_P1-Sample.png/revision/latest?cb=20250126191330",
+        "uploadDate": "2025-01-26T19:13:30"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-083-J.png",
+        "imgName": "BT20-083-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c0/BT20-083-J.png/revision/latest?cb=20250124093013",
+        "uploadDate": "2025-01-24T09:30:13"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-083-Sample-J.png",
+        "imgName": "BT20-083-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/76/BT20-083-Sample-J.png/revision/latest?cb=20250114061812",
+        "uploadDate": "2025-01-14T06:18:12"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2c/BT20-083.png/revision/latest?cb=20250207192013",
+  "inheritedEffect": "[Breeding] [Opponent's Turn] When your security stack is removed from, by suspending this Digimon, play 1 [Omekamon] from this Digimon's digivolution cards without paying the cost.",
+  "level": "4",
+  "name": "Omekamon",
+  "nameJapanese": "オメカモン",
+  "playCost": "5",
+  "rarity": "Rare",
+  "rule": "[Rule] Name: Also treated as [X Antibody].",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT20-083#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for BT20-083 (2025/01/24, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "This effect can be triggered and activated while the card is in the Breeding Area. It cannot be triggered or activated outside of the Breeding Area.",
+        "question": "What are the effects of the [nurturing] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Security] effects are activated first. Security] effects, if checked, will be activated immediately without pending activation. Other triggered effects are activated from the turn player's side.",
+        "question": "If the [Security] effect, the \"when security is checked\" effect, and the \"when security is reduced\" effect are triggered simultaneously, in which order do they activate?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, they can be played.",
+        "question": "I have a Digimon in my Breeding Area that has this card as its digivolution card. Can I use this card's inherited effect to rest that Digimon and play the digivolution card itself?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.5_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.5 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Judge_Pack_2025_Season_1",
+          "text": "Judge Pack 2025 Season 1"
+        },
+        "foil&Rarity": "Foil - Judge Stamp - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+          "text": "BT-20: Booster Over the X"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ]
+  },
+  "type": "Puppet/X Antibody/LIBERATOR"
+}

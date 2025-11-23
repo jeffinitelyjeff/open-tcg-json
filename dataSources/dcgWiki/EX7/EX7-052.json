@@ -1,0 +1,150 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "04",
+  "cardEffects": "[On Play] Reveal the top 3 cards of your deck. Among them, add 1 card with [Lilithmon] in its text to the hand and trash 1 purple card. Return the rest to the bottom of the deck.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+        "captionText": "EX-07: Extra Booster Digimon Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX7-052.png",
+        "imgName": "EX7-052.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7b/EX7-052.png/revision/latest?cb=20240830172239",
+        "uploadDate": "2024-08-30T17:22:39"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+        "captionText": "EX-07: Extra Booster Digimon Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX7-052_P1.png",
+        "imgName": "EX7-052_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/29/EX7-052_P1.png/revision/latest?cb=20240830172240",
+        "uploadDate": "2024-08-30T17:22:40"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+        "captionText": "EX-07: Extra Booster Digimon Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX7-052-J.png",
+        "imgName": "EX7-052-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c2/EX7-052-J.png/revision/latest?cb=20240524113207",
+        "uploadDate": "2024-05-24T11:32:07"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+        "captionText": "EX-07: Extra Booster Digimon Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX7-052-Sample-J.png",
+        "imgName": "EX7-052-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3b/EX7-052-Sample-J.png/revision/latest?cb=20240510063250",
+        "uploadDate": "2024-05-10T06:32:50"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+        "captionText": "EX-07: Extra Booster Digimon Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX7-052_P1-J.png",
+        "imgName": "EX7-052_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b5/EX7-052_P1-J.png/revision/latest?cb=20240531091330",
+        "uploadDate": "2024-05-31T09:13:30"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7b/EX7-052.png/revision/latest?cb=20240830172239",
+  "inheritedEffect": "[Opponent's Turn] [Once Per Turn] When an opponent's Digimon attacks, by deleting 1 of your other Digimon, end the attack.",
+  "level": "3",
+  "name": "Tsukaimon",
+  "nameJapanese": "ツカイモン",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX7-052#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX7-052 (Sep. 13, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can't end that attack.  If the \"by doing X\" condition isn't met, the rest of the effect isn't processed. In this case, if you can't delete 1 of your other Digimon, then you can't end the attack.",
+        "question": "I tried to delete 1 of my other Digimon using this card's inherited effect when an opponent's Digimon attacked, but I couldn't delete the other Digimon due to another effect. Can I end that attack at such times?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "After this effect activates, the current timing makes a transition to the end of attack timing. For example, if this effect activates during the attack declaration timing, it will make a transition to the end of attack timing. A transition to the counter timing or block timing won't occur, and the attack won't succeed.",
+        "question": "What does \"end that attack\" mean, exactly?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can end such attacks.  \"End that attack\" effects are effects that change the timing, they don't affect an attacking Digimon.",
+        "question": "Can an \"end that attack\" effect end an attack by a Digimon that isn't affected by effects?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+          "text": "EX-07: Extra Booster Digimon Liberator"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+          "text": "EX-07: Extra Booster Digimon Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+          "text": "EX-07: Extra Booster Digimon Liberator"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+          "text": "EX-07: Extra Booster Digimon Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ]
+  },
+  "type": "Mammal"
+}

@@ -1,0 +1,163 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "01",
+  "cardEffects": "[When Attacking] By placing 1 of your [DeadlyAxemon] at the bottom of this Digimon's digivolution cards, you may digivolve this Digimon into a [DarkKnightmon] in your hand without paying its memory cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "3000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-058.png",
+        "imgName": "BT7-058.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/26/BT7-058.png/revision/latest?cb=20220218130613",
+        "uploadDate": "2022-02-18T13:06:13"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Next_Adventure_Pre-Release_Pack",
+        "captionText": "Next Adventure Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-058_P0.png",
+        "imgName": "BT7-058_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/95/BT7-058_P0.png/revision/latest?cb=20220304175600",
+        "uploadDate": "2022-03-04T17:56:00"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-058-J.png",
+        "imgName": "BT7-058-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/95/BT7-058-J.png/revision/latest?cb=20210820091053",
+        "uploadDate": "2021-08-20T09:10:53"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/26/BT7-058.png/revision/latest?cb=20220218130613",
+  "inheritedEffect": "[Your Turn] While this Digimon has [Knightmon] or [Bagramon] in its name, it gains ＜Security A. +1＞  (This Digimon checks 1 additional security card.)",
+  "level": "4",
+  "name": "SkullKnightmon",
+  "nameJapanese": "スカルナイトモン",
+  "playCost": "4",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT7-058#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT7-058 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can choose a [DeadlyAxemon] with no digivolution cards with this effect.",
+        "question": "Can this card's [When Attacking] effect place one of my [DeadlyAxemon] with no digivolution cards at the bottom of this Digimon’s digivolution cards?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can. In that case, [DeadlyAxemon] becomes a different Digimon, so the [BT9-109 X Antibody] in its digivolution cards is send to the trash according to the rules.",
+        "question": "Can this card's [When Attacking] effect place one of my [DeadlyAxemon] with [X Antibody] in its digivolution cards at the bottom of this Digimon’s digivolution cards?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Regulation_Battle_Vol._3",
+          "text": "Regulation Battle Vol. 3"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ryodan",
+          "text": "Ryodan"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Next_Adventure_Pre-Release_Pack",
+          "text": "Next Adventure Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Regulation_Battle_Vol._3",
+          "text": "Regulation Battle Vol. 3"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ryodan",
+          "text": "Ryodan"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Regulation_Battle_Vol._3",
+          "text": "Regulation Battle Vol. 3"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ryodan",
+          "text": "Ryodan"
+        }
+      }
+    ]
+  },
+  "type": "Undead"
+}

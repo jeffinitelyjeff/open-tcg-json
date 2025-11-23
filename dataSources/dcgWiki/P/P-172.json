@@ -1,0 +1,143 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[NSp] trait: Cost 3 \n[DNA Digivolve] Yellow/Red Lv.5 + Green/Black Lv.5 : Cost 0\nStack the 2 specified Digimon and digivolve unsuspended.",
+  "attribute": "Vaccine",
+  "blockIcon": "04",
+  "cardEffects": "When this card would be played, if [Nature Spirits] is face-up in your security stack, reduce the play cost by 4.\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Play] [On Deletion] 1 of your opponent's Digimon gets -5000 DP for the turn. Then, delete 1 of their Digimon with 5000 DP or less.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow / Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "5"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "5"
+    }
+  ],
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2025",
+        "captionText": "Update Pack 2025 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-172.png",
+        "imgName": "P-172.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/eb/P-172.png/revision/latest?cb=20250124092200",
+        "uploadDate": "2025-01-24T09:22:00"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2025",
+        "captionText": "Update Pack 2025 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-172-Sample.png",
+        "imgName": "P-172-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/de/P-172-Sample.png/revision/latest?cb=20241223092520",
+        "uploadDate": "2024-12-23T09:25:20"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2025",
+        "captionText": "Update Pack 2025 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-172-J.png",
+        "imgName": "P-172-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4d/P-172-J.png/revision/latest?cb=20250124092650",
+        "uploadDate": "2025-01-24T09:26:50"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2025",
+        "captionText": "Update Pack 2025 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-172-Sample-J.png",
+        "imgName": "P-172-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6b/P-172-Sample-J.png/revision/latest?cb=20241223092620",
+        "uploadDate": "2024-12-23T09:26:20"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/eb/P-172.png/revision/latest?cb=20250124092200",
+  "level": "6",
+  "name": "Magnadramon",
+  "nameJapanese": "ホーリードラモン",
+  "playCost": "11",
+  "rarity": "Promo",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=P-172#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for P-172 (2025/01/24, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, they will not be deleted at that time. After all of this card's [On Play] and [On Deletion] effects are resolved, all Digimon with DP 0 at that time will be deleted at the same time.",
+        "question": "This card's [On Play] and [On Deletion] effects have reduced the Digimon's DP to 0. In this case, will the Digimon be deleted before the rest of this effect is processed?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2025",
+          "text": "Update Pack 2025"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Iori_Sunakura",
+          "text": "Iori Sunakura"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2025",
+          "text": "Update Pack 2025"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Iori_Sunakura",
+          "text": "Iori Sunakura"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2025",
+          "text": "Update Pack 2025"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Iori_Sunakura",
+          "text": "Iori Sunakura"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2025",
+          "text": "Update Pack 2025"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Iori_Sunakura",
+          "text": "Iori Sunakura"
+        }
+      }
+    ]
+  },
+  "type": "Holy Dragon/Four Great Dragons/NSp"
+}

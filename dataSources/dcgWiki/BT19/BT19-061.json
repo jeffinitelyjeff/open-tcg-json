@@ -1,0 +1,126 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Xros Heart] trait: Cost 2",
+  "attribute": "Data",
+  "blockIcon": "04",
+  "cardEffects": "This card is also treated as [Sparrowmon] for a DigiXros.\n[On Play] [When Digivolving] Reveal the top 3 cards of your deck. Add 1 card with the [Xros Heart] or [Blue Flare] trait among them to the hand. Trash the rest.\n[On Deletion] Place 1 Digimon card with the [Xros Heart] or [Blue Flare] trait from your hand or trash under your Tamers.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black / Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-061.png",
+        "imgName": "BT19-061.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c9/BT19-061.png/revision/latest?cb=20250208165352",
+        "uploadDate": "2025-02-08T16:53:52"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-061-J.png",
+        "imgName": "BT19-061-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4c/BT19-061-J.png/revision/latest?cb=20240920100129",
+        "uploadDate": "2024-09-20T10:01:29"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-061-Sample-J.png",
+        "imgName": "BT19-061-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8c/BT19-061-Sample-J.png/revision/latest?cb=20240814094510",
+        "uploadDate": "2024-08-14T09:45:10"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c9/BT19-061.png/revision/latest?cb=20250208165352",
+  "inheritedEffect": "[Your Turn] This Digimon with the [Xros Heart] trait gains ＜Collision＞ (During this Digimon's attack, all of your opponent's Digimon gain ＜Blocker＞, and must block if possible.).",
+  "level": "4",
+  "name": "RaptorSparrowmon",
+  "nameJapanese": "ラプタースパロウモン",
+  "playCost": "5",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT19-061#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for BT19-061 (2024/09/20, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, I add to my hand whenever possible.",
+        "question": "Does the effect of this card add the target card to the hand whenever possible if it is among the cards revealed from the deck?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it cannot. This card can also be treated as \"Sparrowmon\" only in DigiXros.",
+        "question": "Can this card be placed under a tamer in a \"Material Save\" of a Digimon with \"Sparrowmon\" in the DigiXros conditions, such as \"BT10-013 Shoutmon X5\"?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.5_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.5 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+          "text": "BT-19: Booster Xros Evolution"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ]
+  },
+  "type": "Cyborg/Twilight/Xros Heart"
+}

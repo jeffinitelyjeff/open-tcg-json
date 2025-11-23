@@ -1,0 +1,94 @@
+{
+  "ace": "Overflow ＜-4＞ (As this card moves from the field or under a card to an area other than those, lose 4 memory.)",
+  "attribute": "Data",
+  "blockIcon": "03",
+  "cardEffects": "[Hand] [Counter] ＜Blast Digivolve＞ (Your Digimon may digivolve into this card without paying the cost.)\n[On Play] [When Digivolving] You may trash up to 4 blue cards in your hand. For each one, trash any 1 card under your opponent's Digimon or Tamers. Then, return 1 of their Digimon or Tamers without cards under it to the hand.\n[When Attacking] By returning 3 cards with [Jellymon] in their texts from your trash to the bottom of the deck, this Digimon gains ＜Security A. +1＞ for the turn. (This Digimon checks 1 additional security card.)",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "3",
+    "level": "5"
+  },
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:LM-005.png",
+        "imgName": "LM-005.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e0/LM-005.png/revision/latest?cb=20240209090315",
+        "uploadDate": "2024-02-09T09:03:15"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-01:_Limited_Card_Pack_Digimon_Ghost_Game",
+        "captionText": "LM-01: Limited Card Pack Digimon Ghost Game (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:LM-005-J.png",
+        "imgName": "LM-005-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8f/LM-005-J.png/revision/latest?cb=20230805003930",
+        "uploadDate": "2023-08-05T00:39:30"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e0/LM-005.png/revision/latest?cb=20240209090315",
+  "level": "6",
+  "name": "Amphimon",
+  "nameJapanese": "アンフィモン",
+  "playCost": "6",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=LM-005#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for LM-005 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.",
+        "question": "If I trash 2 blue cards in my hand, can I use this card's [When Digivolving] [When Attacking] effect to trash 1 card under each of 2 of my opponent's Digimon/Tamers?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, that's correct.",
+        "question": "If this card's [When Attacking] effect activates once from an attack, then this Digimon is unsuspended by an effect, attacks again, and the effect activates again in the same turn, does this Digimon gain 2 total instances of ＜Security A. +1＞, resulting in 2 additional security checks?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+          "text": "BT-15: Booster Exceed Apocalypse"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-01:_Limited_Card_Pack_Digimon_Ghost_Game",
+          "text": "LM-01: Limited Card Pack Digimon Ghost Game"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "traditionalChinese": "安菲獸",
+  "type": "Cyborg"
+}

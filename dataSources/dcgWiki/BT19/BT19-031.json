@@ -1,0 +1,110 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.2 w/[Xros Heart] trait: Cost 0",
+  "attribute": "Data",
+  "blockIcon": "04",
+  "cardEffects": "＜Decoy ([Xros Heart] trait)＞ (When your other [Xros Heart] trait Digimon would be deleted by an opponent's effect, you may delete this Digimon to prevent 1 of those Digimon's deletion.)\n[On Deletion] You may play 1 [ShootingStarmon] from under your Tamers without paying the cost. Then, place 1 [Starmons] and 1 [Pickmons] from your trash as that Digimon's bottom digivolution cards.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow / Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "1",
+      "level": "2"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "1",
+      "level": "2"
+    }
+  ],
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-031.png",
+        "imgName": "BT19-031.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/64/BT19-031.png/revision/latest?cb=20250207065427",
+        "uploadDate": "2025-02-07T06:54:27"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-031-J.png",
+        "imgName": "BT19-031-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3d/BT19-031-J.png/revision/latest?cb=20240920100000",
+        "uploadDate": "2024-09-20T10:00:00"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-031-Sample-J.png",
+        "imgName": "BT19-031-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bf/BT19-031-Sample-J.png/revision/latest?cb=20240907052831",
+        "uploadDate": "2024-09-07T05:28:31"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/64/BT19-031.png/revision/latest?cb=20250207065427",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] If this Digimon has the [Xros Heart] trait, 1 of your opponent's Digimon gets -2000 DP for the turn.",
+  "level": "3",
+  "name": "Starmons",
+  "nameJapanese": "スターモンズ",
+  "playCost": "4",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT19-031#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for BT19-031 (2024/09/20, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. Only one of the two can be placed on the digivolution card.",
+        "question": "Can this card's [On Deletion] effect be placed on the digivolved digivolved card of the \"Shooting Starmons\" that I played, unless I have both \"Starmons\" and \"Pickmons\" in my trash?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+          "text": "BT-19: Booster Xros Evolution"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
+        }
+      }
+    ]
+  },
+  "type": "Major/Xros Heart"
+}

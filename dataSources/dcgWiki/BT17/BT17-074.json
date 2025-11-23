@@ -1,0 +1,103 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Morphomon]: Cost 2",
+  "attribute": "Unknown",
+  "blockIcon": "03",
+  "cardEffects": "[When Digivolving] If it's your turn, you may play 1 white Tamer card with a play cost of 4 or less or 1 level 5 or lower [Eosmon] from your hand for a cost of 2. If you do, your opponent may play 1 Tamer card from their hand without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "White",
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-074.png",
+        "imgName": "BT17-074.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c6/BT17-074.png/revision/latest?cb=20240720080102",
+        "uploadDate": "2024-07-20T08:01:02"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-074-J.png",
+        "imgName": "BT17-074-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/30/BT17-074-J.png/revision/latest?cb=20240322062943",
+        "uploadDate": "2024-03-22T06:29:43"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-074-Sample-J.png",
+        "imgName": "BT17-074-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/48/BT17-074-Sample-J.png/revision/latest?cb=20240309090319",
+        "uploadDate": "2024-03-09T09:03:19"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c6/BT17-074.png/revision/latest?cb=20240720080102",
+  "inheritedEffect": "[Opponent's Turn] [Once Per Turn] When an opponent's Digimon attacks, you may switch the attack target to 1 of your [Eosmon].",
+  "level": "4",
+  "name": "Eosmon",
+  "nameJapanese": "エオスモン",
+  "playCost": "4",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT17-074#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT17-074 (Sep. 6, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, that's correct.",
+        "question": "Does this card's [When Digivolving] effect allow me to pay a cost of 2 even when I play a white Tamer card with a play cost of 4 or less?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "Can I also use this card's inherited effect to switch the attack target to an unsuspended [Eosmon]?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      }
+    ]
+  },
+  "type": "Unknown"
+}

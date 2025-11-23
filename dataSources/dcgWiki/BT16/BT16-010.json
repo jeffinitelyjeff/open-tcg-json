@@ -1,0 +1,109 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[SoC] trait: Cost 3",
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling.)\n[End of Opponent's Turn] By deleting this Digimon, delete 1 of your opponent's Digimon with the lowest DP.\n [On Deletion] You may play 1 [Loogamon] or [Eiji Nagasumi] from your trash without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red / Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-010.png",
+        "imgName": "BT16-010.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c5/BT16-010.png/revision/latest?cb=20240426204049",
+        "uploadDate": "2024-04-26T20:40:49"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-010-J.png",
+        "imgName": "BT16-010-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7e/BT16-010-J.png/revision/latest?cb=20231215073420",
+        "uploadDate": "2023-12-15T07:34:20"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-010-Sample-J.png",
+        "imgName": "BT16-010-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cd/BT16-010-Sample-J.png/revision/latest?cb=20231130050917",
+        "uploadDate": "2023-11-30T05:09:17"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c5/BT16-010.png/revision/latest?cb=20240426204049",
+  "level": "5",
+  "name": "Helloogarmon",
+  "nameJapanese": "ヘルガルモン",
+  "playCost": "7",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT16-010#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT16-010 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it can.",
+        "question": "Can this card's [End of Opponent's Turn] effect delete this Digimon even when my opponent has no Digimon?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      }
+    ]
+  },
+  "type": "Dark Animal/X Antibody/SoC"
+}

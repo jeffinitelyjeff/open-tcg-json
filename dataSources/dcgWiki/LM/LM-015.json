@@ -1,0 +1,74 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[When Attacking] If you have a Tamer, this Digimon may digivolve into [Ginryumon] in your hand without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:LM-015.png",
+        "imgName": "LM-015.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/af/LM-015.png/revision/latest?cb=20240209090312",
+        "uploadDate": "2024-02-09T09:03:12"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-01:_Limited_Card_Pack_Digimon_Ghost_Game",
+        "captionText": "LM-01: Limited Card Pack Digimon Ghost Game (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:LM-015-J.png",
+        "imgName": "LM-015-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/15/LM-015-J.png/revision/latest?cb=20230805021024",
+        "uploadDate": "2023-08-05T02:10:24"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/af/LM-015.png/revision/latest?cb=20240209090312",
+  "inheritedEffect": "[Your Turn] While this Digimon has the [X Antibody] trait, it gets +1000 DP.",
+  "level": "3",
+  "name": "Ryudamon",
+  "nameJapanese": "リュウダモン",
+  "playCost": "3",
+  "rarity": "Common",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+          "text": "BT-15: Booster Exceed Apocalypse"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-01:_Limited_Card_Pack_Digimon_Ghost_Game",
+          "text": "LM-01: Limited Card Pack Digimon Ghost Game"
+        },
+        "foil&Rarity": "Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "simplifiedChinese": "龙蛇兽",
+  "traditionalChinese": "龍駘獸",
+  "type": "Beast/X Antibody"
+}

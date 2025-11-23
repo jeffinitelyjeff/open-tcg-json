@@ -1,0 +1,177 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Tommy Himi]: Cost 2 \n[Digivolve]  [Korikakumon]: Cost 0",
+  "attribute": "Variable",
+  "blockIcon": "04",
+  "cardEffects": "[When Digivolving] Trash the bottom 2 digivolution cards of 1 of your opponent's Digimon.\n[When Attacking] [Once Per Turn] 1 of your Digimon or Tamers may digivolve into a blue or red Digimon card with the [Hybrid] trait in the hand with the digivolution cost reduced by 1.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue / Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "3",
+      "form": "Tamer"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "form": "Tamer"
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Hybrid",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-022.png",
+        "imgName": "BT18-022.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/34/BT18-022.png/revision/latest?cb=20241011091523",
+        "uploadDate": "2024-10-11T09:15:23"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-022_P1.png",
+        "imgName": "BT18-022_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/dc/BT18-022_P1.png/revision/latest?cb=20241011091642",
+        "uploadDate": "2024-10-11T09:16:42"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-022-J.png",
+        "imgName": "BT18-022-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2f/BT18-022-J.png/revision/latest?cb=20240621114656",
+        "uploadDate": "2024-06-21T11:46:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-022-Sample-J.png",
+        "imgName": "BT18-022-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a8/BT18-022-Sample-J.png/revision/latest?cb=20240604090411",
+        "uploadDate": "2024-06-04T09:04:11"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-022_P1-J.png",
+        "imgName": "BT18-022_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/62/BT18-022_P1-J.png/revision/latest?cb=20240628104724",
+        "uploadDate": "2024-06-28T10:47:24"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-022_P1-Sample-J.png",
+        "imgName": "BT18-022_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/55/BT18-022_P1-Sample-J.png/revision/latest?cb=20240618061910",
+        "uploadDate": "2024-06-18T06:19:10"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/3/34/BT18-022.png/revision/latest?cb=20241011091523",
+  "inheritedEffect": "[All Turns] When this Digimon would leave the battle area other than by your effects, you may play 1 Tamer card with inherited effects from this Digimon's digivolution cards without paying the cost.",
+  "level": "4",
+  "name": "Kumamon",
+  "nameJapanese": "チャックモン",
+  "playCost": "5",
+  "rarity": "Super Rare",
+  "rule": "[Rule] Trait: Has [Ice-Snow] Type.",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT18-022#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT18-022 (Nov. 1, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, it digivolves from the Tamer as-is.",
+        "question": "Does this card's digivolution requirement where it can digivolve from a Tamer mean that the Tamer that will become a digivolution card is treated as a Digimon when it digivolves?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it isn't considered a Digimon that would digivolve.  When a Tamer would digivolve using this card's digivolution requirement, \"when a Digimon would digivolve\" effects don't trigger.",
+        "question": "When a Tamer would digivolve using this card's digivolution requirement, is it considered a Digimon that would digivolve?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it isn't considered a Digimon that digivolves.  When a Tamer digivolves using this card's digivolution requirement, \"when a Digimon digivolves\" effects don't trigger.",
+        "question": "When a Tamer digivolves using this card's digivolution requirement, is it considered a Digimon that digivolves?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+          "text": "BT18-19: Special Booster Ver.2.0"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+          "text": "BT18-19: Special Booster Ver.2.0"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+          "text": "BT-18: Booster Elemental Successor"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+          "text": "BT-18: Booster Elemental Successor"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ]
+  },
+  "type": "Beastkin"
+}

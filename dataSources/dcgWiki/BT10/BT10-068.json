@@ -1,0 +1,230 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Gankoomon]: Cost 1",
+  "attribute": "Data",
+  "blockIcon": "02",
+  "cardEffects": "＜Blocker＞ (This Digimon can block in the blocker timing.)\n[When Digivolving] You may play 1 Digimon card with [Sistermon] in its name from your hand or trash without paying its memory cost. Then, if [Gankoomon] is in this Digimon's digivolution cards or you have a Digimon with [Sistermon] in its name in play, until the end of your opponent's turn, all of your Digimon get +2000 DP and your opponent's effects can't return them to hands or decks or reduce their DP.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "4",
+      "level": "5"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "5"
+    }
+  ],
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-068.png",
+        "imgName": "BT10-068.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/17/BT10-068.png/revision/latest?cb=20221007205423",
+        "uploadDate": "2022-10-07T20:54:23"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-068_P1.png",
+        "imgName": "BT10-068_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1a/BT10-068_P1.png/revision/latest?cb=20221014072850",
+        "uploadDate": "2022-10-14T07:28:50"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Final_Championships_2023_Trophy_Cards",
+        "captionText": "Final Championships 2023 Trophy Cards (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-068_P2.png",
+        "imgName": "BT10-068_P2.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bc/BT10-068_P2.png/revision/latest?cb=20231205212715",
+        "uploadDate": "2023-12-05T21:27:15"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-068-J.png",
+        "imgName": "BT10-068-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b8/BT10-068-J.png/revision/latest?cb=20231031011528",
+        "uploadDate": "2023-10-31T01:15:28"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-068_P1-J.png",
+        "imgName": "BT10-068_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fc/BT10-068_P1-J.png/revision/latest?cb=20231031011637",
+        "uploadDate": "2023-10-31T01:16:37"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Final_Championships_2023_Trophy_Cards",
+        "captionText": "Final Championships 2023 Trophy Cards (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-068_P2-J.png",
+        "imgName": "BT10-068_P2-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fb/BT10-068_P2-J.png/revision/latest?cb=20231031021533",
+        "uploadDate": "2023-10-31T02:15:33"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/17/BT10-068.png/revision/latest?cb=20221007205423",
+  "level": "6",
+  "name": "Gankoomon (X Antibody)",
+  "nameJapanese": "ガンクゥモンX抗体",
+  "playCost": "13",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT10-068#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT10-068 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Its original DP is restored by \"can't [...] reduce their DP,\" and it additionally gets +2000 DP from this effect.",
+        "question": "This card's [When Digivolving] effect reads \"all of your Digimon get +2000 DP and your opponent's effects can't return them to hands or decks or reduce their DP.\" If one of my Digimon's DP is reduced before this effect activates, what happens to that Digimon's DP?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naochika_Morishita",
+          "text": "Naochika Morishita"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/World_Championship_2023",
+          "text": "World Championship 2023"
+        },
+        "foil&Rarity": "Trophy - 2nd Place Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naochika_Morishita",
+          "text": "Naochika Morishita"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Final_Championships_2023_Trophy_Cards",
+          "text": "Final Championships 2023 Trophy Cards"
+        },
+        "foil&Rarity": "Trophy - 2nd Place Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/World_Championship_2023",
+          "text": "World Championship 2023"
+        },
+        "foil&Rarity": "Trophy - 2nd Place Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naochika_Morishita",
+          "text": "Naochika Morishita"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Final_Championships_2023_Trophy_Cards",
+          "text": "Final Championships 2023 Trophy Cards"
+        },
+        "foil&Rarity": "Trophy - 2nd Place Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/World_Championship_2023",
+          "text": "World Championship 2023"
+        },
+        "foil&Rarity": "Trophy - 2nd Place Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "顽固兽X抗体",
+  "traditionalChinese": "頑固獸X抗體",
+  "type": "Holy Warrior/Royal Knight/X Antibody"
+}

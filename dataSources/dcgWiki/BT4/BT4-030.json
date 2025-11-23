@@ -1,0 +1,193 @@
+{
+  "attribute": "Variable",
+  "blockIcon": "00",
+  "cardEffects": "＜Jamming＞ (This Digimon can't be deleted in battles against Security Digimon.)\n[Opponent's Turn] While this Digimon's digivolution cards include a Digimon card with the [Hybrid] trait or a blue Tamer card, it can't be attacked.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Hybrid",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": null,
+        "captionText": "BTC-03: Booster Diamond Legend (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-030-C.png",
+        "imgName": "BT4-030-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/44/BT4-030-C.png/revision/latest?cb=20231120151518",
+        "uploadDate": "2023-11-20T15:15:18"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-030.png",
+        "imgName": "BT4-030.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/71/BT4-030.png/revision/latest?cb=20210430124212",
+        "uploadDate": "2021-04-30T12:42:12"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Event_Pack_2",
+        "captionText": "Event Pack 2 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-030_P1.png",
+        "imgName": "BT4-030_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/09/BT4-030_P1.png/revision/latest?cb=20220102152338",
+        "uploadDate": "2022-01-02T15:23:38"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-030-J.png",
+        "imgName": "BT4-030-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/25/BT4-030-J.png/revision/latest?cb=20201218200854",
+        "uploadDate": "2020-12-18T20:08:54"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-030-K.png",
+        "imgName": "BT4-030-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/09/BT4-030-K.png/revision/latest?cb=20230815131114",
+        "uploadDate": "2023-08-15T13:11:14"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/71/BT4-030.png/revision/latest?cb=20210430124212",
+  "korean": "베오울프몬",
+  "level": "5",
+  "name": "Beowolfmon",
+  "nameJapanese": "ベオウルフモン",
+  "playCost": "7",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT4-030#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT4-030 (Mar. 28, 2024)"
+      },
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT4-030#qaResult_card",
+        "num": 2,
+        "text": "Official JP Q&A for BT4-030 (translated by DeepL)"
+      },
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT4-030#qaResult_card",
+        "num": 3,
+        "text": "Official JP Q&A for BT4-030 (2023/05/25, translated by DeepL)"
+      },
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT4-030#qaResult_card",
+        "num": 4,
+        "text": "Official JP Q&A for BT4-030 (2024/09/20, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "It means that as long as you meet the conditions for the skill, the card can't be targeted by your opponent's Digimon for attacks.",
+        "question": "What does this card's \"this card can't be attacked\" [Opponent's Turn] skill mean?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "This card's effect only prevents your opponent's Digimon from attacking you, so blocking will work as normal.",
+        "question": "What happens if this card activates ＜Blocker＞ and blocks the attack of one of my opponent's Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "The effect is that this card does not become a target of attacks from opposing Digimon while it meets the conditions.",
+        "question": "What does it mean that this card has the effect of not being attacked on the opponent's turn?",
+        "reference": "[2]"
+      },
+      {
+        "answer": "Since the effect of this card is only not to be attacked by the opponent, blocking can be performed as usual, and it becomes a battle.",
+        "question": "What happens if this Digimon blocks an attack by an opponent's Digimon when it has gained \"Blocker\" by some effect?",
+        "reference": "[3]"
+      },
+      {
+        "answer": "Digimon card with \"Hybrid Body\" in its trait\" or \"Blue tamer card\".",
+        "question": "Does this card's [Opponent's Turn] effect activate while any card is in the digivolution card?",
+        "reference": "[4]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-03: Booster Diamond Legend",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Event_Pack_2",
+          "text": "Event Pack 2"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "贝奥武夫兽",
+  "traditionalChinese": "戰狼獸",
+  "type": "Warrior"
+}

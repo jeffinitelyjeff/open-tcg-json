@@ -1,0 +1,103 @@
+{
+  "blockIcon": "04",
+  "cardEffects": "[Trash] [Your Turn] When any of your Digimon digivolve into [Lilithmon (X Antibody)], by returning this card to the bottom of the deck, activate this card's [Main] effects.\n[Main] Until the end of opponent's turn, give all of their Digimon \"[End of Your Turn] Delete 1 of your Digimon.\"",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Purple",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+        "captionText": "EX-07: Extra Booster Digimon Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX7-072.png",
+        "imgName": "EX7-072.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/10/EX7-072.png/revision/latest?cb=20240830172825",
+        "uploadDate": "2024-08-30T17:28:25"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+        "captionText": "EX-07: Extra Booster Digimon Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX7-072-J.png",
+        "imgName": "EX7-072-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/94/EX7-072-J.png/revision/latest?cb=20240524113208",
+        "uploadDate": "2024-05-24T11:32:08"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+        "captionText": "EX-07: Extra Booster Digimon Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX7-072-Sample-J.png",
+        "imgName": "EX7-072-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/df/EX7-072-Sample-J.png/revision/latest?cb=20240505184513",
+        "uploadDate": "2024-05-05T18:45:13"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/10/EX7-072.png/revision/latest?cb=20240830172825",
+  "name": "Seventh Fascination",
+  "nameJapanese": "セブンス・ファシネイト",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX7-072#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX7-072 (Jan. 10, 2025)"
+      },
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX7-072#qaResult_card",
+        "num": 2,
+        "text": "Official English Q&A for EX7-072 (Sep. 13, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "You can give that effect to such Digimon, but Digimon that aren't affected by effects won't be affected by it, therefore the gained effect won't trigger.",
+        "question": "Can I use this card's [Main] effect to give \"[End of Your Turn] Delete 1 of your Digimon\" to a Digimon that isn't affected by effects?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it doesn't trigger.  After this card's [Main] effect gives \"[End of Your Turn] Delete 1 of your Digimon\" to a Digimon, then it triggers, that Digimon's player will be the player considered to have triggered/activated that effect, therefore <Partition> won't trigger.",
+        "question": "After this card's [Main] effect gives \"[End of Your Turn] Delete 1 of your Digimon\" to a Digimon, then that effect deletes a Digimon, does <Partition> on that Digimon trigger?",
+        "reference": "[2]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Delete 1 of your opponent's unsuspended Digimon.",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+          "text": "EX-07: Extra Booster Digimon Liberator"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+          "text": "EX-07: Extra Booster Digimon Liberator"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ]
+  },
+  "type": "Seven Great Demon Lords",
+  "useCost": "7"
+}

@@ -1,0 +1,158 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "02",
+  "cardEffects": "[On Play] [When Digivolving] If the total cards in both players' security stacks is 6 or less, gain 3 memory, and reveal 1 card from your hand. If you revealed a yellow card, place it on top of your security stack face down. If not, return it to your hand.\n[When Attacking] [Once Per Turn] By trashing the top card of your security stack, unsuspend this Digimon, and 1 of your opponent's Digimon gets -7000 DP for the turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "5",
+    "level": "5"
+  },
+  "dp": "13000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-046.png",
+        "imgName": "BT13-046.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a1/BT13-046.png/revision/latest?cb=20230714185528",
+        "uploadDate": "2023-07-14T18:55:28"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-046_P1.png",
+        "imgName": "BT13-046_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c4/BT13-046_P1.png/revision/latest?cb=20230721125856",
+        "uploadDate": "2023-07-21T12:58:56"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-046-J.png",
+        "imgName": "BT13-046-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/55/BT13-046-J.png/revision/latest?cb=20230217122642",
+        "uploadDate": "2023-02-17T12:26:42"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-046-Sample-J.png",
+        "imgName": "BT13-046-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/47/BT13-046-Sample-J.png/revision/latest?cb=20230124113514",
+        "uploadDate": "2023-01-24T11:35:14"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-046_P1-J.png",
+        "imgName": "BT13-046_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fd/BT13-046_P1-J.png/revision/latest?cb=20230224164846",
+        "uploadDate": "2023-02-24T16:48:46"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-046_P1-Sample-J.png",
+        "imgName": "BT13-046_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d7/BT13-046_P1-Sample-J.png/revision/latest?cb=20230215073730",
+        "uploadDate": "2023-02-15T07:37:30"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a1/BT13-046.png/revision/latest?cb=20230714185528",
+  "level": "6",
+  "name": "Kentaurosmon",
+  "nameJapanese": "スレイプモン",
+  "nameTranslated": "Sleipmon",
+  "playCost": "13",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT13-046#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT13-046 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "It means the total number of cards in both you and your opponent's security stacks.  For example, if you have 3 cards in your security stack and your opponent has 2 cards in their security stack, the total security cards will be 5 cards.",
+        "question": "What does \"the total cards in both players' security stacks\" in this card's effect mean?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't. If the total cards in both players' security stacks is 6 or less, you must perform the rest of the effect to the best of your ability.",
+        "question": "Can I choose to not use this card's [On Play][When Digivolving] effect to reveal 1 card from my hand if I don't have any yellow cards or I don't want to add cards to my security stack?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "You place it on top of your security stack because the card's colors include yellow. You can't return it to your hand.",
+        "question": "If I use this card's [On Play][When Digivolving] effect to reveal a 2-color yellow card from my hand, do I place it on top of my security stack or return it to my hand?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ]
+  },
+  "type": "Holy Warrior/Royal Knight"
+}

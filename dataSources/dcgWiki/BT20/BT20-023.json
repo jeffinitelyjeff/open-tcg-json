@@ -1,0 +1,123 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Dracomon] in name: Cost 2",
+  "attribute": "Vaccine",
+  "blockIcon": "04",
+  "cardEffects": "＜Jamming＞ (This Digimon can't be deleted in battles against Security Digimon.)\n[Your Turn] When any of your green Digimon with [Dracomon] or [Examon] in their texts are played, this Digimon may digivolve into [Wingdramon] in the hand with the digivolution cost reduced by 2.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue / Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-023.png",
+        "imgName": "BT20-023.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/30/BT20-023.png/revision/latest?cb=20250207070923",
+        "uploadDate": "2025-02-07T07:09:23"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-023-Sample.png",
+        "imgName": "BT20-023-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3b/BT20-023-Sample.png/revision/latest?cb=20241216090123",
+        "uploadDate": "2024-12-16T09:01:23"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-023-J.png",
+        "imgName": "BT20-023-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/73/BT20-023-J.png/revision/latest?cb=20250124093732",
+        "uploadDate": "2025-01-24T09:37:32"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-023-Sample-J.png",
+        "imgName": "BT20-023-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0e/BT20-023-Sample-J.png/revision/latest?cb=20241216090719",
+        "uploadDate": "2024-12-16T09:07:19"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/3/30/BT20-023.png/revision/latest?cb=20250207070923",
+  "inheritedEffect": "[Your Turn] This Digimon gets +2000 DP.",
+  "level": "4",
+  "name": "Coredramon",
+  "nameJapanese": "コアドラモン",
+  "playCost": "5",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT20-023#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for BT20-023 (2025/01/24, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "The Digimon is either a green Digimon with the text \"DRACOMON\" or a green Digimon with the text \"EXAMON\".",
+        "question": "Does this card's [Your Turn] effect trigger when any card plays?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "It refers to cards with the specified word or icon included in \"name, trait, effect, inherited effect, <Overflow X>, jogress, digivolution requirements, burst digivolution\". For example, a card with the text \"Knightmon\" refers to a card whose name is \"Dark Knightmon\" or whose effect says \"Knightmon\".",
+        "question": "What do you mean by \"cards with text?\"",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naru",
+          "text": "naru"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+          "text": "BT-20: Booster Over the X"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naru",
+          "text": "naru"
+        }
+      }
+    ]
+  },
+  "type": "Dragon"
+}

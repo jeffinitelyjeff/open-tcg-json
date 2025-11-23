@@ -1,0 +1,137 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[Composite] trait: Cost 3",
+  "attribute": "Virus",
+  "blockIcon": "04",
+  "cardEffects": "When you would play this card, by deleting 1 of your Digimon with the [Composite] trait, reduce the play cost by 4.\n[On Play] [When Digivolving] ＜De-Digivolve  1＞ all of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.).\n[On Deletion]  You may DNA digivolve 1 of your [Kimeramon] in play and 1 [Machinedramon] in the trash into [Millenniummon] in the hand.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black / Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "5"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "3",
+      "level": "5"
+    }
+  ],
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-073.png",
+        "imgName": "BT18-073.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/53/BT18-073.png/revision/latest?cb=20241011092901",
+        "uploadDate": "2024-10-11T09:29:01"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-073-J.png",
+        "imgName": "BT18-073-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/eb/BT18-073-J.png/revision/latest?cb=20240621114656",
+        "uploadDate": "2024-06-21T11:46:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-073-Sample-J.png",
+        "imgName": "BT18-073-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/14/BT18-073-Sample-J.png/revision/latest?cb=20240616051435",
+        "uploadDate": "2024-06-16T05:14:35"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/53/BT18-073.png/revision/latest?cb=20241011092901",
+  "inheritedEffect": "[Opponent's Turn] [Once Per Turn] When any of your opponent's Digimon attack, you may change the attack target to 1 of your Digimon with the [Composite] or [Wicked God] trait.",
+  "level": "6",
+  "name": "Machinedramon",
+  "nameJapanese": "ムゲンドラモン",
+  "playCost": "11",
+  "rarity": "Rare",
+  "rule": "[Rule] Trait: Has [Composite] Type.",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT18-073#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT18-073 (Nov. 1, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, they trigger simultaneously.  However, if you activate BT18-015 [Kimeramon]'s [On Deletion] effect first and then DNA digivolve into [Millenniummon] using [Kimeramon] and this card while its [On Play] [When Digivolving] effect has triggered, this card will be removed from the battle area before the [On Play] effect can activate.",
+        "question": "When this card would be played, I deleted my BT18-015 [Kimeramon], then I played this card.  At such times, does this card's [On Play] [When Digivolving] effect trigger simultaneously with BT18-015 [Kimeramon]'s [On Deletion] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, the DNA digivolution requirements have to be met.  In addition, DNA digivolution can't be performed unless the [Millenniummon] has DNA digivolution.",
+        "question": "If I use this card's [On Deletion] effect to DNA digivolve into [Millenniummon] in the hand, do the DNA digivolution requirements have to be met for [Millenniummon]?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, that's correct.  The [On Deletion] effect activates after the card is placed in the trash, therefore this card itself in the trash can DNA digivolve into [Millenniummon] in the hand.",
+        "question": "Does this card's [On Deletion] effect allow my [Kimeramon] and the BT18-073 [Machinedramon] itself that activated the effect in the trash to DNA digivolve into [Millenniummon] in the hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "You can DNA digivolve into [Millenniummon] from your hand by using your [Kimeramon] in the battle area and your [Machinedramon] in the trash.",
+        "question": "For this card's [On Deletion] effect, which locations must [Kimeramon] and [Machinedramon] be in to DNA digivolve to [Millenniummon] from the hand?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+          "text": "BT18-19: Special Booster Ver.2.0"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Souichirou_Gunjima",
+          "text": "Souichirou Gunjima"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.0_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.0 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Souichirou_Gunjima",
+          "text": "Souichirou Gunjima"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+          "text": "BT-18: Booster Elemental Successor"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Souichirou_Gunjima",
+          "text": "Souichirou Gunjima"
+        }
+      }
+    ]
+  },
+  "type": "Machine"
+}

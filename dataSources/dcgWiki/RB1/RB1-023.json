@@ -1,0 +1,117 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Gammamon] in name: Cost 3",
+  "attribute": "Data",
+  "blockIcon": "02",
+  "cardEffects": "[When Digivolving] Suspend 1 of your opponent's Digimon with DP less than or equal  to this Digimon. Digimon suspended by this effect don't unsuspend until the end of your opponent's next turn.\n[All Turns] This Digimon gains all effects of cards with [Gammamon] in their names in this Digimon's digivolution cards.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-023.png",
+        "imgName": "RB1-023.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/aa/RB1-023.png/revision/latest?cb=20230901095553",
+        "uploadDate": "2023-09-01T09:55:53"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-023-J.png",
+        "imgName": "RB1-023-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/ad/RB1-023-J.png/revision/latest?cb=20231022143800",
+        "uploadDate": "2023-10-22T14:38:00"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/aa/RB1-023.png/revision/latest?cb=20230901095553",
+  "inheritedEffect": "[All Turns] This Digimon gains all effects of cards with [Gammamon] in their names in this Digimon's digivolution cards.",
+  "level": "5",
+  "name": "Ghilliedhumon",
+  "nameJapanese": "ギリードゥモン",
+  "playCost": "7",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=RB1-023#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for RB1-023 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, they activate. This card's \"\"This Digimon gains all effects of cards with [Gammamon] in this Digimon's digivolution cards\"\" effect is an [All Turns] effect, so it will activate as soon as the digivolution is confirmed. Therefore, [When Evolving] effects are gained and will trigger.",
+        "question": "When digivolving into this card, do the [When Digivolving] effects on digivolution cards with [Gammamon] activate?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, if the memory gauge is now at 1 or greater on your opponent's side, you can activate ＜Blitz＞ .",
+        "question": "I digivolve a Digimon with [Gammamon] and a [When Digivolving] ＜Blitz＞ effect into this card. Can I activate the [When Digivolving] ＜Blitz＞ effect through this card's [All Turns] effect and attack?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, this card's [All Turns] effect and inherited effect don't affect the inherited effects of digivolution cards with [Gammamon].",
+        "question": "Does this card's [All Turns] effect and inherited effect allow me to activate the inherited effect of a digivolution card with [Gammamon] as an effect of this card?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-07: Booster Great Warrior",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "吉利兽",
+  "traditionalChinese": "獵師獸",
+  "type": "Fairy"
+}

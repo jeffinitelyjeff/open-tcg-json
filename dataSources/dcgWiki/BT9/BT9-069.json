@@ -1,0 +1,126 @@
+{
+  "attribute": "Data",
+  "blockIcon": "01",
+  "cardEffects": "[When Digivolving] Unsuspend up to 2 Digimon and/or Tamers. Then, gain 1 memory for each of your opponent's unsuspended Digimon and Tamers.\n[End of Your Turn] [Once Per Turn] For every 2 unsuspended Digimon and/or Tamers your opponent has in play, trash 1 card from the top of your opponent's security stack.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "5",
+    "level": "5"
+  },
+  "dp": "13000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-069.png",
+        "imgName": "BT9-069.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1e/BT9-069.png/revision/latest?cb=20220625065132",
+        "uploadDate": "2022-06-25T06:51:32"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-069-J.png",
+        "imgName": "BT9-069-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a4/BT9-069-J.png/revision/latest?cb=20220218110424",
+        "uploadDate": "2022-02-18T11:04:24"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-069-Sample-J.png",
+        "imgName": "BT9-069-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e0/BT9-069-Sample-J.png/revision/latest?cb=20220131060932",
+        "uploadDate": "2022-01-31T06:09:32"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1e/BT9-069.png/revision/latest?cb=20220625065132",
+  "level": "6",
+  "name": "Baihumon",
+  "nameJapanese": "バイフーモン",
+  "playCost": "13",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT9-069#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT9-069 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it can.",
+        "question": "Can this card's [When Digivolving] effect unsuspend an opponent’s suspended Digimon or Tamer?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it can.",
+        "question": "Can this card’s [When Digivolving] effect unsuspend both 1 of my Digimon or Tamers and 1 of my opponent’s Digimon or Tamers?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "The effect lets you unsuspend up to 2 in any combination.  You can unsuspend 1 of each, or 2 Digimon, or 2 Tamers.",
+        "question": "Does this card’s [When Digivolving] effect let me unsuspend up to 2 Digimon or Tamers in any combination, or does it have to specifically be either 2 Digimon or 2 Tamers only?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. Add up the total number of unsuspended Digimon and Tamer cards your opponent has in play, then divide by two to determine how many security cards to trash.  For example, if your opponent has 3 unsuspended Digimon and 1 unsuspended Tamer, this adds up to 4 cards total, which means you get to trash 2 of your opponent’s security cards.",
+        "question": "When determining the number of cards to trash from my opponent’s security stack with this card's [End of Your Turn] effect, do I only trash a card for each pair of unsuspended Digimon and Tamer cards my opponent has in play?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naochika_Morishita",
+          "text": "Naochika Morishita"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naochika_Morishita",
+          "text": "Naochika Morishita"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naochika_Morishita",
+          "text": "Naochika Morishita"
+        }
+      }
+    ]
+  },
+  "type": "Holy Beast/Four Sovereigns"
+}

@@ -1,0 +1,131 @@
+{
+  "attribute": "Data",
+  "blockIcon": "04",
+  "cardEffects": "[On Play] ＜De-Digivolve  1＞ 1 of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.).\n[When Digivolving] If your opponent doesn't have a level 5 or higher Digimon, gain 1 memory.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "4"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+        "captionText": "EX-07: Extra Booster Digimon Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX7-046.png",
+        "imgName": "EX7-046.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6e/EX7-046.png/revision/latest?cb=20240523041656",
+        "uploadDate": "2024-05-23T04:16:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+        "captionText": "EX-07: Extra Booster Digimon Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX7-046_P1.png",
+        "imgName": "EX7-046_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b1/EX7-046_P1.png/revision/latest?cb=20240830172902",
+        "uploadDate": "2024-08-30T17:29:02"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+        "captionText": "EX-07: Extra Booster Digimon Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX7-046-J.png",
+        "imgName": "EX7-046-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/aa/EX7-046-J.png/revision/latest?cb=20240523041656",
+        "uploadDate": "2024-05-23T04:16:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+        "captionText": "EX-07: Extra Booster Digimon Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX7-046-Sample-J.png",
+        "imgName": "EX7-046-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6c/EX7-046-Sample-J.png/revision/latest?cb=20240511090214",
+        "uploadDate": "2024-05-11T09:02:14"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+        "captionText": "EX-07: Extra Booster Digimon Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX7-046_P1-J.png",
+        "imgName": "EX7-046_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a3/EX7-046_P1-J.png/revision/latest?cb=20240531091330",
+        "uploadDate": "2024-05-31T09:13:30"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6e/EX7-046.png/revision/latest?cb=20240523041656",
+  "inheritedEffect": "[Opponent's Turn] [Once Per Turn] When an opponent's Digimon attacks, you may change the attack target to this Digimon.",
+  "level": "5",
+  "name": "Jazarichmon",
+  "nameJapanese": "ジャザリッヒモン",
+  "playCost": "7",
+  "rarity": "Uncommon",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+          "text": "EX-07: Extra Booster Digimon Liberator"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+          "text": "EX-07: Extra Booster Digimon Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+          "text": "EX-07: Extra Booster Digimon Liberator"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+          "text": "EX-07: Extra Booster Digimon Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ]
+  },
+  "type": "Machine Dragon"
+}

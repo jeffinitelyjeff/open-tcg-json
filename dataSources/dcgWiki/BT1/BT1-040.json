@@ -1,0 +1,147 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "00",
+  "cardEffects": "[When Attacking] Gain 3 memory. At end of turn, lose 3 memory.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BTC-01:_Booster_Ultimate_Evolution",
+        "captionText": "BTC-01: Booster Ultimate Evolution (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-040-C.png",
+        "imgName": "BT1-040-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cd/BT1-040-C.png/revision/latest?cb=20230828233249",
+        "uploadDate": "2023-08-28T23:32:49"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+        "captionText": "BT01-03: Release Special Booster Ver.1.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-040.png",
+        "imgName": "BT1-040.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9b/BT1-040.png/revision/latest?cb=20201212014702",
+        "uploadDate": "2020-12-12T01:47:02"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-01:_Booster_New_Evolution",
+        "captionText": "BT-01: Booster New Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-040-J.png",
+        "imgName": "BT1-040-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f7/BT1-040-J.png/revision/latest?cb=20201213121503",
+        "uploadDate": "2020-12-13T12:15:03"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+        "captionText": "BT01-03: Release Special Booster Ver.1.0 (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-040-K.png",
+        "imgName": "BT1-040-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/09/BT1-040-K.png/revision/latest?cb=20230814073118",
+        "uploadDate": "2023-08-14T07:31:18"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9b/BT1-040.png/revision/latest?cb=20201212014702",
+  "korean": "워가루몬",
+  "level": "5",
+  "name": "WereGarurumon",
+  "nameJapanese": "ワーガルルモン",
+  "playCost": "6",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT1-040#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT1-040 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, the effect has already activated, so you lose 3 memory at end of turn.",
+        "question": "I attack with this card, and gain 3 memory from the card's attack effect. If this Digimon is deleted as a result of the attack, do I still lose 3 memory at end of turn?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Announcing the pass moves the memory counter to 3 on your opponent's side. Since it's the end of the turn, you then lose an additional 3 memory, moving the memory counter to 6 on your opponent's side.",
+        "question": "I attack with this card, and gain 3 memory from the card's attack effect. If I then announce that I'm passing, how much memory do I lose?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BTC-01:_Booster_Ultimate_Evolution",
+          "text": "BTC-01: Booster Ultimate Evolution"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+          "text": "BT01-03: Release Special Booster Ver.1.0"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-01:_Booster_New_Evolution",
+          "text": "BT-01: Booster New Evolution"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+          "text": "BT01-03: Release Special Booster Ver.1.0"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "狼人加鲁鲁兽",
+  "traditionalChinese": "獸人加魯魯",
+  "type": "Beastkin"
+}

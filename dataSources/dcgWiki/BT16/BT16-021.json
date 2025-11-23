@@ -1,0 +1,93 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Wormmon]: Cost 2",
+  "attribute": "Free",
+  "blockIcon": "03",
+  "cardEffects": "＜Blocker＞ (This Digimon can block in the blocker timing.)\n＜Armor Purge＞  (When this Digimon would be deleted, you may trash the top card of this Digimon to prevent that deletion.)\n[All Turns] [Once Per Turn] When an opponent's Digimon becomes suspended, trash the top digivolution card of 1 of their Digimon. Then, 1 of their Digimon with no digivolution cards can't attack or block until the end of their turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue / Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Armor Form",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-021.png",
+        "imgName": "BT16-021.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/05/BT16-021.png/revision/latest?cb=20240426204049",
+        "uploadDate": "2024-04-26T20:40:49"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-021-J.png",
+        "imgName": "BT16-021-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/88/BT16-021-J.png/revision/latest?cb=20231215073419",
+        "uploadDate": "2023-12-15T07:34:19"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-021-Sample-J.png",
+        "imgName": "BT16-021-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/60/BT16-021-Sample-J.png/revision/latest?cb=20231111073531",
+        "uploadDate": "2023-11-11T07:35:31"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/05/BT16-021.png/revision/latest?cb=20240426204049",
+  "level": "4",
+  "name": "Togemogumon",
+  "nameJapanese": "トゲモグモン",
+  "playCost": "5",
+  "rarity": "Common",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ]
+  },
+  "type": "Mammal"
+}

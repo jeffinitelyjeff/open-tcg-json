@@ -1,0 +1,160 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[Greymon] in name: Cost 3",
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "When this card would be played, if you have a Tamer with [Tai Kamiya] in its name, reduce the play cost by 3.\n[On Play] [When Digivolving] Activate 1 of the effects below:\n・Delete 1 of your opponent's Digimon with 8000 DP or less.\n・1 of your [Gabumon] may digivolve into [MetalGarurumon] in your hand, ignoring its digivolution requirements and without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "3",
+    "level": "5"
+  },
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-015.png",
+        "imgName": "BT17-015.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/69/BT17-015.png/revision/latest?cb=20240705214737",
+        "uploadDate": "2024-07-05T21:47:37"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Secret_Crisis",
+        "captionText": "Pre-Release Pack Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-015_P0.png",
+        "imgName": "BT17-015_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a1/BT17-015_P0.png/revision/latest?cb=20240727082048",
+        "uploadDate": "2024-07-27T08:20:48"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/PB-19:_Omnimon_Binder_Set_Set",
+        "captionText": "PB-19: Omnimon Binder Set Set (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-015_P1.png",
+        "imgName": "BT17-015_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9d/BT17-015_P1.png/revision/latest?cb=20250215062525",
+        "uploadDate": "2025-02-15T06:25:25"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-015-J.png",
+        "imgName": "BT17-015-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ec/BT17-015-J.png/revision/latest?cb=20240322064311",
+        "uploadDate": "2024-03-22T06:43:11"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-015-Sample-J.png",
+        "imgName": "BT17-015-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fa/BT17-015-Sample-J.png/revision/latest?cb=20240219064359",
+        "uploadDate": "2024-02-19T06:43:59"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/PB-19:_Omnimon_Binder_Set_Set",
+        "captionText": "PB-19: Omnimon Binder Set Set (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-015_P1-J.png",
+        "imgName": "BT17-015_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d8/BT17-015_P1-J.png/revision/latest?cb=20250124092649",
+        "uploadDate": "2025-01-24T09:26:49"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/69/BT17-015.png/revision/latest?cb=20240705214737",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] If this Digimon has [Omnimon] in its name, trash the top card of your opponent's security stack.",
+  "level": "6",
+  "name": "WarGreymon",
+  "nameJapanese": "ウォーグレイモン",
+  "playCost": "11",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT17-015#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT17-015 (Sep. 6, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.  You can activate the effect when there is no target, but the effect will end without anything happening.",
+        "question": "Can I activate \"1 of your [Gabumon] may digivolve into [MetalGarurumon] in the hand\" in this card's [On Play] [When Digivolving] effect when I don't have a [Gabumon]?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Souichirou_Gunjima",
+          "text": "Souichirou Gunjima"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Secret_Crisis",
+          "text": "Pre-Release Pack Secret Crisis"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Souichirou_Gunjima",
+          "text": "Souichirou Gunjima"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/PB-19:_Omnimon_Binder_Set_Set",
+          "text": "PB-19: Omnimon Binder Set Set"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Souichirou_Gunjima",
+          "text": "Souichirou Gunjima"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/PB-19:_Omnimon_Binder_Set_Set",
+          "text": "PB-19: Omnimon Binder Set Set"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "type": "Dragonkin"
+}

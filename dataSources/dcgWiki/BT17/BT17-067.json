@@ -1,0 +1,132 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [DoruGreymon]: Cost 1",
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "[Trash] [All Turns] When one of your [DoruGreymon] would be deleted, by digivolving it into this card without paying the cost, prevent that deletion.\n[When Digivolving] Trash 1 card in your hand. Then, ＜Draw 1＞. If [DoruGreymon] is in this Digimon's digivolution cards or this digivolved from the trash, delete 1 of your opponent's Digimon with a play cost of 6 or less instead.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-067.png",
+        "imgName": "BT17-067.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b4/BT17-067.png/revision/latest?cb=20240720080102",
+        "uploadDate": "2024-07-20T08:01:02"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-067-J.png",
+        "imgName": "BT17-067-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3d/BT17-067-J.png/revision/latest?cb=20240322062943",
+        "uploadDate": "2024-03-22T06:29:43"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-067-Sample-J.png",
+        "imgName": "BT17-067-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5b/BT17-067-Sample-J.png/revision/latest?cb=20240310091511",
+        "uploadDate": "2024-03-10T09:15:11"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b4/BT17-067.png/revision/latest?cb=20240720080102",
+  "inheritedEffect": "[End of Attack] [Once Per Turn] You may choose 1 of your Digimon. Delete 1 of your chosen Digimon and 1 of your opponent's Digimon with a level equal to or lower than that Digimon.",
+  "level": "5",
+  "name": "DexDoruGreymon",
+  "nameJapanese": "デクスドルグレモン",
+  "nameTranslated": "DeathXDoruGreymon",
+  "playCost": "8",
+  "rarity": "Common",
+  "rule": "[Rule] Name: Not treated as having [Greymon].",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT17-067#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT17-067 (Sep. 6, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "It triggers at the timing when this card is in the trash and your [DoruGreymon] would be deleted.  [Trash] means that an effect can trigger and activate when the card is in the trash.",
+        "question": "When exactly is the timing when this card's [Trash] [All Turns] effect triggers?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.  However, the DP-reducing effect will be carried over after the [DoruGreymon] effect activates and digivolution occurs, therefore deletion will occur again if the DP is still 0 after the effect activates and digivolution occurs.",
+        "question": "If I use this card's [Trash] effect to digivolve when my [DoruGreymon] would be deleted by its DP becoming 0, can I prevent that deletion?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't activate it.  The Digimon is deleted before the [When Digivolving] effect activates.",
+        "question": "I used this card's [Trash] effect to digivolve when my [DoruGreymon] would be deleted due to its DP being reduced by 10000. Its DP became 0 due to the DP-reducing effect, but can I activate this card's [When Digivolving] effect after it digivolves at such times?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it activates instead of \"Then, ＜Draw 1＞.\"",
+        "question": "Does \"delete 1 of your opponent's Digimon with a play cost of 6 or less instead\" in this card's [When Digivolving] effect activate instead of \"Trash 1 card in your hand. Then, ＜Draw 1＞.\"?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "Can I use this card’s inherited effect to choose my Digimon with a \"can't be deleted by effects\" effect and only delete an opponent's Digimon with as high or lower a level as that Digimon?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      }
+    ]
+  },
+  "type": "Undead/X Antibody/SoC"
+}

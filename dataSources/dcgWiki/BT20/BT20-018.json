@@ -1,0 +1,133 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "04",
+  "cardEffects": "＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.)\n[On Play] [When Digivolving] ＜De-Digivolve  2＞ 1 of your opponent's Digimon. (Trash up to 2 cards from the top. You can't trash past level 3 cards.) Then, if during an attack, 1 of your Digimon in the breeding area may digivolve into a level 6 or lower [Chronicle] trait Digimon card in the hand or trash without paying the cost.\n[All Turns] [Once Per Turn] When security stacks are removed from, delete 1 of your opponent's Digimon with the lowest DP.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "5"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "5"
+    }
+  ],
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-018.png",
+        "imgName": "BT20-018.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4a/BT20-018.png/revision/latest?cb=20250207070810",
+        "uploadDate": "2025-02-07T07:08:10"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-018-Sample.png",
+        "imgName": "BT20-018-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a6/BT20-018-Sample.png/revision/latest?cb=20250107064400",
+        "uploadDate": "2025-01-07T06:44:00"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-018-J.png",
+        "imgName": "BT20-018-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/19/BT20-018-J.png/revision/latest?cb=20250124093732",
+        "uploadDate": "2025-01-24T09:37:32"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-018-Sample-J.png",
+        "imgName": "BT20-018-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5a/BT20-018-Sample-J.png/revision/latest?cb=20250107064412",
+        "uploadDate": "2025-01-07T06:44:12"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4a/BT20-018.png/revision/latest?cb=20250207070810",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] If this Digimon is [Alphamon: Ouryuken], trash your opponent's top security card.",
+  "level": "6",
+  "name": "Ouryumon",
+  "nameJapanese": "オウリュウモン",
+  "playCost": "12",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT20-018#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for BT20-018 (2025/01/24, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, it does not trigger.",
+        "question": "If this card's [On Play] and [When Digivolving] effects cause a Digimon in the Breeding Area to digivolve, does the Digimon's [When Digivolving] effect trigger?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Security] effects are activated first. Security] effects, if checked, will be activated immediately without pending activation. Other triggered effects are activated from the turn player's side.",
+        "question": "If the [Security] effect, the \"when security is checked\" effect, and the \"when security is reduced\" effect are triggered simultaneously, in which order do they activate?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.5_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.5 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+          "text": "BT-20: Booster Over the X"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ]
+  },
+  "type": "Beast Dragon/X Antibody/Chronicle"
+}

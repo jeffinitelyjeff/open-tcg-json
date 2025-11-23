@@ -1,0 +1,98 @@
+{
+  "blockIcon": "02",
+  "cardEffects": "[Start of Your Turn] If your opponent has 3 or more Tamers in play, gain 1 memory.\n[All Turns] When an opponent plays a Digimon, by suspending this Tamer, gain 1 memory if that Digimon is level 4 or higher, and ＜Draw 1＞ if it is level 3.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Tamer",
+  "color": "White",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-035.png",
+        "imgName": "RB1-035.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/16/RB1-035.png/revision/latest?cb=20230901095554",
+        "uploadDate": "2023-09-01T09:55:54"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-035-J.png",
+        "imgName": "RB1-035-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/09/RB1-035-J.png/revision/latest?cb=20231022185359",
+        "uploadDate": "2023-10-22T18:53:59"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/16/RB1-035.png/revision/latest?cb=20230901095554",
+  "name": "Hokuto Amanokawa",
+  "nameJapanese": "天ノ河北斗",
+  "nameTranslated": "Amanokawa Hokuto",
+  "playCost": "2",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=RB1-035#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for RB1-035 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can. However, Lv.- Digimon don't have a level, so the \"gain 1 memory if that Digimon is level 4 or higher, and ＜Draw 1＞ if it is level 3\" effect doesn't activate.",
+        "question": "Can I suspend this Tamer when my opponent plays a Lv.- Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Both of the conditions are fulfilled, so you gain both 1 memory and ＜Draw 1＞.",
+        "question": "What happens if I suspend this Tamer when my opponent plays both a level 3 and a level 4 or higher Digimon at the same time?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you don't. You only ＜Draw 1＞ once even if multiple level 3 Digimon are played, and you similarly only gain 1 memory even if multiple level 4 or higher Digimon are played.",
+        "question": "If I suspend this Tamer when my opponent plays 2 level 3 or level 4 or higher Digimon at the same time, do I gain ＜Draw 1＞ or 1 memory twice?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Play this card without paying the cost.",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-07: Booster Great Warrior",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "simplifiedChinese": "天河北斗",
+  "traditionalChinese": "天之河北斗"
+}

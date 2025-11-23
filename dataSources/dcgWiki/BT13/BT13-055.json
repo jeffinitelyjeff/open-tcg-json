@@ -1,0 +1,104 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "02",
+  "cardEffects": "[Hand] [Main] If you have a [Ruli Tsukiyono] in play, by placing 1 [SymbareAngoramon] from your hand under 1 of your [Angoramon] as its bottom digivolution card, digivolve that Digimon into this card for a digivolution cost of 3, ignoring this card's digivolution requirements.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-055.png",
+        "imgName": "BT13-055.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/48/BT13-055.png/revision/latest?cb=20230714185528",
+        "uploadDate": "2023-07-14T18:55:28"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-055-J.png",
+        "imgName": "BT13-055-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0a/BT13-055-J.png/revision/latest?cb=20230217122641",
+        "uploadDate": "2023-02-17T12:26:41"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-055-Sample-J.png",
+        "imgName": "BT13-055-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/78/BT13-055-Sample-J.png/revision/latest?cb=20230126051749",
+        "uploadDate": "2023-01-26T05:17:49"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/48/BT13-055.png/revision/latest?cb=20230714185528",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When this Digimon deletes an opponent's Digimon in battle, trash the top card of your opponent's security stack.",
+  "level": "5",
+  "name": "Lamortmon",
+  "nameJapanese": "ラモールモン",
+  "playCost": "8",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT13-055#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT13-055 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "This card’s inherited effect activates first. After trashing the top card of your opponent's security stack, perform the security check for ＜Piercing＞.",
+        "question": "Which comes first, trashing the top card of my opponent's security stack from this card's inherited effect or the security check from the ＜Piercing＞ effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:KISUKE",
+          "text": "KISUKE"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:KISUKE",
+          "text": "KISUKE"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "死神兽",
+  "traditionalChinese": "拉莫爾獸",
+  "type": "Beast"
+}

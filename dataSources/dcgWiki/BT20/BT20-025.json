@@ -1,0 +1,129 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Coredramon]: Cost 3",
+  "attribute": "Vaccine",
+  "blockIcon": "04",
+  "cardEffects": "[On Play] [When Digivolving] Delete 1 of your opponent's Digimon with 6000 DP or less.\n[All Turns] This Digimon is also treated as Lv.6 [Slayerdramon] for [Examon]'s DNA digivolution.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue / Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-025.png",
+        "imgName": "BT20-025.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/18/BT20-025.png/revision/latest?cb=20250207070924",
+        "uploadDate": "2025-02-07T07:09:24"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-025-Sample.png",
+        "imgName": "BT20-025-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/59/BT20-025-Sample.png/revision/latest?cb=20241222061204",
+        "uploadDate": "2024-12-22T06:12:04"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-025-J.png",
+        "imgName": "BT20-025-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e6/BT20-025-J.png/revision/latest?cb=20250124093732",
+        "uploadDate": "2025-01-24T09:37:32"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-025-Sample-J.png",
+        "imgName": "BT20-025-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/73/BT20-025-Sample-J.png/revision/latest?cb=20241222061210",
+        "uploadDate": "2024-12-22T06:12:10"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/18/BT20-025.png/revision/latest?cb=20250207070924",
+  "inheritedEffect": "＜Security A. +1＞ (This Digimon checks 1 additional security card.)",
+  "level": "5",
+  "name": "Wingdramon",
+  "nameJapanese": "ウイングドラモン",
+  "playCost": "7",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT20-025#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for BT20-025 (2025/01/24, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you cannot. This [All Turns] effect is activated while this card is in the Battle Area. It cannot be treated as a \"Slayer Dramon\" in your hand.",
+        "question": "Can I use \"Blast Joggles\" of \"BT20-045 Examon ACE\" to treat this card in my hand as \"Slayer Dramon\" and DNA digivolves with this card's [All Turns] effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.5_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.5 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+          "text": "BT-20: Booster Over the X"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      }
+    ]
+  },
+  "type": "Sky Dragon"
+}

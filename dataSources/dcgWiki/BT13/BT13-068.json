@@ -1,0 +1,93 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Chessmon] in name: Cost 2",
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Deletion] If it's your opponent's turn, you may play 1 level 4 or lower Digimon card with [Chessmon] in its name from your hand without paying its cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black / Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-068.png",
+        "imgName": "BT13-068.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b7/BT13-068.png/revision/latest?cb=20230714185529",
+        "uploadDate": "2023-07-14T18:55:29"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-068-J.png",
+        "imgName": "BT13-068-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/df/BT13-068-J.png/revision/latest?cb=20230217122640",
+        "uploadDate": "2023-02-17T12:26:40"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-068-Sample-J.png",
+        "imgName": "BT13-068-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4a/BT13-068-Sample-J.png/revision/latest?cb=20230208074656",
+        "uploadDate": "2023-02-08T07:46:56"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b7/BT13-068.png/revision/latest?cb=20230714185529",
+  "level": "4",
+  "name": "KnightChessmon",
+  "nameJapanese": "ナイトチェスモン",
+  "playCost": "5",
+  "rarity": "Common",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake  Kinoshita"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake  Kinoshita"
+        }
+      }
+    ]
+  },
+  "type": "Puppet"
+}

@@ -1,0 +1,95 @@
+{
+  "attribute": "Data",
+  "blockIcon": "01",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-008.png",
+        "imgName": "BT6-008.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/eb/BT6-008.png/revision/latest?cb=20210921061218",
+        "uploadDate": "2021-09-21T06:12:18"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-008-J.png",
+        "imgName": "BT6-008-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/36/BT6-008-J.png/revision/latest?cb=20210521045851",
+        "uploadDate": "2021-05-21T04:58:51"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/eb/BT6-008.png/revision/latest?cb=20210921061218",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] If this Digimon has ＜Blitz＞, ＜Draw 1＞ (Draw 1 card from your deck.)",
+  "level": "3",
+  "name": "Shoutmon",
+  "nameJapanese": "シャウトモン",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT6-008#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT6-008 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes. As long as a Digimon with ＜Blitz＞ is in this card’s digivolution cards, ＜Draw 1＞ will activate even if you make a normal, non-＜Blitz＞ attack.",
+        "question": "I make a normal, non-＜Blitz＞ attack with this Digimon. Can I use this card’s inherited effect to draw a card with ＜Draw 1＞?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+          "text": "BT-06: Booster Double Diamond"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+          "text": "BT-06: Booster Double Diamond"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "高吼兽",
+  "traditionalChinese": "咆哮獸",
+  "type": "Mini Dragon"
+}

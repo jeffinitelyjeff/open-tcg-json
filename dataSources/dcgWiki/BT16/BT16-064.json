@@ -1,0 +1,112 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[DoruGreymon] in its name or Lv.5 w/[SoC] trait: Cost 3",
+  "attribute": "Data",
+  "blockIcon": "03",
+  "cardEffects": "＜Collision＞ (During this Digimon's attack, all of your opponent's Digimon gain ＜Blocker＞, and must block if possible.)\n[When Digivolving] If a Tamer card with the [SoC] trait is in this Digimon's digivolution cards, delete 1 of your opponent's unsuspended Digimon or Tamers.\n[All Turns] [Once Per Turn] When another Digimon is deleted, you may unsuspend this Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black / Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "5"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "4",
+      "level": "5"
+    }
+  ],
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-064.png",
+        "imgName": "BT16-064.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b8/BT16-064.png/revision/latest?cb=20240426204050",
+        "uploadDate": "2024-04-26T20:40:50"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Beginning_Observer",
+        "captionText": "Pre-Release Pack Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-064_P0.png",
+        "imgName": "BT16-064_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e1/BT16-064_P0.png/revision/latest?cb=20240429054833",
+        "uploadDate": "2024-04-29T05:48:33"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-064-J.png",
+        "imgName": "BT16-064-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/00/BT16-064-J.png/revision/latest?cb=20231215073418",
+        "uploadDate": "2023-12-15T07:34:18"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-064-Sample-J.png",
+        "imgName": "BT16-064-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e2/BT16-064-Sample-J.png/revision/latest?cb=20231204092913",
+        "uploadDate": "2023-12-04T09:29:13"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b8/BT16-064.png/revision/latest?cb=20240426204050",
+  "level": "6",
+  "name": "Dorugoramon",
+  "nameJapanese": "ドルゴラモン",
+  "playCost": "12",
+  "rarity": "Rare",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Beginning_Observer",
+          "text": "Pre-Release Pack Beginning Observer"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      }
+    ]
+  },
+  "type": "Beast Dragon/X Antibody/SoC"
+}

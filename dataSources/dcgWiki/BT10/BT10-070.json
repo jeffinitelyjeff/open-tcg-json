@@ -1,0 +1,149 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "02",
+  "cardEffects": "＜Rush＞ (This Digimon can attack the turn it comes into play.)\n[On Play] If this Digimon has 3 digivolution cards, ＜Blitz＞ (If your opponent has 1 or more memory, this Digimon may attack.).\n[Opponent's Turn] [Once Per Turn] When an opponent's Digimon attacks, by trashing 1 of this Digimon's digivolution cards, delete 1 of your opponent's level 4 or lower Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black / Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "5",
+      "level": "5"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "5",
+      "level": "5"
+    }
+  ],
+  "dp": "13000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-070.png",
+        "imgName": "BT10-070.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/aa/BT10-070.png/revision/latest?cb=20221007210239",
+        "uploadDate": "2022-10-07T21:02:39"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Xros_Encounter_Pre-Release_Pack",
+        "captionText": "Xros Encounter Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-070_P0.png",
+        "imgName": "BT10-070_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/57/BT10-070_P0.png/revision/latest?cb=20221022210007",
+        "uploadDate": "2022-10-22T21:00:07"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-070-J.png",
+        "imgName": "BT10-070-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/72/BT10-070-J.png/revision/latest?cb=20220520104226",
+        "uploadDate": "2022-05-20T10:42:26"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-070-Sample-J.png",
+        "imgName": "BT10-070-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d5/BT10-070-Sample-J.png/revision/latest?cb=20220507092251",
+        "uploadDate": "2022-05-07T09:22:51"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/aa/BT10-070.png/revision/latest?cb=20221007210239",
+  "level": "6",
+  "name": "Blastmon",
+  "nameJapanese": "ブラストモン",
+  "playCost": "13",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT10-070#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT10-070 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Only if it has 3 digivolution cards, but the check will ignore the [On Play].",
+        "question": "If this Digimon has [BT5-014 OmniShoutmon], does this Digimon gain ＜Security A. +1＞?",
+        "reference": ""
+      },
+      {
+        "answer": "No, you can't. This card's [Opponent's Turn] effect triggers in the counter timing of the attack after [When Attacking] effects have already activated.",
+        "question": "When one of my opponent's level 4 or lower Digimon attacks, can I delete that Digimon with this card's [Opponent's Turn] effect before its [When Attacking] effects activate?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it can activate.  This card's [On Play] effect activates ＜Blitz＞ if there are 3 or more digivolution cards.",
+        "question": "If this Digimon has 4 or more digivolution cards when I play this card, does ＜Blitz＞ activate?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Xros_Encounter_Pre-Release_Pack",
+          "text": "Xros Encounter Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "爆风兽",
+  "traditionalChinese": "爆破獸",
+  "type": "Mineral/Bagra Army"
+}

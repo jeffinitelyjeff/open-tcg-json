@@ -1,0 +1,121 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] [When Digivolving] You may suspend 1 Digimon. Then, 1 of your Digimon gets +3000 DP until the end of your opponent's turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-045.png",
+        "imgName": "BT16-045.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5d/BT16-045.png/revision/latest?cb=20240426204050",
+        "uploadDate": "2024-04-26T20:40:50"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Beginning_Observer",
+        "captionText": "Pre-Release Pack Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-045_P0.png",
+        "imgName": "BT16-045_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/48/BT16-045_P0.png/revision/latest?cb=20240429054833",
+        "uploadDate": "2024-04-29T05:48:33"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-045-J.png",
+        "imgName": "BT16-045-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/62/BT16-045-J.png/revision/latest?cb=20231215073418",
+        "uploadDate": "2023-12-15T07:34:18"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-045-Sample-J.png",
+        "imgName": "BT16-045-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2f/BT16-045-Sample-J.png/revision/latest?cb=20231203064358",
+        "uploadDate": "2023-12-03T06:43:58"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5d/BT16-045.png/revision/latest?cb=20240426204050",
+  "inheritedEffect": "[Opponent's Turn] [Once Per Turn] When an opponent's Digimon attacks, you may switch the target of attack to 1 of your suspended Digimon with the [Insectoid] trait.",
+  "level": "5",
+  "name": "MetallifeKuwagamon",
+  "nameJapanese": "メタリフェクワガーモン",
+  "playCost": "7",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT16-045#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT16-045 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it can.",
+        "question": "When my Digimon with the [Insectoid] trait and this card in its digivolution cards is suspended, can this card's inherited effect switch the target of an opponent's Digimon's attack to that Digimon with this card in its digivolution cards?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Beginning_Observer",
+          "text": "Pre-Release Pack Beginning Observer"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ]
+  },
+  "type": "Insectoid"
+}

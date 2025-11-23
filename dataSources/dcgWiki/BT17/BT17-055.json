@@ -1,0 +1,102 @@
+{
+  "attribute": "Unknown",
+  "blockIcon": "03",
+  "cardEffects": "[When Digivolving] ＜De-Digivolve  1＞ 1 of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.) Then, 1 of your opponent's Digimon with a play cost 8 or less can't attack players until the end of their turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-055.png",
+        "imgName": "BT17-055.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c6/BT17-055.png/revision/latest?cb=20240705214737",
+        "uploadDate": "2024-07-05T21:47:37"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-055-J.png",
+        "imgName": "BT17-055-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cc/BT17-055-J.png/revision/latest?cb=20240322064306",
+        "uploadDate": "2024-03-22T06:43:06"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-055-Sample-J.png",
+        "imgName": "BT17-055-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/92/BT17-055-Sample-J.png/revision/latest?cb=20240303153150",
+        "uploadDate": "2024-03-03T15:31:50"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c6/BT17-055.png/revision/latest?cb=20240705214737",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When you play another Digimon with [Diaboromon] in its name, ＜De-Digivolve  1＞ 1 of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.).",
+  "level": "5",
+  "name": "Infermon",
+  "nameJapanese": "インフェルモン",
+  "playCost": "7",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT17-055#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT17-055 (Sep. 6, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, it can't.  Even if a target Digimon of this card's [When Digivolving] effect becomes a level 9 or higher Digimon, it can't attack players.",
+        "question": "I chose 1 opponent's Digimon with a play cost of 8 or less as the target for \"can't attack players\" in this card's [When Digivolving] effect.  If that opponent's Digimon digivolves during their next turn and becomes a Digimon with a play cost of 9 or more, can it now attack players?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ]
+  },
+  "type": "Unidentified"
+}

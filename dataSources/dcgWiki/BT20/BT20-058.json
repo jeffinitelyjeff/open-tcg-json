@@ -1,0 +1,113 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "04",
+  "cardEffects": "[On Play] [When Digivolving] Delete 1 of your opponent's Digimon with a play cost of 7 or less.\n[All Turns] When this Digimon would leave the battle area, you may play 1 Digimon card with a play cost 11 or lower and the [Cyborg] or [Machine] trait from this Digimon's digivolution cards without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "4",
+    "level": "5"
+  },
+  "digixrosRequirements": "[DigiXros -2] [Raijinmon] x [Fujinmon] x [Suijinmon] \nWhen this would be played, you may place specified cards from your hand/battle area under it. Each one reduces the play cost.",
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-058.png",
+        "imgName": "BT20-058.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/70/BT20-058.png/revision/latest?cb=20250207192834",
+        "uploadDate": "2025-02-07T19:28:34"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-058-J.png",
+        "imgName": "BT20-058-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/aa/BT20-058-J.png/revision/latest?cb=20241107060510",
+        "uploadDate": "2024-11-07T06:05:10"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-058-Sample-J.png",
+        "imgName": "BT20-058-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/36/BT20-058-Sample-J.png/revision/latest?cb=20250118074934",
+        "uploadDate": "2025-01-18T07:49:34"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/70/BT20-058.png/revision/latest?cb=20250207192834",
+  "level": "6",
+  "name": "Raidenmon",
+  "nameJapanese": "ライデンモン",
+  "playCost": "12",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT20-058#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for BT20-058 (2025/01/24, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "A Digimon card with \"Machine type\" in its trait at a play cost of 11 or less or a Digimon card with \"Cyborg type\" in its trait at a play cost of 11 or less.",
+        "question": "Which cards can be played by this card's [All Turns] effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.5_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.5 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Stamped - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+          "text": "BT-20: Booster Over the X"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ]
+  },
+  "type": "Machine"
+}

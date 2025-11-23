@@ -1,0 +1,95 @@
+{
+  "attribute": "Data",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] [When Attacking] Return 1 purple Digimon card with the [Dark Animal] trait from your trash to the hand. Then, trash 1 card in your hand.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-072.png",
+        "imgName": "BT14-072.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1d/BT14-072.png/revision/latest?cb=20231027105755",
+        "uploadDate": "2023-10-27T10:57:55"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-072-J.png",
+        "imgName": "BT14-072-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/53/BT14-072-J.png/revision/latest?cb=20231112061511",
+        "uploadDate": "2023-11-12T06:15:11"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1d/BT14-072.png/revision/latest?cb=20231027105755",
+  "level": "4",
+  "name": "Fangmon",
+  "nameJapanese": "ソウルモン",
+  "playCost": "4",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT14-072#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT14-072 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "You can't return a card from your trash to the hand, but you must perform \"trash 1 card in your hand.\"",
+        "question": "What happens for this effect if I don't have a purple Digimon card with the [Dark Animal] trait in my trash?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "獠牙兽",
+  "traditionalChinese": "狼牙獸",
+  "type": "Dark Animal"
+}

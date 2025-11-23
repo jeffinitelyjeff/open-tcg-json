@@ -1,0 +1,130 @@
+{
+  "attribute": "Data",
+  "blockIcon": "02",
+  "cardEffects": "＜Material Save 1＞ (When this Digimon would be deleted, you may place 1 card in this Digimon's DigiXros requirements from this Digimon's digivolution cards under 1 of your Tamers.)\n[On Play] 1 of your opponent's Digimon gets -3000 DP for the turn. Then, if DigiXrosing with 2 cards, delete 1 of your opponent's Digimon with 2000 DP or less.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red / Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "0",
+      "level": "2"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "1",
+      "level": "2"
+    }
+  ],
+  "digixrosRequirements": "[DigiXros -1] [Shoutmon] x [Starmons] \nWhen this would be played, you may place specified cards from your hand/battle area under it. Each one reduces the play cost.",
+  "dp": "4000 DP",
+  "errata": [
+    {
+      "afterImageURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d2/BT11-009-Errata.png/revision/latest?cb=20230312113504",
+      "afterText": "＜Material Save 1＞ (When this Digimon would be deleted, you may place 1 card in this Digimon's DigiXros requirements from this Digimon's digivolution cards under 1 of your Tamers).",
+      "beforeImageURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/23/BT11-009.png/revision/latest?cb=20230210132359",
+      "beforeText": "＜Material Save 1＞ (When this Digimon would be deleted, you may place 2 cards in this Digimon's DigiXros requirements from this Digimon's digivolution cards under 1 of your Tamers)."
+    }
+  ],
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-009-Errata.png",
+        "imgName": "BT11-009-Errata.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d2/BT11-009-Errata.png/revision/latest?cb=20230312113504",
+        "uploadDate": "2023-03-12T11:35:04"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-009-J.png",
+        "imgName": "BT11-009-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ec/BT11-009-J.png/revision/latest?cb=20220922114907",
+        "uploadDate": "2022-09-22T11:49:07"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-009-Sample-J.png",
+        "imgName": "BT11-009-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ec/BT11-009-Sample-J.png/revision/latest?cb=20220911055234",
+        "uploadDate": "2022-09-11T05:52:34"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d2/BT11-009-Errata.png/revision/latest?cb=20230312113504",
+  "level": "3",
+  "name": "Shoutmon + Star Sword",
+  "nameJapanese": "シャウトモン+スターソード",
+  "playCost": "5",
+  "rarity": "Common",
+  "rule": "[Rule] Name: Also treated as [Shoutmon]/[Starmons].",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT11-009#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT11-009 (Sep. 13, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "This is a special rule for this card that always treats it as if it also has the [Shoutmon] and [Starmons] names.",
+        "question": "What does this card's (Rule) mean, exactly?  (*This card's \"This card/Digimon is also treated as if its name is [Shoutmon] and [Starmons]\" has been changed to \"(Rule) Name: Also treated as [Shoutmon] and [Starmons].\")",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      }
+    ]
+  },
+  "traditionalChinese": "咆哮獸+星星劍",
+  "type": "Enhancement/Xros Heart"
+}

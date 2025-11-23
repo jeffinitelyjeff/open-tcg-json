@@ -1,0 +1,141 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Veemon]: Cost 3",
+  "attribute": "Free",
+  "blockIcon": "03",
+  "cardEffects": "[Security] ＜De-Digivolve  1＞ 1 Digimon. (Trash the top card. You can't trash past level 3 cards.) At the end of the battle, 1 of your Digimon may digivolve into this card without paying the digivolution cost.\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n＜Armor Purge＞  (When this Digimon would be deleted, you may trash the top card of this Digimon to prevent that deletion.)\n[When Digivolving] Trash the top digivolution card of 1 of your opponent's Digimon for each of that Digimon's colors. Then, return 1 of your opponent's Digimon with no digivolution cards to the hand.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black / Blue",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "3"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "4",
+      "level": "3"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Armor Form",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-17:_Advanced_Deck_Set_Double_Typhoon",
+        "captionText": "ST-17: Advanced Deck Set Double Typhoon (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST17-13.png",
+        "imgName": "ST17-13.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e7/ST17-13.png/revision/latest?cb=20240313231307",
+        "uploadDate": "2024-03-13T23:13:07"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-17:_Advanced_Deck_Set_Double_Typhoon",
+        "captionText": "ST-17: Advanced Deck Set Double Typhoon (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST17-13-J.png",
+        "imgName": "ST17-13-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/23/ST17-13-J.png/revision/latest?cb=20231117101603",
+        "uploadDate": "2023-11-17T10:16:03"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-17:_Advanced_Deck_Set_Double_Typhoon",
+        "captionText": "ST-17: Advanced Deck Set Double Typhoon (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST17-13-Sample-J.png",
+        "imgName": "ST17-13-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/41/ST17-13-Sample-J.png/revision/latest?cb=20231102122238",
+        "uploadDate": "2023-11-02T12:22:38"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-05:_Limited_Card_Pack_Final_Elysion",
+        "captionText": "LM-05: Limited Card Pack Final Elysion (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST17-13_P1-J.png",
+        "imgName": "ST17-13_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b1/ST17-13_P1-J.png/revision/latest?cb=20250404055943",
+        "uploadDate": "2025-04-04T05:59:43"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-05:_Limited_Card_Pack_Final_Elysion",
+        "captionText": "LM-05: Limited Card Pack Final Elysion (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST17-13_P1-Sample-J.png",
+        "imgName": "ST17-13_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/60/ST17-13_P1-Sample-J.png/revision/latest?cb=20250209082356",
+        "uploadDate": "2025-02-09T08:23:56"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e7/ST17-13.png/revision/latest?cb=20240313231307",
+  "level": "4",
+  "name": "Magnamon",
+  "nameJapanese": "マグナモン",
+  "playCost": "7",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=ST17-13#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for ST17-13 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can’t ignore the digivolution requirements.",
+        "question": "Does this card's [Security] effect allow me to ignore the digivolution requirements when I digivolve 1 of my Digimon into this card at the end of the battle?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "It occurs with your opponent's Digimon after ＜De-Digivolve  1＞ nocategory of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.).  Security effects have top priority and activate when a card is flipped over for a security check.",
+        "question": "If this card's [Security] effect gives ＜De-Digivolve  1＞ nocategory of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.) to my opponent's attacking Digimon, does the battle with the Security Digimon occur with my opponent's Digimon before or after ＜De-Digivolve  1＞ nocategory of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.)?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-17:_Advanced_Deck_Set_Double_Typhoon",
+          "text": "ST-17: Advanced Deck Set Double Typhoon"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-17:_Advanced_Deck_Set_Double_Typhoon",
+          "text": "ST-17: Advanced Deck Set Double Typhoon"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-05:_Limited_Card_Pack_Final_Elysion",
+          "text": "LM-05: Limited Card Pack Final Elysion"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "type": "Holy Warrior/Royal Knight"
+}

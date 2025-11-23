@@ -1,0 +1,195 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "01",
+  "cardEffects": "[When Digivolving] Delete 1 of your opponent's Digimon with 10000 DP or less. If no Digimon was deleted by this effect, trash the top 5 cards of both players' decks.\n[On Deletion] You may play 1 [Guilmon] and 1 [Takato Matsuki] from your hand and/or trash without paying their memory costs.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red / Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "5",
+      "level": "5"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "5",
+      "level": "5"
+    }
+  ],
+  "dp": "13000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+        "captionText": "EX-02: Theme Booster Digital Hazard (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX2-012.png",
+        "imgName": "EX2-012.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/23/EX2-012.png/revision/latest?cb=20220617101758",
+        "uploadDate": "2022-06-17T10:17:58"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+        "captionText": "EX-02: Theme Booster Digital Hazard (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX2-012_P1.png",
+        "imgName": "EX2-012_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/40/EX2-012_P1.png/revision/latest?cb=20220624094750",
+        "uploadDate": "2022-06-24T09:47:50"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+        "captionText": "EX-02: Theme Booster Digital Hazard (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX2-012-J.png",
+        "imgName": "EX2-012-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2f/EX2-012-J.png/revision/latest?cb=20211217092410",
+        "uploadDate": "2021-12-17T09:24:10"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+        "captionText": "EX-02: Theme Booster Digital Hazard (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX2-012_P1-J.png",
+        "imgName": "EX2-012_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/95/EX2-012_P1-J.png/revision/latest?cb=20211224051021",
+        "uploadDate": "2021-12-24T05:10:21"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+        "captionText": "EX-02: Theme Booster Digital Hazard (Alternative Art) (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX2-012_P1-Sample-J.png",
+        "imgName": "EX2-012_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6b/EX2-012_P1-Sample-J.png/revision/latest?cb=20211217092834",
+        "uploadDate": "2021-12-17T09:28:34"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/23/EX2-012.png/revision/latest?cb=20220617101758",
+  "level": "6",
+  "name": "Megidramon",
+  "nameJapanese": "メギドラモン",
+  "playCost": "13",
+  "rarity": "Super Rare",
+  "rule": "[Rule] Name: Also treated as [ChaosGallantmon].",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX2-012#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX2-012 (Mar. 28, 2024)"
+      },
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX2-012#qaResult_card",
+        "num": 2,
+        "text": "Official English Q&A for EX2-012 (Sep. 13, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "If no Digimon was deleted by this effect” refers to a state in which, when resolving this Digimon’s [When Digivolving] effect, your opponent doesn't have a Digimon with 10000 DP or less in play, or you try to delete an opponent's suitable Digimon can't be deleted with the effect. Essentially, if you didn't delete a Digimon by “Delete 1 of your opponent’s Digimon with 10000 DP or less,” follow the instructions listed after “If no Digimon was deleted by this effect...",
+        "question": "This card’s [When Digivolving] effect reads “Delete 1 of your opponent's Digimon with 10000 DP or less. If no Digimon was deleted by this effect...” What situations does “If no Digimon was deleted by this effect” refer to, specifically?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. If there’s a valid target in play, you must choose it with the effect.  You can't choose to NOT activate the effect.",
+        "question": "My opponent has a Digimon with 10000 DP or less in play. Can I choose not to delete my opponent’s Digimon with this card’s [When Digivolving] effect so we both trash the top 5 cards of our deck?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes. You can choose your opponent’s Digimon with 10000 DP or less as a target, even if the chosen Digimon has an effect that prevents it from being deleted, in order to get the “if no Digimon was deleted by this effect” part of the effect.",
+        "question": "My opponent has a Digimon with 10000 DP or less and an effect that reads, “This Digimon can't be deleted by your opponent’s effects,” and another Digimon with 10000 DP or less but no effect. Can I intentionally have this card’s [When Digivolving] effect target the Digimon with the effect preventing deletion to have us both trash the top 5 cards of our decks?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "If [EX2-008 Guilmon]’s [On Play] effect reveals this card from my deck, can I add it to my hand as a card that has [Gallantmon]?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes. The Digimon chosen as a target for this effect is not deleted, and the Digimon that activates ＜Decoy (nocategory)＞ (When your other nocategory Digimon would be deleted by an opponent's effect, you may delete this Digimon to prevent 1 of those Digimon's deletion.) is deleted by the effect of ＜Decoy (nocategory)＞ (When your other nocategory Digimon would be deleted by an opponent's effect, you may delete this Digimon to prevent 1 of those Digimon's deletion.) and not this effect. As such, the condition is satisfied for \"if no Digimon was deleted by this effect,\" and both players will trash the top 5 cards of their decks.",
+        "question": "I try to delete an opponent's Digimon with this card’s [When Digivolving] effect, and my opponent activates ＜Decoy (nocategory)＞ (When your other nocategory Digimon would be deleted by an opponent's effect, you may delete this Digimon to prevent 1 of those Digimon's deletion.) to prevent the chosen Digimon from being deleted. If the Digimon that activated ＜Decoy (nocategory)＞ (When your other nocategory Digimon would be deleted by an opponent's effect, you may delete this Digimon to prevent 1 of those Digimon's deletion.) is deleted, does the “if no Digimon was deleted by this effect” part of this card's effect still activate?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "This is a special rule for this card that always treats it as if it also has the [ChaosGallantmon] name.",
+        "question": "What does this card's (Rule) mean, exactly?  (*This card's \"The name of this card/Digimon is also treated as [ChaosGallantmon]\" has been changed to \"(Rule) Name: Also treated as [ChaosGallantmon].\")",
+        "reference": "[2]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-01: Extra Booster",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": "EXC-01: Extra Booster",
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naochika_Morishita",
+          "text": "Naochika Morishita"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+          "text": "EX-02: Theme Booster Digital Hazard"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+          "text": "EX-02: Theme Booster Digital Hazard"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naochika_Morishita",
+          "text": "Naochika Morishita"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+          "text": "EX-02: Theme Booster Digital Hazard"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+          "text": "EX-02: Theme Booster Digital Hazard"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naochika_Morishita",
+          "text": "Naochika Morishita"
+        }
+      }
+    ]
+  },
+  "type": "Evil Dragon/Four Great Dragons"
+}

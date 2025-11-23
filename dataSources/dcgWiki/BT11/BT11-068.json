@@ -1,0 +1,209 @@
+{
+  "attribute": "Data",
+  "blockIcon": "02,03",
+  "cardEffects": "[On Play] [When Digivolving] Reveal the top 5 cards of your deck. You may  play 1 Tamer card with a play cost of 4 or less among them without paying the cost. Place the rest at the top or bottom of your deck in any order.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "4"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "3",
+      "level": "4"
+    }
+  ],
+  "dp": "6000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-068.png",
+        "imgName": "BT11-068.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fc/BT11-068.png/revision/latest?cb=20230210132502",
+        "uploadDate": "2023-02-10T13:25:02"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Dimensional_Phase_Pre-Release_Pack",
+        "captionText": "Dimensional Phase Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-068_P0.png",
+        "imgName": "BT11-068_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/01/BT11-068_P0.png/revision/latest?cb=20230210210906",
+        "uploadDate": "2023-02-10T21:09:06"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Event_Pack_5",
+        "captionText": "Event Pack 5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-068_P1.png",
+        "imgName": "BT11-068_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/dd/BT11-068_P1.png/revision/latest?cb=20230714150305",
+        "uploadDate": "2023-07-14T15:03:05"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Official_Tournament_Pack_Vol._12",
+        "captionText": "Official Tournament Pack Vol. 12 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-068_P2.png",
+        "imgName": "BT11-068_P2.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e2/BT11-068_P2.png/revision/latest?cb=20240330190112",
+        "uploadDate": "2024-03-30T19:01:12"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-068-J.png",
+        "imgName": "BT11-068-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a0/BT11-068-J.png/revision/latest?cb=20240112143044",
+        "uploadDate": "2024-01-12T14:30:44"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Tamer_Battle_Pack_18",
+        "captionText": "Tamer Battle Pack 18 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-068_P1-J.png",
+        "imgName": "BT11-068_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c8/BT11-068_P1-J.png/revision/latest?cb=20230508113231",
+        "uploadDate": "2023-05-08T11:32:31"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Tamer_Battle_Pack_18",
+        "captionText": "Tamer Battle Pack 18 (1st Place Prize) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-068_P2-J.png",
+        "imgName": "BT11-068_P2-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d2/BT11-068_P2-J.png/revision/latest?cb=20230508113231",
+        "uploadDate": "2023-05-08T11:32:31"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fc/BT11-068.png/revision/latest?cb=20230210132502",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When you play another Digimon by an effect, 1 of your Digimon gains ＜Blocker＞ (This Digimon can block in the blocker timing.) until the end of your opponent's turn.",
+  "korean": "콩알몬",
+  "level": "5",
+  "name": "Mamemon",
+  "nameJapanese": "マメモン",
+  "playCost": "7",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncardgame.fandom.com/wiki/BT11-068/Gallery?file=BT11-068-J.png",
+        "num": 1,
+        "text": "BT11-068 original Japanese card text"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you must place all cards at the top or all cards at the bottom.",
+        "question": "When I place 4-5 cards at the top or bottom of my deck for this card's [On Play] [When Digivolving] effect, can I place some cards at the top and some at the bottom?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-06: Booster Across Dimension",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Dimensional_Phase_Pre-Release_Pack",
+          "text": "Dimensional Phase Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Event_Pack_5",
+          "text": "Event Pack 5"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Official_Tournament_Pack_Vol._12",
+          "text": "Official Tournament Pack Vol. 12"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Tamer_Battle_Pack_18",
+          "text": "Tamer Battle Pack 18"
+        },
+        "foil&Rarity": "No Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Tamer_Battle_Pack_18",
+          "text": "Tamer Battle Pack 18"
+        },
+        "foil&Rarity": "Foil - Silver Background - 1st Place Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "豆豆兽",
+  "traditionalChinese": "豆豆獸",
+  "type": "Mutant"
+}

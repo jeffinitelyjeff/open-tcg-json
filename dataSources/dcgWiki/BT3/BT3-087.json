@@ -1,0 +1,154 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "00",
+  "cardEffects": "[When Attacking] You may pay 3 memory to play 1 [MaloMyotismon] from your trash without paying its memory cost. Then, delete this Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": null,
+        "captionText": "BTC-03: Booster Diamond Legend (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT3-087-C.png",
+        "imgName": "BT3-087-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/52/BT3-087-C.png/revision/latest?cb=20231120145353",
+        "uploadDate": "2023-11-20T14:53:53"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.5",
+        "captionText": "BT01-03: Release Special Booster Ver.1.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT3-087.png",
+        "imgName": "BT3-087.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/18/BT3-087.png/revision/latest?cb=20210122161617",
+        "uploadDate": "2021-01-22T16:16:17"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-03:_Booster_Union_Impact",
+        "captionText": "BT-03: Booster Union Impact (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT3-087-J.png",
+        "imgName": "BT3-087-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/49/BT3-087-J.png/revision/latest?cb=20201218200726",
+        "uploadDate": "2020-12-18T20:07:26"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.5",
+        "captionText": "BT01-03: Release Special Booster Ver.1.5 (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT3-087-K.png",
+        "imgName": "BT3-087-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d8/BT3-087-K.png/revision/latest?cb=20230814185307",
+        "uploadDate": "2023-08-14T18:53:07"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/18/BT3-087.png/revision/latest?cb=20210122161617",
+  "korean": "미이라몬",
+  "level": "5",
+  "name": "Mummymon",
+  "nameJapanese": "マミーモン",
+  "playCost": "7",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT3-087#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT3-087 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can choose not to use it.",
+        "question": "Do I have to activate this card's [When Attacking] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "The attacking Digimon was deleted, so the attack ends.  However, other \"when one of your Digimon attacks\" effects and effects activated at counter timing are activated before the attack ends.",
+        "question": "I attack with this card, and use its [When Attacking] effect to play [MaloMyotismon]. When this Digimon is deleted after this, what happens to the attack?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. After this Digimon is deleted, its other [When Attacking] effects can't be activated.  You can, however, activate other [When Attacking] effects prior to activating this card's [When Attacking] effect.",
+        "question": "I attack with this card, and use its [When Attacking] effect to play [MaloMyotismon]. Can I then activate any [When Attacking] inherited effects on this card?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, BT3-92 [MaloMyotismon] is in play when this card is deleted, so you gain 1 memory.",
+        "question": "I attack with this card, and use its [When Attacking] effect to play [MaloMyotismon]. This Digimon is then deleted, but do I gain a memory from [MaloMyotismon]'s \"[All Turns] When another Digimon is deleted, gain 1 memory\" effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-03: Booster Diamond Legend",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TSCR",
+          "text": "TSCR"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.5",
+          "text": "BT01-03: Release Special Booster Ver.1.5"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TSCR",
+          "text": "TSCR"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-03:_Booster_Union_Impact",
+          "text": "BT-03: Booster Union Impact"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TSCR",
+          "text": "TSCR"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.5",
+          "text": "BT01-03: Release Special Booster Ver.1.5"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TSCR",
+          "text": "TSCR"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "木乃伊兽",
+  "traditionalChinese": "木乃伊獸",
+  "type": "Undead"
+}

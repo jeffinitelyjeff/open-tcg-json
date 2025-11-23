@@ -1,0 +1,121 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[When Attacking] If attacking a Digimon with DP higher than this Digimon, this Digimon may digivolve into 1 level 6 Digimon card with [Leomon] in its name in your hand for a cost of 6, ignoring its digivolution requirements.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-048.png",
+        "imgName": "BT14-048.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/47/BT14-048.png/revision/latest?cb=20231027105753",
+        "uploadDate": "2023-10-27T10:57:53"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Blast_Ace_Pre-Release_Pack",
+        "captionText": "Blast Ace Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-048_P0.png",
+        "imgName": "BT14-048_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/03/BT14-048_P0.png/revision/latest?cb=20231116222514",
+        "uploadDate": "2023-11-16T22:25:14"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-048-J.png",
+        "imgName": "BT14-048-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/87/BT14-048-J.png/revision/latest?cb=20231111055157",
+        "uploadDate": "2023-11-11T05:51:57"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/47/BT14-048.png/revision/latest?cb=20231027105753",
+  "inheritedEffect": "[Your Turn] While this Digimon has [Leomon] in its name, it gets +2000 DP.",
+  "korean": "레오몬",
+  "level": "4",
+  "name": "Leomon",
+  "nameJapanese": "レオモン",
+  "playCost": "5",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT14-048#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT14-048 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can't. This card's [When Attacking] effect is an effect that activates before your opponent blocks, therefore the activation timing has already passed by the time of the block timing.",
+        "question": "This Digimon attacked the opponent player and was blocked by an opponent's Digimon that has more DP than this Digimon. Can I use this card's effect to digivolve into a level 6 Digimon card with [Leomon] in my hand, ignoring its digivolution requirements?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it can't. Only when this Digimon attacked a Digimon with higher DP at the time of the attack declaration can this card's [When Attacking] effect digivolve into a level 6 Digimon card with [Leomon] in your hand, ignoring its digivolution requirements.",
+        "question": "This Digimon gained ＜Rush＞, it attacked the opponent player, and I used the ＜Rush＞ effect to switch the target of attack to an opponent's Digimon with higher DP than this Digimon. In such cases, can this card's [When Attacking] effect digivolve into a level 6 Digimon card with [Leomon] in my hand?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Blast_Ace_Pre-Release_Pack",
+          "text": "Blast Ace Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "狮子 兽",
+  "traditionalChinese": "獅子獸",
+  "type": "Beastkin"
+}

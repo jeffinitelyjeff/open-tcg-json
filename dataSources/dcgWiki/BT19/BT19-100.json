@@ -1,0 +1,132 @@
+{
+  "blockIcon": "04",
+  "cardEffects": "[Security] [Opponent's Turn] When an opponent's Digimon attacks, if all of your Digimon and Tamers have the [D-Reaper] trait, for each of 1 of your [Mother D-Reaper]'s digivolution cards, the attacking Digimon get -1000 DP for the turn.\n[Main] If you have no face-up security cards, by trashing your top security card, place this card face up as your top security card.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "White",
+  "form": "D-Reaper",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-100.png",
+        "imgName": "BT19-100.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/67/BT19-100.png/revision/latest?cb=20250207065734",
+        "uploadDate": "2025-02-07T06:57:34"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-100-J.png",
+        "imgName": "BT19-100-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bc/BT19-100-J.png/revision/latest?cb=20240920100602",
+        "uploadDate": "2024-09-20T10:06:02"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-100-Sample-J.png",
+        "imgName": "BT19-100-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3e/BT19-100-Sample-J.png/revision/latest?cb=20240906090629",
+        "uploadDate": "2024-09-06T09:06:29"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/67/BT19-100.png/revision/latest?cb=20250207065734",
+  "name": "D-Reaper Zone",
+  "nameJapanese": "デ・リーパー=ゾーン",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT19-100#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for BT19-100 (2024/09/20, translated by DeepL)"
+      },
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT19-100#qaResult_card",
+        "num": 2,
+        "text": "Official JP Q&A for BT19-100 (2024/11/22, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you cannot. All of your Digimon and tamers in the Battle Area must have \"De Reaper\" as a trait to activate it.",
+        "question": "Can this card's [Security] effect be activated even if there is a Digimon with \"De-Reaper\" in its trait and a Tamer without \"De-Reaper\" in its trait in the Battle Area?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it can be activated. Text that does not describe which location can specify or refer to a Battle Area and affect the Battle Area. In the case of this card's [Security] effect, it can be activated if all of your Digimon and Tamer in the Battle Area have \"De Reaper\" as a trait.",
+        "question": "Can this card's [Security] effect be activated even if all my Digimon and Tamer in Battle Area have \"De-Reaper\" in their traits and my Digimon in Breeding Area do not have \"De-Reaper\" in their traits?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it cannot be activated. Text that does not describe which location can specify or reference a Battle Area and affects the Battle Area. In the case of this card's [Security] effect, it cannot be activated if there is no one of your Digimon or Tamer with \"De-Reaper\" in its trait in the Battle Area.",
+        "question": "Can this card's [Security] effect be activated even if my Digimon and Tamer are not in the Battle Area and my Digimon with the trait \"De-Reaper\" is in the Breeding Area?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it can be used. However, it cannot activate this effect because it does not meet the condition of the [Main] effect of this card, \"if you have no face-up security of your own\".",
+        "question": "Can I use this card in my hand when I have my own face-up security?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "It becomes ostensible security and remains public. The rules are the same as for normal security, except that it is ostensible.",
+        "question": "What happens to a card placed face up in security by an effect?",
+        "reference": "[2]"
+      },
+      {
+        "answer": "No, it cannot. It must be activated when the opponent's Digimon attacks.",
+        "question": "Can I choose not to activate the [Security] effect of this card when my opponent's Digimon attacks?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Checked as published. The rules are the same as for normal checks, except as published.",
+        "question": "What happens when checking a security placed face down?",
+        "reference": "[2]"
+      },
+      {
+        "answer": "Yes, triggered.",
+        "question": "If a security placed face up is checked, does the card's [Security] effect trigger?",
+        "reference": "[2]"
+      },
+      {
+        "answer": "The security that was face up is turned back face down and then shuffled. After shuffling, the cards are not turned face up.",
+        "question": "What happens when shuffling a security that contains a security placed face up?",
+        "reference": "[2]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] You may play 1 [D-Reaper] trait card with a play cost equal to or lower than the number of digivolution cards of 1 of your [Mother D-Reaper]'s from your hand without paying the cost.",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+          "text": "BT-19: Booster Xros Evolution"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "useCost": "3"
+}

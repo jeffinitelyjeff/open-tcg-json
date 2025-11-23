@@ -1,0 +1,120 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[Opponent's Turn] [Once Per Turn] When an opponent's Digimon attacks, you may reveal the top 3 cards of your deck. Play 1 black card with a play cost of 6 or less among them without paying its memory cost. Trash the rest.\n[On Deletion] You may play 1 black level 4 or lower card with the [Hybrid] trait from your hand without paying its memory cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "5",
+    "level": "5"
+  },
+  "dp": "13000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-071.png",
+        "imgName": "BT12-071.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/75/BT12-071.png/revision/latest?cb=20230421194634",
+        "uploadDate": "2023-04-21T19:46:34"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Across_Time_Pre-Release_Pack",
+        "captionText": "Across Time Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-071_P0.png",
+        "imgName": "BT12-071_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ea/BT12-071_P0.png/revision/latest?cb=20230421205133",
+        "uploadDate": "2023-04-21T20:51:33"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-071-J.png",
+        "imgName": "BT12-071-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/43/BT12-071-J.png/revision/latest?cb=20221111110527",
+        "uploadDate": "2022-11-11T11:05:27"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-071-Sample-J.png",
+        "imgName": "BT12-071-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/dc/BT12-071-Sample-J.png/revision/latest?cb=20221019090759",
+        "uploadDate": "2022-10-19T09:07:59"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/75/BT12-071.png/revision/latest?cb=20230421194634",
+  "level": "6",
+  "name": "AncientWisemon",
+  "nameJapanese": "エンシェントワイズモン",
+  "playCost": "13",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT12-071#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT12-071 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can't.",
+        "question": "If the cards revealed by this card's effect include a Digimon card with a play cost of 7 or more that could be reduced to 6 or less by another effect, can I play that card?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Across_Time_Pre-Release_Pack",
+          "text": "Across Time Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ]
+  },
+  "type": "Ancient Mutant/Ten Warriors"
+}

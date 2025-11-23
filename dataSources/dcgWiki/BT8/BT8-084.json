@@ -1,0 +1,181 @@
+{
+  "altDigivolutionRequirements": "[DNA Digivolve] Lv.4 +  Lv.4 : Cost 0\nStack the 2 specified Digimon and digivolve unsuspended.",
+  "attribute": "Data",
+  "blockIcon": "01",
+  "cardEffects": "[When Digivolving] You may place 1 level 5 or lower Digimon card from your trash under this Digimon as its bottom digivolution card. Then, up to 4 of your opponent's Digimon get -1000 DP for each of this Digimon's color until the end of your opponent's next turn.\n[Your Turn] This Digimon is treated as also having the color of its digivolution cards. While this Digimon has 4 or more color, it gets +4000 DP.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "White",
+  "digivolutionRequirements": {
+    "color": "All",
+    "digivolveCost": "4",
+    "level": "4"
+  },
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-084.png",
+        "imgName": "BT8-084.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/49/BT8-084.png/revision/latest?cb=20220422124931",
+        "uploadDate": "2022-04-22T12:49:31"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-084_P1.png",
+        "imgName": "BT8-084_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/81/BT8-084_P1.png/revision/latest?cb=20220520075436",
+        "uploadDate": "2022-05-20T07:54:36"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-084-J.png",
+        "imgName": "BT8-084-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/da/BT8-084-J.png/revision/latest?cb=20211119075609",
+        "uploadDate": "2021-11-19T07:56:09"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-084_P1-J.png",
+        "imgName": "BT8-084_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e5/BT8-084_P1-J.png/revision/latest?cb=20211119110356",
+        "uploadDate": "2021-11-19T11:03:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/PB-15:_Digimon_Card_Game_3rd_Anniversary_Set",
+        "captionText": "PB-15: Digimon Card Game 3rd Anniversary Set (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-084_P2-J.png",
+        "imgName": "BT8-084_P2-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a2/BT8-084_P2-J.png/revision/latest?cb=20230630103322",
+        "uploadDate": "2023-06-30T10:33:22"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-084-Sample-J.png",
+        "imgName": "BT8-084-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f1/BT8-084-Sample-J.png/revision/latest?cb=20211111133027",
+        "uploadDate": "2021-11-11T13:30:27"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/49/BT8-084.png/revision/latest?cb=20220422124931",
+  "korean": "키메라몬",
+  "level": "5",
+  "name": "Kimeramon",
+  "nameJapanese": "キメラモン",
+  "nameTranslated": "Chimairamon",
+  "playCost": "8",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT8-084#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT8-084 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "The effect allows this card to be treated as both white (its original color), and as the colors of its digivolution cards.  For example, if a red card and green card are in this card’s digivolution cards, this card is treated as a 3-color white/red/green card.",
+        "question": "How does this card’s [Your Turn] effect work, exactly?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      },
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/PB-15:_Digimon_Card_Game_3rd_Anniversary_Set",
+          "text": "PB-15: Digimon Card Game 3rd Anniversary Set"
+        },
+        "foil&Rarity": "Textured - Gold Background - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "奇美拉兽",
+  "traditionalChinese": "基米拉獸",
+  "type": "Composite"
+}

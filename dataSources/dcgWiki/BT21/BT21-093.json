@@ -1,0 +1,119 @@
+{
+  "blockIcon": "05",
+  "cardEffects": "When this card would be used, if your opponent has 3 or fewer security cards, reduce the use cost by 4.\n[Main] Delete 1 of your opponent's highest DP Digimon. Then, place this card in the battle area.\n[All Turns] When your opponent's security stack is removed from, ＜Delay＞ (By trashing this card after the placing turn, activate the effect below.)\n・1 of your [Reptile] or [Dragonkin] trait Digimon may digivolve into a [Reptile] or [Dragonkin] trait Digimon card in the hand without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Red",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-093.png",
+        "imgName": "BT21-093.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d7/BT21-093.png/revision/latest?cb=20250404053442",
+        "uploadDate": "2025-04-04T05:34:42"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-093-Sample.png",
+        "imgName": "BT21-093-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f4/BT21-093-Sample.png/revision/latest?cb=20250328060441",
+        "uploadDate": "2025-03-28T06:04:41"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-093-J.png",
+        "imgName": "BT21-093-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f5/BT21-093-J.png/revision/latest?cb=20250404053742",
+        "uploadDate": "2025-04-04T05:37:42"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d7/BT21-093.png/revision/latest?cb=20250404053442",
+  "name": "Raging Serpentine",
+  "nameJapanese": "レイジングサーペンタイン",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT21-093#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT21-093 (Apr. 4, 2025)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "The [Security] effect will activate first.Upon a security check, a [Security] effect will immediately activate without pending activation.",
+        "question": "What order do an effect that triggers when a card is removed from a security stack and a [Security] effect on a checked card activate when they trigger simultaneously upon a security check?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Delete 1 of your opponent's Digimon with the highest DP.",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      }
+    ]
+  },
+  "type": "LIBERATOR",
+  "useCost": "8"
+}

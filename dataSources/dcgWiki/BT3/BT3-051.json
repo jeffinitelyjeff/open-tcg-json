@@ -1,0 +1,142 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "00",
+  "cardEffects": "[On Play] Reveal the top 3 cards of your deck. Add 1 level 5 and 1 level 6 Digimon card among them to your hand. Trash the remaining cards.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+        "captionText": "BTC-02: Booster Digital Impact (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT3-051-C.png",
+        "imgName": "BT3-051-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/46/BT3-051-C.png/revision/latest?cb=20231120132251",
+        "uploadDate": "2023-11-20T13:22:51"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.5",
+        "captionText": "BT01-03: Release Special Booster Ver.1.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT3-051.png",
+        "imgName": "BT3-051.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/39/BT3-051.png/revision/latest?cb=20210122161646",
+        "uploadDate": "2021-01-22T16:16:46"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-03:_Booster_Union_Impact",
+        "captionText": "BT-03: Booster Union Impact (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT3-051-J.png",
+        "imgName": "BT3-051-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b4/BT3-051-J.png/revision/latest?cb=20201218200630",
+        "uploadDate": "2020-12-18T20:06:30"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.5",
+        "captionText": "BT01-03: Release Special Booster Ver.1.5 (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT3-051-K.png",
+        "imgName": "BT3-051-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c0/BT3-051-K.png/revision/latest?cb=20230814183910",
+        "uploadDate": "2023-08-14T18:39:10"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/3/39/BT3-051.png/revision/latest?cb=20210122161646",
+  "korean": "스파이더몬",
+  "level": "4",
+  "name": "Dokugumon",
+  "nameJapanese": "ドクグモン",
+  "playCost": "6",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT3-051#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT3-051 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, even if you only reveal one of the applicable cards, you can still add it to your hand.",
+        "question": "The cards I reveal with this effect include only a level 5 or level 6 digimon, not both. Can I add that card to my hand?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+          "text": "BTC-02: Booster Digital Impact"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.5",
+          "text": "BT01-03: Release Special Booster Ver.1.5"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-03:_Booster_Union_Impact",
+          "text": "BT-03: Booster Union Impact"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.5",
+          "text": "BT01-03: Release Special Booster Ver.1.5"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "毒蜘蛛兽",
+  "traditionalChinese": "蜘蛛獸",
+  "type": "Insectoid"
+}

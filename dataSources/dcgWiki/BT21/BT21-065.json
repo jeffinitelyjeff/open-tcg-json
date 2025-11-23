@@ -1,0 +1,128 @@
+{
+  "attribute": "Data",
+  "blockIcon": "05",
+  "cardEffects": "[Your Turn] When this Digimon would digivolve into a card with the [Ghost] trait, reduce the digivolution cost by 1.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-065.png",
+        "imgName": "BT21-065.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/42/BT21-065.png/revision/latest?cb=20250404060818",
+        "uploadDate": "2025-04-04T06:08:18"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-065-Sample.png",
+        "imgName": "BT21-065-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d1/BT21-065-Sample.png/revision/latest?cb=20250324120249",
+        "uploadDate": "2025-03-24T12:02:49"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-065-J.png",
+        "imgName": "BT21-065-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/24/BT21-065-J.png/revision/latest?cb=20250404053624",
+        "uploadDate": "2025-04-04T05:36:24"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/42/BT21-065.png/revision/latest?cb=20250404060818",
+  "inheritedEffect": "[On Deletion] Gain 1 memory.",
+  "level": "3",
+  "name": "Ghostmon",
+  "nameJapanese": "ゴースモン",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT21-065#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT21-065 (Apr. 4, 2025)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, it doesn’t trigger.",
+        "question": "Does this card's [Your Turn] effect trigger when this card is in the breeding area and would digivolve into a card with the [Ghost] trait?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naru",
+          "text": "naru"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naru",
+          "text": "naru"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naru",
+          "text": "naru"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naru",
+          "text": "naru"
+        }
+      }
+    ]
+  },
+  "type": "Ghost/LIBERATOR"
+}

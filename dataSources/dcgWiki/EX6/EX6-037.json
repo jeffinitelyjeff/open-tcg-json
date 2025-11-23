@@ -1,0 +1,110 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Sakuttomon]/[Kakkinmon]: Cost 0",
+  "attribute": "Free",
+  "blockIcon": "03",
+  "cardEffects": "[Hand] [Main] By paying 1 cost and placing this card as the bottom digivolution card of 1 of your Digimon that's level 3 or has the [Legend-Arms] trait, ＜Draw 1＞ (Draw 1 card from your deck.)\n[On Play] By trashing 1 card with the [Legend-Arms] trait in your hand, ＜Draw 2＞ (Draw 2 cards from your deck.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black / Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "1",
+      "level": "2"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "1",
+      "level": "2"
+    }
+  ],
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-037.png",
+        "imgName": "EX6-037.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b0/EX6-037.png/revision/latest?cb=20240621073102",
+        "uploadDate": "2024-06-21T07:31:02"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-037-J.png",
+        "imgName": "EX6-037-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d3/EX6-037-J.png/revision/latest?cb=20240216085318",
+        "uploadDate": "2024-02-16T08:53:18"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-037-Sample-J.png",
+        "imgName": "EX6-037-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fa/EX6-037-Sample-J.png/revision/latest?cb=20240126090300",
+        "uploadDate": "2024-01-26T09:03:00"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b0/EX6-037.png/revision/latest?cb=20240621073102",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] Delete 1 of your opponent's Digimon with 3000 DP or less.",
+  "level": "3",
+  "name": "Spadamon",
+  "nameJapanese": "スパーダモン",
+  "playCost": "3",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX6-037#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX6-037 (Jun. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can't.  The activation conditions include paying 1 cost and placing this card as 1 of your [Legend-Arms] trait or 1 of your level 3 Digimon's bottom digivolution card, therefore the effect can't be activated just by paying 1 cost.",
+        "question": "Can I use this card's [Main] effect to pay 1 cost even when I don't have any [Legend-Arms] trait or level 3 Digimon?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
+        }
+      }
+    ]
+  },
+  "type": "Weapon/Legend-Arms"
+}

@@ -1,0 +1,117 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Gammamon] in name: Cost 3",
+  "attribute": "Data",
+  "blockIcon": "02",
+  "cardEffects": "[When Digivolving] Trash the top 3 digivolution cards of 1 of your opponent's Digimon with DP less than or equal to this Digimon's DP. Then, 1 of your opponent's Digimon with no digivolution cards can't attack until the end of their turn.\n[All Turns] This Digimon gains all effects of cards with [Gammamon] in their names in this Digimon's digivolution cards.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-015.png",
+        "imgName": "RB1-015.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3a/RB1-015.png/revision/latest?cb=20230901095553",
+        "uploadDate": "2023-09-01T09:55:53"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-015-J.png",
+        "imgName": "RB1-015-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/80/RB1-015-J.png/revision/latest?cb=20231017223734",
+        "uploadDate": "2023-10-17T22:37:34"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3a/RB1-015.png/revision/latest?cb=20230901095553",
+  "inheritedEffect": "[All Turns] This Digimon gains all effects of cards with [Gammamon] in their names in this Digimon's digivolution cards.",
+  "level": "5",
+  "name": "Fumamon",
+  "nameJapanese": "フウマモン",
+  "playCost": "7",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=RB1-015#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for RB1-015 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, they do. This card's \"This Digimon gains all effects of cards with [Gammamon] in this Digimon's digivolution cards\" effect is [All Turns], so it activates as soon as digivolution is determined. Therefore, [When Digivolving] effects are gained and activate.",
+        "question": "When digivolving into this card, do the [When Digivolving] effects on digivolution cards with [Gammamon] activate?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, if the memory gauge is now at 1 or greater on your opponent's side, you can activate ＜Blitz＞ .",
+        "question": "I digivolve a Digimon with [Gammamon] and a [When Digivolving] ＜Blitz＞ effect into this card. Can I activate the [When Digivolving] ＜Blitz＞ effect through this card's [All Turns] effect and attack?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, this card's [All Turns] effect and inherited effect don't affect the inherited effects of digivolution cards with [Gammamon].",
+        "question": "Does this card's [All Turns] effect and inherited effect allow me to activate the inherited effect of a digivolution card with [Gammamon] as an effect of this card?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-07: Booster Great Warrior",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "风魔兽",
+  "traditionalChinese": "風魔獸",
+  "type": "Cyborg"
+}

@@ -1,0 +1,115 @@
+{
+  "blockIcon": "01",
+  "cardEffects": "[On Play] Reveal the top 3 cards of your deck. Add 1 [Tapirmon] and 1 2-color black card among them to your hand. Place the rest at the bottom of your deck in any order.\n[Your Turn] When one of your Digimon would digivolve into a 2-color black Digimon, you may suspend this Tamer to reduce the digivolution cost by 1.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Tamer",
+  "color": "Black",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-090.png",
+        "imgName": "BT9-090.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d8/BT9-090.png/revision/latest?cb=20220625065150",
+        "uploadDate": "2022-06-25T06:51:50"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/X_Record_Pre-Release_Pack",
+        "captionText": "X Record Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-090_P0.png",
+        "imgName": "BT9-090_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/37/BT9-090_P0.png/revision/latest?cb=20220625081420",
+        "uploadDate": "2022-06-25T08:14:20"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-090-J.png",
+        "imgName": "BT9-090-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/93/BT9-090-J.png/revision/latest?cb=20220218110441",
+        "uploadDate": "2022-02-18T11:04:41"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-090-Sample-J.png",
+        "imgName": "BT9-090-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d9/BT9-090-Sample-J.png/revision/latest?cb=20220129095749",
+        "uploadDate": "2022-01-29T09:57:49"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d8/BT9-090.png/revision/latest?cb=20220625065150",
+  "name": "Maki Himekawa",
+  "nameJapanese": "姫川マキ",
+  "nameTranslated": "Himekawa Maki",
+  "playCost": "3",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT9-090#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT9-090 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, as long as either a card with [Tapirmon] or a 2-color black card is among the cards revealed, you can add it to your hand.",
+        "question": "This card’s effect reveals 3 cards. If the cards revealed only include either a [Tapirmon] or a 2-color black card, can I still add a card to my hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. Effects don't activate for cards revealed from your deck.",
+        "question": "If a black Digimon with an effect such as \"this Digimon is also treated as red\" that treats it as a different color is among the cards revealed for this card's effect, can I add that card to my hand?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Play this card without paying the cost.",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/X_Record_Pre-Release_Pack",
+          "text": "X Record Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  }
+}

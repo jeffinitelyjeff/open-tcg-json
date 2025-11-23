@@ -1,0 +1,156 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [MetalGreymon]: Cost 0",
+  "attribute": "Vaccine",
+  "blockIcon": "01",
+  "cardEffects": "[When Digivolving] This Digimon gains ＜Security A. +1＞  (This Digimon checks 1 additional security card.) until the end of your opponent's turn. Then, if this Digimon has [MetalGreymon] or [X Antibody] in its digivolution cards, this Digimon gets +3000 DP until the end of your opponent's turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-015.png",
+        "imgName": "BT9-015.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/db/BT9-015.png/revision/latest?cb=20220625065032",
+        "uploadDate": "2022-06-25T06:50:32"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/X_Record_Pre-Release_Pack",
+        "captionText": "X Record Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-015_P0.png",
+        "imgName": "BT9-015_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cf/BT9-015_P0.png/revision/latest?cb=20220625081408",
+        "uploadDate": "2022-06-25T08:14:08"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-015-J.png",
+        "imgName": "BT9-015-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/29/BT9-015-J.png/revision/latest?cb=20220218110345",
+        "uploadDate": "2022-02-18T11:03:45"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-02:_Limited_Card_Pack_DeathXmon",
+        "captionText": "LM-02: Limited Card Pack DeathXmon (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-015_P1-J.png",
+        "imgName": "BT9-015_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/56/BT9-015_P1-J.png/revision/latest?cb=20231110181532",
+        "uploadDate": "2023-11-10T18:15:32"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-015-Sample-J.png",
+        "imgName": "BT9-015-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/be/BT9-015-Sample-J.png/revision/latest?cb=20220201093718",
+        "uploadDate": "2022-02-01T09:37:18"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/db/BT9-015.png/revision/latest?cb=20220625065032",
+  "level": "5",
+  "name": "MetalGreymon (X Antibody)",
+  "nameJapanese": "メタルグレイモンX抗体",
+  "playCost": "8",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT9-015#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT9-015 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. This effect specifies a card name, so you must have a card whose name is either [MetalGreymon] or [X Antibody] in this Digimon’s digivolution cards. Having a card with [X Antibody] in its traits doesn't count.",
+        "question": "This card’s effect reads, “if this Digimon has [MetalGreymon] or [X Antibody] in its digivolution cards”. Does having a card with [X Antibody] in its traits count?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. If a [MetalGreymon] or [X Antibody] isn’t in this Digimon’s digivolution cards at the time its [When Digivolving] effect activates, it doesn’t gain +3000 DP from its effect.",
+        "question": "After having digivolved into this card, I place an [X Antibody] card in this card’s digivolution cards later that turn. Does this Digimon get +3000 DP?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/X_Record_Pre-Release_Pack",
+          "text": "X Record Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-02:_Limited_Card_Pack_DeathXmon",
+          "text": "LM-02: Limited Card Pack DeathXmon"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ]
+  },
+  "traditionalChinese": "機械暴龍獸X抗體",
+  "type": "Cyborg/X Antibody"
+}

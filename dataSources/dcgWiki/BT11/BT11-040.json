@@ -1,0 +1,151 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[On Deletion] Reveal the top 3 cards of your deck. Add 1 card with [Chuumon], [Sukamon] or [Etemon] in its name among them to your hand. Trash the rest.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "2",
+      "level": "3"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "2",
+      "level": "3"
+    }
+  ],
+  "dp": "1000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-040.png",
+        "imgName": "BT11-040.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b3/BT11-040.png/revision/latest?cb=20230210132428",
+        "uploadDate": "2023-02-10T13:24:28"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Dimensional_Phase_Pre-Release_Pack",
+        "captionText": "Dimensional Phase Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-040_P0.png",
+        "imgName": "BT11-040_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7e/BT11-040_P0.png/revision/latest?cb=20230210210900",
+        "uploadDate": "2023-02-10T21:09:00"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-040-J.png",
+        "imgName": "BT11-040-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/16/BT11-040-J.png/revision/latest?cb=20220922114913",
+        "uploadDate": "2022-09-22T11:49:13"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-040-Sample-J.png",
+        "imgName": "BT11-040-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/71/BT11-040-Sample-J.png/revision/latest?cb=20220824050929",
+        "uploadDate": "2022-08-24T05:09:29"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b3/BT11-040.png/revision/latest?cb=20230210132428",
+  "inheritedEffect": "[All Turns] When this Digimon would be deleted, by deleting 1 other Digimon with [Sukamon] in its name, prevent that deletion.",
+  "level": "4",
+  "name": "Sukamon",
+  "nameJapanese": "スカモン",
+  "nameTranslated": "Scumon",
+  "playCost": "3",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT11-040#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT11-040 (Mar. 28, 2024)"
+      },
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT11-040#qaResult_card",
+        "num": 2,
+        "text": "Official English Q&A for BT11-040 (Nov. 1, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.",
+        "question": "Can this card's inherited effect delete an opponent's [Sukamon] to prevent itself from being deleted?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it can't be activated.  Until the processing for the 1st activation has resolved, only 1 activation is possible for each immediate-type effect.  In your case, until the deletion of the 1st only [Sukamon] A is resolved, only 1 activation is possible for each \"when [...] would\" effect, therefore the effect that has already activated for [Sukamon] A can't be activated again.",
+        "question": "I have [Sukamon] A and [Sukamon] B with this card in their digivolution cards in the battle area.  When [Sukamon] A would be deleted, I attempted to delete [Sukamon] B using this card's inherited effect.  On the other hand, when [Sukamon] B would be deleted, I attempted to delete [Sukamon] A using this card's inherited effect.  At such times, can [Sukamon] A activate this card's inherited effect again?",
+        "reference": "[2]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Dimensional_Phase_Pre-Release_Pack",
+          "text": "Dimensional Phase Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ]
+  },
+  "traditionalChinese": "大便獸",
+  "type": "Abnormal"
+}

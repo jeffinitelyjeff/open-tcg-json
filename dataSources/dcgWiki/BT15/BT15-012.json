@@ -1,0 +1,113 @@
+{
+  "attribute": "Data",
+  "blockIcon": "03",
+  "cardEffects": "＜Material Save 2＞ (When this Digimon would be deleted, you may place 2 cards in this Digimon's DigiXros requirements from this Digimon's digivolution cards under 1 of your Tamers.)\n[Start of Your Turn] By deleting this Digimon, gain 1 memory.\n[On Play] Suspend 1 of your opponent's Digimon. If DigiXrosing with 2 cards, that Digimon can't unsuspend during your opponent's next unsuspend phase.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red / Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "digixrosRequirements": "[DigiXros -1] [Shoutmon] x [Ballistamon] \nWhen this would be played, you may place specified cards from your hand/battle area under it. Each one reduces the play cost.",
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-012.png",
+        "imgName": "BT15-012.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/32/BT15-012.png/revision/latest?cb=20240209090325",
+        "uploadDate": "2024-02-09T09:03:25"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack:_Exceed_Apocalypse",
+        "captionText": "Pre-Release Pack: Exceed Apocalypse (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-012_P0.png",
+        "imgName": "BT15-012_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/87/BT15-012_P0.png/revision/latest?cb=20240211092118",
+        "uploadDate": "2024-02-11T09:21:18"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-012-J.png",
+        "imgName": "BT15-012-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2c/BT15-012-J.png/revision/latest?cb=20230922100133",
+        "uploadDate": "2023-09-22T10:01:33"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-012-Sample-J.png",
+        "imgName": "BT15-012-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c9/BT15-012-Sample-J.png/revision/latest?cb=20230914050123",
+        "uploadDate": "2023-09-14T05:01:23"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/3/32/BT15-012.png/revision/latest?cb=20240209090325",
+  "level": "4",
+  "name": "Shoutmon X2",
+  "nameJapanese": "シャウトモンX2",
+  "playCost": "5",
+  "rarity": "Uncommon",
+  "rule": "[Rule] Name: Also treated as [Shoutmon]/[Ballistamon].",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+          "text": "BT-15: Booster Exceed Apocalypse"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack:_Exceed_Apocalypse",
+          "text": "Pre-Release Pack: Exceed Apocalypse"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+          "text": "BT-15: Booster Exceed Apocalypse"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ]
+  },
+  "type": "Enhancement"
+}

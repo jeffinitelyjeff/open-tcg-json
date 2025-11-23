@@ -1,0 +1,111 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "01",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-037.png",
+        "imgName": "BT7-037.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/35/BT7-037.png/revision/latest?cb=20220218130558",
+        "uploadDate": "2022-02-18T13:05:58"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-037-J.png",
+        "imgName": "BT7-037-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/11/BT7-037-J.png/revision/latest?cb=20210820091044",
+        "uploadDate": "2021-08-20T09:10:44"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-037-Sample-J.png",
+        "imgName": "BT7-037-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/33/BT7-037-Sample-J.png/revision/latest?cb=20210812092830",
+        "uploadDate": "2021-08-12T09:28:30"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/3/35/BT7-037.png/revision/latest?cb=20220218130558",
+  "inheritedEffect": "[Opponent's Turn] When an opponent's Digimon attacks a player, if you have 3 or more security cards, unsuspend this Digimon.",
+  "level": "5",
+  "name": "Boutmon",
+  "nameJapanese": "バウトモン",
+  "playCost": "6",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT7-037#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT7-037 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.",
+        "question": "I have a suspended Digimon with ＜Blocker＞ and this card in its digivolution cards, and my opponent attacks me with a Digimon. I unsuspend the Digimon with this card's inherited effect. Can I now block the opponent’s Digimon?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ]
+  },
+  "type": "Beastkin"
+}

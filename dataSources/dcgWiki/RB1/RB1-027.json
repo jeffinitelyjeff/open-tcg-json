@@ -1,0 +1,151 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[On Play] [When Digivolving] Reveal the top card of your opponent's security stack. If that card is a Digimon card, gain 1 memory. If that card is a non-Digimon, ＜Draw 1＞. Place the revealed card on the top or bottom of your opponent's security stack face down.\n[All Turns] While there's a Tamer, this Digimon gains ＜Blocker＞ (This Digimon can block in the blocker timing.) and can't be deleted by your opponent's effects.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-027.png",
+        "imgName": "RB1-027.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/12/RB1-027.png/revision/latest?cb=20230901095553",
+        "uploadDate": "2023-09-01T09:55:53"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-027_P1.png",
+        "imgName": "RB1-027_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/38/RB1-027_P1.png/revision/latest?cb=20230901095553",
+        "uploadDate": "2023-09-01T09:55:53"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-027-J.png",
+        "imgName": "RB1-027-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/ff/RB1-027-J.png/revision/latest?cb=20231022163919",
+        "uploadDate": "2023-10-22T16:39:19"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-027_P1-J.png",
+        "imgName": "RB1-027_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9a/RB1-027_P1-J.png/revision/latest?cb=20231022164011",
+        "uploadDate": "2023-10-22T16:40:11"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/12/RB1-027.png/revision/latest?cb=20230901095553",
+  "level": "4",
+  "name": "HoverEspimon",
+  "nameJapanese": "ホバーエスピモン",
+  "playCost": "5",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=RB1-027#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for RB1-027 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "The player that activated this card's effect chooses.",
+        "question": "Which player chooses whether to return the card revealed from my opponent’s security stack by this card's [On Play] [When Digivolving] effect to the top or bottom of the security stack?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-07: Booster Great Warrior",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      },
+      {
+        "boosterSet": "BTC-07: Booster Great Warrior",
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Textured - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Textured - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "悬浮特工兽",
+  "traditionalChinese": "懸停諜鼠獸",
+  "type": "Cyborg"
+}

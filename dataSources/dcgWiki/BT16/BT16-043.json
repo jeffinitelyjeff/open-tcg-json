@@ -1,0 +1,103 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Pulsemon]: Cost 2",
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] [When Digivolving] If you have 3 or more security cards, suspend 1 of your opponent's Digimon. If you have 3 or fewer, gain 1 memory.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-043.png",
+        "imgName": "BT16-043.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/79/BT16-043.png/revision/latest?cb=20240426204050",
+        "uploadDate": "2024-04-26T20:40:50"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-043-J.png",
+        "imgName": "BT16-043-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/56/BT16-043-J.png/revision/latest?cb=20231215073418",
+        "uploadDate": "2023-12-15T07:34:18"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-043-Sample-J.png",
+        "imgName": "BT16-043-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e4/BT16-043-Sample-J.png/revision/latest?cb=20231120083148",
+        "uploadDate": "2023-11-20T08:31:48"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/79/BT16-043.png/revision/latest?cb=20240426204050",
+  "inheritedEffect": "[All Turns] While this Digimon has [Pulsemon] in its text, it gets +1000 DP.",
+  "level": "4",
+  "name": "Runnermon",
+  "nameJapanese": "ランナモン",
+  "playCost": "4",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT16-043#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT16-043 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, that's correct.",
+        "question": "If I have exactly 3 cards in my security stack, do I activate both the \"suspend 1 of your opponent's Digimon\" effect and the \"gain 1 memory\" effect when activating this card's [On Play] [When Digivolving] effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Minato_Sashima",
+          "text": "Minato Sashima"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Minato_Sashima",
+          "text": "Minato Sashima"
+        }
+      }
+    ]
+  },
+  "type": "Beast"
+}

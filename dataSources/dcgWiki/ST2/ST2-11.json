@@ -1,0 +1,220 @@
+{
+  "attribute": "Data",
+  "blockIcon": "00,02",
+  "cardEffects": "[When Attacking] [Once Per Turn] Unsuspend this Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "4",
+    "level": "5"
+  },
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-2:_Starter_Deck_Cocytus_Blue",
+        "captionText": "ST-2: Starter Deck Cocytus Blue (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST2-11-C.png",
+        "imgName": "ST2-11-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/71/ST2-11-C.png/revision/latest?cb=20230822233413",
+        "uploadDate": "2023-08-22T23:34:13"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-2:_Starter_Deck_Cocytus_Blue",
+        "captionText": "ST-2: Starter Deck Cocytus Blue (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST2-11.png",
+        "imgName": "ST2-11.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/04/ST2-11.png/revision/latest?cb=20201210184947",
+        "uploadDate": "2020-12-10T18:49:47"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Event_Pack_1",
+        "captionText": "Event Pack 1 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST2-11_P1.png",
+        "imgName": "ST2-11_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/99/ST2-11_P1.png/revision/latest?cb=20230821175139",
+        "uploadDate": "2023-08-21T17:51:39"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Event_Pack_Alt-Art_Gold_Stamp_Set",
+        "captionText": "Event Pack Alt-Art Gold Stamp Set (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST2-11_P2.png",
+        "imgName": "ST2-11_P2.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f4/ST2-11_P2.png/revision/latest?cb=20220102153147",
+        "uploadDate": "2022-01-02T15:31:47"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-2:_Starter_Deck_Cocytus_Blue",
+        "captionText": "- ST-2: Starter Deck Cocytus Blue - Digimon Day Memorial Digimon Card x Plastic Model Twitter Campaign (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST2-11-J.png",
+        "imgName": "ST2-11-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5e/ST2-11-J.png/revision/latest?cb=20201212062755",
+        "uploadDate": "2020-12-12T06:27:55"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Special_Promotion_Pack_2022_Ver.2.0",
+        "captionText": "Special Promotion Pack 2022 Ver.2.0 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST2-11_P1-J.png",
+        "imgName": "ST2-11_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5b/ST2-11_P1-J.png/revision/latest?cb=20220420084034",
+        "uploadDate": "2022-04-20T08:40:34"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-2:_Starter_Deck_Cocytus_Blue",
+        "captionText": "ST-2: Starter Deck Cocytus Blue (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST2-11-K.png",
+        "imgName": "ST2-11-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2f/ST2-11-K.png/revision/latest?cb=20230820210857",
+        "uploadDate": "2023-08-20T21:08:57"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/04/ST2-11.png/revision/latest?cb=20201210184947",
+  "korean": "메탈가루몬",
+  "level": "6",
+  "name": "MetalGarurumon",
+  "nameJapanese": "メタルガルルモン",
+  "playCost": "12",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=ST2-11#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for ST2-11 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, it only unsuspends itself once per turn. In other words, it only unsuspends the first time it attacks each turn.",
+        "question": "Does this Digimon unsuspend itself each time it attacks?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. You can use the effect again during your next turn.",
+        "question": "Does this Digimon's effect only activate once per game?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "After you declare your attack, suspend the Digimon, then declare your attack target. When performing your security check or resolving a battle with your opponent's Digimon, this Digimon will already be unsuspended.",
+        "question": "At what timing does this Digimon unsuspend itself?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-2:_Starter_Deck_Cocytus_Blue",
+          "text": "ST-2: Starter Deck Cocytus Blue"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-2:_Starter_Deck_Cocytus_Blue",
+          "text": "ST-2: Starter Deck Cocytus Blue"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Event_Pack_1",
+          "text": "Event Pack 1"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Event_Pack_Alt-Art_Gold_Stamp_Set",
+          "text": "Event Pack Alt-Art Gold Stamp Set"
+        },
+        "foil&Rarity": "Foil - Stamped - Top 32 Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-2:_Starter_Deck_Cocytus_Blue",
+          "text": "ST-2: Starter Deck Cocytus Blue"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Digimon_Day_Memorial_Digimon_Card_x_Plastic_Model_Twitter_Campaign",
+          "text": "Digimon Day Memorial Digimon Card x Plastic Model Twitter Campaign"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Promotion_Pack_2022_Ver.2.0",
+          "text": "Special Promotion Pack 2022 Ver.2.0"
+        },
+        "foil&Rarity": "No Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-2:_Starter_Deck_Cocytus_Blue",
+          "text": "ST-2: Starter Deck Cocytus Blue"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "钢铁加鲁鲁兽",
+  "traditionalChinese": "鋼鐵加魯魯獸",
+  "type": "Cyborg"
+}

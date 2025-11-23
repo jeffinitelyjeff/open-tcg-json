@@ -1,0 +1,123 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "01",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "errata": [
+    {
+      "afterImageURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a2/BT9-073-J.png/revision/latest?cb=20220218110427",
+      "afterText": "Lv.3から",
+      "beforeText": "Lv.4から"
+    }
+  ],
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-073.png",
+        "imgName": "BT9-073.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/17/BT9-073.png/revision/latest?cb=20220625065133",
+        "uploadDate": "2022-06-25T06:51:33"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-073-J.png",
+        "imgName": "BT9-073-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a2/BT9-073-J.png/revision/latest?cb=20220218110427",
+        "uploadDate": "2022-02-18T11:04:27"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-073-Sample-J.png",
+        "imgName": "BT9-073-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/ad/BT9-073-Sample-J.png/revision/latest?cb=20220127033505",
+        "uploadDate": "2022-01-27T03:35:05"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/17/BT9-073.png/revision/latest?cb=20220625065133",
+  "inheritedEffect": "[When Attacking] This Digimon may digivolve into a Digimon card with the [Undead] or [Dark Animal] trait from your trash for its digivolution cost.",
+  "level": "4",
+  "name": "Sangloupmon",
+  "nameJapanese": "サングル ゥモン",
+  "playCost": "5",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT9-073#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT9-073 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. This effect can’t ignore digivolution requirements. When activating this effect, you can only digivolve into a card with [Undead] or [Dark Animal] in its traits if it also meets the digivolution requirements.",
+        "question": "If I have cards in my trash with [Undead] or [Dark Animal] in their traits, does this card's inherited effect let me digivolve any card into any of them, regardless of digivolution requirements?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. The [When Attacking] effect wasn't present when you declared the attack, so it doesn't activate.",
+        "question": "I activate this card’s inherited effect to digivolve into a card with a [When Attacking] effect. Does that effect activate immediately?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ]
+  },
+  "type": "Dark Animal"
+}

@@ -1,0 +1,110 @@
+{
+  "attribute": "Data",
+  "blockIcon": "04",
+  "cardEffects": "[All Turns] [Once Per Turn] When this Digimon is suspended by an effect, 1 of your Digimon with [Bird] in any of its traits or with the [Vortex Warriors] trait gets +3000 DP until the end of your opponent's turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-18:_Starter_Deck_Guardian_Vortex",
+        "captionText": "ST-18: Starter Deck Guardian Vortex (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST18-05.png",
+        "imgName": "ST18-05.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/39/ST18-05.png/revision/latest?cb=20240830171837",
+        "uploadDate": "2024-08-30T17:18:37"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-18:_Starter_Deck_Guardian_Vortex",
+        "captionText": "ST-18: Starter Deck Guardian Vortex (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST18-05-J.png",
+        "imgName": "ST18-05-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/05/ST18-05-J.png/revision/latest?cb=20240419105049",
+        "uploadDate": "2024-04-19T10:50:49"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-18:_Starter_Deck_Guardian_Vortex",
+        "captionText": "ST-18: Starter Deck Guardian Vortex (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST18-05-Sample-J.png",
+        "imgName": "ST18-05-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9a/ST18-05-Sample-J.png/revision/latest?cb=20240401090445",
+        "uploadDate": "2024-04-01T09:04:45"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/3/39/ST18-05.png/revision/latest?cb=20240830171837",
+  "inheritedEffect": "＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.)",
+  "level": "3",
+  "name": "Muchomon",
+  "nameJapanese": "ムーチョモン",
+  "playCost": "3",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=ST18-05#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for ST18-05 (Sep. 13, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it triggers.  It triggers regardless of the player that activated the suspending effect.",
+        "question": "Does this card's [All Turns] effect trigger when this Digimon is suspended by either my effect or my opponent's effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-18:_Starter_Deck_Guardian_Vortex",
+          "text": "ST-18: Starter Deck Guardian Vortex"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": "Guardian Vortex Pre-Release Pack",
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-18:_Starter_Deck_Guardian_Vortex",
+          "text": "ST-18: Starter Deck Guardian Vortex"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ]
+  },
+  "type": "Avian"
+}

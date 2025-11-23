@@ -1,0 +1,102 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Loogarmon]/Lv.4 w/[SEEKERS] trait: Cost 3",
+  "attribute": "Virus",
+  "blockIcon": "04",
+  "cardEffects": "[On Play] [When Digivolving] By trashing 1 card in your hand, for the turn 1 of your Digimon gains ＜Raid＞  (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.) and gets +3000 DP.\n[All Turns] When Tamer cards are placed in this Digimon's digivolution cards, delete 1 of your opponent's Digimon with 6000 DP or less.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple / Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-071.png",
+        "imgName": "BT20-071.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/92/BT20-071.png/revision/latest?cb=20250207071057",
+        "uploadDate": "2025-02-07T07:10:57"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-071-Sample.png",
+        "imgName": "BT20-071-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8a/BT20-071-Sample.png/revision/latest?cb=20241219092624",
+        "uploadDate": "2024-12-19T09:26:24"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-071-J.png",
+        "imgName": "BT20-071-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e4/BT20-071-J.png/revision/latest?cb=20250124093231",
+        "uploadDate": "2025-01-24T09:32:31"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-071-Sample-J.png",
+        "imgName": "BT20-071-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5c/BT20-071-Sample-J.png/revision/latest?cb=20241219092716",
+        "uploadDate": "2024-12-19T09:27:16"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/92/BT20-071.png/revision/latest?cb=20250207071057",
+  "inheritedEffect": "[Your Turn] This Digimon with the [SoC] or [SEEKERS] trait doesn't activate [Security] effects on Option cards it checks.",
+  "level": "5",
+  "name": "Soloogarmon",
+  "nameJapanese": "ソルガルモン",
+  "playCost": "7",
+  "rarity": "Common",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+          "text": "BT-20: Booster Over the X"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ]
+  },
+  "type": "Dark Animal/X Antibody/SoC/SEEKERS"
+}

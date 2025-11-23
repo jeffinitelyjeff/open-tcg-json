@@ -1,0 +1,176 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Zoe Orimoto]: Cost 2 \n[Digivolve]  [Zephyrmon]: Cost 0",
+  "attribute": "Variable",
+  "blockIcon": "04",
+  "cardEffects": "[When Digivolving] Suspend 1 of your opponent's Digimon.\n[When Attacking] [Once Per Turn] 1 of your Digimon or Tamers may digivolve into a green or red Digimon card with the [Hybrid] trait in the hand with the digivolution cost reduced by 1.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green / Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "3",
+      "form": "Tamer"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "form": "Tamer"
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Hybrid",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-048.png",
+        "imgName": "BT18-048.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/ae/BT18-048.png/revision/latest?cb=20241011092634",
+        "uploadDate": "2024-10-11T09:26:34"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-048_P1.png",
+        "imgName": "BT18-048_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/93/BT18-048_P1.png/revision/latest?cb=20241011092634",
+        "uploadDate": "2024-10-11T09:26:34"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-042",
+        "captionText": "BT18-042 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-048-J.png",
+        "imgName": "BT18-048-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/63/BT18-048-J.png/revision/latest?cb=20240621114656",
+        "uploadDate": "2024-06-21T11:46:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-042",
+        "captionText": "BT18-042 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-048-Sample-J.png",
+        "imgName": "BT18-048-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8b/BT18-048-Sample-J.png/revision/latest?cb=20240528114018",
+        "uploadDate": "2024-05-28T11:40:18"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-042",
+        "captionText": "BT18-042 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-048_P1-J.png",
+        "imgName": "BT18-048_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2b/BT18-048_P1-J.png/revision/latest?cb=20240628104724",
+        "uploadDate": "2024-06-28T10:47:24"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-042",
+        "captionText": "BT18-042 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-048_P1-Sample-J.png",
+        "imgName": "BT18-048_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/50/BT18-048_P1-Sample-J.png/revision/latest?cb=20240620045016",
+        "uploadDate": "2024-06-20T04:50:16"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/ae/BT18-048.png/revision/latest?cb=20241011092634",
+  "inheritedEffect": "[All Turns] When this Digimon would leave the battle area other than by your effects, you may play 1 Tamer card with inherited effects from this Digimon's digivolution cards without paying the cost.",
+  "level": "4",
+  "name": "Kazemon",
+  "nameJapanese": "フェアリモン",
+  "playCost": "5",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT18-048#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT18-048 (Nov. 1, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, it digivolves from the Tamer as-is.",
+        "question": "Does this card's digivolution requirement where it can digivolve from a Tamer mean that the Tamer that will become a digivolution card is treated as a Digimon when it digivolves?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it isn't considered a Digimon that would digivolve.  When a Tamer would digivolve using this card's digivolution requirement, \"when a Digimon would digivolve\" effects don't trigger.",
+        "question": "When a Tamer would digivolve using this card's digivolution requirement, is it considered a Digimon that would digivolve?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it isn't considered a Digimon that digivolves.  When a Tamer digivolves using this card's digivolution requirement, \"when a Digimon digivolves\" effects don't trigger.",
+        "question": "When a Tamer digivolves using this card's digivolution requirement, is it considered a Digimon that digivolves?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+          "text": "BT18-19: Special Booster Ver.2.0"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+          "text": "BT18-19: Special Booster Ver.2.0"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+          "text": "BT-18: Booster Elemental Successor"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+          "text": "BT-18: Booster Elemental Successor"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "type": "Fairy"
+}

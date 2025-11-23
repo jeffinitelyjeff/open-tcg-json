@@ -1,0 +1,138 @@
+{
+  "attribute": "Data",
+  "blockIcon": "01",
+  "cardEffects": "[Hand] [Main] If you have a Digimon with [Justimon] or [Raidenmon] in its name in play, you may pay 1 memory to place this card under that Digimon as its bottom digivolution card.\n[When Digivolving] You may trash 1 Digimon card with the [Machine] or [Cyborg] trait in your hand to place 1 of your opponent's level 4 or lower Digimon to the bottom of its owner's deck.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "3",
+      "level": "5"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "5"
+    }
+  ],
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-029.png",
+        "imgName": "BT9-029.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/03/BT9-029.png/revision/latest?cb=20220625065049",
+        "uploadDate": "2022-06-25T06:50:49"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/X_Record_Pre-Release_Pack",
+        "captionText": "X Record Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-029_P0.png",
+        "imgName": "BT9-029_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/55/BT9-029_P0.png/revision/latest?cb=20220625081408",
+        "uploadDate": "2022-06-25T08:14:08"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-029-J.png",
+        "imgName": "BT9-029-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/54/BT9-029-J.png/revision/latest?cb=20220218110357",
+        "uploadDate": "2022-02-18T11:03:57"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-029-Sample-J.png",
+        "imgName": "BT9-029-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/58/BT9-029-Sample-J.png/revision/latest?cb=20220125091039",
+        "uploadDate": "2022-01-25T09:10:39"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/03/BT9-029.png/revision/latest?cb=20220625065049",
+  "inheritedEffect": "[When Attacking] Return 1 of your opponent's level 4 or lower Digimon to its owner's hand.",
+  "level": "6",
+  "name": "Suijinmon",
+  "nameJapanese": "スイジンモン",
+  "playCost": "11",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT9-029#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT9-029 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "When this card is in your hand, you can activate it by revealing it from your hand during your main phase.",
+        "question": "What timing can I activate this card’s [Hand][Main] effect at?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/X_Record_Pre-Release_Pack",
+          "text": "X Record Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ]
+  },
+  "type": "Machine"
+}

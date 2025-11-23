@@ -1,0 +1,88 @@
+{
+  "attribute": "Data",
+  "blockIcon": "03",
+  "cardEffects": "[Security] At the end of the battle, play this card without paying the cost.\n[End of Attack] Place this Digimon on top of your security stack.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:LM-007.png",
+        "imgName": "LM-007.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/66/LM-007.png/revision/latest?cb=20240209090314",
+        "uploadDate": "2024-02-09T09:03:14"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-01:_Limited_Card_Pack_Digimon_Ghost_Game",
+        "captionText": "LM-01: Limited Card Pack Digimon Ghost Game (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:LM-007-J.png",
+        "imgName": "LM-007-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e9/LM-007-J.png/revision/latest?cb=20230805005440",
+        "uploadDate": "2023-08-05T00:54:40"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/66/LM-007.png/revision/latest?cb=20240209090314",
+  "level": "4",
+  "name": "Publimon",
+  "nameJapanese": "パブリモン",
+  "playCost": "6",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=LM-007#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for LM-007 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes. If this Digimon is in the battle area at the end of an attack, you must activate the effect.",
+        "question": "Do I have to activate this card's [End of Attack] effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+          "text": "BT-15: Booster Exceed Apocalypse"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-01:_Limited_Card_Pack_Digimon_Ghost_Game",
+          "text": "LM-01: Limited Card Pack Digimon Ghost Game"
+        },
+        "foil&Rarity": "Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "traditionalChinese": "報導獸",
+  "type": "Mutant"
+}

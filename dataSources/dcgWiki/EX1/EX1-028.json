@@ -1,0 +1,97 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "01",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "6000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-028.png",
+        "imgName": "EX1-028.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e0/EX1-028.png/revision/latest?cb=20211126152121",
+        "uploadDate": "2021-11-26T15:21:21"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-028-J.png",
+        "imgName": "EX1-028-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/00/EX1-028-J.png/revision/latest?cb=20210721041515",
+        "uploadDate": "2021-07-21T04:15:15"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e0/EX1-028.png/revision/latest?cb=20211126152121",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] If you have 3 or more security cards, this Digimon gets +1000 DP until the end of your opponent's next turn.",
+  "korean": "엔젤몬",
+  "level": "4",
+  "name": "Angemon",
+  "nameJapanese": "エンジェモン",
+  "playCost": "6",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX1-028#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX1-028 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. So long as you had 3 or more security cards at the time you activated this card’s inherited effect, the +1000 DP will persist until the end of your opponent’s next turn, even if you end up with 2 or fewer security cards.",
+        "question": "My Digimon gets +1000 DP from this card's inherited effect. During the same turn, I end up with 2 or fewer cards in my security stack. Does the +1000 DP granted by this card’s inherited effect go away?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-01: Extra Booster",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "simplifiedChinese": "天使兽",
+  "traditionalChinese": "天使獸",
+  "type": "Angel"
+}

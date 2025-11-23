@@ -1,0 +1,134 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[ACCEL] trait: Cost 3",
+  "attribute": "Vaccine",
+  "blockIcon": "04",
+  "cardEffects": "When this card would be played, if you have a Digimon with the [ACCEL] trait, reduce the play cost by 5.\n[On Play] [When Digivolving] ＜De-Digivolve  2＞ 1 of your opponent's Digimon. (Trash up to 2 cards from the top. You can't trash past level 3 cards.) Then, 1 of their Digimon gets -5000 DP until the end of their turn.\n[End of Your Turn] This Digimon and any of your other Digimon may DNA digivolve into a Digimon card with [Chaosmon] in its name in the hand. Then, the DNA digivolved Digimon may attack.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "5"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "5"
+    }
+  ],
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-036.png",
+        "imgName": "BT20-036.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/14/BT20-036.png/revision/latest?cb=20250207070925",
+        "uploadDate": "2025-02-07T07:09:25"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-036-Sample.png",
+        "imgName": "BT20-036-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bb/BT20-036-Sample.png/revision/latest?cb=20250101090253",
+        "uploadDate": "2025-01-01T09:02:53"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-036-J.png",
+        "imgName": "BT20-036-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/86/BT20-036-J.png/revision/latest?cb=20250124093732",
+        "uploadDate": "2025-01-24T09:37:32"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-036-Sample-J.png",
+        "imgName": "BT20-036-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/86/BT20-036-Sample-J.png/revision/latest?cb=20250101091633",
+        "uploadDate": "2025-01-01T09:16:33"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/14/BT20-036.png/revision/latest?cb=20250207070925",
+  "inheritedEffect": "[Opponent's Turn] [Once Per Turn] When one of your opponent's Digimon attacks, you may change the attack target to this Digimon.",
+  "level": "6",
+  "name": "BanchoLeomon",
+  "nameJapanese": "バンチョーレオモン",
+  "playCost": "12",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT20-036#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for BT20-036 (2025/01/24, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Since they are triggered simultaneously, the player can choose the order in which they are to be activated.",
+        "question": "This Digimon digivolved by this card's [When End of Your Turn] effect and attacked with that Digimon. In this case, in which order can the [When Digivolving] effect and [When Attacking] effect of the Digimon be activated?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you cannot attack with the effect of the second card. While attacking, you cannot declare a new attack. In this situation, at the end of your Turn, the two [When End of Your Turn] effects of this card are triggered simultaneously, and you attack with the first [End of Your Turn] effect. Before the Counter timing, the second [When End of Your Turn] effect can be activated, but since you cannot declare an Attack during the Attack, the second card cannot attack even if you activate it.",
+        "question": "I have two copies of this card in my Battle Area. At the End of Your Turn, I attacked with the first card's [End of Your Turn] effect. Can I attack with the second card's [End of Your Turn] effect after that?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.5_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.5 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+          "text": "BT-20: Booster Over the X"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ]
+  },
+  "type": "Beastkin/Boss/ACCEL"
+}

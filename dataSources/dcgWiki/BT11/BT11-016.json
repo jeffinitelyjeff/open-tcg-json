@@ -1,0 +1,166 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "02",
+  "cardEffects": "[Your Turn] [Once Per Turn] When a card is removed from your opponent's security stack, you may activate 1 of this Digimon's [On Deletion] effects.\n[On Deletion] You may play 1 red Digimon with [Avian], [Bird], [Beast], [Animal] or [Sovereign] in any of its traits (other than [Sea Animal]), and 3000 DP or less from your hand without paying the cost. For each red Tamer you have in play, add 2000 to the maximum DP of the card you can play by this effect.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "3",
+    "level": "5"
+  },
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-016.png",
+        "imgName": "BT11-016.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d1/BT11-016.png/revision/latest?cb=20230210132405",
+        "uploadDate": "2023-02-10T13:24:05"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-016_P1.png",
+        "imgName": "BT11-016_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e8/BT11-016_P1.png/revision/latest?cb=20230210210854",
+        "uploadDate": "2023-02-10T21:08:54"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-016-J.png",
+        "imgName": "BT11-016-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6f/BT11-016-J.png/revision/latest?cb=20220922115229",
+        "uploadDate": "2022-09-22T11:52:29"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-016_P1-J.png",
+        "imgName": "BT11-016_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4b/BT11-016_P1-J.png/revision/latest?cb=20220930043802",
+        "uploadDate": "2022-09-30T04:38:02"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-016-Sample-J.png",
+        "imgName": "BT11-016-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b4/BT11-016-Sample-J.png/revision/latest?cb=20220901114715",
+        "uploadDate": "2022-09-01T11:47:15"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (Alternative Art) (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-016_P1-Sample-J.png",
+        "imgName": "BT11-016_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/95/BT11-016_P1-Sample-J.png/revision/latest?cb=20220917063353",
+        "uploadDate": "2022-09-17T06:33:53"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d1/BT11-016.png/revision/latest?cb=20230210132405",
+  "korean": "페닉스몬",
+  "level": "6",
+  "name": "Phoenixmon",
+  "nameJapanese": "ホウオウモン",
+  "nameTranslated": "Hououmon",
+  "playCost": "11",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT11-016#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT11-016 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, it doesn't. This effect is triggered \"When a card is removed from your opponent's security stack,\" so even when you check multiple cards in your opponent's security stack, it is triggered upon the first check, then you choose whether to activate it or not. Also, this is a [Once Per Turn] effect, so if you activate this effect when a card is removed from their security stack upon the first check, you can't activate the effect again upon the next check.",
+        "question": "Does this card's [My Turn] effect allow this card's [On Deletion] effect to be activated twice when I use one of my Digimon with ＜Security A. +1＞ to check 2 cards in my opponent's security stack?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes. Other than [Sea Animal], all traits with [Avian], [Bird], [Beast], [Animal] or [Sovereign] are applicable regardless of other words or pluralizations.",
+        "question": "Does \"with [Avian], [Bird], [Beast], [Animal] or [Sovereign] in one of its traits (other than [Sea Animal])\" mean that all traits with the [Avian], [Bird], [Beast], [Animal] or [Sovereign] text other than [Sea Animal] are included regardless of other words or pluralizations?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "It means that you can use this card's [On Deletion] effect to play \"1 red Digimon with [Avian], [Bird], [Beast], [Animal] or [Sovereign] in one of its traits (other than [Sea Animal]), and 3000 DP or less,\" and if you have a red Tamer when this effect is activated, you add 2000 to the maximum DP for the \"3000 DP or less\" restriction. For example, you can play 1 Digimon card with 5000 DP or less if you have 1 red Tamer, and you can play 1 Digimon card with 7000 DP or less if you have 2 red Tamers.",
+        "question": "What does \"For each red Tamer you have in play, add 2000 to the maximum DP of the card you can play by this effect\" on this card mean?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't. It only affects the [On Deletion] effect on this card itself.",
+        "question": "Can I use this card's \"For each red Tamer you have in play, add 2000 to the maximum DP of the card you can play by this effect\" effect to add 2000 to the maximum DP of my Digimon played with effects other than this card's effects?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "凤凰兽",
+  "traditionalChinese": "鳳凰獸",
+  "type": "Holy Beast"
+}

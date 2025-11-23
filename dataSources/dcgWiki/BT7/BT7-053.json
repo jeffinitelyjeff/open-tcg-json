@@ -1,0 +1,116 @@
+{
+  "attribute": "Data",
+  "blockIcon": "01",
+  "cardEffects": "[When Digivolving] Suspend 1 of your opponent's Digimon. That Digimon doesn't unsuspend during their next unsuspend phase.\n[Your Turn] This Digimon gets +1000 DP for each of your opponent's suspended Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "4",
+    "level": "5"
+  },
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-053.png",
+        "imgName": "BT7-053.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/43/BT7-053.png/revision/latest?cb=20220218130610",
+        "uploadDate": "2022-02-18T13:06:10"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Next_Adventure_Pre-Release_Pack",
+        "captionText": "Next Adventure Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-053_P0.png",
+        "imgName": "BT7-053_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/75/BT7-053_P0.png/revision/latest?cb=20220304175558",
+        "uploadDate": "2022-03-04T17:55:58"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-053-J.png",
+        "imgName": "BT7-053-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/65/BT7-053-J.png/revision/latest?cb=20210820091050",
+        "uploadDate": "2021-08-20T09:10:50"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/43/BT7-053.png/revision/latest?cb=20220218130610",
+  "level": "6",
+  "name": "Dinorexmon",
+  "nameJapanese": "ディノレクスモン",
+  "playCost": "12",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [],
+    "rulings": [
+      {
+        "answer": "Yes, you can.",
+        "question": "Using this card's [When Digivolving] effect, can I prevent my opponent's Digimon from becoming unsuspended during my opponent's next unsuspend phase by applying this effect to it while it's suspended?",
+        "reference": ""
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Next_Adventure_Pre-Release_Pack",
+          "text": "Next Adventure Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ]
+  },
+  "type": "Dinosaur/X Antibody"
+}

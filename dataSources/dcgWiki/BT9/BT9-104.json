@@ -1,0 +1,104 @@
+{
+  "blockIcon": "01",
+  "cardEffects": "While you have an [X Antibody] trait Digimon, you can ignore this card's color requirements.\n[Main] Reveal the top 3 cards of your deck. You may digivolve 1 of your Digimon into a Digimon card with the [X Antibody] trait without its memory cost. Trash the rest. Then, place 1 card with the [X Antibody] trait from your trash under 1 of your Digimon with the [X Antibody] trait as its bottom digivolution card.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Black",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-104.png",
+        "imgName": "BT9-104.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/93/BT9-104.png/revision/latest?cb=20220625065202",
+        "uploadDate": "2022-06-25T06:52:02"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-104-J.png",
+        "imgName": "BT9-104-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cb/BT9-104-J.png/revision/latest?cb=20220218110454",
+        "uploadDate": "2022-02-18T11:04:54"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-104-Sample-J.png",
+        "imgName": "BT9-104-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5b/BT9-104-Sample-J.png/revision/latest?cb=20220203091031",
+        "uploadDate": "2022-02-03T09:10:31"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/93/BT9-104.png/revision/latest?cb=20220625065202",
+  "name": "X Digivolution!",
+  "nameJapanese": "ゼヴォリューション!",
+  "nameTranslated": "X Evolution!!",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT9-104#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT9-104 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, this effect does not allow ignoring digivolution requirements, so you can only digivolve into a card that meets the digivolution requirements.",
+        "question": "Can I use this card's [Main] effect to digivolve into any of the cards revealed from my deck as long as they have the [X Antibody] trait?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] You may Reveal the top 3 cards of your deck. You may add 1 card with the [X Antibody] trait among them to your hand. Trash the rest.",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shin_Sasaki",
+          "text": "Shin Sasaki"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shin_Sasaki",
+          "text": "Shin Sasaki"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shin_Sasaki",
+          "text": "Shin Sasaki"
+        }
+      }
+    ]
+  },
+  "type": "X Antibody",
+  "useCost": "3"
+}

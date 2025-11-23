@@ -1,0 +1,98 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "01",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-055.png",
+        "imgName": "EX1-055.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3e/EX1-055.png/revision/latest?cb=20211126152131",
+        "uploadDate": "2021-11-26T15:21:31"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-055-J.png",
+        "imgName": "EX1-055-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fd/EX1-055-J.png/revision/latest?cb=20210721041523",
+        "uploadDate": "2021-07-21T04:15:23"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3e/EX1-055.png/revision/latest?cb=20211126152131",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When one of your other Digimon is deleted, ＜Draw 1＞ (Draw 1 card from your deck.)",
+  "korean": "테이파몬",
+  "level": "3",
+  "name": "Tapirmon",
+  "nameJapanese": "バクモン",
+  "nameTranslated": "Bakumon",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX1-055#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX1-055 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. Even if multiple Digimon are deleted simultaneously, you can't draw more than 1 card per turn with this card's inherited effect.",
+        "question": "If a single effect deletes 2 of my opponent’s Digimon, do I draw 2 cards with this card's inherited effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-01: Extra Booster",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "simplifiedChinese": "梦貘兽",
+  "traditionalChinese": "夢貘獸",
+  "type": "Holy Beast"
+}

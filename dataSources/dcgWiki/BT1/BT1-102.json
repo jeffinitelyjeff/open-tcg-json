@@ -1,0 +1,143 @@
+{
+  "blockIcon": "00",
+  "cardEffects": "[Main] ＜Draw 1＞ (Draw 1 card from your deck.) for every 2 security cards you have.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Yellow",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BTC-01:_Booster_Ultimate_Evolution",
+        "captionText": "BTC-01: Booster Ultimate Evolution (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-102-C.png",
+        "imgName": "BT1-102-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/84/BT1-102-C.png/revision/latest?cb=20230828234934",
+        "uploadDate": "2023-08-28T23:49:34"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+        "captionText": "BT01-03: Release Special Booster Ver.1.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-102.png",
+        "imgName": "BT1-102.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4d/BT1-102.png/revision/latest?cb=20201212014810",
+        "uploadDate": "2020-12-12T01:48:10"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-01:_Booster_New_Evolution",
+        "captionText": "BT-01: Booster New Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-102-J.png",
+        "imgName": "BT1-102-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/24/BT1-102-J.png/revision/latest?cb=20201213121534",
+        "uploadDate": "2020-12-13T12:15:34"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+        "captionText": "BT01-03: Release Special Booster Ver.1.0 (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-102-K.png",
+        "imgName": "BT1-102-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a7/BT1-102-K.png/revision/latest?cb=20230814075352",
+        "uploadDate": "2023-08-14T07:53:52"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4d/BT1-102.png/revision/latest?cb=20201212014810",
+  "korean": "홀리 에스파다",
+  "name": "Blade of the True",
+  "nameJapanese": "ホーリーエスパーダ",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT1-102#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT1-102 (Mar. 28, 2024)"
+      },
+      {
+        "link": "https://media.discordapp.net/attachments/749146995708395601/795903219087704064/unknown.png",
+        "num": 2,
+        "text": "Japanese Carddass Email: Blade of the True (Jan. 14, 2021)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Nothing happens, but the game still treats it as if you used the Option card.",
+        "question": "What happens when I use this card while I have 1 or fewer cards in my security stack?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you would draw 1. Cards turned over by the security check are not included in the number of security cards.",
+        "question": "I have 4 security cards. My opponent attacks me and I flip [BT1-102 Blade of the True] as the security check. Do I draw 2 cards with the [Security] effect because it is still in the security stack?",
+        "reference": "[2]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Activate this card's [Main] effects.",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BTC-01:_Booster_Ultimate_Evolution",
+          "text": "BTC-01: Booster Ultimate Evolution"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Satsuki_may",
+          "text": "satsuki may"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+          "text": "BT01-03: Release Special Booster Ver.1.0"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Satsuki_may",
+          "text": "satsuki may"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-01:_Booster_New_Evolution",
+          "text": "BT-01: Booster New Evolution"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Satsuki_may",
+          "text": "satsuki may"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+          "text": "BT01-03: Release Special Booster Ver.1.0"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Satsuki_may",
+          "text": "satsuki may"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "神圣之剑",
+  "traditionalChinese": "神聖之劍",
+  "useCost": "2"
+}

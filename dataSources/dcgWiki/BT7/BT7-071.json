@@ -1,0 +1,191 @@
+{
+  "attribute": "Variable",
+  "blockIcon": "01",
+  "cardEffects": "You may digivolve this card from your hand onto one of your purple Tamers as if the Tamer is a level 3 purple Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "form": "Hybrid",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-071.png",
+        "imgName": "BT7-071.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d7/BT7-071.png/revision/latest?cb=20220218130622",
+        "uploadDate": "2022-02-18T13:06:22"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Event_Pack_3",
+        "captionText": "Event Pack 3 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-071_P1.png",
+        "imgName": "BT7-071_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ef/BT7-071_P1.png/revision/latest?cb=20220904060035",
+        "uploadDate": "2022-09-04T06:00:35"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/PB-12E:_Digimon_Card_Game_2nd_Anniversary_Set",
+        "captionText": "PB-12E: Digimon Card Game 2nd Anniversary Set (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-071_P2.png",
+        "imgName": "BT7-071_P2.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/70/BT7-071_P2.png/revision/latest?cb=20230203022115",
+        "uploadDate": "2023-02-03T02:21:15"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-071-J.png",
+        "imgName": "BT7-071-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6c/BT7-071-J.png/revision/latest?cb=20210820091058",
+        "uploadDate": "2021-08-20T09:10:58"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/PB-12:_Digimon_Frontier_20th_Memorial_Set",
+        "captionText": "PB-12: Digimon Frontier 20th Memorial Set (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-071_P1-J.png",
+        "imgName": "BT7-071_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0c/BT7-071_P1-J.png/revision/latest?cb=20220801164759",
+        "uploadDate": "2022-08-01T16:47:59"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d7/BT7-071.png/revision/latest?cb=20220218130622",
+  "level": "4",
+  "name": "Loweemon",
+  "nameJapanese": "レーベモン",
+  "nameTranslated": "Löwemon",
+  "playCost": "5",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT7-071#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT7-071 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, Tamer cards' [Security] effects aren't inherited effects. Some Tamer cards do have inherited effects, and those can be activated when such cards are placed in digivolution cards.",
+        "question": "When this Digimon digivolves onto a Tamer card, does the Tamer card’s [Security] effect become an inherited effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "Instead of a Tamer card, can I digivolve this card onto a level 3 Digimon that meets the digivolution requirements?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it is.  However, if the effect specifies Digimon cards, Digi-Egg cards, or any other type of card that isn't a Tamer card, it can't be targeted by that effect.",
+        "question": "After a Tamer card ends up in this Digimon's digivolution cards, is that card affected by effects that trash digivolution cards?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you do. Even if you digivolve using a Tamer card, make sure to draw 1 card as the digivolution bonus.",
+        "question": "If I digivolve this card on top of a Tamer card, do I still get the digivolution bonus?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes. Digivolution doesn't count as “playing” a card, so you can attack that turn.",
+        "question": "Can I attack the turn I digivolve this card on top of a Tamer card?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. Since it's the first turn the Tamer was played, the limitation for attacking on the first turn a card is played still applies.",
+        "question": "I play a Tamer card, then digivolve it into this Digimon. Can I then attack with that Digimon during that same turn?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "It’s trashed.",
+        "question": "If I've digivolved this card on top of a Tamer card and the Digimon is deleted, what happens to the Tamer card?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Event_Pack_3",
+          "text": "Event Pack 3"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/PB-12E:_Digimon_Card_Game_2nd_Anniversary_Set",
+          "text": "PB-12E: Digimon Card Game 2nd Anniversary Set"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/PB-12:_Digimon_Frontier_20th_Memorial_Set",
+          "text": "PB-12: Digimon Frontier 20th Memorial Set"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      }
+    ]
+  },
+  "type": "Warrior"
+}

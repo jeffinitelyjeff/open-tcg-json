@@ -1,0 +1,145 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] Reveal the top 5 cards of your deck. Add 1 card with the [D-Brigade] or [DigiPolice] trait among them to your hand. Place the rest at either the top or bottom of your deck.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-056.png",
+        "imgName": "BT14-056.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7e/BT14-056.png/revision/latest?cb=20231027105754",
+        "uploadDate": "2023-10-27T10:57:54"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-056_P1.png",
+        "imgName": "BT14-056_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4f/BT14-056_P1.png/revision/latest?cb=20231112141628",
+        "uploadDate": "2023-11-12T14:16:28"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-056-J.png",
+        "imgName": "BT14-056-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/87/BT14-056-J.png/revision/latest?cb=20231111062018",
+        "uploadDate": "2023-11-11T06:20:18"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-056_P1-J.png",
+        "imgName": "BT14-056_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/86/BT14-056_P1-J.png/revision/latest?cb=20231111062206",
+        "uploadDate": "2023-11-11T06:22:06"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7e/BT14-056.png/revision/latest?cb=20231027105754",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When this Digimon would leave the battle area other than by your effect, by deleting 1 of your other Digimon with the [D-Brigade] trait, prevent it from leaving play.",
+  "korean": "코만드라몬",
+  "level": "3",
+  "name": "Commandramon",
+  "nameJapanese": "コマンドラモン",
+  "playCost": "3",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT14-056#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT14-056 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.",
+        "question": "If one of the cards revealed from my deck by this card's [On Play] effect is a Tamer card or Option card with the [D-Brigade] or [DigiPolice] trait, can I add that card to my hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it can. This effect can interrupt the removal of a card from the battle area, therefore by deleting 1 of your other Digimon with the [D-Brigade] trait, this card will be prevented from being placed in your other Digimon's digivolution cards.",
+        "question": "Can this card's inherited effect activate when an opponent's effect would place a Digimon with this card in its digivolution cards in another of my Digimon's digivolution cards?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "\"When [...] would leave the battle area\" refers to when this Digimon is placed in the trash, returned to the hand/deck, placed in the security stack, moved to the breeding area, or placed under another card.",
+        "question": "What does this card's \"When [...] would [...] leave the battle area\" mean, exactly?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "突击龙兽",
+  "traditionalChinese": "突擊龍獸",
+  "type": "Cyborg/D-Brigade/DigiPolice"
+}

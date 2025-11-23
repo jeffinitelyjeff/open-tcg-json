@@ -1,0 +1,93 @@
+{
+  "blockIcon": "04",
+  "cardEffects": "While you have a Digimon with [Knightmon] in its text, you can ignore this card's color requirements.\n[Main] Until the end of opponent's turn, 1 of your their Digimon gains \"[Start of Your Main Phase] This Digimon attacks.\" Then, place this card in the battle area.\n[All Turns] When attack target changes, ＜Delay＞ (By trashing this card after the placing turn, activate the effect below.)\n・1 of your Digimon gains ＜Piercing＞  (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.) and ＜Security A. +1＞ (This Digimon checks 1 additional security card.) until the end of your turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Purple / Black",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-099.png",
+        "imgName": "BT18-099.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/13/BT18-099.png/revision/latest?cb=20241011093344",
+        "uploadDate": "2024-10-11T09:33:44"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-099-J.png",
+        "imgName": "BT18-099-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f0/BT18-099-J.png/revision/latest?cb=20240621114657",
+        "uploadDate": "2024-06-21T11:46:57"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-099-Sample-J.png",
+        "imgName": "BT18-099-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5e/BT18-099-Sample-J.png/revision/latest?cb=20240612113501",
+        "uploadDate": "2024-06-12T11:35:01"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/13/BT18-099.png/revision/latest?cb=20241011093344",
+  "name": "Fist of Athena",
+  "nameJapanese": "エレメントサクセサー",
+  "nameTranslated": "Argent Fear",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT18-099#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT18-099 (Jan. 10, 2025)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "You can give that effect to such Digimon, but Digimon that aren't affected by effects won't be affected by it, therefore the gained effect won't trigger.",
+        "question": "Can I use this card's [Main] effect to give \"[Start of Your Main Phase] This Digimon attacks\" to a Digimon that isn't affected by effects?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] You may play 1 level 5 or lower Digimon card with [Knightmon] in its text from your trash without paying the cost. Then, place this card in the battle area.",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+          "text": "BT18-19: Special Booster Ver.2.0"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+          "text": "BT-18: Booster Elemental Successor"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      }
+    ]
+  },
+  "useCost": "3"
+}

@@ -1,0 +1,151 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Patamon]: Cost 2",
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[When Attacking] By deleting this Digimon, activate 1 of the effects below:\n・Place 1 of your opponent's Digimon with the [Virus] trait at the bottom of their security stack.\n・1 opponent's Digimon gets -5000 DP for the turn.\n[On Deletion] Place this card at the bottom of your security stack. Then, if you have a Tamer in play, you may hatch a Digi-Egg in your breeding area.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "3",
+    "level": "3"
+  },
+  "dp": "6000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-102.png",
+        "imgName": "BT14-102.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/89/BT14-102.png/revision/latest?cb=20231027115128",
+        "uploadDate": "2023-10-27T11:51:28"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-102_P1.png",
+        "imgName": "BT14-102_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/17/BT14-102_P1.png/revision/latest?cb=20231112142520",
+        "uploadDate": "2023-11-12T14:25:20"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-102-J.png",
+        "imgName": "BT14-102-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a7/BT14-102-J.png/revision/latest?cb=20231112140323",
+        "uploadDate": "2023-11-12T14:03:23"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-102_P1-J.png",
+        "imgName": "BT14-102_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/73/BT14-102_P1-J.png/revision/latest?cb=20231112140408",
+        "uploadDate": "2023-11-12T14:04:08"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/89/BT14-102.png/revision/latest?cb=20231027115128",
+  "inheritedEffect": "[On Deletion] Place 1 yellow Digimon with the [Vaccine] trait from your hand at the bottom of your security stack.",
+  "korean": "엔젤몬",
+  "level": "4",
+  "name": "Angemon",
+  "nameJapanese": "エンジェモン",
+  "playCost": "6",
+  "rarity": "Secret Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT14-102#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT14-102 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it can.",
+        "question": "Can this card's [When Attacking] effect delete this Digimon even when my opponent has no Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't. You can't hatch a new Digi-Egg when you have another Digimon in your breeding area.",
+        "question": "Can I use this card's [On Deletion] effect to hatch in my breeding area when I have a Digimon in my breeding area and a Tamer?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "Can I use this card's [On Deletion] effect to place this card in my security stack when I have a Digimon in my breeding area and a Tamer, even if I can't hatch in my breeding area?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you don't have to place it. If there are requirements for the target card and that card is in a private area, performing the action is optional.",
+        "question": "If I have a yellow card with the [Vaccine] trait in my hand when this card's inherited effect activates, do I have to place it at the bottom of my security stack?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "Textured - Secret Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naochika_Morishita",
+          "text": "Naochika Morishita"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "Textured - Secret Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naochika_Morishita",
+          "text": "Naochika Morishita"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "天使兽",
+  "traditionalChinese": "天使獸",
+  "type": "Angel"
+}

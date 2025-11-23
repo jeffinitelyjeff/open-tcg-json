@@ -1,0 +1,110 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Pulsemon]: Cost 2",
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[When Digivolving] If you have 3 or more security cards, 1 of your opponent's Digimon gets -3000 DP for the turn. If you have 3 or fewer security cards, suspend 1 of your opponent's Digimon.\n[All Turns] [Once Per Turn] When a card is trashed from your security stack, if [Leon Alexander] is in this Digimon's digivolution cards, ＜Recovery +1 (Deck)＞ (Place the top card of your deck on top of your security stack.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow / Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-034.png",
+        "imgName": "BT17-034.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fb/BT17-034.png/revision/latest?cb=20240705214737",
+        "uploadDate": "2024-07-05T21:47:37"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-034-J.png",
+        "imgName": "BT17-034-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/25/BT17-034-J.png/revision/latest?cb=20240322064310",
+        "uploadDate": "2024-03-22T06:43:10"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-034-Sample-J.png",
+        "imgName": "BT17-034-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e4/BT17-034-Sample-J.png/revision/latest?cb=20240312112955",
+        "uploadDate": "2024-03-12T11:29:55"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fb/BT17-034.png/revision/latest?cb=20240705214737",
+  "inheritedEffect": "[All Turns] While this Digimon has [Pulsemon] in its text, it gets +1000 DP.",
+  "level": "4",
+  "name": "Bulkmon",
+  "nameJapanese": "バルクモン",
+  "playCost": "5",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT17-034#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT17-034 (Sep. 6, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, that's correct.",
+        "question": "If I have exactly 3 cards in my security stack, do I activate both the \"1 of your opponent's Digimon gets -3000 DP\" effect and the \"suspend 1 or your opponent's Digimon\" effect when activating this card's [When Digivolving] effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ]
+  },
+  "type": "Dragonkin/Abadin Electronics"
+}

@@ -1,0 +1,102 @@
+{
+  "attribute": "Free",
+  "blockIcon": "01",
+  "cardEffects": "＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "2",
+      "level": "3"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "2",
+      "level": "3"
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-038.png",
+        "imgName": "EX1-038.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/97/EX1-038.png/revision/latest?cb=20211126152126",
+        "uploadDate": "2021-11-26T15:21:26"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-038-J.png",
+        "imgName": "EX1-038-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8f/EX1-038-J.png/revision/latest?cb=20210721041518",
+        "uploadDate": "2021-07-21T04:15:18"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/97/EX1-038.png/revision/latest?cb=20211126152126",
+  "inheritedEffect": "[Your Turn] While this Digimon has [Imperialdramon] in its name or [Free] trait, it gains ＜Piercing＞  (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.)",
+  "level": "4",
+  "name": "Stingmon",
+  "nameJapanese": "スティングモン",
+  "playCost": "6",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX1-038#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX1-038 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, ＜Piercing＞ has already activated. Perform the additional check, assuming your Digimon still has ＜Security A. +1＞.",
+        "question": "I have a Digimon that gained ＜Security A. +1＞ from another card’s effect, and which also gained ＜Piercing＞ from this card’s inherited effect. I attack an opponent's Digimon with it, and perform a security check with ＜Piercing＞. The first card checked has a ＜De-Digivolve  1＞ nocategory of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.) [Security] effect, which trashes the top card of my attacking Digimon, turning it into a Digimon without [Free] in its traits or [Imperialdramon].   This causes the Digimon to also lose ＜Piercing＞. Do I still perform the second check?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-01: Extra Booster",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "type": "Insectoid"
+}

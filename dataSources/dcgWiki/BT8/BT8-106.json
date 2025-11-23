@@ -1,0 +1,100 @@
+{
+  "blockIcon": "01",
+  "cardEffects": "[Main] Reveal the top 3 cards of your deck. You may play any number of Digimon cards with [Mamemon] in their name whose play costs add up to 15 or less among them without paying their memory costs. Delete 1 of your opponent's Digimon with a play cost of 6 or less for each Digimon played with this effect. Trash the remaining cards.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Black",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-106.png",
+        "imgName": "BT8-106.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7c/BT8-106.png/revision/latest?cb=20220422124931",
+        "uploadDate": "2022-04-22T12:49:31"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-106-J.png",
+        "imgName": "BT8-106-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/05/BT8-106-J.png/revision/latest?cb=20211119075610",
+        "uploadDate": "2021-11-19T07:56:10"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7c/BT8-106.png/revision/latest?cb=20220422124931",
+  "name": "Senbon Dokkān",
+  "nameJapanese": "千本爆砕",
+  "nameTranslated": "Thousand Blasting",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT8-106#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT8-106 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes. As long as the total play costs of the chosen cards is less than 15, you can choose as many or as few cards as you like.",
+        "question": "Can I choose fewer cards than possible, even if the play costs of the chosen cards add up to less than 15?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "The Digimon's play cost.",
+        "question": "This card's effect reads, \"Digimon with a memory cost of 6 or less,\" but which cost is this referring to?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Activate this card's [Main] effects.",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ]
+  },
+  "useCost": "9"
+}

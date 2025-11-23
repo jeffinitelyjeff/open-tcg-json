@@ -1,0 +1,122 @@
+{
+  "attribute": "Data",
+  "blockIcon": "02",
+  "cardEffects": "[When Attacking] If your opponent has 8 or more cards in their hand, this Digimon's attack target can't be switched for the turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-029.png",
+        "imgName": "BT13-029.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8f/BT13-029.png/revision/latest?cb=20230714185527",
+        "uploadDate": "2023-07-14T18:55:27"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Royal_Knights_Pre-Release_Pack",
+        "captionText": "Royal Knights Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-029_P0.png",
+        "imgName": "BT13-029_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/ad/BT13-029_P0.png/revision/latest?cb=20230714195735",
+        "uploadDate": "2023-07-14T19:57:35"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-029-J.png",
+        "imgName": "BT13-029-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/49/BT13-029-J.png/revision/latest?cb=20230217122642",
+        "uploadDate": "2023-02-17T12:26:42"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-029-Sample-J.png",
+        "imgName": "BT13-029-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/52/BT13-029-Sample-J.png/revision/latest?cb=20230129082853",
+        "uploadDate": "2023-01-29T08:28:53"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8f/BT13-029.png/revision/latest?cb=20230714185527",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When an effect adds cards to your opponent's hand, unsuspend this Digimon.",
+  "level": "5",
+  "name": "MachGaogamon",
+  "nameJapanese": "マッハガオガモン",
+  "playCost": "7",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT13-029#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT13-029 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "In addition to ＜Blocker＞, this effect prevents the attack target from being switched due to effects such as \"you may switch the target of attack to this Digimon.\"",
+        "question": "How is the \"this Digimon's attack target can't be switched\" effect on this card different from \"This Digimon can't be blocked\"?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Royal_Knights_Pre-Release_Pack",
+          "text": "Royal Knights Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ]
+  },
+  "traditionalChinese": "音速迦奧迦獸",
+  "type": "Cyborg"
+}

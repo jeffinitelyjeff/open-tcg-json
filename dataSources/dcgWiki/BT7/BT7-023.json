@@ -1,0 +1,165 @@
+{
+  "attribute": "Variable",
+  "blockIcon": "01",
+  "cardEffects": "You may digivolve this card from your hand onto one of your blue Tamers as if the Tamer is a level 3 blue Digimon for a memory cost of 2.\n[When Digivolving] If a card with the [Hybrid] trait or [Tommy Himi] is in this Digimon's digivolution cards, 1 of your opponent's Digimon with no digivolution cards can't attack or block until the end of their next turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "1",
+      "level": "4"
+    }
+  ],
+  "dp": "6000 DP",
+  "form": "Hybrid",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-023.png",
+        "imgName": "BT7-023.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8d/BT7-023.png/revision/latest?cb=20220218130549",
+        "uploadDate": "2022-02-18T13:05:49"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Event_Pack_3",
+        "captionText": "Event Pack 3 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-023_P1.png",
+        "imgName": "BT7-023_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1a/BT7-023_P1.png/revision/latest?cb=20220904060020",
+        "uploadDate": "2022-09-04T06:00:20"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-023-J.png",
+        "imgName": "BT7-023-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9a/BT7-023-J.png/revision/latest?cb=20210820091038",
+        "uploadDate": "2021-08-20T09:10:38"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8d/BT7-023.png/revision/latest?cb=20220218130549",
+  "level": "4",
+  "name": "Korikakumon",
+  "nameJapanese": "ブリザーモン",
+  "nameTranslated": "Blizzamon",
+  "playCost": "6",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT7-023#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT7-023 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, Tamer cards' [Security] effects aren't inherited effects. Some Tamer cards do have inherited effects, and those can be activated when such cards are placed in digivolution cards.",
+        "question": "When this Digimon digivolves onto a Tamer card, does the Tamer card’s [Security] effect become an inherited effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "Instead of a Tamer card, can I digivolve this card onto a level 3 Digimon that meets the digivolution requirements?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it is.  However, if the effect specifies Digimon cards, Digi-Egg cards, or any other type of card that isn't a Tamer card, it can't be targeted by that effect.",
+        "question": "After a Tamer card ends up in this Digimon's digivolution cards, is that card affected by effects that trash digivolution cards?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you do. Even if you digivolve using a Tamer card, make sure to draw 1 card as the digivolution bonus.",
+        "question": "If I digivolve this card on top of a Tamer card, do I still get the digivolution bonus?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes. Digivolution doesn't count as “playing” a card, so you can attack that turn.",
+        "question": "Can I attack the turn I digivolve this card on top of a Tamer card?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. Since it's the first turn the Tamer was played, the limitation for attacking on the first turn a card is played still applies.",
+        "question": "I play a Tamer card, then digivolve it into this Digimon. Can I then attack with that Digimon during that same turn?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "It’s trashed.",
+        "question": "If I've digivolved this card on top of a Tamer card and the Digimon is deleted, what happens to the Tamer card?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. Once a Digimon is targeted by this card's [When Digivolving] effect, it becomes unable to attack or block until the end of your opponent’s turn, even if it gains a digivolution card.",
+        "question": "When this card's [When Digivolving] effect prevents a Digimon from attacking or blocking, if that Digimon gains a digivolution card afterwards, can it attack or block?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Event_Pack_3",
+          "text": "Event Pack 3"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      }
+    ]
+  },
+  "type": "Beast"
+}

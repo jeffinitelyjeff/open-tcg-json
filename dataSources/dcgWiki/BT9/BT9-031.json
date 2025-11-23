@@ -1,0 +1,171 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [MetalGarurumon]: Cost 1",
+  "attribute": "Data",
+  "blockIcon": "01",
+  "cardEffects": "[When Digivolving] Unsuspend this Digimon, and it gains ＜Blocker＞ (This Digimon can block in the blocker timing.) until the end of your opponent's turn.\n [Your Turn] [Once Per Turn] When this Digimon becomes unsuspended, if [MetalGarurumon] or [X Antibody] is in its digivolution cards, return all of your opponent's Digimon with the lowest level to their owner's hand.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "4",
+    "level": "5"
+  },
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-031.png",
+        "imgName": "BT9-031.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0e/BT9-031.png/revision/latest?cb=20220625065055",
+        "uploadDate": "2022-06-25T06:50:55"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-031_P1.png",
+        "imgName": "BT9-031_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fb/BT9-031_P1.png/revision/latest?cb=20220625065004",
+        "uploadDate": "2022-06-25T06:50:04"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-031-J.png",
+        "imgName": "BT9-031-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bf/BT9-031-J.png/revision/latest?cb=20220218110359",
+        "uploadDate": "2022-02-18T11:03:59"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-031_P1-J.png",
+        "imgName": "BT9-031_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f6/BT9-031_P1-J.png/revision/latest?cb=20220225093217",
+        "uploadDate": "2022-02-25T09:32:17"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-031-Sample-J.png",
+        "imgName": "BT9-031-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/31/BT9-031-Sample-J.png/revision/latest?cb=20220123093001",
+        "uploadDate": "2022-01-23T09:30:01"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (Alternative Art) (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-031_P1-Sample-J.png",
+        "imgName": "BT9-031_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0d/BT9-031_P1-Sample-J.png/revision/latest?cb=20220211091549",
+        "uploadDate": "2022-02-11T09:15:49"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0e/BT9-031.png/revision/latest?cb=20220625065055",
+  "level": "6",
+  "name": "MetalGarurumon (X Antibody)",
+  "nameJapanese": "メタルガルルモンX抗体",
+  "playCost": "12",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT9-031#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT9-031 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. This effect specifies a card name, so you must have a card whose name is either [MetalGarurumon] or [X Antibody] in this Digimon’s digivolution cards. Having a card with [X Antibody] in its traits doesn't count.",
+        "question": "This card’s effect reads, “if [MetalGarurumon] or [X Antibody] is in its digivolution cards”. Does having a card with [X Antibody] in its traits count?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it does.",
+        "question": "Does this card’s [Your Turn] effect activate when this card becomes unsuspended during my unsuspend phase?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ]
+  },
+  "type": "Cyborg/X Antibody"
+}

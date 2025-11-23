@@ -1,0 +1,106 @@
+{
+  "attribute": "Data",
+  "blockIcon": "02",
+  "cardEffects": "[On Play] [When Digivolving] By placing 1 of your other blue Digimon as the bottom digivolution card of this Digimon, gain 2 memory.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-027.png",
+        "imgName": "BT12-027.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5d/BT12-027.png/revision/latest?cb=20230421194630",
+        "uploadDate": "2023-04-21T19:46:30"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-027-J.png",
+        "imgName": "BT12-027-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c4/BT12-027-J.png/revision/latest?cb=20221111110530",
+        "uploadDate": "2022-11-11T11:05:30"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-027-Sample-J.png",
+        "imgName": "BT12-027-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/68/BT12-027-Sample-J.png/revision/latest?cb=20221105054155",
+        "uploadDate": "2022-11-05T05:41:55"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5d/BT12-027.png/revision/latest?cb=20230421194630",
+  "level": "5",
+  "name": "Mermaimon",
+  "nameJapanese": "マーメイモン",
+  "playCost": "7",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT12-027#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT12-027 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "They're trashed.",
+        "question": "When this card's effect places 1 of my other blue Digimon as this Digimon's bottom digivolution card, what happens to that Digimon's digivolution cards?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "It's not being trashed by the effect, it's being trashed because of the rules, so [BT9-109 X Antibody] does still get trashed.",
+        "question": "When this card's effect places 1 of my other blue Digimon as this Digimon's bottom digivolution card, if that Digimon has [BT9-109 X Antibody] in its digivolution cards, what happens to that card?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ]
+  },
+  "type": "Aquabeast"
+}

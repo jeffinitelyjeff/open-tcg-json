@@ -1,0 +1,106 @@
+{
+  "blockIcon": "04",
+  "cardEffects": "[Main] 1 of your opponent's Digimon gets -6000 DP for the turn. If there are 3 or more Digimon, increase the DP reduction of this effect by -6000.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Yellow",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-19:_Starter_Deck_Fable_Waltz",
+        "captionText": "ST-19: Starter Deck Fable Waltz (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST19-15.png",
+        "imgName": "ST19-15.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0b/ST19-15.png/revision/latest?cb=20240830172003",
+        "uploadDate": "2024-08-30T17:20:03"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-19:_Starter_Deck_Fable_Waltz",
+        "captionText": "ST-19: Starter Deck Fable Waltz (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST19-15-J.png",
+        "imgName": "ST19-15-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4e/ST19-15-J.png/revision/latest?cb=20240419105049",
+        "uploadDate": "2024-04-19T10:50:49"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-19:_Starter_Deck_Fable_Waltz",
+        "captionText": "ST-19: Starter Deck Fable Waltz (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST19-15-Sample-J.png",
+        "imgName": "ST19-15-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5d/ST19-15-Sample-J.png/revision/latest?cb=20240412090512",
+        "uploadDate": "2024-04-12T09:05:12"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0b/ST19-15.png/revision/latest?cb=20240830172003",
+  "name": "Noble Family Arts",
+  "nameJapanese": "ノーブルファミリアーツ",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=ST19-15#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for ST19-15 (Sep. 13, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it does.  If there are 3 or more total Digimon between you and your opponent, 1 of your opponent's Digimon gets -12000 DP.",
+        "question": "Does \"if there are 3 or more Digimon\" in this card's [Main] effect count both my Digimon and my opponent's Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "If the conditions are met, the -6000 DP effect will further get -6000 DP for a total reduction of -12000 DP for 1 of your opponent's Digimon.",
+        "question": "What does \"it further gets -6000 DP\" in this card's [Main] effect mean, exactly?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Activate this card's [Main] effects.",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-19:_Starter_Deck_Fable_Waltz",
+          "text": "ST-19: Starter Deck Fable Waltz"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      },
+      {
+        "boosterSet": "Fable Waltz Pre-Release Pack",
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-19:_Starter_Deck_Fable_Waltz",
+          "text": "ST-19: Starter Deck Fable Waltz"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      }
+    ]
+  },
+  "type": "LIBERATOR",
+  "useCost": "5"
+}

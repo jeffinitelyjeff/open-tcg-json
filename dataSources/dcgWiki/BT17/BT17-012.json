@@ -1,0 +1,142 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Takuya Kanbara]: Cost 2 \n[Digivolve]  [Agunimon]: Cost 1",
+  "attribute": "Variable",
+  "blockIcon": "03",
+  "cardEffects": "You may digivolve this card from your hand onto one of your red Tamers as if that card is a level 3 red Digimon.\n＜Raid＞ (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.)\n[When Attacking] This Digimon may digivolve into a Digimon card with the [Hybrid] trait in the hand with the digivolution cost reduced by 1.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red / Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "6000 DP",
+  "form": "Hybrid",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-012.png",
+        "imgName": "BT17-012.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5d/BT17-012.png/revision/latest?cb=20240720075952",
+        "uploadDate": "2024-07-20T07:59:52"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-012-J.png",
+        "imgName": "BT17-012-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8f/BT17-012-J.png/revision/latest?cb=20240322064311",
+        "uploadDate": "2024-03-22T06:43:11"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-012-Sample-J.png",
+        "imgName": "BT17-012-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/46/BT17-012-Sample-J.png/revision/latest?cb=20240222090824",
+        "uploadDate": "2024-02-22T09:08:24"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5d/BT17-012.png/revision/latest?cb=20240720075952",
+  "inheritedEffect": "[Your Turn] This Digimon gets +2000 DP.",
+  "level": "4",
+  "name": "BurningGreymon",
+  "nameJapanese": "ヴリトラモン",
+  "nameTranslated": "Vritramon",
+  "playCost": "6",
+  "rarity": "Common",
+  "rule": "[Rule] Name: Not treated as having [Greymon].",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT17-012#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT17-012 (Sep. 6, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, [Takuya Kanbara] digivolves as a Tamer.",
+        "question": "Does this card's \"[Takuya Kanbara]: Cost 2\" digivolution requirement mean that [Takuya Kanbara] is treated as a Digimon when it digivolves?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, they don’t trigger.  \"When a Digimon digivolves\" effects don't trigger when a Tamer digivolves.",
+        "question": "If I use this card's \"[Takuya Kanbara]: Cost 2\" digivolution requirement to digivolve, do \"when a Digimon digivolves\" effects trigger?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, they don’t trigger.  \"When a Digimon digivolves\" effects don't trigger when a Tamer digivolves.",
+        "question": "If I use this card's \"[Takuya Kanbara]: Cost 2\" digivolution requirement to digivolve, do \"when a Digimon would digivolve\" effects trigger?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.  Because you're digivolving from a Tamer, it isn't considered an unsuspended Digimon.",
+        "question": "My opponent activates EX3-053 [Metallicdramon]'s [On Play] effect. Can I digivolve an unsuspended [Takuya Kanbara] using this card's \"[Takuya Kanbara]: Cost 2\" digivolution requirement in the next turn?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't.  P-103 [Offense Training]'s ＜Delay＞ effect digivolves 1 Digimon. It doesn't digivolve Tamers.",
+        "question": "Can I activate P-103 [Offense Training]'s ＜Delay＞ effect and digivolve using this card's \"[Takuya Kanbara]: Cost 2\" digivolution requirement to digivolve?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, this card's [When Attacking] effect does not allow ignoring digivolution requirements, so you can only digivolve into a card that meets the digivolution requirements.",
+        "question": "When I use this card's [When Attacking] effect to digivolve into a Digimon card with the [Hybrid] trait in the hand, can it digivolve regardless of its digivolution requirements?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "They trigger simultaneously, so the turn player chooses the effect to activate first.  However, if you activate the [When Attacking] effect first and digivolve, ＜Raid＞ can no longer be activated.",
+        "question": "When this card attacks, does its ＜Raid＞ or [When Attacking] effect activate first?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      }
+    ]
+  },
+  "type": "Dark Dragon"
+}

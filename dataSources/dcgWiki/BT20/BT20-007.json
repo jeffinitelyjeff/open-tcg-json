@@ -1,0 +1,191 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Bebydomon]: Cost 0",
+  "attribute": "Data",
+  "blockIcon": "04",
+  "cardEffects": "[Start of Your Main Phase] By trashing 1 card with [Dracomon] or [Examon] in its text in your hand, ＜Draw 1＞ (Draw 1 card from your deck.) and gain 1 memory.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-007.png",
+        "imgName": "BT20-007.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b7/BT20-007.png/revision/latest?cb=20250207070808",
+        "uploadDate": "2025-02-07T07:08:08"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-007-Sample.png",
+        "imgName": "BT20-007-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0b/BT20-007-Sample.png/revision/latest?cb=20250110054118",
+        "uploadDate": "2025-01-10T05:41:18"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-09:_Legend_Pack_2025",
+        "captionText": "EX-09: Legend Pack 2025 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-007_P1.png",
+        "imgName": "BT20-007_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0f/BT20-007_P1.png/revision/latest?cb=20250613052100",
+        "uploadDate": "2025-06-13T05:21:00"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-09:_Legend_Pack_2025",
+        "captionText": "EX-09: Legend Pack 2025 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-007_P1-Sample.png",
+        "imgName": "BT20-007_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/60/BT20-007_P1-Sample.png/revision/latest?cb=20250603001128",
+        "uploadDate": "2025-06-03T00:11:28"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-007-J.png",
+        "imgName": "BT20-007-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cb/BT20-007-J.png/revision/latest?cb=20250124093846",
+        "uploadDate": "2025-01-24T09:38:46"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-09:_Extra_Booster_Versus_Monsters",
+        "captionText": "EX-09: Extra Booster Versus Monsters (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-007_P1-J.png",
+        "imgName": "BT20-007_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e4/BT20-007_P1-J.png/revision/latest?cb=20250613163753",
+        "uploadDate": "2025-06-13T16:37:53"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b7/BT20-007.png/revision/latest?cb=20250207070808",
+  "inheritedEffect": "[Your Turn] This Digimon gets +2000 DP.",
+  "level": "3",
+  "name": "Dracomon",
+  "nameJapanese": "ドラコモン",
+  "playCost": "3",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT20-007#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for BT20-007 (2025/01/24, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "The cards are either \"cards with the text 'DRACOMON'\" or \"cards with the text 'EXAMON'\".",
+        "question": "What card must be trashed for this card's [Start of Your Main Phase] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "It refers to cards with the specified word or icon included in \"name, trait, effect, inherited effect, <Overflow X>, jogress, digivolution requirements, burst digivolution\". For example, a card with the text \"Knightmon\" refers to a card whose name is \"Dark Knightmon\" or whose effect says \"Knightmon\".",
+        "question": "What do you mean by \"cards with text?\"",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-09:_Legend_Pack_2025",
+          "text": "EX-09: Legend Pack 2025"
+        },
+        "foil&Rarity": "Full Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ryodan",
+          "text": "Ryodan"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Iori_Sunakura",
+          "text": "Iori Sunakura"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.5_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.5 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Iori_Sunakura",
+          "text": "Iori Sunakura"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-09:_Legend_Pack_2025",
+          "text": "EX-09: Legend Pack 2025"
+        },
+        "foil&Rarity": "Full Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ryodan",
+          "text": "Ryodan"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+          "text": "BT-20: Booster Over the X"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Iori_Sunakura",
+          "text": "Iori Sunakura"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-09:_Legend_Pack_2025",
+          "text": "EX-09: Legend Pack 2025"
+        },
+        "foil&Rarity": "Full Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ryodan",
+          "text": "Ryodan"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-09:_Legend_Pack_2025",
+          "text": "EX-09: Legend Pack 2025"
+        },
+        "foil&Rarity": "Full Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ryodan",
+          "text": "Ryodan"
+        }
+      }
+    ]
+  },
+  "type": "Dragon"
+}

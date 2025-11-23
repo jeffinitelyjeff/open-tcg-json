@@ -1,0 +1,114 @@
+{
+  "blockIcon": "04",
+  "cardEffects": "[Trash] [Your Turn] When any of your Digimon digivolve into [Lucemon (X Antibody)], by returning this card to the bottom of the deck, your opponent may trash their top security card. If this effect didn't trash, ＜Recovery +1 (Deck)＞ (Place the top card of your deck on top of your security stack.)\n[Main] Delete your opponent's Digimon until they have as many as the number of your security cards. If this effect deleted, ＜Recovery +1 (Deck)＞ (Place the top card of your deck on top of your security stack.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Yellow / Purple",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-094.png",
+        "imgName": "BT19-094.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1c/BT19-094.png/revision/latest?cb=20241011093459",
+        "uploadDate": "2024-10-11T09:34:59"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-094-J.png",
+        "imgName": "BT19-094-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/ca/BT19-094-J.png/revision/latest?cb=20240920100602",
+        "uploadDate": "2024-09-20T10:06:02"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-094-Sample-J.png",
+        "imgName": "BT19-094-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d1/BT19-094-Sample-J.png/revision/latest?cb=20240908090203",
+        "uploadDate": "2024-09-08T09:02:03"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1c/BT19-094.png/revision/latest?cb=20241011093459",
+  "name": "Seventh Divine Cruz",
+  "nameJapanese": "セブンス・ディバイン・クルス",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT19-094#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT19-094 (Nov. 1, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "You perform <Recovery +1 (Deck)>.",
+        "question": "If my opponent doesn't trash a security card for this card's [Your Turn] effect, which player performs <Recovery +1 (Deck)>?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you delete their Digimon until they have 0 left.",
+        "question": "I have 0 security cards.  If I activate this card's [Main] effect, do I delete my opponent's Digimon until they have 0 Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it isn't met.  The \"if this effect deleted\" condition is only met when a Digimon is deleted by this card's effect.  In this case, EX6-059 [Barbamon] wasn't deleted by this card's effect, therefore the \"if this effect deleted\" condition isn't met.",
+        "question": "I tried to delete my opponent's EX6-059 [Barbamon] using this card's [Main] effect.  In response, my opponent uses ＜Scapegoat＞ on EX6-059 [Barbamon] to delete their other Digimon and prevent EX6-059 [Barbamon] from being deleted.  At such times, is this card's \"if this effect deleted\" condition met?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] You may play 1 [Lucemon] from your trash without paying the cost.",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+          "text": "BT18-19: Special Booster Ver.2.0"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.0_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.0 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Stamped - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+          "text": "BT-19: Booster Xros Evolution"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      }
+    ]
+  },
+  "type": "Seven Great Demon Lords",
+  "useCost": "7"
+}

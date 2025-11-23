@@ -1,0 +1,94 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Dorimon]: Cost 0",
+  "attribute": "Data",
+  "blockIcon": "03",
+  "cardEffects": "[When Attacking] If [Kosuke Kisakata] is in this Digimon's digivolution cards and your opponent has a level 6 or higher Digimon, this Digimon may digivolve into [Dorugoramon] in the hand for a digivolution cost of 4, ignoring its digivolution requirements.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "1",
+      "level": "2"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "1",
+      "level": "2"
+    }
+  ],
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-062.png",
+        "imgName": "BT17-062.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/aa/BT17-062.png/revision/latest?cb=20240720075952",
+        "uploadDate": "2024-07-20T07:59:52"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-062-J.png",
+        "imgName": "BT17-062-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/85/BT17-062-J.png/revision/latest?cb=20240322062942",
+        "uploadDate": "2024-03-22T06:29:42"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-062-Sample-J.png",
+        "imgName": "BT17-062-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/77/BT17-062-Sample-J.png/revision/latest?cb=20240310004202",
+        "uploadDate": "2024-03-10T00:42:02"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/aa/BT17-062.png/revision/latest?cb=20240720075952",
+  "inheritedEffect": "＜Reboot＞ (Unsuspend this Digimon during your opponent's unsuspend phase.)",
+  "level": "3",
+  "name": "Dorumon",
+  "nameJapanese": "ドルモン",
+  "playCost": "3",
+  "rarity": "Common",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ]
+  },
+  "type": "Beast/X Antibody/SoC"
+}

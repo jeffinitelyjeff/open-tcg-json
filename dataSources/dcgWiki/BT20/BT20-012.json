@@ -1,0 +1,102 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Ryudamon]/Lv.3 w/[Chronicle] trait: Cost 2",
+  "attribute": "Vaccine",
+  "blockIcon": "04",
+  "cardEffects": "[When Attacking] This Digimon may digivolve into [Hisyaryumon] or a Digimon card with the [Chronicle] trait in the hand.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "6000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-012.png",
+        "imgName": "BT20-012.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8a/BT20-012.png/revision/latest?cb=20250207070810",
+        "uploadDate": "2025-02-07T07:08:10"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-012-Sample.png",
+        "imgName": "BT20-012-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/19/BT20-012-Sample.png/revision/latest?cb=20241213040356",
+        "uploadDate": "2024-12-13T04:03:56"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-012-J.png",
+        "imgName": "BT20-012-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3f/BT20-012-J.png/revision/latest?cb=20250124093846",
+        "uploadDate": "2025-01-24T09:38:46"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-012-Sample-J.png",
+        "imgName": "BT20-012-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e9/BT20-012-Sample-J.png/revision/latest?cb=20241213040804",
+        "uploadDate": "2024-12-13T04:08:04"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8a/BT20-012.png/revision/latest?cb=20250207070810",
+  "inheritedEffect": "[Your Turn] This Digimon gets +2000 DP.",
+  "level": "4",
+  "name": "Ginryumon",
+  "nameJapanese": "リュウダモン",
+  "playCost": "5",
+  "rarity": "Common",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+          "text": "BT-20: Booster Over the X"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ]
+  },
+  "type": "Beast Dragon/X Antibody/Chronicle"
+}

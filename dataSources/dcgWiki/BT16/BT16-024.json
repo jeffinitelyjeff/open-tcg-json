@@ -1,0 +1,140 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Angemon]: Cost 3",
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] [When Digivolving] If it's your turn, search your security stack. This Digimon may digivolve into a Digimon card with the [Angel] or [Three Great Angels] trait among them with the digivolution cost reduced by 2. Then, shuffle your security stack. If this effect digivolved, you may place 1 Digimon card with the [Angel], [Archangel] or [Three Great Angels] trait from the hand at the bottom of your security stack.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue / Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "6000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-024.png",
+        "imgName": "BT16-024.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/97/BT16-024.png/revision/latest?cb=20240426204049",
+        "uploadDate": "2024-04-26T20:40:49"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Beginning_Observer",
+        "captionText": "Pre-Release Pack Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-024_P0.png",
+        "imgName": "BT16-024_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/46/BT16-024_P0.png/revision/latest?cb=20240429054832",
+        "uploadDate": "2024-04-29T05:48:32"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-024-J.png",
+        "imgName": "BT16-024-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/31/BT16-024-J.png/revision/latest?cb=20231215073419",
+        "uploadDate": "2023-12-15T07:34:19"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-024-Sample-J.png",
+        "imgName": "BT16-024-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cf/BT16-024-Sample-J.png/revision/latest?cb=20231123060756",
+        "uploadDate": "2023-11-23T06:07:56"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/97/BT16-024.png/revision/latest?cb=20240426204049",
+  "inheritedEffect": "[Opponent's Turn] All of your Digimon with the [Angel], [Archangel] or [Three Great Angels] trait gain ＜Blocker＞ (This Digimon can block in the blocker timing.).",
+  "level": "5",
+  "name": "MagnaAngemon",
+  "nameJapanese": "ホーリーエンジェモン",
+  "nameTranslated": "HolyAngemon",
+  "playCost": "6",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT16-024#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT16-024 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, this card's effect does not allow ignoring digivolution requirements, so you can only digivolve into a card that meets the digivolution requirements.",
+        "question": "When I use this card's [On Play] [When Digivolving] effect to digivolve it into a Digimon card with the [Angel] or [Three Great Angels] trait in my security stack, can it digivolve regardless of its digivolution requirements?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't.",
+        "question": "Can I use an effect that digivolves my Digimon to digivolve this Digimon into a Digimon card with the [Angel] or [Three Great Angels] trait in my security stack?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, they trigger.",
+        "question": "I used this card's [On Play] [When Digivolving] effect to digivolve into a card with the [Angel] or [Three Great Angels] trait in my security stack, then I placed 1 Digimon card with the [Angel], [Archangel] or [Three Great Angels] trait from the hand at the bottom of my security stack.  The number of cards in my security stack remained the same, but do \"when a card is removed from a security stack\" or \"When a card is added to a security stack\" effects trigger?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Beginning_Observer",
+          "text": "Pre-Release Pack Beginning Observer"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ]
+  },
+  "type": "Archangel"
+}

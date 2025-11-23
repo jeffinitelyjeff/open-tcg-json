@@ -1,0 +1,110 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Poromon]: Cost 0",
+  "attribute": "Free",
+  "blockIcon": "03",
+  "cardEffects": "[Your Turn] [Once Per Turn] When one of your other Digimon is played or digivolves, if it has the [Free] trait or is yellow, gain 1 memory.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red / Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "1",
+      "level": "2"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "1",
+      "level": "2"
+    }
+  ],
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-007.png",
+        "imgName": "BT16-007.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b5/BT16-007.png/revision/latest?cb=20240412064149",
+        "uploadDate": "2024-04-12T06:41:49"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-007-J.png",
+        "imgName": "BT16-007-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/86/BT16-007-J.png/revision/latest?cb=20231215073420",
+        "uploadDate": "2023-12-15T07:34:20"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-007-Sample-J.png",
+        "imgName": "BT16-007-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7d/BT16-007-Sample-J.png/revision/latest?cb=20231112004152",
+        "uploadDate": "2023-11-12T00:41:52"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b5/BT16-007.png/revision/latest?cb=20240412064149",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] Suspend 1 of your opponent's Digimon.",
+  "level": "3",
+  "name": "Hawkmon",
+  "nameJapanese": "ホークモン",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT16-007#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT16-007 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "It references the Digimon after it digivolves.",
+        "question": "Does this card's effect reference the card for the Digimon before or after it digivolves?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Iori_Sunakura",
+          "text": "Iori Sunakura"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Iori_Sunakura",
+          "text": "Iori Sunakura"
+        }
+      }
+    ]
+  },
+  "type": "Avian"
+}

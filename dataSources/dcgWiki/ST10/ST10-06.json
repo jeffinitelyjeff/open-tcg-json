@@ -1,0 +1,226 @@
+{
+  "altDigivolutionRequirements": "[DNA Digivolve] Yellow Lv.5 + Purple Lv.5 : Cost 0\nStack the 2 specified Digimon and digivolve unsuspended.",
+  "attribute": "Vaccine",
+  "blockIcon": "01",
+  "cardEffects": "[When Digivolving] Place 1 yellow or purple Digimon card from your trash on top of your security stack face down. When DNA digivolving, you may search your security stack for 1 level 5 or lower Digimon card and play it without paying its memory cost. Then, shuffle your security stack.\n[All Turns] When you play another Digimon using an effect, delete 1 of your opponent's Digimon whose level is less than or equal to the played Digimon's level.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow / Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "5",
+      "level": "5"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "5",
+      "level": "5"
+    }
+  ],
+  "dp": "13000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-10:_Starter_Deck_Parallel_World_Tactician",
+        "captionText": "ST-10: Starter Deck Parallel World Tactician (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST10-06.png",
+        "imgName": "ST10-06.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/25/ST10-06.png/revision/latest?cb=20220422124921",
+        "uploadDate": "2022-04-22T12:49:21"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+        "captionText": "- EX-02: Theme Booster Digital Hazard (Box Topper) - AB-01: Adventure Box (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST10-06_P1.png",
+        "imgName": "ST10-06_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a7/ST10-06_P1.png/revision/latest?cb=20220617103529",
+        "uploadDate": "2022-06-17T10:35:29"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (Rare Pull) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST10-06_P2.png",
+        "imgName": "ST10-06_P2.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e4/ST10-06_P2.png/revision/latest?cb=20230210210854",
+        "uploadDate": "2023-02-10T21:08:54"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-10:_Starter_Deck_Parallel_World_Tactician",
+        "captionText": "ST-10: Starter Deck Parallel World Tactician (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST10-06-J.png",
+        "imgName": "ST10-06-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cf/ST10-06-J.png/revision/latest?cb=20211022041321",
+        "uploadDate": "2021-10-22T04:13:21"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-10:_Starter_Deck_Parallel_World_Tactician",
+        "captionText": "ST-10: Starter Deck Parallel World Tactician (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST10-06_P1-J.png",
+        "imgName": "ST10-06_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4b/ST10-06_P1-J.png/revision/latest?cb=20211022041319",
+        "uploadDate": "2021-10-22T04:13:19"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (Rare Pull) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST10-06_P2-J.png",
+        "imgName": "ST10-06_P2-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3d/ST10-06_P2-J.png/revision/latest?cb=20220930043804",
+        "uploadDate": "2022-09-30T04:38:04"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/25/ST10-06.png/revision/latest?cb=20220422124921",
+  "level": "6",
+  "name": "Mastemon",
+  "nameJapanese": "マスティモン",
+  "playCost": "13",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=ST10-06#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for ST10-06 (Mar. 28, 2024)"
+      },
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=ST10-06#qaResult_card",
+        "num": 2,
+        "text": "Official English Q&A for ST10-06 (Sep. 13, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "When performing a non-DNA digivolution, only the “Place 1 yellow or purple Digimon card from your trash on top of your security stack face down” part of the effect activates. The part of the effect that reads, “you may search your security stack for 1 level 5 or lower Digimon card and play it without paying its memory cost” only activates when DNA digivolving.  “Then, shuffle your security stack” activates no matter what kind of digivolution you perform.",
+        "question": "Does this card’s [When Digivolving] effect activate when performing a non-DNA digivolution?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it does.",
+        "question": "Does this card's [All Turns] effect also activate when the [Security] effect of one of my Security Digimon plays it into my battle area?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, moving a Digimon from your breeding area doesn’t count as playing it, so the effect doesn’t activate.",
+        "question": "Does this card's [All Turns] effect activate when [BT1-089 Mimi Tachikawa]'s effect moves a Digimon from my breeding area to my battle area?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Level 4 or lower.  If the same reference to an \"X\" trigger condition being performed is made for an effect when it has a \"when X\" trigger condition, the state when the effect has triggered will be referenced.  In this case, your Digimon was level 4 when this card's [All Turns] effect triggered, therefore you can delete a level 4 or lower Digimon.",
+        "question": "My level 4 Digimon was played by an effect, then this card's [All Turns] effect and another effect triggered simultaneously. I activated the other effect, then the level of my Digimon that was played by an effect increased from 4 to 5.  If I then activate this card's [All Turns] effect, what levels of Digimon can I delete?",
+        "reference": "[2]"
+      },
+      {
+        "answer": "Yes, you can delete a Digimon.  If the same reference to an \"X\" trigger condition being performed is made for an effect when it has a \"when X\" trigger condition, the state when the effect has triggered will be referenced.  In this case, your Digimon was level 4 when this card's [All Turns] effect triggered, therefore you can delete a level 4 or lower Digimon.",
+        "question": "My level 4 Digimon was played by an effect, then this card's [All Turns] effect and another effect triggered simultaneously. I activated the other effect, then my Digimon that was played by an effect was removed from the battle area.  If I then activate this card's [All Turns] effect, can I delete an opponent's Digimon?",
+        "reference": "[2]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-10:_Starter_Deck_Parallel_World_Tactician",
+          "text": "ST-10: Starter Deck Parallel World Tactician"
+        },
+        "foil&Rarity": "Textured - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-10:_Starter_Deck_Parallel_World_Tactician",
+          "text": "ST-10: Starter Deck Parallel World Tactician"
+        },
+        "foil&Rarity": "Textured - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+          "text": "EX-02: Theme Booster Digital Hazard"
+        },
+        "foil&Rarity": "Foil - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AB-01:_Adventure_Box",
+          "text": "AB-01: Adventure Box"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Gold Foil - Gold Background - Rare Pull",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-10:_Starter_Deck_Parallel_World_Tactician",
+          "text": "ST-10: Starter Deck Parallel World Tactician"
+        },
+        "foil&Rarity": "Textured - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Starter_Deck_Complete_Set_2021",
+          "text": "Starter Deck Complete Set 2021"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Gold Foil - Gold Background - Rare Pull",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "type": "Angel"
+}

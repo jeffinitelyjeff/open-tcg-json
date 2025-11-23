@@ -1,0 +1,132 @@
+{
+  "attribute": "Data",
+  "blockIcon": "02",
+  "cardEffects": "[On Play] By placing this Digimon under 1 of your other Digimon that's red or has the [Legend-Arms] trait as its bottom digivolution card, you may reveal the top card of your deck. If that card is a Digimon card with the [Legend-Arms] trait and a play cost of 7 or less, you may play it without paying its memory cost. Add the rest to your hand.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "0",
+      "level": "2"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "0",
+      "level": "2"
+    }
+  ],
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-13:_Starter_Deck_RagnaLoardmon",
+        "captionText": "ST-13: Starter Deck RagnaLoardmon (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST13-09.png",
+        "imgName": "ST13-09.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a9/ST13-09.png/revision/latest?cb=20220916204849",
+        "uploadDate": "2022-09-16T20:48:49"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-13:_Starter_Deck_RagnaLoardmon",
+        "captionText": "ST-13: Starter Deck RagnaLoardmon (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST13-09-J.png",
+        "imgName": "ST13-09-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/94/ST13-09-J.png/revision/latest?cb=20220415091248",
+        "uploadDate": "2022-04-15T09:12:48"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-13:_Starter_Deck_RagnaLoardmon",
+        "captionText": "ST-13: Starter Deck RagnaLoardmon (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST13-09-Sample-J.png",
+        "imgName": "ST13-09-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/89/ST13-09-Sample-J.png/revision/latest?cb=20220405092330",
+        "uploadDate": "2022-04-05T09:23:30"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a9/ST13-09.png/revision/latest?cb=20220916204849",
+  "inheritedEffect": "[Opponent's Turn] While you have a Digimon that's red or has the [Legend-Arms] trait in play, this Digimon gains ＜Blocker＞ (This Digimon can block in the blocker timing.).",
+  "level": "3",
+  "name": "Ludomon",
+  "nameJapanese": "ルドモン",
+  "playCost": "3",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=ST13-09#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for ST13-09 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, the effect reads \"By placing this Digimon under 1 of your other Digimon [...] as its bottom digivolution card,\" so you may also choose to not place it as the bottom digivolution card. In such cases, it remains in the battle area as a Digimon like normal.",
+        "question": "Can I choose to not activate this card's [On Play] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, the effect reads \"you may play it,\" so you may also choose to not play it. In such cases, you add it to your hand like any other card.",
+        "question": "When I reveal a card with the [Legend-Arms] trait and a play cost of 7 or less from my deck for this card's [On Play] effect, can I choose to not play that card?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "It can't be played due to [BT9-047 Pomumon]'s effect, so you add it to your hand like any other card.",
+        "question": "I revealed a card with the [Legend-Arms] trait and a play cost of 7 or less from my deck for this card's [On Play] effect] when I had a [BT9-047 Pomumon]. What happens to that card?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-13:_Starter_Deck_RagnaLoardmon",
+          "text": "ST-13: Starter Deck RagnaLoardmon"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-13:_Starter_Deck_RagnaLoardmon",
+          "text": "ST-13: Starter Deck RagnaLoardmon"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-13:_Starter_Deck_RagnaLoardmon",
+          "text": "ST-13: Starter Deck RagnaLoardmon"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ]
+  },
+  "type": "Armor/Legend-Arms"
+}

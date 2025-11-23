@@ -1,0 +1,108 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "01",
+  "cardEffects": "[On Play] You may play 1 level 3 Digimon card from one of your Digimon's digivolution cards as another Digimon without paying its memory cost. If you do, you may place 1 blue Digimon card from your hand at the bottom of one of your Digimon's digivolution cards.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-027.png",
+        "imgName": "BT7-027.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2e/BT7-027.png/revision/latest?cb=20220218130552",
+        "uploadDate": "2022-02-18T13:05:52"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-027-J.png",
+        "imgName": "BT7-027-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2d/BT7-027-J.png/revision/latest?cb=20210820091040",
+        "uploadDate": "2021-08-20T09:10:40"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2e/BT7-027.png/revision/latest?cb=20220218130552",
+  "level": "5",
+  "name": "Whamon",
+  "nameJapanese": "ホエーモン",
+  "playCost": "8",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT7-027#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT7-027 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.",
+        "question": "This card's [On Play] effect places a Digimon card from my hand under 1 of my Digimon. Can I place it under this Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. It enters play as a new Digimon, unsuspended. Additionally, it does not carry over any effects on the source Digimon.",
+        "question": "This card's [On Play] effect plays a level 3 Digimon card from the digivolution cards of a suspended Digimon. Does the level 3 Digimon enter play suspended?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ]
+  },
+  "type": "Sea Animal"
+}

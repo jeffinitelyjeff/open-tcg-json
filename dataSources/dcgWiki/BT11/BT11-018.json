@@ -1,0 +1,130 @@
+{
+  "attribute": "Data",
+  "blockIcon": "02",
+  "cardEffects": "＜Material Save 2＞ (When this Digimon would be deleted, you may place 2 cards in this Digimon's DigiXros requirements from this Digimon's digivolution cards under 1 of your Tamers.)\n[On Play] Delete 1 of your opponent's Digimon with 8000 DP or less. 1 of your opponent's Digimon can't attack until the end of their turn.\n[End of Attack] By deleting this Digimon, gain 1 memory.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red / Blue",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "4",
+      "level": "5"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "3",
+      "level": "6"
+    }
+  ],
+  "digixrosRequirements": "[DigiXros -3] [OmniShoutmon] x [ZeigGreymon] \nWhen this would be played, you may place specified cards from your hand/battle area under it. Each one reduces the play cost.",
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-018.png",
+        "imgName": "BT11-018.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/01/BT11-018.png/revision/latest?cb=20230210132406",
+        "uploadDate": "2023-02-10T13:24:06"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Dimensional_Phase_Pre-Release_Pack",
+        "captionText": "Dimensional Phase Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-018_P0.png",
+        "imgName": "BT11-018_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/90/BT11-018_P0.png/revision/latest?cb=20230210210857",
+        "uploadDate": "2023-02-10T21:08:57"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-018-J.png",
+        "imgName": "BT11-018-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/39/BT11-018-J.png/revision/latest?cb=20220922114908",
+        "uploadDate": "2022-09-22T11:49:08"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-018-Sample-J.png",
+        "imgName": "BT11-018-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/ae/BT11-018-Sample-J.png/revision/latest?cb=20220820052324",
+        "uploadDate": "2022-08-20T05:23:24"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/01/BT11-018.png/revision/latest?cb=20230210132406",
+  "level": "6",
+  "name": "Shoutmon DX",
+  "nameJapanese": "シャウトモンDX",
+  "playCost": "13",
+  "rarity": "Rare",
+  "rule": "[Rule] Name: Also treated as [OmniShoutmon]/[ZeigGreymon].",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT11-018#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT11-018 (Sep. 13, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "This is a special rule for this card that always treats it as if it also has the [OmniShoutmon] and [ZeigGreymon] names.",
+        "question": "What does this card's (Rule) mean, exactly?  (*This card's \"The name of this card/Digimon is also treated as [OmniShoutmon] and [ZeigGreymon]\" has been changed to \"(Rule) Name: Also treated as [OmniShoutmon] and [ZeigGreymon].\")",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Dimensional_Phase_Pre-Release_Pack",
+          "text": "Dimensional Phase Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      }
+    ]
+  },
+  "traditionalChinese": "咆哮獸DX",
+  "type": "Composite/Xros Heart/Blue Flare"
+}

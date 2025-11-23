@@ -1,0 +1,178 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Dinosaur] trait: Cost 3",
+  "attribute": "Virus",
+  "blockIcon": "04",
+  "cardEffects": "[On Play] [When Digivolving] You may suspend 1 Digimon. Then, if this Digimon is suspended, ＜De-Digivolve  1＞ 1 of your opponent's Digimon and, until the end of your opponent's turn, their effects can't return this Digimon to hands or decks or affect it with ＜De-Digivolve＞ effects.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Not released"
+  },
+  "cardType": "Digimon",
+  "color": "Green / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+        "captionText": "EX-08: Extra Booster Chain of Liberation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-043.png",
+        "imgName": "EX8-043.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/96/EX8-043.png/revision/latest?cb=20241213123315",
+        "uploadDate": "2024-12-13T12:33:15"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+        "captionText": "EX-08: Extra Booster Chain of Liberation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-043_P1.png",
+        "imgName": "EX8-043_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9f/EX8-043_P1.png/revision/latest?cb=20241213123315",
+        "uploadDate": "2024-12-13T12:33:15"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+        "captionText": "EX-08: Extra Booster Chain of Liberation (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-043-J.png",
+        "imgName": "EX8-043-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/26/EX8-043-J.png/revision/latest?cb=20241122064122",
+        "uploadDate": "2024-11-22T06:41:22"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+        "captionText": "EX-08: Extra Booster Chain of Liberation (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-043-Sample-J.png",
+        "imgName": "EX8-043-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8e/EX8-043-Sample-J.png/revision/latest?cb=20241108090232",
+        "uploadDate": "2024-11-08T09:02:32"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+        "captionText": "EX-08: Extra Booster Chain of Liberation (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-043_P1-J.png",
+        "imgName": "EX8-043_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/ce/EX8-043_P1-J.png/revision/latest?cb=20241129065752",
+        "uploadDate": "2024-11-29T06:57:52"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/96/EX8-043.png/revision/latest?cb=20241213123315",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When this Digimon deletes your opponent's Digimon in battle, trash their top security card.",
+  "level": "5",
+  "name": "MetalTyrannomon",
+  "nameJapanese": "メタルティラノモン",
+  "playCost": "7",
+  "rarity": "Uncommon",
+  "rule": "[Rule] Trait: Has [Dinosaur] Type.",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX8-043#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX8-043 (Jan. 10, 2025)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can suspend either player's Digimon.",
+        "question": "Can I use this card's [On Play] [When Digivolving] effect to suspend either my Digimon or my opponent's Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't activate it.",
+        "question": "Can I activate this card’s inherited effect even if my opponent's Digimon and the Digimon that has this card in its digivolution cards are deleted at the same timing?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ]
+  },
+  "type": "Cyborg"
+}

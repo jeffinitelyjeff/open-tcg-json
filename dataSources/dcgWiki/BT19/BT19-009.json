@@ -1,0 +1,113 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "04",
+  "cardEffects": "[When Digivolving] If you have 1 or fewer Tamers, you may play 1 [Takato Matsuki] from your hand without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-009.png",
+        "imgName": "BT19-009.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c2/BT19-009.png/revision/latest?cb=20250207065426",
+        "uploadDate": "2025-02-07T06:54:26"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-009-J.png",
+        "imgName": "BT19-009-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e7/BT19-009-J.png/revision/latest?cb=20240920095509",
+        "uploadDate": "2024-09-20T09:55:09"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-009-Sample-J.png",
+        "imgName": "BT19-009-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/de/BT19-009-Sample-J.png/revision/latest?cb=20240822090437",
+        "uploadDate": "2024-08-22T09:04:37"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c2/BT19-009.png/revision/latest?cb=20250207065426",
+  "inheritedEffect": "[All Turns] While you have 0 or less memory, add 2000 to this Digimon's DP deletion effects' maximums.",
+  "level": "4",
+  "name": "Growlmon",
+  "nameJapanese": "グラウモン",
+  "nameTranslated": "Growmon",
+  "playCost": "5",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT19-009#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for BT19-009 (2024/09/20, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "This digivolution card has the digivolved card's digivolution card effect, which means that if the Digimon with this card as its digivolved card has a memory of either \"0 to 10 on the opponent's side\" at the time it activates the DP Deletion effect, the condition has been met.",
+        "question": "What exactly does the digivolution card's inherited effect mean \"while memory is 0 or less\"?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "This effect adds the upper limit of the value texted in the DP deletion effect. For example, \"[On Opponent's Turn] Delete one opponent's Digimon with DP3000 or less [When Digivolving]\" while \"[On Digivolving] Delete one opponent's Digimon with DP3000 or less\" is activated. will allow you to delete an opponent's Digimon with a DP of 4000 or less.",
+        "question": "What does \"DP deletion effect limit +X000\" mean?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it cannot be added. You cannot add the upper limit of the DP deletion effect for which no numerical value is texted.",
+        "question": "While the \"DP Deletion Effect Limit + X000\" effect is active, can I add an upper limit to the effect that deletes opponents' Digimon with DP less than or equal to this Digimon's DP, such as \"Deletes opponents' Digimon with DP less than or equal to this Digimon's DP.\"? Can I add an upper limit to the effect that deletes the Digimon by referring to its DP, such as \"This Digimon's DP is less than or equal to the opponent's Digimon's DP\"?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+          "text": "BT-19: Booster Xros Evolution"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      }
+    ]
+  },
+  "type": "Dark Dragon"
+}

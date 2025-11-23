@@ -1,0 +1,120 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Tsunomon]/[Gabumon]: Cost 0",
+  "attribute": "Data",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] [When Digivolving] Reveal the top 4 cards of your deck. Add 2 cards with [Garurumon] or [X Antibody] in their names among them to the hand. Place the rest at the bottom of the deck. If you added cards, trash 1 card in your hand.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Restricted to 1",
+    "korean": "Not released",
+    "nameJapanese": "Restricted to 1"
+  },
+  "cardType": "Digimon",
+  "color": "Blue / Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "1",
+      "level": "2"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "1",
+      "level": "2"
+    }
+  ],
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-015.png",
+        "imgName": "EX5-015.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/87/EX5-015.png/revision/latest?cb=20240112102923",
+        "uploadDate": "2024-01-12T10:29:23"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-015-J.png",
+        "imgName": "EX5-015-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cb/EX5-015-J.png/revision/latest?cb=20230818055402",
+        "uploadDate": "2023-08-18T05:54:02"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-015-Sample-J.png",
+        "imgName": "EX5-015-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/84/EX5-015-Sample-J.png/revision/latest?cb=20230808072855",
+        "uploadDate": "2023-08-08T07:28:55"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/87/EX5-015.png/revision/latest?cb=20240112102923",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When this Digimon with [Garurumon] or [Omnimon] in its name would be deleted in battle, by returning 2 non-Digi-Egg cards from your trash to the bottom of the deck, prevent that deletion.",
+  "level": "3",
+  "name": "Gabumon (X Antibody)",
+  "nameJapanese": "ガブモンX抗体",
+  "playCost": "3",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX5-015#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX5-015 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can. In such cases, you add as many cards to your hand as possible.",
+        "question": "Can I use this card's effect to add a card to my hand when only 1 card with [Garurumon] is among the 4 revealed cards?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. If you have cards that are targets of this effect, you must add as many cards to your hand as possible.",
+        "question": "If the 4 cards revealed for this card's effect include 1 each of a card with [Garurumon], can I choose to only add one of them to my hand, and place the remaining cards at the bottom of my deck?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "Can I use this card's effect to add 2 cards with [Garurumon] to my hand when 2 cards with [Garurumon] and 1 card with [X Antibody] are among the 4 revealed cards?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ]
+  },
+  "type": "Beast/X Antibody"
+}

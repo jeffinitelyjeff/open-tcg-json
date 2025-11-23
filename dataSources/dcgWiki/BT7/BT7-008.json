@@ -1,0 +1,154 @@
+{
+  "attribute": "Variable",
+  "blockIcon": "01",
+  "cardEffects": "[On Play] Reveal the top 4 cards of your deck. Add 1 card with the [Hybrid] trait, or [Susanoomon] or [Takuya Kanbara] among them to your hand. Place the remaining cards at the bottom of your deck in any order.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Hybrid",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-008.png",
+        "imgName": "BT7-008.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2e/BT7-008.png/revision/latest?cb=20220218130541",
+        "uploadDate": "2022-02-18T13:05:41"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-008_P1.png",
+        "imgName": "BT7-008_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6b/BT7-008_P1.png/revision/latest?cb=20220226050306",
+        "uploadDate": "2022-02-26T05:03:06"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Next_Adventure_Pre-Release_Pack",
+        "captionText": "Next Adventure Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-008_P0.png",
+        "imgName": "BT7-008_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/86/BT7-008_P0.png/revision/latest?cb=20220304175553",
+        "uploadDate": "2022-03-04T17:55:53"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-008-J.png",
+        "imgName": "BT7-008-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/74/BT7-008-J.png/revision/latest?cb=20210820091032",
+        "uploadDate": "2021-08-20T09:10:32"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-008_P1-J.png",
+        "imgName": "BT7-008_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5b/BT7-008_P1-J.png/revision/latest?cb=20210827045730",
+        "uploadDate": "2021-08-27T04:57:30"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2e/BT7-008.png/revision/latest?cb=20220218130541",
+  "inheritedEffect": "[On Deletion] You may play 1 [Takuya Kanbara] from your hand without paying its memory cost.",
+  "level": "3",
+  "name": "Flamemon",
+  "nameJapanese": "フレイモン",
+  "nameTranslated": "Flamon",
+  "playCost": "3",
+  "rarity": "Rare",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Next_Adventure_Pre-Release_Pack",
+          "text": "Next Adventure Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "type": "Wizard"
+}

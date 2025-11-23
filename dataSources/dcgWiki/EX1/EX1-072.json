@@ -1,0 +1,111 @@
+{
+  "blockIcon": "01",
+  "cardEffects": "[Main] Your opponent can't use Option cards until the end of their next turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "White",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-072.png",
+        "imgName": "EX1-072.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/95/EX1-072.png/revision/latest?cb=20211126152136",
+        "uploadDate": "2021-11-26T15:21:36"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/DP-01:_Double_Pack_Set_1",
+        "captionText": "DP-01: Double Pack Set 1 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-072_P1.png",
+        "imgName": "EX1-072_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a9/EX1-072_P1.png/revision/latest?cb=20231115171433",
+        "uploadDate": "2023-11-15T17:14:33"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-072-J.png",
+        "imgName": "EX1-072-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/50/EX1-072-J.png/revision/latest?cb=20210721041527",
+        "uploadDate": "2021-07-21T04:15:27"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/95/EX1-072.png/revision/latest?cb=20211126152136",
+  "name": "Emergency Program Shutdown!",
+  "nameJapanese": "プログラム緊急停止！",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX1-072#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX1-072 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes. An Option card’s [Security] effect is not considered to be the same thing as using an Option card, so it activates normally.",
+        "question": "I use this card, then attack my opponent. If an Option card with a [Security] effect is flipped over during the security check, does its effect activate?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes. Activating ＜Delay＞ on an Option card that was already placed in your battle area is not considered to be the same thing as using an Option card, so it activates normally.",
+        "question": "My opponent uses this card and passes the turn back to me. Can I activate ＜Delay＞ on an Option card that was already placed in my battle area?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Your opponent can't use Option cards this turn. Then, add this card to its owner's hand.",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-01: Extra Booster",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/DP-01:_Double_Pack_Set_1",
+          "text": "DP-01: Double Pack Set 1"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "simplifiedChinese": "程序紧急停止！",
+  "traditionalChinese": "程式緊急停止！",
+  "useCost": "3"
+}

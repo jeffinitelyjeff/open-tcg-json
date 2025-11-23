@@ -1,0 +1,135 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Cerberusmon]: Cost 1",
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[When Digivolving] You may play 1 level 3 blue or purple Digimon card from your trash or from one of your Digimon's digivolution cards without paying the cost. At the next end of your opponent's turn, return it to the hand.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue / Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-025.png",
+        "imgName": "BT17-025.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f3/BT17-025.png/revision/latest?cb=20240720075634",
+        "uploadDate": "2024-07-20T07:56:34"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Secret_Crisis",
+        "captionText": "Pre-Release Pack Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-025_P0.png",
+        "imgName": "BT17-025_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/01/BT17-025_P0.png/revision/latest?cb=20240727082207",
+        "uploadDate": "2024-07-27T08:22:07"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-025-J.png",
+        "imgName": "BT17-025-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9e/BT17-025-J.png/revision/latest?cb=20240322064310",
+        "uploadDate": "2024-03-22T06:43:10"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-025-Sample-J.png",
+        "imgName": "BT17-025-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a0/BT17-025-Sample-J.png/revision/latest?cb=20240224090120",
+        "uploadDate": "2024-02-24T09:01:20"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f3/BT17-025.png/revision/latest?cb=20240720075634",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When an effect plays one of your Digimon, return 1 of your opponent's level 3 Digimon to the hand.",
+  "level": "5",
+  "name": "Cerberusmon: Werewolf Mode",
+  "nameJapanese": "ケルベロモン：人狼モード",
+  "playCost": "7",
+  "rarity": "Uncommon",
+  "rule": "[Rule] Trait: Has [Dark Animal] Type.",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT17-025#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT17-025 (Sep. 6, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it's returned. In such cases, only the top card is returned to the hand. All digivolution cards are trashed.",
+        "question": "The Digimon played using this card's effect digivolved. Is that Digimon returned to the hand at the end of my opponent's turn?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you don't.",
+        "question": "If I use this card's effect to play a Digimon, then it's sent to the trash, do I return that Digimon card from my trash to the hand at the end of my opponent's turn?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Secret_Crisis",
+          "text": "Pre-Release Pack Secret Crisis"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ]
+  },
+  "type": "Wizard"
+}

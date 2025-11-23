@@ -1,0 +1,156 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Bibimon]: Cost 0",
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[Start of Your Main Phase] By placing 1 [Leon Alexander] from your hand as this Digimon's bottom digivolution card, if you have 3 or more security cards, gain 1 memory. If you have 2 or fewer security cards, ＜Recovery +1 (Deck)＞ (Place the top card of your deck on top of your security stack.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow / Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "1",
+      "level": "2"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "1",
+      "level": "2"
+    }
+  ],
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-030.png",
+        "imgName": "BT17-030.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/03/BT17-030.png/revision/latest?cb=20240705214737",
+        "uploadDate": "2024-07-05T21:47:37"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-030_P1.png",
+        "imgName": "BT17-030_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4b/BT17-030_P1.png/revision/latest?cb=20240720075634",
+        "uploadDate": "2024-07-20T07:56:34"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-030-J.png",
+        "imgName": "BT17-030-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fc/BT17-030-J.png/revision/latest?cb=20240322064310",
+        "uploadDate": "2024-03-22T06:43:10"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-030-Sample-J.png",
+        "imgName": "BT17-030-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/32/BT17-030-Sample-J.png/revision/latest?cb=20240229150641",
+        "uploadDate": "2024-02-29T15:06:41"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-030_P1-J.png",
+        "imgName": "BT17-030_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/32/BT17-030_P1-J.png/revision/latest?cb=20240329090654",
+        "uploadDate": "2024-03-29T09:06:54"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-030_P1-Sample-J.png",
+        "imgName": "BT17-030_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e4/BT17-030_P1-Sample-J.png/revision/latest?cb=20240321065012",
+        "uploadDate": "2024-03-21T06:50:12"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/03/BT17-030.png/revision/latest?cb=20240705214737",
+  "inheritedEffect": "[All Turns] While this Digimon has [Pulsemon] in its text, it gets +1000 DP.",
+  "level": "3",
+  "name": "Pulsemon",
+  "nameJapanese": "パルスモン",
+  "playCost": "3",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT17-030#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT17-030 (Sep. 6, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can't.  If you don't perform the action specified for \"by X\" in such an effect, the rest of the effect won't activate.",
+        "question": "If I have 2 or fewer security cards, can I use this card's [Start of Your Main Phase] effect to activate <Recovery +1 (Deck)> even if I don't place 1 [Leon Alexander] from my hand as this Digimon's bottom digivolution card?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "type": "Beastkin/Abadin Electronics"
+}

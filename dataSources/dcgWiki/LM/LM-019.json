@@ -1,0 +1,92 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] Reveal the top 4 cards of your deck. Add 1 card with [Gammamon] in its text among them to the hand. Return the rest to the bottom of the deck.\n[All Turns] When one of your Digimon with [Gammamon] in its text, other than [Bokomon], would leave the battle area other than by one of your effects, by deleting this Digimon, prevent it from leaving.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "White",
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:LM-019.png",
+        "imgName": "LM-019.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/00/LM-019.png/revision/latest?cb=20240209090310",
+        "uploadDate": "2024-02-09T09:03:10"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack:_Exceed_Apocalypse",
+        "captionText": "Pre-Release Pack: Exceed Apocalypse (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:LM-019_P0.png",
+        "imgName": "LM-019_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a3/LM-019_P0.png/revision/latest?cb=20240211092410",
+        "uploadDate": "2024-02-11T09:24:10"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-01:_Limited_Card_Pack_Digimon_Ghost_Game",
+        "captionText": "LM-01: Limited Card Pack Digimon Ghost Game (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:LM-019-J.png",
+        "imgName": "LM-019-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f9/LM-019-J.png/revision/latest?cb=20230805022342",
+        "uploadDate": "2023-08-05T02:23:42"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/00/LM-019.png/revision/latest?cb=20240209090310",
+  "level": "3",
+  "name": "Bokomon",
+  "nameJapanese": "ボコモン",
+  "playCost": "3",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=LM-019#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for LM-019 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.",
+        "question": "Can I use this card's [All Turns] effect to delete this Digimon and prevent my Digimon with [Gammamon] in its text from leaving the battle area when this Digimon and my Digimon with [Gammamon] would leave the battle area at the same time due to a single effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+          "text": "BT-15: Booster Exceed Apocalypse"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-01:_Limited_Card_Pack_Digimon_Ghost_Game",
+          "text": "LM-01: Limited Card Pack Digimon Ghost Game"
+        },
+        "foil&Rarity": "Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "simplifiedChinese": "波高兽",
+  "traditionalChinese": "波高獸",
+  "type": "Mutant"
+}

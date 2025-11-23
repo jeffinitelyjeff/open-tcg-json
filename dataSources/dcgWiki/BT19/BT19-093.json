@@ -1,0 +1,87 @@
+{
+  "blockIcon": "04",
+  "cardEffects": "While you don't have [Queen Device] in the battle area, you may ignore this card's color requirements.\nWhen this card is trashed from the battle area, until the end of your opponent's turn, 1 of their Digimon can't activate [When Digivolving] effects and gets -3000 DP.\n[Main] Until the end of your opponent's turn, 1 of their Digimon can't activate [When Digivolving] effects and gets -3000 DP. Then, place this card in the battle area.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Yellow",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-093.png",
+        "imgName": "BT19-093.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/87/BT19-093.png/revision/latest?cb=20250207065733",
+        "uploadDate": "2025-02-07T06:57:33"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-093-J.png",
+        "imgName": "BT19-093-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/ae/BT19-093-J.png/revision/latest?cb=20240920100602",
+        "uploadDate": "2024-09-20T10:06:02"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-093-Sample-J.png",
+        "imgName": "BT19-093-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bb/BT19-093-Sample-J.png/revision/latest?cb=20240821064427",
+        "uploadDate": "2024-08-21T06:44:27"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/87/BT19-093.png/revision/latest?cb=20250207065733",
+  "name": "Queen Device",
+  "nameJapanese": "クイーン・デヴァイス",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT19-093#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for BT19-093 (2024/09/20, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "The second effect is activated, until the end of that opponent's turn.",
+        "question": "If this card in the Battle Area is trashed during my opponent's turn, how long will the second effect of this card be given?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Give 2 of your opponent's Digimon ＜Security A. -2＞ (This Digimon checks 2 fewer security cards.) for the turn. Then, add this card to the hand.",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+          "text": "BT-19: Booster Xros Evolution"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "type": "Device",
+  "useCost": "3"
+}

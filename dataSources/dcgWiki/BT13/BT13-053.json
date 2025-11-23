@@ -1,0 +1,131 @@
+{
+  "attribute": "Data",
+  "blockIcon": "02",
+  "cardEffects": "[On Play] Suspend 1 of your opponent's Digimon with 7000 DP or less. Then, until the end of your opponent's turn, 1 of your opponent's Digimon doesn't unsuspend.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-053.png",
+        "imgName": "BT13-053.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/52/BT13-053.png/revision/latest?cb=20230714185528",
+        "uploadDate": "2023-07-14T18:55:28"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Royal_Knights_Pre-Release_Pack",
+        "captionText": "Royal Knights Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-053_P0.png",
+        "imgName": "BT13-053_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0d/BT13-053_P0.png/revision/latest?cb=20230714195906",
+        "uploadDate": "2023-07-14T19:59:06"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-053-J.png",
+        "imgName": "BT13-053-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c2/BT13-053-J.png/revision/latest?cb=20230217122641",
+        "uploadDate": "2023-02-17T12:26:41"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-053-Sample-J.png",
+        "imgName": "BT13-053-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e2/BT13-053-Sample-J.png/revision/latest?cb=20230202090135",
+        "uploadDate": "2023-02-02T09:01:35"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/52/BT13-053.png/revision/latest?cb=20230714185528",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When this Digimon would digivolve, reduce the digivolution cost by 1.",
+  "level": "5",
+  "name": "Mihiramon",
+  "nameJapanese": "ミヒラモン",
+  "playCost": "7",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT13-053#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT13-053 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.",
+        "question": "Can I choose different Digimon for the Digimon to suspend and the Digimon that doesn't unsuspend until the end of my opponent's turn for this card's [On Play] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.  However, this effect only prevents the target Digimon from unsuspending until the end of your opponent's turn. It doesn't suspend the target Digimon.",
+        "question": "Can I choose one of my opponent's unsuspended Digimon for \"until the end of your opponent's turn, 1 of your opponent's Digimon doesn't unsuspend\" in this card's [On Play] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "Can I choose a Digimon other than a Digimon with 7000 DP or less when choosing the Digimon that doesn't unsuspend until the end of my opponent's turn for this card's [On Play] effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Royal_Knights_Pre-Release_Pack",
+          "text": "Royal Knights Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ]
+  },
+  "type": "Holy Beast/Deva"
+}

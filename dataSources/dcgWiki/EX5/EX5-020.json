@@ -1,0 +1,167 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Night Claw]/[Light Fang] trait: Cost 3",
+  "attribute": "Data",
+  "blockIcon": "03",
+  "cardEffects": "When this card would be played or digivolved into, if you have a Digimon with 3 or more digivolution cards and the [Night Claw], [Light Fang] or [Galaxy] trait, reduce the play or digivolution cost by 2.\n[On Play] [When Digivolving] Until the end of your opponent's turn, 1 of their Digimon can't suspend.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "3",
+      "level": "4"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-020.png",
+        "imgName": "EX5-020.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/79/EX5-020.png/revision/latest?cb=20240112102923",
+        "uploadDate": "2024-01-12T10:29:23"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Regionals_2024_Participation_Set_1",
+        "captionText": "Regionals 2024 Participation Set 1 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-020_P1.png",
+        "imgName": "EX5-020_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/42/EX5-020_P1.png/revision/latest?cb=20240707115834",
+        "uploadDate": "2024-07-07T11:58:34"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Regionals_2024_Finalist_Set_1",
+        "captionText": "Regionals 2024 Finalist Set 1 (Top 32 & Top 8 Prize) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-020_P2.png",
+        "imgName": "EX5-020_P2.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/41/EX5-020_P2.png/revision/latest?cb=20240707115834",
+        "uploadDate": "2024-07-07T11:58:34"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Regionals_2024_Champion_Set_1",
+        "captionText": "Regionals 2024 Champion Set 1 (Top 2 & 1st Place Prize) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-020_P3.png",
+        "imgName": "EX5-020_P3.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f6/EX5-020_P3.png/revision/latest?cb=20240707115833",
+        "uploadDate": "2024-07-07T11:58:33"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-020-J.png",
+        "imgName": "EX5-020-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6f/EX5-020-J.png/revision/latest?cb=20230818055403",
+        "uploadDate": "2023-08-18T05:54:03"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-020-Sample-J.png",
+        "imgName": "EX5-020-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/47/EX5-020-Sample-J.png/revision/latest?cb=20230811090723",
+        "uploadDate": "2023-08-11T09:07:23"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/79/EX5-020.png/revision/latest?cb=20240112102923",
+  "inheritedEffect": "[Opponent's Turn] This Digimon gets +2000 DP.",
+  "level": "5",
+  "name": "Crescemon",
+  "nameJapanese": "クレシェモン",
+  "playCost": "7",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX5-020#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX5-020 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, it isn't.  This card's effect reads \"when this card would be [...] digivolved into,\" therefore the effect doesn't activate for digivolutions from this card.",
+        "question": "If this Digimon has 3 or more digivolution cards and I have a Digimon with the [Night Claw], [Light Fang] or [Galaxy] trait, is the digivolution cost still reduced by 2 when digivolving this Digimon into a Digimon card in my hand?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Regionals_2024_Participation_Set_1",
+          "text": "Regionals 2024 Participation Set 1"
+        },
+        "foil&Rarity": "Foil - Participation Stamp - Participation",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Regionals_2024_Finalist_Set_1",
+          "text": "Regionals 2024 Finalist Set 1"
+        },
+        "foil&Rarity": "Foil - Finalist Stamp - Top 32 Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Regionals_2024_Champion_Set_1",
+          "text": "Regionals 2024 Champion Set 1"
+        },
+        "foil&Rarity": "Foil - Champion Stamp - Top 2 Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ]
+  },
+  "type": "Wizard/Night Claw"
+}

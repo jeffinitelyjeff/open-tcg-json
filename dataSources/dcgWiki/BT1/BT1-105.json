@@ -1,0 +1,182 @@
+{
+  "blockIcon": "00",
+  "cardEffects": "[Main] Change the original DP of 1 of your opponent's Digimon to 3000 until the end of your opponent's next turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Yellow",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BTC-01:_Booster_Ultimate_Evolution",
+        "captionText": "BTC-01: Booster Ultimate Evolution (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-105-C.png",
+        "imgName": "BT1-105-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3e/BT1-105-C.png/revision/latest?cb=20230828235000",
+        "uploadDate": "2023-08-28T23:50:00"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+        "captionText": "BT01-03: Release Special Booster Ver.1.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-105.png",
+        "imgName": "BT1-105.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2c/BT1-105.png/revision/latest?cb=20201212014812",
+        "uploadDate": "2020-12-12T01:48:12"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-01:_Booster_New_Evolution",
+        "captionText": "BT-01: Booster New Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-105-J.png",
+        "imgName": "BT1-105-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d3/BT1-105-J.png/revision/latest?cb=20201213121535",
+        "uploadDate": "2020-12-13T12:15:35"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+        "captionText": "BT01-03: Release Special Booster Ver.1.0 (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-105-K.png",
+        "imgName": "BT1-105-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/99/BT1-105-K.png/revision/latest?cb=20230814075433",
+        "uploadDate": "2023-08-14T07:54:33"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2c/BT1-105.png/revision/latest?cb=20201212014812",
+  "korean": "블래스트 화이어",
+  "name": "Blast Fire",
+  "nameJapanese": "ブラストファイア",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT1-105#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT1-105 (Mar. 28, 2024)"
+      },
+      {
+        "link": "https://media.discordapp.net/attachments/749146995708395601/826623496401453076/unknown.png",
+        "num": 2,
+        "text": "English Carddass Email: Double Change original DP (Mar. 31, 2021)"
+      },
+      {
+        "link": "https://media.discordapp.net/attachments/690591026691440660/855420566052012082/unknown.png?width=1440&height=138",
+        "num": 3,
+        "text": "English Carddass Email: Eldradimon vs. Blast Fire (Jul. 5, 2021)"
+      },
+      {
+        "link": "https://cdn.discordapp.com/attachments/974658092467908698/1017757069497081926/unknown.png",
+        "num": 4,
+        "text": "English Carddass Email: Set Digi-Egg DP (Sep. 13, 2022)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "The DP value printed on a card is its original DP. This card's effect temporarily allows you to treat the DP value printed on an opponent's Digimon as if it were 3000.",
+        "question": "What does \"original DP\" refer to?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, when a Digimon's DP becomes 0, it's deleted.",
+        "question": "I use this card's effect to change the original DP of an opponent's Digimon to 3000. I then use [ST3-11 Seraphimon]'s effect to give an opponent's Digimon -4000 DP. If the opponent's Digimon drops to 0 DP, is it deleted?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, effects that increase or decrease DP work as normal, raising the Digimon's DP to 6000.",
+        "question": "This card's effect has set a Digimon's original DP to 3000. If [ST1-13 Shadow Wing] is used to give that Digimon +3000 DP, is its DP now 6000?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, its original DP becomes 3000. 3000 DP and 1000 DP (from the effect) add up to 4000 DP.",
+        "question": "If I use this card's effect on a Digimon that's already getting +1000 DP from an effect, does its DP become 3000?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Even after digivolving, the Digimon's DP is treated as 3000 until the end of the turn.",
+        "question": "I digivolve a Digimon while this card's effect is active. What happens to the Digimon's DP?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "The effect that was used last takes precedence.",
+        "question": "If I set a Digimon's original DP with this card, and then use another card to set its original DP again. What happens?",
+        "reference": "[2]"
+      },
+      {
+        "answer": "Yes, the effect prevents the reduction of DP. But it does not prevent its original DP from being set to another number.",
+        "question": "Can I use [BT1-105 Blast Fire] to decrease the DP of a Digimon with \"DP cannot be reduced\"?",
+        "reference": "[3]"
+      },
+      {
+        "answer": "No, the Level 2 Digimon has no DP and so its DP can't be changed and it will still be trashed.",
+        "question": "If after using this card's effect to set my opponent's Digimon's DP to 3000 and it gets ＜De-Digivolve＞ and becomes a Level 2 Digimon with no DP. Does this card's effect set the Level 2 Digimon's DP to 3000 and stop it from being trashed?",
+        "reference": "[4]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BTC-01:_Booster_Ultimate_Evolution",
+          "text": "BTC-01: Booster Ultimate Evolution"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:MATSUMOTO_EIGHT",
+          "text": "MATSUMOTO EIGHT"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+          "text": "BT01-03: Release Special Booster Ver.1.0"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:MATSUMOTO_EIGHT",
+          "text": "MATSUMOTO EIGHT"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-01:_Booster_New_Evolution",
+          "text": "BT-01: Booster New Evolution"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:MATSUMOTO_EIGHT",
+          "text": "MATSUMOTO EIGHT"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+          "text": "BT01-03: Release Special Booster Ver.1.0"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:MATSUMOTO_EIGHT",
+          "text": "MATSUMOTO EIGHT"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "爆风火焰",
+  "traditionalChinese": "爆風火焰",
+  "useCost": "4"
+}

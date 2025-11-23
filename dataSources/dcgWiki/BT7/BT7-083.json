@@ -1,0 +1,140 @@
+{
+  "attribute": "Data",
+  "blockIcon": "01",
+  "cardEffects": "[On Play] You may place 1 [Sistermon Ciel] from your hand or trash at the bottom of this Digimon's digivolution cards to delete 1 of your opponent's Digimon with a play cost of 5 or less.\n[On Deletion] Return 1 card with [Jesmon], [Huckmon] or [Sistermon] in its name other than [Sistermon Ciel (Awakened)] from your trash to your hand.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "White",
+  "digivolutionRequirements": {
+    "color": "White",
+    "digivolveCost": "2",
+    "level": "4"
+  },
+  "dp": "6000 DP",
+  "errata": null,
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-083.png",
+        "imgName": "BT7-083.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/82/BT7-083.png/revision/latest?cb=20231228211228",
+        "uploadDate": "2023-12-28T21:12:28"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Next_Adventure_Pre-Release_Pack",
+        "captionText": "Next Adventure Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-083_P0.png",
+        "imgName": "BT7-083_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5f/BT7-083_P0.png/revision/latest?cb=20220304175602",
+        "uploadDate": "2022-03-04T17:56:02"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-083-J.png",
+        "imgName": "BT7-083-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5b/BT7-083-J.png/revision/latest?cb=20210820091103",
+        "uploadDate": "2021-08-20T09:11:03"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/82/BT7-083.png/revision/latest?cb=20231228211228",
+  "level": "4",
+  "name": "Sistermon Ciel (Awakened)",
+  "nameJapanese": "シスタモン シエル（覚醒）",
+  "nameTranslated": "Sistermon Ciel (Awake)",
+  "playCost": "6",
+  "rarity": "Rare",
+  "rule": "[Rule] Also has Name: [Sistermon Noir (Awakened)] and Trait: [Virus] Attribute.",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT7-083#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT7-083 (Mar. 28, 2024)"
+      },
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT7-083#qaResult_card",
+        "num": 2,
+        "text": "Official English Q&A for BT7-083 (Sep. 13, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can't. This effect can only place [Sistermon Ciel].",
+        "question": "Can I place a [Sistermon Ciel (Awakened)] from my hand or trash at the bottom of this Digimon's digivolution cards with this card's [On Play] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes. Those cards have [Huckmon] and/or [Sistermon], so you can add one of them to your hand.",
+        "question": "Can this card's [On Deletion] effect return [BaoHuckmon], [SaviorHuckmon], or [Sistermon Blanc (Awakened)] from my trash to my hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "This is a special rule for this card that always treats it as if it also has the name [Sistermon Noir (Awakened)] and the [Virus] trait.",
+        "question": "What does this card's (Rule) mean, exactly?  (*This card's \"Also treated as Name: [Sistermon Noir (Awakened)] and \"Also treated as Trait: [Virus]\" have been changed to \"(Rule) Also treated as Name: [Sistermon Noir (Awakened)] and Trait: [Virus]\") \"",
+        "reference": "[2]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Next_Adventure_Pre-Release_Pack",
+          "text": "Next Adventure Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ]
+  },
+  "type": "Puppet"
+}

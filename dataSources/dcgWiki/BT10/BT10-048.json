@@ -1,0 +1,164 @@
+{
+  "attribute": "Data",
+  "blockIcon": "02",
+  "cardEffects": "[When Digivolving] By suspending 1 of your green Digimon, you may play 1 Digimon card with [Vegetation], [Plant] or [Fairy] in any of its traits and 3000 DP or less from your hand without paying its play cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "3000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-048.png",
+        "imgName": "BT10-048.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2c/BT10-048.png/revision/latest?cb=20221007210715",
+        "uploadDate": "2022-10-07T21:07:15"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Event_Pack_5",
+        "captionText": "Event Pack 5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-048_P1.png",
+        "imgName": "BT10-048_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/eb/BT10-048_P1.png/revision/latest?cb=20230713124239",
+        "uploadDate": "2023-07-13T12:42:39"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Final_Championships_2023_Tamers_Pack",
+        "captionText": "Final Championships 2023 Tamers Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-048_P2.png",
+        "imgName": "BT10-048_P2.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/db/BT10-048_P2.png/revision/latest?cb=20231031021735",
+        "uploadDate": "2023-10-31T02:17:35"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-048-J.png",
+        "imgName": "BT10-048-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c6/BT10-048-J.png/revision/latest?cb=20231030185834",
+        "uploadDate": "2023-10-30T18:58:34"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Official_Deck_Box_Set_2023",
+        "captionText": "Official Deck Box Set 2023 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-048_P1-J.png",
+        "imgName": "BT10-048_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b9/BT10-048_P1-J.png/revision/latest?cb=20230727003525",
+        "uploadDate": "2023-07-27T00:35:25"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2c/BT10-048.png/revision/latest?cb=20221007210715",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When an effect suspends one of your Digimon, ＜Draw 1＞ (Draw 1 card from your deck.)",
+  "korean": "해바라기몬",
+  "level": "4",
+  "name": "Sunflowmon",
+  "nameJapanese": "サンフラウモン",
+  "playCost": "4",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT10-048#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT10-048 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can't. The Digimon is suspended by <Digisorption> before the digivolution is complete, so the inherited effect cannot be triggered yet.",
+        "question": "I digivolve this card into a card that has <Digisorption> in my hand, and suspend 1 of my Digimon with the <Digisorption> effect. Can I activate this card's inherited effect and ＜Draw 1＞?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Event_Pack_5",
+          "text": "Event Pack 5"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Final_Championships_2023_Tamers_Pack",
+          "text": "Final Championships 2023 Tamers Pack"
+        },
+        "foil&Rarity": "Foil - Championship Stamp - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Official_Deck_Box_Set_2023",
+          "text": "Official Deck Box Set 2023"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "向日葵兽",
+  "traditionalChinese": "向日葵獸",
+  "type": "Vegetation"
+}

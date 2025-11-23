@@ -1,0 +1,179 @@
+{
+  "attribute": "Data",
+  "blockIcon": "00",
+  "cardEffects": "[All Turns] When a level 4 or lower Digimon is played, suspend it.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "4",
+    "level": "5"
+  },
+  "dp": "12000 DP",
+  "errata": [
+    {
+      "afterImageURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7e/BT4-060-J.png/revision/latest?cb=20201218200941",
+      "afterText": "【お互いのターン】Lv.4以下のデジモンが登場したとき、そのデジモンをレストさせる。",
+      "beforeText": "【お互いのターン】Lv.4以下の、自分のデジモンか相手のデジモンが登場したとき、そのデジモンをレストさせる。"
+    }
+  ],
+  "form": "Mega",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+        "captionText": "BTC-02: Booster Digital Impact (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-060-C.png",
+        "imgName": "BT4-060-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c0/BT4-060-C.png/revision/latest?cb=20231120152629",
+        "uploadDate": "2023-11-20T15:26:29"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-060.png",
+        "imgName": "BT4-060.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/87/BT4-060.png/revision/latest?cb=20210430125211",
+        "uploadDate": "2021-04-30T12:52:11"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Great_Legend_Pre-Release_Pack",
+        "captionText": "Great Legend Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-060_P0.png",
+        "imgName": "BT4-060_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cc/BT4-060_P0.png/revision/latest?cb=20220306110324",
+        "uploadDate": "2022-03-06T11:03:24"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-060-J.png",
+        "imgName": "BT4-060-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7e/BT4-060-J.png/revision/latest?cb=20201218200941",
+        "uploadDate": "2020-12-18T20:09:41"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-060-K.png",
+        "imgName": "BT4-060-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/08/BT4-060-K.png/revision/latest?cb=20230815132636",
+        "uploadDate": "2023-08-15T13:26:36"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/87/BT4-060.png/revision/latest?cb=20210430125211",
+  "korean": "로터스몬",
+  "level": "6",
+  "name": "Lotosmon",
+  "nameJapanese": "ロトスモン",
+  "nameTranslated": "Lotusmon",
+  "playCost": "11",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT4-060#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT4-060 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, as long as it's a level 4 or lower Digimon, you can suspend it -- including your own Digimon.",
+        "question": "Can I use this card's effect to suspend one my own Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, digivolving doesn't count as the card being played, so you can't suspend it.",
+        "question": "Can I use this card's effect to suspend a level 4 Digimon when it Digivolves?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. Moving from the breeding area doesn't count as the card being played, so you can't suspend it.",
+        "question": "Can I use this card's effect to suspend a level 4 or lower Digimon when it moves from the breeding area to the battle area?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+          "text": "BTC-02: Booster Digital Impact"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Great_Legend_Pre-Release_Pack",
+          "text": "Great Legend Pre-Release Pack"
+        },
+        "foil&Rarity": "No Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "莲花兽",
+  "traditionalChinese": "蓮花獸",
+  "type": "Fairy"
+}

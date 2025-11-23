@@ -1,0 +1,162 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "02",
+  "cardEffects": "[On Play] Reveal the top 3 cards of your deck. Add 1 yellow Digimon card with the [Vaccine] trait trait and 1 yellow Tamer card among them to your hand. Place the rest at the bottom of your deck in any order.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-034.png",
+        "imgName": "BT13-034.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/12/BT13-034.png/revision/latest?cb=20230714185527",
+        "uploadDate": "2023-07-14T18:55:27"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Royal_Knights_Pre-Release_Pack",
+        "captionText": "Royal Knights Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-034_P0.png",
+        "imgName": "BT13-034_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6f/BT13-034_P0.png/revision/latest?cb=20230714195735",
+        "uploadDate": "2023-07-14T19:57:35"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Judge_Pack_5",
+        "captionText": "Judge Pack 5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-034_P1.png",
+        "imgName": "BT13-034_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/40/BT13-034_P1.png/revision/latest?cb=20240707122055",
+        "uploadDate": "2024-07-07T12:20:55"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-034-J.png",
+        "imgName": "BT13-034-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/16/BT13-034-J.png/revision/latest?cb=20230217122642",
+        "uploadDate": "2023-02-17T12:26:42"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-02:_Limited_Card_Pack_DeathXmon",
+        "captionText": "LM-02: Limited Card Pack DeathXmon (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-034_P1-J.png",
+        "imgName": "BT13-034_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8d/BT13-034_P1-J.png/revision/latest?cb=20231110181520",
+        "uploadDate": "2023-11-10T18:15:20"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-034-Sample-J.png",
+        "imgName": "BT13-034-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/20/BT13-034-Sample-J.png/revision/latest?cb=20230124052731",
+        "uploadDate": "2023-01-24T05:27:31"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/12/BT13-034.png/revision/latest?cb=20230714185527",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] If the total cards in both players' security stacks is 6 or less, 1 of your opponent's Digimon gets -2000 DP for the turn.",
+  "korean": "쿠다몬",
+  "level": "3",
+  "name": "Kudamon",
+  "nameJapanese": "クダモン",
+  "playCost": "3",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT13-034#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT13-034 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "It means the total number of cards in both you and your opponent's security stacks. For example, if you have 3 cards in your security stack and your opponent has 2 cards in their security stack, the total security cards will be 5 cards.",
+        "question": "What does \"the total cards in both players' security stacks\" in this card's inherited effect mean?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tsunemi_Aosa",
+          "text": "Tsunemi Aosa"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Royal_Knights_Pre-Release_Pack",
+          "text": "Royal Knights Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tsunemi_Aosa",
+          "text": "Tsunemi Aosa"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Judge_Pack_5",
+          "text": "Judge Pack 5"
+        },
+        "foil&Rarity": "Foil - Judge Stamp - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tsunemi_Aosa",
+          "text": "Tsunemi Aosa"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tsunemi_Aosa",
+          "text": "Tsunemi Aosa"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-02:_Limited_Card_Pack_DeathXmon",
+          "text": "LM-02: Limited Card Pack DeathXmon"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tsunemi_Aosa",
+          "text": "Tsunemi Aosa"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "管狐兽",
+  "traditionalChinese": "管狐獸",
+  "type": "Holy Beast"
+}

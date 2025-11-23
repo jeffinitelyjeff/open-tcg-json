@@ -1,0 +1,158 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "01",
+  "cardEffects": "[On Play] If you have a Tamer in play, gain 2 memory. If you don't have a Tamer, you may play 1 red Tamer card from your hand without paying its memory cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-013.png",
+        "imgName": "BT7-013.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/66/BT7-013.png/revision/latest?cb=20220218130544",
+        "uploadDate": "2022-02-18T13:05:44"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-013_P1.png",
+        "imgName": "BT7-013_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b1/BT7-013_P1.png/revision/latest?cb=20220226050307",
+        "uploadDate": "2022-02-26T05:03:07"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-013-J.png",
+        "imgName": "BT7-013-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1e/BT7-013-J.png/revision/latest?cb=20210820091034",
+        "uploadDate": "2021-08-20T09:10:34"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-013_P1-J.png",
+        "imgName": "BT7-013_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/96/BT7-013_P1-J.png/revision/latest?cb=20210827045732",
+        "uploadDate": "2021-08-27T04:57:32"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/66/BT7-013.png/revision/latest?cb=20220218130544",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When one of your opponent's Digimon is deleted, gain 1 memory.",
+  "korean": "메탈그레이몬",
+  "level": "5",
+  "name": "MetalGreymon",
+  "nameJapanese": "メタルグレイモン",
+  "playCost": "7",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT7-013#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT7-013 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. If you play this card with no Tamers in play, you only get to play 1 red Tamer card from your hand.",
+        "question": "If I play this card while I have no Tamers in play, and play a red Tamer from my hand with this card's effect, do I then also gain 2 memory from this effect since I now have a Tamer in play?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. Even if multiple Digimon are deleted, if they were deleted by a single effect, you only gain 1 memory.",
+        "question": "If I delete 2 or more of my opponent’s Digimon at the same time, does this card’s inherited effect allow me to gain 1 memory for each Digimon deleted?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      },
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "机械暴龙兽",
+  "traditionalChinese": "機械暴龍獸",
+  "type": "Cyborg"
+}

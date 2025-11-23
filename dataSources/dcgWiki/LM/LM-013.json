@@ -1,0 +1,88 @@
+{
+  "ace": "Overflow ＜-4＞ (As this card moves from the field or under a card to an area other than those, lose 4 memory.)",
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[Hand] [Counter] ＜Blast Digivolve＞ (Your Digimon may digivolve into this card without paying the cost.)\n[On Play] [When Digivolving] Suspend 1 of your opponent's Digimon. Then, if they have no unsuspended Digimon, gain 2 memory.\n[When Attacking] You may play 1 Digimon card with [Angoramon] in its text from your hand without paying the cost. At the end of your opponent's turn, return that Digimon to the hand.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "3",
+    "level": "5"
+  },
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:LM-013.png",
+        "imgName": "LM-013.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/07/LM-013.png/revision/latest?cb=20240209090313",
+        "uploadDate": "2024-02-09T09:03:13"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-01:_Limited_Card_Pack_Digimon_Ghost_Game",
+        "captionText": "LM-01: Limited Card Pack Digimon Ghost Game (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:LM-013-J.png",
+        "imgName": "LM-013-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b1/LM-013-J.png/revision/latest?cb=20230805020411",
+        "uploadDate": "2023-08-05T02:04:11"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/07/LM-013.png/revision/latest?cb=20240209090313",
+  "level": "6",
+  "name": "Diarbbitmon",
+  "nameJapanese": "ディルビットモン",
+  "playCost": "6",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=LM-013#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for LM-013 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "The top card is returned to the hand and all of the cards under it are trashed.",
+        "question": "I used this card's [When Attacking] effect to play a Digimon card with [Angoramon] in its text. What happens if it digivolves and has a card on top of it at the end of my opponent's turn?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+          "text": "BT-15: Booster Exceed Apocalypse"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-01:_Limited_Card_Pack_Digimon_Ghost_Game",
+          "text": "LM-01: Limited Card Pack Digimon Ghost Game"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "type": "Beast Knight"
+}

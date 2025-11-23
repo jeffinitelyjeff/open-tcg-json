@@ -1,0 +1,113 @@
+{
+  "blockIcon": "03",
+  "cardEffects": "[Security] Play this card without paying the cost.\n[Start of Your Turn] If you have 2 or less memory, set it to 3.\n[Main] ＜Mind Link＞ to 1 of your Digimon with the [Dark Animal] or [SoC] trait. (Place this Tamer as that Digimon's bottom digivolution card if there are no Tamer cards in its digivolution cards.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Not released"
+  },
+  "cardType": "Tamer",
+  "color": "Purple",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-091.png",
+        "imgName": "BT17-091.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0f/BT17-091.png/revision/latest?cb=20240705214737",
+        "uploadDate": "2024-07-05T21:47:37"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Secret_Crisis",
+        "captionText": "Pre-Release Pack Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-091_P0.png",
+        "imgName": "BT17-091_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1c/BT17-091_P0.png/revision/latest?cb=20240727082047",
+        "uploadDate": "2024-07-27T08:20:47"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Judge_Pack_6",
+        "captionText": "Judge Pack 6 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-091_P1.png",
+        "imgName": "BT17-091_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9f/BT17-091_P1.png/revision/latest?cb=20240830171120",
+        "uploadDate": "2024-08-30T17:11:20"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-091-J.png",
+        "imgName": "BT17-091-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/73/BT17-091-J.png/revision/latest?cb=20240322062944",
+        "uploadDate": "2024-03-22T06:29:44"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0f/BT17-091.png/revision/latest?cb=20240705214737",
+  "inheritedEffect": "[All Turns] While this Digimon has the [Dark Animal] or [SoC] trait, it gains ＜Alliance＞  (When this Digimon attacks, by suspending 1 of your other Digimon, add the suspended Digimon's DP to this Digimon and it gains ＜Security A. +1＞ for the attack.) and ＜Blocker＞ (This Digimon can block in the blocker timing.)\n[End of All Turns] You may play 1 [Eiji Nagasumi] from this Digimon's digivolution cards without paying the cost.",
+  "name": "Code Cracker Fang",
+  "nameJapanese": "クラッカー・ファング",
+  "nameTranslated": "Cracker Fang",
+  "playCost": "4",
+  "rarity": "Uncommon",
+  "rule": "[Rule] Name: Also treated as [Eiji Nagasumi].",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT17-091#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT17-091 (Sep. 6, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.",
+        "question": "Can I use the [End of All Turns] effect in this card's inherited effect to play this card itself when this card is in a Digimon's digivolution cards?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Secret_Crisis",
+          "text": "Pre-Release Pack Secret Crisis"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Judge_Pack_6",
+          "text": "Judge Pack 6"
+        },
+        "foil&Rarity": "Foil - Judge Stamp - Alternative Art",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "type": "SoC"
+}

@@ -1,0 +1,115 @@
+{
+  "blockIcon": "01",
+  "cardEffects": "[On Play] Reveal the top 3 cards of your deck. Add 1 card with the [D-Reaper] trait and 1 [ADR-02 Searcher] among them to your hand. Place the remaining cards on the bottom of your deck in any order.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "White",
+  "dp": "3000 DP",
+  "form": "D-Reaper",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+        "captionText": "EX-02: Theme Booster Digital Hazard (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX2-047.png",
+        "imgName": "EX2-047.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0c/EX2-047.png/revision/latest?cb=20220617101801",
+        "uploadDate": "2022-06-17T10:18:01"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+        "captionText": "EX-02: Theme Booster Digital Hazard (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX2-047-J.png",
+        "imgName": "EX2-047-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2a/EX2-047-J.png/revision/latest?cb=20211217092423",
+        "uploadDate": "2021-12-17T09:24:23"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+        "captionText": "EX-02: Theme Booster Digital Hazard (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX2-047-Sample-J.png",
+        "imgName": "EX2-047-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f6/EX2-047-Sample-J.png/revision/latest?cb=20211203061919",
+        "uploadDate": "2021-12-03T06:19:19"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0c/EX2-047.png/revision/latest?cb=20220617101801",
+  "name": "ADR-03 Pendulum Feet",
+  "nameJapanese": "ADR-03 = ペンデュラムフィート",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX2-047#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX2-047 (Mar. 28, 2024)"
+      },
+      {
+        "link": "https://digimoncard.com/rule/?card_no=EX2-047#qaResult_card",
+        "num": 2,
+        "text": "Official JP Q&A for EX2-047 (2024/09/20, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. Cards that don't have levels can't be digivolved from, and you can't digivolve into this card. (Other than through special digivolutions.)",
+        "question": "This card doesn't have a level. Can I still digivolve into it and into other cards?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, as long as either a card with [D-Reaper] in its traits or [ADR-02 Searcher] is among the cards revealed, you can add it to your hand.",
+        "question": "This card’s effect reveals 4 cards. If the cards revealed only include either a card with [D-Reaper] in its traits or [ADR-02 Searcher], can I still add a card to my hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. This card's effect reads “Add 1 card [...] among them to your hand,” so you must add both a card with [D-Reaper] in its traits and [ADR-02 Searcher] to your hand.",
+        "question": "This card's effect reveals 4 cards. If both a card with [D-Reaper] in its traits and [ADR-02 Searcher] are among the cards revealed, can I choose to only add one of them to my hand, and place the remaining card at the bottom of my deck?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, I add to my hand whenever possible.",
+        "question": "Does the effect of this card add the target card to the hand whenever possible if it is among the cards revealed from the deck?",
+        "reference": "[2]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-01: Extra Booster",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+          "text": "EX-02: Theme Booster Digital Hazard"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+          "text": "EX-02: Theme Booster Digital Hazard"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "type": "AA Defense Agent"
+}

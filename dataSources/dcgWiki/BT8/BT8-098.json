@@ -1,0 +1,113 @@
+{
+  "blockIcon": "01",
+  "cardEffects": "[Main] Trash the bottom digivolution card of all of your opponent's Digimon. Then, up to 3 of your opponent's Digimon with no digivolution cards can't attack or block until the end of your opponent's next turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Blue",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-098.png",
+        "imgName": "BT8-098.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/88/BT8-098.png/revision/latest?cb=20220422124932",
+        "uploadDate": "2022-04-22T12:49:32"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/New_Awakening_Pre-Release_Pack",
+        "captionText": "New Awakening Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-098_P0.png",
+        "imgName": "BT8-098_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b5/BT8-098_P0.png/revision/latest?cb=20220507123752",
+        "uploadDate": "2022-05-07T12:37:52"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-098-J.png",
+        "imgName": "BT8-098-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d5/BT8-098-J.png/revision/latest?cb=20211119075610",
+        "uploadDate": "2021-11-19T07:56:10"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/88/BT8-098.png/revision/latest?cb=20220422124932",
+  "name": "Innocence Blizzard",
+  "nameJapanese": "イノセンスブリザード",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT8-098#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT8-098 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can't.  You can only specify Digimon that can't attack or block at the time this card’s effect is activated.",
+        "question": "I use this card, but my opponent has no Digimon without digivolution cards in play, so I can't specify any Digimon that can't attack or block.  If my opponent later plays a Digimon without digivolution cards to their battle area, can I make that Digimon unable to attack or block?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Activate this card's [Main] effects.",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/New_Awakening_Pre-Release_Pack",
+          "text": "New Awakening Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ]
+  },
+  "useCost": "3"
+}

@@ -1,0 +1,151 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Leomon]: Cost 0",
+  "attribute": "Vaccine",
+  "blockIcon": "01,03",
+  "cardEffects": "[All Turns] When this Digimon would be deleted in battle, you may play 1 [Leomon] from this Digimon's digivolution cards without paying its memory cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green / Blue",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "2",
+      "level": "3"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "2",
+      "level": "3"
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-050.png",
+        "imgName": "BT9-050.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/04/BT9-050.png/revision/latest?cb=20220625065114",
+        "uploadDate": "2022-06-25T06:51:14"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Winner_Pack:_Exceed_Apocalypse",
+        "captionText": "Winner Pack: Exceed Apocalypse (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-050_P1.png",
+        "imgName": "BT9-050_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fb/BT9-050_P1.png/revision/latest?cb=20240330185450",
+        "uploadDate": "2024-03-30T18:54:50"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-050-J.png",
+        "imgName": "BT9-050-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ef/BT9-050-J.png/revision/latest?cb=20240112164335",
+        "uploadDate": "2024-01-12T16:43:35"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Tamer_Battle_Pack_19",
+        "captionText": "Tamer Battle Pack 19 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-050_P1-J.png",
+        "imgName": "BT9-050_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bb/BT9-050_P1-J.png/revision/latest?cb=20230630105307",
+        "uploadDate": "2023-06-30T10:53:07"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/04/BT9-050.png/revision/latest?cb=20220625065114",
+  "level": "4",
+  "name": "Leomon (X Antibody)",
+  "nameJapanese": "レオモンX抗体",
+  "playCost": "5",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT9-050#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT9-050 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. This effect specifies a card name. You can only play a card whose name is specifically [Leomon].",
+        "question": "Can this card’s effect play a [Leomon (X Antibody)] from this Digimon’s digivolution cards?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Winner_Pack:_Exceed_Apocalypse",
+          "text": "Winner Pack: Exceed Apocalypse"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Tamer_Battle_Pack_19",
+          "text": "Tamer Battle Pack 19"
+        },
+        "foil&Rarity": "No Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "狮子兽X抗体",
+  "traditionalChinese": "獅子獸X抗體",
+  "type": "Beastkin/X Antibody"
+}

@@ -1,0 +1,111 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Upamon]: Cost 0",
+  "attribute": "Free",
+  "blockIcon": "03",
+  "cardEffects": "[Your Turn] [Once Per Turn] When one of your other Digimon is played or digivolves, if it has the [Free] trait or is yellow, gain 1 memory.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black / Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "1",
+      "level": "2"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "1",
+      "level": "2"
+    }
+  ],
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-049.png",
+        "imgName": "BT16-049.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d6/BT16-049.png/revision/latest?cb=20240412064150",
+        "uploadDate": "2024-04-12T06:41:50"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-049-J.png",
+        "imgName": "BT16-049-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/49/BT16-049-J.png/revision/latest?cb=20231215073418",
+        "uploadDate": "2023-12-15T07:34:18"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-049-Sample-J.png",
+        "imgName": "BT16-049-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/84/BT16-049-Sample-J.png/revision/latest?cb=20231121074945",
+        "uploadDate": "2023-11-21T07:49:45"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d6/BT16-049.png/revision/latest?cb=20240412064150",
+  "inheritedEffect": "[All Turns] This Digimon gets +1000 DP.",
+  "level": "3",
+  "name": "Armadillomon",
+  "nameJapanese": "アルマジモン",
+  "nameTranslated": "Armadimon",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT16-049#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT16-049 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "It references the Digimon after it digivolves.",
+        "question": "Does this card's effect reference the card for the Digimon before or after it digivolves?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naru",
+          "text": "naru"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naru",
+          "text": "naru"
+        }
+      }
+    ]
+  },
+  "type": "Mammal"
+}

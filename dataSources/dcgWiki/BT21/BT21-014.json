@@ -1,0 +1,146 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Agunimon]: Cost 1",
+  "attribute": "Variable",
+  "blockIcon": "05",
+  "cardEffects": "[On Play] [When Digivolving] This Digimon gains ＜Piercing＞  (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.) and +3000 DP for the turn.\n[Your Turn] When your opponent's security stack is removed from, this Digimon may digivolve into a level 5 Digimon card with the [Hybrid] trait in the hand with the digivolution cost reduced by 1.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "form": "Tamer"
+    }
+  ],
+  "dp": "6000 DP",
+  "form": "Hybrid",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-014.png",
+        "imgName": "BT21-014.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/36/BT21-014.png/revision/latest?cb=20250404055210",
+        "uploadDate": "2025-04-04T05:52:10"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-014-Sample.png",
+        "imgName": "BT21-014-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/71/BT21-014-Sample.png/revision/latest?cb=20250305060114",
+        "uploadDate": "2025-03-05T06:01:14"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-014-J.png",
+        "imgName": "BT21-014-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a4/BT21-014-J.png/revision/latest?cb=20250404045727",
+        "uploadDate": "2025-04-04T04:57:27"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/3/36/BT21-014.png/revision/latest?cb=20250404055210",
+  "inheritedEffect": "[Your Turn] This Digimon gets +2000 DP.",
+  "level": "4",
+  "name": "BurningGreymon",
+  "nameJapanese": "ヴリトラモン",
+  "playCost": "6",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT21-014#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT21-014 (Apr. 4, 2025)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "The [Security] effect will activate first.Upon a security check, a [Security] effect will immediately activate without pending activation.",
+        "question": "What order do an effect that triggers when a card is removed from a security stack and a [Security] effect on a checked card activate when they trigger simultaneously upon a security check?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, the play cost will be reduced by a total of 2.",
+        "question": "[Agunimon] is in this card's digivolution cards.If this card attacks and I use its [Your Turn] effect to digivolve into BT21-020 [Aldamon], is the digivolution cost reduced by a total of 2?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, another security check is performed.",
+        "question": "This card attacks and I perform a security check on my opponent.If I then use this card's [Your Turn] effect to digivolve into a Digimon card with ＜Security A. +1＞ (This Digimon checks 1 additional security card.), is another security check performed?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:KISUKE",
+          "text": "KISUKE"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:KISUKE",
+          "text": "KISUKE"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:KISUKE",
+          "text": "KISUKE"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:KISUKE",
+          "text": "KISUKE"
+        }
+      }
+    ]
+  },
+  "type": "Dark Dragon"
+}

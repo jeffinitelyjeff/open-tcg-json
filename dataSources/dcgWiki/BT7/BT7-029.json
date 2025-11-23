@@ -1,0 +1,162 @@
+{
+  "attribute": "Variable",
+  "blockIcon": "01",
+  "cardEffects": "[When Digivolving] [When Attacking] [Once Per Turn] You may return 1 card with the [Hybrid] trait from this Digimon's digivolution cards to your hand to return 1 of your opponent's Digimon with the same level as the returned card to its owner's hand.\n[Your Turn] [Once Per Turn] When an effect adds a card to your hand, you may unsuspend 1 of your Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "4",
+    "level": "5"
+  },
+  "dp": "12000 DP",
+  "form": "Hybrid",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-029.png",
+        "imgName": "BT7-029.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/82/BT7-029.png/revision/latest?cb=20220218130552",
+        "uploadDate": "2022-02-18T13:05:52"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-029_P1.png",
+        "imgName": "BT7-029_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4c/BT7-029_P1.png/revision/latest?cb=20220226050308",
+        "uploadDate": "2022-02-26T05:03:08"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-029-J.png",
+        "imgName": "BT7-029-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/06/BT7-029-J.png/revision/latest?cb=20210820091041",
+        "uploadDate": "2021-08-20T09:10:41"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-029_P1-J.png",
+        "imgName": "BT7-029_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/44/BT7-029_P1-J.png/revision/latest?cb=20210827045733",
+        "uploadDate": "2021-08-27T04:57:33"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-029-Sample-J.png",
+        "imgName": "BT7-029-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2c/BT7-029-Sample-J.png/revision/latest?cb=20210811092539",
+        "uploadDate": "2021-08-11T09:25:39"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/82/BT7-029.png/revision/latest?cb=20220218130552",
+  "level": "6",
+  "name": "MagnaGarurumon",
+  "nameJapanese": "マグナガルルモン",
+  "playCost": "12",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT7-029#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT7-029 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "It means the effect can be activated both [When Digivolving] and [When Attacking].  You can activate it as a [When Digivolving] effect when you digivolve this Digimon, then activate it again on following turns as a [When Attacking] effect by attacking with this Digimon.",
+        "question": "This card has an effect that activates at both [When Digivolving] and [When Attacking] timings. What does this mean, exactly?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. No matter which timing the effect is triggered at, it is still the same effect and can only be activated [Once Per Turn]. If the effect has been triggered at [When Digivolving] and activated, it can not be activated again on the same turn, even if it's triggered [When Attacking].",
+        "question": "This card has a [When Digivolving][When Attacking][Once Per Turn] effect, but can I activate it twice in the same turn by both digivolving and attacking?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "type": "Cyborg"
+}

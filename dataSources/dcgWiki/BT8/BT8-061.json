@@ -1,0 +1,104 @@
+{
+  "attribute": "Data",
+  "blockIcon": "01",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "6000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-061.png",
+        "imgName": "BT8-061.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/ab/BT8-061.png/revision/latest?cb=20220422124929",
+        "uploadDate": "2022-04-22T12:49:29"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-061-J.png",
+        "imgName": "BT8-061-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/67/BT8-061-J.png/revision/latest?cb=20211119075608",
+        "uploadDate": "2021-11-19T07:56:08"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/ab/BT8-061.png/revision/latest?cb=20220422124929",
+  "level": "4",
+  "name": "Thundermon",
+  "nameJapanese": "サンダーボールモン",
+  "nameTranslated": "Thunderballmon",
+  "playCost": "4",
+  "rarity": "Common",
+  "rule": "[Rule] Name: Also treated as [Mamemon].",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT8-061#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT8-061 (Sep. 13, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "This is a special rule for this card that always treats it as if it also has the [Mamemon] name.",
+        "question": "What does this card's (Rule) mean, exactly?  (*This card's \"The name of this card/Digimon is also treated as [Mamemon]\" has been changed to \"(Rule) Name: Also treated as [Mamemon].\")",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      }
+    ]
+  },
+  "type": "Mutant"
+}

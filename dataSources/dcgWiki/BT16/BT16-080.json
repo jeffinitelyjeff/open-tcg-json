@@ -1,0 +1,160 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[Pulsemon] in text: Cost 5",
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "[When Digivolving] [End of Attack] [Once Per Turn] If you have 3 or more security cards, 1 of your opponent's Digimon gets -7000 DP for the turn. If you have 3 or fewer, delete 1 of their unsuspended Digimon.\n[All Turns] When this Digimon would leave the battle area by an opponent's effect, if you have 3 or more security cards, by trashing the top card of your security stack, prevent it from leaving.\n[On Deletion] ＜Recovery +1 (Deck)＞ (Place the top card of your deck on top of your security stack.) until there are 3 cards in your security stack.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple / Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "5",
+      "level": "5"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "5",
+      "level": "5"
+    }
+  ],
+  "dp": "13000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-080.png",
+        "imgName": "BT16-080.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/04/BT16-080.png/revision/latest?cb=20240412064150",
+        "uploadDate": "2024-04-12T06:41:50"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-080_P1.png",
+        "imgName": "BT16-080_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/48/BT16-080_P1.png/revision/latest?cb=20240426204050",
+        "uploadDate": "2024-04-26T20:40:50"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-080-J.png",
+        "imgName": "BT16-080-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/38/BT16-080-J.png/revision/latest?cb=20231215073418",
+        "uploadDate": "2023-12-15T07:34:18"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-080-Sample-J.png",
+        "imgName": "BT16-080-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/68/BT16-080-Sample-J.png/revision/latest?cb=20231116122531",
+        "uploadDate": "2023-11-16T12:25:31"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-080_P1-J.png",
+        "imgName": "BT16-080_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/44/BT16-080_P1-J.png/revision/latest?cb=20231222085655",
+        "uploadDate": "2023-12-22T08:56:55"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-080_P1-Sample-J.png",
+        "imgName": "BT16-080_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/dd/BT16-080_P1-Sample-J.png/revision/latest?cb=20231212091021",
+        "uploadDate": "2023-12-12T09:10:21"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/04/BT16-080.png/revision/latest?cb=20240412064150",
+  "level": "6",
+  "name": "Shroudmon",
+  "nameJapanese": "シュラウドモン",
+  "playCost": "13",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT16-080#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT16-080 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, that's correct.",
+        "question": "If I have exactly 3 cards in my security stack, do I activate both the \"1 of your opponent's Digimon gets -7000 DP for the turn\" effect and the \"delete 1 of their unsuspended Digimon\" effect when activating this card's [When Digivolving] [End of Attack] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "If you have 2 or fewer cards in your security stack when the effect activates, repeat <Recovery +1 (Deck)> until there are 3 cards in your security stack. You don't have to do anything when the effect activates if you have 3 or more cards in your security stack.",
+        "question": "How exactly do I perform \"<Recovery +1 (Deck)> until there are 3 cards in your security stack\" in this card’s [On Deletion] effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      }
+    ]
+  },
+  "type": "Wizard"
+}

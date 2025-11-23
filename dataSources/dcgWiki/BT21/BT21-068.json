@@ -1,0 +1,141 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Guilmon] in name: Cost 2",
+  "attribute": "Virus",
+  "blockIcon": "05",
+  "cardEffects": "[On Play] [When Digivolving] Delete 1 of your opponent's Digimon with 4000 DP or less. If this effect didn't delete, trash the top 2 cards of your deck.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple / Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-068.png",
+        "imgName": "BT21-068.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9d/BT21-068.png/revision/latest?cb=20250404060818",
+        "uploadDate": "2025-04-04T06:08:18"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-068-Sample.png",
+        "imgName": "BT21-068-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/78/BT21-068-Sample.png/revision/latest?cb=20250210064505",
+        "uploadDate": "2025-02-10T06:45:05"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-068-J.png",
+        "imgName": "BT21-068-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d0/BT21-068-J.png/revision/latest?cb=20250404053846",
+        "uploadDate": "2025-04-04T05:38:46"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9d/BT21-068.png/revision/latest?cb=20250404060818",
+  "inheritedEffect": "[On Deletion] Gain 1 memory.",
+  "level": "4",
+  "name": "Growlmon",
+  "nameJapanese": "グラウモン",
+  "playCost": "5",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT21-068#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT21-068 (Apr. 4, 2025)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can't.If your opponent has a Digimon with 4000 DP or less, you must choose that card and delete it.",
+        "question": "My opponent has a Digimon with 4000 DP or less.Can I meet the \"if this effect didn't delete\" condition in this card's [On Play] [When Digivolving] effect by not choosing a card to delete?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "My opponent has a Digimon with 4000 DP or less.Can I meet the \"if this effect didn't delete\" condition in this card's [On Play] [When Digivolving] effect by choosing an opponent's Digimon with 4000 DP or less and an effect that prevents deletion?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ]
+  },
+  "type": "Dark Dragon"
+}

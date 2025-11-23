@@ -1,0 +1,134 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "01",
+  "cardEffects": "[Opponent's Turn] For each Digimon card with [Etemon] in its name in your trash, this Digimon gets +1000 DP.\n[On Deletion] ＜De-Digivolve  1＞ 1 of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "3",
+    "level": "5"
+  },
+  "dp": "10000 DP",
+  "errata": [
+    {
+      "afterImageURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6d/EX1-053-Errata.png/revision/latest?cb=20220809082541",
+      "afterText": "[Opponent's Turn] For each Digimon card with [Etemon] in its name in your trash, this Digimon gets +1000 DP.[On Deletion] trigger ＜De-Digivolve  1＞ 1 of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.).",
+      "beforeImageURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/53/EX1-053.png/revision/latest?cb=20211126152132",
+      "beforeText": "[Your Turn] For each Digimon card with [Etemon] in its name in your trash, this Digimon gets +1000 DP.[On Deletion] trigger ＜De-Digivolve  1＞ 1 of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.)."
+    }
+  ],
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-053.png",
+        "imgName": "EX1-053.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/53/EX1-053.png/revision/latest?cb=20211126152132",
+        "uploadDate": "2021-11-26T15:21:32"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Revision_Pack_2023",
+        "captionText": "Revision Pack 2023 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-053-Errata.png",
+        "imgName": "EX1-053-Errata.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6d/EX1-053-Errata.png/revision/latest?cb=20220809082541",
+        "uploadDate": "2022-08-09T08:25:41"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Official_Tournament_Pack_Vol._12",
+        "captionText": "Official Tournament Pack Vol. 12 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-053_P1.png",
+        "imgName": "EX1-053_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7c/EX1-053_P1.png/revision/latest?cb=20240330185452",
+        "uploadDate": "2024-03-30T18:54:52"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-053-J.png",
+        "imgName": "EX1-053-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/94/EX1-053-J.png/revision/latest?cb=20210721041522",
+        "uploadDate": "2021-07-21T04:15:22"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6d/EX1-053-Errata.png/revision/latest?cb=20220809082541",
+  "korean": "메탈에테몬",
+  "level": "6",
+  "name": "MetalEtemon",
+  "nameJapanese": "メタルエテモン",
+  "playCost": "11",
+  "rarity": "Uncommon",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-01: Extra Booster",
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Revision_Pack_2023",
+          "text": "Revision Pack 2023"
+        },
+        "foil&Rarity": "No Foil - Errata Text - Uncommon",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Official_Tournament_Pack_Vol._12",
+          "text": "Official Tournament Pack Vol. 12"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "simplifiedChinese": "金属猿猴兽",
+  "traditionalChinese": "鋼鐵悟空獸",
+  "type": "Cyborg"
+}

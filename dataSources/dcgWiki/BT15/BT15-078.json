@@ -1,0 +1,131 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "[All Turns] [Once Per Turn] When an effect plays an opponent's Digimon, until the end of their turn, all of their Digimon gain \"[On Deletion] Lose 1 memory.\"\n[When Attacking] Your opponent plays 1 level 4 or lower Digimon card from their trash suspended without paying the cost. [On Play] effects on Digimon played by this effect don't activate. Then, you may switch the target of attack to that Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-078.png",
+        "imgName": "BT15-078.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e9/BT15-078.png/revision/latest?cb=20240209090319",
+        "uploadDate": "2024-02-09T09:03:19"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack:_Exceed_Apocalypse",
+        "captionText": "Pre-Release Pack: Exceed Apocalypse (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-078_P0.png",
+        "imgName": "BT15-078_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b9/BT15-078_P0.png/revision/latest?cb=20240211092404",
+        "uploadDate": "2024-02-11T09:24:04"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-078-J.png",
+        "imgName": "BT15-078-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7b/BT15-078-J.png/revision/latest?cb=20230922100136",
+        "uploadDate": "2023-09-22T10:01:36"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-078-Sample-J.png",
+        "imgName": "BT15-078-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a5/BT15-078-Sample-J.png/revision/latest?cb=20230913091123",
+        "uploadDate": "2023-09-13T09:11:23"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e9/BT15-078.png/revision/latest?cb=20240209090319",
+  "inheritedEffect": "＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.)",
+  "level": "5",
+  "name": "WaruSeadramon",
+  "nameJapanese": "ワルシードラモン",
+  "playCost": "8",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT15-078#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT15-078 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Because nothing can be played from their trash, you can't switch the target of this card's attack, and the attack will continue using the target that was specified upon the attack declaration.",
+        "question": "What happens for this card’s [When Attacking] effect if my opponent doesn't have any level 4 or lower Digimon cards in their trash?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it doesn’t activate.",
+        "question": "When an effect plays an opponent's Digimon into the breeding area, does this card's [All Turns] effect activate?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it activates.",
+        "question": "Does this card's [All Turns] effect also activate when one of my effects plays an opponent's Digimon?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+          "text": "BT-15: Booster Exceed Apocalypse"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack:_Exceed_Apocalypse",
+          "text": "Pre-Release Pack: Exceed Apocalypse"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+          "text": "BT-15: Booster Exceed Apocalypse"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      }
+    ]
+  },
+  "type": "Aquatic"
+}

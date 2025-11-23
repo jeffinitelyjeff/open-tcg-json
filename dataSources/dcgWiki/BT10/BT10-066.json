@@ -1,0 +1,160 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[On Play] ＜De-Digivolve  1＞ 1 of your opponent's Digimon.. Then, if DigiXrosing with 2 cards, delete 1 of your opponent's Digimon with a play cost of 5 or less.\n[All Turns] When this Digimon would be deleted, by returning 1 black level 4 or lower Digimon card from this Digimon's digivolution cards to its owner's hand, you may play 1 [SkullKnightmon] or [DeadlyAxemon] from this Digimon's digivolution cards without paying its memory cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "4",
+    "level": "4"
+  },
+  "digixrosRequirements": "[DigiXros -2] [SkullKnightmon] x [DeadlyAxemon] \nWhen this would be played, you may place specified cards from your hand/battle area under it. Each one reduces the play cost.",
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-066.png",
+        "imgName": "BT10-066.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/db/BT10-066.png/revision/latest?cb=20221007210107",
+        "uploadDate": "2022-10-07T21:01:07"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Xros_Encounter_Pre-Release_Pack",
+        "captionText": "Xros Encounter Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-066_P0.png",
+        "imgName": "BT10-066_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2f/BT10-066_P0.png/revision/latest?cb=20221022210001",
+        "uploadDate": "2022-10-22T21:00:01"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Event_Pack_6",
+        "captionText": "Event Pack 6 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-066_P1-Sample.png",
+        "imgName": "BT10-066_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/71/BT10-066_P1-Sample.png/revision/latest?cb=20240220061634",
+        "uploadDate": "2024-02-20T06:16:34"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Event_Pack_6",
+        "captionText": "Event Pack 6 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-066_P1.png",
+        "imgName": "BT10-066_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/15/BT10-066_P1.png/revision/latest?cb=20240707120350",
+        "uploadDate": "2024-07-07T12:03:50"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-066-J.png",
+        "imgName": "BT10-066-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/28/BT10-066-J.png/revision/latest?cb=20220520104226",
+        "uploadDate": "2022-05-20T10:42:26"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-066-Sample-J.png",
+        "imgName": "BT10-066-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/81/BT10-066-Sample-J.png/revision/latest?cb=20220423093416",
+        "uploadDate": "2022-04-23T09:34:16"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/db/BT10-066.png/revision/latest?cb=20221007210107",
+  "level": "5",
+  "name": "DarkKnightmon",
+  "nameJapanese": "ダークナイトモン",
+  "playCost": "8",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT10-066#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT10-066 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.",
+        "question": "When this Digimon would be deleted, if neither [SkullKnightmon] or [DeadlyAxemon] is in this Digimon's digivolution cards, can I still return 1 level 4 or lower black Digimon card from this Digimon's digivolution cards to my hand when activating this card's [All Turns]?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Xros_Encounter_Pre-Release_Pack",
+          "text": "Xros Encounter Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Event_Pack_6",
+          "text": "Event Pack 6"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "黑暗骑士兽",
+  "traditionalChinese": "黑暗騎士獸",
+  "type": "Dark Knight/Twilight"
+}

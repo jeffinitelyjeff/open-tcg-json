@@ -1,0 +1,133 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "[When Attacking] By trashing 1 card in your hand, ＜Draw 1＞. If this Digimon has [Eiji Nagasumi] in its digivolution cards, gain 1 memory.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "6000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-074.png",
+        "imgName": "BT14-074.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cd/BT14-074.png/revision/latest?cb=20231027105756",
+        "uploadDate": "2023-10-27T10:57:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Final_Championships_2023_Tamers_Pack",
+        "captionText": "Final Championships 2023 Tamers Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-074_P1.png",
+        "imgName": "BT14-074_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/63/BT14-074_P1.png/revision/latest?cb=20231031022305",
+        "uploadDate": "2023-10-31T02:23:05"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-074-J.png",
+        "imgName": "BT14-074-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/25/BT14-074-J.png/revision/latest?cb=20231030195725",
+        "uploadDate": "2023-10-30T19:57:25"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Official_Deck_Box_Set_2023",
+        "captionText": "Official Deck Box Set 2023 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-074_P1-J.png",
+        "imgName": "BT14-074_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/68/BT14-074_P1-J.png/revision/latest?cb=20231030195806",
+        "uploadDate": "2023-10-30T19:58:06"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cd/BT14-074.png/revision/latest?cb=20231027105756",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When your card with the [Dark Animal] or [SoC] trait is played, gain 1 memory.",
+  "level": "4",
+  "name": "Loogarmon",
+  "nameJapanese": "ルガルモン",
+  "playCost": "6",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT14-074#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT14-074 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you don't gain 1 memory. The effect reads \"By...\" Therefore, the rest of the effect won't activate if you don't trash a card in your hand.",
+        "question": "If I don't trash 1 card in my hand, do I gain 1 memory from this card's [When Attacking] effect when [Eiji Nagasumi] is still in this Digimon's digivolution cards?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Final_Championships_2023_Tamers_Pack",
+          "text": "Final Championships 2023 Tamers Pack"
+        },
+        "foil&Rarity": "Foil - Championship Stamp - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Official_Deck_Box_Set_2023",
+          "text": "Official Deck Box Set 2023"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "traditionalChinese": "魔人狼獸",
+  "type": "Dark Animal/X Antibody/SoC"
+}

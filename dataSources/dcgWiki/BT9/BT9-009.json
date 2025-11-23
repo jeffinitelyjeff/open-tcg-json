@@ -1,0 +1,137 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Guilmon]: Cost 0",
+  "attribute": "Virus",
+  "blockIcon": "01",
+  "cardEffects": "[When Digivolving] Delete 1 of your opponent's Digimon with 3000 DP or less.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "3000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-009.png",
+        "imgName": "BT9-009.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a9/BT9-009.png/revision/latest?cb=20220625065026",
+        "uploadDate": "2022-06-25T06:50:26"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/X_Record_Pre-Release_Pack",
+        "captionText": "X Record Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-009_P0.png",
+        "imgName": "BT9-009_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7f/BT9-009_P0.png/revision/latest?cb=20220625081406",
+        "uploadDate": "2022-06-25T08:14:06"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-009-J.png",
+        "imgName": "BT9-009-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9c/BT9-009-J.png/revision/latest?cb=20220218110340",
+        "uploadDate": "2022-02-18T11:03:40"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-009-Sample-J.png",
+        "imgName": "BT9-009-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b8/BT9-009-Sample-J.png/revision/latest?cb=20220207065311",
+        "uploadDate": "2022-02-07T06:53:11"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a9/BT9-009.png/revision/latest?cb=20220625065026",
+  "inheritedEffect": "[Your Turn] Add 1000 to the maximum DP you can choose with DP-based delete effects.",
+  "level": "3",
+  "name": "Guilmon (X Antibody)",
+  "nameJapanese": "ギルモンX抗体",
+  "playCost": "4",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT9-009#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT9-009 (Sep. 13, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Such effects increase the maximum value shown for DP-based deletion effects.  For example, while \"[Your Turn] Add 1000 to the maximum your DP-based deletion effects can delete\" is activated, \"[When Digivolving] Delete 1 of your opponent's Digimon with 3000 DP or less\" will allow you to delete an opponent's Digimon with 4000 DP or less.",
+        "question": "What does an \"add X000 to the maximum your DP-based deletion effects can delete\" effect do?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it can't be increased.  You can't increase the maximum of a DP-based deletion effect that doesn't show a numerical value.",
+        "question": "If \"add X000 to the maximum your DP-based deletion effects can delete\" is activating, can the maximum be increased for an effect such as \"delete 1 of your opponent's Digimon with DP less than or equal to this Digimon's DP\" that references a Digimon's DP for deletion?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/X_Record_Pre-Release_Pack",
+          "text": "X Record Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ]
+  },
+  "type": "Dark Dragon/X Antibody"
+}

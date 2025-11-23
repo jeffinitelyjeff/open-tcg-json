@@ -1,0 +1,136 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [BurningGreymon]: Cost 0",
+  "attribute": "Variable",
+  "blockIcon": "05",
+  "cardEffects": "[When Digivolving] You may place 1 [Hybrid] or [Hero] trait Digimon card from your hand or trash as this Digimon's bottom digivolution card or under any of your red Tamers with inherited effects.\n[When Attacking] This Digimon may digivolve into a red [Hybrid] or [Hero] trait Digimon card in the hand with the digivolution cost reduced by 1.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "2",
+      "level": "3"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "2",
+      "form": "Tamer"
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Hybrid",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-013.png",
+        "imgName": "BT21-013.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/55/BT21-013.png/revision/latest?cb=20250404055210",
+        "uploadDate": "2025-04-04T05:52:10"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-013-Sample.png",
+        "imgName": "BT21-013-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/24/BT21-013-Sample.png/revision/latest?cb=20250305060104",
+        "uploadDate": "2025-03-05T06:01:04"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-013-J.png",
+        "imgName": "BT21-013-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/ca/BT21-013-J.png/revision/latest?cb=20250404050146",
+        "uploadDate": "2025-04-04T05:01:46"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/55/BT21-013.png/revision/latest?cb=20250404055210",
+  "inheritedEffect": "[Your Turn] This Digimon gets +2000 DP.",
+  "level": "4",
+  "name": "Agunimon",
+  "nameJapanese": "アグニモン",
+  "playCost": "5",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT21-013#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT21-013 (Apr. 4, 2025)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "The card is placed on the bottom of the cards under the Tamer.",
+        "question": "If I use this card's [When Digivolving] effect to place a card under a Tamer with cards under it, in what order do I place the card?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:KISUKE",
+          "text": "KISUKE"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:KISUKE",
+          "text": "KISUKE"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:KISUKE",
+          "text": "KISUKE"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:KISUKE",
+          "text": "KISUKE"
+        }
+      }
+    ]
+  },
+  "type": "Wizard/Hero"
+}

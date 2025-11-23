@@ -1,0 +1,107 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "01",
+  "cardEffects": "[Your Turn] This Digimon is also treated as red.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "4"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-061.png",
+        "imgName": "BT6-061.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0d/BT6-061.png/revision/latest?cb=20210921061248",
+        "uploadDate": "2021-09-21T06:12:48"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-061-J.png",
+        "imgName": "BT6-061-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/12/BT6-061-J.png/revision/latest?cb=20210521045924",
+        "uploadDate": "2021-05-21T04:59:24"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0d/BT6-061.png/revision/latest?cb=20210921061248",
+  "inheritedEffect": "[Opponent's Turn] This Digimon gets +2000 DP.",
+  "level": "5",
+  "name": "Gigadramon",
+  "nameJapanese": "ギガドラモン",
+  "playCost": "6",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT6-061#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT6-061 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes. During your turn, this Digimon is treated as both a red and black Digimon, so it can digivolve into a Digimon with black digivolution requirements.",
+        "question": "Can this Digimon digivolve into a Digimon with “Red/Level 5” digivolution requirements?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't. [Your Turn] effects don't activate from breeding areas, so the card isn't treated as a red card. You can't digivolve it into a Digimon that requires a red Digimon.",
+        "question": "This card is in my breeding area. Can I digivolve it into a Digimon that requires a red Digimon?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+          "text": "BT-06: Booster Double Diamond"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+          "text": "BT-06: Booster Double Diamond"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ]
+  },
+  "traditionalChinese": "千兆龍獸",
+  "type": "Cyborg"
+}

@@ -1,0 +1,85 @@
+{
+  "blockIcon": "03",
+  "cardEffects": "[Main] Choose 1 of your Digimon. Until the end of your opponent's turn, 3 of your opponent's Digimon with as many or fewer digivolution cards at that Digimon can't attack or block.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Not released"
+  },
+  "cardType": "Option",
+  "color": "Blue",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-092.png",
+        "imgName": "BT14-092.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/48/BT14-092.png/revision/latest?cb=20231027105757",
+        "uploadDate": "2023-10-27T10:57:57"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-092-J.png",
+        "imgName": "BT14-092-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/01/BT14-092-J.png/revision/latest?cb=20231112134455",
+        "uploadDate": "2023-11-12T13:44:55"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/48/BT14-092.png/revision/latest?cb=20231027105757",
+  "name": "Marching Fishes",
+  "nameJapanese": "マーチングフィッシーズ",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT14-092#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT14-092 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, it can't. If the number of digivolution cards under the opponent's Digimon targeted by this effect is less than or equal to those of your chosen Digimon at the timing when this card's effect activates, the effect will continue, even if the target's number of digivolution cards later increases.",
+        "question": "My opponent's Digimon was targeted by this card's effect, then it digivolved and now has more digivolution cards than my chosen Digimon. Can my opponent's Digimon now attack and block?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] 1 of your opponent's Digimon can't attack for the turn. Then, add this card to your hand.",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sanosuke_Sakuma",
+          "text": "Sanosuke Sakuma"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sanosuke_Sakuma",
+          "text": "Sanosuke Sakuma"
+        }
+      }
+    ]
+  },
+  "traditionalChinese": "魚群進行曲",
+  "useCost": "3"
+}

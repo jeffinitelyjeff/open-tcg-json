@@ -1,0 +1,139 @@
+{
+  "attribute": "Data",
+  "blockIcon": "03",
+  "cardEffects": "[When Digivolving] ＜Blitz＞ (If your opponent has 1 or more memory, this Digimon may attack.)\n[All Turns] While your opponent has 1 or more memory, they can't play Digimon with 6000 DP or less, and this Digimon gets +4000 DP.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "3",
+    "level": "5"
+  },
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-017.png",
+        "imgName": "BT14-017.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fe/BT14-017.png/revision/latest?cb=20231027105750",
+        "uploadDate": "2023-10-27T10:57:50"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Blast_Ace_Pre-Release_Pack",
+        "captionText": "Blast Ace Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-017_P0.png",
+        "imgName": "BT14-017_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d6/BT14-017_P0.png/revision/latest?cb=20231116222514",
+        "uploadDate": "2023-11-16T22:25:14"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-017-J.png",
+        "imgName": "BT14-017-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/04/BT14-017-J.png/revision/latest?cb=20231110171223",
+        "uploadDate": "2023-11-10T17:12:23"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fe/BT14-017.png/revision/latest?cb=20231027105750",
+  "level": "6",
+  "name": "Dinorexmon",
+  "nameJapanese": "ディノレクスモン",
+  "playCost": "11",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT14-017#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT14-017 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it can't be played. If your opponent has this Digimon, \"While your opponent has 1 or more memory\" from your opponent's perspective means while you have 1 or more memory.",
+        "question": "Does this card's [All Turns] effect prevent me from playing a Digimon card with 6000 DP or less when my opponent has this Digimon while I have 1 or more memory?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it can't be played.",
+        "question": "Does this card's [All Turns] effect prevent playing a Digimon card with 6000 DP or less even from effects that play a card?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it can't be played.",
+        "question": "Does this card's [All Turns] effect also prevent playing a token that is treated as a Digimon card with 6000 DP or less?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it can't be played.",
+        "question": "If I have a Digimon card with an original DP of 6000 or less and its DP would increase to more than 6000 by an effect upon playing it into the battle area, does this card's [All Turns] effect allow that card to be played?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it can't be played. At the timing of the play declaration, if \"While your opponent has 1 or more memory\" from your opponent's perspective applies (in other words, if you have 1 or more memory), this card's [All Turns] effect doesn't allow you to play such Digimon.",
+        "question": "Does this card's [All Turns] effect allow me to play a Digimon card with 6000 DP or less if paying the play cost would cause the memory to change to 0 or 1 or more on my opponent's side when my opponent has this Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it doesn't. You aren't allowed to declare playing a 6000 DP or lower Digimon card.",
+        "question": "When my opponent has this Digimon, does this card's [All Turns] effect allow me to just pay the play cost for a Digimon card with 6000 DP or less without playing it while I have 1 memory or more?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Blast_Ace_Pre-Release_Pack",
+          "text": "Blast Ace Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "恐龙王兽",
+  "traditionalChinese": "恐王龍獸",
+  "type": "Dinosaur/X Antibody"
+}

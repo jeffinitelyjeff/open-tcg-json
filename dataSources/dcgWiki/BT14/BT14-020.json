@@ -1,0 +1,140 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[Start of Your Main Phase] Trash any 1 digivolution card of 1 of your opponent's Digimon. Then, this Digimon can't be blocked for the turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-020.png",
+        "imgName": "BT14-020.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/eb/BT14-020.png/revision/latest?cb=20231027105750",
+        "uploadDate": "2023-10-27T10:57:50"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-020_P1.png",
+        "imgName": "BT14-020_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a7/BT14-020_P1.png/revision/latest?cb=20231112141358",
+        "uploadDate": "2023-11-12T14:13:58"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-020-J.png",
+        "imgName": "BT14-020-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a9/BT14-020-J.png/revision/latest?cb=20231111041100",
+        "uploadDate": "2023-11-11T04:11:00"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-020_P1-J.png",
+        "imgName": "BT14-020_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1e/BT14-020_P1-J.png/revision/latest?cb=20231111041155",
+        "uploadDate": "2023-11-11T04:11:55"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/eb/BT14-020.png/revision/latest?cb=20231027105750",
+  "inheritedEffect": "[Opponent's Turn] When this Digimon would be deleted, you may play 1 [Gomamon] from this Digimon's digivolution cards without paying the cost.",
+  "korean": "쉬라몬",
+  "level": "3",
+  "name": "Gomamon",
+  "nameJapanese": "ゴマモン",
+  "playCost": "3",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT14-020#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT14-020 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it activates.",
+        "question": "Does \"This Digimon can't be blocked\" in this card's [Start of Your Main Phase] effect activate even when my opponent can't trash a digivolution card?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't activate it. This card’s inherited effect reads \"When this Digimon would be deleted,\" so it interrupts the deletion when it activates. Therefore, the [Gomamon] with the [On Deletion] effect is removed from the digivolution cards before the [On Deletion] effect can be triggered.",
+        "question": "I have both this card and another [Gomamon] with an [On Deletion] inherited effect in the digivolution cards of the same one of my Digimon. When that Digimon is deleted, can I activate this card's inherited effect, play the other [Gomamon] from the digivolution cards, and activate that [On Deletion] inherited effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "哥玛兽",
+  "traditionalChinese": "哥瑪獸",
+  "type": "Sea Beast"
+}

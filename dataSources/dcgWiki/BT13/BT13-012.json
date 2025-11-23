@@ -1,0 +1,137 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Agumon] in name and [Dinosaur] trait: Cost 2",
+  "attribute": "Vaccine",
+  "blockIcon": "02",
+  "cardEffects": "[When Digivolving] Search your security stack, and you may play 1 red or yellow Tamer card among it without paying its cost. If you did, ＜Recovery +1 (Deck)＞. Then, shuffle your security stack.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Restricted to 1",
+    "korean": "Not released",
+    "nameJapanese": "Restricted to 1"
+  },
+  "cardType": "Digimon",
+  "color": "Red / Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-012.png",
+        "imgName": "BT13-012.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e5/BT13-012.png/revision/latest?cb=20230714185525",
+        "uploadDate": "2023-07-14T18:55:25"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Ultimate_Cup_2024_Season_2",
+        "captionText": "Ultimate Cup 2024 Season 2 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-012_P1.png",
+        "imgName": "BT13-012_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1f/BT13-012_P1.png/revision/latest?cb=20240830171512",
+        "uploadDate": "2024-08-30T17:15:12"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-012-J.png",
+        "imgName": "BT13-012-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/84/BT13-012-J.png/revision/latest?cb=20230217122643",
+        "uploadDate": "2023-02-17T12:26:43"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-012-Sample-J.png",
+        "imgName": "BT13-012-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d3/BT13-012-Sample-J.png/revision/latest?cb=20230126091247",
+        "uploadDate": "2023-01-26T09:12:47"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e5/BT13-012.png/revision/latest?cb=20230714185525",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When one of your red or yellow Tamers becomes suspended, you may delete 1 of your opponent's Digimon with 3000 DP or less.",
+  "korean": "지오그레이몬",
+  "level": "4",
+  "name": "GeoGreymon",
+  "nameJapanese": "ジオグレイモン",
+  "playCost": "5",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT13-012#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT13-012 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "It means you can look at all of the cards in your security stack, without revealing them to your opponent. If a card that can be played by the effect is among them, you may reveal that card and play it.",
+        "question": "What does \"You may search your security stack\" in this card's [When Digivolving] effect mean, exactly?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "<Security +1 (Deck)> doesn't occur. Shuffle your security stack, and the effect ends.",
+        "question": "What happens for this card's effect if there are no cards in my security stack that I can play or want to play?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Ultimate_Cup_2024_Season_2",
+          "text": "Ultimate Cup 2024 Season 2"
+        },
+        "foil&Rarity": "Textured - Stamped - Top 64 Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "大地暴龙兽",
+  "traditionalChinese": "大地暴龍獸",
+  "type": "Dinosaur"
+}

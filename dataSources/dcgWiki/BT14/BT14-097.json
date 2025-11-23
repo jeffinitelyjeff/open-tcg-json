@@ -1,0 +1,191 @@
+{
+  "blockIcon": "03",
+  "cardEffects": "[Main] 1 of your non-white Digimon may digivolve into a Digimon card with [Sukamon] in its name in your hand without paying the cost, ignoring its digivolution requirements.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Black / Yellow",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-097.png",
+        "imgName": "BT14-097.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/70/BT14-097.png/revision/latest?cb=20231027105757",
+        "uploadDate": "2023-10-27T10:57:57"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Blast_Ace_Pre-Release_Pack",
+        "captionText": "Blast Ace Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-097_P0.png",
+        "imgName": "BT14-097_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f7/BT14-097_P0.png/revision/latest?cb=20231116222521",
+        "uploadDate": "2023-11-16T22:25:21"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-097-J.png",
+        "imgName": "BT14-097-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5e/BT14-097-J.png/revision/latest?cb=20231112135348",
+        "uploadDate": "2023-11-12T13:53:48"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/70/BT14-097.png/revision/latest?cb=20231027105757",
+  "name": "Suka's Curse",
+  "nameJapanese": "スカの呪い",
+  "rarity": "Uncommon",
+  "rule": "[Rule] Name: Also treated as having [Sukamon].",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT14-097#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT14-097 (Mar. 28, 2024)"
+      },
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT14-097#qaResult_card",
+        "num": 2,
+        "text": "Official English Q&A for BT14-097 (Nov. 1, 2024)"
+      },
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT14-097#qaResult_card",
+        "num": 3,
+        "text": "Official JP Q&A for BT14-097 (2023/06/23, translated by DeepL)"
+      },
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT14-097#qaResult_card",
+        "num": 4,
+        "text": "Official JP Q&A for BT14-097 (2024/09/20, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it can.",
+        "question": "Can this card's effect digivolve any level Digimon into a Digimon card with [Sukamon] in my hand as long as it is a non-white Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it can't. This effect doesn't target Digimon in breeding areas.",
+        "question": "Can this card's effect digivolve a Digimon in the breeding area into a Digimon card with [Sukamon] in my hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "This is a special rule for this card that treats it as a card that has [Sukamon]. This is a rule and not an effect, therefore this card is treated as having [Sukamon] when the card is in your hand, trash, or any other area.",
+        "question": "What does this card's \"(Rule) Name: Also treated as having [Sukamon]\" mean, exactly?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it can't. This card's name is treated as having [Sukamon], but it is not treated as [Sukamon].",
+        "question": "Can this card be selected as the target of an effect that targets exactly [Sukamon] due to the text \"(Rule) Name: Also treated as having [Sukamon]\"?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it can't. This card is an Option card, therefore it can't become a target for an effect that targets Digimon.",
+        "question": "Can this card become a target for effects that activate for Digimon with [Sukamon]?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "It changes into a white card with 3000 DP and an original name of [Sukamon]. In addition, it is also treated as the Digimon whose name is specified in (or specified to be included in) \"(Rule) Name: Also treated as [XX]\" or \"(Rule) Name: Treated as having [XX].\"",
+        "question": "What happens when this card's [Security] effect activates for a Digimon with \"(Rule) Name: Also treated as [XX]\" or \"(Rule) Name: Treated as having [XX]\"?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "It remains as a white Digimon with 3000 DP and an original name of [Sukamon]. The gained effect is carried over even if the Digimon digivolves or one or more of its top cards are trashed.",
+        "question": "If a card has changed to a white Digimon with 3000 DP and an original name of [Sukamon], then it digivolves or its top card is trashed by a ＜De-Digivolve＞ effect, what happens to that card's information?",
+        "reference": "[2]"
+      },
+      {
+        "answer": "Yes, it is possible.",
+        "question": "Can the effect of this card evolve from any Digimon of any Lv. to a Digimon card with \"Sukamon\" in its name in my hand, as long as it is not white?",
+        "reference": "[3]"
+      },
+      {
+        "answer": "No, you cannot. Digimon in the Breeding Area are not targeted for the effect.",
+        "question": "Can the effect of this card evolve from a Digimon in the Breeding Area to a Digimon card with \"Sukamon\" in its name in my hand?",
+        "reference": "[3]"
+      },
+      {
+        "answer": "This is a special rule for this card that also treats this card as containing \"Sukamon\" in its name. Since it is a rule, not an effect, this card will also be treated as containing \"Sukamon\" in its name, whether in hand, trash, or elsewhere.",
+        "question": "This card's <Overflow X> name: \"Also treats as containing 'Sukamon'.\" What does this mean?",
+        "reference": "[3]"
+      },
+      {
+        "answer": "No, it cannot. This card is also treated as containing \"Sukamon\" in its name, but is not considered a \"Sukamon\".",
+        "question": "<Overflow X> name: \"Also treated as containing 'Sukamon'.\" can I select \"Sukamon\" as the target of an effect that targets only \"Sukamon\"?",
+        "reference": "[3]"
+      },
+      {
+        "answer": "No, it does not. This card is an option card, so it cannot be targeted by effects that target Digimon.",
+        "question": "Is this card targeted for the effect it activates on Digimon with \"Sukamon\" in its name?",
+        "reference": "[3]"
+      },
+      {
+        "answer": "This effect changes the original name of one opponent's Digimon to \"Sukamon\", its original color to white, and its original DP to 3000.",
+        "question": "\"Change an opponent's Digimon to its original name \"Sukamon\", White, DP 3000.\" What is the effect?",
+        "reference": "[4]"
+      },
+      {
+        "answer": "The information of the card you have is also changed by <Rules>. For example, the original name of \"BT15-035 Gelemon\" is \"Gelemon/Numemon\" by <Overflow X>, but if the information of the original card is changed by this effect, the original name will be \"Sukamon\" only.",
+        "question": "What happens if a card such as \"BT15-035 Geremon\", which has card information in <Overflow X>, is changed to the original name \"Sukamon\", white, DP3000 by the effect of this card?",
+        "reference": "[4]"
+      },
+      {
+        "answer": "The information on the card obtained by the effect remains the same. For example, if the information on the original card EX1-005 Tyrannomon is changed, the original color will be white and the color will be white and green because the effect of EX1-005 Tyrannomon also treats it as green.",
+        "question": "What happens to a card such as \"EX1-005 Tyrannomon\" that has been given card information by the effect of this card, but is changed to the original name \"Sukamon\", white, DP3000 by the effect of this card?",
+        "reference": "[4]"
+      },
+      {
+        "answer": "The card also retains its original name \"Sukamon\", white, DP 3000. The effect given is carried over even if that one digivolved or the stacked cards are trashed.",
+        "question": "If a card whose original name is changed to \"Sukamon\", white, DP3000 is digivolved or stacked cards are trashed by <De-Digivolve>, what happens to the card's information?",
+        "reference": "[4]"
+      },
+      {
+        "answer": "The original name \"Sukamon\" - White - remains changed to DP3000, but the information on the card that it originally did not have cannot be changed. If the card becomes a tamer or a Digitama card and does not originally have DP, it will remain without DP.",
+        "question": "What happens if a card with the original name \"Sukamon\", white, DP3000 is stacked cards are trashed by <De-Digivolve>, etc. and become tamers or Digitama cards?",
+        "reference": "[4]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Until the end of your turn, change 1 of your opponent's Digimon into being white and having 3000 DP and an original name of [Sukamon]",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Blast_Ace_Pre-Release_Pack",
+          "text": "Blast Ace Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "traditionalChinese": "大便的詛咒",
+  "useCost": "3"
+}

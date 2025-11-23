@@ -1,0 +1,177 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Koromon]: Cost 0",
+  "attribute": "Vaccine",
+  "blockIcon": "02,03",
+  "cardEffects": "[On Play] Reveal the top 4 cards of your deck. Add 1 Digimon card with [Greymon] in its name and 1 [Marcus Damon] among them to your hand. Place the rest at the bottom of your deck in any order.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow / Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "1",
+      "level": "2"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "1",
+      "level": "2"
+    }
+  ],
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-034.png",
+        "imgName": "BT12-034.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/92/BT12-034.png/revision/latest?cb=20230421194630",
+        "uploadDate": "2023-04-21T19:46:30"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Official_Tournament_Pack_Vol._13:_Winner_Pack",
+        "captionText": "Official Tournament Pack Vol. 13: Winner Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-034_P1.png",
+        "imgName": "BT12-034_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f3/BT12-034_P1.png/revision/latest?cb=20240330191917",
+        "uploadDate": "2024-03-30T19:19:17"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Judge_Pack_5",
+        "captionText": "Judge Pack 5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-034_P2.png",
+        "imgName": "BT12-034_P2.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/36/BT12-034_P2.png/revision/latest?cb=20240707122057",
+        "uploadDate": "2024-07-07T12:20:57"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-034-J.png",
+        "imgName": "BT12-034-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/61/BT12-034-J.png/revision/latest?cb=20231205230929",
+        "uploadDate": "2023-12-05T23:09:29"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Tamer_Battle_Pack_20",
+        "captionText": "Tamer Battle Pack 20 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-034_P1-J.png",
+        "imgName": "BT12-034_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/db/BT12-034_P1-J.png/revision/latest?cb=20231201162402",
+        "uploadDate": "2023-12-01T16:24:02"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/92/BT12-034.png/revision/latest?cb=20230421194630",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When one of your yellow or red Tamers becomes suspended, 1 of your opponent's Digimon gets -2000 DP for the turn.",
+  "korean": "아구몬",
+  "level": "3",
+  "name": "Agumon",
+  "nameJapanese": "アグモン",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT12-034#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT12-034 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, as long as either a Digimon card with [Greymon] or [Marcus Damon] is among the cards revealed, you can add it to your hand.",
+        "question": "This card’s effect reveals 4 cards. If the cards revealed only include a Digimon card with [Greymon] or [Marcus Damon], can I still add a card to my hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. This card's effect reads “Add 1 Digimon card [...] and 1 [Marcus Damon] among them to your hand,” so you must add as many cards to your hand as possible.",
+        "question": "This card's effect reveals 4 cards. If both a Digimon card with [Greymon] and [Marcus Damon] are among the cards revealed, can I choose to only add one of them to my hand, and place the other cards at the bottom of my deck?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-06: Booster Across Dimension",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Official_Tournament_Pack_Vol._13:_Winner_Pack",
+          "text": "Official Tournament Pack Vol. 13: Winner Pack"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Judge_Pack_5",
+          "text": "Judge Pack 5"
+        },
+        "foil&Rarity": "Foil - Judge Stamp - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Tamer_Battle_Pack_20",
+          "text": "Tamer Battle Pack 20"
+        },
+        "foil&Rarity": "No Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "亚古兽",
+  "traditionalChinese": "亞古獸",
+  "type": "Dinosaur"
+}

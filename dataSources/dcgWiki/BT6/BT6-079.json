@@ -1,0 +1,93 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "01",
+  "cardEffects": "＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling.)\n[On Deletion] If you have 10 or more cards in your trash, you may play 1 [Ornismon] from your trash without paying its memory cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "3",
+    "level": "5"
+  },
+  "dp": "10000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-079.png",
+        "imgName": "BT6-079.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/26/BT6-079.png/revision/latest?cb=20210921061311",
+        "uploadDate": "2021-09-21T06:13:11"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-079-J.png",
+        "imgName": "BT6-079-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/81/BT6-079-J.png/revision/latest?cb=20210521045933",
+        "uploadDate": "2021-05-21T04:59:33"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/26/BT6-079.png/revision/latest?cb=20210921061311",
+  "level": "6",
+  "name": "Murmukusmon",
+  "nameJapanese": "ムルムクスモン",
+  "playCost": "11",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT6-079#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT6-079 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes. The [On Deletion] effect activates after the card moves to your trash, meeting the requirement for you to have 10 cards in your trash.",
+        "question": "I have 9 cards in my trash when this Digimon is deleted. If this results in my having 10 cards in my trash, does this card’s [On Deletion] effect activate?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+          "text": "BT-06: Booster Double Diamond"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+          "text": "BT-06: Booster Double Diamond"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ]
+  },
+  "type": "Demon Lord"
+}

@@ -1,0 +1,190 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "00",
+  "cardEffects": "[When Digivolving] Both players trash the top 5 cards of their decks.\n[On Deletion] If you have a Tamer in play, you may play 1 level 6 Digimon card with [Gallantmon] in its name from your hand or trash without paying its memory cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "3",
+      "level": "5"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "5"
+    }
+  ],
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+        "captionText": "BTC-02: Booster Digital Impact (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-083-C.png",
+        "imgName": "BT5-083-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ef/BT5-083-C.png/revision/latest?cb=20231120183131",
+        "uploadDate": "2023-11-20T18:31:31"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-083.png",
+        "imgName": "BT5-083.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7f/BT5-083.png/revision/latest?cb=20210720175555",
+        "uploadDate": "2021-07-20T17:55:55"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Battle_of_Omni_Pre-Release_Pack",
+        "captionText": "Battle of Omni Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-083_P0.png",
+        "imgName": "BT5-083_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cc/BT5-083_P0.png/revision/latest?cb=20220306110334",
+        "uploadDate": "2022-03-06T11:03:34"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Digimon_Card_Game_Deck_Box_Set_Beelzemon",
+        "captionText": "Digimon Card Game Deck Box Set Beelzemon (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-083_P1.png",
+        "imgName": "BT5-083_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/15/BT5-083_P1.png/revision/latest?cb=20230203024941",
+        "uploadDate": "2023-02-03T02:49:41"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-083-J.png",
+        "imgName": "BT5-083-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f2/BT5-083-J.png/revision/latest?cb=20240113134901",
+        "uploadDate": "2024-01-13T13:49:01"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Digimon_Card_Game_Deck_Box_Set_Beelzemon",
+        "captionText": "Digimon Card Game Deck Box Set Beelzemon (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-083_P1-J.png",
+        "imgName": "BT5-083_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/ce/BT5-083_P1-J.png/revision/latest?cb=20241129070658",
+        "uploadDate": "2024-11-29T07:06:58"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-083-K.png",
+        "imgName": "BT5-083-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/ce/BT5-083-K.png/revision/latest?cb=20230819155235",
+        "uploadDate": "2023-08-19T15:52:35"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7f/BT5-083.png/revision/latest?cb=20210720175555",
+  "korean": "메기드라몬",
+  "level": "6",
+  "name": "Megidramon",
+  "nameJapanese": "メギドラモン",
+  "playCost": "12",
+  "rarity": "Rare",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+          "text": "BTC-02: Booster Digital Impact"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Gold Outline - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Battle_of_Omni_Pre-Release_Pack",
+          "text": "Battle of Omni Pre-Release Pack"
+        },
+        "foil&Rarity": "Gold Outline - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Digimon_Card_Game_Deck_Box_Set_Beelzemon",
+          "text": "Digimon Card Game Deck Box Set Beelzemon"
+        },
+        "foil&Rarity": "Textured - Full Art - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Gold Outline - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Digimon_Card_Game_Deck_Box_Set_Beelzemon",
+          "text": "Digimon Card Game Deck Box Set Beelzemon"
+        },
+        "foil&Rarity": "Textured - Full Art - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "灭世龙兽",
+  "traditionalChinese": "滅世魔龍獸",
+  "type": "Evil Dragon/Four Great Dragons"
+}

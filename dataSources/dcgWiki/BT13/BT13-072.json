@@ -1,0 +1,88 @@
+{
+  "attribute": "Data",
+  "blockIcon": "02",
+  "cardEffects": "[When Digivolving] Reveal the top 3 cards of your deck. Place 1 card with the [X Antibody] trait among them under this Digimon as its bottom digivolution card. Trash the rest. If a card is placed by this effect, this Digimon can't have its DP reduced until the end of your opponent's turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-072.png",
+        "imgName": "BT13-072.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/67/BT13-072.png/revision/latest?cb=20230714185529",
+        "uploadDate": "2023-07-14T18:55:29"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-072-J.png",
+        "imgName": "BT13-072-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d6/BT13-072-J.png/revision/latest?cb=20230217122639",
+        "uploadDate": "2023-02-17T12:26:39"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-072-Sample-J.png",
+        "imgName": "BT13-072-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1f/BT13-072-Sample-J.png/revision/latest?cb=20230122064536",
+        "uploadDate": "2023-01-22T06:45:36"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/67/BT13-072.png/revision/latest?cb=20230714185529",
+  "inheritedEffect": "[End of Your Turn] [Once Per Turn] You may place 1 Digimon card with the [X Antibody] trait from your hand under this Digimon as its bottom digivolution card.",
+  "level": "5",
+  "name": "DoruGreymon",
+  "nameJapanese": "ドルグレモン",
+  "nameTranslated": "DORUguremon",
+  "playCost": "8",
+  "rarity": "Common",
+  "rule": "[Rule] Name: Not treated as having [Greymon].",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "type": "Beast Dragon/X Antibody"
+}

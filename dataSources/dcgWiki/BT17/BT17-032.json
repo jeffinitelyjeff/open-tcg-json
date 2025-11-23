@@ -1,0 +1,107 @@
+{
+  "attribute": "Data",
+  "blockIcon": "03",
+  "cardEffects": "[When Digivolving] If you don't have [Rika Nonaka], you may play 1 [Rika Nonaka] from your hand without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-032.png",
+        "imgName": "BT17-032.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ea/BT17-032.png/revision/latest?cb=20240720075634",
+        "uploadDate": "2024-07-20T07:56:34"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-032-J.png",
+        "imgName": "BT17-032-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/19/BT17-032-J.png/revision/latest?cb=20240322064310",
+        "uploadDate": "2024-03-22T06:43:10"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-032-Sample-J.png",
+        "imgName": "BT17-032-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/90/BT17-032-Sample-J.png/revision/latest?cb=20240306130636",
+        "uploadDate": "2024-03-06T13:06:36"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ea/BT17-032.png/revision/latest?cb=20240720075634",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When you use an option card with a cost of 2 or more, 1 of your opponent's Digimon gains ＜Security A. -1＞ (This Digimon checks 1 fewer security card.) until the end of their turn.",
+  "level": "4",
+  "name": "Kyubimon",
+  "nameJapanese": "キュウビモン",
+  "playCost": "5",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT17-032#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT17-032 (Sep. 6, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, as long as the Option card you use has a cost of 2 or more, this card's inherited effect activates regardless of the actual cost paid.",
+        "question": "If I activate an effect that reduces the cost of an Option card with a cost of 2 or more and I only pay a cost of 1, or if I do not pay the cost at all by activating an effect that allows me to use an Option card without paying the cost, does this card's inherited effect activate?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it doesn’t activate.  It doesn't activate if the cost of an Option card consistently changes when it's in the hand and becomes 1 or less due to that card's effect.",
+        "question": "Does this card's inherited effect activate if I use an Option card when it has a cost of 1 or less due to a \"reduce the cost of this card in the hand by 1\" effect on a card such as  such as BT2-099 [Glorious Burst] or BT8-097 [Crimson Blaze]?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:KISUKE",
+          "text": "KISUKE"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:KISUKE",
+          "text": "KISUKE"
+        }
+      }
+    ]
+  },
+  "type": "Mysterious Beast"
+}

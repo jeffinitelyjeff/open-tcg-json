@@ -1,0 +1,154 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Veemon]: Cost 2",
+  "attribute": "Vaccine",
+  "blockIcon": "02",
+  "cardEffects": "＜Armor Purge＞  (When this Digimon would be deleted, you may trash the top card of this Digimon to prevent that deletion.)\n[When Digivolving] 1 of your opponent's Digimon gets -2000 DP for the turn. If you have a blue or yellow Tamer in play, or if you have a card with the [Armor Form] trait in your trash, 1 of your opponent's Digimon with 6000 DP or less can't attack or block until the end of your opponent's turn.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow / Blue",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "3",
+    "level": "3"
+  },
+  "dp": "6000 DP",
+  "form": "Armor Form",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+        "captionText": "EX-04: Theme Booster Alternative Being (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX4-027.png",
+        "imgName": "EX4-027.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/08/EX4-027.png/revision/latest?cb=20230623132843",
+        "uploadDate": "2023-06-23T13:28:43"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+        "captionText": "EX-04: Theme Booster Alternative Being (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX4-027_P1.png",
+        "imgName": "EX4-027_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/72/EX4-027_P1.png/revision/latest?cb=20230623132843",
+        "uploadDate": "2023-06-23T13:28:43"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+        "captionText": "EX-04: Theme Booster Alternative Being (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX4-027-J.png",
+        "imgName": "EX4-027-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bf/EX4-027-J.png/revision/latest?cb=20221216140139",
+        "uploadDate": "2022-12-16T14:01:39"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+        "captionText": "EX-04: Theme Booster Alternative Being (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX4-027_P1-J.png",
+        "imgName": "EX4-027_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/75/EX4-027_P1-J.png/revision/latest?cb=20221223154455",
+        "uploadDate": "2022-12-23T15:44:55"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+        "captionText": "EX-04: Theme Booster Alternative Being (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX4-027-Sample-J.png",
+        "imgName": "EX4-027-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cd/EX4-027-Sample-J.png/revision/latest?cb=20221212060633",
+        "uploadDate": "2022-12-12T06:06:33"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+        "captionText": "EX-04: Theme Booster Alternative Being (Alternative Art) (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX4-027_P1-Sample-J.png",
+        "imgName": "EX4-027_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/20/EX4-027_P1-Sample-J.png/revision/latest?cb=20221215114445",
+        "uploadDate": "2022-12-15T11:44:45"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/08/EX4-027.png/revision/latest?cb=20230623132843",
+  "level": "4",
+  "name": "GoldVeedramon",
+  "nameJapanese": "ゴールドブイドラモン",
+  "nameTranslated": "GoldVdramon",
+  "playCost": "6",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX4-027#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX4-027 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, it can't. A Digimon targeted by this effect will be affected until the timing specified in the effect, even if its DP increases to 7000 or more after the effect activates.",
+        "question": "\"My opponent used this card's [When Digivolving] effect to prevent my Digimon with 6000 DP or less from attacking or blocking. If that Digimon's DP increased to 7000 or more by an effect afterwards, can it attack or block?\"",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "If I use this card's [When Digivolving] effect on an opponent's Digimon with 8000 DP and its DP is reduced by -2000 so that it becomes 6000 in a situation where I have a blue or yellow Tamer in play or I have a card with the [Armor Form] trait in my trash, can I choose that Digimon as the target for the effect that prevents 1 Digimon from attacking or blocking?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+          "text": "EX-04: Theme Booster Alternative Being"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+          "text": "EX-04: Theme Booster Alternative Being"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+          "text": "EX-04: Theme Booster Alternative Being"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+          "text": "EX-04: Theme Booster Alternative Being"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ]
+  },
+  "type": "Mythical Dragon"
+}

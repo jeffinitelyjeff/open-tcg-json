@@ -1,0 +1,131 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Wizardmon]: Cost 0",
+  "attribute": "Data",
+  "blockIcon": "04",
+  "cardEffects": "[On Play] [When Digivolving] Add your top security card to the hand. Then, if [Wizardmon] or [X Antibody] is in this Digimon's digivolution cards, you may place 1 yellow or purple Option card with cost of 5 or less from your hand as your bottom security card.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow / Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "6000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-036.png",
+        "imgName": "BT19-036.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b3/BT19-036.png/revision/latest?cb=20241011092007",
+        "uploadDate": "2024-10-11T09:20:07"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-036-J.png",
+        "imgName": "BT19-036-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4e/BT19-036-J.png/revision/latest?cb=20240920100000",
+        "uploadDate": "2024-09-20T10:00:00"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-036-Sample-J.png",
+        "imgName": "BT19-036-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a1/BT19-036-Sample-J.png/revision/latest?cb=20240816064641",
+        "uploadDate": "2024-08-16T06:46:41"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b3/BT19-036.png/revision/latest?cb=20241011092007",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When this yellow Digimon with the [Data] or [Witchelny] trait would leave the battle area by your opponent's effects, by trashing your top security card, it doesn't leave.",
+  "level": "4",
+  "name": "Wizardmon (X Antibody)",
+  "nameJapanese": "ウィザーモンX抗体",
+  "playCost": "6",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT19-036#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT19-036 (Nov. 1, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "A yellow Option card with a cost of 5 or less or a purple Option card with a cost of 5 or less.",
+        "question": "What cards can be placed as the bottom security card by this card's [On Play] [When Digivolving] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "A yellow Digimon with this card in its digivolution cards and the [Data] trait or a yellow Digimon with this card in its digivolution cards and the [Witchelny] trait.",
+        "question": "What cards will trigger this card's inherited effect when they would leave the battle area?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "If [Wizardmon] or [X Antibody] is in digivolution cards, can I use this card’s [On Play] [When Digivolving] effect to place a yellow or purple Option card with a cost of 5 or less from my hand as the bottom security card even when I can't add my top security card to the hand?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+          "text": "BT18-19: Special Booster Ver.2.0"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.0_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.0 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+          "text": "BT-19: Booster Xros Evolution"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      }
+    ]
+  },
+  "type": "Wizard/X Antibody/Witchelny"
+}

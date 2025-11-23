@@ -1,0 +1,232 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "04",
+  "cardEffects": "＜Fragment (3)＞ (When this Digimon would be deleted, by trashing any 3 of its digivolution cards, it isn't deleted.)\n[When Digivolving] [When Attacking] By trashing any 3 digivolution cards with the [Mineral] or [Rock] trait from your Digimon, this Digimon unsuspends and gains ＜Security A. +1＞ for the turn. (This Digimon checks 1 additional security card.)\n[End of Your Turn] [Once Per Turn] You may place up to 3 cards with the [Mineral] or [Rock] trait from your trash as this Digimon's bottom digivolution cards.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "4",
+    "level": "5"
+  },
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+        "captionText": "EX-08: Extra Booster Chain of Liberation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-055.png",
+        "imgName": "EX8-055.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cf/EX8-055.png/revision/latest?cb=20241205071336",
+        "uploadDate": "2024-12-05T07:13:36"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+        "captionText": "EX-08: Extra Booster Chain of Liberation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-055_P1.png",
+        "imgName": "EX8-055_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/aa/EX8-055_P1.png/revision/latest?cb=20241213123430",
+        "uploadDate": "2024-12-13T12:34:30"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+        "captionText": "EX-08: Extra Booster Chain of Liberation (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-055-J.png",
+        "imgName": "EX8-055-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/47/EX8-055-J.png/revision/latest?cb=20241122064652",
+        "uploadDate": "2024-11-22T06:46:52"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+        "captionText": "EX-08: Extra Booster Chain of Liberation (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-055-Sample-J.png",
+        "imgName": "EX8-055-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8c/EX8-055-Sample-J.png/revision/latest?cb=20241114115338",
+        "uploadDate": "2024-11-14T11:53:38"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+        "captionText": "EX-08: Extra Booster Chain of Liberation (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-055_P1-J.png",
+        "imgName": "EX8-055_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/64/EX8-055_P1-J.png/revision/latest?cb=20241129065855",
+        "uploadDate": "2024-11-29T06:58:55"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+        "captionText": "EX-08: Extra Booster Chain of Liberation (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-055_P1-Sample-J.png",
+        "imgName": "EX8-055_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9b/EX8-055_P1-Sample-J.png/revision/latest?cb=20241119091448",
+        "uploadDate": "2024-11-19T09:14:48"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cf/EX8-055.png/revision/latest?cb=20241205071336",
+  "level": "6",
+  "name": "Pyramidimon",
+  "nameJapanese": "ピラミディモン",
+  "playCost": "12",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX8-055#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX8-055 (Jan. 10, 2025)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.",
+        "question": "Can I use this card's [When Digivolving] [When Attacking] effect to trash a total of 3 digivolution cards from my multiple different Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't.  A \"by doing X\" condition can't be met if only some of the required actions are performed.  The conditions for this [When Digivolving] [When Attacking] effect require you to trash the specified number of digivolution cards.",
+        "question": "Can I trash just 2 digivolution cards for the conditions of this card's [When Digivolving] [When Attacking] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "Can I use this card's [End of Your Turn] effect to place Digi-Egg cards with the [Mineral] or [Rock] trait from my trash as digivolution cards?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't.  If this card's [End of Your Turn] effect activates, you must place at least 1 card in digivolution cards.  However, if you choose to not activate this effect, it won't activate and you don't place any cards in digivolution cards.",
+        "question": "Can I activate this card's [End of Your Turn] effect but choose to not to place cards with the [Mineral] or [Rock] trait from my trash as this Digimon's bottom digivolution cards?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/PB-22:_Digimon_Liberator_Debuggers_Set",
+          "text": "PB-22: Digimon Liberator Debuggers Set"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kanchi_Fukunari",
+          "text": "Kanchi Fukunari"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/PB-22:_Digimon_Liberator_Debuggers_Set",
+          "text": "PB-22: Digimon Liberator Debuggers Set"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kanchi_Fukunari",
+          "text": "Kanchi Fukunari"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/PB-22:_Digimon_Liberator_Debuggers_Set",
+          "text": "PB-22: Digimon Liberator Debuggers Set"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kanchi_Fukunari",
+          "text": "Kanchi Fukunari"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/PB-22:_Digimon_Liberator_Debuggers_Set",
+          "text": "PB-22: Digimon Liberator Debuggers Set"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kanchi_Fukunari",
+          "text": "Kanchi Fukunari"
+        }
+      }
+    ]
+  },
+  "type": "Mineral/LIBERATOR"
+}

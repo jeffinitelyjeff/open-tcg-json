@@ -1,0 +1,168 @@
+{
+  "attribute": "Free",
+  "blockIcon": "01",
+  "cardEffects": "[When Digivolving] If a Digimon card with the [Free] trait is in this Digimon's digivolution cards, unsuspend this Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "3",
+      "level": "4"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "3",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-019.png",
+        "imgName": "EX1-019.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/21/EX1-019.png/revision/latest?cb=20211126152115",
+        "uploadDate": "2021-11-26T15:21:15"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-019_P1.png",
+        "imgName": "EX1-019_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bb/EX1-019_P1.png/revision/latest?cb=20211203111524",
+        "uploadDate": "2021-12-03T11:15:24"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-019-J.png",
+        "imgName": "EX1-019-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b1/EX1-019-J.png/revision/latest?cb=20210721041512",
+        "uploadDate": "2021-07-21T04:15:12"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-019_P1-J.png",
+        "imgName": "EX1-019_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4f/EX1-019_P1-J.png/revision/latest?cb=20210730160812",
+        "uploadDate": "2021-07-30T16:08:12"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-019-Sample-J.png",
+        "imgName": "EX1-019-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/aa/EX1-019-Sample-J.png/revision/latest?cb=20210710091607",
+        "uploadDate": "2021-07-10T09:16:07"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (Alternative Art) (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-019_P1-Sample-J.png",
+        "imgName": "EX1-019_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d6/EX1-019_P1-Sample-J.png/revision/latest?cb=20210710091618",
+        "uploadDate": "2021-07-10T09:16:18"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/21/EX1-019.png/revision/latest?cb=20211126152115",
+  "inheritedEffect": "[Your Turn] While this Digimon has [Imperialdramon] in its name, it can't be blocked.",
+  "korean": "파일드라몬",
+  "level": "5",
+  "name": "Paildramon",
+  "nameJapanese": "パイルドラモン",
+  "playCost": "8",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX1-019#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX1-019 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "If you attack with a Digimon that has this inherited effect while the effect is active, your opponent's Digimon can't change the target of the attack by blocking.",
+        "question": "This card’s inherited effect reads, “This Digimon can't be blocked.” How does this effect work, exactly?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it can.",
+        "question": "I have a Digimon with [Imperialdramon] and this card in its digivolution cards. Can it attack an opponent’s suspended Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't. If your Digimon has the \"...can't be blocked\" effect, your opponent's Digimon can't block or suspend to block.",
+        "question": "My opponent attacks with a Digimon with [Imperialdramon] and this card in its digivolution cards. Even though I can't block it, can I still try to block with my Digimon with ＜Blocker＞ just to suspend my Digimon?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-01: Extra Booster",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": "EXC-01: Extra Booster",
+        "foil&Rarity": "Textured - Classic Art - Alternative Art",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "Textured - Classic Art - Alternative Art",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "Textured - Classic Art - Alternative Art",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "simplifiedChinese": "机甲龙兽",
+  "traditionalChinese": "機甲龍獸",
+  "type": "Dragonkin"
+}

@@ -1,0 +1,113 @@
+{
+  "blockIcon": "03",
+  "cardEffects": "[Main] By trashing 1 card in your hand, delete 1 of your opponent's level 6 or lower Digimon. If this effect trashed a card with the [Seven Great Demon Lords] trait, place this card in the battle area.\n[All Turns] When an effect plays an opponent's Digimon, ＜Delay＞ (By trashing this card after the placing turn, activate the effect below.)\n・ You may play 1 [Leviamon] from your trash without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Purple",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-069.png",
+        "imgName": "EX5-069.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/04/EX5-069.png/revision/latest?cb=20240112102920",
+        "uploadDate": "2024-01-12T10:29:20"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-069-J.png",
+        "imgName": "EX5-069-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/70/EX5-069-J.png/revision/latest?cb=20230818055404",
+        "uploadDate": "2023-08-18T05:54:04"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-069-Sample-J.png",
+        "imgName": "EX5-069-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6d/EX5-069-Sample-J.png/revision/latest?cb=20230728053114",
+        "uploadDate": "2023-07-28T05:31:14"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/04/EX5-069.png/revision/latest?cb=20240112102920",
+  "name": "Biting Crush",
+  "nameJapanese": "ロストルム",
+  "nameTranslated": "Rostrum",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX5-069#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX5-069 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "It refers to the card trashed from your hand.",
+        "question": "Does this card's \"if this effect trashed a card with the [Seven Great Demon Lords] trait\" refer to the card trashed from my hand or my opponent's level 6 or lower Digimon that I deleted?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, ＜Delay＞ effects are \"trash this card in your battle area to activate\" effects, therefore you can choose to not trash the card in order to prevent them from activating.",
+        "question": "If an effect plays an opponent's Digimon while this card is in the battle area, do I have to activate ＜Delay＞?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it doesn't.",
+        "question": "When an effect plays an opponent's Digimon into the breeding area, does this card's ＜Delay＞ activate?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it doesn't.  [Marcus Damon] is played as a Tamer by [BT13-020 ShineGreymon: Burst Mode] effect and then it's treated as being a Digimon by an effect, therefore it isn't considered to be played as a Digimon.",
+        "question": "If my opponent uses [BT13-020 ShineGreymon: Burst Mode]'s effect to play [Marcus Damon] as a Digimon, does this card's ＜Delay＞ activate?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it activates.",
+        "question": "Does this card's ＜Delay＞ also activate when one of my effects plays an opponent's Digimon?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Activate this card's [Main] effects.",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ]
+  },
+  "useCost": "8"
+}

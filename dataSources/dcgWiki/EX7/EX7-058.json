@@ -1,0 +1,113 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [LadyDevimon]: Cost 0",
+  "attribute": "Virus",
+  "blockIcon": "04",
+  "cardEffects": "[On Play] [When Digivolving] 1 of your opponent's Digimon gains \"[End of Attack] Delete this Digimon.\" until the end of their turn. Then, if this Digimon has [LadyDevimon] or [X Antibody] in its digivolution cards, you may play 1 [Volée & Zerdrücken] Token. (Digimon/Lv.4/Purple/5000 DP/＜Blocker＞ ＜Retaliation＞)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+        "captionText": "EX-07: Extra Booster Digimon Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX7-058.png",
+        "imgName": "EX7-058.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/67/EX7-058.png/revision/latest?cb=20240830172743",
+        "uploadDate": "2024-08-30T17:27:43"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+        "captionText": "EX-07: Extra Booster Digimon Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX7-058-J.png",
+        "imgName": "EX7-058-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4c/EX7-058-J.png/revision/latest?cb=20240524113207",
+        "uploadDate": "2024-05-24T11:32:07"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+        "captionText": "EX-07: Extra Booster Digimon Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX7-058-Sample-J.png",
+        "imgName": "EX7-058-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fc/EX7-058-Sample-J.png/revision/latest?cb=20240505003242",
+        "uploadDate": "2024-05-05T00:32:42"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/67/EX7-058.png/revision/latest?cb=20240830172743",
+  "inheritedEffect": "[Opponent's Turn] [Once Per Turn] When an opponent's Digimon is deleted, you may play 1 purple level 4 or lower Digimon card from your trash without paying the cost.",
+  "level": "5",
+  "name": "LadyDevimon (X Antibody)",
+  "nameJapanese": "レディーデビモンX抗体",
+  "playCost": "8",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX7-058#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX7-058 (Jan. 10, 2025)"
+      },
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX7-058#qaResult_card",
+        "num": 2,
+        "text": "Official English Q&A for EX7-058 (Sep. 13, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "You can give that effect to such Digimon, but Digimon that aren't affected by effects won't be affected by it, therefore the gained effect won't trigger.",
+        "question": "Can I use this card's [On Play] [When Digivolving] effect to give \"[End of Attack] Delete this Digimon\" to a Digimon that isn't affected by effects?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it doesn't trigger.  If this card's [On Play] [When Digivolving] effect gives \"[End of Attack] Delete this Digimon\" to a Digimon, then it triggers, that Digimon's player will be the player considered to have triggered/activated that effect, therefore <Partition> won't trigger.",
+        "question": "Can I use this card's [On Play] [When Digivolving] effect to give \"[End of Attack] Delete this Digimon\" to a Digimon, then it's deleted, does <Partition> on that Digimon trigger?",
+        "reference": "[2]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+          "text": "EX-07: Extra Booster Digimon Liberator"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-07:_Extra_Booster_Digimon_Liberator",
+          "text": "EX-07: Extra Booster Digimon Liberator"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
+        }
+      }
+    ]
+  },
+  "type": "Fallen Angel/X Antibody"
+}

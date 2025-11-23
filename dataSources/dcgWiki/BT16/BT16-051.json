@@ -1,0 +1,166 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Dorimon]: Cost 0",
+  "attribute": "Data",
+  "blockIcon": "03",
+  "cardEffects": "[Start of Your Main Phase] By placing 1 [Kosuke Kisakata] from your hand as this Digimon's bottom digivolution card, until the end of your opponent's turn, this Digimon can't leave the battle area other than by deletion.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black / Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "1",
+      "level": "2"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "1",
+      "level": "2"
+    }
+  ],
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-051.png",
+        "imgName": "BT16-051.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c7/BT16-051.png/revision/latest?cb=20240426204050",
+        "uploadDate": "2024-04-26T20:40:50"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-051_P1.png",
+        "imgName": "BT16-051_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4b/BT16-051_P1.png/revision/latest?cb=20240426204050",
+        "uploadDate": "2024-04-26T20:40:50"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-051-J.png",
+        "imgName": "BT16-051-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5b/BT16-051-J.png/revision/latest?cb=20231215073418",
+        "uploadDate": "2023-12-15T07:34:18"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-051-Sample-J.png",
+        "imgName": "BT16-051-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9a/BT16-051-Sample-J.png/revision/latest?cb=20231130113052",
+        "uploadDate": "2023-11-30T11:30:52"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-051_P1-J.png",
+        "imgName": "BT16-051_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2f/BT16-051_P1-J.png/revision/latest?cb=20231222085654",
+        "uploadDate": "2023-12-22T08:56:54"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-051_P1-Sample-J.png",
+        "imgName": "BT16-051_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2e/BT16-051_P1-Sample-J.png/revision/latest?cb=20231211073041",
+        "uploadDate": "2023-12-11T07:30:41"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c7/BT16-051.png/revision/latest?cb=20240426204050",
+  "inheritedEffect": "[All Turns] This Digimon gets +1000 DP.",
+  "level": "3",
+  "name": "Dorumon",
+  "nameJapanese": "ドルモン",
+  "playCost": "3",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT16-051#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT16-051 (Nov. 1, 2024)"
+      },
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT16-051#qaResult_card",
+        "num": 2,
+        "text": "Official English Q&A for BT16-051 (Jun. 6, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "It means that this Digimon can no longer leave the battle area by processing other than deletion. Such processing includes \"return to the hand/deck,\" \"place in the security stack,\" and \"place under another Digimon or Tamer.\"  It only leaves the battle area by deletion.",
+        "question": "What does \"this Digimon can't leave the battle area other than by deletion\" in this card's [Start of Your Main Phase] effect mean, exactly?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, the card is trashed.  Digimon without DP can't be in the battle area according to the rules, therefore upon the rule check timing, the card is considered a card that doesn't belong in the battle area and is trashed.  This is why that card is trashed even if that Digimon is affected by this card's [Start of Your Main Phase] effect.",
+        "question": "If a Digimon that's affected by this card's [Start of Your Main Phase] effect would be trashed because it has no DP, is it still prevented from leaving the battle area?",
+        "reference": "[2]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "type": "Beast/X Antibody/SoC"
+}

@@ -1,0 +1,133 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Sephirothmon]: Cost 0",
+  "attribute": "Variable",
+  "blockIcon": "02",
+  "cardEffects": "You may digivolve this card from your hand onto one of your black Tamers as if the Tamer is a level 3 black Digimon.\n[On Play] [When Digivolving] 1 of your Digimon gains ＜Blocker＞ (This Digimon can block in the blocker timing.) until the end of your opponent's turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "form": "Hybrid",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-066.png",
+        "imgName": "BT12-066.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bc/BT12-066.png/revision/latest?cb=20230421194633",
+        "uploadDate": "2023-04-21T19:46:33"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-066-J.png",
+        "imgName": "BT12-066-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0a/BT12-066-J.png/revision/latest?cb=20221111110527",
+        "uploadDate": "2022-11-11T11:05:27"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-066-Sample-J.png",
+        "imgName": "BT12-066-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0f/BT12-066-Sample-J.png/revision/latest?cb=20221019060752",
+        "uploadDate": "2022-10-19T06:07:52"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bc/BT12-066.png/revision/latest?cb=20230421194633",
+  "level": "4",
+  "name": "Mercurymon",
+  "nameJapanese": "メルキューレモン",
+  "nameTranslated": "Mercuremon",
+  "playCost": "6",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT12-066#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT12-066 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, Tamer cards' [Security] effects aren't inherited effects. Some Tamer cards do have inherited effects, and those can be activated when such cards are placed in digivolution cards.",
+        "question": "If this card has a Tamer card in its digivolution cards, does that Tamer card’s [Security] effect become an inherited effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "Instead of a Tamer card, can I digivolve this card onto a level 3 Digimon that meets the digivolution requirements?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it is. However, if the effect specifies Digimon cards, Digi-Egg cards, or any other type of card that isn't a Tamer card, it can't be targeted by that effect.",
+        "question": "After this card's effect causes a Tamer card to end up in its digivolution cards, is that card affected by effects that trash digivolution cards?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you do. Even if you digivolve onto a Tamer card, make sure to draw 1 card as the digivolution bonus.",
+        "question": "If I digivolve this card on top of a Tamer card, do I still get the digivolution bonus?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes. Digivolution doesn't count as “playing” a card, so you can attack that turn.",
+        "question": "Can I attack during the turn I digivolve this card on top of a Tamer card?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. Digimon cannot attack on the turn they were played, and because the Tamer was played that turn, the restriction still applies to the Digimon that digivolved onto it.",
+        "question": "On the turn I have played a Tamer, I digivolve it into this Digimon. During that same turn, can this Digimon attack?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "It’s trashed.",
+        "question": "If I've digivolved this card on top of a Tamer card and the Digimon is deleted, what happens to the Tamer card?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ]
+  },
+  "type": "Mutant"
+}

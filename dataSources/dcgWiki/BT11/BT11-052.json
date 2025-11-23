@@ -1,0 +1,116 @@
+{
+  "attribute": "Data",
+  "blockIcon": "02",
+  "cardEffects": "[On Play] [When Digivolving] You may play 1 Tamer card with a play cost of 3 or less from your hand without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green / Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-052.png",
+        "imgName": "BT11-052.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/11/BT11-052.png/revision/latest?cb=20230210132444",
+        "uploadDate": "2023-02-10T13:24:44"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Dimensional_Phase_Pre-Release_Pack",
+        "captionText": "Dimensional Phase Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-052_P0.png",
+        "imgName": "BT11-052_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/87/BT11-052_P0.png/revision/latest?cb=20230210210902",
+        "uploadDate": "2023-02-10T21:09:02"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-052-J.png",
+        "imgName": "BT11-052-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/06/BT11-052-J.png/revision/latest?cb=20220922114913",
+        "uploadDate": "2022-09-22T11:49:13"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-052-Sample-J.png",
+        "imgName": "BT11-052-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0d/BT11-052-Sample-J.png/revision/latest?cb=20220823045108",
+        "uploadDate": "2022-08-23T04:51:08"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/11/BT11-052.png/revision/latest?cb=20230210132444",
+  "inheritedEffect": "[Your Turn] While you have a Tamer in play, this Digimon gets +2000 DP.",
+  "korean": "티라노몬",
+  "level": "4",
+  "name": "Tyrannomon",
+  "nameJapanese": "ティラノモン",
+  "nameTranslated": "Tyranomon",
+  "playCost": "5",
+  "rarity": "Rare",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Dimensional_Phase_Pre-Release_Pack",
+          "text": "Dimensional Phase Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "巨龙兽",
+  "traditionalChinese": "巨龍獸",
+  "type": "Dinosaur"
+}

@@ -1,0 +1,159 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "00",
+  "cardEffects": "[Main] ＜Digi-Burst 1＞ (You may trash 1 of this Digimon's digivolution cards to activate the effect below.)\n・1 of your Digimon gets +2000 DP until the end of your opponent's next turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": null,
+        "captionText": "BTC-03: Booster Diamond Legend (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-072-C.png",
+        "imgName": "BT4-072-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/56/BT4-072-C.png/revision/latest?cb=20231120153840",
+        "uploadDate": "2023-11-20T15:38:40"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-072.png",
+        "imgName": "BT4-072.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/15/BT4-072.png/revision/latest?cb=20210430125216",
+        "uploadDate": "2021-04-30T12:52:16"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Event_Pack_2",
+        "captionText": "Event Pack 2 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-072_P1.png",
+        "imgName": "BT4-072_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7e/BT4-072_P1.png/revision/latest?cb=20220102152345",
+        "uploadDate": "2022-01-02T15:23:45"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-072-J.png",
+        "imgName": "BT4-072-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d3/BT4-072-J.png/revision/latest?cb=20201218200957",
+        "uploadDate": "2020-12-18T20:09:57"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-072-K.png",
+        "imgName": "BT4-072-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/10/BT4-072-K.png/revision/latest?cb=20230815133246",
+        "uploadDate": "2023-08-15T13:32:46"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/15/BT4-072.png/revision/latest?cb=20210430125216",
+  "inheritedEffect": "[All Turns] This Digimon gets +1000 DP.",
+  "korean": "고그마몬",
+  "level": "5",
+  "name": "Gogmamon",
+  "nameJapanese": "ゴグマモン",
+  "playCost": "8",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT4-072#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT4-072 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.",
+        "question": "Can I choose [BT4-072 Gogmamon] itself as the target for this card's effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-03: Booster Diamond Legend",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Event_Pack_2",
+          "text": "Event Pack 2"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "戈格马兽",
+  "traditionalChinese": "歌革瑪獸",
+  "type": "Rock"
+}

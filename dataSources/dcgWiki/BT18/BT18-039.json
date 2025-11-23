@@ -1,0 +1,117 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "04",
+  "cardEffects": "＜Barrier＞ (When this Digimon would be deleted in battle, by trashing the top card of your security stack, prevent that deletion.)\n[On Play] [When Digivolving] By trashing the top card of your security stack, change the original DP of 1 Digimon to 6000 until the end of your opponent's turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-039.png",
+        "imgName": "BT18-039.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/54/BT18-039.png/revision/latest?cb=20241011091642",
+        "uploadDate": "2024-10-11T09:16:42"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-039-J.png",
+        "imgName": "BT18-039-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/59/BT18-039-J.png/revision/latest?cb=20240621114656",
+        "uploadDate": "2024-06-21T11:46:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-039-Sample-J.png",
+        "imgName": "BT18-039-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d1/BT18-039-Sample-J.png/revision/latest?cb=20240530094751",
+        "uploadDate": "2024-05-30T09:47:51"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/54/BT18-039.png/revision/latest?cb=20241011091642",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When a card is removed from your security stack, unsuspend this Digimon.",
+  "level": "5",
+  "name": "Mistymon",
+  "nameJapanese": "ミスティモン",
+  "playCost": "7",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT18-039#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT18-039 (Nov. 1, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Such effects change the original DP shown on the target card to the predetermined value shown in the effect.  For example, if a Digimon has an original DP of 8000 and it's chosen as the target for a \"[Main] Change the original DP of 1 of your opponent's Digimon to 3000 until the end of their turn\" effect, that Digimon's original DP will become 3000 instead of 8000.",
+        "question": "What does the \"change 1 Digimon's original DP\" effect do, exactly?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Its original DP is changed, then +1000 is added to the changed DP.  Values added to DP don't affect the original DP.",
+        "question": "What happens if a Digimon that got +1000 DP has its original DP changed by the \"change 1 Digimon's original DP\" effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "The original DP is changed to the most recent value.",
+        "question": "What happens if a Digimon has its original DP changed and is then affected by a \"change 1 Digimon's original DP\" effect again?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it can't.  Effects that change information can't change information that a card didn't originally have.  For example, if a Digimon has its original DP changed by an effect and then its top card becomes a card without DP due to a ＜De-Digivolve＞ effect, it will no longer be affected by the effect that changes the original DP.",
+        "question": "Can a Digimon without DP be affected by the \"change 1 Digimon's original DP\" effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+          "text": "BT18-19: Special Booster Ver.2.0"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+          "text": "BT-18: Booster Elemental Successor"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ]
+  },
+  "type": "Magic Warrior/Witchelny"
+}

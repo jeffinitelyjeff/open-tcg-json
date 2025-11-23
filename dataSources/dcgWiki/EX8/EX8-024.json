@@ -1,0 +1,116 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[DS] trait: Cost 3",
+  "attribute": "Data",
+  "blockIcon": "04",
+  "cardEffects": "[On Play] [When Digivolving] 1 of your Digimon unsuspends.\n[When Attacking] [Once Per Turn] If you have 1 or more memory, 1 of your opponent's Digimon can't suspend until the end of their turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+        "captionText": "EX-08: Extra Booster Chain of Liberation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-024.png",
+        "imgName": "EX8-024.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fd/EX8-024.png/revision/latest?cb=20241213123153",
+        "uploadDate": "2024-12-13T12:31:53"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+        "captionText": "EX-08: Extra Booster Chain of Liberation (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-024-J.png",
+        "imgName": "EX8-024-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6b/EX8-024-J.png/revision/latest?cb=20241122063954",
+        "uploadDate": "2024-11-22T06:39:54"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+        "captionText": "EX-08: Extra Booster Chain of Liberation (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-024-Sample-J.png",
+        "imgName": "EX8-024-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0b/EX8-024-Sample-J.png/revision/latest?cb=20241024090555",
+        "uploadDate": "2024-10-24T09:05:55"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fd/EX8-024.png/revision/latest?cb=20241213123153",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] By placing 1 of your other Digimon as this Digimon's bottom digivolution card, it unsuspends.",
+  "level": "5",
+  "name": "MegaSeadramon",
+  "nameJapanese": "メガシードラモン",
+  "playCost": "7",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX8-024#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX8-024 (Jan. 10, 2025)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "It refers to when the memory gauge is at 1 or further to the left on your side.",
+        "question": "What position on the memory gauge does \"if you have 1 or more memory\" refer to?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ]
+  },
+  "type": "Aquatic/DS"
+}

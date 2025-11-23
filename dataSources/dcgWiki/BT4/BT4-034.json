@@ -1,0 +1,146 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "00",
+  "cardEffects": "[When Attacking] Trash the bottom digivolution card of 1 of your opponent's Digimon. When you do, ＜Draw 1＞ (Draw 1 card from your deck.) and gain 1 memory.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "3",
+    "level": "5"
+  },
+  "dp": "11000 DP",
+  "errata": [
+    {
+      "afterImageURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/19/BT4-034.png/revision/latest?cb=20210430124214",
+      "afterText": "Mega | Virus | Aquatic",
+      "beforeText": "Mega | Virus | Sea Animal"
+    }
+  ],
+  "form": "Mega",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": null,
+        "captionText": "BTC-03: Booster Diamond Legend (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-034-C.png",
+        "imgName": "BT4-034-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f4/BT4-034-C.png/revision/latest?cb=20231120151747",
+        "uploadDate": "2023-11-20T15:17:47"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-034.png",
+        "imgName": "BT4-034.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/19/BT4-034.png/revision/latest?cb=20210430124214",
+        "uploadDate": "2021-04-30T12:42:14"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-034-J.png",
+        "imgName": "BT4-034-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d1/BT4-034-J.png/revision/latest?cb=20201218200901",
+        "uploadDate": "2020-12-18T20:09:01"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-034-K.png",
+        "imgName": "BT4-034-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ef/BT4-034-K.png/revision/latest?cb=20230815131252",
+        "uploadDate": "2023-08-15T13:12:52"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/19/BT4-034.png/revision/latest?cb=20210430124214",
+  "korean": "레가렉스몬",
+  "level": "6",
+  "name": "Regalecusmon",
+  "nameJapanese": "レガレクスモン",
+  "playCost": "11",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT4-034#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT4-034 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. If you didn't trash any digivolution cards with the [When Attacking] effect, you don't get to trigger ＜Draw 1＞ or gain 1 memory.",
+        "question": "When this Digimon attacked, my opponent didn't have any Digimon with digivolution cards, and I wasn't able to use the [When Attacking] effect to trash digivolution cards. Do I still get to trigger ＜Draw 1＞ and gain 1 memory?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-03: Booster Diamond Legend",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "皇带鱼兽",
+  "traditionalChinese": "皇帶魚獸",
+  "type": "Aquatic"
+}

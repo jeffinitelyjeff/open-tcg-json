@@ -1,0 +1,119 @@
+{
+  "attribute": "Free",
+  "blockIcon": "01",
+  "cardEffects": "When you would play this card from your hand, reduce its play cost by 1 if you have a blue Digimon in play.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "2",
+      "level": "3"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "2",
+      "level": "3"
+    }
+  ],
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-036.png",
+        "imgName": "BT8-036.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/ff/BT8-036.png/revision/latest?cb=20220422124927",
+        "uploadDate": "2022-04-22T12:49:27"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-036-J.png",
+        "imgName": "BT8-036-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/57/BT8-036-J.png/revision/latest?cb=20211119075606",
+        "uploadDate": "2021-11-19T07:56:06"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-036-Sample-J.png",
+        "imgName": "BT8-036-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4a/BT8-036-Sample-J.png/revision/latest?cb=20211113053104",
+        "uploadDate": "2021-11-13T05:31:04"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/ff/BT8-036.png/revision/latest?cb=20220422124927",
+  "inheritedEffect": "[When Attacking] If you have a blue Digimon in play, 1 of your opponent's Digimon gets -3000 DP for the turn.",
+  "level": "4",
+  "name": "Ankylomon",
+  "nameJapanese": "アンキロモン",
+  "playCost": "4",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT8-036#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT8-036 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it does.",
+        "question": "If the Digimon with this card in its digivolution cards is itself blue, does this card’s inherited effect activate?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shosuke",
+          "text": "shosuke"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shosuke",
+          "text": "shosuke"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shosuke",
+          "text": "shosuke"
+        }
+      }
+    ]
+  },
+  "type": "Ankylosaur"
+}

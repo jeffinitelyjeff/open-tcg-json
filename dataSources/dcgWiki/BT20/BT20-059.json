@@ -1,0 +1,154 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Gankoomon]: Cost 2",
+  "attribute": "Data",
+  "blockIcon": "04",
+  "cardEffects": "[When Digivolving] ＜De-Digivolve  2＞ 1 of your opponent's Digimon. (Trash up to 2 cards from the top. You can't trash past level 3 cards.) Then, if [Gankoomon] or [X Antibody] is in this Digimon's digivolution cards, until the end of your opponent's turn, none of your Digimon are affected by your opponent's Digimon's effects.\n[Opponent's Turn] All of your Digimon with [Sistermon] or [Huckmon] in their names or the [Royal Knight] trait gain ＜Reboot＞ (Unsuspend this Digimon during your opponent's unsuspend phase.) and ＜Blocker＞ (This Digimon can block in the blocker timing.).",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "5",
+      "level": "5"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "5",
+      "level": "5"
+    }
+  ],
+  "dp": "13000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-059.png",
+        "imgName": "BT20-059.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4f/BT20-059.png/revision/latest?cb=20250207071056",
+        "uploadDate": "2025-02-07T07:10:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-059-Sample.png",
+        "imgName": "BT20-059-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4a/BT20-059-Sample.png/revision/latest?cb=20241217031129",
+        "uploadDate": "2024-12-17T03:11:29"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-059-J.png",
+        "imgName": "BT20-059-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/58/BT20-059-J.png/revision/latest?cb=20250124093436",
+        "uploadDate": "2025-01-24T09:34:36"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-059-Sample-J.png",
+        "imgName": "BT20-059-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/17/BT20-059-Sample-J.png/revision/latest?cb=20241217033024",
+        "uploadDate": "2024-12-17T03:30:24"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4f/BT20-059.png/revision/latest?cb=20250207071056",
+  "inheritedEffect": "[Opponent's Turn] While this Digimon is [Jesmon GX] all of your Digimon gain ＜Reboot＞ (Unsuspend this Digimon during your opponent's unsuspend phase.) and ＜Blocker＞ (This Digimon can block in the blocker timing.).",
+  "level": "6",
+  "name": "Gankoomon (X Antibody)",
+  "nameJapanese": "ガンクゥモンX抗体",
+  "playCost": "13",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT20-059#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for BT20-059 (2025/01/24, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "This effect is not affected by effects. For example, \"Rest an opponent's Digimon.\" effect will not be rested, and \"DP-3000 an opponent's Digimon.\" will not be minus DP.",
+        "question": "What is the effect of \"not taking effect?\"",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can choose.",
+        "question": "Can a card with the \"no effect\" effect be selected for an effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it can be granted. The effect is not affected, but can be granted.",
+        "question": "Can a card with a \"no effect\" effect be given an effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "From the point of no longer being affected by the effect, it is no longer affected by the effect being granted.",
+        "question": "If a card with an effect is given an effect and later gets a \"no effect\" effect, what happens to the effect that is given?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "From the time it becomes subject to the effect, it is affected by the effect being granted.",
+        "question": "If a card with a \"no effect\" effect that is granted an effect later loses the \"no effect\" effect, what happens to the granted effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it does not trigger. If you give an effect that triggers to a Digimon that does not receive the effect, the effect will not be triggered.",
+        "question": "I added a triggering effect such as [When Attacking] effect to a card with \"No Effect\" effect. If the card then satisfies the conditions for triggering that effect, does the effect trigger?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.5_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.5 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp -",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+          "text": "BT-20: Booster Over the X"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      }
+    ]
+  },
+  "type": "Holy Warrior/X Antibody/Royal Knight"
+}

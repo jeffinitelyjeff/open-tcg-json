@@ -1,0 +1,111 @@
+{
+  "attribute": "Data",
+  "blockIcon": "02",
+  "cardEffects": "[When Digivolving] You may trash up to 2 blue cards in your hand. For each one, you may trash any 1 card under your opponent's Digimon or Tamers. Then, until the end of your opponent's turn, 1 of their Digimon or Tamers without cards under it can't suspend.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-014.png",
+        "imgName": "RB1-014.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/25/RB1-014.png/revision/latest?cb=20230901095553",
+        "uploadDate": "2023-09-01T09:55:53"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-014-J.png",
+        "imgName": "RB1-014-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6a/RB1-014-J.png/revision/latest?cb=20231017222216",
+        "uploadDate": "2023-10-17T22:22:16"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/25/RB1-014.png/revision/latest?cb=20230901095553",
+  "inheritedEffect": "[End of Attack] [Once Per Turn] By returning 3 cards with [Jellymon] in their texts from your trash to the bottom of the deck in any order, unsuspend this Digimon.",
+  "level": "5",
+  "name": "Thetismon",
+  "nameJapanese": "テティスモン",
+  "playCost": "7",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=RB1-014#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for RB1-014 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.",
+        "question": "When I trash multiple blue cards in my hand, can I use this card's [When Digivolving] effect to choose separate opponent's Digimon or Tamers and trash the cards under each one?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "It refers to states where a Digimon doesn't have any digivolution cards and a Tamer doesn't have any cards placed under it.",
+        "question": "What kind of state does \"1 of your opponent’s Digimon or Tamers without cards under it\" in this card's [When Digivolving] effect refer to?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-07: Booster Great Warrior",
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "忒提丝兽",
+  "traditionalChinese": "忒提斯獸",
+  "type": "Aquabeast"
+}

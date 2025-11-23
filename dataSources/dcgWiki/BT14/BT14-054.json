@@ -1,0 +1,125 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.)\n[When Digivolving] By unsuspending this Digimon, suspend 1 of your opponent's Digimon.\n[End of Your Turn] This Digimon may attack an opponent's Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "4",
+    "level": "5"
+  },
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-054.png",
+        "imgName": "BT14-054.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/25/BT14-054.png/revision/latest?cb=20231027105754",
+        "uploadDate": "2023-10-27T10:57:54"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Blast_Ace_Pre-Release_Pack",
+        "captionText": "Blast Ace Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-054_P0.png",
+        "imgName": "BT14-054_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/18/BT14-054_P0.png/revision/latest?cb=20231116222504",
+        "uploadDate": "2023-11-16T22:25:04"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-054-J.png",
+        "imgName": "BT14-054-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/89/BT14-054-J.png/revision/latest?cb=20231111060144",
+        "uploadDate": "2023-11-11T06:01:44"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/25/BT14-054.png/revision/latest?cb=20231027105754",
+  "korean": "샤벨레오몬",
+  "level": "6",
+  "name": "SaberLeomon",
+  "nameJapanese": "サーベルレオモン",
+  "playCost": "12",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT14-054#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT14-054 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it can.",
+        "question": "Can this card's [When Digivolving] effect unsuspend this Digimon even when my opponent has no Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't. At the end of your turn, these cards' [End of Your Turn] effects trigger at the same time, the activation order is decided, and then the attack occurs for the 1st Digimon. After activation of effects that are triggered upon attack declaration such as [When Attacking] effects and \"when one of your Digimon attacks\" effects but before the counter timing, the activation would next occur for the other [End of Your Turn] effect that was pending activation, but because the 1st Digimon is still attacking, you can't make a new attack declaration, and the 2nd effect activation fails.",
+        "question": "When I have 2 copies of this Digimon, can I use this card's [End of Your Turn] effect to attack using these 2 Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't. This effect does not allow you to attack with Digimon that are in a state where they can't attack.",
+        "question": "Can I use this card's [End of Your Turn] effect to attack even when this Digimon is suspended?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Blast_Ace_Pre-Release_Pack",
+          "text": "Blast Ace Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "剑狮兽",
+  "traditionalChinese": "黃金劍獅獸",
+  "type": "Ancient Animal"
+}

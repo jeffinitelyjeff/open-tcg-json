@@ -1,0 +1,618 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "00,02",
+  "cardEffects": "[When Digivolving] ＜Blitz＞ (If your opponent has 1 or more memory, this Digimon may attack.)\n[When Digivolving] Unsuspend this Digimon.\n[All Turns] When an opponent's effect would delete this Digimon or return it to the hand or deck, by trashing 1 level 6 Digimon card in this Digimon's digivolution cards, prevent it from leaving play.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "White",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "4",
+      "level": "6"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "4",
+      "level": "6"
+    }
+  ],
+  "dp": "14000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+        "captionText": "BTC-02: Booster Digital Impact (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-086-C.png",
+        "imgName": "BT5-086-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bf/BT5-086-C.png/revision/latest?cb=20231120183219",
+        "uploadDate": "2023-11-20T18:32:19"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+        "captionText": "BTC-02: Booster Digital Impact (Alternative Art) (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-086_P1-C.png",
+        "imgName": "BT5-086_P1-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/87/BT5-086_P1-C.png/revision/latest?cb=20231120212820",
+        "uploadDate": "2023-11-20T21:28:20"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+        "captionText": "BTC-02: Booster Digital Impact (Alternative Art) (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-086_P2-C.png",
+        "imgName": "BT5-086_P2-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/54/BT5-086_P2-C.png/revision/latest?cb=20231120212842",
+        "uploadDate": "2023-11-20T21:28:42"
+      },
+      {
+        "captionLink": null,
+        "captionText": "BTC-03: Booster Diamond Legend (Alternative Art) (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-086_P3-C.png",
+        "imgName": "BT5-086_P3-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a1/BT5-086_P3-C.png/revision/latest?cb=20231120212856",
+        "uploadDate": "2023-11-20T21:28:56"
+      },
+      {
+        "captionLink": null,
+        "captionText": "BTC-03: Booster Diamond Legend (Alternative Art) (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-086_P4-C.png",
+        "imgName": "BT5-086_P4-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/30/BT5-086_P4-C.png/revision/latest?cb=20231120212950",
+        "uploadDate": "2023-11-20T21:29:50"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-086.png",
+        "imgName": "BT5-086.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/aa/BT5-086.png/revision/latest?cb=20210720175556",
+        "uploadDate": "2021-07-20T17:55:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-086_P1.png",
+        "imgName": "BT5-086_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5e/BT5-086_P1.png/revision/latest?cb=20210730082321",
+        "uploadDate": "2021-07-30T08:23:21"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-086_P2.png",
+        "imgName": "BT5-086_P2.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f8/BT5-086_P2.png/revision/latest?cb=20210730082321",
+        "uploadDate": "2021-07-30T08:23:21"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-086_P3.png",
+        "imgName": "BT5-086_P3.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3b/BT5-086_P3.png/revision/latest?cb=20210730082319",
+        "uploadDate": "2021-07-30T08:23:19"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-086_P4.png",
+        "imgName": "BT5-086_P4.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/75/BT5-086_P4.png/revision/latest?cb=20210730082320",
+        "uploadDate": "2021-07-30T08:23:20"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/World_Championship_2021",
+        "captionText": "World Championship 2021 (1st Place Prize) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-086_P5.png",
+        "imgName": "BT5-086_P5.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/38/BT5-086_P5.png/revision/latest?cb=20221012150109",
+        "uploadDate": "2022-10-12T15:01:09"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Across_Time",
+        "captionText": "Box Promotion Pack: Across Time (Rare Pull) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-086_P6.png",
+        "imgName": "BT5-086_P6.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b4/BT5-086_P6.png/revision/latest?cb=20230516181233",
+        "uploadDate": "2023-05-16T18:12:33"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-086_P7.png",
+        "imgName": "BT5-086_P7.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/70/BT5-086_P7.png/revision/latest?cb=20230901095556",
+        "uploadDate": "2023-09-01T09:55:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Regionals_2024",
+        "captionText": "Regionals 2024 (Top 8 Prize) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-086_P8.png",
+        "imgName": "BT5-086_P8.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/26/BT5-086_P8.png/revision/latest?cb=20240406062900",
+        "uploadDate": "2024-04-06T06:29:00"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/PB-21:_Tamer%27s_Evolution_Box_-_Rise_of_Digimon",
+        "captionText": "PB-21: Tamer's Evolution Box - Rise of Digimon (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-086_P9.png",
+        "imgName": "BT5-086_P9.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/90/BT5-086_P9.png/revision/latest?cb=20250320070549",
+        "uploadDate": "2025-03-20T07:05:49"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-086-J.png",
+        "imgName": "BT5-086-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9a/BT5-086-J.png/revision/latest?cb=20210219055853",
+        "uploadDate": "2021-02-19T05:58:53"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-086_P1-J.png",
+        "imgName": "BT5-086_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/91/BT5-086_P1-J.png/revision/latest?cb=20210226085738",
+        "uploadDate": "2021-02-26T08:57:38"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-086_P2-J.png",
+        "imgName": "BT5-086_P2-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cb/BT5-086_P2-J.png/revision/latest?cb=20210226085846",
+        "uploadDate": "2021-02-26T08:58:46"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-086_P3-J.png",
+        "imgName": "BT5-086_P3-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1f/BT5-086_P3-J.png/revision/latest?cb=20210226085847",
+        "uploadDate": "2021-02-26T08:58:47"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-086_P4-J.png",
+        "imgName": "BT5-086_P4-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/04/BT5-086_P4-J.png/revision/latest?cb=20210226085847",
+        "uploadDate": "2021-02-26T08:58:47"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Across_Time",
+        "captionText": "Box Promotion Pack: Across Time (Rare Pull) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-086_P5-J.png",
+        "imgName": "BT5-086_P5-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1a/BT5-086_P5-J.png/revision/latest?cb=20221213073156",
+        "uploadDate": "2022-12-13T07:31:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-086_P6-J.png",
+        "imgName": "BT5-086_P6-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/64/BT5-086_P6-J.png/revision/latest?cb=20230124110644",
+        "uploadDate": "2023-01-24T11:06:44"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/PB-21:_Tamer%27s_Evolution_Box_-_Rise_of_Digimon",
+        "captionText": "PB-21: Tamer's Evolution Box - Rise of Digimon (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-086_P7-J.png",
+        "imgName": "BT5-086_P7-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8b/BT5-086_P7-J.png/revision/latest?cb=20250320130409",
+        "uploadDate": "2025-03-20T13:04:09"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-086-K.png",
+        "imgName": "BT5-086-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/ba/BT5-086-K.png/revision/latest?cb=20230819155327",
+        "uploadDate": "2023-08-19T15:53:27"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (Alternative Art) (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-086_P1-K.png",
+        "imgName": "BT5-086_P1-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1c/BT5-086_P1-K.png/revision/latest?cb=20230819160158",
+        "uploadDate": "2023-08-19T16:01:58"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (Alternative Art) (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-086_P2-K.png",
+        "imgName": "BT5-086_P2-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8a/BT5-086_P2-K.png/revision/latest?cb=20230819160359",
+        "uploadDate": "2023-08-19T16:03:59"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (Alternative Art) (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-086_P3-K.png",
+        "imgName": "BT5-086_P3-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9e/BT5-086_P3-K.png/revision/latest?cb=20230819160333",
+        "uploadDate": "2023-08-19T16:03:33"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (Alternative Art) (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-086_P4-K.png",
+        "imgName": "BT5-086_P4-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b5/BT5-086_P4-K.png/revision/latest?cb=20230819160533",
+        "uploadDate": "2023-08-19T16:05:33"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/aa/BT5-086.png/revision/latest?cb=20210720175556",
+  "korean": "오메가몬",
+  "level": "7",
+  "name": "Omnimon",
+  "nameJapanese": "オメガモン",
+  "nameTranslated": "Omegamon",
+  "playCost": "15",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT5-086#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT5-086 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes. If you activate ＜Blitz＞ first, you declare the attack and suspend the Digimon at that point in time. If you then activate the \"Unsuspend this Digimon\" effect, you can unsuspend this Digimon itself.",
+        "question": "When this card digivolves, can I activate ＜Blitz＞ first to attack, then use the \"Unsuspend this Digimon\" effect to unsuspend this Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. This card's [All Turns] effect prevents other effects from deleting this Digimon or returning it to its owner's hand or deck, so it isn't treated as being deleted by the game rules.",
+        "question": "When this Digimon is deleted, I activate this card's [All Turns] effect to have this Digimon remain in the battle area. Does this cause \"When another Digimon is deleted\" effects to activate?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+          "text": "BTC-02: Booster Digital Impact"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+          "text": "BTC-02: Booster Digital Impact"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+          "text": "BTC-02: Booster Digital Impact"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      },
+      {
+        "boosterSet": "BTC-03: Booster Diamond Legend",
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      },
+      {
+        "boosterSet": "BTC-03: Booster Diamond Legend",
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/PB-21:_Tamer%27s_Evolution_Box_-_Rise_of_Digimon",
+          "text": "PB-21: Tamer's Evolution Box - Rise of Digimon"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Gold Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Gold Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Gold Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Gold Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/World_Championship_2021",
+          "text": "World Championship 2021"
+        },
+        "foil&Rarity": "Trophy - 1st Place Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Across_Time",
+          "text": "Box Promotion Pack: Across Time"
+        },
+        "foil&Rarity": "Textured - Classic Art - Rare Pull",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Textured - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Regionals_2024",
+          "text": "Regionals 2024"
+        },
+        "foil&Rarity": "Textured - Stamped - Top 8 Prize",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/PB-21:_Tamer%27s_Evolution_Box_-_Rise_of_Digimon",
+          "text": "PB-21: Tamer's Evolution Box - Rise of Digimon"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Gold Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Gold Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Gold Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Gold Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Across_Time",
+          "text": "Box Promotion Pack: Across Time"
+        },
+        "foil&Rarity": "Textured - Classic Art - Rare Pull",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Textured - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/PB-21:_Tamer%27s_Evolution_Box_-_Rise_of_Digimon",
+          "text": "PB-21: Tamer's Evolution Box - Rise of Digimon"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/PB-21:_Tamer%27s_Evolution_Box_-_Rise_of_Digimon",
+          "text": "PB-21: Tamer's Evolution Box - Rise of Digimon"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "奥米加兽",
+  "traditionalChinese": "奧米加 獸",
+  "type": "Holy Warrior/Royal Knight"
+}

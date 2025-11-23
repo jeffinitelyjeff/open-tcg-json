@@ -1,0 +1,109 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Darcmon] w/[HippoGryphonmon] digivolution card: Cost 4",
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "[When Digivolving] If [Darcmon] and [HippoGryphonmon] are in this Digimon's digivolution cards, by deleting 1 of your other Digimon, you may play 1 [Ornismon] from your trash without paying the cost.\n[All Turns] [Once Per Turn] When one of your other Digimon is deleted, delete 1 of your opponent's Digimon with level equal to or less than the deleted Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "4",
+      "level": "5"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "5"
+    }
+  ],
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-071.png",
+        "imgName": "BT17-071.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8d/BT17-071.png/revision/latest?cb=20240720080102",
+        "uploadDate": "2024-07-20T08:01:02"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-071-J.png",
+        "imgName": "BT17-071-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/72/BT17-071-J.png/revision/latest?cb=20240322062943",
+        "uploadDate": "2024-03-22T06:29:43"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-071-Sample-J.png",
+        "imgName": "BT17-071-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/77/BT17-071-Sample-J.png/revision/latest?cb=20240228113449",
+        "uploadDate": "2024-02-28T11:34:49"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8d/BT17-071.png/revision/latest?cb=20240720080102",
+  "level": "6",
+  "name": "Murmukusmon",
+  "nameJapanese": "ヒポグリフォモン",
+  "playCost": "12",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT17-071#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT17-071 (Sep. 6, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.  This effect reads \"you may play,\" so if you perform the conditions specified for \"by X,\" you may choose whether or not to activate the effect shown in text.",
+        "question": "Can I use this card's [When Digivolving] effect to delete 1 of my other Digimon but then choose to not play [Ornismon]?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ]
+  },
+  "type": "Demon Lord"
+}

@@ -1,0 +1,173 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "00",
+  "cardEffects": "[Your Turn] When one of your red or yellow Tamers is suspended, this Digimon gains ＜Security A. +1＞ for the turn. (This Digimon checks 1 additional security card.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "5"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "5"
+    }
+  ],
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+        "captionText": "BTC-02: Booster Digital Impact (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-020-C.png",
+        "imgName": "BT4-020-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/56/BT4-020-C.png/revision/latest?cb=20231120151142",
+        "uploadDate": "2023-11-20T15:11:42"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-020.png",
+        "imgName": "BT4-020.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e0/BT4-020.png/revision/latest?cb=20210430124208",
+        "uploadDate": "2021-04-30T12:42:08"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Great_Legend_Pre-Release_Pack",
+        "captionText": "Great Legend Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-020_P0.png",
+        "imgName": "BT4-020_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/09/BT4-020_P0.png/revision/latest?cb=20220306110320",
+        "uploadDate": "2022-03-06T11:03:20"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-020-J.png",
+        "imgName": "BT4-020-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/05/BT4-020-J.png/revision/latest?cb=20201218200839",
+        "uploadDate": "2020-12-18T20:08:39"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-020-K.png",
+        "imgName": "BT4-020-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f2/BT4-020-K.png/revision/latest?cb=20230815130712",
+        "uploadDate": "2023-08-15T13:07:12"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e0/BT4-020.png/revision/latest?cb=20210430124208",
+  "korean": "샤인그레이몬",
+  "level": "6",
+  "name": "ShineGreymon",
+  "nameJapanese": "シャイングレイモン",
+  "playCost": "12",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT4-020#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT4-020 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. Even if multiple of your red and/or yellow tamers are suspended at the same time, there is still only one instance of cards being suspended, so this card only gains ＜Security A. +1＞ once.",
+        "question": "If 2 of my red and/or yellow Tamers are suspended at the same time, does this Digimon gain ＜Security A. +1＞ twice?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes. If your red and/or yellow tamers are suspended at 2 different timings, this card would gain ＜Security A. +1＞ twice, allowing you to check two extra cards.",
+        "question": "If 2 of my red and/or yellow Tamers are suspended at different timings, does this Digimon gain ＜Security A. +1＞ twice?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+          "text": "BTC-02: Booster Digital Impact"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shin_Sasaki",
+          "text": "Shin Sasaki"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "Gold Outline - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shin_Sasaki",
+          "text": "Shin Sasaki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Great_Legend_Pre-Release_Pack",
+          "text": "Great Legend Pre-Release Pack"
+        },
+        "foil&Rarity": "Gold Outline - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shin_Sasaki",
+          "text": "Shin Sasaki"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "Gold Outline - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shin_Sasaki",
+          "text": "Shin Sasaki"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shin_Sasaki",
+          "text": "Shin Sasaki"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "闪光暴龙兽",
+  "traditionalChinese": "閃光暴龍獸",
+  "type": "Light Dragon"
+}

@@ -1,0 +1,351 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "00,02",
+  "cardEffects": "[Your Turn] This Digimon is also treated as yellow\n[Main] ＜Digi-Burst 2＞ (You may trash 2 of this Digimon's digivolution cards to activate the effect below.)\n・You may play 1 red or yellow Tamer card with a play cost of 4 or less from your hand without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "4"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+        "captionText": "BTC-02: Booster Digital Impact (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-017-C.png",
+        "imgName": "BT4-017-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3f/BT4-017-C.png/revision/latest?cb=20231120151049",
+        "uploadDate": "2023-11-20T15:10:49"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+        "captionText": "BTC-02: Booster Digital Impact (Alternative Art) (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-017_P1-C.png",
+        "imgName": "BT4-017_P1-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b1/BT4-017_P1-C.png/revision/latest?cb=20231120161320",
+        "uploadDate": "2023-11-20T16:13:20"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-017.png",
+        "imgName": "BT4-017.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/df/BT4-017.png/revision/latest?cb=20210430124206",
+        "uploadDate": "2021-04-30T12:42:06"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-017_P1.png",
+        "imgName": "BT4-017_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f2/BT4-017_P1.png/revision/latest?cb=20210430124206",
+        "uploadDate": "2021-04-30T12:42:06"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Regionals_2023_Participation_Set_2",
+        "captionText": "Regionals 2023 Participation Set 2 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-017_P2.png",
+        "imgName": "BT4-017_P2.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6b/BT4-017_P2.png/revision/latest?cb=20230603020249",
+        "uploadDate": "2023-06-03T02:02:49"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Regionals_2023_Finalist_Set_2",
+        "captionText": "Regionals 2023 Finalist Set 2 (Top 32 & Top 8 Prize) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-017_P3.png",
+        "imgName": "BT4-017_P3.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ea/BT4-017_P3.png/revision/latest?cb=20230603020305",
+        "uploadDate": "2023-06-03T02:03:05"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Regionals_2023_Champion_Set_2",
+        "captionText": "Regionals 2023 Champion Set 2 (Top 2 & 1st Place Prize) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-017_P4.png",
+        "imgName": "BT4-017_P4.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/46/BT4-017_P4.png/revision/latest?cb=20230603020315",
+        "uploadDate": "2023-06-03T02:03:15"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-017_P5.png",
+        "imgName": "BT4-017_P5.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/50/BT4-017_P5.png/revision/latest?cb=20230901114152",
+        "uploadDate": "2023-09-01T11:41:52"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-017-J.png",
+        "imgName": "BT4-017-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/ce/BT4-017-J.png/revision/latest?cb=20201218200834",
+        "uploadDate": "2020-12-18T20:08:34"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-017_P1-J.png",
+        "imgName": "BT4-017_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d5/BT4-017_P1-J.png/revision/latest?cb=20201218172643",
+        "uploadDate": "2020-12-18T17:26:43"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-017_P2-J.png",
+        "imgName": "BT4-017_P2-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/95/BT4-017_P2-J.png/revision/latest?cb=20230124110645",
+        "uploadDate": "2023-01-24T11:06:45"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-017-K.png",
+        "imgName": "BT4-017-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ee/BT4-017-K.png/revision/latest?cb=20230815130538",
+        "uploadDate": "2023-08-15T13:05:38"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (Alternative Art) (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-017_P1-K.png",
+        "imgName": "BT4-017_P1-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7a/BT4-017_P1-K.png/revision/latest?cb=20230815130501",
+        "uploadDate": "2023-08-15T13:05:01"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/50/BT4-017_P5.png/revision/latest?cb=20230901114152",
+  "inheritedEffect": "[When Attacking] If you have a Tamer, 1 of your opponent's Digimon gets -2000 DP for the turn.",
+  "korean": "라이즈그레이몬",
+  "level": "5",
+  "name": "RizeGreymon",
+  "nameJapanese": "ライズグレイモン",
+  "playCost": "8",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT4-017#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT4-017 (Mar. 28, 2024)"
+      },
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT4-017#qaResult_card",
+        "num": 2,
+        "text": "Official JP Q&A for BT4-017 (translated by DeepL)"
+      },
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT4-017#qaResult_card",
+        "num": 3,
+        "text": "Official JP Q&A for BT4-017 (2024/09/20, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. When a card is in any area other than your battle area, [Your Turn] effects do not apply. So this card is not treated as a yellow card and is treated only as a red card.",
+        "question": "If this card is in my hand, deck, or trash and another copy is revealed in a security check, is this Digimon treated as a yellow card?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. [Your Turn] effects do not apply in the breeding area, so this card is not treated as a yellow card and is treated only as a red card.",
+        "question": "When this card is in the breeding area, can I digivolve a Digimon on top of it that requires a yellow Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. When it is outside of the Battle Area, it does not activate the effect of [Your Turn], so it does not activate the effect of treating it as a yellow card, but only as a red card.",
+        "question": "Does this Digimon treat this card as a yellow card when it is in hand, deck, trash, or when it is turned over by a check from security?",
+        "reference": "[2]"
+      },
+      {
+        "answer": "No, the [Your Turn] effect is not activated in the Breeding Area, so it is not treated as a Yellow card and cannot be evolved from a Yellow Digimon to a Digivolution-ready Digimon.",
+        "question": "When this card is in the Breeding Area, can it evolve from a Yellow Digimon to a Digimon that can digivolve?",
+        "reference": "[2]"
+      },
+      {
+        "answer": "The card is either a \"Red tamer card with a play cost of 4 or less\" or a \"Yellow tamer card with a play cost of 4 or less\".",
+        "question": "Which cards can be played by this card's [Main] effect?",
+        "reference": "[3]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+          "text": "BTC-02: Booster Digital Impact"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+          "text": "BTC-02: Booster Digital Impact"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "Gold Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Regionals_2023_Participation_Set_2",
+          "text": "Regionals 2023 Participation Set 2"
+        },
+        "foil&Rarity": "Foil - Participation Stamp - Participation",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Regionals_2023_Finalist_Set_2",
+          "text": "Regionals 2023 Finalist Set 2"
+        },
+        "foil&Rarity": "Foil - Finalist Stamp - Top 32 Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Regionals_2023_Champion_Set_2",
+          "text": "Regionals 2023 Champion Set 2"
+        },
+        "foil&Rarity": "Foil - Champion Stamp - Top 2 Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Textured - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "Gold Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Textured - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "跃升暴龙兽",
+  "traditionalChinese": "進昇暴龍獸",
+  "type": "Cyborg"
+}

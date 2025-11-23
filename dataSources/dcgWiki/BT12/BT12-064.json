@@ -1,0 +1,148 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/＜Save＞ in text: Cost 3",
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[When Digivolving] ＜De-Digivolve  1＞ 1 of your opponent's Level 5 or lower Digimon. For every 2 cards in this Digimon's digivolution cards, add 1 to the maximum level of the Digimon you can choose with this effect.\n[On Deletion] ＜Save＞. Then, place 1 Digimon card with ＜Save＞ in its text from your trash under 1 of your Tamers.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "4"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "1",
+      "level": "3"
+    }
+  ],
+  "dp": "6000 DP",
+  "errata": [
+    {
+      "afterImageURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/ff/BT12-064-J.png/revision/latest?cb=20221111110528",
+      "afterText": "【相手のターン】このデジモンに≪セーブ≫の記述がある間、このデジモンは≪ブロッカー≫を得る。",
+      "beforeText": "【自分のターン】このデジモンに≪セーブ≫の記述がある間、このデジモンは≪ブロッカー≫を得る。"
+    }
+  ],
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-064.png",
+        "imgName": "BT12-064.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/36/BT12-064.png/revision/latest?cb=20230421194633",
+        "uploadDate": "2023-04-21T19:46:33"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Across_Time",
+        "captionText": "Box Promotion Pack: Across Time (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-064_P1.png",
+        "imgName": "BT12-064_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/48/BT12-064_P1.png/revision/latest?cb=20230421195258",
+        "uploadDate": "2023-04-21T19:52:58"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-064-J.png",
+        "imgName": "BT12-064-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/ff/BT12-064-J.png/revision/latest?cb=20221111110528",
+        "uploadDate": "2022-11-11T11:05:28"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Across_Time",
+        "captionText": "Box Promotion Pack: Across Time (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-064_P1-J.png",
+        "imgName": "BT12-064_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c1/BT12-064_P1-J.png/revision/latest?cb=20221213073035",
+        "uploadDate": "2022-12-13T07:30:35"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-064-Sample-J.png",
+        "imgName": "BT12-064-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/54/BT12-064-Sample-J.png/revision/latest?cb=20221107091604",
+        "uploadDate": "2022-11-07T09:16:04"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Across_Time",
+        "captionText": "Box Promotion Pack: Across Time (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-064_P1-Sample-J.png",
+        "imgName": "BT12-064_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/99/BT12-064_P1-Sample-J.png/revision/latest?cb=20221119193125",
+        "uploadDate": "2022-11-19T19:31:25"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/3/36/BT12-064.png/revision/latest?cb=20230421194633",
+  "inheritedEffect": "[Opponent's Turn] While this Digimon has ＜Save＞ in its text, it gains ＜Blocker＞ (This Digimon can block in the blocker timing.).",
+  "level": "4",
+  "name": "Tuwarmon",
+  "nameJapanese": "ツワーモン",
+  "playCost": "5",
+  "rarity": "Common",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Across_Time",
+          "text": "Box Promotion Pack: Across Time"
+        },
+        "foil&Rarity": "Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Across_Time",
+          "text": "Box Promotion Pack: Across Time"
+        },
+        "foil&Rarity": "Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      }
+    ]
+  },
+  "traditionalChinese": "強者獸",
+  "type": "Mutant/Xros Heart"
+}

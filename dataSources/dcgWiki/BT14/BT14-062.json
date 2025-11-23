@@ -1,0 +1,95 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "[All Turns] This Digimon can't be deleted by your opponent's effects.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "2",
+    "level": "4"
+  },
+  "dp": "6000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-062.png",
+        "imgName": "BT14-062.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e1/BT14-062.png/revision/latest?cb=20231027105754",
+        "uploadDate": "2023-10-27T10:57:54"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-062-J.png",
+        "imgName": "BT14-062-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4d/BT14-062-J.png/revision/latest?cb=20231111063251",
+        "uploadDate": "2023-11-11T06:32:51"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e1/BT14-062.png/revision/latest?cb=20231027105754",
+  "level": "5",
+  "name": "Datamon",
+  "nameJapanese": "ナノモン",
+  "nameTranslated": "Nanomon",
+  "playCost": "6",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT14-062#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT14-062 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "This effect prevents deletion when this Digimon is the target of an effect with \"delete\" in its card text. Deletion will still occur if you lose a battle, both players lose a battle, or if this Digimon's DP is reduced to 0.",
+        "question": "This card’s [All Turns] effect reads \"This Digimon can't be deleted by your opponent's effects.\" How does this effect work, exactly?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ]
+  },
+  "traditionalChinese": "分子獸",
+  "type": "Machine"
+}

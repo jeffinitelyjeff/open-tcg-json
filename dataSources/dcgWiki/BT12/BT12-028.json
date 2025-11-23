@@ -1,0 +1,156 @@
+{
+  "altDigivolutionRequirements": "[DNA Digivolve] Blue Lv.4 + Green Lv.4 : Cost 0\nStack the 2 specified Digimon and digivolve unsuspended.",
+  "attribute": "Free",
+  "blockIcon": "02",
+  "cardEffects": "[When Digivolving] Trash the top 3 digivolution cards of all of your opponent's Digimon. Then, if DNA digivolving, 2 of your opponent's Digimon with no digivolution cards can't attack until the end of your opponent's turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue / Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-028.png",
+        "imgName": "BT12-028.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f6/BT12-028.png/revision/latest?cb=20230421194630",
+        "uploadDate": "2023-04-21T19:46:30"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Across_Time_Pre-Release_Pack",
+        "captionText": "Across Time Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-028_P0.png",
+        "imgName": "BT12-028_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/00/BT12-028_P0.png/revision/latest?cb=20230421205128",
+        "uploadDate": "2023-04-21T20:51:28"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Demo_Deck:_Imperialdramon",
+        "captionText": "Demo Deck: Imperialdramon (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-028_P1.png",
+        "imgName": "BT12-028_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a8/BT12-028_P1.png/revision/latest?cb=20231115155854",
+        "uploadDate": "2023-11-15T15:58:54"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-028-J.png",
+        "imgName": "BT12-028-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b8/BT12-028-J.png/revision/latest?cb=20231013161018",
+        "uploadDate": "2023-10-13T16:10:18"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Demo_Deck:_Imperialdramon",
+        "captionText": "Demo Deck: Imperialdramon (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-028_P1-J.png",
+        "imgName": "BT12-028_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/83/BT12-028_P1-J.png/revision/latest?cb=20231027105758",
+        "uploadDate": "2023-10-27T10:57:58"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f6/BT12-028.png/revision/latest?cb=20230421194630",
+  "inheritedEffect": "[End of Attack] If this Digimon has [Imperialdramon] in its name or [Free] trait, gain 1 memory.",
+  "korean": "파일드라몬",
+  "level": "5",
+  "name": "Paildramon",
+  "nameJapanese": "パイルドラモン",
+  "playCost": "8",
+  "rarity": "Rare",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-06: Booster Across Dimension",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Across_Time_Pre-Release_Pack",
+          "text": "Across Time Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Demo_Deck:_Imperialdramon",
+          "text": "Demo Deck: Imperialdramon"
+        },
+        "foil&Rarity": "No Foil - New Card Layout - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Demo_Deck:_Imperialdramon",
+          "text": "Demo Deck: Imperialdramon"
+        },
+        "foil&Rarity": "No Foil - New Card Layout - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "机甲龙兽",
+  "traditionalChinese": "機甲龍獸",
+  "type": "Dragonkin"
+}

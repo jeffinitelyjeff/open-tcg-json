@@ -1,0 +1,198 @@
+{
+  "attribute": "Data",
+  "blockIcon": "00,01",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": null,
+        "captionText": "BTC-03: Booster Diamond Legend (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-038-C.png",
+        "imgName": "BT5-038-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f3/BT5-038-C.png/revision/latest?cb=20231120181130",
+        "uploadDate": "2023-11-20T18:11:30"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-038.png",
+        "imgName": "BT5-038.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/95/BT5-038.png/revision/latest?cb=20210720175538",
+        "uploadDate": "2021-07-20T17:55:38"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Winner_Pack_Next_Adventure",
+        "captionText": "Winner Pack Next Adventure (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-038_P1.png",
+        "imgName": "BT5-038_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/59/BT5-038_P1.png/revision/latest?cb=20220304195120",
+        "uploadDate": "2022-03-04T19:51:20"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-038-J.png",
+        "imgName": "BT5-038-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/29/BT5-038-J.png/revision/latest?cb=20210219055825",
+        "uploadDate": "2021-02-19T05:58:25"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Level_Up_Matching_Battle_ONLINE_August_2021",
+        "captionText": "- Level Up Matching Battle ONLINE August 2021 (2 Wins) - Level Up Matching Battle ONLINE November 2021 (2 Wins) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-038_P1-J.png",
+        "imgName": "BT5-038_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1a/BT5-038_P1-J.png/revision/latest?cb=20210822103411",
+        "uploadDate": "2021-08-22T10:34:11"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-038-K.png",
+        "imgName": "BT5-038-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d1/BT5-038-K.png/revision/latest?cb=20230819153103",
+        "uploadDate": "2023-08-19T15:31:03"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/95/BT5-038.png/revision/latest?cb=20210720175538",
+  "inheritedEffect": "[Your Turn] All of your opponent's Security Digimon get -1000 DP.",
+  "korean": "구미호몬",
+  "level": "4",
+  "name": "Kyubimon",
+  "nameJapanese": "キュウビモン",
+  "playCost": "5",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT5-038#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT5-038 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. Even if a Security Digimon is reduced to 0 DP, it still battles with the Digimon performing the security check.",
+        "question": "I flip over an opponent's Security Digimon during a security check, and this card's inherited effect reduces its DP to 0. Is the Digimon deleted on the spot, without a battle?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "The [Security] effect activates normally.",
+        "question": "This card's inherited effect reduces a Security Digimon's DP to 0, but it has a [Security] effect. What happens?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. It's no longer a Security Digimon once it enters play, so it doesn't have its DP reduced by this card's effect.",
+        "question": "If a Security Digimon has its DP reduced by this card's inherited effect and is later played due to its [Security] effect, does it still have its DP reduced when it enters play?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-03: Booster Diamond Legend",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Winner_Pack_Next_Adventure",
+          "text": "Winner Pack Next Adventure"
+        },
+        "foil&Rarity": "No Foil - Variant Art - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Level_Up_Matching_Battle_ONLINE_August_2021",
+          "text": "Level Up Matching Battle ONLINE August 2021"
+        },
+        "foil&Rarity": "No Foil - Variant Art - 2 Wins",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Level_Up_Matching_Battle_ONLINE_November_2021",
+          "text": "Level Up Matching Battle ONLINE November 2021"
+        },
+        "foil&Rarity": "No Foil - Variant Art - 2 Wins",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "九尾兽",
+  "traditionalChinese": "九尾狐獸",
+  "type": "Mysterious Beast"
+}

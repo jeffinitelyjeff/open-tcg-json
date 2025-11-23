@@ -1,0 +1,152 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Jesmon]: Cost 1",
+  "attribute": "Data",
+  "blockIcon": "04",
+  "cardEffects": "＜Alliance＞ (When this Digimon attacks, by suspending 1 of your other Digimon, add the suspended Digimon's DP to this Digimon and it gains ＜Security A. +1＞ for the attack.)\n[When Digivolving] If [Jesmon] or [X Antibody] is in this Digimon's digivolution cards, for the turn, 1 of your Digimon isn't affected by your opponent's effects. Then, 1 of your Digimon may attack.\n[Your Turn] All of your Digimon with [Sistermon] in their names or the [Royal Knight] trait gain ＜Piercing＞  (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.) and can also attack unsuspended Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "4",
+    "level": "5"
+  },
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-019.png",
+        "imgName": "BT20-019.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7e/BT20-019.png/revision/latest?cb=20250207070810",
+        "uploadDate": "2025-02-07T07:08:10"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-019-Sample.png",
+        "imgName": "BT20-019-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3d/BT20-019-Sample.png/revision/latest?cb=20241217120126",
+        "uploadDate": "2024-12-17T12:01:26"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-019-J.png",
+        "imgName": "BT20-019-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c8/BT20-019-J.png/revision/latest?cb=20250124093732",
+        "uploadDate": "2025-01-24T09:37:32"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-019-Sample-J.png",
+        "imgName": "BT20-019-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fb/BT20-019-Sample-J.png/revision/latest?cb=20241217144955",
+        "uploadDate": "2024-12-17T14:49:55"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7e/BT20-019.png/revision/latest?cb=20250207070810",
+  "inheritedEffect": "[Your Turn] While this Digimon is [Jesmon GX], all of your Digimon gain ＜Piercing＞  (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.) and can also attack unsuspended Digimon.",
+  "level": "6",
+  "name": "Jesmon (X Antibody)",
+  "nameJapanese": "ジエスモンX抗体",
+  "playCost": "12",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT20-019#qaResult_card",
+        "num": 1,
+        "text": "Official JP Q&A for BT20-019 (2025/01/24, translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it is possible.",
+        "question": "Can I use this card's [When Digivolving] effect to grant \"Immune to Opponent's Effect\" to one of my Digimon and attack with a Digimon different from that Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "This effect is not affected by effects. For example, \"Rest an opponent's Digimon.\" effect will not be rested, and \"DP-3000 an opponent's Digimon.\" will not be minus DP.",
+        "question": "What is the effect of \"not taking effect?\"",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can choose.",
+        "question": "Can a card with the \"no effect\" effect be selected for an effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it can be granted. The effect is not affected, but can be granted.",
+        "question": "Can a card with a \"no effect\" effect be given an effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "From the point of no longer being affected by the effect, it is no longer affected by the effect being granted.",
+        "question": "If a card with an effect is given an effect and later gets a \"no effect\" effect, what happens to the effect that is given?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "From the time it becomes subject to the effect, it is affected by the effect being granted.",
+        "question": "If a card with a \"no effect\" effect that is granted an effect later loses the \"no effect\" effect, what happens to the granted effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it does not trigger. If you give an effect that triggers to a Digimon that does not receive the effect, the effect will not be triggered.",
+        "question": "I added a triggering effect such as [When Attacking] effect to a card with \"No Effect\" effect. If the card then satisfies the conditions for triggering that effect, does the effect trigger?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.5_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.5 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp -",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+          "text": "BT-20: Booster Over the X"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      }
+    ]
+  },
+  "type": "Holy Warrior/X Antibody/Royal Knight"
+}

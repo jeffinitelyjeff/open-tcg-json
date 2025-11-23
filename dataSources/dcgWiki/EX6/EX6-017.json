@@ -1,0 +1,112 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] Reveal the top 3 cards of your deck. Add 1 Digimon card with the [Angel] or [Archangel] trait and 1 card with the [Three Great Angels] trait among them to your hand. Return the rest to the bottom of the deck.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-017.png",
+        "imgName": "EX6-017.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/85/EX6-017.png/revision/latest?cb=20240531091329",
+        "uploadDate": "2024-05-31T09:13:29"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-017-J.png",
+        "imgName": "EX6-017-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a5/EX6-017-J.png/revision/latest?cb=20240216085319",
+        "uploadDate": "2024-02-16T08:53:19"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-017-Sample-J.png",
+        "imgName": "EX6-017-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/87/EX6-017-Sample-J.png/revision/latest?cb=20240112044620",
+        "uploadDate": "2024-01-12T04:46:20"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/85/EX6-017.png/revision/latest?cb=20240531091329",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] If this Digimon has the [Angel], [Archangel] or [Three Great Angels] trait, ＜Draw 1＞ (Draw 1 card from your deck.)",
+  "level": "3",
+  "name": "Luxmon",
+  "nameJapanese": "ルクスモン",
+  "playCost": "3",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX6-017#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX6-017 (Sep. 6, 2024)"
+      },
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX6-017#qaResult_card",
+        "num": 2,
+        "text": "Official English Q&A for EX6-017 (Jun. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, even if you only reveal one of the applicable cards, you can still add it to your hand.",
+        "question": "If the cards I reveal from my deck for this card's [On Play] effect include only either a Digimon card with the [Angel] or [Archangel] trait or a card with the [Three Great Angels] trait, can I only add 1 card to my hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. If you have cards that are targets of this effect, you must add as many cards to your hand as possible.",
+        "question": "If the cards I reveal from my deck for this card's [On Play] effect include both a Digimon card with the [Angel] or [Archangel] trait and a card with the [Three Great Angels] trait, can I choose to only add one of them to my hand, and place the remaining cards at the bottom of my deck?",
+        "reference": "[2]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Minato_Sashima",
+          "text": "Minato Sashima"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Minato_Sashima",
+          "text": "Minato Sashima"
+        }
+      }
+    ]
+  },
+  "type": "Angel"
+}

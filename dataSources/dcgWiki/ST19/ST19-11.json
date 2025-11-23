@@ -1,0 +1,120 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "04",
+  "cardEffects": "[On Play] [When Digivolving] 1 of your opponent's Digimon gets -3000 DP for the turn. If there are 3 or more Digimon, increase the DP reduction of this effect by -3000.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-19:_Starter_Deck_Fable_Waltz",
+        "captionText": "ST-19: Starter Deck Fable Waltz (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST19-11.png",
+        "imgName": "ST19-11.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/69/ST19-11.png/revision/latest?cb=20240830171837",
+        "uploadDate": "2024-08-30T17:18:37"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-19:_Starter_Deck_Fable_Waltz",
+        "captionText": "ST-19: Starter Deck Fable Waltz (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST19-11-J.png",
+        "imgName": "ST19-11-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1d/ST19-11-J.png/revision/latest?cb=20240419105048",
+        "uploadDate": "2024-04-19T10:50:48"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-19:_Starter_Deck_Fable_Waltz",
+        "captionText": "ST-19: Starter Deck Fable Waltz (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST19-11-Sample-J.png",
+        "imgName": "ST19-11-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/56/ST19-11-Sample-J.png/revision/latest?cb=20240414063723",
+        "uploadDate": "2024-04-14T06:37:23"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/69/ST19-11.png/revision/latest?cb=20240830171837",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When this Digimon would leave the battle area other than by your effects, by deleting 1 of your Tokens or other [Puppet] trait trait Digimon, prevent it from leaving.",
+  "level": "5",
+  "name": "Chaperomon",
+  "nameJapanese": "シャペロモン",
+  "playCost": "7",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=ST19-11#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for ST19-11 (Sep. 13, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it does.  If there are 3 or more total Digimon between you and your opponent, you further reduce this DP-reducing effect by 3000.",
+        "question": "Does this card's [On Play] [When Digivolving] effect count both my Digimon and my opponent's Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "If the conditions are met, the -3000 DP effect will further get -3000 DP for a total reduction of -6000 DP for 1 of your opponent's Digimon.",
+        "question": "What does \"it further gets -3000 DP\" in this card's [On Play] [When Digivolving] effect mean, exactly?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "\"When [...] would leave the battle area\" refers to when this Digimon is placed in the trash, returned to the hand/deck, placed in the security stack, moved to the breeding area, or placed under another card.",
+        "question": "What does \"when [...] would leave the battle area\" in this card's [All Turns] inherited effect mean, exactly?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-19:_Starter_Deck_Fable_Waltz",
+          "text": "ST-19: Starter Deck Fable Waltz"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": "Fable Waltz Pre-Release Pack",
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-19:_Starter_Deck_Fable_Waltz",
+          "text": "ST-19: Starter Deck Fable Waltz"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ]
+  },
+  "type": "Puppet/LIBERATOR"
+}

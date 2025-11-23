@@ -1,0 +1,122 @@
+{
+  "blockIcon": "05",
+  "cardEffects": "While you have no face-up [Island of Adventure] security cards, you can ignore this card's color requirements.\n[Security] [All Turns] All of your level 3 or higher Digimon get +2000 DP.\n[Main] Add your top security card to the hand. Then, place this card face up as the top security card.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "White",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-20:_Starter_Deck_Protector_of_Light",
+        "captionText": "ST-20: Starter Deck Protector of Light (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST20-15.png",
+        "imgName": "ST20-15.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/ad/ST20-15.png/revision/latest?cb=20250404051941",
+        "uploadDate": "2025-04-04T05:19:41"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-20:_Starter_Deck_Protector_of_Light",
+        "captionText": "ST-20: Starter Deck Protector of Light (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST20-15-Sample.png",
+        "imgName": "ST20-15-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fa/ST20-15-Sample.png/revision/latest?cb=20250311044105",
+        "uploadDate": "2025-03-11T04:41:05"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-20:_Starter_Deck_Protector_of_Light",
+        "captionText": "ST-20: Starter Deck Protector of Light (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST20-15-J.png",
+        "imgName": "ST20-15-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/25/ST20-15-J.png/revision/latest?cb=20250404052613",
+        "uploadDate": "2025-04-04T05:26:13"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/ad/ST20-15.png/revision/latest?cb=20250404051941",
+  "name": "Island of Adventure",
+  "nameJapanese": "冒険の島",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=ST20-15#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for ST20-15 (Apr. 4, 2025)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "They become face-up security cards that remain revealed.Other than rules that specify face-up security cards, the rules apply in the same manner as standard security cards.",
+        "question": "What happens to cards placed face up in the security stack by effects?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "The check is performed with the card left revealed.Other than rules for cards left revealed, the rules apply in the same manner as standard security checks.",
+        "question": "What happens upon a security check for a security card that is placed face-up?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it triggers.",
+        "question": "Does a card's [Security] effect trigger upon a security check with that card placed face-up?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Any face-up cards are placed face down, then you shuffle the cards.After shuffling, all cards are left face-down.",
+        "question": "What happens if I shuffle a security stack that includes security cards placed face-up?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] You may play 1 Tamer card from your hand without paying the cost.",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-20:_Starter_Deck_Protector_of_Light",
+          "text": "ST-20: Starter Deck Protector of Light"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-20:_Starter_Deck_Protector_of_Light",
+          "text": "ST-20: Starter Deck Protector of Light"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-20:_Starter_Deck_Protector_of_Light",
+          "text": "ST-20: Starter Deck Protector of Light"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-20:_Starter_Deck_Protector_of_Light",
+          "text": "ST-20: Starter Deck Protector of Light"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "type": "ADVENTURE",
+  "useCost": "2"
+}

@@ -1,0 +1,106 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "04",
+  "cardEffects": "[All Turns] Your opponent can't gain memory other than by Tamer effects.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-059.png",
+        "imgName": "BT18-059.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7b/BT18-059.png/revision/latest?cb=20241011092514",
+        "uploadDate": "2024-10-11T09:25:14"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-059-J.png",
+        "imgName": "BT18-059-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c2/BT18-059-J.png/revision/latest?cb=20240621114656",
+        "uploadDate": "2024-06-21T11:46:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-059-Sample-J.png",
+        "imgName": "BT18-059-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/ce/BT18-059-Sample-J.png/revision/latest?cb=20240615071230",
+        "uploadDate": "2024-06-15T07:12:30"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7b/BT18-059.png/revision/latest?cb=20241011092514",
+  "level": "3",
+  "name": "Zenimon",
+  "nameJapanese": "ゼニモン",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT18-059#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT18-059 (Nov. 1, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "With this effect, your opponent's memory will no longer increase by any effects except Tamer effects. This effect affects the opponent player.",
+        "question": "What does the \"your opponent can't gain memory other than by Tamer effects\" effect do, exactly?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can gain memory.  When an effect is activated on a card that's treated as both a Digimon and a Tamer, the effect is treated as both a Digimon effect and a Tamer effect, therefore you can gain memory.",
+        "question": "Can I use the [All Turns] effect on BT17-087 [Marcus Damon] to gain memory if it's treated as a Digimon and suspends while my opponent has \"your opponent can't gain memory other than by Tamer effects\" activated?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+          "text": "BT18-19: Special Booster Ver.2.0"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+          "text": "BT-18: Booster Elemental Successor"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      }
+    ]
+  },
+  "type": "Mutant"
+}

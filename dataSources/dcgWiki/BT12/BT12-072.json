@@ -1,0 +1,171 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Machinedramon]/[Chaosdramon]: Cost 2",
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[Start of Your Main Phase] Place 1 Digimon card with the [Cyborg] or [Machine] trait from your trash under this Digimon as its bottom digivolution card.\n[All Turns] This Digimon gains all effects of [Machinedramon] and [Chaosdramon] cards in this Digimon's digivolution cards.\n[All Turns] [Once Per Turn] When this Digimon would be deleted, trash the top card of your opponent's security stack.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black / Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "5",
+      "level": "5"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "5",
+      "level": "5"
+    }
+  ],
+  "dp": "13000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-072.png",
+        "imgName": "BT12-072.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a5/BT12-072.png/revision/latest?cb=20230421194634",
+        "uploadDate": "2023-04-21T19:46:34"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Event_Pack_7",
+        "captionText": "Event Pack 7 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-072_P1.png",
+        "imgName": "BT12-072_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b3/BT12-072_P1.png/revision/latest?cb=20240830171514",
+        "uploadDate": "2024-08-30T17:15:14"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Special_Limited_Set",
+        "captionText": "Special Limited Set (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-072_P1.png",
+        "imgName": "BT12-072_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b3/BT12-072_P1.png/revision/latest?cb=20240830171514",
+        "uploadDate": "2024-08-30T17:15:14"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-072-J.png",
+        "imgName": "BT12-072-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3c/BT12-072-J.png/revision/latest?cb=20221111110527",
+        "uploadDate": "2022-11-11T11:05:27"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-02:_Limited_Card_Pack_DeathXmon",
+        "captionText": "LM-02: Limited Card Pack DeathXmon (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-072_P1-J.png",
+        "imgName": "BT12-072_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d7/BT12-072_P1-J.png/revision/latest?cb=20231110181525",
+        "uploadDate": "2023-11-10T18:15:25"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-072-Sample-J.png",
+        "imgName": "BT12-072-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/79/BT12-072-Sample-J.png/revision/latest?cb=20221013115554",
+        "uploadDate": "2022-10-13T11:55:54"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a5/BT12-072.png/revision/latest?cb=20230421194634",
+  "level": "6",
+  "name": "Chaosdramon (X Antibody)",
+  "nameJapanese": "カオスドラモンX抗体",
+  "playCost": "13",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT12-072#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT12-072 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it is.",
+        "question": "\"This Digimon has [EX3-013 Chaosdramon] in its digivolution cards. and then an effect attempts to delete it. Is it possible to first activate this card's \"\"When this Digimon would be deleted, trash the top card of your opponent's security stack\"\" effect, trashing a security card from the opponent's security stack, and then activate [EX3-13 Chaosdramon]'s \"\"you may trash 2 level 5 cards in this Digimon's digivolution cards to prevent it from leaving play\"\" effect and prevent the deletion?\"",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it activates. This card's \"\"This Digimon gains all effects of [Machinedramon] and [Chaosdramon] cards in this Digimon's digivolution cards\"\" effect is an [All Turns] effect, so it is active as soon as the digivolution is confirmed. Therefore, the [When Digivolving] effect is gained and triggered.",
+        "question": "When this card digivolves from [EX3-013 Chaosdramon], it gains all of the effects of the [Chaosdramon] in its digivolution cards. Does that mean [EX3-013 Chaosdramon]'s [On Play][When Digivolving] effect activates?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Event_Pack_7",
+          "text": "Event Pack 7"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Limited_Set",
+          "text": "Special Limited Set"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-02:_Limited_Card_Pack_DeathXmon",
+          "text": "LM-02: Limited Card Pack DeathXmon"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      }
+    ]
+  },
+  "type": "Machine/X Antibody"
+}

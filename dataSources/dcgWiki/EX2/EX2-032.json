@@ -1,0 +1,112 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "01",
+  "cardEffects": "[When Digivolving] Reveal the top 4 cards from the top of your deck. Add 1 black Tamer card among them to your hand. Place the remaining cards at the bottom of your deck in any order.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+        "captionText": "EX-02: Theme Booster Digital Hazard (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX2-032.png",
+        "imgName": "EX2-032.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/87/EX2-032.png/revision/latest?cb=20220617101759",
+        "uploadDate": "2022-06-17T10:17:59"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+        "captionText": "EX-02: Theme Booster Digital Hazard (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX2-032-J.png",
+        "imgName": "EX2-032-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d7/EX2-032-J.png/revision/latest?cb=20211217092417",
+        "uploadDate": "2021-12-17T09:24:17"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+        "captionText": "EX-02: Theme Booster Digital Hazard (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX2-032-Sample-J.png",
+        "imgName": "EX2-032-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/11/EX2-032-Sample-J.png/revision/latest?cb=20211202132739",
+        "uploadDate": "2021-12-02T13:27:39"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/87/EX2-032.png/revision/latest?cb=20220617101759",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] If you have 2 or more black Tamers in play, gain 1 memory.",
+  "level": "4",
+  "name": "Strikedramon",
+  "nameJapanese": "ストライクドラモン",
+  "playCost": "5",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX2-032#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX2-032 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. Even if you have 4 or more Tamers in play, you can only gain 1 memory.",
+        "question": "If I have 4 black Tamers in play, can I gain 2 memory from this card’s inherited effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-01: Extra Booster",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+          "text": "EX-02: Theme Booster Digital Hazard"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-02:_Theme_Booster_Digital_Hazard",
+          "text": "EX-02: Theme Booster Digital Hazard"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "type": "Dragonkin"
+}

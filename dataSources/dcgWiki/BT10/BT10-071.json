@@ -1,0 +1,113 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-071.png",
+        "imgName": "BT10-071.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/28/BT10-071.png/revision/latest?cb=20221014120337",
+        "uploadDate": "2022-10-14T12:03:37"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-071-J.png",
+        "imgName": "BT10-071-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7c/BT10-071-J.png/revision/latest?cb=20220520104228",
+        "uploadDate": "2022-05-20T10:42:28"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-071-Sample-J.png",
+        "imgName": "BT10-071-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9e/BT10-071-Sample-J.png/revision/latest?cb=20220428090252",
+        "uploadDate": "2022-04-28T09:02:52"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/28/BT10-071.png/revision/latest?cb=20221014120337",
+  "inheritedEffect": "[All Turns] While there are 10 or more cards in your trash, this Digimon gains ＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling.).",
+  "level": "3",
+  "name": "Gazimon",
+  "nameJapanese": "ガジモン",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT10-071#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT10-071 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. You didn't have 10 cards in your trash until after the deletion already took place, so this Digimon's inherited effect could not be active at the time of the deletion.",
+        "question": "I have 9 cards in my trash and a Digimon with this card as a digivolution card is deleted in battle. The deleted cards, including this one, are sent to my trash, and now I have over 10 cards in my trash. Does ＜Retaliation＞ in this card's inherited effects activate and delete my opponent's Digimon it battled?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "加支兽",
+  "traditionalChinese": "加支獸",
+  "type": "Mammal"
+}

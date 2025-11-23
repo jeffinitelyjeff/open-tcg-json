@@ -1,0 +1,101 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "04",
+  "cardEffects": "＜Overclock ([Puppet] Trait)＞ (At the end of your turn, by deleting 1 of your Tokens or other [Puppet] trait Digimon, this Digimon attacks a player without suspending.)\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n[When Digivolving] You may play 2 [Familiar] Tokens. (Digimon/Yellow/3000 DP/[On Deletion] 1 of your opponent's Digimon gets -3000 DP for the turn.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "3",
+    "level": "5"
+  },
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-19:_Starter_Deck_Fable_Waltz",
+        "captionText": "ST-19: Starter Deck Fable Waltz (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST19-12.png",
+        "imgName": "ST19-12.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/57/ST19-12.png/revision/latest?cb=20240830174258",
+        "uploadDate": "2024-08-30T17:42:58"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-19:_Starter_Deck_Fable_Waltz",
+        "captionText": "ST-19: Starter Deck Fable Waltz (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST19-12-J.png",
+        "imgName": "ST19-12-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b4/ST19-12-J.png/revision/latest?cb=20240419105050",
+        "uploadDate": "2024-04-19T10:50:50"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-19:_Starter_Deck_Fable_Waltz",
+        "captionText": "ST-19: Starter Deck Fable Waltz (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST19-12-Sample-J.png",
+        "imgName": "ST19-12-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8f/ST19-12-Sample-J.png/revision/latest?cb=20240414090914",
+        "uploadDate": "2024-04-14T09:09:14"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/57/ST19-12.png/revision/latest?cb=20240830174258",
+  "level": "6",
+  "name": "Cendrillmon",
+  "nameJapanese": "サンドリモン",
+  "playCost": "11",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=ST19-12#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for ST19-12 (Sep. 13, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Tokens aren't placed in the trash when deleted, but [On Deletion] effects on tokens will activate as if the token was a Digimon.",
+        "question": "[Familiar] Tokens have an [On Deletion] effect, but because tokens are removed from the game instead of being placed in the trash when deleted, does this mean that the [On Deletion] effect doesn't activate?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-19:_Starter_Deck_Fable_Waltz",
+          "text": "ST-19: Starter Deck Fable Waltz"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-19:_Starter_Deck_Fable_Waltz",
+          "text": "ST-19: Starter Deck Fable Waltz"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ]
+  },
+  "type": "Puppet/LIBERATOR"
+}

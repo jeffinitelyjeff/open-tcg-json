@@ -1,0 +1,132 @@
+{
+  "attribute": "Data",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] [When Digivolving] By trashing 1 card in your hand, until the end of your opponent's turn, 1 of your opponent's Digimon gains \"[End of Attack] Delete this Digimon.\"",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Not released",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-048.png",
+        "imgName": "EX6-048.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/08/EX6-048.png/revision/latest?cb=20240531091330",
+        "uploadDate": "2024-05-31T09:13:30"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-048-J.png",
+        "imgName": "EX6-048-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b3/EX6-048-J.png/revision/latest?cb=20240216085318",
+        "uploadDate": "2024-02-16T08:53:18"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-048-Sample-J.png",
+        "imgName": "EX6-048-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fd/EX6-048-Sample-J.png/revision/latest?cb=20240116064655",
+        "uploadDate": "2024-01-16T06:46:55"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/08/EX6-048.png/revision/latest?cb=20240531091330",
+  "inheritedEffect": "[Opponent's Turn] [Once Per Turn] When an opponent's Digimon attacks, by deleting 1 of your other Digimon, end the attack.",
+  "level": "4",
+  "name": "Witchmon",
+  "nameJapanese": "ウィッチモン",
+  "playCost": "5",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX6-048#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX6-048 (Jun. 28, 2024)"
+      },
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX6-048#qaResult_card",
+        "num": 2,
+        "text": "Official English Q&A for EX6-048 (Sep. 13, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it activates.  Until the end of your opponent's turn, 1 of their Digimon gains that effect, so the [End of Attack] effect will activate even if the affected Digimon digivolves or de-digivolves.",
+        "question": "A Digimon affected by this card's [On Play] [When Digivolving] effect attacked the opponent player, then a [Security] effect gave this Digimon ＜De-Digivolve  1＞ nocategory of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.) and trashed it. Does the [End of Attack] effect activate in such cases?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, this effect triggers simultaneously with [When Attacking] effects. The turn player's effects will resolve first, then this effect will resolve, then the attack will end.",
+        "question": "When an opponent's Digimon attacks, can this card's inherited effect end the attack before [When Attacking] effects activate?",
+        "reference": "[2]"
+      },
+      {
+        "answer": "No. After the battle is resolved, the timing for activation of effects has already passed, so the effect can't activate.",
+        "question": "When an opponent's Digimon attacks, can I activate this card's inherited effect after comparing DP for the battle and end the attack at that timing?",
+        "reference": "[2]"
+      },
+      {
+        "answer": "No. The attack is considered to occur, therefore [When Attacking] effects and other processes are still performed.",
+        "question": "When this card's inherited effect activates, is an attack considered to have never occurred?",
+        "reference": "[2]"
+      },
+      {
+        "answer": "No, you can't.  <Blast Digivolve> is performed at the end of the counter timing. If you activate this card's [Opponent's Turn] effect, the attack will end before [Counter] effects trigger during the counter timing, therefore <Blast Digivolve> can no longer be performed.",
+        "question": "Can I use <Blast Digivolve> to digivolve my Digimon if I activate this card's inherited effect and end the attack from an opponent's Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it activates.",
+        "question": "Do [End of Attack] effects activate if I activate this card's inherited effect and end the attack from an opponent's Digimon?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ]
+  },
+  "type": "Wizard"
+}

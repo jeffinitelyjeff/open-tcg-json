@@ -1,0 +1,157 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "01",
+  "cardEffects": "[On Play] Reveal the top 3 cards of your deck. Among them, add 1 card with [Undead] or [Dark Animal] in any of its traits to the hand and trash 1 such card among them. Place the rest at the bottom of your.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "errata": [
+    {
+      "afterImageURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4d/BT9-071-Errata.png/revision/latest?cb=20240209090326",
+      "afterText": "[On Play] Reveal the top 3 cards of your deck. Among them, add 1 card with [Undead] or [Dark Animal] in any of its traits to the hand and trash 1 such card among them. Place the rest at the bottom of your.",
+      "beforeImageURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e3/BT9-071.png/revision/latest?cb=20220625065132",
+      "beforeText": "[On Play] Reveal the top 3 cards of your deck. Add 1 card with the [Undead] or [Dark Animal] trait among them to your hand and trash 1 such card among them. Place the rest at the bottom of your deck in any order."
+    }
+  ],
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-071.png",
+        "imgName": "BT9-071.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e3/BT9-071.png/revision/latest?cb=20220625065132",
+        "uploadDate": "2022-06-25T06:51:32"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/X_Record_Pre-Release_Pack",
+        "captionText": "X Record Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-071_P0.png",
+        "imgName": "BT9-071_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0b/BT9-071_P0.png/revision/latest?cb=20220625081415",
+        "uploadDate": "2022-06-25T08:14:15"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-071-J.png",
+        "imgName": "BT9-071-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/11/BT9-071-J.png/revision/latest?cb=20220218110425",
+        "uploadDate": "2022-02-18T11:04:25"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+        "captionText": "BT-09: Booster X Record (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-071-Sample-J.png",
+        "imgName": "BT9-071-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ef/BT9-071-Sample-J.png/revision/latest?cb=20220119042444",
+        "uploadDate": "2022-01-19T04:24:44"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4d/BT9-071-Errata.png/revision/latest?cb=20240209090326",
+  "inheritedEffect": "[When Attacking] This Digimon may digivolve into a Digimon card with the [Undead] or [Dark Animal] trait from your trash for its digivolution cost.",
+  "korean": "드라큐몬",
+  "level": "3",
+  "name": "Dracmon",
+  "nameJapanese": "ドラクモン",
+  "playCost": "3",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT9-071#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT9-071 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes. Both the card you add to hand and the card you trash must have [Undead] or [Dark Animal] in their traits.",
+        "question": "This card’s [On Play] effect reveals cards from the top of my deck. Can I only trash a card that has [Undead] or [Dark Animal] in its traits?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can choose to either add it to your hand or trash it.",
+        "question": "This card’s [On Play] effect reveals cards from the top of my deck. If only one card has [Undead] or [Dark Animal] in its traits, can I choose whether to add it to my hand or trash it?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. This effect can’t ignore digivolution requirements. When activating this effect, you can only digivolve into a card with [Undead] or [Dark Animal] in its traits if it also meets the digivolution requirements.",
+        "question": "If I have cards in my trash with [Undead] or [Dark Animal] in their traits, does this card's inherited effect let me digivolve any card into any of them, regardless of digivolution requirements?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. The [When Attacking] effect wasn't present when you declared the attack, so it doesn't activate.",
+        "question": "I activate this card’s inherited effect to digivolve into a card with a [When Attacking] effect. Does that effect activate immediately?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/X_Record_Pre-Release_Pack",
+          "text": "X Record Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
+          "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "德拉库兽",
+  "traditionalChinese": "德古獸",
+  "type": "Undead"
+}

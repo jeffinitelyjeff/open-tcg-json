@@ -1,0 +1,194 @@
+{
+  "attribute": "Data",
+  "blockIcon": "01,02",
+  "cardEffects": "[All Turns] Players can't reduce play costs.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "3000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-071.png",
+        "imgName": "BT8-071.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cb/BT8-071.png/revision/latest?cb=20220422124930",
+        "uploadDate": "2022-04-22T12:49:30"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Winner_Pack_Royal_Knights",
+        "captionText": "Winner Pack Royal Knights (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-071_P1.png",
+        "imgName": "BT8-071_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8d/BT8-071_P1.png/revision/latest?cb=20230709150437",
+        "uploadDate": "2023-07-09T15:04:37"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Versus_Royal_Knights_Pre-Release_Promotion",
+        "captionText": "Versus Royal Knights Pre-Release Promotion (1st Place Prize) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-071_P2.png",
+        "imgName": "BT8-071_P2.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4c/BT8-071_P2.png/revision/latest?cb=20230717170848",
+        "uploadDate": "2023-07-17T17:08:48"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-071-J.png",
+        "imgName": "BT8-071-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4b/BT8-071-J.png/revision/latest?cb=20211119075609",
+        "uploadDate": "2021-11-19T07:56:09"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Tamer_Battle_Pack_16",
+        "captionText": "Tamer Battle Pack 16 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-071_P1-J.png",
+        "imgName": "BT8-071_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c2/BT8-071_P1-J.png/revision/latest?cb=20230120112905",
+        "uploadDate": "2023-01-20T11:29:05"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Tamer_Battle_Pack_16",
+        "captionText": "Tamer Battle Pack 16 (1st Place Prize) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-071_P2-J.png",
+        "imgName": "BT8-071_P2-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bd/BT8-071_P2-J.png/revision/latest?cb=20230120112854",
+        "uploadDate": "2023-01-20T11:28:54"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cb/BT8-071.png/revision/latest?cb=20220422124930",
+  "level": "3",
+  "name": "Psychemon",
+  "nameJapanese": "サイケモン",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT8-071#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT8-071 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "It prevents effects that reduce play costs. Even if you or your opponent activates an effect that reduces play costs, the cost that is paid cannot actually be reduced. Players must pay the full play cost printed on cards.",
+        "question": "How does this card’s “Players can’t reduce play costs” effect work, exactly?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes. Effects that play cards without paying their memory costs are skipping the costs entirely, not reducing them.",
+        "question": "If this Digimon is in play, can I activate an effect that reads, “play <a card>...without paying its memory cost”?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, they can't be reduced. This card's effect does not target Digimon, so even if your opponent's [BT13-007 King Drasil_7D6] is in the breeding area, its effect to reduce play costs can't be activated.",
+        "question": "Can the play cost of a Digimon with the [Royal Knight] trait be reduced due to the [Your Turn] effect of my opponent's [BT13-007 King Drasil_7D6] if this Digimon is in play?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "That's correct. Such effects can no longer reduce play costs.  This card's effect also prevents play cost-reducing effects from activating when Tamer cards are played.",
+        "question": "When I have this Digimon, can my opponent no longer use [BT14-046 Togemon]'s [Your Turn] effect or inherited effect to reduce the play cost of green Tamer cards?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Winner_Pack_Royal_Knights",
+          "text": "Winner Pack Royal Knights"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Versus_Royal_Knights_Pre-Release_Promotion",
+          "text": "Versus Royal Knights Pre-Release Promotion"
+        },
+        "foil&Rarity": "Foil - Silver Background - 1st Place Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Tamer_Battle_Pack_16",
+          "text": "Tamer Battle Pack 16"
+        },
+        "foil&Rarity": "No Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Tamer_Battle_Pack_16",
+          "text": "Tamer Battle Pack 16"
+        },
+        "foil&Rarity": "Foil - Silver Background - 1st Place Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ]
+  },
+  "type": "Reptile"
+}

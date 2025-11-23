@@ -1,0 +1,111 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Liollmon]/[Elecmon]: Cost 2",
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[When Attacking] This Digimon may digivolve into a Digimon card with [Leomon] in its name in your hand with the digivolution cost reduced by 1.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow / Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-030.png",
+        "imgName": "EX5-030.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/de/EX5-030.png/revision/latest?cb=20240112102923",
+        "uploadDate": "2024-01-12T10:29:23"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-030-J.png",
+        "imgName": "EX5-030-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e8/EX5-030-J.png/revision/latest?cb=20230818055403",
+        "uploadDate": "2023-08-18T05:54:03"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-030-Sample-J.png",
+        "imgName": "EX5-030-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c5/EX5-030-Sample-J.png/revision/latest?cb=20230807063738",
+        "uploadDate": "2023-08-07T06:37:38"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/de/EX5-030.png/revision/latest?cb=20240112102923",
+  "inheritedEffect": "[On Deletion] 1 of your opponent's Digimon gets -2000 DP until the end of their turn.",
+  "level": "4",
+  "name": "Liamon",
+  "nameJapanese": "ライアモン",
+  "playCost": "5",
+  "rarity": "Common",
+  "rule": "[Rule] Name: Also treated as having [Leomon].",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX5-030#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX5-030 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can’t ignore digivolution requirements when using this effect. You can only digivolve this card into an applicable Digimon card with [Leomon].",
+        "question": "Can I use this card's [When Attacking] effect to digivolve it into a Digimon card with [Leomon] in my hand regardless of its digivolution requirements?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      }
+    ]
+  },
+  "type": "Holy Beast"
+}

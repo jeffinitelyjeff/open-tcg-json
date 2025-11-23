@@ -1,0 +1,126 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Reptile] trait: Cost 2",
+  "attribute": "Data",
+  "blockIcon": "04",
+  "cardEffects": "[Security] At the end of the battle, play this card without paying the cost.\n[Start of Your Main Phase] [When Digivolving] This Digimon gets +3000 DP until the end of your opponent's turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Not released"
+  },
+  "cardType": "Digimon",
+  "color": "Red / Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+        "captionText": "EX-08: Extra Booster Chain of Liberation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-011.png",
+        "imgName": "EX8-011.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/ca/EX8-011.png/revision/latest?cb=20250429222819",
+        "uploadDate": "2025-04-29T22:28:19"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Judge_Pack_2025_Season_1",
+        "captionText": "Judge Pack 2025 Season 1 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-011_P1.png",
+        "imgName": "EX8-011_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/96/EX8-011_P1.png/revision/latest?cb=20250409103807",
+        "uploadDate": "2025-04-09T10:38:07"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Judge_Pack_2025_Season_1",
+        "captionText": "Judge Pack 2025 Season 1 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-011_P1-Sample.png",
+        "imgName": "EX8-011_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/15/EX8-011_P1-Sample.png/revision/latest?cb=20250201170843",
+        "uploadDate": "2025-02-01T17:08:43"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+        "captionText": "EX-08: Extra Booster Chain of Liberation (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-011-J.png",
+        "imgName": "EX8-011-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e3/EX8-011-J.png/revision/latest?cb=20240808050405",
+        "uploadDate": "2024-08-08T05:04:05"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/ca/EX8-011.png/revision/latest?cb=20250429222819",
+  "inheritedEffect": "[Your Turn] This Digimon gets +2000 DP.",
+  "level": "4",
+  "name": "Tyrannomon",
+  "nameJapanese": "ティラノモン",
+  "playCost": "5",
+  "rarity": "Rare",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Judge_Pack_2025_Season_1",
+          "text": "Judge Pack 2025 Season 1"
+        },
+        "foil&Rarity": "Foil - Judge Stamp - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ]
+  },
+  "type": "Dinosaur/LIBERATOR"
+}

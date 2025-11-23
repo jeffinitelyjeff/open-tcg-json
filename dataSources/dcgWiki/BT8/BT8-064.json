@@ -1,0 +1,159 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "01,02",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "2",
+      "level": "3"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "2",
+      "level": "3"
+    }
+  ],
+  "dp": "6000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-064.png",
+        "imgName": "BT8-064.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e2/BT8-064.png/revision/latest?cb=20220422124929",
+        "uploadDate": "2022-04-22T12:49:29"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Winner_Pack_Dimensional_Phase",
+        "captionText": "Winner Pack Dimensional Phase (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-064_P1.png",
+        "imgName": "BT8-064_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9c/BT8-064_P1.png/revision/latest?cb=20230203024342",
+        "uploadDate": "2023-02-03T02:43:42"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-064-J.png",
+        "imgName": "BT8-064-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1a/BT8-064-J.png/revision/latest?cb=20211119075609",
+        "uploadDate": "2021-11-19T07:56:09"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Tamer_Battle_Pack_14",
+        "captionText": "Tamer Battle Pack 14 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-064_P1-J.png",
+        "imgName": "BT8-064_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ec/BT8-064_P1-J.png/revision/latest?cb=20220920164038",
+        "uploadDate": "2022-09-20T16:40:38"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-064-Sample-J.png",
+        "imgName": "BT8-064-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7d/BT8-064-Sample-J.png/revision/latest?cb=20211102133327",
+        "uploadDate": "2021-11-02T13:33:27"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e2/BT8-064.png/revision/latest?cb=20220422124929",
+  "inheritedEffect": "[Opponent's Turn] While you have a red Digimon in play, this Digimon gains ＜Blocker＞ (This Digimon can block in the blocker timing.).",
+  "korean": "그레이몬",
+  "level": "4",
+  "name": "Greymon",
+  "nameJapanese": "グレイモン",
+  "playCost": "5",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT8-064#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT8-064 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it does.",
+        "question": "If the Digimon with this card in its digivolution cards is itself red, does this card’s inherited effect activate?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Winner_Pack_Dimensional_Phase",
+          "text": "Winner Pack Dimensional Phase"
+        },
+        "foil&Rarity": "No Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Tamer_Battle_Pack_14",
+          "text": "Tamer Battle Pack 14"
+        },
+        "foil&Rarity": "No Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "暴龙兽",
+  "traditionalChinese": "暴龍獸",
+  "type": "Dinosaur"
+}

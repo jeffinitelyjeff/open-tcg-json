@@ -1,0 +1,153 @@
+{
+  "attribute": "Data",
+  "blockIcon": "02",
+  "cardEffects": "[On Play] Reveal the top 4 cards of your deck. Add 1 Option card with [Plug-In] in its name and 1 yellow Tamer among them to your hand. Place the rest at the bottom of your deck in any order.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-032.png",
+        "imgName": "BT10-032.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d4/BT10-032.png/revision/latest?cb=20221007204108",
+        "uploadDate": "2022-10-07T20:41:08"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Xros_Encounter_Pre-Release_Pack",
+        "captionText": "Xros Encounter Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-032_P0.png",
+        "imgName": "BT10-032_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/02/BT10-032_P0.png/revision/latest?cb=20221022205952",
+        "uploadDate": "2022-10-22T20:59:52"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-032-J.png",
+        "imgName": "BT10-032-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9e/BT10-032-J.png/revision/latest?cb=20220520104223",
+        "uploadDate": "2022-05-20T10:42:23"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-032-Sample-J.png",
+        "imgName": "BT10-032-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/04/BT10-032-Sample-J.png/revision/latest?cb=20220424043606",
+        "uploadDate": "2022-04-24T04:36:06"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d4/BT10-032.png/revision/latest?cb=20221007204108",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When you use an Option card with a memory cost of 2 or more, 1 of your opponent's Digimon gets -2000 DP for the turn.",
+  "level": "3",
+  "name": "Renamon",
+  "nameJapanese": "レナモン",
+  "playCost": "3",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT10-032#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT10-032 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, as long as either an Option card with [Plug-In] or a yellow Tamer is among the cards revealed, you can add it to your hand.",
+        "question": "This card’s effect reveals 4 cards. If the cards revealed only include either an Option card with [Plug-In] or a yellow Tamer, can I still add a card to my hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. This card's effect reads “Add 1 Option card [...] and 1 yellow Tamer among them to your hand,” so you must add as many cards to your hand as possible.",
+        "question": "This card's effect reveals 4 cards. If both an Option card with [Plug-In] and a yellow Tamer are among the cards revealed, can I choose to only add one of them to my hand, and place the remaining card at the bottom of my deck?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, as long as the Option card you use has a cost of 2 or more, this card's inherited effect activates regardless of the actual cost paid. However, if some effect (like [BT2-099 Glorious Burst]'s \"Reduce the memory cost of this card in your hand by 1 for each yellow Tamer you have in play\" effect) reduces the Option card's actual cost instead of just the cost you pay when using it, then this card's inherited effect doesn't activate.",
+        "question": "If I activate an effect that reduces the cost of an Option card with a cost of 2 or more and I only pay a cost of 1, or if I do not pay the cost at all by activating an effect that allows me to use an Option card without paying the cost, does this card's inherited effect activate?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, this card's inherited effect only activates if you use an Option card from your hand or by activating an effect that specifies that you \"use\" an Option card.",
+        "question": "If I activate a ＜Delay＞ effect on an Option card with a cost of 2 or more that was already placed in the battle area, does this card's inherited effect activate?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it does.",
+        "question": "If there's no target for the Option card when I use an Option card with a cost of 2 or more, does this card's inherited effect activate?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Xros_Encounter_Pre-Release_Pack",
+          "text": "Xros Encounter Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "狐狸兽",
+  "traditionalChinese": "妖狐獸",
+  "type": "Beastkin"
+}

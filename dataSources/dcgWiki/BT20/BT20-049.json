@@ -1,0 +1,95 @@
+{
+  "attribute": "Data",
+  "blockIcon": "04",
+  "cardEffects": "[On Play] [When Digivolving] 1 of your opponent's Digimon can't attack players until the end of their turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-049.png",
+        "imgName": "BT20-049.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4c/BT20-049.png/revision/latest?cb=20250207071056",
+        "uploadDate": "2025-02-07T07:10:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-049-Sample.png",
+        "imgName": "BT20-049-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d1/BT20-049-Sample.png/revision/latest?cb=20241223070744",
+        "uploadDate": "2024-12-23T07:07:44"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-049-J.png",
+        "imgName": "BT20-049-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/72/BT20-049-J.png/revision/latest?cb=20250124093436",
+        "uploadDate": "2025-01-24T09:34:36"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-049-Sample-J.png",
+        "imgName": "BT20-049-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/94/BT20-049-Sample-J.png/revision/latest?cb=20241223070740",
+        "uploadDate": "2024-12-23T07:07:40"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4c/BT20-049.png/revision/latest?cb=20250207071056",
+  "inheritedEffect": "＜Reboot＞ (Unsuspend this Digimon during your opponent's unsuspend phase.)",
+  "level": "4",
+  "name": "Blimpmon",
+  "nameJapanese": "ブリンプモン",
+  "playCost": "4",
+  "rarity": "Common",
+  "rule": "[Rule] Name: Not treated as having [Impmon].",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+          "text": "BT-20: Booster Over the X"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ]
+  },
+  "type": "Machine"
+}

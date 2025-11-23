@@ -1,0 +1,185 @@
+{
+  "blockIcon": "04",
+  "cardEffects": "While you have no face-up security cards, you can ignore this card's color requirements.\n[Security] [All Turns] All of your [NSp] trait Digimon gain ＜Alliance＞  (When this Digimon attacks, by suspending 1 of your other Digimon, add the suspended Digimon's DP to this Digimon and it gains ＜Security A. +1＞ for the attack.).\n[Main] Add your bottom security card to the hand. Then, place this card face up as the bottom security card.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Green",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+        "captionText": "EX-08: Extra Booster Chain of Liberation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-069.png",
+        "imgName": "EX8-069.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e6/EX8-069.png/revision/latest?cb=20241213123556",
+        "uploadDate": "2024-12-13T12:35:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+        "captionText": "EX-08: Extra Booster Chain of Liberation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-069_P1.png",
+        "imgName": "EX8-069_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/89/EX8-069_P1.png/revision/latest?cb=20241213123556",
+        "uploadDate": "2024-12-13T12:35:56"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+        "captionText": "EX-08: Extra Booster Chain of Liberation (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-069-J.png",
+        "imgName": "EX8-069-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/96/EX8-069-J.png/revision/latest?cb=20241122064653",
+        "uploadDate": "2024-11-22T06:46:53"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+        "captionText": "EX-08: Extra Booster Chain of Liberation (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-069-Sample-J.png",
+        "imgName": "EX8-069-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c4/EX8-069-Sample-J.png/revision/latest?cb=20241102073528",
+        "uploadDate": "2024-11-02T07:35:28"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+        "captionText": "EX-08: Extra Booster Chain of Liberation (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX8-069_P1-J.png",
+        "imgName": "EX8-069_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c3/EX8-069_P1-J.png/revision/latest?cb=20241129070023",
+        "uploadDate": "2024-11-29T07:00:23"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e6/EX8-069.png/revision/latest?cb=20241213123556",
+  "name": "Nature Spirits",
+  "nameJapanese": "ネイチャースピリッツ",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX8-069#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX8-069 (Jan. 10, 2025)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it does.",
+        "question": "Is the \"while you have no face-up security cards\" condition met when I have 0 cards in my security stack?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.  In such cases, you can't add a card from your security stack to your hand, therefore you only place this card in your security stack.",
+        "question": "Can I also activate this card’s [Main] effect when I have 0 cards in my security stack?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "They become face-up security cards that remain revealed.  Other than rules that specify face-up security cards, the rules apply in the same manner as standard security cards.",
+        "question": "What happens to cards placed face up in the security stack by effects?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "The check is performed with the card left revealed.  Other than rules for cards left revealed, the rules apply in the same manner as standard security checks.",
+        "question": "What happens upon a security check for a security card that is placed face-up?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it triggers.",
+        "question": "Does a card's [Security] effect trigger upon a security check with that card placed face-up?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Any face-up cards are placed face down, then you shuffle the cards.  After shuffling, all cards are left face-down.",
+        "question": "What happens if I shuffle a security stack that includes security cards placed face-up?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Even ＜Alliance＞ is lost, the ＜Security A. +1＞ and added DP remain.",
+        "question": "I have just this card placed face-up in my security stack.  I used my Digimon with the [NSp] trait to attack, and I activated the ＜Alliance＞ gained from this card's [All Turns] effect.  If this card is then trashed by the 1st [All Turns] effect on my opponent's BT18-055 [AncientTroymon], what happens to the ＜Security A. +1＞ and added DP gained from ＜Alliance＞?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] You may play 1 level 5 or lower Digimon with the [NSp] trait from your hand without paying the cost.",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-08:_Extra_Booster_Chain_of_Liberation",
+          "text": "EX-08: Extra Booster Chain of Liberation"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ]
+  },
+  "type": "NSp",
+  "useCost": "2"
+}

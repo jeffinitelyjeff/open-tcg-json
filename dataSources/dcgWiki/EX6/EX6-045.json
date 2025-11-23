@@ -1,0 +1,122 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "[On Deletion] Delete 1 of your opponent's level 3 Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-045.png",
+        "imgName": "EX6-045.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1a/EX6-045.png/revision/latest?cb=20240531091330",
+        "uploadDate": "2024-05-31T09:13:30"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-045-J.png",
+        "imgName": "EX6-045-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/45/EX6-045-J.png/revision/latest?cb=20240216085318",
+        "uploadDate": "2024-02-16T08:53:18"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-045-Sample-J.png",
+        "imgName": "EX6-045-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4d/EX6-045-Sample-J.png/revision/latest?cb=20240126061126",
+        "uploadDate": "2024-01-26T06:11:26"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1a/EX6-045.png/revision/latest?cb=20240531091330",
+  "inheritedEffect": "[Opponent's Turn] [Once Per Turn] When an opponent's Digimon attacks, by deleting 1 of your other Digimon, end the attack.",
+  "level": "3",
+  "name": "Tsukaimon",
+  "nameJapanese": "ツカイモン",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX6-045#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX6-045 (Jun. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. This effect activates upon the counter timing after [When Attacking] effects have already activated.",
+        "question": "When an opponent's Digimon attacks, can this card's inherited effect end the attack before [When Attacking] effects activate?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. After the battle is resolved, the timing for activation of effects during the counter timing has already passed, so the effect can't activate.",
+        "question": "When an opponent's Digimon attacks, if this card's inherited effect activates after comparing DP for the battle, can it end the attack at that timing?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. The attack is considered to occur, therefore processing such as [When Attacking] effects is still performed.",
+        "question": "When this card’s inherited effect activates, is an attack considered to have never occurred?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't.  <Blast Digivolve> is performed at the end of the counter timing. If you activate this card's [Opponent's Turn] effect, the attack will end before [Counter] effects trigger during the counter timing, therefore <Blast Digivolve> can no longer be performed.",
+        "question": "Can I use <Blast Digivolve> to digivolve my Digimon if I activate this card's inherited effect and end the attack from an opponent's Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it activates.",
+        "question": "Do [End of Attack] effects activate if I activate this card's inherited effect and end the attack from an opponent's Digimon?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ryodan",
+          "text": "Ryodan"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ryodan",
+          "text": "Ryodan"
+        }
+      }
+    ]
+  },
+  "type": "Mammal"
+}

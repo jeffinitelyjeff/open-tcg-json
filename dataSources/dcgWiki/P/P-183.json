@@ -1,0 +1,140 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "05",
+  "cardEffects": "＜Reboot＞ (Unsuspend this Digimon during your opponent's unsuspend phase.)\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n[When Digivolving] Until your opponent's turn ends, 1 of your opponent's Digimon gains \"[Start of Your Main Phase] This Digimon attacks.\" Then, this Digimon may attack.\n[All Turns] [Once Per Turn] When attack targets change, trash your opponent's top security card.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black / Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "5",
+      "level": "5"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "5",
+      "level": "5"
+    }
+  ],
+  "dp": "13000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Illustration_Celebration_Pack",
+        "captionText": "BT-21: Illustration Celebration Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-183.png",
+        "imgName": "P-183.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4d/P-183.png/revision/latest?cb=20250404050350",
+        "uploadDate": "2025-04-04T05:03:50"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Illustration_Celebration_Pack",
+        "captionText": "BT-21: Illustration Celebration Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-183-Sample.png",
+        "imgName": "P-183-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fe/P-183-Sample.png/revision/latest?cb=20250228003255",
+        "uploadDate": "2025-02-28T00:32:55"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Illustration_Celebration_Pack",
+        "captionText": "BT-21: Illustration Celebration Pack (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-183-J.png",
+        "imgName": "P-183-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/59/P-183-J.png/revision/latest?cb=20250404055516",
+        "uploadDate": "2025-04-04T05:55:16"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4d/P-183.png/revision/latest?cb=20250404050350",
+  "level": "6",
+  "name": "Gaiomon",
+  "nameJapanese": "ガイオウモン",
+  "playCost": "13",
+  "rarity": "Promo",
+  "rule": "[Rule] Name: Also treated as having [Greymon].",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=P-183#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for P-183 (Apr. 4, 2025)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "You can give that effect to such Digimon, but Digimon that aren't affected by effects won't be affected by it, therefore the gained effect won't trigger.",
+        "question": "Can I use this card's [When Digivolving] effect to give \"[Start of Your Main Phase] This Digimon attacks\" to a Digimon that isn't affected by effects?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "If I use this card's [When Digivolving] effect to give \"[Start of Your Main Phase] This Digimon attacks\" to a Digimon, can I choose to not attack for the part of the effect after \"then\"?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Illustration_Celebration_Pack",
+          "text": "BT-21: Illustration Celebration Pack"
+        },
+        "foil&Rarity": "Full Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Illustration_Celebration_Pack",
+          "text": "BT-21: Illustration Celebration Pack"
+        },
+        "foil&Rarity": "Full Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Illustration_Celebration_Pack",
+          "text": "BT-21: Illustration Celebration Pack"
+        },
+        "foil&Rarity": "Full Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Illustration_Celebration_Pack",
+          "text": "BT-21: Illustration Celebration Pack"
+        },
+        "foil&Rarity": "Full Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ]
+  },
+  "type": "Dragonkin/X Antibody"
+}

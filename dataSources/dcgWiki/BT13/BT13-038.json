@@ -1,0 +1,105 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "02",
+  "cardEffects": "[When Attacking] By trashing the top card of your security stack, 1 of your opponent's Digimon gain ＜Security A. -2＞ (This Digimon checks 2 fewer security cards.) until the end of your opponent's turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-038.png",
+        "imgName": "BT13-038.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/24/BT13-038.png/revision/latest?cb=20230714185527",
+        "uploadDate": "2023-07-14T18:55:27"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-038-J.png",
+        "imgName": "BT13-038-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/88/BT13-038-J.png/revision/latest?cb=20230217122642",
+        "uploadDate": "2023-02-17T12:26:42"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-038-Sample-J.png",
+        "imgName": "BT13-038-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6d/BT13-038-Sample-J.png/revision/latest?cb=20230124091642",
+        "uploadDate": "2023-01-24T09:16:42"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/24/BT13-038.png/revision/latest?cb=20230714185527",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] If the total cards in both players' security stacks is 6 or less, 1 of your opponent's Digimon gets -2000 DP for the turn.",
+  "korean": "레파몬",
+  "level": "4",
+  "name": "Reppamon",
+  "nameJapanese": "レッパモン",
+  "playCost": "4",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT13-038#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT13-038 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "It means the total number of cards in both you and your opponent's security stacks.  For example, if you have 3 cards in your security stack and your opponent has 2 cards in their security stack, the total security cards will be 5 cards.",
+        "question": "What does \"the total cards in both players' security stacks\" in this card's inherited effect mean?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "裂破兽",
+  "traditionalChinese": "鐮鼬獸",
+  "type": "Holy Beast"
+}

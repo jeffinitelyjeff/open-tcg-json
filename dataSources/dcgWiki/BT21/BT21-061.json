@@ -1,0 +1,144 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Greymon] in name or w/[ADVENTURE] trait: Cost 3",
+  "attribute": "Vaccine",
+  "blockIcon": "05",
+  "cardEffects": "[On Play] [When Digivolving] To 1 of your opponent's Digimon, ＜De-Digivolve  1＞ for every 2 of your Tamers' colors.\n[Your Turn] [Once Per Turn] When your other Digimon are played or digivolve, if any of them have the [ADVENTURE] trait, 1 of your Digimon gains ＜Alliance＞ for the turn. (When this Digimon attacks, by suspending 1 of your other Digimon, add the suspended Digimon's DP to this Digimon and it gains ＜Security A. +1＞ for the attack.) Then, 1 of your Digimon may attack.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-061.png",
+        "imgName": "BT21-061.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/09/BT21-061.png/revision/latest?cb=20250404060610",
+        "uploadDate": "2025-04-04T06:06:10"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-061-Sample.png",
+        "imgName": "BT21-061-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/44/BT21-061-Sample.png/revision/latest?cb=20250208120659",
+        "uploadDate": "2025-02-08T12:06:59"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+        "captionText": "BT-21: Booster World Convergence (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT21-061-J.png",
+        "imgName": "BT21-061-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/96/BT21-061-J.png/revision/latest?cb=20250404053625",
+        "uploadDate": "2025-04-04T05:36:25"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/09/BT21-061.png/revision/latest?cb=20250404060610",
+  "inheritedEffect": "＜Alliance＞ (When this Digimon attacks, by suspending 1 of your other Digimon, add the suspended Digimon's DP to this Digimon and it gains ＜Security A. +1＞ for the attack.)",
+  "level": "5",
+  "name": "MetalGreymon",
+  "nameJapanese": "メタルグレイモン",
+  "playCost": "7",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT21-061#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT21-061 (Apr. 4, 2025)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can't.If the effect triggers, it must activate.",
+        "question": "If this card's [Your Turn] effect triggers, can I choose to not activate it?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "Can I choose different Digimon for the Digimon that gains ＜Alliance＞ and the Digimon that attacks for this card's [Your Turn] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "After my Digimon gains ＜Alliance＞ with this card's [Your Turn] effect, can I choose to not attack for the part of the effect after \"then\"?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. You perform ＜De-Digivolve  1＞ (Trash the top card. You can't trash past level 3 cards.) twice, not ＜De-Digivolve  2＞ (Trash up to 2 cards from the top. You can't trash past level 3 cards.). \nWhen performing ＜De-Digivolve  2＞ (Trash up to 2 cards from the top. You can't trash past level 3 cards.), the top 2 cards are considered to be trashed at the same time, but when performing ＜De-Digivolve  1＞ (Trash the top card. You can't trash past level 3 cards.) twice, the top 2 cards are trashed 1 at a time. \n\nFor example, if using ＜De-Digivolve  2＞ (Trash up to 2 cards from the top. You can't trash past level 3 cards.) to simultaneously trash the top 2 cards of a suspended Digimon and the 2nd card trashed is BT15-047 [Kabuterimon], its effect won't activate. However, if performing ＜De-Digivolve  1＞ (Trash the top card. You can't trash past level 3 cards.) twice and the Digimon becomes BT15-047 [Kabuterimon] after the 1st instance of ＜De-Digivolve  1＞ (Trash the top card. You can't trash past level 3 cards.) trashes a card, it won't be affected by the 2nd instance of ＜De-Digivolve  1＞ (Trash the top card. You can't trash past level 3 cards.) and won't be trashed.",
+        "question": "My Tamer has 4 colors.If this card's [On Play] [When Digivolving] effect activates, do I perform ＜De-Digivolve  2＞ (Trash up to 2 cards from the top. You can't trash past level 3 cards.)?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-21:_Booster_World_Convergence",
+          "text": "BT-21: Booster World Convergence"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      }
+    ]
+  },
+  "type": "Cyborg/ADVENTURE"
+}

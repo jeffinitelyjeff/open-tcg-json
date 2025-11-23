@@ -1,0 +1,139 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[When Digivolving] If you have 2 or fewer security cards, ＜Recovery +1 (Deck)＞ (Place the top card of your deck on top of your security stack.)\n[When Attacking] [Once Per Turn] If you have 3 or more security cards, 1 of your opponent's Digimon gets -5000 DP for the turn. If you have 3 or fewer security cards, gain 2 memory.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "5"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "3",
+      "level": "5"
+    }
+  ],
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-040.png",
+        "imgName": "BT10-040.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d3/BT10-040.png/revision/latest?cb=20221007204537",
+        "uploadDate": "2022-10-07T20:45:37"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Xros_Encounter_Pre-Release_Pack",
+        "captionText": "Xros Encounter Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-040_P0.png",
+        "imgName": "BT10-040_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6b/BT10-040_P0.png/revision/latest?cb=20221022205956",
+        "uploadDate": "2022-10-22T20:59:56"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-040-J.png",
+        "imgName": "BT10-040-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bf/BT10-040-J.png/revision/latest?cb=20220520104223",
+        "uploadDate": "2022-05-20T10:42:23"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-040-Sample-J.png",
+        "imgName": "BT10-040-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a6/BT10-040-Sample-J.png/revision/latest?cb=20220509090728",
+        "uploadDate": "2022-05-09T09:07:28"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d3/BT10-040.png/revision/latest?cb=20221007204537",
+  "level": "6",
+  "name": "Achillesmon",
+  "nameJapanese": "アキレウスモン",
+  "playCost": "12",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT10-040#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT10-040 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you do.",
+        "question": "If I have exactly 3 cards in my security stack, do I activate both the \"1 of your opponent's Digimon gets -5000 DP for the turn\" effect and the \"gain 2 memory\" effect when activating this card's [When Attacking] effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shin_Sasaki",
+          "text": "Shin Sasaki"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shin_Sasaki",
+          "text": "Shin Sasaki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Xros_Encounter_Pre-Release_Pack",
+          "text": "Xros Encounter Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shin_Sasaki",
+          "text": "Shin Sasaki"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shin_Sasaki",
+          "text": "Shin Sasaki"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "阿喀琉斯兽",
+  "traditionalChinese": "阿基里斯獸",
+  "type": "Beastkin"
+}

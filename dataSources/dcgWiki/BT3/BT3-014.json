@@ -1,0 +1,164 @@
+{
+  "attribute": "Free",
+  "blockIcon": "00",
+  "cardEffects": "[When Digivolving] Change the original DP of 1 of your opponent's level 4 or lower Digimon to 1000 for the turn.\n[Your Turn] This Digimon is also treated as yellow.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "4"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+        "captionText": "BTC-02: Booster Digital Impact (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT3-014-C.png",
+        "imgName": "BT3-014-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3b/BT3-014-C.png/revision/latest?cb=20231120130743",
+        "uploadDate": "2023-11-20T13:07:43"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.5",
+        "captionText": "BT01-03: Release Special Booster Ver.1.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT3-014.png",
+        "imgName": "BT3-014.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fb/BT3-014.png/revision/latest?cb=20210122161718",
+        "uploadDate": "2021-01-22T16:17:18"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-03:_Booster_Union_Impact",
+        "captionText": "BT-03: Booster Union Impact (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT3-014-J.png",
+        "imgName": "BT3-014-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/06/BT3-014-J.png/revision/latest?cb=20201218200530",
+        "uploadDate": "2020-12-18T20:05:30"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.5",
+        "captionText": "BT01-03: Release Special Booster Ver.1.5 (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT3-014-K.png",
+        "imgName": "BT3-014-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/44/BT3-014-K.png/revision/latest?cb=20230814182032",
+        "uploadDate": "2023-08-14T18:20:32"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fb/BT3-014.png/revision/latest?cb=20210122161718",
+  "korean": "실피드몬",
+  "level": "5",
+  "name": "Silphymon",
+  "nameJapanese": "シルフィーモン",
+  "playCost": "7",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT3-014#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT3-014 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, since this Digimon is treated as both red and yellow during your turn, it can digivolve into a Digimon with a digivolution requirement of \"Yellow, Level 5.\"",
+        "question": "Can this Digimon Digivolve into a Digimon which has a Digivolution requirement of \"Yellow, Level 5?\"",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't. [Your Turn] effects don't activate from breeding areas, so the card isn't treated as a yellow card. You can't digivolve it into a Digimon that requires a yellow Digimon.",
+        "question": "This card is in my breeding area. Can I digivolve it into a Digimon that requires a yellow Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "The DP value printed on a card is its original DP. This card's [When Digivolving] effect causes a target Digimon's DP, regardless of what's written on the card, to be temporarily treated as having 1000 DP.",
+        "question": "What does \"Original DP\" mean?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Your opponent's Digimon's DP will be overwritten as 1000, and if a -1000 DP effect is being applied to it, its DP becomes 0, causing the Digimon to be deleted.",
+        "question": "If this card's [When Digivolving] effect is activated against an opponent's Digimon whose DP has been reduced by 1000 by an effect, what happens to that Digimon?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+          "text": "BTC-02: Booster Digital Impact"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.5",
+          "text": "BT01-03: Release Special Booster Ver.1.5"
+        },
+        "foil&Rarity": "Gold Outline - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-03:_Booster_Union_Impact",
+          "text": "BT-03: Booster Union Impact"
+        },
+        "foil&Rarity": "Gold Outline - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.5",
+          "text": "BT01-03: Release Special Booster Ver.1.5"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "西尔芙兽",
+  "traditionalChinese": "人面戰鷹獸",
+  "type": "Beastkin"
+}

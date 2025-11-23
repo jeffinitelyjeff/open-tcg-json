@@ -1,0 +1,117 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "01",
+  "cardEffects": "＜Blocker＞ (This Digimon can block in the blocker timing.)\n[Your Turn] While your opponent has a Digimon with a digivolution card in play, this Digimon can't attack.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-029.png",
+        "imgName": "BT8-029.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/24/BT8-029.png/revision/latest?cb=20220422124927",
+        "uploadDate": "2022-04-22T12:49:27"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-029-J.png",
+        "imgName": "BT8-029-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/60/BT8-029-J.png/revision/latest?cb=20211119075605",
+        "uploadDate": "2021-11-19T07:56:05"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-029-Sample-J.png",
+        "imgName": "BT8-029-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/69/BT8-029-Sample-J.png/revision/latest?cb=20211108091305",
+        "uploadDate": "2021-11-08T09:13:05"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/24/BT8-029.png/revision/latest?cb=20220422124927",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When a digivolution card of an opponent's Digimon is trashed, return 1 of your opponent's level 3 Digimon to its owner's hand.",
+  "level": "5",
+  "name": "Frozomon",
+  "nameJapanese": "フロゾモン",
+  "playCost": "7",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT8-029#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT8-029 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes. Digimon in breeding areas aren’t counted by the effect, so this Digimon can attack.",
+        "question": "If my opponent has a Digimon with digivolution cards in their breeding area, can this Digimon attack?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it does.",
+        "question": "Does this card’s inherited effect activate when my opponent activates <Digi-Burst>?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      }
+    ]
+  },
+  "type": "Machine"
+}

@@ -1,0 +1,86 @@
+{
+  "attribute": "Free",
+  "blockIcon": "01",
+  "cardEffects": "[When Digivolving] If a Digimon card with the [Free] trait is in this Digimon's digivolution cards, suspend 1 of your opponent's Digimon with 5000 DP or less.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "3",
+      "level": "4"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "3",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-041.png",
+        "imgName": "EX1-041.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b2/EX1-041.png/revision/latest?cb=20211126152127",
+        "uploadDate": "2021-11-26T15:21:27"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-041-J.png",
+        "imgName": "EX1-041-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3b/EX1-041-J.png/revision/latest?cb=20210721041518",
+        "uploadDate": "2021-07-21T04:15:18"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b2/EX1-041.png/revision/latest?cb=20211126152127",
+  "inheritedEffect": "[Your Turn] When one of your Digimon with [Imperialdramon] in its name deletes an opponent's Digimon in battle and survives, gain 1 memory.",
+  "level": "5",
+  "name": "Dinobeemon",
+  "nameJapanese": "ディノビーモン",
+  "playCost": "8",
+  "rarity": "Uncommon",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-01: Extra Booster",
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "type": "Mutant"
+}

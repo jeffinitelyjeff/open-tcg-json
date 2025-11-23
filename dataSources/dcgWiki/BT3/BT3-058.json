@@ -1,0 +1,189 @@
+{
+  "attribute": "Free",
+  "blockIcon": "00",
+  "cardEffects": "＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.)\n[When Attacking] When this Digimon attacks one of your opponent's Digimon with 12000 DP or more, this Digimon gets +7000 DP and ＜Security A. +2＞  (This Digimon checks 2 additional security cards.) for the turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "3",
+    "level": "5"
+  },
+  "dp": "9000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+        "captionText": "BTC-02: Booster Digital Impact (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT3-058-C.png",
+        "imgName": "BT3-058-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/28/BT3-058-C.png/revision/latest?cb=20231120132632",
+        "uploadDate": "2023-11-20T13:26:32"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.5",
+        "captionText": "BT01-03: Release Special Booster Ver.1.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT3-058.png",
+        "imgName": "BT3-058.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/29/BT3-058.png/revision/latest?cb=20210122161635",
+        "uploadDate": "2021-01-22T16:16:35"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Across_Time_Pre-Release_Promotion",
+        "captionText": "Across Time Pre-Release Promotion (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT3-058_P1.png",
+        "imgName": "BT3-058_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b3/BT3-058_P1.png/revision/latest?cb=20230407144225",
+        "uploadDate": "2023-04-07T14:42:25"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-03:_Booster_Union_Impact",
+        "captionText": "BT-03: Booster Union Impact (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT3-058-J.png",
+        "imgName": "BT3-058-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1d/BT3-058-J.png/revision/latest?cb=20201218200640",
+        "uploadDate": "2020-12-18T20:06:40"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Tamer%27s_Selection_Box_Super_Tamer_Battle_2022",
+        "captionText": "Tamer's Selection Box Super Tamer Battle 2022 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT3-058_P1-J.png",
+        "imgName": "BT3-058_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/52/BT3-058_P1-J.png/revision/latest?cb=20230128141417",
+        "uploadDate": "2023-01-28T14:14:17"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.5",
+        "captionText": "BT01-03: Release Special Booster Ver.1.5 (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT3-058-K.png",
+        "imgName": "BT3-058-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6d/BT3-058-K.png/revision/latest?cb=20230814184234",
+        "uploadDate": "2023-08-14T18:42:34"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/29/BT3-058.png/revision/latest?cb=20210122161635",
+  "korean": "반쵸스팅몬",
+  "level": "6",
+  "name": "BanchoStingmon",
+  "nameJapanese": "バンチョースティングモン",
+  "playCost": "12",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [],
+    "rulings": [
+      {
+        "answer": "Yes, you still get BanchoStingmon's effect. ＜Blocker＞ happens after all [When Attacking] effects and BanchoStingmon's effect keeps the changes for the turn. (See more in Attack Resolution)",
+        "question": "My opponent blocks [BT3-058 BanchoStingmon]. Do I still get its effect off?",
+        "reference": ""
+      },
+      {
+        "answer": "Yes, it does. This effect behaves the same way as an effect that reads \"When this Digimon attacks one of your opponent's Digimon with 12000 DP or more\". As such, the requirement for 12000 DP or more is checked at the time the attack is declared and determines whether or not the effect triggers. After the effect has triggered, this requirement does not impact the effect's activation.",
+        "question": "I attack my opponent's Digimon with 12000 DP or more with this Digimon, then one of my effects reduces that Digimon's DP to be under 12000. Does this Digimon's [When Attacking] effect activate?",
+        "reference": ""
+      },
+      {
+        "answer": "Yes, you can still use BanchoStingmon's effect if the attack target's DP decreases before BanchoStingmon's effect activates as long as it was 12000 DP when it was targeted for the attack.",
+        "question": "I have activated [BT1-104 Golden Ripper] and attack with [BT3-058 BanchoStingmon]. If I attack with this card and use [BT1-104 Golden Ripper]'s effect to decrease the attack of the attack target from 12000 DP to 10000 DP before I use its effect, can I use this card's effect to give it 7000 DP?",
+        "reference": ""
+      },
+      {
+        "answer": "No, this card's effect did not fulfill its trigger condition.",
+        "question": "If this card attacks a Digimon with less than 12000 DP and then one of my effects increases it to 12000 DP or more afterwards. Can I use this effect?",
+        "reference": ""
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+          "text": "BTC-02: Booster Digital Impact"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.5",
+          "text": "BT01-03: Release Special Booster Ver.1.5"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Across_Time_Pre-Release_Promotion",
+          "text": "Across Time Pre-Release Promotion"
+        },
+        "foil&Rarity": "No Foil - Full Art - Participation",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-03:_Booster_Union_Impact",
+          "text": "BT-03: Booster Union Impact"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Tamer%27s_Selection_Box_Super_Tamer_Battle_2022",
+          "text": "Tamer's Selection Box Super Tamer Battle 2022"
+        },
+        "foil&Rarity": "Textured - Full Art - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.5",
+          "text": "BT01-03: Release Special Booster Ver.1.5"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "番长飞虫兽",
+  "traditionalChinese": "番長飛蟲獸",
+  "type": "Insectoid/Boss"
+}

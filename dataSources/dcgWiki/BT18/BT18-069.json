@@ -1,0 +1,128 @@
+{
+  "attribute": "Data",
+  "blockIcon": "04",
+  "cardEffects": "＜Blocker＞ (This Digimon can block in the blocker timing.)\n[End of Opponent's Turn] [Once Per Turn] You may choose 1 of your opponent's Digimon. Your opponent must attacks with the chosen Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-069.png",
+        "imgName": "BT18-069.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e9/BT18-069.png/revision/latest?cb=20241011092635",
+        "uploadDate": "2024-10-11T09:26:35"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-069-J.png",
+        "imgName": "BT18-069-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0f/BT18-069-J.png/revision/latest?cb=20240621114656",
+        "uploadDate": "2024-06-21T11:46:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+        "captionText": "BT-18: Booster Elemental Successor (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT18-069-Sample-J.png",
+        "imgName": "BT18-069-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ee/BT18-069-Sample-J.png/revision/latest?cb=20240611091540",
+        "uploadDate": "2024-06-11T09:15:40"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e9/BT18-069.png/revision/latest?cb=20241011092635",
+  "inheritedEffect": "[All Turns] All your Digimon with [Knightmon] in their text get +2000 DP.",
+  "level": "5",
+  "name": "Knightmon",
+  "nameJapanese": "ナイトモン",
+  "playCost": "8",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT18-069#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT18-069 (Nov. 1, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you don't have to choose an opponent's Digimon.",
+        "question": "Do I have to choose an opponent's Digimon for this card's [End of Opponent's Turn] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, they can't attack using a Digimon that can't attack.",
+        "question": "If I choose an opponent's Digimon that can't attack for this card's [End of Opponent's Turn] effect, does my opponent attack with that Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, your opponent can't attack using that Digimon. A new attack declaration can't be made during an attack.  In such cases, even if you choose an opponent's Digimon for this card's [End of Opponent's Turn] effect when there is already an attacking Digimon, your opponent can't attack with the chosen Digimon.",
+        "question": "An opponent's Digimon is attacking using an effect at the end of their turn.  If I choose an opponent's Digimon for this card's [End of Opponent's Turn] effect, does my opponent attack with that Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can choose a Digimon that isn't affected by effects for this and have it attack.  Such Digimon aren't affected by effects, but they can be chosen.  In addition, \"your opponent attacks with the chosen Digimon\" in this card's [End of Opponent's Turn] effect affects a player, therefore your opponent must attack with the chosen Digimon if it can attack.",
+        "question": "Can I choose a Digimon that isn't affected by effects for this card's [End of Opponent's Turn] effect and have it attack?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+          "text": "BT18-19: Special Booster Ver.2.0"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Booster_Ver.2.0_Celebration_Event_Pack",
+          "text": "Special Booster Ver.2.0 Celebration Event Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-18:_Booster_Elemental_Successor",
+          "text": "BT-18: Booster Elemental Successor"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ]
+  },
+  "type": "Warrior"
+}

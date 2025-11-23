@@ -1,0 +1,108 @@
+{
+  "blockIcon": "02",
+  "cardEffects": "[Main] ＜Draw 1＞ (Draw 1 card from your deck.) Then, place this card in your battle area.\n[Main] ＜Delay＞ (By trashing this card after the placing turn, activate the effect below.)\n・Play 1 Digimon card with the [Four Great Dragons] trait from your hand without paying the cost. The Digimon played by this effect can't digivolve to level 7, and at the end of your opponent's turn, delete that Digimon.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Yellow",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-069.png",
+        "imgName": "EX3-069.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4e/EX3-069.png/revision/latest?cb=20221111122858",
+        "uploadDate": "2022-11-11T12:28:58"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-069-J.png",
+        "imgName": "EX3-069-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6c/EX3-069-J.png/revision/latest?cb=20220722083956",
+        "uploadDate": "2022-07-22T08:39:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-069-Sample-J.png",
+        "imgName": "EX3-069-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/ac/EX3-069-Sample-J.png/revision/latest?cb=20220621092919",
+        "uploadDate": "2022-06-21T09:29:19"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4e/EX3-069.png/revision/latest?cb=20221111122858",
+  "name": "Trial of the Four Great Dragons",
+  "nameJapanese": "四大竜 の試練",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX3-069#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX3-069 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it is still a Digimon that was played by this effect, so you delete it at the end of your opponent's turn.",
+        "question": "This card's effects read \"The Digimon played by this effect can't digivolve to level 7, and at the end of your opponent's turn, delete that Digimon.\" Do I delete that Digimon even if digivolution cards are added by an effect and then it becomes another Digimon due to an effect such as ＜De-Digivolve  nocategory＞ (Trash up to nocategory cards from the top. You can't trash past level 3 cards.)?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, if the Digimon to digivolve into is level 7, DNA digivolving is not possible either.",
+        "question": "If I use this card's effect to play a Digimon, can I DNA digivolve that Digimon into a level 7 Digimon?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Place this card in the battle area.",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-02: Extra Booster 2 Draconic Roar",
+        "foil&Rarity": "",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+          "text": "EX-03: Theme Booster Draconic Roar"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+          "text": "EX-03: Theme Booster Draconic Roar"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ]
+  },
+  "type": "Four Great Dragons",
+  "useCost": "8"
+}

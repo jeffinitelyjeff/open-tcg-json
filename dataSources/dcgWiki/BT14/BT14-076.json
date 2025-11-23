@@ -1,0 +1,121 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Greymon] in name: Cost 3",
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "[When Digivolving] By trashing 1 card in your hand, delete 1 of your Digimon with the lowest level and 1 of your opponent's Digimon with the lowest level.\n[On Deletion] You may play 1 [Agumon] from your trash without paying the cost. If you have a Tamer with [Tai Kamiya] in its name, that Digimon gains ＜Rush＞ for the turn. (This Digimon can attack the turn it comes into play.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-076.png",
+        "imgName": "BT14-076.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/12/BT14-076.png/revision/latest?cb=20231027105756",
+        "uploadDate": "2023-10-27T10:57:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Blast_Ace_Pre-Release_Pack",
+        "captionText": "Blast Ace Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-076_P0.png",
+        "imgName": "BT14-076_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/aa/BT14-076_P0.png/revision/latest?cb=20231116222509",
+        "uploadDate": "2023-11-16T22:25:09"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-076-J.png",
+        "imgName": "BT14-076-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/27/BT14-076-J.png/revision/latest?cb=20231112062026",
+        "uploadDate": "2023-11-12T06:20:26"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/12/BT14-076.png/revision/latest?cb=20231027105756",
+  "korean": "스컬그레이몬",
+  "level": "5",
+  "name": "SkullGreymon",
+  "nameJapanese": "スカルグレイモン",
+  "playCost": "7",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT14-076#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT14-076 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it deletes this Digimon. However, this effect reads \"By trashing 1 card in your hand,\" therefore you can choose to not activate the effect by not trashing a card in your hand.",
+        "question": "Does this card's [When Digivolving] effect delete this Digimon when I only have this Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "Can I use this card's [When Digivolving] effect to trash 1 card in my hand even when my opponent has no Digimon?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Blast_Ace_Pre-Release_Pack",
+          "text": "Blast Ace Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "丧尸暴龙兽",
+  "traditionalChinese": "喪屍暴龍獸",
+  "type": "Undead"
+}

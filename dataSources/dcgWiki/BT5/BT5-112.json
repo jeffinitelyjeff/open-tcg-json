@@ -1,0 +1,312 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "00,02",
+  "cardEffects": "[Security] Play this card without battling and without paying the cost.\n[When Digivolving] Delete 1 of your opponent's Tamers.\n[On Deletion] Delete 1 of your opponent's Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "White",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "6"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "3",
+      "level": "6"
+    }
+  ],
+  "dp": "13000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+        "captionText": "BTC-02: Booster Digital Impact (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-112-C.png",
+        "imgName": "BT5-112-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5b/BT5-112-C.png/revision/latest?cb=20231120191852",
+        "uploadDate": "2023-11-20T19:18:52"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+        "captionText": "BTC-02: Booster Digital Impact (Alternative Art) (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-112_P1-C.png",
+        "imgName": "BT5-112_P1-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/38/BT5-112_P1-C.png/revision/latest?cb=20231120213421",
+        "uploadDate": "2023-11-20T21:34:21"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-112.png",
+        "imgName": "BT5-112.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8d/BT5-112.png/revision/latest?cb=20210720175607",
+        "uploadDate": "2021-07-20T17:56:07"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-112_P1.png",
+        "imgName": "BT5-112_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/51/BT5-112_P1.png/revision/latest?cb=20210730082321",
+        "uploadDate": "2021-07-30T08:23:21"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Alternative_Being",
+        "captionText": "Box Promotion Pack: Alternative Being (Rare Pull) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-112_P2.png",
+        "imgName": "BT5-112_P2.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/60/BT5-112_P2.png/revision/latest?cb=20230623132835",
+        "uploadDate": "2023-06-23T13:28:35"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-112_P3.png",
+        "imgName": "BT5-112_P3.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/51/BT5-112_P3.png/revision/latest?cb=20230901095556",
+        "uploadDate": "2023-09-01T09:55:56"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-112-J.png",
+        "imgName": "BT5-112-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c6/BT5-112-J.png/revision/latest?cb=20231028162716",
+        "uploadDate": "2023-10-28T16:27:16"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-112_P1-J.png",
+        "imgName": "BT5-112_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e3/BT5-112_P1-J.png/revision/latest?cb=20210226085848",
+        "uploadDate": "2021-02-26T08:58:48"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Alternative_Being",
+        "captionText": "Box Promotion Pack: Alternative Being (Rare Pull) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-112_P2-J.png",
+        "imgName": "BT5-112_P2-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/06/BT5-112_P2-J.png/revision/latest?cb=20221223154456",
+        "uploadDate": "2022-12-23T15:44:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-112_P3-J.png",
+        "imgName": "BT5-112_P3-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f0/BT5-112_P3-J.png/revision/latest?cb=20230124110644",
+        "uploadDate": "2023-01-24T11:06:44"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-112-K.png",
+        "imgName": "BT5-112-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3d/BT5-112-K.png/revision/latest?cb=20230819160104",
+        "uploadDate": "2023-08-19T16:01:04"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+        "captionText": "BT-05: Booster Battle Of Omni (Alternative Art) (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT5-112_P1-K.png",
+        "imgName": "BT5-112_P1-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/13/BT5-112_P1-K.png/revision/latest?cb=20230819160727",
+        "uploadDate": "2023-08-19T16:07:27"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/51/BT5-112_P3.png/revision/latest?cb=20230901095556",
+  "korean": "오메가몬 즈왈트 DEFEAT",
+  "level": "7",
+  "name": "Omnimon Zwart Defeat",
+  "nameJapanese": "オメガモン ズワルトDEFEAT",
+  "nameTranslated": "Omegamon Zwart DEFEAT",
+  "playCost": "15",
+  "rarity": "Secret Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT5-112#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT5-112 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "If this card is flipped over as a Security Digimon, it's played in its owner's battle area without battling the attacking Digimon. Even if the attacking Digimon has lower DP than this card, no battle occurs, and the attacking Digimon is not deleted.",
+        "question": "What does \"without battling\" in this card's [Security] effect mean?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "After playing this Digimon, the remaining checks are performed.",
+        "question": "This card is flipped over during a security check. If the attacking Digimon has extra security checks remaining from <Security Attack +>, what happens?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it can't.",
+        "question": "Can this card's [When Digivolving] effect be used to delete a Digimon that digivolved from a Tamer?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+          "text": "BTC-02: Booster Digital Impact"
+        },
+        "foil&Rarity": "Textured - Secret Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+          "text": "BTC-02: Booster Digital Impact"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Gold Foil - Secret Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Gold Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Alternative_Being",
+          "text": "Box Promotion Pack: Alternative Being"
+        },
+        "foil&Rarity": "Textured - Silver Background - Rare Pull",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Textured - Secret Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Gold Foil - Secret Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Gold Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Alternative_Being",
+          "text": "Box Promotion Pack: Alternative Being"
+        },
+        "foil&Rarity": "Textured - Silver Background - Rare Pull",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Textured - Secret Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Textured - Secret Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-05:_Booster_Battle_Of_Omni",
+          "text": "BT-05: Booster Battle Of Omni"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "奥米加兽 兹瓦特 战损",
+  "traditionalChinese": "奧米加獸 茲瓦特 戰損",
+  "type": "Holy Warrior"
+}

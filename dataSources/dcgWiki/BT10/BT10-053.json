@@ -1,0 +1,165 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "02",
+  "cardEffects": "[Main] [Once Per Turn] By suspending 1 of your green Digimon, you may play 1 Digimon card with [Vegetation], [Plant] or [Fairy] in any of its traits and 3000 DP or less from your hand without paying its memory cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-053.png",
+        "imgName": "BT10-053.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/03/BT10-053.png/revision/latest?cb=20221007210300",
+        "uploadDate": "2022-10-07T21:03:00"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Xros_Encounter_Pre-Release_Pack",
+        "captionText": "Xros Encounter Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-053_P0.png",
+        "imgName": "BT10-053_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4a/BT10-053_P0.png/revision/latest?cb=20221022205956",
+        "uploadDate": "2022-10-22T20:59:56"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-053-J.png",
+        "imgName": "BT10-053-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ed/BT10-053-J.png/revision/latest?cb=20220520104225",
+        "uploadDate": "2022-05-20T10:42:25"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-053-Sample-J.png",
+        "imgName": "BT10-053-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ea/BT10-053-Sample-J.png/revision/latest?cb=20220430061226",
+        "uploadDate": "2022-04-30T06:12:26"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-04:_Limited_Card_Pack_Torrid_Weiss",
+        "captionText": "LM-04: Limited Card Pack Torrid Weiss (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-053_P1-Sample-J.png",
+        "imgName": "BT10-053_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9a/BT10-053_P1-Sample-J.png/revision/latest?cb=20240724054433",
+        "uploadDate": "2024-07-24T05:44:33"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-04:_Limited_Card_Pack_Torrid_Weiss",
+        "captionText": "LM-04: Limited Card Pack Torrid Weiss (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-053_P1-J.png",
+        "imgName": "BT10-053_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ea/BT10-053_P1-J.png/revision/latest?cb=20241128214513",
+        "uploadDate": "2024-11-28T21:45:13"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/03/BT10-053.png/revision/latest?cb=20221007210300",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When an effect suspends one of your Digimon, gain 1 memory.",
+  "level": "5",
+  "name": "Ajatarmon",
+  "nameJapanese": "アヤタラモン",
+  "playCost": "8",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT10-053#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT10-053 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.",
+        "question": "Can I suspend this card itself to activate this card's [Main] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, suspending to declare an attack is not the same as being suspended by an effect even when attacking via ＜Blitz＞, so the inherited effect does not activate.",
+        "question": "Does this card's inherited effect activate if 1 of my Digimon attacks with ＜Blitz＞ and I suspend it?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Xros_Encounter_Pre-Release_Pack",
+          "text": "Xros Encounter Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-04:_Limited_Card_Pack_Torrid_Weiss",
+          "text": "LM-04: Limited Card Pack Torrid Weiss"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "阿杰特兽",
+  "traditionalChinese": "阿亞塔獸",
+  "type": "Vegetation"
+}

@@ -1,0 +1,196 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "00,02",
+  "cardEffects": "[When Attacking] Reveal the top 3 cards of your deck. You can digivolve this card into 1 level 6 green Digimon card among them without paying its memory cost. Place the remaining cards at the bottom of your deck in any order.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BTC-01:_Booster_Ultimate_Evolution",
+        "captionText": "BTC-01: Booster Ultimate Evolution (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-078-C.png",
+        "imgName": "BT1-078-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/da/BT1-078-C.png/revision/latest?cb=20230828234251",
+        "uploadDate": "2023-08-28T23:42:51"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+        "captionText": "BT01-03: Release Special Booster Ver.1.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-078.png",
+        "imgName": "BT1-078.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6a/BT1-078.png/revision/latest?cb=20201212014748",
+        "uploadDate": "2020-12-12T01:47:48"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Official_Tournament_Pack_Vol._7",
+        "captionText": "Official Tournament Pack Vol. 7 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-078_P1.png",
+        "imgName": "BT1-078_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b8/BT1-078_P1.png/revision/latest?cb=20221010171254",
+        "uploadDate": "2022-10-10T17:12:54"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-01:_Booster_New_Evolution",
+        "captionText": "BT-01: Booster New Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-078-J.png",
+        "imgName": "BT1-078-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a5/BT1-078-J.png/revision/latest?cb=20201213121524",
+        "uploadDate": "2020-12-13T12:15:24"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Tamer_Battle_Pack_12",
+        "captionText": "Tamer Battle Pack 12 (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-078_P1-J.png",
+        "imgName": "BT1-078_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/56/BT1-078_P1-J.png/revision/latest?cb=20220520122942",
+        "uploadDate": "2022-05-20T12:29:42"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+        "captionText": "BT01-03: Release Special Booster Ver.1.0 (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT1-078-K.png",
+        "imgName": "BT1-078-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/32/BT1-078-K.png/revision/latest?cb=20230814195239",
+        "uploadDate": "2023-08-14T19:52:39"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6a/BT1-078.png/revision/latest?cb=20201212014748",
+  "korean": "쟈가몬",
+  "level": "5",
+  "name": "Jagamon",
+  "nameJapanese": "ジャガモン",
+  "nameTranslated": "Jyagamon",
+  "playCost": "7",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT1-078#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT1-078 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, the card text says \"you can,\" so you can choose not to digivolve.",
+        "question": "If I reveal a green level 6 Digimon card with this card's effect, do I have to digivolve into it?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "I reveal 2 or more green level 6 Digimon cards with this card's effect. Can I choose which card to digivolve into?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't. Even if you meet the digivolution requirements, this card's effect only allows you to digivolve into green level 6 Digimon cards.",
+        "question": "I reveal a level 6 Digimon card that isn't green with this card's effect. Can I digivolve into that card?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can. When you do, reveal as many cards from your deck as is possible.",
+        "question": "Can I activate this card's effect when there are 2 or fewer cards in my deck?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BTC-01:_Booster_Ultimate_Evolution",
+          "text": "BTC-01: Booster Ultimate Evolution"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+          "text": "BT01-03: Release Special Booster Ver.1.0"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Official_Tournament_Pack_Vol._7",
+          "text": "Official Tournament Pack Vol. 7"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-01:_Booster_New_Evolution",
+          "text": "BT-01: Booster New Evolution"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Tamer_Battle_Pack_12",
+          "text": "Tamer Battle Pack 12"
+        },
+        "foil&Rarity": "No Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.0",
+          "text": "BT01-03: Release Special Booster Ver.1.0"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "马铃薯兽",
+  "traditionalChinese": "薯仔獸",
+  "type": "Vegetation"
+}

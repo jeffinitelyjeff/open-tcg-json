@@ -1,0 +1,157 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[When Digivolving] [When Attacking] [Once Per Turn] By trashing the top card of your security stack, you may play 1 yellow level 4 or lower card from your hand without paying the cost. Digimon played by this effect gain ＜Rush＞ for the turn. (This Digimon can attack the turn it comes into play.)\n[All Turns] All of your yellow Digimon gain ＜Barrier＞ (When this Digimon would be deleted in battle, by trashing the top card of your security stack, prevent that deletion.).\n[Opponent's Turn] All of your opponent's Digimon with levels greater than or equal to the total cards in both players' security stacks gain ＜Security A. -2＞  (This Digimon checks 2 additional security cards.).",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "3",
+    "level": "5"
+  },
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-033.png",
+        "imgName": "EX5-033.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/56/EX5-033.png/revision/latest?cb=20240112102922",
+        "uploadDate": "2024-01-12T10:29:22"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-033_P1.png",
+        "imgName": "EX5-033_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/dc/EX5-033_P1.png/revision/latest?cb=20240119125629",
+        "uploadDate": "2024-01-19T12:56:29"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-033-J.png",
+        "imgName": "EX5-033-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/16/EX5-033-J.png/revision/latest?cb=20230818055403",
+        "uploadDate": "2023-08-18T05:54:03"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-033-Sample-J.png",
+        "imgName": "EX5-033-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2a/EX5-033-Sample-J.png/revision/latest?cb=20230801120834",
+        "uploadDate": "2023-08-01T12:08:34"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-033_P1-J.png",
+        "imgName": "EX5-033_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/67/EX5-033_P1-J.png/revision/latest?cb=20230825062253",
+        "uploadDate": "2023-08-25T06:22:53"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-033_P1-Sample-J.png",
+        "imgName": "EX5-033_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/30/EX5-033_P1-Sample-J.png/revision/latest?cb=20230812055327",
+        "uploadDate": "2023-08-12T05:53:27"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/56/EX5-033.png/revision/latest?cb=20240112102922",
+  "level": "6",
+  "name": "Mitamamon",
+  "nameJapanese": "ミタマモン",
+  "playCost": "12",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX5-033#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX5-033 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "This effect gives ＜Security A. -2＞ to all of your opponent's Digimon with levels greater than or equal to the total cards in both players' security stacks.  For example, if the total cards in both players' security stacks is 6, then all of your opponent's level 6 and higher Digimon will get ＜Security A. -2＞.",
+        "question": "How does this card's [Opponent's Turn] effect work, exactly?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "It means the total number of cards in both you and your opponent's security stacks.  For example, if you have 3 cards in your security stack and your opponent has 2 cards in their security stack, the total security cards will be 5 cards.",
+        "question": "What does \"total cards in both players' security stacks\" in this card's [Opponent's Turn] effect mean?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, that's correct.",
+        "question": "If the number of security cards decreases, does the level for the targets for ＜Security A. -2＞ in this card's [Opponent's Turn] effect also decrease at that time?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      }
+    ]
+  },
+  "type": "God Beast"
+}

@@ -1,0 +1,154 @@
+{
+  "attribute": "Data",
+  "blockIcon": "01",
+  "cardEffects": "[End of Attack] You may digivolve this Digimon into a [Rasenmon] in your hand without paying its memory cost, ignoring its digivolution requirements.\n[End of Your Turn] Trash the top card of your security stack.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "3",
+      "level": "5"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "5"
+    }
+  ],
+  "dp": "13000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-081.png",
+        "imgName": "BT8-081.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0b/BT8-081.png/revision/latest?cb=20220422124930",
+        "uploadDate": "2022-04-22T12:49:30"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/New_Awakening_Pre-Release_Pack",
+        "captionText": "New Awakening Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-081_P0.png",
+        "imgName": "BT8-081_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/ca/BT8-081_P0.png/revision/latest?cb=20220507123749",
+        "uploadDate": "2022-05-07T12:37:49"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Official_Tournament_Pack_Vol._12",
+        "captionText": "Official Tournament Pack Vol. 12 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-081_P1.png",
+        "imgName": "BT8-081_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ea/BT8-081_P1.png/revision/latest?cb=20240330185450",
+        "uploadDate": "2024-03-30T18:54:50"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-081-J.png",
+        "imgName": "BT8-081-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/37/BT8-081-J.png/revision/latest?cb=20211119075609",
+        "uploadDate": "2021-11-19T07:56:09"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Tamer%27s_Selection_Box_Super_Tamer_Battle_2022",
+        "captionText": "Tamer's Selection Box Super Tamer Battle 2022 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-081_P1-J.png",
+        "imgName": "BT8-081_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/ab/BT8-081_P1-J.png/revision/latest?cb=20230128141414",
+        "uploadDate": "2023-01-28T14:14:14"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0b/BT8-081.png/revision/latest?cb=20220422124930",
+  "inheritedEffect": "[Your Turn] When this card is trashed as a digivolution card by the effect of [Rasenmon], unsuspend 1 of your Digimon and it gets +3000 DP for the turn.",
+  "level": "6",
+  "name": "Rasenmon Fury Mode",
+  "nameJapanese": "ラセンモン：激昂モード",
+  "playCost": "11",
+  "rarity": "Uncommon",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/New_Awakening_Pre-Release_Pack",
+          "text": "New Awakening Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Official_Tournament_Pack_Vol._12",
+          "text": "Official Tournament Pack Vol. 12"
+        },
+        "foil&Rarity": "Foil - Full Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Tamer%27s_Selection_Box_Super_Tamer_Battle_2022",
+          "text": "Tamer's Selection Box Super Tamer Battle 2022"
+        },
+        "foil&Rarity": "Textured - Full Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "螺旋兽：激昂形态",
+  "traditionalChinese": "螺旋獸：激昂形態",
+  "type": "Mysterious Beast"
+}

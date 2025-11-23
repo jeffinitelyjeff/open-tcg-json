@@ -1,0 +1,159 @@
+{
+  "attribute": "Free",
+  "blockIcon": "00",
+  "cardEffects": "[Your Turn] This Digimon is also treated as blue.\n[Opponent's Turn] All of your opponent's Digimon with no digivolution cards gain ＜Security A. -1＞  (This Digimon checks 1 additional security card.).",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "4"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "3",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+        "captionText": "BTC-02: Booster Digital Impact (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT3-040-C.png",
+        "imgName": "BT3-040-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/86/BT3-040-C.png/revision/latest?cb=20231120131830",
+        "uploadDate": "2023-11-20T13:18:30"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.5",
+        "captionText": "BT01-03: Release Special Booster Ver.1.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT3-040.png",
+        "imgName": "BT3-040.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/72/BT3-040.png/revision/latest?cb=20210122161648",
+        "uploadDate": "2021-01-22T16:16:48"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-03:_Booster_Union_Impact",
+        "captionText": "BT-03: Booster Union Impact (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT3-040-J.png",
+        "imgName": "BT3-040-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b5/BT3-040-J.png/revision/latest?cb=20201218200613",
+        "uploadDate": "2020-12-18T20:06:13"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.5",
+        "captionText": "BT01-03: Release Special Booster Ver.1.5 (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT3-040-K.png",
+        "imgName": "BT3-040-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1f/BT3-040-K.png/revision/latest?cb=20230814183330",
+        "uploadDate": "2023-08-14T18:33:30"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/72/BT3-040.png/revision/latest?cb=20210122161648",
+  "korean": "토우몬",
+  "level": "5",
+  "name": "Shakkoumon",
+  "nameJapanese": "シャッコウモン",
+  "playCost": "8",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT3-040#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT3-040 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, since this Digimon is treated as both yellow and blue during your turn, it can digivolve into a Digimon with a requirement of \"Blue, Level 5.\"",
+        "question": "Can this Digimon digivolve into a Digimon with a digivolution condition of \"Blue, Level 5\"?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't. [Your Turn] effects don't activate from breeding areas, so the card isn't treated as a yellow card. You can't digivolve it into a Digimon that requires a blue Digimon.",
+        "question": "This card is in my breeding area. Can I digivolve it into a Digimon that requires a blue Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, the moment your Digimon gains a digivolution card, it no longer counts as a \"Digimon with no digivolution cards,\" and loses <Security Attack -1>.",
+        "question": "My opponent has this Digimon in play. If I digivolve one of my Digimon that currently has no digivolution cards, does its <Security Attack -1> immediately disappear?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+          "text": "BTC-02: Booster Digital Impact"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.5",
+          "text": "BT01-03: Release Special Booster Ver.1.5"
+        },
+        "foil&Rarity": "Gold Outline - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-03:_Booster_Union_Impact",
+          "text": "BT-03: Booster Union Impact"
+        },
+        "foil&Rarity": "Gold Outline - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.5",
+          "text": "BT01-03: Release Special Booster Ver.1.5"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
+          "text": "As'Maria"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "土偶兽",
+  "traditionalChinese": "古神獸",
+  "type": "Mutant"
+}

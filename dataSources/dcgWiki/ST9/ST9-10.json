@@ -1,0 +1,123 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "01",
+  "cardEffects": "[Security] At the end of the battle, play this card without paying the cost.\n[On Play] Suspend 1 of your opponent's Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "2",
+      "level": "3"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "2",
+      "level": "3"
+    }
+  ],
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-9:_Starter_Deck_Ultimate_Ancient_Dragon",
+        "captionText": "ST-9: Starter Deck Ultimate Ancient Dragon (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST9-10.png",
+        "imgName": "ST9-10.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0c/ST9-10.png/revision/latest?cb=20220422124923",
+        "uploadDate": "2022-04-22T12:49:23"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-9:_Starter_Deck_Ultimate_Ancient_Dragon",
+        "captionText": "ST-9: Starter Deck Ultimate Ancient Dragon (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST9-10-J.png",
+        "imgName": "ST9-10-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/66/ST9-10-J.png/revision/latest?cb=20211022041318",
+        "uploadDate": "2021-10-22T04:13:18"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0c/ST9-10.png/revision/latest?cb=20220422124923",
+  "level": "4",
+  "name": "Snimon",
+  "nameJapanese": "スナイモン",
+  "playCost": "6",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=ST9-10#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for ST9-10 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, regardless of the battle's outcome, you get to play this Digimon at the end of the battle.",
+        "question": "Can I play this Digimon with its [Security] effect even if it loses the battle against the attacking Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it does.",
+        "question": "Does this card’s [On Play] effect activate when played with this card’s [Security] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "This Digimon is played after the battle with the attacking Digimon, and before the next check is performed.  Likewise, this Digimon’s [On Play] effect activates before your opponent’s next check.",
+        "question": "This card is flipped over during a security check, but the attacking Digimon still has security checks remaining. Does this Digimon’s effect activate first, or do I have to wait until my opponent finishes the rest of their security checks?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-9:_Starter_Deck_Ultimate_Ancient_Dragon",
+          "text": "ST-9: Starter Deck Ultimate Ancient Dragon"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-9:_Starter_Deck_Ultimate_Ancient_Dragon",
+          "text": "ST-9: Starter Deck Ultimate Ancient Dragon"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-9:_Starter_Deck_Ultimate_Ancient_Dragon",
+          "text": "ST-9: Starter Deck Ultimate Ancient Dragon"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ]
+  },
+  "type": "Insectoid"
+}

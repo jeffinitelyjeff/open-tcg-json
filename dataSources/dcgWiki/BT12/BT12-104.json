@@ -1,0 +1,116 @@
+{
+  "blockIcon": "02",
+  "cardEffects": "[Main] You may play 1 [Marcus Damon] from your hand without paying the cost. Then, for each yellow and/or red Tamer you have in play, 3 of your opponent's Digimon get -2000 DP for the turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Yellow / Red",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-104.png",
+        "imgName": "BT12-104.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9f/BT12-104.png/revision/latest?cb=20230421194637",
+        "uploadDate": "2023-04-21T19:46:37"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Across_Time_Pre-Release_Pack",
+        "captionText": "Across Time Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-104_P0.png",
+        "imgName": "BT12-104_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6e/BT12-104_P0.png/revision/latest?cb=20230421205142",
+        "uploadDate": "2023-04-21T20:51:42"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-104-J.png",
+        "imgName": "BT12-104-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/63/BT12-104-J.png/revision/latest?cb=20221111110525",
+        "uploadDate": "2022-11-11T11:05:25"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-104-Sample-J.png",
+        "imgName": "BT12-104-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b4/BT12-104-Sample-J.png/revision/latest?cb=20221101125439",
+        "uploadDate": "2022-11-01T12:54:39"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9f/BT12-104.png/revision/latest?cb=20230421194637",
+  "name": "Shining Blast",
+  "nameJapanese": "シャイニングブラスト",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT12-104#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT12-104 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can't.",
+        "question": "If I have a 2-color yellow/red Tamer, can I count it as 2 Tamers for this card's [Main] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "3 of your opponent's Digimon get -4000 DP. This card's effect only targets 3 of your opponent's Digimon.",
+        "question": "If I have a 2-color yellow/red Tamer, does this card's [Main] effect give 6 of my opponent's Digimon -2000 DP for the turn or 3 of my opponent's Digimon -4000 DP for the turn?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Activate this card's [Main] effects.",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Across_Time_Pre-Release_Pack",
+          "text": "Across Time Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      }
+    ]
+  },
+  "useCost": "5"
+}

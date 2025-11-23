@@ -1,0 +1,109 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "01",
+  "cardEffects": "＜Security A. +1＞ (This Digimon checks 1 additional security card.)\n[End of Attack] Delete this Digimon.\n[On Deletion] You may play 1 [Agumon] from your trash suspended without paying its memory cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "3",
+      "level": "4"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "4"
+    }
+  ],
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-062.png",
+        "imgName": "EX1-062.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/57/EX1-062.png/revision/latest?cb=20211126152135",
+        "uploadDate": "2021-11-26T15:21:35"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-062-J.png",
+        "imgName": "EX1-062-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4a/EX1-062-J.png/revision/latest?cb=20210721041524",
+        "uploadDate": "2021-07-21T04:15:24"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/57/EX1-062.png/revision/latest?cb=20211126152135",
+  "korean": "스컬그레이몬",
+  "level": "5",
+  "name": "SkullGreymon",
+  "nameJapanese": "スカルグレイモン",
+  "playCost": "8",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX1-062#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX1-062 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. This card is no longer in play at the end of the attack, so the [End of Attack] effect doesn't activate.",
+        "question": "I attack my opponent with this Digimon and flip over [BT2-105 Spider Shooter] during the security check. The ＜De-Digivolve  nocategory＞ (Trash up to nocategory cards from the top. You can't trash past level 3 cards.) trashes this card. Does this card’s [End of Attack] effect activate?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, this card’s [On Deletion] effect can only play cards whose names are specifically [Agumon].",
+        "question": "Can this card's [On Deletion] effect play an [Agumon Expert] or an [Agumon - Bond of Bravery] from my trash?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-01: Extra Booster",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "simplifiedChinese": "丧尸暴龙兽",
+  "traditionalChinese": "喪屍暴龍獸",
+  "type": "Undead"
+}

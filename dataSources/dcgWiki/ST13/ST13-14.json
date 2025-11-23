@@ -1,0 +1,132 @@
+{
+  "attribute": "Data",
+  "blockIcon": "02",
+  "cardEffects": "[Your Turn] [Once Per Turn]  When one of your effects places a digivolution card under this Digimon, your opponent's effects can't delete this Digimon or return it to its owner's hand or deck until the end of your opponent's turn.\n[When Digivolving] Reveal the top 3 cards of your deck. You may play 1 Digimon card with the [Legend-Arms] trait and a play cost of 7 or less among them without paying its memory cost. Place the rest at the bottom of your deck in any order.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "5"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "4",
+      "level": "5"
+    }
+  ],
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-13:_Starter_Deck_RagnaLoardmon",
+        "captionText": "ST-13: Starter Deck RagnaLoardmon (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST13-14.png",
+        "imgName": "ST13-14.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3c/ST13-14.png/revision/latest?cb=20220916204855",
+        "uploadDate": "2022-09-16T20:48:55"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-13:_Starter_Deck_RagnaLoardmon",
+        "captionText": "ST-13: Starter Deck RagnaLoardmon (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST13-14-J.png",
+        "imgName": "ST13-14-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c6/ST13-14-J.png/revision/latest?cb=20220415091248",
+        "uploadDate": "2022-04-15T09:12:48"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-13:_Starter_Deck_RagnaLoardmon",
+        "captionText": "ST-13: Starter Deck RagnaLoardmon (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST13-14-Sample-J.png",
+        "imgName": "ST13-14-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/10/ST13-14-Sample-J.png/revision/latest?cb=20220409090211",
+        "uploadDate": "2022-04-09T09:02:11"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3c/ST13-14.png/revision/latest?cb=20220916204855",
+  "inheritedEffect": "[Opponent's Turn] While this Digimon is [RagnaLoardmon], it isn't affected by the effects of your opponent's Digimon.",
+  "level": "6",
+  "name": "BryweLudramon",
+  "nameJapanese": "ブリウエルドラモン",
+  "playCost": "11",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=ST13-14#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for ST13-14 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, the effect reads \"you may play it,\" so you may also choose to not play it. In such cases, you place it at the bottom of the deck with the rest of the cards.",
+        "question": "When this card's [When Digivolving] effect reveals a card with the [Legend-Arms] trait and a play cost of 7 or less in my deck, can I choose to not play that card?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "It can't be played due to [BT9-Pomumon]'s effect, so return it to the bottom of the deck with the rest of the cards.",
+        "question": "If there's a [BT9-047 Pomumon] and I reveal a Digimon card with the [Legend-Arms] trait and a play cost of 7 or less with this card's [When Attacking] effect, what happens to that card?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, this card's inherited effect has the [Opponent's Turn] timing, but the turns haven't changed at the end of your turn, so this card's inherited effect can't be activated and the effect of your opponent's [BT9-112 DeathXmon] can't be prevented.",
+        "question": "If my Digimon is targeted by the [End of Opponent's Turn] effect of my opponent's [BT9-112 DeathXmon] while it has this card in its digivolution cards, does this card's inherited effect prevent it from being deleted due to my opponent's effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-13:_Starter_Deck_RagnaLoardmon",
+          "text": "ST-13: Starter Deck RagnaLoardmon"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-13:_Starter_Deck_RagnaLoardmon",
+          "text": "ST-13: Starter Deck RagnaLoardmon"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-13:_Starter_Deck_RagnaLoardmon",
+          "text": "ST-13: Starter Deck RagnaLoardmon"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ]
+  },
+  "type": "Armor/Legend-Arms"
+}

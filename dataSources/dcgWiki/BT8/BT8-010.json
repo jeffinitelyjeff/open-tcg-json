@@ -1,0 +1,122 @@
+{
+  "attribute": "Free",
+  "blockIcon": "01",
+  "cardEffects": "When you would play this card from your hand, reduce its play cost by 1 if you have a yellow Digimon in play.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "2",
+      "level": "3"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "2",
+      "level": "3"
+    }
+  ],
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-010.png",
+        "imgName": "BT8-010.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a5/BT8-010.png/revision/latest?cb=20220422124924",
+        "uploadDate": "2022-04-22T12:49:24"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-010-J.png",
+        "imgName": "BT8-010-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a5/BT8-010-J.png/revision/latest?cb=20211119075602",
+        "uploadDate": "2021-11-19T07:56:02"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-010-Sample-J.png",
+        "imgName": "BT8-010-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a4/BT8-010-Sample-J.png/revision/latest?cb=20211106093919",
+        "uploadDate": "2021-11-06T09:39:19"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a5/BT8-010.png/revision/latest?cb=20220422124924",
+  "inheritedEffect": "[When Attacking] If you have a yellow Digimon in play, delete 1 of your opponent's Digimon with 5000 DP or less.",
+  "korean": "아큐라몬",
+  "level": "4",
+  "name": "Aquilamon",
+  "nameJapanese": "アクィラモン",
+  "playCost": "4",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT8-010#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT8-010 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. Even if you have 2 yellow Digimon in play, this effect can only reduce the play cost by a maximum of 1.",
+        "question": "If I have 2 yellow Digimon in play, does this effect reduce this card’s play cost by 2?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shosuke",
+          "text": "shosuke"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shosuke",
+          "text": "shosuke"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shosuke",
+          "text": "shosuke"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "天鹰兽",
+  "traditionalChinese": "亞古拉獸",
+  "type": "Giant Bird"
+}

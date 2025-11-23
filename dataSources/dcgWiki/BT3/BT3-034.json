@@ -1,0 +1,176 @@
+{
+  "attribute": "Data",
+  "blockIcon": "00",
+  "cardEffects": "[On Play] Look at the top card of your security stack. You may add that card to your hand to ＜Draw 1＞ (Draw 1 card from your deck.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+        "captionText": "BTC-02: Booster Digital Impact (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT3-034-C.png",
+        "imgName": "BT3-034-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/81/BT3-034-C.png/revision/latest?cb=20231120131614",
+        "uploadDate": "2023-11-20T13:16:14"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.5",
+        "captionText": "BT01-03: Release Special Booster Ver.1.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT3-034.png",
+        "imgName": "BT3-034.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a7/BT3-034.png/revision/latest?cb=20210122161702",
+        "uploadDate": "2021-01-22T16:17:02"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Event_Pack_4",
+        "captionText": "Event Pack 4 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT3-034_P1.png",
+        "imgName": "BT3-034_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0c/BT3-034_P1.png/revision/latest?cb=20230506081858",
+        "uploadDate": "2023-05-06T08:18:58"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-03:_Booster_Union_Impact",
+        "captionText": "BT-03: Booster Union Impact (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT3-034-J.png",
+        "imgName": "BT3-034-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a2/BT3-034-J.png/revision/latest?cb=20201218200603",
+        "uploadDate": "2020-12-18T20:06:03"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.5",
+        "captionText": "BT01-03: Release Special Booster Ver.1.5 (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT3-034-K.png",
+        "imgName": "BT3-034-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d0/BT3-034-K.png/revision/latest?cb=20230814183103",
+        "uploadDate": "2023-08-14T18:31:03"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a7/BT3-034.png/revision/latest?cb=20210122161702",
+  "korean": "로프몬",
+  "level": "3",
+  "name": "Lopmon",
+  "nameJapanese": "ロップモン",
+  "playCost": "3",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT3-034#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT3-034 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "It's placed at the top of the security stack, face down.",
+        "question": "After checking the top security card using this card's effect, if that card cannot be added to my hand, what happens to that card?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you don't.",
+        "question": "If I check my top security card using this card's effect and add it to my hand, do I have to reveal it to my opponent?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can only ＜Draw 1＞ if you add a security card to your hand.",
+        "question": "When I have 0 cards left in my security stack, can I still ＜Draw 1＞ as a result of this card's effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, the latter half of the effect, \"Look at the top card of your security stack. You may add that card to your hand to trigger...\" can still be activated even if you have 0 cards in your deck and ＜Draw 1＞ cannot be activated.",
+        "question": "When I have 0 cards left in my deck, can I still look at one of my security cards and add it to my hand?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BTC-02:_Booster_Digital_Impact",
+          "text": "BTC-02: Booster Digital Impact"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.5",
+          "text": "BT01-03: Release Special Booster Ver.1.5"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Event_Pack_4",
+          "text": "Event Pack 4"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-03:_Booster_Union_Impact",
+          "text": "BT-03: Booster Union Impact"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT01-03:_Release_Special_Booster_Ver.1.5",
+          "text": "BT01-03: Release Special Booster Ver.1.5"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "垂耳兔兽",
+  "traditionalChinese": "黑大耳獸",
+  "type": "Beast"
+}

@@ -1,0 +1,155 @@
+{
+  "attribute": "Free",
+  "blockIcon": "02",
+  "cardEffects": "[Your Turn] When this Digimon would DNA digivolve into a blue Digimon card, gain 1 memory.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "2",
+      "level": "3"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "2",
+      "level": "3"
+    }
+  ],
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-050.png",
+        "imgName": "BT12-050.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e0/BT12-050.png/revision/latest?cb=20230421194632",
+        "uploadDate": "2023-04-21T19:46:32"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Across_Time_Pre-Release_Pack",
+        "captionText": "Across Time Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-050_P0.png",
+        "imgName": "BT12-050_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/01/BT12-050_P0.png/revision/latest?cb=20230421205130",
+        "uploadDate": "2023-04-21T20:51:30"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Demo_Deck:_Imperialdramon",
+        "captionText": "Demo Deck: Imperialdramon (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-050_P1.png",
+        "imgName": "BT12-050_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e8/BT12-050_P1.png/revision/latest?cb=20231113163956",
+        "uploadDate": "2023-11-13T16:39:56"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-050-J.png",
+        "imgName": "BT12-050-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/03/BT12-050-J.png/revision/latest?cb=20231013154920",
+        "uploadDate": "2023-10-13T15:49:20"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Demo_Deck:_Imperialdramon",
+        "captionText": "Demo Deck: Imperialdramon (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-050_P1-J.png",
+        "imgName": "BT12-050_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/db/BT12-050_P1-J.png/revision/latest?cb=20231027105758",
+        "uploadDate": "2023-10-27T10:57:58"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e0/BT12-050.png/revision/latest?cb=20230421194632",
+  "inheritedEffect": "[Your Turn] While this Digimon has [Imperialdramon] in its name or the [Free] trait, it gains ＜Piercing＞  (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.).",
+  "korean": "스팅몬",
+  "level": "4",
+  "name": "Stingmon",
+  "nameJapanese": "スティングモン",
+  "playCost": "4",
+  "rarity": "Uncommon",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-06: Booster Across Dimension",
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Across_Time_Pre-Release_Pack",
+          "text": "Across Time Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Demo_Deck:_Imperialdramon",
+          "text": "Demo Deck: Imperialdramon"
+        },
+        "foil&Rarity": "No Foil - New Card Layout - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Demo_Deck:_Imperialdramon",
+          "text": "Demo Deck: Imperialdramon"
+        },
+        "foil&Rarity": "No Foil - New Card Layout - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "飞虫兽",
+  "traditionalChinese": "飛蟲獸",
+  "type": "Insectoid"
+}

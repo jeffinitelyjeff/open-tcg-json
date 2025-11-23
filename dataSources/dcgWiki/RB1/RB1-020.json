@@ -1,0 +1,152 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "02",
+  "cardEffects": "[On Play] Reveal the top 3 cards of your deck. Add 1 card with [Angoramon] in its text and 1 [Ruli Tsukiyono] among them to your hand. Place the rest at the bottom of your deck in any order.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-020.png",
+        "imgName": "RB1-020.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/22/RB1-020.png/revision/latest?cb=20230901095553",
+        "uploadDate": "2023-09-01T09:55:53"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Resurgence_Booster",
+        "captionText": "Box Promotion Pack: Resurgence Booster (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-020_P1.png",
+        "imgName": "RB1-020_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c5/RB1-020_P1.png/revision/latest?cb=20230901095553",
+        "uploadDate": "2023-09-01T09:55:53"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+        "captionText": "RB-01: Resurgence Booster (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-020-J.png",
+        "imgName": "RB1-020-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/20/RB1-020-J.png/revision/latest?cb=20231018154859",
+        "uploadDate": "2023-10-18T15:48:59"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Resurgence_Booster",
+        "captionText": "Box Promotion Pack: Resurgence Booster (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:RB1-020_P1-J.png",
+        "imgName": "RB1-020_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/ca/RB1-020_P1-J.png/revision/latest?cb=20231018154955",
+        "uploadDate": "2023-10-18T15:49:55"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/22/RB1-020.png/revision/latest?cb=20230901095553",
+  "inheritedEffect": "[All Turns] While your opponent has no unsuspended Digimon in play, this Digimon gets +1000 DP.",
+  "level": "3",
+  "name": "Angoramon",
+  "nameJapanese": "アンゴラモン",
+  "playCost": "3",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=RB1-020#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for RB1-020 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. If you have cards that are targets of this effect, you must add as many cards to your hand as possible. However, because one of the cards revealed and added to your hand is a [Ruli Tsukiyono] card with [Angoramon] in its text, that card fulfills \"\"card with [Angoramon] in its text,\"\" so you may just add that [Ruli Tsukiyono] card to your hand and return the non-[Ruli Tsukiyono] card to the bottom of your deck without adding it to your hand.",
+        "question": "If the cards I reveal for this card's [On Play] effect include 1 [Ruli Tsukiyono] with [Angoramon] in its text and 1 non-[Ruli Tsukiyono] card with [Angoramon] in its text, can I choose to only add one of them to my hand, and place the remaining 2 cards at the bottom of my deck?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-07: Booster Great Warrior",
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": "BTC-07: Booster Great Warrior",
+        "foil&Rarity": "Foil - Variant Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Resurgence_Booster",
+          "text": "Box Promotion Pack: Resurgence Booster"
+        },
+        "foil&Rarity": "Foil - Variant Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/RB-01:_Resurgence_Booster",
+          "text": "RB-01: Resurgence Booster"
+        },
+        "foil&Rarity": "Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Resurgence_Booster",
+          "text": "Box Promotion Pack: Resurgence Booster"
+        },
+        "foil&Rarity": "Foil - Variant Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "安格拉兽",
+  "traditionalChinese": "安哥拉獸",
+  "type": "Beast"
+}

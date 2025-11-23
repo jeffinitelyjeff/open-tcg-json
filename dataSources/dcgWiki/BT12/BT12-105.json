@@ -1,0 +1,92 @@
+{
+  "blockIcon": "02",
+  "cardEffects": "[Main] Until the end of your opponent's turn, 1 of your opponent's Digimon gains \"[On Deletion] Trash the top card of your security stack.\" Then, if you have a blue Digimon in play, you may play 1 green level 4 or lower Digimon card with the [Free] trait from your hand without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Green",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-105.png",
+        "imgName": "BT12-105.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/67/BT12-105.png/revision/latest?cb=20230421194637",
+        "uploadDate": "2023-04-21T19:46:37"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-105-J.png",
+        "imgName": "BT12-105-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/08/BT12-105-J.png/revision/latest?cb=20221111110524",
+        "uploadDate": "2022-11-11T11:05:24"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-105-Sample-J.png",
+        "imgName": "BT12-105-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/45/BT12-105-Sample-J.png/revision/latest?cb=20221026090753",
+        "uploadDate": "2022-10-26T09:07:53"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/67/BT12-105.png/revision/latest?cb=20230421194637",
+  "name": "Spiking Strike",
+  "nameJapanese": "スパイキングフィニッシュ",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT12-105#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT12-105 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, in such cases you win the game.",
+        "question": "If my Digimon attacks my opponent who has 1 security card, and I've used this card so its [Main] effect has given an opponent's Digimon the [On Deletion] effect, then delete that Digimon with a [When Attacking] effect, do I win the game by trashing the security card before the check and making it so I am attacking an opponent with 0 security cards?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Activate this card's [Main] effects.",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:P!k@ru",
+          "text": "p!k@ru"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:P!k@ru",
+          "text": "p!k@ru"
+        }
+      }
+    ]
+  },
+  "useCost": "3"
+}

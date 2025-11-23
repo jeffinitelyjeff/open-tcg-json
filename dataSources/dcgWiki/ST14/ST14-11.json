@@ -1,0 +1,112 @@
+{
+  "blockIcon": "02",
+  "cardEffects": "[On Play] Reveal the top 4 cards of your deck. Add 1 Digimon card with the [Evil], [Wizard] or [Demon Lord] trait among them to your hand. Place the rest at the bottom of your deck in any order.\n[Your Turn] When one of your Digimon digivolves into a purple Digimon, by suspending this Tamer, return 1 card from your hand to the top of your deck and gain 1 memory.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Tamer",
+  "color": "Purple",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-14:_Advanced_Deck_Set_Beelzemon",
+        "captionText": "ST-14: Advanced Deck Set Beelzemon (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST14-11.png",
+        "imgName": "ST14-11.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/29/ST14-11.png/revision/latest?cb=20230317135336",
+        "uploadDate": "2023-03-17T13:53:36"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Beelzemon_Cup_Participation_Pack",
+        "captionText": "Beelzemon Cup Participation Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST14-11_P0.png",
+        "imgName": "ST14-11_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/91/ST14-11_P0.png/revision/latest?cb=20230508191049",
+        "uploadDate": "2023-05-08T19:10:49"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-14:_Advanced_Deck_Set_Beelzemon",
+        "captionText": "ST-14: Advanced Deck Set Beelzemon (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST14-11-J.png",
+        "imgName": "ST14-11-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/51/ST14-11-J.png/revision/latest?cb=20221202135923",
+        "uploadDate": "2022-12-02T13:59:23"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-14:_Advanced_Deck_Set_Beelzemon",
+        "captionText": "ST-14: Advanced Deck Set Beelzemon (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST14-11-Sample-J.png",
+        "imgName": "ST14-11-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bc/ST14-11-Sample-J.png/revision/latest?cb=20220930045636",
+        "uploadDate": "2022-09-30T04:56:36"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/29/ST14-11.png/revision/latest?cb=20230317135336",
+  "name": "Ai & Mako",
+  "nameJapanese": "アイ&マコト",
+  "playCost": "3",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=ST14-11#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for ST14-11 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can activate this effect. \"return 1 card from your hand on top of your deck\" is not a \"by <X>, <Y>\" effect (\"by returning...\"), so you gain 1 memory even when you can't perform that action. However, if you do have cards in your hand, you must return 1 card on top of the deck.",
+        "question": "Can I activate this card's [Your Turn] effect and gain 1 memory even when I have 0 cards in my hand?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Play this card without paying the cost.",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-14:_Advanced_Deck_Set_Beelzemon",
+          "text": "ST-14: Advanced Deck Set Beelzemon"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-14:_Advanced_Deck_Set_Beelzemon",
+          "text": "ST-14: Advanced Deck Set Beelzemon"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Beelzemon_Cup_Participation_Pack",
+          "text": "Beelzemon Cup Participation Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-14:_Advanced_Deck_Set_Beelzemon",
+          "text": "ST-14: Advanced Deck Set Beelzemon"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  }
+}

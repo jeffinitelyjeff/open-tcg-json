@@ -1,0 +1,119 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 [Argomon]: Cost 4",
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "When digivolving into this card, by suspending up to 5 Tamers, for each Tamer suspended by this effect, reduce the digivolution cost by 1.\n[Opponent's Turn] None of your opponent's Tamers can unsuspend.\n[On Deletion] If you have 4 or more [Argomon] in your trash, you may play 1 level 6 [Argomon] from your hand without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green / Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "5",
+      "level": "4"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "5",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-048.png",
+        "imgName": "BT17-048.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/aa/BT17-048.png/revision/latest?cb=20240720075952",
+        "uploadDate": "2024-07-20T07:59:52"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-048-J.png",
+        "imgName": "BT17-048-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/54/BT17-048-J.png/revision/latest?cb=20240322064308",
+        "uploadDate": "2024-03-22T06:43:08"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-048-Sample-J.png",
+        "imgName": "BT17-048-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/30/BT17-048-Sample-J.png/revision/latest?cb=20240305095322",
+        "uploadDate": "2024-03-05T09:53:22"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/aa/BT17-048.png/revision/latest?cb=20240720075952",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] By suspending 1 of your [Rhythm], unsuspend this Digimon.",
+  "korean": "아르고몬",
+  "level": "5",
+  "name": "Argomon",
+  "nameJapanese": "アルゴモン",
+  "nameTranslated": "Algomon",
+  "playCost": "8",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT17-048#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT17-048 (Sep. 6, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can choose the targets.",
+        "question": "Does this card's \"when this card would be digivolved into\" effect allow me to choose the targets to suspend from among my Tamers and my opponent's Tamers when this card would be digivolved into?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.  If you have 4 or more [Argomon] in your trash after this card or [Argomon] in this card's digivolution cards is sent to the trash, you can use this card's [On Deletion] effect to play a level 6 [Argomon].",
+        "question": "This Digimon was deleted when I had 3 [Argomon] in my trash. At such times, can I use this card's [On Deletion] effect to play 1 level 6 [Argomon] from my hand without paying the cost?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "阿耳戈兽",
+  "traditionalChinese": "阿爾戈獸",
+  "type": "Mutant"
+}

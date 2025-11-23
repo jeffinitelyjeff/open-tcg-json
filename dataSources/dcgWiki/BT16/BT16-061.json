@@ -1,0 +1,157 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Dorugamon] in its name or Lv.4 w/[SoC] trait: Cost 3",
+  "attribute": "Data",
+  "blockIcon": "03",
+  "cardEffects": "＜Collision＞ (During this Digimon's attack, all of your opponent's Digimon gain ＜Blocker＞, and must block if possible.)\n[All Turns] When an attack target is switched, this Digimon with an [SoC] trait Tamer card in its digivolution cards may digivolve into a Digimon card with the [Beast Dragon], [Undead] or [SoC] trait in the hand without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black / Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-061.png",
+        "imgName": "BT16-061.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/be/BT16-061.png/revision/latest?cb=20240426204050",
+        "uploadDate": "2024-04-26T20:40:50"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Beginning_Observer",
+        "captionText": "Pre-Release Pack Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-061_P0.png",
+        "imgName": "BT16-061_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6e/BT16-061_P0.png/revision/latest?cb=20240429054833",
+        "uploadDate": "2024-04-29T05:48:33"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-061-J.png",
+        "imgName": "BT16-061-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/ba/BT16-061-J.png/revision/latest?cb=20231215073418",
+        "uploadDate": "2023-12-15T07:34:18"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-061-Sample-J.png",
+        "imgName": "BT16-061-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/06/BT16-061-Sample-J.png/revision/latest?cb=20231204070515",
+        "uploadDate": "2023-12-04T07:05:15"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-04:_Limited_Card_Pack_Torrid_Weiss",
+        "captionText": "LM-04: Limited Card Pack Torrid Weiss (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-061_P1-Sample-J.png",
+        "imgName": "BT16-061_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2e/BT16-061_P1-Sample-J.png/revision/latest?cb=20240713055202",
+        "uploadDate": "2024-07-13T05:52:02"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-04:_Limited_Card_Pack_Torrid_Weiss",
+        "captionText": "LM-04: Limited Card Pack Torrid Weiss (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-061_P1-J.png",
+        "imgName": "BT16-061_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/25/BT16-061_P1-J.png/revision/latest?cb=20241128214514",
+        "uploadDate": "2024-11-28T21:45:14"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/be/BT16-061.png/revision/latest?cb=20240426204050",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When this Digimon deletes another Digimon, you may play 1 card with the [X Antibody] or [SoC] trait and a play cost of 5 or less from your trash without paying the cost.",
+  "level": "5",
+  "name": "DoruGreymon",
+  "nameJapanese": "ドルグレモン",
+  "playCost": "7",
+  "rarity": "Uncommon",
+  "rule": "[Rule] Name: Not treated as having [Greymon].",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT16-061#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT16-061 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, this card's effect does not allow ignoring digivolution requirements, so you can only digivolve into a card that meets the digivolution requirements.",
+        "question": "When I use this card's [All Turns] effect to digivolve it into a Digimon card with the [Beast Dragon], [Undead] or [SoC] trait in the hand, can it digivolve regardless of its digivolution requirements?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Beginning_Observer",
+          "text": "Pre-Release Pack Beginning Observer"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-04:_Limited_Card_Pack_Torrid_Weiss",
+          "text": "LM-04: Limited Card Pack Torrid Weiss"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      }
+    ]
+  },
+  "type": "Beast Dragon/X Antibody/SoC"
+}

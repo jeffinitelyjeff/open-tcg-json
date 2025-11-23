@@ -1,0 +1,128 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "＜Armor Purge＞  (When this Digimon would be deleted, you may trash the top card of this Digimon to prevent that deletion.)\n[On Play] [When Digivolving] You may place 1 Digimon card with the [Xros Heart] trait from your hand or from under one of your Tamers under this Digimon as its bottom digivolution card. Then, if this Digimon has [Sparrowmon] in its digivolution cards, until the end of your opponent's turn, all of your Digimon gain ＜Blocker＞ (This Digimon can block in the blocker timing.) and can't be returned to hands or decks.\n[All Turns] [Once Per Turn] When one of your other Digimon is deleted, unsuspend this Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "5",
+      "level": "5"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "2",
+      "level": "6"
+    }
+  ],
+  "digixrosRequirements": "[DigiXros -3] [Mervamon] x [Sparrowmon] \nWhen this would be played, you may place specified cards from your hand/battle area under it. Each one reduces the play cost.",
+  "dp": "13000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-084.png",
+        "imgName": "BT12-084.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f1/BT12-084.png/revision/latest?cb=20230421194635",
+        "uploadDate": "2023-04-21T19:46:35"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Across_Time_Pre-Release_Pack",
+        "captionText": "Across Time Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-084_P0.png",
+        "imgName": "BT12-084_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d1/BT12-084_P0.png/revision/latest?cb=20230421205501",
+        "uploadDate": "2023-04-21T20:55:01"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-084-J.png",
+        "imgName": "BT12-084-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d9/BT12-084-J.png/revision/latest?cb=20221111110526",
+        "uploadDate": "2022-11-11T11:05:26"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+        "captionText": "BT-12: Booster Across Time (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-084-Sample-J.png",
+        "imgName": "BT12-084-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/89/BT12-084-Sample-J.png/revision/latest?cb=20221014093353",
+        "uploadDate": "2022-10-14T09:33:53"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f1/BT12-084.png/revision/latest?cb=20230421194635",
+  "level": "6",
+  "name": "JetMervamon",
+  "nameJapanese": "ジェットメルヴァモン",
+  "playCost": "13",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT12-084#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT12-084 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "The effect has already activated, so even without [Sparrowmon] in the digivolution cards, the effect will continue until the end of your opponent's turn.",
+        "question": "\"I activated this card's [On Play][When Digivolving] effect and all of my Digimon gained ＜Blocker＞ and can't be returned to hands or decks. If [Sparrowmon] is then trashed from this card's digivolution cards, what happens to the effects that my Digimon gained?\"",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Across_Time_Pre-Release_Pack",
+          "text": "Across Time Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-12:_Booster_Across_Time",
+          "text": "BT-12: Booster Across Time"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "type": "Enhancement/Xros Heart"
+}

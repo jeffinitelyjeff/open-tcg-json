@@ -1,0 +1,128 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "01",
+  "cardEffects": "[On Play] You may place 1 [Sistermon Blanc] from your hand or trash at the bottom of this Digimon's digivolution cards to ＜Recovery +1 (Deck)＞ (Place the top card of your deck on top of your security stack.)\n[On Deletion] Return 1 card with [Jesmon], [Huckmon] or [Sistermon] in its name other than [Sistermon Blanc (Awakened)] from your trash to your hand.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "White",
+  "digivolutionRequirements": {
+    "color": "White",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-082.png",
+        "imgName": "BT7-082.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/aa/BT7-082.png/revision/latest?cb=20220218130631",
+        "uploadDate": "2022-02-18T13:06:31"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Next_Adventure_Pre-Release_Pack",
+        "captionText": "Next Adventure Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-082_P0.png",
+        "imgName": "BT7-082_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/14/BT7-082_P0.png/revision/latest?cb=20220304175602",
+        "uploadDate": "2022-03-04T17:56:02"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-082-J.png",
+        "imgName": "BT7-082-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a3/BT7-082-J.png/revision/latest?cb=20210820091102",
+        "uploadDate": "2021-08-20T09:11:02"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/aa/BT7-082.png/revision/latest?cb=20220218130631",
+  "level": "3",
+  "name": "Sistermon Blanc (Awakened)",
+  "nameJapanese": "シスタモン ブラン（覚醒）",
+  "nameTranslated": "Sistermon Blanc (Awake)",
+  "playCost": "5",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT7-082#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT7-082 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can't. This effect can only place [Sistermon Blanc].",
+        "question": "Can I place a [Sistermon Blanc (Awakened)] from my hand or trash at the bottom of this Digimon's digivolution cards with this card's [On Play] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes. Those cards have [Huckmon] and/or [Sistermon], so you can add one of them to your hand.",
+        "question": "Can this card's [On Deletion] effect return [BaoHuckmon], [SaviorHuckmon], or [Sistermon Ciel (Awakened)] from my trash to my hand?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Next_Adventure_Pre-Release_Pack",
+          "text": "Next Adventure Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
+        }
+      }
+    ]
+  },
+  "type": "Puppet"
+}

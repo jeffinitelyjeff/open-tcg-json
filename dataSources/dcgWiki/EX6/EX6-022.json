@@ -1,0 +1,93 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "＜Barrier＞ (When this Digimon would be deleted in battle, by trashing the top card of your security stack, prevent that deletion.)\n[On Play] [When Digivolving] If you have a [Mirei Mikagura], 1 of your opponent's Digimon gains  ＜Security A. -2＞  (This Digimon checks 2 additional security cards.) until the end of their turn. If you don't have a [Mirei Mikagura], you may play 1 [Mirei Mikagura] from your hand without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "4"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "3",
+      "level": "4"
+    }
+  ],
+  "dp": "6000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-022.png",
+        "imgName": "EX6-022.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f5/EX6-022.png/revision/latest?cb=20240531091329",
+        "uploadDate": "2024-05-31T09:13:29"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-022-J.png",
+        "imgName": "EX6-022-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/17/EX6-022-J.png/revision/latest?cb=20240216085319",
+        "uploadDate": "2024-02-16T08:53:19"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-022-Sample-J.png",
+        "imgName": "EX6-022-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fb/EX6-022-Sample-J.png/revision/latest?cb=20240125090140",
+        "uploadDate": "2024-01-25T09:01:40"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f5/EX6-022.png/revision/latest?cb=20240531091329",
+  "inheritedEffect": "[All Turns] While this Digimon has the [Angel] or [Three Great Angels] trait, it gains ＜Alliance＞  (When this Digimon attacks, by suspending 1 of your other Digimon, add the suspended Digimon's DP to this Digimon and it gains ＜Security A. +1＞ for the attack.)",
+  "level": "5",
+  "name": "Angewomon",
+  "nameJapanese": "エンジェウーモン",
+  "playCost": "7",
+  "rarity": "Uncommon",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ]
+  },
+  "type": "Archangel"
+}

@@ -1,0 +1,108 @@
+{
+  "blockIcon": "04",
+  "cardEffects": "[Main] You may place 1 [Royal Base] trait Digimon card from your trash face up as your bottom security card. Then, delete up to 8 play cost's total worth of your opponent's Digimon. For each of your face up security cards, add 2 to the maximum play cost you may choose with this effect.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Green / Black",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+        "captionText": "BT18-19: Special Booster Ver.2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-096.png",
+        "imgName": "BT19-096.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5e/BT19-096.png/revision/latest?cb=20241011093459",
+        "uploadDate": "2024-10-11T09:34:59"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-096-J.png",
+        "imgName": "BT19-096-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b1/BT19-096-J.png/revision/latest?cb=20240920100602",
+        "uploadDate": "2024-09-20T10:06:02"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+        "captionText": "BT-19: Booster Xros Evolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT19-096-Sample-J.png",
+        "imgName": "BT19-096-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b4/BT19-096-Sample-J.png/revision/latest?cb=20240828090115",
+        "uploadDate": "2024-08-28T09:01:15"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5e/BT19-096.png/revision/latest?cb=20241011093459",
+  "name": "Hornet Eraser",
+  "nameJapanese": "ホーネットイレイザー",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT19-096#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT19-096 (Jan. 10, 2025)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "They become face-up security cards that remain revealed.  Other than rules that specify face-up security cards, the rules apply in the same manner as standard security cards.",
+        "question": "What happens to cards placed face up in the security stack by effects?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "The check is performed with the card left revealed.  Other than rules for cards left revealed, the rules apply in the same manner as standard security checks.",
+        "question": "What happens upon a security check for a security card that is placed face-up?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it triggers.",
+        "question": "Does a card's [Security] effect trigger upon a security check with that card placed face-up?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Any face-up cards are placed face down, then you shuffle the cards.  After shuffling, all cards are left face-down.",
+        "question": "What happens if I shuffle a security stack that includes security cards placed face-up?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Activate this card's [Main] effects.",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT18-19:_Special_Booster_Ver.2.0",
+          "text": "BT18-19: Special Booster Ver.2.0"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-19:_Booster_Xros_Evolution",
+          "text": "BT-19: Booster Xros Evolution"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      }
+    ]
+  },
+  "type": "Royal Base/LIBERATOR",
+  "useCost": "8"
+}

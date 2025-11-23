@@ -1,0 +1,123 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] Reveal the top 4 cards of your deck. Add 2 level 6 or higher cards among them to the hand. Return the rest to the bottom of the deck.\n[End of Your Turn] By deleting 1 of your Digimon, you may play 1 Digimon card with the [Dark Masters] trait from your hand to an empty space in your breeding area without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "6000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-050.png",
+        "imgName": "BT15-050.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ed/BT15-050.png/revision/latest?cb=20240209090321",
+        "uploadDate": "2024-02-09T09:03:21"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-050-J.png",
+        "imgName": "BT15-050-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/72/BT15-050-J.png/revision/latest?cb=20230922100135",
+        "uploadDate": "2023-09-22T10:01:35"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-050-Sample-J.png",
+        "imgName": "BT15-050-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4c/BT15-050-Sample-J.png/revision/latest?cb=20230826104110",
+        "uploadDate": "2023-08-26T10:41:10"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ed/BT15-050.png/revision/latest?cb=20240209090321",
+  "inheritedEffect": "＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.)",
+  "level": "5",
+  "name": "Cherrymon",
+  "nameJapanese": "ジュレイモン",
+  "nameTranslated": "Jyureimon",
+  "playCost": "6",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT15-050#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT15-050 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.  In such cases, you add as many cards to your hand as possible.",
+        "question": "Can I use this card's [On Play] effect to add a card to my hand when only 1 level 6 or higher card is among the revealed cards?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, the effect doesn’t activate for Digimon in breeding areas.",
+        "question": "Do [On Play] effects activate for Digimon played into the breeding area by this card's [End of Your Turn] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, Digimon in breeding areas aren't referenced by effects, so they don't trigger.",
+        "question": "Do \"when a Digimon is played\" effects trigger for Digimon played into the breeding area by this card's [End of Your Turn] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. It can't attack because the \"Digimon can't attack the turn they came into play\" rule still applies to Digimon played into the breeding area.",
+        "question": "I used this card's [End of Your Turn] effect to play a Digimon into the breeding area, and another effect moved the memory to 0 or more, and my turn continued.  If the Digimon that was played into the breeding area is then moved to the battle area by an effect, can that Digimon attack?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't.  A \"can't be played by effects\" effect affects a player when it activates, therefore the act of playing a Digimon itself won't be possible, whether in the breeding area or the battle area.",
+        "question": "Can I use this card's [End of Your Turn] effect to play a Digimon into the breeding area when it's affected by a \"Digimon can't be played by effects\" effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+          "text": "BT-15: Booster Exceed Apocalypse"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+          "text": "BT-15: Booster Exceed Apocalypse"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ]
+  },
+  "type": "Vegetation"
+}

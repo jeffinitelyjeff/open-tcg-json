@@ -1,0 +1,143 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] [When Digivolving] Play 1 [Amon of Crimson Flame] Token (Digimon/Red/6000 DP/＜Rush＞) and 1 [Umon of Blue Thunder] Token. (Digimon/Yellow/6000 DP/＜Blocker＞)\n[All Turns] When this Digimon would digivolve or leave the battle area, delete all of your [Amon of Crimson Flame]s and [Umon of Blue Thunder]s. If you deleted a Digimon with this effect, ＜Recovery +1 (Deck)＞ (Place the top card of your deck on top of your security stack.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red / Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "4",
+      "level": "5"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "5"
+    }
+  ],
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-018.png",
+        "imgName": "BT14-018.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f8/BT14-018.png/revision/latest?cb=20231027105751",
+        "uploadDate": "2023-10-27T10:57:51"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Blast_Ace_Pre-Release_Pack",
+        "captionText": "Blast Ace Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-018_P0.png",
+        "imgName": "BT14-018_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/71/BT14-018_P0.png/revision/latest?cb=20231116222504",
+        "uploadDate": "2023-11-16T22:25:04"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-018-J.png",
+        "imgName": "BT14-018-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/97/BT14-018-J.png/revision/latest?cb=20231110171519",
+        "uploadDate": "2023-11-10T17:15:19"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f8/BT14-018.png/revision/latest?cb=20231027105751",
+  "korean": "갓드라몬",
+  "level": "6",
+  "name": "Goldramon",
+  "nameJapanese": "ゴッドドラモン",
+  "nameTranslated": "Goddramon",
+  "playCost": "12",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT14-018#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT14-018 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Tokens are special cards that some effects put into play to represent Digimon or Tamers. This card's effect, for example, plays tokens that are treated as Digimon named [Amon of Crimson Flame] and [Umon of Blue Thunder]. For a more detailed explanation of how tokens work, check the official rule manual.",
+        "question": "What's a token?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, they can't. The [Amon of Crimson Flame] and [Umon of Blue Thunder] tokens played by this card's effect can't become targets for effects with requirements related to play cost or level because these tokens don't have a play cost or level.",
+        "question": "Can [Amon of Crimson Flame] and [Umon of Blue Thunder] tokens played by this card's effect become targets for \"Digimon with play costs of X or less\" effects or \"level X or higher/lower Digimon\" effects?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it can. Even if you have only 1 [Amon of Crimson Flame] or [Umon of Blue Thunder] token, it will be deleted and <Recovery +1 (Deck)> will activate.",
+        "question": "Can this card's [All Turns] effect activate <Recovery +1 (Deck)> and delete my [Amon of Crimson Flame] or [Umon of Blue Thunder] when I only have one or the other?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it only activates once. No matter how many [Amon of Crimson Flame] and/or [Umon of Blue Thunder] you delete at one time with this effect, <Recovery +1 (Deck)> will only activate once.",
+        "question": "If this card's [All Turns] effect deletes 2 of my [Amon of Crimson Flame] and/or [Umon of Blue Thunder], does <Recovery +1 (Deck)> activate twice?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "\"When [...] would leave the battle area\" refers to when this Digimon is placed in the trash, returned to the hand/deck, placed in the security stack, moved to the breeding area, or placed under another card.",
+        "question": "What does this card's \"When [...] would [...] leave the battle area\" mean, exactly?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Blast_Ace_Pre-Release_Pack",
+          "text": "Blast Ace Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "神龙兽",
+  "traditionalChinese": "神龍獸",
+  "type": "Holy Dragon/Four Great Dragons"
+}

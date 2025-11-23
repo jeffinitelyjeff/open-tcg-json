@@ -1,0 +1,117 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "01",
+  "cardEffects": "[Your Turn] When this Digimon would digivolve into a Digimon card with [Etemon] in its name in your hand, reduce the memory cost of the digivolution by 1.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-052.png",
+        "imgName": "EX1-052.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5d/EX1-052.png/revision/latest?cb=20211126152130",
+        "uploadDate": "2021-11-26T15:21:30"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/DP-01:_Double_Pack_Set_1",
+        "captionText": "DP-01: Double Pack Set 1 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-052_P1.png",
+        "imgName": "EX1-052_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9c/EX1-052_P1.png/revision/latest?cb=20231117182745",
+        "uploadDate": "2023-11-17T18:27:45"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-052-J.png",
+        "imgName": "EX1-052-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/55/EX1-052-J.png/revision/latest?cb=20210721041522",
+        "uploadDate": "2021-07-21T04:15:22"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5d/EX1-052.png/revision/latest?cb=20211126152130",
+  "inheritedEffect": "[Your Turn] While this Digimon has [Etemon] in its name, it gains ＜Jamming＞  (This Digimon can't be deleted in battles against Security Digimon.).",
+  "korean": "에테몬",
+  "level": "5",
+  "name": "Etemon",
+  "nameJapanese": "エテモン",
+  "playCost": "8",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX1-052#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX1-052 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, the effect doesn’t activate for Digimon in breeding areas.",
+        "question": "This Digimon is in my breeding area. If I digivolve it into a Digimon card with [Etemon] in my hand, is the memory cost of the digivolution reduced by 1?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-01: Extra Booster",
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/DP-01:_Double_Pack_Set_1",
+          "text": "DP-01: Double Pack Set 1"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "simplifiedChinese": "猿猴兽",
+  "traditionalChinese": "悟空獸",
+  "type": "Puppet"
+}

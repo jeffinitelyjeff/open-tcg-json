@@ -1,0 +1,139 @@
+{
+  "attribute": "Data",
+  "blockIcon": "03",
+  "cardEffects": "[Start of Your Main Phase] For the turn, when this Digimon would digivolve into a card with [Tyrannomon] in its name, or the [Dinosaur] or [Ceratopsian] trait, reduce the digivolution cost by 1.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red / Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-013.png",
+        "imgName": "BT14-013.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6c/BT14-013.png/revision/latest?cb=20231027105749",
+        "uploadDate": "2023-10-27T10:57:49"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Blast_Ace_Pre-Release_Pack",
+        "captionText": "Blast Ace Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-013_P0.png",
+        "imgName": "BT14-013_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/94/BT14-013_P0.png/revision/latest?cb=20231116222512",
+        "uploadDate": "2023-11-16T22:25:12"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-013-J.png",
+        "imgName": "BT14-013-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5a/BT14-013-J.png/revision/latest?cb=20231110170421",
+        "uploadDate": "2023-11-10T17:04:21"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6c/BT14-013.png/revision/latest?cb=20231027105749",
+  "inheritedEffect": "[End of Your Turn] [Once Per Turn] If this Digimon has [Tyrannomon] in its name, or the [Dinosaur] or [Ceratopsian] trait, it may attack.",
+  "korean": "티라노몬",
+  "level": "4",
+  "name": "Tyrannomon",
+  "nameJapanese": "ティラノモン",
+  "nameTranslated": "Tyranomon",
+  "playCost": "5",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT14-013#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT14-013 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, the digivolution cost is reduced by 1. This effect continues until the end of the turn, therefore the digivolution cost will be reduced by 1 for every digivolution that occurs during that time and meets the requirements.",
+        "question": "When digivolving into a Digimon that meets the requirements and then digivolving into another Digimon that meets the requirements in the same turn, can this card's [Start of Your Main Phase] reduce the digivolution cost by 1 again?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't. This card's inherited effect does not allow you to attack with Digimon that are in a state where they can't attack.",
+        "question": "Can I use this card's inherited effect to attack using a Digimon with this card in its digivolution cards even when it's suspended?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't. Because the turn didn't switch the first time the turn ended, the [Once Per Turn] restriction still applies. In addition, the [Once Per Turn] restriction doesn't reset even for digivolutions. Therefore, you can't use this card's inherited effect to attack twice.",
+        "question": "At the end of my turn, I used this inherited effect to attack, then an effect changed my memory to 0 or more and my turn continued. After that, if a Digimon with this card in its digivolution cards digivolved and the end of my turn came again while it was unsuspended, can I use this inherited effect to attack again?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't. At the end of your turn, the inherited effects on these cards activate, the activation order is decided, and then the attack occurs for the 1st Digimon with this card in its digivolution cards. After activation of effects that are triggered upon attack declaration such as [When Attacking] effects and \"when one of your Digimon attacks\" effects but before the counter timing, the next activation would occur for the other inherited effect that was pending activation, but because the 1st Digimon is still attacking, you can't make a new attack declaration, and the 2nd activation fails.",
+        "question": "When I have 2 Digimon with this card in their digivolution cards, can I use this card's [End of Your Turn] effect to attack using these 2 Digimon?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Blast_Ace_Pre-Release_Pack",
+          "text": "Blast Ace Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "巨龙兽",
+  "traditionalChinese": "巨龍獸",
+  "type": "Dinosaur"
+}

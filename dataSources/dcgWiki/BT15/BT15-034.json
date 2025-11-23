@@ -1,0 +1,122 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[Start of Your Main Phase] If you have 3 or more security cards, you may add the top card of your security stack to the hand. If you have 2 or fewer, you may place 1 yellow Digimon card with the [Vaccine] trait from your hand at the top or bottom of your security stack.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-034.png",
+        "imgName": "BT15-034.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/51/BT15-034.png/revision/latest?cb=20240209090323",
+        "uploadDate": "2024-02-09T09:03:23"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack:_Exceed_Apocalypse",
+        "captionText": "Pre-Release Pack: Exceed Apocalypse (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-034_P0.png",
+        "imgName": "BT15-034_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/51/BT15-034_P0.png/revision/latest?cb=20240211092358",
+        "uploadDate": "2024-02-11T09:23:58"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-034-J.png",
+        "imgName": "BT15-034-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2d/BT15-034-J.png/revision/latest?cb=20230922100135",
+        "uploadDate": "2023-09-22T10:01:35"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+        "captionText": "BT-15: Booster Exceed Apocalypse (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT15-034-Sample-J.png",
+        "imgName": "BT15-034-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/86/BT15-034-Sample-J.png/revision/latest?cb=20230824041631",
+        "uploadDate": "2023-08-24T04:16:31"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/51/BT15-034.png/revision/latest?cb=20240209090323",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When a card is removed from your security stack, 1 of your opponent's Digimon gets -2000 DP for the turn.",
+  "level": "3",
+  "name": "Salamon",
+  "nameJapanese": "プロットモン",
+  "nameTranslated": "Plotmon",
+  "playCost": "3",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT15-034#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT15-034 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it activates.",
+        "question": "When I had 3 security cards at the start of my main phase, I used this card's effect to return 1 card from my security stack to the hand which reduced my security stack to 2 cards. Does this card's \"you may place 1 yellow Digimon card with the [Vaccine] trait from your hand at the top or bottom of your security stack\" effect still activate?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+          "text": "BT-15: Booster Exceed Apocalypse"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack:_Exceed_Apocalypse",
+          "text": "Pre-Release Pack: Exceed Apocalypse"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-15:_Booster_Exceed_Apocalypse",
+          "text": "BT-15: Booster Exceed Apocalypse"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      }
+    ]
+  },
+  "type": "Mammal"
+}

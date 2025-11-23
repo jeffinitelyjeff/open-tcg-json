@@ -1,0 +1,120 @@
+{
+  "blockIcon": "03",
+  "cardEffects": "[Security] Play this card without paying the cost.\n[Start of Your Turn] If you have 2 or less memory, set it to 3.\n[Main] ＜Mind Link＞ to 1 of your Digimon with [Pulsemon] in its text. (Place this Tamer as that Digimon's bottom digivolution card if there are no Tamer cards in its digivolution cards.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Tamer",
+  "color": "Yellow",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-086.png",
+        "imgName": "BT16-086.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b5/BT16-086.png/revision/latest?cb=20240412064150",
+        "uploadDate": "2024-04-12T06:41:50"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Beginning_Observer",
+        "captionText": "Pre-Release Pack Beginning Observer (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-086_P0.png",
+        "imgName": "BT16-086_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/14/BT16-086_P0.png/revision/latest?cb=20240429054833",
+        "uploadDate": "2024-04-29T05:48:33"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Judge_Pack_6",
+        "captionText": "Judge Pack 6 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-086_P1.png",
+        "imgName": "BT16-086_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fc/BT16-086_P1.png/revision/latest?cb=20240830171120",
+        "uploadDate": "2024-08-30T17:11:20"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-086-J.png",
+        "imgName": "BT16-086-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b5/BT16-086-J.png/revision/latest?cb=20231215073417",
+        "uploadDate": "2023-12-15T07:34:17"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+        "captionText": "BT-16: Booster Beginning Observer (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-086-Sample-J.png",
+        "imgName": "BT16-086-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/dd/BT16-086-Sample-J.png/revision/latest?cb=20231117092450",
+        "uploadDate": "2023-11-17T09:24:50"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b5/BT16-086.png/revision/latest?cb=20240412064150",
+  "inheritedEffect": "[All Turns] While this Digimon has [Pulsemon] in its text, it gains ＜Blocker＞ (This Digimon can block in the blocker timing.) and ＜Barrier＞ (When this Digimon would be deleted in battle, by trashing the top card of your security stack, prevent that deletion.)\n[End of All Turns] You may play 1 [Hacker Judge] from this Digimon's digivolution cards without paying the cost.",
+  "name": "Hacker Judge",
+  "nameJapanese": "ハッカー・ジャッジ",
+  "playCost": "4",
+  "rarity": "Rare",
+  "rule": "[Rule] Name: Also treated as [Leon Alexander].",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT16-086#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT16-086 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.",
+        "question": "Can I use the [End of All Turns] effect in this card's inherited effect to play this card itself when this card is in a Digimon's digivolution cards?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Beginning_Observer",
+          "text": "Pre-Release Pack Beginning Observer"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Judge_Pack_6",
+          "text": "Judge Pack 6"
+        },
+        "foil&Rarity": "Foil - Judge Stamp - Alternative Art",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
+          "text": "BT-16: Booster Beginning Observer"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "type": "Abadin Electronics"
+}

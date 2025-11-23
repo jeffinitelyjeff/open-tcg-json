@@ -1,0 +1,149 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[SoC] trait: Cost 3",
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "[When Digivolving] If [Eiji Nagasumi] is in this Digimon's digivolution cards, you may play 1 [Fenriloogamon] or [Kazuchimon] from your trash without paying the cost. At the next end of your opponent's turn, return that Digimon to the hand.\n[All Turns] [Once Per Turn] When one of your Digimon or Tamers that have the [SoC] trait or [Pulsemon] in its text is played, delete 1 of your opponent's Digimon with 10000 DP or less.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Restricted to 1",
+    "korean": "Not released",
+    "nameJapanese": "Restricted to 1"
+  },
+  "cardType": "Digimon",
+  "color": "Purple / Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "3",
+      "level": "5"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "5"
+    }
+  ],
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-069.png",
+        "imgName": "BT17-069.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e2/BT17-069.png/revision/latest?cb=20240705214737",
+        "uploadDate": "2024-07-05T21:47:37"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Secret_Crisis",
+        "captionText": "Pre-Release Pack Secret Crisis (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-069_P0.png",
+        "imgName": "BT17-069_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/28/BT17-069_P0.png/revision/latest?cb=20240727082048",
+        "uploadDate": "2024-07-27T08:20:48"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-069-J.png",
+        "imgName": "BT17-069-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a8/BT17-069-J.png/revision/latest?cb=20240322062943",
+        "uploadDate": "2024-03-22T06:29:43"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+        "captionText": "BT-17: Booster Secret Crisis (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-069-Sample-J.png",
+        "imgName": "BT17-069-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9b/BT17-069-Sample-J.png/revision/latest?cb=20240314054727",
+        "uploadDate": "2024-03-14T05:47:27"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e2/BT17-069.png/revision/latest?cb=20240705214737",
+  "inheritedEffect": "[Your Turn] While this Digimon has [Fenriloogamon] in its name, the turn end condition is the opponent having 3 or more memory.",
+  "level": "6",
+  "name": "Fenriloogamon",
+  "nameJapanese": "フェンリルガモン",
+  "playCost": "11",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT17-069#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT17-069 (Sep. 6, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it's returned. In such cases, only the top card is returned to the hand and all digivolution cards are trashed.",
+        "question": "The Digimon played using this card's [When Digivolving] effect digivolved. Is that Digimon returned to the hand at the end of my opponent's turn?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Normally, the turn will end and the turn will switch when the memory moves to 1 or more on your opponent's side. But while this effect is activated, the turn won't end unless the memory moves to 3 or more on your opponent's side.  Your turn will continue when your opponent's memory is at 1 or 2.",
+        "question": "How does this card’s inherited effect work, exactly?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, this effect only applies during your turn. Your opponent's turn continues until the memory moves to 1 or more from your perspective.",
+        "question": "If the memory moves to 2 or less on my opponent's side during my opponent's turn, does the turn switch to my turn with this card's inherited effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, your turn continues.",
+        "question": "The memory moved to 3 or more on my opponent's side and the turn ended while this card's inherited effect was activated. If the memory moves to 1 or 2 on my opponent's side due to an [End of Your Turn] effect, does my turn continue?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. ＜Blitz＞ still requires the memory to be at 1 or more on your opponent's side for attacking.  Attacking is possible when your opponent's memory is at 1 or more.",
+        "question": "When the memory moves to 3 or more on my opponent's side while this card's inherited effect is activated, does ＜Blitz＞ allow for attacking?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Pre-Release_Pack_Secret_Crisis",
+          "text": "Pre-Release Pack Secret Crisis"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
+          "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      }
+    ]
+  },
+  "type": "Dark Animal/X Antibody/SoC"
+}

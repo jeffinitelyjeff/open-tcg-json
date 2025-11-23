@@ -1,0 +1,120 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Deletion] By trashing 1 card with [Etemon] or [Sukamon] in its name in your hand, return this card to the hand.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black / Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "3000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-046.png",
+        "imgName": "EX5-046.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/65/EX5-046.png/revision/latest?cb=20240112102922",
+        "uploadDate": "2024-01-12T10:29:22"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-046-J.png",
+        "imgName": "EX5-046-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4d/EX5-046-J.png/revision/latest?cb=20230818055404",
+        "uploadDate": "2023-08-18T05:54:04"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+        "captionText": "EX-05: Theme Booster Animal Colosseum (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX5-046-Sample-J.png",
+        "imgName": "EX5-046-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9d/EX5-046-Sample-J.png/revision/latest?cb=20230809065836",
+        "uploadDate": "2023-08-09T06:58:36"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/65/EX5-046.png/revision/latest?cb=20240112102922",
+  "inheritedEffect": "[All Turns] When this Digimon would be deleted, by deleting 1 other Digimon with [Sukamon] in its name, prevent that deletion.",
+  "level": "4",
+  "name": "Targetmon",
+  "nameJapanese": "ターゲットモン",
+  "playCost": "3",
+  "rarity": "Uncommon",
+  "rule": "[Rule] Name: Also treated as having [Etemon]/[Sukamon].",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX5-046#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX5-046 (Mar. 28, 2024)"
+      },
+      {
+        "link": "https://digimoncard.com/rule/?card_no=EX5-046#qaResult_card",
+        "num": 2,
+        "text": "Official JP Q&A for EX5-046 (2024/06/21, translated by user:jeffinitelyjeff)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, an [On Deletion] effect activates after the card is moved to the trash. Therefore, the card is first sent to the trash.",
+        "question": "If I use this card's [On Deletion] effect to return this card to the hand, does it mean that this card isn't sent to the trash?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it cannot be activated. Until the first occurrence of the first process is resolved, all immediate/interruptive effects can be activated only once each. In this situation, until the first Sukamon A deletion resolves, each of the \"When X would\" effects can only be activated once, so Sukamon A that has already been activated cannot be activated again.",
+        "question": "There are \"Sukamon\" A and \"Sukamon\" B in the Battle Area, both of which have this card as their digivolution card. When \"Sukamon\" A was about to be deleted, it tried to delete \"Sukamon\" B with this card's inherited effect. On the other hand, when \"Sukamon\" B is about to be deleted, it tried to delete \"Sukamon\" A with this card's inherited effect. In this case, can \"Sukamon\" A activate this card's inherited effect again?",
+        "reference": "[2]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:P!k@ru",
+          "text": "p!k@ru"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-05:_Theme_Booster_Animal_Colosseum",
+          "text": "EX-05: Theme Booster Animal Colosseum"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:P!k@ru",
+          "text": "p!k@ru"
+        }
+      }
+    ]
+  },
+  "type": "Puppet"
+}

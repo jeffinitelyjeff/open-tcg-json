@@ -1,0 +1,111 @@
+{
+  "blockIcon": "03",
+  "cardEffects": "While you have a Tamer with [Tai Kamiya] in its name, you can ignore this card's color requirements.\n[Main] Unsuspend 1 of your Digimon. Then, 1 of your Digimon with [Greymon] in its name is not affected by your opponent's Digimon's effects until the end of your opponent's turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Black",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-15:_Starter_Deck_Dragon_of_Courage",
+        "captionText": "ST-15: Starter Deck Dragon of Courage (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST15-15.png",
+        "imgName": "ST15-15.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/04/ST15-15.png/revision/latest?cb=20230908210100",
+        "uploadDate": "2023-09-08T21:01:00"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Dragon_of_Courage_Pre-Release_Pack",
+        "captionText": "Dragon of Courage Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST15-15_P0.png",
+        "imgName": "ST15-15_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/02/ST15-15_P0.png/revision/latest?cb=20231018074131",
+        "uploadDate": "2023-10-18T07:41:31"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-15:_Starter_Deck_Dragon_of_Courage",
+        "captionText": "ST-15: Starter Deck Dragon of Courage (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST15-15-J.png",
+        "imgName": "ST15-15-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/17/ST15-15-J.png/revision/latest?cb=20230908214746",
+        "uploadDate": "2023-09-08T21:47:46"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/04/ST15-15.png/revision/latest?cb=20230908210100",
+  "name": "Breakthrough of Courage",
+  "nameJapanese": "勇気の前進",
+  "nameTranslated": "Advance of Courage",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=ST15-15#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for ST15-15 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, it can be blocked. ＜Blocker＞ is an effect that allows the Digimon with the effect to block, so it isn't affected by \"isn't affected by the effects of your opponent's Digimon\" effects.",
+        "question": "When my Digimon with [Greymon] isn't affected by my opponent's Digimon's effects from this card's [Main] effect, can it be blocked by an opponent's Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it isn't affected.  [Security] effects on Security Digimon are treated as Digimon effects, so the \"this Digimon isn't affected by the effects of your opponent's Digimon\" effect prevents such effects from affecting this Digimon.",
+        "question": "When my Digimon with [Greymon] isn't affected by my opponent's Digimon's effects from this card's [Main] effect, is it affected by [Security] effects on my opponent's Digimon?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Activate this card's [Main] effects.",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-15:_Starter_Deck_Dragon_of_Courage",
+          "text": "ST-15: Starter Deck Dragon of Courage"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-15:_Starter_Deck_Dragon_of_Courage",
+          "text": "ST-15: Starter Deck Dragon of Courage"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Dragon_of_Courage_Pre-Release_Pack",
+          "text": "Dragon of Courage Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-15:_Starter_Deck_Dragon_of_Courage",
+          "text": "ST-15: Starter Deck Dragon of Courage"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "traditionalChinese": "勇氣的前進",
+  "useCost": "4"
+}

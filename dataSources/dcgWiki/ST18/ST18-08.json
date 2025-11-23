@@ -1,0 +1,107 @@
+{
+  "attribute": "Data",
+  "blockIcon": "04",
+  "cardEffects": "[Security] You may play 1 card with the [LIBERATOR] trait and a play cost of 4 or less from your hand or trash without paying the cost.\n＜Vortex＞ (At the end of your turn, this Digimon may attack an opponent's Digimon. With this effect, it can attack the turn it was played.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "6000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-18:_Starter_Deck_Guardian_Vortex",
+        "captionText": "ST-18: Starter Deck Guardian Vortex (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST18-08.png",
+        "imgName": "ST18-08.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/da/ST18-08.png/revision/latest?cb=20240830171934",
+        "uploadDate": "2024-08-30T17:19:34"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-18:_Starter_Deck_Guardian_Vortex",
+        "captionText": "ST-18: Starter Deck Guardian Vortex (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST18-08-J.png",
+        "imgName": "ST18-08-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/84/ST18-08-J.png/revision/latest?cb=20240419105049",
+        "uploadDate": "2024-04-19T10:50:49"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-18:_Starter_Deck_Guardian_Vortex",
+        "captionText": "ST-18: Starter Deck Guardian Vortex (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST18-08-Sample-J.png",
+        "imgName": "ST18-08-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8d/ST18-08-Sample-J.png/revision/latest?cb=20240331090426",
+        "uploadDate": "2024-03-31T09:04:26"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/da/ST18-08.png/revision/latest?cb=20240830171934",
+  "inheritedEffect": "[Your Turn] This Digimon gets +2000 DP.",
+  "level": "4",
+  "name": "Galemon",
+  "nameJapanese": "ゲイルモン",
+  "playCost": "6",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=ST18-08#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for ST18-08 (Sep. 13, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.  You can play it as long as the card has the [LIBERATOR] trait and a play cost of 4 or less.",
+        "question": "Can I use this card's [Security] effect to play a Tamer card with the [LIBERATOR] trait and a play cost of 4 or less?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't.  You can't play it because Digi-Egg cards don't have play costs.",
+        "question": "Can I use this card's [Security] effect to play a Digi-Egg card with the [LIBERATOR] trait?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-18:_Starter_Deck_Guardian_Vortex",
+          "text": "ST-18: Starter Deck Guardian Vortex"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-18:_Starter_Deck_Guardian_Vortex",
+          "text": "ST-18: Starter Deck Guardian Vortex"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ]
+  },
+  "type": "Bird Dragon/LIBERATOR"
+}

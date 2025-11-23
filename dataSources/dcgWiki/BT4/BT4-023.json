@@ -1,0 +1,160 @@
+{
+  "attribute": "Variable",
+  "blockIcon": "00",
+  "cardEffects": "[On Play] Reveal the top 3 cards of your deck. Add 1 Digimon card with the [Hybrid] trait and 1 blue Tamer card among them to your hand. Place the remaining cards at the bottom of your deck in any order.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "2000 DP",
+  "form": "Hybrid",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": null,
+        "captionText": "BTC-03: Booster Diamond Legend (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-023-C.png",
+        "imgName": "BT4-023-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/62/BT4-023-C.png/revision/latest?cb=20231120151257",
+        "uploadDate": "2023-11-20T15:12:57"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-023.png",
+        "imgName": "BT4-023.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/01/BT4-023.png/revision/latest?cb=20210430124209",
+        "uploadDate": "2021-04-30T12:42:09"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-023-J.png",
+        "imgName": "BT4-023-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7c/BT4-023-J.png/revision/latest?cb=20201218200843",
+        "uploadDate": "2020-12-18T20:08:43"
+      }
+    ],
+    "kr": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+        "captionText": "BT-04: Booster Great Legend (KR)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT4-023-K.png",
+        "imgName": "BT4-023-K.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/85/BT4-023-K.png/revision/latest?cb=20230815130857",
+        "uploadDate": "2023-08-15T13:08:57"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/01/BT4-023.png/revision/latest?cb=20210430124209",
+  "korean": "스트라비몬",
+  "level": "3",
+  "name": "Strabimon",
+  "nameJapanese": "ストラビモン",
+  "nameTranslated": "Storabimon",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT4-023#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT4-023 (Mar. 28, 2024)"
+      },
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT4-023#qaResult_card",
+        "num": 2,
+        "text": "Official JP Q&A for BT4-023 (2024/09/20, translated by DeepL)"
+      },
+      {
+        "link": "https://digimoncard.com/rule/?card_no=BT4-023#qaResult_card",
+        "num": 3,
+        "text": "Official JP Q&A for BT4-023 (translated by DeepL)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "As long as one or the other is in the cards you revealed, you can add it to your hand.",
+        "question": "Am I unable to add cards to my hand with this card's effect if a Digimon card with [Hybrid] and a blue tamer aren't both in the cards I've revealed?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "One \"Digimon card with \"Hybrid Body\" in its traits\" and one \"Blue Tamer card\".",
+        "question": "Which card is added to your hand by this card's [On Play] effect?",
+        "reference": "[2]"
+      },
+      {
+        "answer": "No. Even if there was only either a Digimon card with \"Hybrid Body\" in its trait or a blue tamer card, it will be added to your hand.",
+        "question": "Does the effect of this card require both a Digimon card with \"Hybrid Body\" in its trait and a blue tamer card among the three cards revealed to be added to the hand?",
+        "reference": "[3]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-03: Booster Diamond Legend",
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-04:_Booster_Great_Legend",
+          "text": "BT-04: Booster Great Legend"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "流光兽",
+  "traditionalChinese": "奔狼獸",
+  "type": "Beastkin"
+}

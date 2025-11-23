@@ -1,0 +1,115 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Gigimon]: Cost 0",
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[On Deletion] Delete 1 of your opponent's Digimon with 3000 DP or less. If no Digimon is deleted by this effect, trash the top 2 cards of both players' decks.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple / Red",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "1",
+    "level": "2"
+  },
+  "dp": "3000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-056.png",
+        "imgName": "EX3-056.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2a/EX3-056.png/revision/latest?cb=20221111122859",
+        "uploadDate": "2022-11-11T12:28:59"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-056-J.png",
+        "imgName": "EX3-056-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/28/EX3-056-J.png/revision/latest?cb=20220722083956",
+        "uploadDate": "2022-07-22T08:39:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-056-Sample-J.png",
+        "imgName": "EX3-056-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/99/EX3-056-Sample-J.png/revision/latest?cb=20220625030304",
+        "uploadDate": "2022-06-25T03:03:04"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2a/EX3-056.png/revision/latest?cb=20221111122859",
+  "korean": "길몬",
+  "level": "3",
+  "name": "Guilmon",
+  "nameJapanese": "ギルモン",
+  "playCost": "4",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://discord.com/channels/1016826842281410700/1017330722333265940/1092841501119229982",
+        "num": 1,
+        "text": "Digimon Level 0 Judge 05/04/2023: EX3 Guilmon and BT12 Gigimon"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, the [Your Turn] effect will not be active.",
+        "question": "If this Digimon has [BT12-001 Gigimon] in its digivolution cards when it gets deleted. Can I delete a Digimon with 4000 DP?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-02: Extra Booster 2 Draconic Roar",
+        "foil&Rarity": "",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+          "text": "EX-03: Theme Booster Draconic Roar"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+          "text": "EX-03: Theme Booster Draconic Roar"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "基尔兽",
+  "traditionalChinese": "基爾獸",
+  "type": "Reptile"
+}

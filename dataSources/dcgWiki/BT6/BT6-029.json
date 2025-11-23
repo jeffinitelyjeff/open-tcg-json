@@ -1,0 +1,88 @@
+{
+  "attribute": "Data",
+  "blockIcon": "01",
+  "cardEffects": "[When Digivolving] Trash 1 digivolution card from the bottom of all of your opponent's Digimon. Then, gain 1 memory for each of your opponent's Digimon with no digivolution cards.\n[Your Turn] For each Digimon with no digivolution cards your opponent has in play, this Digimon gains ＜Security A. +1＞  (This Digimon checks 1 additional security card.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "5",
+    "level": "5"
+  },
+  "dp": "13000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-029.png",
+        "imgName": "BT6-029.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/53/BT6-029.png/revision/latest?cb=20210921061230",
+        "uploadDate": "2021-09-21T06:12:30"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-029-J.png",
+        "imgName": "BT6-029-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/60/BT6-029-J.png/revision/latest?cb=20210521045903",
+        "uploadDate": "2021-05-21T04:59:03"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/53/BT6-029.png/revision/latest?cb=20210921061230",
+  "level": "6",
+  "name": "Azulongmon",
+  "nameJapanese": "チンロンモン",
+  "nameTranslated": "Qinglongmon",
+  "playCost": "13",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [],
+    "rulings": [
+      {
+        "answer": "Yes, it gains ＜Security A. +1＞ from its effect and updates its security attack value. You re-calculate its security attack and continue checking security based on its new security attack. (For more information see Attack Resolution)",
+        "question": "If my opponent has no Digimon in play but reveals a [ST8-06 Coredramon] from this card's security check, does this card check another Security card?",
+        "reference": ""
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+          "text": "BT-06: Booster Double Diamond"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naochika_Morishita",
+          "text": "Naochika Morishita"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+          "text": "BT-06: Booster Double Diamond"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naochika_Morishita",
+          "text": "Naochika Morishita"
+        }
+      }
+    ]
+  },
+  "type": "Holy Dragon/Four Great Dragons/Four Sovereigns"
+}

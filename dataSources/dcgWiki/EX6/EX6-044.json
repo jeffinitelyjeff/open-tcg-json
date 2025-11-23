@@ -1,0 +1,108 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[Legend-Arms] trait: Cost 4",
+  "attribute": "Data",
+  "blockIcon": "03",
+  "cardEffects": "[Hand] [Main] By paying 3 cost and placing this card as the bottom digivolution card of 1 of your Digimon that's level 6 or has the [Legend-Arms] trait, ＜De-Digivolve  1＞ all of your opponent's Digimon with as much or less DP than that Digimon.\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n＜Reboot＞ (Unsuspend this Digimon during your opponent's unsuspend phase.)\n[When Digivolving] 1 of your Digimon isn't affected by the effects of your opponent's Digimon, until the end of your opponent's turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "4",
+    "level": "5"
+  },
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-044.png",
+        "imgName": "EX6-044.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ed/EX6-044.png/revision/latest?cb=20240531091330",
+        "uploadDate": "2024-05-31T09:13:30"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-044-J.png",
+        "imgName": "EX6-044-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c1/EX6-044-J.png/revision/latest?cb=20240216085318",
+        "uploadDate": "2024-02-16T08:53:18"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-044-Sample-J.png",
+        "imgName": "EX6-044-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0d/EX6-044-Sample-J.png/revision/latest?cb=20240206090124",
+        "uploadDate": "2024-02-06T09:01:24"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ed/EX6-044.png/revision/latest?cb=20240531091330",
+  "inheritedEffect": "＜Blocker＞ (This Digimon can block in the blocker timing.)\n[Opponent's Turn] While this Digimon is [RagnaLoardmon], this Digimon can't leave the battle area other than by your effects or by deletion.",
+  "level": "6",
+  "name": "BryweLudramon",
+  "nameJapanese": "ブリウエルドラモン",
+  "playCost": "12",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX6-044#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX6-044 (Jun. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can't.  The activation conditions include paying 3 cost and placing this card as 1 of your [Legend-Arms] trait or 1 of your level 6 Digimon's bottom digivolution card, therefore the effect can't be activated just by paying 1 cost.",
+        "question": "Can I use this card's [Main] effect to pay 3 cost even when I don't have any [Legend-Arms] trait or level 6 Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it's deleted.",
+        "question": "Will a [RagnaLoardmon] with this card as a digivolution be deleted by an effect that deletes a Digimon when activated by my opponent?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      }
+    ]
+  },
+  "type": "Armor/Legend-Arms"
+}

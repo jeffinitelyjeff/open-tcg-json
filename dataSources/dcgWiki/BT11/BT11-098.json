@@ -1,0 +1,103 @@
+{
+  "blockIcon": "02",
+  "cardEffects": "[Main] You may play 1 blue Digimon card from one of your blue Digimon's digivolution cards without paying the cost. Then, if you have a Digimon with [Seadramon] in its name in play, return 1 of your opponent's level 4 or lower Digimon to the bottom of its owner's deck.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Option",
+  "color": "Blue",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-098.png",
+        "imgName": "BT11-098.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/51/BT11-098.png/revision/latest?cb=20230210132532",
+        "uploadDate": "2023-02-10T13:25:32"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-098-J.png",
+        "imgName": "BT11-098-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/66/BT11-098-J.png/revision/latest?cb=20220922114937",
+        "uploadDate": "2022-09-22T11:49:37"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-098-Sample-J.png",
+        "imgName": "BT11-098-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/38/BT11-098-Sample-J.png/revision/latest?cb=20220822092222",
+        "uploadDate": "2022-08-22T09:22:22"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/51/BT11-098.png/revision/latest?cb=20230210132532",
+  "name": "Maelstrom",
+  "nameJapanese": "メイルシュトローム",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT11-098#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT11-098 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, the effect will activate since a Digimon with [Seadramon] was played earlier.",
+        "question": "If I don't have any Digimon with [Seadramon], and use this card's effect to play a Digimon card Seadramon] in its name from the digivolution cards of one of my blue Digimon, does the effect to \"return 1 of your opponent's level 4 or lower Digimon to the bottom of its owner's deck\" activate?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Activate this card's [Main] effects.",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ]
+  },
+  "useCost": "5"
+}

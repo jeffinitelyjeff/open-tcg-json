@@ -1,0 +1,95 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Terriermon]/[Lopmon] in name: Cost 2",
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "＜Alliance＞ (When this Digimon attacks, by suspending 1 of your other Digimon, add the suspended Digimon's DP to this Digimon and it gains ＜Security A. +1＞ for the attack.)",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple / Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+        "captionText": "EX-04: Theme Booster Alternative Being (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX4-054.png",
+        "imgName": "EX4-054.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1e/EX4-054.png/revision/latest?cb=20230623132841",
+        "uploadDate": "2023-06-23T13:28:41"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+        "captionText": "EX-04: Theme Booster Alternative Being (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX4-054-J.png",
+        "imgName": "EX4-054-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/56/EX4-054-J.png/revision/latest?cb=20221216140136",
+        "uploadDate": "2022-12-16T14:01:36"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+        "captionText": "EX-04: Theme Booster Alternative Being (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX4-054-Sample-J.png",
+        "imgName": "EX4-054-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/72/EX4-054-Sample-J.png/revision/latest?cb=20221126054950",
+        "uploadDate": "2022-11-26T05:49:50"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1e/EX4-054.png/revision/latest?cb=20230623132841",
+  "inheritedEffect": "[End of Attack] [Once Per Turn] If you have another suspended Digimon, return 1 green Digimon card from your trash to your hand.",
+  "level": "4",
+  "name": "Wendigomon",
+  "nameJapanese": "ウェンディモン",
+  "nameTranslated": "Wendimon",
+  "playCost": "4",
+  "rarity": "Common",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+          "text": "EX-04: Theme Booster Alternative Being"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+          "text": "EX-04: Theme Booster Alternative Being"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ]
+  },
+  "type": "Beastkin"
+}

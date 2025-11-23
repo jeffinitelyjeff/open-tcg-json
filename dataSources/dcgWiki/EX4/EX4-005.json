@@ -1,0 +1,97 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Koromon]: Cost 0",
+  "attribute": "Vaccine",
+  "blockIcon": "02",
+  "cardEffects": "[Start of Your Main Phase] If you have a red or yellow Tamer in play, gain 1 memory.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red / Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "1",
+      "level": "2"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "1",
+      "level": "2"
+    }
+  ],
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+        "captionText": "EX-04: Theme Booster Alternative Being (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX4-005.png",
+        "imgName": "EX4-005.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/29/EX4-005.png/revision/latest?cb=20230623132843",
+        "uploadDate": "2023-06-23T13:28:43"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+        "captionText": "EX-04: Theme Booster Alternative Being (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX4-005-J.png",
+        "imgName": "EX4-005-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c8/EX4-005-J.png/revision/latest?cb=20221216140133",
+        "uploadDate": "2022-12-16T14:01:33"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+        "captionText": "EX-04: Theme Booster Alternative Being (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX4-005-Sample-J.png",
+        "imgName": "EX4-005-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/46/EX4-005-Sample-J.png/revision/latest?cb=20221129053457",
+        "uploadDate": "2022-11-29T05:34:57"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/29/EX4-005.png/revision/latest?cb=20230623132843",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When one of your red or yellow Tamers becomes suspended, ＜Draw 1＞ (Draw 1 card from your deck.)",
+  "korean": "아구몬",
+  "level": "3",
+  "name": "Agumon",
+  "nameJapanese": "アグモン",
+  "playCost": "3",
+  "rarity": "Uncommon",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+          "text": "EX-04: Theme Booster Alternative Being"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ryodan",
+          "text": "Ryodan"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-04:_Theme_Booster_Alternative_Being",
+          "text": "EX-04: Theme Booster Alternative Being"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ryodan",
+          "text": "Ryodan"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "亚古兽",
+  "traditionalChinese": "亞古獸",
+  "type": "Dinosaur"
+}

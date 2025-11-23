@@ -1,0 +1,113 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[Legend-Arms] trait: Cost 4",
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[Hand] [Main] By paying 3 cost and placing this card as the bottom digivolution card of 1 of your Digimon that's level 6 or has the [Legend-Arms] trait, delete 1 of your opponent's Digimon with as much or less DP as that Digimon.\n＜Raid＞ (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.)\n＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.)\n[When Digivolving] 1 of your Digimon may attack.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "4",
+    "level": "5"
+  },
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-010.png",
+        "imgName": "EX6-010.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3e/EX6-010.png/revision/latest?cb=20240531091329",
+        "uploadDate": "2024-05-31T09:13:29"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-010-J.png",
+        "imgName": "EX6-010-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7d/EX6-010-J.png/revision/latest?cb=20240216085321",
+        "uploadDate": "2024-02-16T08:53:21"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-010-Sample-J.png",
+        "imgName": "EX6-010-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3a/EX6-010-Sample-J.png/revision/latest?cb=20240206062913",
+        "uploadDate": "2024-02-06T06:29:13"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3e/EX6-010.png/revision/latest?cb=20240531091329",
+  "inheritedEffect": "＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.)\n[Your Turn] While this Digimon is [RagnaLoardmon], the [Security] effects on cards checked by this Digimon don't activate.",
+  "level": "6",
+  "name": "Durandamon",
+  "nameJapanese": "デュランダモン",
+  "playCost": "12",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX6-010#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX6-010 (Sep. 6, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can't.  The activation conditions include paying 3 cost and placing this card as 1 of your [Legend-Arms] trait or 1 of your level 6 Digimon's bottom digivolution card, therefore the effect can't be activated just by paying 3 cost.",
+        "question": "Can I use this card's [Main] effect to pay 3 cost even when I don't have any [Legend-Arms] trait or level 6 Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't.  This effect does not allow you to attack with Digimon that are in a state where they can't attack.",
+        "question": "Can I use a Digimon that was played this turn or a suspended Digimon to attack with this card's [When Digivolving] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it doesn’t activate.  The activation timing for the [Security] effect is before the battle with the Security Digimon, so even if a [RagnaLoardmon] with this card in its digivolution cards is deleted in battle, the [Security] effect can't be activated.",
+        "question": "If a [RagnaLoardmon] with this card in digivolution cards is deleted in battle against a Security Digimon, does that Security Digimon's [Security] effect activate?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      }
+    ]
+  },
+  "type": "Weapon/Legend-Arms"
+}

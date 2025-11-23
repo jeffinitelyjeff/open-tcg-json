@@ -1,0 +1,103 @@
+{
+  "attribute": "Data",
+  "blockIcon": "02",
+  "cardEffects": "[Your Turn] When you play a Digimon with [Sistermon] in its name, you may digivolve this Digimon into a [BaoHuckmon] in your hand without paying its cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-009.png",
+        "imgName": "BT13-009.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/05/BT13-009.png/revision/latest?cb=20231228213435",
+        "uploadDate": "2023-12-28T21:34:35"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-009-J.png",
+        "imgName": "BT13-009-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/db/BT13-009-J.png/revision/latest?cb=20230217122643",
+        "uploadDate": "2023-02-17T12:26:43"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-009-Sample-J.png",
+        "imgName": "BT13-009-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f3/BT13-009-Sample-J.png/revision/latest?cb=20230120134329",
+        "uploadDate": "2023-01-20T13:43:29"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/05/BT13-009.png/revision/latest?cb=20231228213435",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When you play a Digimon with [Sistermon] in its name, gain 1 memory.",
+  "level": "3",
+  "name": "Huckmon",
+  "nameJapanese": "ハックモン",
+  "nameTranslated": "Hackmon",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT13-009#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT13-009 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "The effects trigger simultaneously, so the player chooses the activation order.",
+        "question": "When I play a Digimon with [Sistermon], which effect activates first, that Digimon's [On Play] effect or this card's [Your Turn] effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ]
+  },
+  "type": "Mini Dragon"
+}

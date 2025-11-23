@@ -1,0 +1,129 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[When Digivolving] Trash any 2 digivolution cards from your opponent's Digimon.\n[When Attacking] [Once Per Turn] Until the end of your opponent's turn, 1 of your opponent's Digimon with as many or fewer digivolution cards as this Digimon can't attack.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "errata": [
+    {
+      "afterImageURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8c/BT14-023-Errata.png/revision/latest?cb=20240209090326",
+      "afterText": "[When Attacking] [Once Per Turn] Until the end of your opponent's turn, 1 of your opponent's Digimon with as many or fewer digivolution cards as this Digimon can't attack.",
+      "beforeImageURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/53/BT14-023.png/revision/latest?cb=20231027105751",
+      "beforeText": "[When Attacking] [Once Per Turn] Until the end of your opponent's turn, 1 of your opponent's Digimon with fewer digivolution cards as this Digimon can't attack."
+    }
+  ],
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-023.png",
+        "imgName": "BT14-023.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/53/BT14-023.png/revision/latest?cb=20231027105751",
+        "uploadDate": "2023-10-27T10:57:51"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Blast_Ace_Pre-Release_Pack",
+        "captionText": "Blast Ace Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-023_P0.png",
+        "imgName": "BT14-023_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/dd/BT14-023_P0.png/revision/latest?cb=20231116222509",
+        "uploadDate": "2023-11-16T22:25:09"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+        "captionText": "BT-14: Booster Blast Ace (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT14-023-J.png",
+        "imgName": "BT14-023-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cb/BT14-023-J.png/revision/latest?cb=20231111041943",
+        "uploadDate": "2023-11-11T04:19:43"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8c/BT14-023-Errata.png/revision/latest?cb=20240209090326",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] Until the end of your opponent's turn, 1 of your opponent's Digimon with as many or fewer digivolution cards as this Digimon can't attack.",
+  "korean": "원뿔몬",
+  "level": "4",
+  "name": "Ikkakumon",
+  "nameJapanese": "イッカクモン",
+  "playCost": "5",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT14-023#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT14-023 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, it can't. If the number of digivolution cards under the target opponent's Digimon is less than or equal to those of this Digimon or the Digimon with this card in its digivolution cards at the timing when this effect activates, the target Digimon can't attack until the effect ends at the end of your opponent's turn, even if the number of its digivolution cards later increases.",
+        "question": "If the digivolution cards under the target opponent's Digimon increase to become more than those under this Digimon after this card's [When Attacking] effect/inherited effect activate, can my opponent's Digimon now attack?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it can.",
+        "question": "Can this card's [When Digivolving] effect trash 1 digivolution card each from 2 of my opponent's Digimon?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Blast_Ace_Pre-Release_Pack",
+          "text": "Blast Ace Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-14:_Booster_Blast_Ace",
+          "text": "BT-14: Booster Blast Ace"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "海狮兽",
+  "traditionalChinese": "海獅獸",
+  "type": "Sea Beast"
+}

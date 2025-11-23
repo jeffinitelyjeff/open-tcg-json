@@ -1,0 +1,94 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Chessmon] in name: Cost 3",
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[On Deletion] If it's your turn, you may play 1 level 5 or lower Digimon card with [Chessmon] in its name from your hand without paying its cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-042.png",
+        "imgName": "BT13-042.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/07/BT13-042.png/revision/latest?cb=20230714185527",
+        "uploadDate": "2023-07-14T18:55:27"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-042-J.png",
+        "imgName": "BT13-042-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/14/BT13-042-J.png/revision/latest?cb=20230217122641",
+        "uploadDate": "2023-02-17T12:26:41"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-042-Sample-J.png",
+        "imgName": "BT13-042-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/82/BT13-042-Sample-J.png/revision/latest?cb=20230130090322",
+        "uploadDate": "2023-01-30T09:03:22"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/07/BT13-042.png/revision/latest?cb=20230714185527",
+  "inheritedEffect": "＜Reboot＞ (Unsuspend this Digimon during your opponent's unsuspend phase.)",
+  "level": "5",
+  "name": "BishopChessmon",
+  "nameJapanese": "ビショップチェスモン",
+  "playCost": "7",
+  "rarity": "Common",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
+          "text": "BT-13: Booster Versus Royal Knights"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ]
+  },
+  "type": "Puppet"
+}

@@ -1,0 +1,102 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Leomon]: Cost 0",
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] [When Digivolving] 1 of your opponent's Digimon gets -3000 DP for the turn.\n[All Turns] While [Leomon] or [X Antibody] is in this Digimon's digivolution cards, this Digimon gains ＜Blocker＞ (This Digimon can block in the blocker timing.) and ＜Fortitude＞ (When this Digimon with digivolution cards is deleted, play this card without paying the cost.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow / Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "6000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2024",
+        "captionText": "Update Pack 2024 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-139.png",
+        "imgName": "P-139.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/eb/P-139.png/revision/latest?cb=20240705214737",
+        "uploadDate": "2024-07-05T21:47:37"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2024",
+        "captionText": "Update Pack 2024 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-139-J.png",
+        "imgName": "P-139-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9d/P-139-J.png/revision/latest?cb=20240322063731",
+        "uploadDate": "2024-03-22T06:37:31"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/eb/P-139.png/revision/latest?cb=20240705214737",
+  "inheritedEffect": "[On Deletion] ＜Recovery +1 (Deck)＞ (Place the top card of your deck on top of your security stack.)",
+  "level": "4",
+  "name": "Leomon (X Antibody)",
+  "nameJapanese": "レオモンX抗体",
+  "playCost": "6",
+  "rarity": "Promo",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=P-139#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for P-139 (Sep. 6, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, it doesn't.",
+        "question": "If a Digimon card with the [X Antibody] trait is in this Digimon's digivolution cards, does this Digimon gain ＜Blocker＞ and ＜Fortitude＞?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2024",
+          "text": "Update Pack 2024"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2024",
+          "text": "Update Pack 2024"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ]
+  },
+  "type": "Beastkin/X Antibody"
+}

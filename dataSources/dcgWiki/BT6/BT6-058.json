@@ -1,0 +1,103 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "01",
+  "cardEffects": "[Security] At the end of the battle, play this card without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "2000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-058.png",
+        "imgName": "BT6-058.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e2/BT6-058.png/revision/latest?cb=20210921061247",
+        "uploadDate": "2021-09-21T06:12:47"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-058-J.png",
+        "imgName": "BT6-058-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c5/BT6-058-J.png/revision/latest?cb=20210521045922",
+        "uploadDate": "2021-05-21T04:59:22"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e2/BT6-058.png/revision/latest?cb=20210921061247",
+  "level": "4",
+  "name": "Nanimon",
+  "nameJapanese": "ナニモン",
+  "playCost": "3",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT6-058#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT6-058 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, it's treated as a normal Digimon once it comes into play.",
+        "question": "If I use this card's effect to play a Digimon, is it treated as a Security Digimon even in my battle area?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, regardless of the battle's outcome, you get to play this Digimon at the end of the battle.",
+        "question": "Can I play this Digimon with its [Security] effect even if it loses the battle against the attacking Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "This Digimon is played after the battle with the attacking Digimon, and before the next check is performed.",
+        "question": "This card is flipped over during a security check, but the attacking Digimon still has security checks remaining. Is this card played off its [Security] effect first, or do I have to wait until my opponent finishes the rest of their security checks?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+          "text": "BT-06: Booster Double Diamond"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+          "text": "BT-06: Booster Double Diamond"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      }
+    ]
+  },
+  "type": "Invader"
+}

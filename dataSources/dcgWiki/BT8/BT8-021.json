@@ -1,0 +1,184 @@
+{
+  "attribute": "Free",
+  "blockIcon": "01",
+  "cardEffects": "[On Play] Reveal the top 4 cards of your deck. Add 1 2-color blue card among them to your hand. Place the remaining cards at the bottom of your deck in any order.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "0",
+      "level": "2"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "0",
+      "level": "2"
+    }
+  ],
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-021.png",
+        "imgName": "BT8-021.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/77/BT8-021.png/revision/latest?cb=20220422124926",
+        "uploadDate": "2022-04-22T12:49:26"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/New_Awakening_Pre-Release_Pack",
+        "captionText": "New Awakening Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-021_P0.png",
+        "imgName": "BT8-021_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/90/BT8-021_P0.png/revision/latest?cb=20220507123741",
+        "uploadDate": "2022-05-07T12:37:41"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Dimensional_Phase_Pre-Release_Promotion",
+        "captionText": "Dimensional Phase Pre-Release Promotion (1st Place Prize) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-021_P1.png",
+        "imgName": "BT8-021_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5c/BT8-021_P1.png/revision/latest?cb=20230210215111",
+        "uploadDate": "2023-02-10T21:51:11"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-021-J.png",
+        "imgName": "BT8-021-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d8/BT8-021-J.png/revision/latest?cb=20211119075603",
+        "uploadDate": "2021-11-19T07:56:03"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Tamer%27s_Selection_Box_Super_Tamer_Battle_2022",
+        "captionText": "Tamer's Selection Box Super Tamer Battle 2022 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-021_P1-J.png",
+        "imgName": "BT8-021_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d9/BT8-021_P1-J.png/revision/latest?cb=20230128141414",
+        "uploadDate": "2023-01-28T14:14:14"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+        "captionText": "BT-08: Booster New Awakening (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-021-Sample-J.png",
+        "imgName": "BT8-021-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/07/BT8-021-Sample-J.png/revision/latest?cb=20211029092626",
+        "uploadDate": "2021-10-29T09:26:26"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/77/BT8-021.png/revision/latest?cb=20220422124926",
+  "korean": "브이몬",
+  "level": "3",
+  "name": "Veemon",
+  "nameJapanese": "ブイモン",
+  "nameTranslated": "Vmon",
+  "playCost": "3",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT8-021#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT8-021 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.",
+        "question": "Can this card's effect add a 2-color Option card to my hand if one of its colors is blue?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. Effects don't activate for cards revealed from your deck.",
+        "question": "Can this card’s effect add a card with a \"this Digimon is also treated as blue\" effect to my hand?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/New_Awakening_Pre-Release_Pack",
+          "text": "New Awakening Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Dimensional_Phase_Pre-Release_Promotion",
+          "text": "Dimensional Phase Pre-Release Promotion"
+        },
+        "foil&Rarity": "Foil - Full Art - 1st Place Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
+          "text": "BT-08: Booster New Awakening"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Tamer%27s_Selection_Box_Super_Tamer_Battle_2022",
+          "text": "Tamer's Selection Box Super Tamer Battle 2022"
+        },
+        "foil&Rarity": "Textured - Full Art - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "V仔兽",
+  "traditionalChinese": "V仔獸",
+  "type": "Mini Dragon"
+}

@@ -1,0 +1,160 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Belphemon: Sleep Mode]: Cost 1",
+  "attribute": "Virus",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] [When Digivolving] You may trash up to 3 cards in your hand. For each one, suspend 1 of your opponent's level 5 or lower Digimon. Then, delete all of their lowest play cost suspended Digimon.\n[All Turns] When this Digimon would leave the battle area other than by battle, place 1 card with the [Seven Great Demon Lords] trait card from your trash as the bottom digivolution card of your [Gate of Deadly Sins] in the breeding area.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple / Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "5",
+      "level": "5"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "5",
+      "level": "5"
+    }
+  ],
+  "dp": "13000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-060.png",
+        "imgName": "EX6-060.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/05/EX6-060.png/revision/latest?cb=20240531091331",
+        "uploadDate": "2024-05-31T09:13:31"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-060_P1.png",
+        "imgName": "EX6-060_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bb/EX6-060_P1.png/revision/latest?cb=20240531091329",
+        "uploadDate": "2024-05-31T09:13:29"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-060-J.png",
+        "imgName": "EX6-060-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0a/EX6-060-J.png/revision/latest?cb=20240216085317",
+        "uploadDate": "2024-02-16T08:53:17"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-060-Sample-J.png",
+        "imgName": "EX6-060-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8b/EX6-060-Sample-J.png/revision/latest?cb=20240119065228",
+        "uploadDate": "2024-01-19T06:52:28"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-060_P1-J.png",
+        "imgName": "EX6-060_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3e/EX6-060_P1-J.png/revision/latest?cb=20240222084854",
+        "uploadDate": "2024-02-22T08:48:54"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-060_P1-Sample-J.png",
+        "imgName": "EX6-060_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cc/EX6-060_P1-Sample-J.png/revision/latest?cb=20240212092025",
+        "uploadDate": "2024-02-12T09:20:25"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/05/EX6-060.png/revision/latest?cb=20240531091331",
+  "level": "6",
+  "name": "Belphemon: Rage Mode",
+  "nameJapanese": "ベルフェモン：レイジモード",
+  "playCost": "13",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX6-060#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX6-060 (Jun. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "\"When [...] would leave the battle area other than by battle\" refers to when this Digimon is placed in the trash other than as a result of a battle, returned to the hand/deck, placed in the security stack, moved to the breeding area, or placed under another card.",
+        "question": "What does this card's \"when [...] would leave the battle area other than by [...] a battle\" mean, exactly?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't.  This Digimon hasn't yet been sent to the trash because this effect activates when this Digimon would leave the battle area, so you can't choose it from the trash as the card to place as the bottom digivolution card.",
+        "question": "Can I use this card's [All Turns] effect to place this Digimon itself as the bottom digivolution card of my [Gate of Deadly Sins] in the breeding area?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ]
+  },
+  "type": "Demon Lord/Seven Great Demon Lords"
+}

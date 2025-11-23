@@ -1,0 +1,135 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "01-02",
+  "cardEffects": "[Security] At the end of the battle, if you have 3 security cards or fewer, ＜Recovery +1 (Deck)＞ (Place the top card of your deck on top of your security stack.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-027.png",
+        "imgName": "EX1-027.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5f/EX1-027.png/revision/latest?cb=20211126152121",
+        "uploadDate": "2021-11-26T15:21:21"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/X_Record_Pre-Release_Promotion",
+        "captionText": "X Record Pre-Release Promotion (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-027_P1.png",
+        "imgName": "EX1-027_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/18/EX1-027_P1.png/revision/latest?cb=20220802184902",
+        "uploadDate": "2022-08-02T18:49:02"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-027-J.png",
+        "imgName": "EX1-027-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/63/EX1-027-J.png/revision/latest?cb=20210721041514",
+        "uploadDate": "2021-07-21T04:15:14"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Tamer_Battle_Pack_11",
+        "captionText": "Tamer Battle Pack 11 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-027_P1-J.png",
+        "imgName": "EX1-027_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ea/EX1-027_P1-J.png/revision/latest?cb=20220322113106",
+        "uploadDate": "2022-03-22T11:31:06"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5f/EX1-027.png/revision/latest?cb=20211126152121",
+  "korean": "레오몬",
+  "level": "4",
+  "name": "Leomon",
+  "nameJapanese": "レオモン",
+  "playCost": "5",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX1-027#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX1-027 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes. Flipping this card from your security stack reduces your total security cards from 4 to 3, so the effect activates.",
+        "question": "I have 4 security cards left. My opponent attacks me with a Digimon, and flips this card from my security stack during their security check. Does <Recovery +1 (Deck)> activate off this card’s [Security] effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-01: Extra Booster",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/X_Record_Pre-Release_Promotion",
+          "text": "X Record Pre-Release Promotion"
+        },
+        "foil&Rarity": "No Foil - Participation",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Tamer_Battle_Pack_11",
+          "text": "Tamer Battle Pack 11"
+        },
+        "foil&Rarity": "No Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "狮子 兽",
+  "traditionalChinese": "獅子獸",
+  "type": "Beastkin"
+}

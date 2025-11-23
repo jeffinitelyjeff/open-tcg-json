@@ -1,0 +1,136 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[When Digivolving] [On Play] Reveal the top 5 cards of your deck. Add 1 [Analogman] among them to your hand, and add 1 card with the [Cyborg] or [Machine] trait to your hand or place it under this Digimon as its bottom digivolution card. Trash the rest.\n[On Deletion] By placing 1 of your in play [Analogman]s at the bottom of its owner's deck, you may play 1 [Machinedramon] from your hand without paying its cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "5"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "5"
+    }
+  ],
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-072.png",
+        "imgName": "BT11-072.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c5/BT11-072.png/revision/latest?cb=20230210132509",
+        "uploadDate": "2023-02-10T13:25:09"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Dimensional_Phase_Pre-Release_Pack",
+        "captionText": "Dimensional Phase Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-072_P0.png",
+        "imgName": "BT11-072_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/89/BT11-072_P0.png/revision/latest?cb=20230210210906",
+        "uploadDate": "2023-02-10T21:09:06"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-072-J.png",
+        "imgName": "BT11-072-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c5/BT11-072-J.png/revision/latest?cb=20220922114921",
+        "uploadDate": "2022-09-22T11:49:21"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-072-Sample-J.png",
+        "imgName": "BT11-072-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/15/BT11-072-Sample-J.png/revision/latest?cb=20220831090838",
+        "uploadDate": "2022-08-31T09:08:38"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c5/BT11-072.png/revision/latest?cb=20230210132509",
+  "korean": "파워드라몬",
+  "level": "6",
+  "name": "Machinedramon",
+  "nameJapanese": "ムゲンドラモン",
+  "nameTranslated": "Mugendramon",
+  "playCost": "11",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT11-072#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT11-072 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can add 1 card with the [Cyborg] or [Machine] trait to your hand or place it under this Digimon as its bottom digivolution card even when no [Analogman] is among the revealed cards.",
+        "question": "If there is no [Analogman] among the cards revealed by this card's effect, can I add 1 card with the [Cyborg] or [Machine] trait to my hand or place it under this Digimon as its bottom digivolution card?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "If there's no [Machinedramon] in my hand, can I place 1 of my [Analogman] at the bottom of its owner's deck with this card's [On Deletion] effect?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Dimensional_Phase_Pre-Release_Pack",
+          "text": "Dimensional Phase Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "无限龙兽",
+  "traditionalChinese": "機械邪龍獸",
+  "type": "Machine"
+}

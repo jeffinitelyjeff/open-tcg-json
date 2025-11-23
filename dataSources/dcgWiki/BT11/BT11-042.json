@@ -1,0 +1,177 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "02",
+  "cardEffects": "[When Digivolving] You may search your security stack, reveal 1 card with the [Angel], [Archangel] or [Fallen Angel] trait from it, and add it to your hand. If you added a card, ＜Recovery +1 (Deck)＞. Then, shuffle your security stack.\n[Your Turn] [Once Per Turn] When you play [LadyDevimon] or [Mirei Mikagura], gain 1 memory.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "4"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "3",
+      "level": "4"
+    }
+  ],
+  "dp": "6000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-042.png",
+        "imgName": "BT11-042.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/67/BT11-042.png/revision/latest?cb=20230210132431",
+        "uploadDate": "2023-02-10T13:24:31"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-042_P1.png",
+        "imgName": "BT11-042_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2d/BT11-042_P1.png/revision/latest?cb=20230210210855",
+        "uploadDate": "2023-02-10T21:08:55"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Dimensional_Phase_Pre-Release_Pack",
+        "captionText": "Dimensional Phase Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-042_P0.png",
+        "imgName": "BT11-042_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5c/BT11-042_P0.png/revision/latest?cb=20230210210902",
+        "uploadDate": "2023-02-10T21:09:02"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-042-J.png",
+        "imgName": "BT11-042-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/93/BT11-042-J.png/revision/latest?cb=20220922115233",
+        "uploadDate": "2022-09-22T11:52:33"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-042_P1-J.png",
+        "imgName": "BT11-042_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/db/BT11-042_P1-J.png/revision/latest?cb=20220930043803",
+        "uploadDate": "2022-09-30T04:38:03"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-042-Sample-J.png",
+        "imgName": "BT11-042-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f0/BT11-042-Sample-J.png/revision/latest?cb=20220906113354",
+        "uploadDate": "2022-09-06T11:33:54"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (Alternative Art) (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-042_P1-Sample-J.png",
+        "imgName": "BT11-042_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/75/BT11-042_P1-Sample-J.png/revision/latest?cb=20220918061750",
+        "uploadDate": "2022-09-18T06:17:50"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/67/BT11-042.png/revision/latest?cb=20230210132431",
+  "inheritedEffect": "[Opponent's Turn] While you have a purple Digimon in play, all of your Digimon with the [Angel], [Archangel] or [Fallen Angel] trait gain ＜Blocker＞ (This Digimon can block in the blocker timing.)",
+  "korean": "엔젤우몬",
+  "level": "5",
+  "name": "Angewomon",
+  "nameJapanese": "エンジェウーモン",
+  "playCost": "7",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT11-042#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT11-042 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "You may look at all the cards in your security stack without revealing them to your opponent.  Then, choose 1 card to add to your hand, reveal only that card to your opponent and add it to your hand.",
+        "question": "What does \"You may search your security stack\" mean?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Dimensional_Phase_Pre-Release_Pack",
+          "text": "Dimensional Phase Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "天女兽",
+  "traditionalChinese": "天女獸",
+  "type": "Archangel"
+}

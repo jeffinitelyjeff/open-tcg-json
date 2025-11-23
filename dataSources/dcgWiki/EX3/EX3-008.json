@@ -1,0 +1,152 @@
+{
+  "attribute": "Free",
+  "blockIcon": "02",
+  "cardEffects": "[When Digivolving] Activate 1 of the effects below.\n・1 of your other Digimon may digivolve into a level 4 purple Digimon card with the [Free] trait from your trash for the cost.\n・This Digimon and another of your Digimon may DNA digivolve into a Digimon card in the hand.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "2",
+      "level": "3"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "2",
+      "level": "3"
+    }
+  ],
+  "dp": "5000 DP",
+  "errata": [
+    {
+      "afterImageURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3c/EX3-008-Errata.png/revision/latest?cb=20221115012928",
+      "afterText": "",
+      "beforeImageURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5c/EX3-008.png/revision/latest?cb=20221111122903",
+      "beforeText": ""
+    }
+  ],
+  "form": "Armor Form",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-008.png",
+        "imgName": "EX3-008.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5c/EX3-008.png/revision/latest?cb=20221111122903",
+        "uploadDate": "2022-11-11T12:29:03"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Revision_Pack_2023",
+        "captionText": "Revision Pack 2023 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-008-Errata.png",
+        "imgName": "EX3-008-Errata.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3c/EX3-008-Errata.png/revision/latest?cb=20221115012928",
+        "uploadDate": "2022-11-15T01:29:28"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-008-J.png",
+        "imgName": "EX3-008-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/15/EX3-008-J.png/revision/latest?cb=20220722083948",
+        "uploadDate": "2022-07-22T08:39:48"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+        "captionText": "EX-03: Theme Booster Draconic Roar (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX3-008-Sample-J.png",
+        "imgName": "EX3-008-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5d/EX3-008-Sample-J.png/revision/latest?cb=20220628045827",
+        "uploadDate": "2022-06-28T04:58:27"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3c/EX3-008-Errata.png/revision/latest?cb=20221115012928",
+  "inheritedEffect": "[End of Your Turn] This Digimon and any of your other Digimon may DNA digivolve into a Digimon card in the hand.",
+  "level": "4",
+  "name": "Flamedramon",
+  "nameJapanese": "フレイドラモン",
+  "nameTranslated": "Fladramon",
+  "playCost": "5",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX3-008#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX3-008 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.",
+        "question": "I used this Digimon's [When Digivolving] effect to DNA digivolve, and this caused the memory gauge to move to my opponent's side. This brought the end of the turn. Can I use this card's inherited effect to DNA digivolve again?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, the target original \"1 of your other Digimon\" for this effect does not have to be purple.",
+        "question": "If I use this card's [When Digivolving] effect to digivolve into a level 4 purple Digimon, does my other Digimon have to be purple?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-02: Extra Booster 2 Draconic Roar",
+        "foil&Rarity": "",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+          "text": "EX-03: Theme Booster Draconic Roar"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Revision_Pack_2023",
+          "text": "Revision Pack 2023"
+        },
+        "foil&Rarity": "No Foil - Errata Text - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-03:_Theme_Booster_Draconic_Roar",
+          "text": "EX-03: Theme Booster Draconic Roar"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ]
+  },
+  "type": "Dragonkin"
+}

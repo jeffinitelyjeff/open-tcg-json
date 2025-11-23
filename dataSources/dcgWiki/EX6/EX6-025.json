@@ -1,0 +1,128 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] [When Attacking] [Once Per Turn] 1 Digimon may gain ＜Security A. -1＞  (This Digimon checks 1 additional security card.) until the end of your opponent's turn. Then, if DigiXrosing, reveal the top 4 cards of your deck. Add 1 of each [Gokuumon], [Sagomon], [Cho-Hakkaimon] and [Shakamon] among them to the hand. Return the rest to the bottom of the deck.\n[All Turns] When this Digimon would leave the battle area, return 1 yellow Digimon card from this Digimon's digivolution cards to the hand.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "digixrosRequirements": "[DigiXros -2] [Gokuumon] or [Sagomon] or [Cho-Hakkaimon]\nWhen this would be played, you may place specified cards from your hand/battle area under it. Each one reduces the play cost.",
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-025.png",
+        "imgName": "EX6-025.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/10/EX6-025.png/revision/latest?cb=20240621073102",
+        "uploadDate": "2024-06-21T07:31:02"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-025-J.png",
+        "imgName": "EX6-025-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f6/EX6-025-J.png/revision/latest?cb=20240216085319",
+        "uploadDate": "2024-02-16T08:53:19"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+        "captionText": "EX-06: Theme Booster Infernal Ascension (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX6-025-Sample-J.png",
+        "imgName": "EX6-025-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/ce/EX6-025-Sample-J.png/revision/latest?cb=20240130093352",
+        "uploadDate": "2024-01-30T09:33:52"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/10/EX6-025.png/revision/latest?cb=20240621073102",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] 1 Digimon may gain ＜Security A. -1＞  (This Digimon checks 1 additional security card.) until the end of your opponent's turn.",
+  "level": "5",
+  "name": "Sanzomon",
+  "nameJapanese": "サンゾモン",
+  "playCost": "7",
+  "rarity": "Common",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX6-025#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX6-025 (Jun. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can't.  You can place 1 [Gokuumon], 1 [Sagomon], or 1 [Cho-Hakkaimon] under this card.",
+        "question": "Can I place 1 each of [Gokuumon], [Sagomon], and [Cho-Hakkaimon] for this card's DigiXros requirements?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't. The \"if DigiXrosing\" part of the effect can only activate when DigiXrosing.",
+        "question": "If DigiXrosing when this card would be played, can I also activate the part after \"if DigiXrosing\" in this card's [On Play] [When Attacking] effect when this Digimon attacks?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, that's correct.",
+        "question": "Can I use this card's [On Play] [When Attacking] effect or inherited effect to give 1 of my Digimon ＜Security A. -1＞?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "\"When [...] would leave the battle area\" refers to when this Digimon is placed in the trash, returned to the hand/deck, placed in the security stack, moved to the breeding area, or placed under another card.",
+        "question": "What does this card's \"when [...] would leave the battle area\" mean, exactly?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it triggers.  Because a Digimon also leaves the battle area when it's placed in digivolution cards for a DigiXros, the effect triggers and activates.",
+        "question": "Does this card's [All Turns] effect trigger when this card is in the battle area and would be placed in another Digimon’s digivolution cards for a DigiXros?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it can't.  You must choose all of the cards to place when you declare the DigiXros. After choosing them, the chosen cards are placed under the card to DigiXros. This card's [All Turns] effect triggers and activates when the chosen cards would be placed, so after activation has occurred, you can't re-do your choices for the cards to place for the DigiXros.",
+        "question": "I chose this card as a target for a DigiXros. Then, I used this card's [All Turns] effect to return a yellow Digimon card to the hand. At such times, can the card returned to the hand be placed for the DigiXros?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-06:_Theme_Booster_Infernal_Ascension",
+          "text": "EX-06: Theme Booster Infernal Ascension"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
+        }
+      }
+    ]
+  },
+  "type": "Monk"
+}

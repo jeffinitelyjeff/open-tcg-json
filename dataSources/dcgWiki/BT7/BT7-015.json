@@ -1,0 +1,134 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "01",
+  "cardEffects": "When you would play this card from your hand, reduce its memory cost by 1 for each Option card in you and your opponent's trashes.\n[On Play] Return all cards with the [Three Musketeers] trait and all Option cards from both players' trashes to the bottom of their owners' decks. If 7 or more cards were returned using this effect, delete 1 of your opponent's Digimon with the [Three Musketeers] trait or 8000 DP or less.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "3",
+    "level": "5"
+  },
+  "dp": "11000 DP",
+  "errata": [
+    {
+      "afterImageURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3b/BT7-015-J.png/revision/latest?cb=20210820091035",
+      "afterText": "【登場時】お互いのトラッシュにある、オプションカードと特徴に「三銃士」を持つカード全てを、持ち主のデッキの下に戻す。この効果で合計7枚以上戻したとき、特徴に「三銃士」を持つかDP8000以下の相手のデジモン1体を消滅させる。",
+      "beforeText": "【登場時】お互いのトラッシュにある、特徴に「三銃士」を持つカードとオプションカード全てを、持ち主のデッキの下に戻す。この効果で合計7枚以上戻したとき、特徴に「三銃士」を持つかDP8000以下の相手のデジモン1体を消滅させる。"
+    }
+  ],
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-015.png",
+        "imgName": "BT7-015.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/57/BT7-015.png/revision/latest?cb=20220218130545",
+        "uploadDate": "2022-02-18T13:05:45"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Next_Adventure_Pre-Release_Pack",
+        "captionText": "Next Adventure Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-015_P0.png",
+        "imgName": "BT7-015_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/af/BT7-015_P0.png/revision/latest?cb=20220304175554",
+        "uploadDate": "2022-03-04T17:55:54"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-015-J.png",
+        "imgName": "BT7-015-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3b/BT7-015-J.png/revision/latest?cb=20210820091035",
+        "uploadDate": "2021-08-20T09:10:35"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/57/BT7-015.png/revision/latest?cb=20220218130545",
+  "level": "6",
+  "name": "AvengeKidmon",
+  "nameJapanese": "アヴェンジキッドモン",
+  "playCost": "12",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT7-015#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT7-015 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, its play cost is reduced by the total number of Option cards in both you and your opponent's trashes.",
+        "question": "Is this card’s play cost reduced by 1 for each Option card in ONLY my trash or my opponent’s trash?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "The player who activated the effect decides the order in which their cards and their opponent's cards are returned to the bottom of each player's decks.",
+        "question": "I use this card’s [On Play] effect to return cards from both players’ trashes to the bottom of their owners’ decks. Who decides which order the cards are placed in?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Next_Adventure_Pre-Release_Pack",
+          "text": "Next Adventure Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ]
+  },
+  "type": "Dragonkin"
+}

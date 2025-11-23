@@ -1,0 +1,119 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "02",
+  "cardEffects": "[Main] [Once Per Turn] By suspending this Digimon, reveal the top 3 cards of your deck. Add all blue Tamer cards among them to your hand. Place the rest at the bottom of your deck in any order.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-029.png",
+        "imgName": "BT11-029.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6c/BT11-029.png/revision/latest?cb=20230210132415",
+        "uploadDate": "2023-02-10T13:24:15"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Dimensional_Phase_Pre-Release_Pack",
+        "captionText": "Dimensional Phase Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-029_P0.png",
+        "imgName": "BT11-029_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/61/BT11-029_P0.png/revision/latest?cb=20230210210858",
+        "uploadDate": "2023-02-10T21:08:58"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-029-J.png",
+        "imgName": "BT11-029-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/80/BT11-029-J.png/revision/latest?cb=20220922114913",
+        "uploadDate": "2022-09-22T11:49:13"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+        "captionText": "BT-11: Booster Dimensional Phase (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-029-Sample-J.png",
+        "imgName": "BT11-029-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/86/BT11-029-Sample-J.png/revision/latest?cb=20220908090612",
+        "uploadDate": "2022-09-08T09:06:12"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6c/BT11-029.png/revision/latest?cb=20230210132415",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] Activate 1 of your [Rina Shinomiya]'s [On Play] effect.",
+  "korean": "에어로브이드라몬",
+  "level": "5",
+  "name": "AeroVeedramon",
+  "nameJapanese": "エアロブイドラモン",
+  "nameTranslated": "AeroVdramon",
+  "playCost": "8",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [],
+    "rulings": [
+      {
+        "answer": "No, it is considered to be activating a Tamer's card effect.",
+        "question": "If I activate this card's effect to activate an [On Play] effect, does that count as activating a Digimon's card effect?",
+        "reference": ""
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Dimensional_Phase_Pre-Release_Pack",
+          "text": "Dimensional Phase Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
+          "text": "BT-11: Booster Dimensional Phase"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "飞行V龙兽",
+  "traditionalChinese": "飛行V龍獸",
+  "type": "Holy Dragon"
+}

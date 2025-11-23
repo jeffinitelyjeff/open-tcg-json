@@ -1,0 +1,170 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "＜Armor Purge＞  (When this Digimon would be deleted, you may trash the top card of this Digimon to prevent that deletion.)\n[On Play] [When Digivolving] You may place 1 Digimon card with the [Blue Flare] trait from your hand or from under one of your Tamers under this Digimon as its bottom digivolution card. Then, if [Deckerdramon] is in this Digimon's digivolution cards, 1 of your opponent's Digimon can't attack or block until the end of your opponent's turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "2",
+      "level": "5"
+    }
+  ],
+  "digixrosRequirements": "[DigiXros -2] [MetalGreymon] x [Deckerdramon] \nWhen this would be played, you may place specified cards from your hand/battle area under it. Each one reduces the play cost.",
+  "dp": "10000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-026.png",
+        "imgName": "BT10-026.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/00/BT10-026.png/revision/latest?cb=20221007210210",
+        "uploadDate": "2022-10-07T21:02:10"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-026_P1.png",
+        "imgName": "BT10-026_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/42/BT10-026_P1.png/revision/latest?cb=20221011183144",
+        "uploadDate": "2022-10-11T18:31:44"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Xros_Encounter_Pre-Release_Pack",
+        "captionText": "Xros Encounter Pre-Release Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-026_P0.png",
+        "imgName": "BT10-026_P0.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c6/BT10-026_P0.png/revision/latest?cb=20221022205952",
+        "uploadDate": "2022-10-22T20:59:52"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-026-J.png",
+        "imgName": "BT10-026-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/11/BT10-026-J.png/revision/latest?cb=20220520104222",
+        "uploadDate": "2022-05-20T10:42:22"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Tamer%27s_Selection_Box_Evolution_Cup_2022_Ver.2",
+        "captionText": "Tamer's Selection Box Evolution Cup 2022 Ver.2 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-026_P1-J.png",
+        "imgName": "BT10-026_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/33/BT10-026_P1-J.png/revision/latest?cb=20230630170223",
+        "uploadDate": "2023-06-30T17:02:23"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+        "captionText": "BT-10: Booster Xros Encounter (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT10-026-Sample-J.png",
+        "imgName": "BT10-026-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/30/BT10-026-Sample-J.png/revision/latest?cb=20220427051323",
+        "uploadDate": "2022-04-27T05:13:23"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/00/BT10-026.png/revision/latest?cb=20221007210210",
+  "level": "5",
+  "name": "DeckerGreymon",
+  "nameJapanese": "デッカーグレイモン",
+  "playCost": "9",
+  "rarity": "Rare",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Xros_Encounter_Pre-Release_Pack",
+          "text": "Xros Encounter Pre-Release Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-10:_Booster_Xros_Encounter",
+          "text": "BT-10: Booster Xros Encounter"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Tamer%27s_Selection_Box_Evolution_Cup_2022_Ver.2",
+          "text": "Tamer's Selection Box Evolution Cup 2022 Ver.2"
+        },
+        "foil&Rarity": "Textured - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:TANIMESO",
+          "text": "TANIMESO"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "甲板暴龙兽",
+  "traditionalChinese": "軍艦龍獸",
+  "type": "Enhancement/Blue Flare"
+}

@@ -1,0 +1,95 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Seadramon]: Cost 0",
+  "attribute": "Data",
+  "blockIcon": "04",
+  "cardEffects": "[On Play] [When Digivolving] Return 1 of your opponent's level 3 Digimon to the bottom of the deck. Then, if [Seadramon] or [X Antibody] is in this Digimon's digivolution cards, 1 of your opponent's Tamers can't suspend until the end of their turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "6000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-024.png",
+        "imgName": "BT20-024.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/47/BT20-024.png/revision/latest?cb=20250207070924",
+        "uploadDate": "2025-02-07T07:09:24"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+        "captionText": "BT19-20: Special Booster Ver.2.5 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-024-Sample.png",
+        "imgName": "BT20-024-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/32/BT20-024-Sample.png/revision/latest?cb=20250105032955",
+        "uploadDate": "2025-01-05T03:29:55"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-024-J.png",
+        "imgName": "BT20-024-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/42/BT20-024-J.png/revision/latest?cb=20250124093732",
+        "uploadDate": "2025-01-24T09:37:32"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+        "captionText": "BT-20: Booster Over the X (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT20-024-Sample-J.png",
+        "imgName": "BT20-024-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0a/BT20-024-Sample-J.png/revision/latest?cb=20250105032827",
+        "uploadDate": "2025-01-05T03:28:27"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/47/BT20-024.png/revision/latest?cb=20250207070924",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] If you have 7 or fewer cards in your hand, ＜Draw 1＞ (Draw 1 card from your deck.)",
+  "level": "4",
+  "name": "Seadramon (X Antibody)",
+  "nameJapanese": "シードラモンX抗体",
+  "playCost": "6",
+  "rarity": "Common",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT19-20:_Special_Booster_Ver.2.5",
+          "text": "BT19-20: Special Booster Ver.2.5"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-20:_Booster_Over_the_X",
+          "text": "BT-20: Booster Over the X"
+        },
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      }
+    ]
+  },
+  "type": "Aquatic/X Antibody"
+}

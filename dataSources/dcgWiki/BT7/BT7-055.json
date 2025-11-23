@@ -1,0 +1,131 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "01",
+  "cardEffects": "[When Digivolving] Suspend 1 of your opponent's Digimon. Then, gain 1 memory for each of your opponent's suspended Digimon.\n[Opponent's Turn] All of your opponent's Digimon gain \"[Your Turn] When this Digimon would unsuspend, you must trash 1 card in your hand or prevent this Digimon from unsuspending.\"",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "5",
+    "level": "5"
+  },
+  "dp": "13000 DP",
+  "errata": [
+    {
+      "afterImageURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/db/BT7-055-J.png/revision/latest?cb=20210820091051",
+      "afterText": "究極体 | ワクチン種 | 聖獣型/四聖獣",
+      "beforeText": "究極体 | ワクチン種 | 聖獣型"
+    }
+  ],
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-055.png",
+        "imgName": "BT7-055.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d3/BT7-055.png/revision/latest?cb=20220218130611",
+        "uploadDate": "2022-02-18T13:06:11"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+        "captionText": "BT-07: Booster Next Adventure (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT7-055-J.png",
+        "imgName": "BT7-055-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/db/BT7-055-J.png/revision/latest?cb=20210820091051",
+        "uploadDate": "2021-08-20T09:10:51"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d3/BT7-055.png/revision/latest?cb=20220218130611",
+  "level": "6",
+  "name": "Ebonwumon",
+  "nameJapanese": "シェンウーモン",
+  "nameTranslated": "Xuanwumon",
+  "playCost": "13",
+  "rarity": "Super Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=BT7-055#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for BT7-055 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. Your opponent must trash 1 card in their hand for each Digimon they unsuspend.",
+        "question": "My opponent unsuspends 2 or more of their Digimon. Does this card’s [Opponent's Turn] effect allow my opponent to unsuspend all of their Digimon by trashing 1 card in their hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. The [Opponent's Turn] effect cannot force the opponent to trash cards in their hand. However, no matter how the Digimon would become unsuspended, whether from an effect or your opponent's unsuspend phase, the Digimon cannot unsuspend unless the opponent trashes a card in their hand.",
+        "question": "If an effect would cause an opponent’s Digimon to unsuspend, does this card’s [Opponent's Turn] effect force my opponent to trash a card in their hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can choose which of your Digimon to unsuspend, and trash a card in your hand for each one.  Digimon will not unsuspend unless you choose to trash a card in your hand, so even if you have fewer cards in hand than suspended Digimon in play, you can still choose to unsuspend specific Digimon.",
+        "question": "My opponent has this Digimon in play. If I have 3 suspended Digimon in play, do I need to have 3 or more cards in hand during my unsuspend phase in order to unsuspend my Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. This effect only affects Digimon. Your opponent can unsuspend their Tamers normally, without trashing cards in their hand.",
+        "question": "Does this card’s [Opponent's Turn] effect require my opponent to trash cards in their hand to also unsuspend their Tamer cards?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes. Your opponent’s Digimon now have two copies of “[Your Turn] You must trash 1 card in your hand to unsuspend this Digimon” on them, which means they have to trash 2 cards in their hand to unsuspend 1 of their Digimon.",
+        "question": "I have two of these Digimon in play. Does my opponent have to trash 2 cards in their hand for each Digimon they want to unsuspend?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "BTC-04: Booster Next Hero",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naochika_Morishita",
+          "text": "Naochika Morishita"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naochika_Morishita",
+          "text": "Naochika Morishita"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-07:_Booster_Next_Adventure",
+          "text": "BT-07: Booster Next Adventure"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naochika_Morishita",
+          "text": "Naochika Morishita"
+        }
+      }
+    ]
+  },
+  "type": "Holy Beast/Four Sovereigns"
+}

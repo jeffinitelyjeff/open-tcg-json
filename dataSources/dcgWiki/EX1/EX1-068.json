@@ -1,0 +1,97 @@
+{
+  "blockIcon": "01",
+  "cardEffects": "[Main] All of your opponent's Digimon gain \"[When Attacking] lose 2 memory\" until the end of their next turn.",
+  "cardRestriction": {
+    "chinese": "Restricted to 1",
+    "english": "Restricted to 1",
+    "korean": "Not released",
+    "nameJapanese": "Restricted to 1"
+  },
+  "cardType": "Option",
+  "color": "Blue",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-068.png",
+        "imgName": "EX1-068.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ed/EX1-068.png/revision/latest?cb=20211126152136",
+        "uploadDate": "2021-11-26T15:21:36"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-068-J.png",
+        "imgName": "EX1-068-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f9/EX1-068-J.png/revision/latest?cb=20210721041526",
+        "uploadDate": "2021-07-21T04:15:26"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ed/EX1-068.png/revision/latest?cb=20211126152136",
+  "name": "Ice Wall!",
+  "nameJapanese": "アイスウォール！！",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX1-068#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX1-068 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Your opponent loses the 2 memory. The memory marker will be moved 2 spaces towards you every time your opponent attacks with a Digimon.",
+        "question": "If I use this card, do I lose 2 memory every time my opponent attacks with a Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes. The effect reads, “All of your opponent’s Digimon,” so any Digimon that enter the battle area after you use this card are still affected.",
+        "question": "I use this card. During my opponent’s next turn, if they play a new Digimon or move a Digimon from their breeding area to their battle area, will those Digimon have “[When Attacking] Loses 2 memory” from this card’s effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes. Even if you have 1 or more memory, the attack with ＜Blitz＞ still takes place during your opponent's turn, which means that this card's effect is still active, and your opponent still loses 2 memory.",
+        "question": "I use this card. During my opponent’s next turn, they attack me with their Digimon's ＜Blitz＞ effect while I have 1 or more memory. Does my opponent still lose 2 memory?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "securityEffect": "[Security] Gain 2 memory.",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-01: Extra Booster",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "simplifiedChinese": "冰墙!!",
+  "traditionalChinese": "寒冰牆‼",
+  "useCost": "1"
+}

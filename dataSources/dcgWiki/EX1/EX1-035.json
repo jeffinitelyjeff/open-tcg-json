@@ -1,0 +1,102 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "01",
+  "cardEffects": "[When Attacking] This Digimon can digivolve into a Digimon card with the [Insectoid] trait in your hand for its digivolution cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-035.png",
+        "imgName": "EX1-035.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b3/EX1-035.png/revision/latest?cb=20211126152125",
+        "uploadDate": "2021-11-26T15:21:25"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-035-J.png",
+        "imgName": "EX1-035-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/37/EX1-035-J.png/revision/latest?cb=20210721041517",
+        "uploadDate": "2021-07-21T04:15:17"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b3/EX1-035.png/revision/latest?cb=20211126152125",
+  "korean": "캅테리몬",
+  "level": "4",
+  "name": "Kabuterimon",
+  "nameJapanese": "カブテリモン",
+  "playCost": "4",
+  "rarity": "Uncommon",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX1-035#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX1-035 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, the time to trigger [When Attacking] effects has already passed, so the effect doesn't activate.",
+        "question": "I digivolve using this card’s [When Attacking] effect. If the Digimon I digivolve into has a [When Attacking] effect, does that effect activate?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "The attack continues. The turn doesn’t switch over until the attack has ended.",
+        "question": "When digivolving with this card's [When Attacking] effect, paying the digivolution cost moves the memory gauge to 1 or more on my opponent’s side. What happens to the attack?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-01: Extra Booster",
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "simplifiedChinese": "比多兽",
+  "traditionalChinese": "比多獸",
+  "type": "Insectoid"
+}

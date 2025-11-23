@@ -1,0 +1,169 @@
+{
+  "attribute": "Data",
+  "blockIcon": "01",
+  "cardEffects": "[When Digivolving] If you don't have a [Taiga] in play, you may play one from your hand without paying its memory cost.\n[Your Turn] This Digimon is also treated as green.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Not released",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "2",
+      "level": "3"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "2",
+      "level": "3"
+    }
+  ],
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-005.png",
+        "imgName": "EX1-005.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e2/EX1-005.png/revision/latest?cb=20211126152029",
+        "uploadDate": "2021-11-26T15:20:29"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (Alternative Art) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-005_P1.png",
+        "imgName": "EX1-005_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/04/EX1-005_P1.png/revision/latest?cb=20211203111706",
+        "uploadDate": "2021-12-03T11:17:06"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-005-J.png",
+        "imgName": "EX1-005-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c1/EX1-005-J.png/revision/latest?cb=20210721041508",
+        "uploadDate": "2021-07-21T04:15:08"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (Alternative Art) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-005_P1-J.png",
+        "imgName": "EX1-005_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/60/EX1-005_P1-J.png/revision/latest?cb=20210730163424",
+        "uploadDate": "2021-07-30T16:34:24"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-005-Sample-J.png",
+        "imgName": "EX1-005-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1d/EX1-005-Sample-J.png/revision/latest?cb=20210705085344",
+        "uploadDate": "2021-07-05T08:53:44"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+        "captionText": "EX-01: Theme Booster Classic Collection (Alternative Art) (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-005_P1-Sample-J.png",
+        "imgName": "EX1-005_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ee/EX1-005_P1-Sample-J.png/revision/latest?cb=20210705085315",
+        "uploadDate": "2021-07-05T08:53:15"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e2/EX1-005.png/revision/latest?cb=20211126152029",
+  "inheritedEffect": "[Your Turn] While this Digimon has [Tyrannomon] in its name, it gets +2000 DP.",
+  "korean": "티라노몬",
+  "level": "4",
+  "name": "Tyrannomon",
+  "nameJapanese": "ティラノモン",
+  "nameTranslated": "Tyranomon",
+  "playCost": "5",
+  "rarity": "Rare",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=EX1-005#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for EX1-005 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. This card’s effects aren't activated when you reveal it from your deck with an effect. As such, the card isn't considered to be a green Digimon card, and can’t be added to your hand.",
+        "question": "When this card is revealed from my deck with an effect like the one on [ST4-03 Tentomon], can I add it to my hand as if it was a green Digimon?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "If it’s your turn, then yes, you can.",
+        "question": "If this Digimon is in my battle area, can I digivolve it into a Digimon with “Green/Level 4” digivolution requirements?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't. Effects don't activate from breeding areas, so this Digimon isn't treated as green, and you can't digivolve it into a Digimon that requires a green level 4 Digimon.",
+        "question": "If this Digimon is in my breeding area, can I digivolve it into a Digimon with “Green/Level 4” digivolution requirements?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "EXC-01: Extra Booster",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": "EXC-01: Extra Booster",
+        "foil&Rarity": "Textured - Variant Art - Alternative Art",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "Textured - Variant Art - Alternative Art",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-01:_Theme_Booster_Classic_Collection",
+          "text": "EX-01: Theme Booster Classic Collection"
+        },
+        "foil&Rarity": "Textured - Variant Art - Alternative Art",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "simplifiedChinese": "巨龙兽",
+  "traditionalChinese": "巨龍獸",
+  "type": "Dinosaur"
+}
