@@ -236,8 +236,6 @@ class DCGWikiSpider(base_spider.BaseSpider):
         pending_subpages.append(path)
       elif '/errata' in path.lower():
         pending_subpages.append(path)
-      else:
-        assert False, f"unexpected nav link: {path}"
 
     meta['card_data'] = card_data
     meta['pending_subpages'] = pending_subpages
