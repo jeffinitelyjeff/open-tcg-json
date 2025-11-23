@@ -1,11 +1,12 @@
-from email import header
+import datetime
 import logging
+import re
 
 import scrapy
 
 from . import base_spider
 from .. import scrapy_util
-from ..pipelines import JSONLItem, TextItem
+from ..pipelines import JSONItem, JSONLItem, TextItem
 
 WIKI_DOMAIN = "https://digimoncardgame.fandom.com"
 
@@ -20,6 +21,12 @@ CARD_LIST_PATHS = [
 
 DEBUG_CARD = 'EX10-074'
 DEBUG_ON = True
+
+
+def wiki_url(path: str | None) -> str | None:
+  if not path:
+    return None
+  return WIKI_DOMAIN + path
 
 
 class DCGWikiSpider(base_spider.BaseSpider):
@@ -133,8 +140,12 @@ class DCGWikiSpider(base_spider.BaseSpider):
         "</html>",
     ])
 
+    main_img_url = response.css('.ctable a.image img').xpath('@src').get()
+    meta['main_img_url'] = main_img_url
+
     yield TextItem(data=text, subpath=[set_id, card_num, 'main.html'])
 
+    # FIXME: call these sequentially, store everything in a single json file
     nav_paths = response.css('.ctable .info-navigation a::attr(href)').getall()
     for path in nav_paths:
       if '/gallery' in path.lower():
@@ -158,7 +169,40 @@ class DCGWikiSpider(base_spider.BaseSpider):
         "</html>",
     ])
 
-    yield TextItem(data=text, subpath=[set_id, card_num, 'gallery.html'])
+    # yield TextItem(data=text, subpath=[set_id, card_num, 'gallery.html'])
+
+    imgs = []
+
+    gallery_items = response.css('.wikia-gallery-item')
+    for item in gallery_items:
+      # placeholders (eg, mid-reveal cards or other languages that haven't been
+      # populated yet)
+      empty_img = item.css('.thumb a.image-no-lightbox').get()
+      if empty_img:
+        continue
+
+      wiki_file_path = item.css('.thumb a::attr(href)').get()
+      thumb_img = item.css('.thumb img.thumbimage')
+      img_name = thumb_img.xpath('@data-image-key').get()
+      thumb_url = item.css('.thumb img.thumbimage').xpath('@src').get()
+      full_url = re.sub(r'/scale-to-width-down/\d+', '', thumb_url)
+      caption_text = thumb_img.xpath('@alt').get()
+      caption_link = item.css('.lightbox-caption a::attr(href)').get()
+      if 'cb=' in full_url:
+        ts = full_url.split('cb=')[-1]
+        upload_date = datetime.datetime.strptime(ts, '%Y%m%d%H%M%S').isoformat()
+
+      imgs.append({
+          'img_name': img_name,
+          'full_url': full_url,
+          'file_page': wiki_url(wiki_file_path),
+          'upload_date': upload_date,
+          'caption_text': caption_text,
+          'caption_link': wiki_url(caption_link)
+      })
+
+    yield JSONItem(data={'images': imgs},
+                   subpath=[set_id, card_num, 'gallery_images.json'])
 
   def parse_card_rulings(self, response):
     logging.debug('GET %s | %s', response.status, response.url)
