@@ -4,7 +4,6 @@ import os
 import sys
 
 from scrapy.crawler import CrawlerProcess
-from scrapy.exceptions import CloseSpider
 from scrapy.utils import project
 
 from .. import scrapy_util
@@ -74,8 +73,11 @@ def run_spiders(scrapy_settings: project.Settings, args: argparse.Namespace):
 
   process.start()
 
-  if any(crawler.stats.get_value('log_count/ERROR') for crawler in crawlers):
-    raise CloseSpider
+  for crawler in crawlers:
+    error_count = crawler.stats.get_value('log_count/ERROR', 0)
+    if error_count > 0:
+      msg = f"Spider [{crawler.spider.name}] encountered {error_count} errors"
+      raise RuntimeError(msg)
 
 
 if __name__ == '__main__':

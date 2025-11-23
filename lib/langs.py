@@ -10,7 +10,7 @@ class Lang(enum.Enum):
     return lang.value['abbreviation']
 
   EN = {'full_name': 'English', 'abbreviation': 'EN'}
-
   JP = {'full_name': 'Japanese', 'abbreviation': 'JP'}
-
   FR = {'full_name': 'French', 'abbreviation': 'FR'}
+  CH = {'full_name': 'Chinese', 'abbreviation': 'CH'}
+  KR = {'full_name': 'Korean', 'abbreviation': 'KR'}

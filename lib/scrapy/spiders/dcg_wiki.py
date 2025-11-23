@@ -1,4 +1,6 @@
+from ast import parse
 import datetime
+import functools
 import logging
 import re
 
@@ -7,6 +9,7 @@ import scrapy
 from . import base_spider
 from .. import scrapy_util
 from ..pipelines import JSONItem, JSONLItem, TextItem
+from ...langs import Lang
 
 WIKI_DOMAIN = "https://digimoncardgame.fandom.com"
 
@@ -23,10 +26,18 @@ KNOWN_ERRATA_WITHOUT_TABLES = [
     'https://digimoncardgame.fandom.com/wiki/BT6-084/Errata',  # Sistermon Ciel
 ]
 
-# DEBUG_CARD = 'EX10-074'
-# DEBUG_CARD = 'EX9-021'
-DEBUG_CARD = 'BT6-084'
+DEBUG_CARDS = set([
+    'BT6-084',
+    'EX10-074',
+    'EX9-021',
+])
 DEBUG_ON = True
+
+MANUAL_FIELD_OVERRIDES = {
+    'japanese': 'nameJapanese',
+    'translated': 'nameTranslated',
+    'colour': 'color',
+}
 
 
 def wiki_url(path: str | None) -> str | None:
@@ -35,6 +46,38 @@ def wiki_url(path: str | None) -> str | None:
   if path.startswith('/'):
     return WIKI_DOMAIN + path
   return path
+
+
+def camel_case(s: str) -> str:
+  parts = re.split(r'[\s_-]+', s)
+  camel_case = parts[0].lower() + ''.join(p.title() for p in parts[1:])
+  return MANUAL_FIELD_OVERRIDES.get(camel_case, camel_case)
+
+
+def response_url_logger(log_level=logging.DEBUG):
+
+  def decorator(func):
+
+    @functools.wraps(func)
+    def wrapper(self, response, *args, **kwargs):
+      logging.log(log_level, 'GET %s | %s', response.status, response.url)
+      try:
+        result = func(self, response, *args, **kwargs)
+        if hasattr(result, '__iter__') and not isinstance(result, (str, bytes)):
+          for item in result:
+            yield item
+        else:
+          return result
+      except AssertionError as e:
+        raise AssertionError(f"{e} ({response.url})") from e
+
+    return wrapper
+
+  return decorator
+
+
+response_url_logger_INFO = response_url_logger(logging.INFO)
+response_url_logger_DEBUG = response_url_logger(logging.DEBUG)
 
 
 class DCGWikiSpider(base_spider.BaseSpider):
@@ -84,10 +127,11 @@ class DCGWikiSpider(base_spider.BaseSpider):
     set_type, set_num = set_long_id.split('-')
     return f"{set_type}-{int(set_num):03d}"
 
+  @response_url_logger_INFO
   def parse_set_list(self, response):
     # Parses a page that has a list OF sets.
     # NOT a page that has a list of cards in a set.
-    logging.info('GET %s | %s', response.status, response.url)
+    # logging.info('GET %s | %s', response.status, response.url)
 
     paths = response.css('.NavFrame .setLink a::attr(href)').getall()
 
@@ -95,9 +139,10 @@ class DCGWikiSpider(base_spider.BaseSpider):
       yield self.card_list_item(path)
       yield self.request(path, self.parse_card_list)
 
+  @response_url_logger_INFO
   def parse_card_list(self, response):
     # Parses a page that has a list of cards.
-    logging.info('GET %s | %s', response.status, response.url)
+    # logging.info('GET %s | %s', response.status, response.url)
 
     card_paths = response.css('.cardlist th a::attr(href)').getall()
 
@@ -119,7 +164,7 @@ class DCGWikiSpider(base_spider.BaseSpider):
 
       self.seen_cards.add(card_num)
 
-      if DEBUG_ON and card_num != DEBUG_CARD:
+      if DEBUG_ON and card_num not in DEBUG_CARDS:
         continue
 
       yield self.request(card_path,
@@ -129,29 +174,35 @@ class DCGWikiSpider(base_spider.BaseSpider):
                              'set_id': set_id
                          })
 
+  @response_url_logger_DEBUG
   def parse_card_page(self, response):
-    logging.debug('GET %s | %s', response.status, response.url)
+    # logging.debug('GET %s | %s', response.status, response.url)
 
     meta = response.meta
     card_num = meta.get('card_num')
     set_id = meta.get('set_id')
 
-    header_categories = response.css('.page-header__categories').get()
-    header_title = response.css('.page-header__title').get()
-    body = response.css('.page__main .mw-body-content').get()
+    card_tables = response.css('.ctable')
+    assert len(card_tables) > 0, f"no ctable found"
 
-    text = "\n".join([
-        "<html>",
-        header_categories,
-        header_title,
-        body,
-        "</html>",
-    ])
+    # TODO: handle special case with tabber (BT6-084)
+    card_table = card_tables[0]
 
-    main_img_url = response.css('.ctable a.image img').xpath('@src').get()
-    meta['main_img_url'] = main_img_url
+    # FIXME: get main ctable data
 
-    yield TextItem(data=text, subpath=[set_id, card_num, 'main.html'])
+    _, data = self.parse_key_value_table(card_table.css('.info-main'))
+
+    for lang in [Lang.EN, Lang.JP, Lang.CH, Lang.KR]:
+      abbr = lang.abbr().lower()
+      cls_name = f'.settable-{abbr}'
+      table = response.css(cls_name)
+      assert len(table) <= 1, f"multiple {cls_name}"
+      if lang == Lang.EN or lang == Lang.JP:
+        assert len(table) == 1, f"missing {cls_name}"
+      if len(table) == 1:
+        data[f"setData_{abbr}"] = self.parse_generic_col_table(table[0])
+
+    yield JSONItem(data, subpath=[set_id, card_num, 'card_data.json'])
 
     # FIXME: call these sequentially, store everything in a single json file
     nav_paths = response.css('.ctable .info-navigation a::attr(href)').getall()
@@ -163,8 +214,62 @@ class DCGWikiSpider(base_spider.BaseSpider):
       elif '/errata' in path.lower():
         yield self.request(path, self.parse_card_errata, meta=meta)
 
+  @staticmethod
+  def parse_generic_col_table(table) -> list[dict]:
+    data = []
+    header_cells = table.css('tr th')
+    headers = [
+        camel_case(''.join(h.css('::text').getall()).strip())
+        for h in header_cells
+    ]
+
+    rows = table.css('tr')[1:]  # skip header row
+    for row in rows:
+      item = {}
+      cells = row.css('td')
+      for i, cell in enumerate(cells):
+        assert i < len(headers), "more table cells than headers"
+        header = headers[i]
+
+        cell_text = ''.join(cell.css('::text').getall()).strip()
+        cell_link = cell.css('a::attr(href)').get()
+        if cell_link:
+          item[header] = {'text': cell_text, 'link': wiki_url(cell_link)}
+        else:
+          item[header] = cell_text
+      data.append(item)
+
+    return data
+
+  @staticmethod
+  def parse_key_value_table(table) -> tuple[str | None, dict]:
+    data = {}
+
+    header_text = None
+    header_cell = table.css('th')
+    if header_cell:
+      header_text = camel_case(''.join(
+          header_cell.css('::text').getall()).strip())
+
+    rows = table.css('tr')
+
+    for row in rows:
+      if row.css('th'):
+        # skip header row
+        continue
+
+      cells = row.css('td')
+      assert len(cells) == 2, f"expected 2 cells per row"
+
+      key_text = camel_case(''.join(cells[0].css('::text').getall()).strip())
+      val_text = ''.join(cells[1].css('::text').getall()).strip()
+      data[key_text] = val_text
+
+    return header_text, data
+
+  @response_url_logger_DEBUG
   def parse_card_gallery(self, response):
-    logging.debug('GET %s | %s', response.status, response.url)
+    # logging.debug('GET %s | %s', response.status, response.url)
 
     meta = response.meta
     card_num = meta.get('card_num')
@@ -192,31 +297,32 @@ class DCGWikiSpider(base_spider.BaseSpider):
         upload_date = datetime.datetime.strptime(ts, '%Y%m%d%H%M%S').isoformat()
 
       imgs.append({
-          'img_name': img_name,
-          'img_url': full_url,
-          'file_page': wiki_url(wiki_file_path),
-          'upload_date': upload_date,
-          'caption_text': caption_text,
-          'caption_link': wiki_url(caption_link)
+          'imgName': img_name,
+          'imgURL': full_url,
+          'filePage': wiki_url(wiki_file_path),
+          'uploadDate': upload_date,
+          'captionText': caption_text,
+          'captionLink': wiki_url(caption_link)
       })
 
     # FIXME: store this in a main json file instead
     data = {'images': imgs}
-    yield JSONItem(data=data, subpath=[set_id, card_num, 'gallery_images.json'])
+    yield JSONItem(data, subpath=[set_id, card_num, 'gallery_images.json'])
 
   @staticmethod
   def full_img_for_thumb(thumb_url: str) -> str:
     return re.sub(r'/scale-to-width-down/\d+', '', thumb_url)
 
+  @response_url_logger_DEBUG
   def parse_card_rulings(self, response):
-    logging.debug('GET %s | %s', response.status, response.url)
+    # logging.debug('GET %s | %s', response.status, response.url)
 
     meta = response.meta
     card_num = meta.get('card_num')
     set_id = meta.get('set_id')
 
     ruling_items = response.css('.ruling')
-    assert len(ruling_items) > 0, f"no rulings: {response.url}"
+    assert len(ruling_items) > 0, f"no rulings"
 
     rulings = []
     for item in ruling_items:
@@ -244,10 +350,11 @@ class DCGWikiSpider(base_spider.BaseSpider):
       })
 
     data = {'rulings': rulings, 'references': references}
-    yield JSONItem(data=data, subpath=[set_id, card_num, 'rulings.json'])
+    yield JSONItem(data, subpath=[set_id, card_num, 'rulings.json'])
 
+  @response_url_logger_DEBUG
   def parse_card_errata(self, response):
-    logging.debug('GET %s | %s', response.status, response.url)
+    # logging.debug('GET %s | %s', response.status, response.url)
 
     meta = response.meta
     card_num = meta.get('card_num')
@@ -261,7 +368,7 @@ class DCGWikiSpider(base_spider.BaseSpider):
       if response.url in KNOWN_ERRATA_WITHOUT_TABLES:
         return
 
-      assert False, f"no errata tables found for {response.url}"
+      assert False, f"no errata tables found"
 
     data = []
 
@@ -273,15 +380,14 @@ class DCGWikiSpider(base_spider.BaseSpider):
       after_thumb_url = table.css('.after-image img').xpath('@src').get()
 
       item = {
-          'before_text': before_text,
-          'after_text': after_text,
-          'after_image_url': self.full_img_for_thumb(after_thumb_url),
+          'beforeText': before_text,
+          'afterText': after_text,
+          'afterImageURL': self.full_img_for_thumb(after_thumb_url),
       }
 
       if before_thumb_url:
-        item['before_image_url'] = self.full_img_for_thumb(before_thumb_url)
-
+        item['beforeImageURL'] = self.full_img_for_thumb(before_thumb_url)
       data.append(item)
 
     # FIXME: store this in a main json file instead
-    yield JSONItem(data=data, subpath=[set_id, card_num, 'errata.json'])
+    yield JSONItem(data, subpath=[set_id, card_num, 'errata.json'])
