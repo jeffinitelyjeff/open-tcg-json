@@ -1,5 +1,6 @@
 from ast import parse
-import datetime
+from collections import defaultdict
+from datetime import datetime
 import functools
 import logging
 import re
@@ -37,6 +38,8 @@ MANUAL_FIELD_OVERRIDES = {
     'japanese': 'nameJapanese',
     'translated': 'nameTranslated',
     'colour': 'color',
+    'card effect(s)': 'cardEffects',
+    'alt. digivolution requirements': 'altDigivolutionRequirements',
 }
 
 
@@ -49,9 +52,16 @@ def wiki_url(path: str | None) -> str | None:
 
 
 def camel_case(s: str) -> str:
+  override = MANUAL_FIELD_OVERRIDES.get(s.lower())
+  if override is not None:
+    return override
+
   parts = re.split(r'[\s_-]+', s)
-  camel_case = parts[0].lower() + ''.join(p.title() for p in parts[1:])
-  return MANUAL_FIELD_OVERRIDES.get(camel_case, camel_case)
+  return parts[0].lower() + ''.join(p.title() for p in parts[1:])
+
+
+def get_text(element) -> str:
+  return ''.join(element.css('::text').getall()).strip()
 
 
 def response_url_logger(log_level=logging.DEBUG):
@@ -131,7 +141,6 @@ class DCGWikiSpider(base_spider.BaseSpider):
   def parse_set_list(self, response):
     # Parses a page that has a list OF sets.
     # NOT a page that has a list of cards in a set.
-    # logging.info('GET %s | %s', response.status, response.url)
 
     paths = response.css('.NavFrame .setLink a::attr(href)').getall()
 
@@ -142,8 +151,6 @@ class DCGWikiSpider(base_spider.BaseSpider):
   @response_url_logger_INFO
   def parse_card_list(self, response):
     # Parses a page that has a list of cards.
-    # logging.info('GET %s | %s', response.status, response.url)
-
     card_paths = response.css('.cardlist th a::attr(href)').getall()
 
     for card_path in card_paths:
@@ -176,7 +183,8 @@ class DCGWikiSpider(base_spider.BaseSpider):
 
   @response_url_logger_DEBUG
   def parse_card_page(self, response):
-    # logging.debug('GET %s | %s', response.status, response.url)
+    response = response.replace(
+        body=re.sub(r"<br\s*/?>", '\n', response.text).encode())
 
     meta = response.meta
     card_num = meta.get('card_num')
@@ -188,10 +196,23 @@ class DCGWikiSpider(base_spider.BaseSpider):
     # TODO: handle special case with tabber (BT6-084)
     card_table = card_tables[0]
 
-    # FIXME: get main ctable data
+    data = self.parse_key_value_table(card_table.css('.info-main'),
+                                      ignore_header=True)
 
-    _, data = self.parse_key_value_table(card_table.css('.info-main'))
+    # automatically append for key collisions
+    for info_table in card_table.css('table')[1:]:
+      new_data = self.parse_key_value_table(info_table)
+      for key, val in new_data.items():
+        old_val = data.get(key)
+        if key in data:
+          if isinstance(old_val, list):
+            data[key].append(val)
+          else:
+            data[key] = [old_val, val]
+        else:
+          data[key] = val
 
+    data['setData'] = {}
     for lang in [Lang.EN, Lang.JP, Lang.CH, Lang.KR]:
       abbr = lang.abbr().lower()
       cls_name = f'.settable-{abbr}'
@@ -200,7 +221,7 @@ class DCGWikiSpider(base_spider.BaseSpider):
       if lang == Lang.EN or lang == Lang.JP:
         assert len(table) == 1, f"missing {cls_name}"
       if len(table) == 1:
-        data[f"setData_{abbr}"] = self.parse_generic_col_table(table[0])
+        data['setData'][abbr] = self.parse_generic_col_table(table[0])
 
     yield JSONItem(data, subpath=[set_id, card_num, 'card_data.json'])
 
@@ -215,13 +236,42 @@ class DCGWikiSpider(base_spider.BaseSpider):
         yield self.request(path, self.parse_card_errata, meta=meta)
 
   @staticmethod
+  def parse_key_value_table(table,
+                            ignore_header=False) -> tuple[str | None, dict]:
+    data = defaultdict(dict)
+    header_key = None
+
+    rows = table.css('tr')
+    for row in rows:
+      header_cell = row.css('th')
+      if header_cell and not row.css('td'):
+        if not ignore_header:
+          assert len(header_cell) == 1, f"expected 1 header cell per row"
+          header_text = get_text(header_cell[0])
+          header_key = camel_case(header_text)
+        continue
+
+      cells = row.css('th') + row.css('td')
+
+      if len(cells) == 1 and header_key:
+        data[header_key] = get_text(cells[0])
+      elif len(cells) == 2:
+        key_text = camel_case(get_text(cells[0]))
+        val_text = get_text(cells[1])
+        if header_key:
+          data[header_key][key_text] = val_text
+        else:
+          data[key_text] = val_text
+      else:
+        assert False, f"unexpected table row: {row}"
+
+    return dict(data)
+
+  @staticmethod
   def parse_generic_col_table(table) -> list[dict]:
     data = []
     header_cells = table.css('tr th')
-    headers = [
-        camel_case(''.join(h.css('::text').getall()).strip())
-        for h in header_cells
-    ]
+    headers = [camel_case(get_text(h)) for h in header_cells]
 
     rows = table.css('tr')[1:]  # skip header row
     for row in rows:
@@ -231,7 +281,7 @@ class DCGWikiSpider(base_spider.BaseSpider):
         assert i < len(headers), "more table cells than headers"
         header = headers[i]
 
-        cell_text = ''.join(cell.css('::text').getall()).strip()
+        cell_text = get_text(cell)
         cell_link = cell.css('a::attr(href)').get()
         if cell_link:
           item[header] = {'text': cell_text, 'link': wiki_url(cell_link)}
@@ -241,72 +291,53 @@ class DCGWikiSpider(base_spider.BaseSpider):
 
     return data
 
-  @staticmethod
-  def parse_key_value_table(table) -> tuple[str | None, dict]:
-    data = {}
-
-    header_text = None
-    header_cell = table.css('th')
-    if header_cell:
-      header_text = camel_case(''.join(
-          header_cell.css('::text').getall()).strip())
-
-    rows = table.css('tr')
-
-    for row in rows:
-      if row.css('th'):
-        # skip header row
-        continue
-
-      cells = row.css('td')
-      assert len(cells) == 2, f"expected 2 cells per row"
-
-      key_text = camel_case(''.join(cells[0].css('::text').getall()).strip())
-      val_text = ''.join(cells[1].css('::text').getall()).strip()
-      data[key_text] = val_text
-
-    return header_text, data
-
   @response_url_logger_DEBUG
   def parse_card_gallery(self, response):
-    # logging.debug('GET %s | %s', response.status, response.url)
-
     meta = response.meta
     card_num = meta.get('card_num')
     set_id = meta.get('set_id')
 
-    imgs = []
+    data = defaultdict(list)
 
-    gallery_items = response.css('.wikia-gallery-item')
-    for item in gallery_items:
-      # placeholders (eg, mid-reveal cards or other languages that haven't been
-      # populated yet)
-      empty_img = item.css('.thumb a.image-no-lightbox').get()
-      if empty_img:
-        continue
+    headers = response.css('.mw-content-ltr > h2')
+    galleries = response.css('.wikia-gallery')
 
-      wiki_file_path = item.css('.thumb a::attr(href)').get()
-      thumb_img = item.css('.thumb img.thumbimage')
-      img_name = thumb_img.xpath('@data-image-key').get()
-      thumb_url = item.css('.thumb img.thumbimage').xpath('@src').get()
-      full_url = self.full_img_for_thumb(thumb_url)
-      caption_text = thumb_img.xpath('@alt').get()
-      caption_link = item.css('.lightbox-caption a::attr(href)').get()
-      if 'cb=' in full_url:
-        ts = full_url.split('cb=')[-1]
-        upload_date = datetime.datetime.strptime(ts, '%Y%m%d%H%M%S').isoformat()
+    assert len(headers) == len(galleries), \
+          f"mismatched gallery headers ({len(headers)} != {len(galleries)})"
 
-      imgs.append({
-          'imgName': img_name,
-          'imgURL': full_url,
-          'filePage': wiki_url(wiki_file_path),
-          'uploadDate': upload_date,
-          'captionText': caption_text,
-          'captionLink': wiki_url(caption_link)
-      })
+    for (header, gallery) in zip(headers, galleries):
+      region_name = get_text(header.css('.mw-headline')).lower()
+      region_abbr = Lang.abbr_from_full(region_name).lower()
+      items = gallery.css('.wikia-gallery-item')
+
+      for item in items:
+        # placeholders (eg, mid-reveal cards or other languages that haven't been
+        # populated yet)
+        empty_img = item.css('.thumb a.image-no-lightbox').get()
+        if empty_img:
+          continue
+
+        wiki_file_path = item.css('.thumb a::attr(href)').get()
+        thumb_img = item.css('.thumb img.thumbimage')
+        img_name = thumb_img.xpath('@data-image-key').get()
+        thumb_url = item.css('.thumb img.thumbimage').xpath('@src').get()
+        full_url = self.full_img_for_thumb(thumb_url)
+        caption_text = thumb_img.xpath('@alt').get()
+        caption_link = item.css('.lightbox-caption a::attr(href)').get()
+        if 'cb=' in full_url:
+          ts = full_url.split('cb=')[-1]
+          upload_date = datetime.strptime(ts, '%Y%m%d%H%M%S').isoformat()
+
+        data[region_abbr].append({
+            'imgName': img_name,
+            'imgURL': full_url,
+            'filePage': wiki_url(wiki_file_path),
+            'uploadDate': upload_date,
+            'captionText': caption_text,
+            'captionLink': wiki_url(caption_link)
+        })
 
     # FIXME: store this in a main json file instead
-    data = {'images': imgs}
     yield JSONItem(data, subpath=[set_id, card_num, 'gallery_images.json'])
 
   @staticmethod
@@ -315,8 +346,6 @@ class DCGWikiSpider(base_spider.BaseSpider):
 
   @response_url_logger_DEBUG
   def parse_card_rulings(self, response):
-    # logging.debug('GET %s | %s', response.status, response.url)
-
     meta = response.meta
     card_num = meta.get('card_num')
     set_id = meta.get('set_id')
@@ -326,9 +355,9 @@ class DCGWikiSpider(base_spider.BaseSpider):
 
     rulings = []
     for item in ruling_items:
-      question = ''.join(item.css('.question-body ::text').getall())
-      answer = ''.join(item.css('.answer-body ::text').getall())
-      ref = ''.join(item.css('sup ::text').getall())
+      question = get_text(item.css('.question-body'))
+      answer = get_text(item.css('.answer-body'))
+      ref = get_text(item.css('sup'))
 
       rulings.append({
           'question': question,
@@ -341,7 +370,7 @@ class DCGWikiSpider(base_spider.BaseSpider):
     for i, item in enumerate(reference_items):
       ref_body = item.css('.reference-text')
       ref_number = i + 1  # not 0-based index
-      ref_text = ''.join(ref_body.css('::text').getall())
+      ref_text = get_text(ref_body)
       ref_link = ref_body.css('a::attr(href)').get()
       references.append({
           'num': ref_number,
@@ -354,8 +383,6 @@ class DCGWikiSpider(base_spider.BaseSpider):
 
   @response_url_logger_DEBUG
   def parse_card_errata(self, response):
-    # logging.debug('GET %s | %s', response.status, response.url)
-
     meta = response.meta
     card_num = meta.get('card_num')
     set_id = meta.get('set_id')
@@ -373,8 +400,8 @@ class DCGWikiSpider(base_spider.BaseSpider):
     data = []
 
     for table in tables:
-      before_text = ''.join(table.css('.before-text ::text').getall())
-      after_text = ''.join(table.css('.after-text ::text').getall())
+      before_text = get_text(table.css('.before-text'))
+      after_text = get_text(table.css('.after-text'))
 
       before_thumb_url = table.css('.before-image img').xpath('@src').get()
       after_thumb_url = table.css('.after-image img').xpath('@src').get()
