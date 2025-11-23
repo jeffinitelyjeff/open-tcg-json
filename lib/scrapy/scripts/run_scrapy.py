@@ -3,7 +3,8 @@ import logging
 import os
 import sys
 
-from scrapy import crawler
+from scrapy.crawler import CrawlerProcess
+from scrapy.exceptions import CloseSpider
 from scrapy.utils import project
 
 from .. import scrapy_util
@@ -14,8 +15,6 @@ SPIDERS = {
     "tcg_plus": tcg_plus.TCGPlusSpider,
     "dcg_wiki": dcg_wiki.DCGWikiSpider,
 }
-
-HIT_ERROR = False
 
 
 def main():
@@ -28,9 +27,6 @@ def main():
   logging.info("CLI args: %s", args)
 
   run_spiders(scrapy_settings, args)
-
-  if HIT_ERROR:
-    sys.exit(1)
 
 
 def get_cli_args() -> argparse.Namespace:
@@ -63,16 +59,23 @@ def set_up_logs(project_settings: project.Settings):
 
 
 def run_spiders(scrapy_settings: project.Settings, args: argparse.Namespace):
-  process = crawler.CrawlerProcess(scrapy_settings)
+  process = CrawlerProcess(scrapy_settings)
+
+  crawlers = []
 
   for spider_name, spider in SPIDERS.items():
     if args.all or getattr(args, spider_name):
       logging.info("Spider %s ==> start", spider_name)
-      process.crawl(spider)
+      crawler = process.create_crawler(spider)
+      crawlers.append(crawler)
+      process.crawl(crawler)
     else:
       logging.info("Spider %s ==> ❌ skipped", spider_name)
 
   process.start()
+
+  if any(crawler.stats.get_value('log_count/ERROR') for crawler in crawlers):
+    raise CloseSpider
 
 
 if __name__ == '__main__':
