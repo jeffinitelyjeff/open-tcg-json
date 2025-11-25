@@ -168,12 +168,11 @@ class DCGWikiSpider(base_spider.BaseSpider):
         # duplicates will be encountered whenever an older card gets a new
         # alt art alongside a new set (as a box topper, etc).
         continue
-
-      yield JSONLItem(card_path,
-                      card_num,
-                      subpath=[set_id, '[cardPages].jsonl'])
-
       self.seen_cards.add(card_num)
+
+      # yield JSONLItem(card_path,
+      #                 card_num,
+      #                 subpath=[set_id, '[cardPages].jsonl'])
 
       if DEBUG_ON and card_num not in DEBUG_CARDS:
         continue
