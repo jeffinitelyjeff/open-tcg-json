@@ -1,18 +1,44 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.2 w/[Appmon] trait: Cost 0",
+  "attribute": "System",
   "blockIcon": "05",
+  "cardEffects": "＜Blocker＞ (This Digimon can block in the blocker timing.)",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "2000 DP",
+  "form": "Stnd./Appmon",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+        "captionText": "BT-24: Booster Time Stranger (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT24-053-Sample.png",
+        "imgName": "BT24-053-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/dd/BT24-053-Sample.png/revision/latest?cb=20251129123046",
+        "uploadDate": "2025-11-29T12:30:46"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/dd/BT24-053-Sample.png/revision/latest?cb=20251129123046",
+  "level": "3",
+  "linkDp": "<< +2000 DP",
+  "linkEffect": "＜Blocker＞ (This Digimon can block in the blocker timing.)",
+  "linkRequirements": "[Link] [Appmon] trait: Cost 1 \n(Plug this card from the hand or battle area sideways into the specified Digimon in the battle area.)",
+  "name": "Protecmon",
+  "nameJapanese": "プロテクモン",
+  "playCost": "3",
+  "rarity": "Common",
   "setData": {
     "ch": [
       {
@@ -20,10 +46,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hokuyuu",
+          "text": "hokuyuu"
         }
       }
     ],
@@ -33,10 +59,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hokuyuu",
+          "text": "hokuyuu"
         }
       }
     ],
@@ -46,10 +72,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hokuyuu",
+          "text": "hokuyuu"
         }
       }
     ],
@@ -59,12 +85,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hokuyuu",
+          "text": "hokuyuu"
         }
       }
     ]
-  }
+  },
+  "type": "Security (App Name)"
 }
