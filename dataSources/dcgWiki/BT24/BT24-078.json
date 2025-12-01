@@ -1,18 +1,50 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  [Creepymon]: Cost 2",
+  "attribute": "Virus",
   "blockIcon": "05",
+  "cardEffects": "[Trash] [Your Turn] When one of your [Creepymon] attacks, if your opponent has 10 or more cards in their trash, by digivolving it into this card without paying the cost, trash your opponent's top security card.\n[When Digivolving] Delete all of your opponent's lowest level Digimon. Then, you may play up to 4 play cost's total worth of [Evil] or [Fallen Angel] trait cards from your trash without paying the cost. For every 10 cards in your opponent's trash, add 4 to this effect's play cost maximum.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "5",
+    "level": "5"
+  },
+  "dp": "13000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+        "captionText": "BT-24: Booster Time Stranger (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT24-078-Sample.png",
+        "imgName": "BT24-078-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/38/BT24-078-Sample.png/revision/latest?cb=20251130075620",
+        "uploadDate": "2025-11-30T07:56:20"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+        "captionText": "BT-24: Booster Time Stranger (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT24-078_P1-Sample.png",
+        "imgName": "BT24-078_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/ff/BT24-078_P1-Sample.png/revision/latest?cb=20251130075451",
+        "uploadDate": "2025-11-30T07:54:51"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/3/38/BT24-078-Sample.png/revision/latest?cb=20251130075620",
+  "level": "6",
+  "name": "Creepymon (X Antibody)",
+  "nameJapanese": "デーモンX抗体",
+  "nameTranslated": "Demon (X Antibody)",
+  "playCost": "13",
+  "rarity": "Super Rare",
   "setData": {
     "ch": [
       {
@@ -20,10 +52,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kakiken",
+          "text": "Kakiken"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+          "text": "BT-24: Booster Time Stranger"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
         }
       }
     ],
@@ -33,10 +76,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kakiken",
+          "text": "Kakiken"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+          "text": "BT-24: Booster Time Stranger"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
         }
       }
     ],
@@ -46,10 +100,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kakiken",
+          "text": "Kakiken"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+          "text": "BT-24: Booster Time Stranger"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
         }
       }
     ],
@@ -59,12 +124,24 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kakiken",
+          "text": "Kakiken"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+          "text": "BT-24: Booster Time Stranger"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
         }
       }
     ]
-  }
+  },
+  "type": "Demon Lord/X Antibody/Seven Great Demon Lords"
 }

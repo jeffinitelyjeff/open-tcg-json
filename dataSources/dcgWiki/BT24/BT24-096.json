@@ -1,18 +1,31 @@
 {
   "blockIcon": "05",
+  "cardEffects": "[Trash] [Your Turn] When any of your Digimon digivolve into [Creepymon (X Antibody)], by returning this card to the bottom of the deck, activate its [Main] effects.\n[Main] Delete 1 of your opponent's level 6 or higher Digimon. If this effect didn't delete, trash the top 3 cards of your opponent's deck.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Option",
+  "color": "Purple",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+        "captionText": "BT-24: Booster Time Stranger (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT24-096-Sample.png",
+        "imgName": "BT24-096-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/97/BT24-096-Sample.png/revision/latest?cb=20251130183706",
+        "uploadDate": "2025-11-30T18:37:06"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/97/BT24-096-Sample.png/revision/latest?cb=20251130183706",
+  "name": "Seventh Graviton",
+  "nameJapanese": "セブンス・グラビトン",
+  "rarity": "Rare",
+  "securityEffect": "[Security] Activate this card's [Main] effects.",
   "setData": {
     "ch": [
       {
@@ -20,10 +33,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:KISUKE",
+          "text": "KISUKE"
         }
       }
     ],
@@ -33,10 +46,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:KISUKE",
+          "text": "KISUKE"
         }
       }
     ],
@@ -46,10 +59,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:KISUKE",
+          "text": "KISUKE"
         }
       }
     ],
@@ -59,12 +72,14 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:KISUKE",
+          "text": "KISUKE"
         }
       }
     ]
-  }
+  },
+  "type": "Seven Great Demon Lords",
+  "useCost": "7"
 }
