@@ -1,0 +1,91 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [Kimeramon]: Cost 6 \n[DNA Digivolve] [Kimeramon] + [Machinedramon] : Cost 0\nStack the 2 specified Digimon and digivolve unsuspended.",
+  "assemblyRequirements": "[Assembly -6] 3 [Composite]/[Ver.3]/[Ver.5] trait Digimon cards w/different levels\nWhen this would be played, by placing the specified cards from the trash under it, reduce the play cost.",
+  "attribute": "Virus",
+  "blockIcon": "05",
+  "cardEffects": "＜Reboot＞ (Unsuspend this Digimon during your opponent's unsuspend phase.)\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Play] [When Digivolving] ＜De-Digivolve  2＞ 1 of your opponent's Digimon. (Trash up to 2 cards from the top. You can't trash past level 3 cards.) Then, you may delete 1 Digimon.\n[On Deletion] By returning 3 [Composite], [Wicked God] or [DM] cards from your trash to the bottom of the deck, you may play 2 level 6 or lower [Composite], [Ver.3] or [Ver.5] Digimon cards from your trash without paying the costs. This effect can't play cards of the same level.",
+  "cardRestriction": {
+    "chinese": "Not released",
+    "english": "Not released",
+    "korean": "Not released",
+    "nameJapanese": "Not released"
+  },
+  "cardType": "Digimon",
+  "color": "Red / Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "4",
+      "level": "6"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "6"
+    }
+  ],
+  "dp": "14000 DP",
+  "form": "Mega",
+  "galleryImages": {},
+  "image": null,
+  "level": "7",
+  "name": "Millenniummon",
+  "nameJapanese": "ミレニアモン",
+  "playCost": "14",
+  "rarity": "Promo",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2026",
+          "text": "Update Pack 2026"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Souichirou_Gunjima",
+          "text": "Souichirou Gunjima"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2026",
+          "text": "Update Pack 2026"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Souichirou_Gunjima",
+          "text": "Souichirou Gunjima"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2026",
+          "text": "Update Pack 2026"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Souichirou_Gunjima",
+          "text": "Souichirou Gunjima"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack_2026",
+          "text": "Update Pack 2026"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Souichirou_Gunjima",
+          "text": "Souichirou Gunjima"
+        }
+      }
+    ]
+  },
+  "type": "Composite/DM/Ver.3/Ver.5"
+}
