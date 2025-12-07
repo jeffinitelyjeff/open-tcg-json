@@ -1,18 +1,56 @@
 {
+  "altDigivolutionRequirements": "[App Fusion] [Docmon] & [Medicmon]: Cost 0\nIf 2 such cards are linked together, stack the link card on top and digivolve.",
+  "attribute": "Life",
   "blockIcon": "05",
+  "cardEffects": "＜Fortitude＞ (When this Digimon with digivolution cards is deleted, play this card without paying the cost.)\n[On Play] [When Digivolving] You may link 1 level 4 or lower Digimon card from your hand or this Digimon's digivolution cards to this Digimon without paying the cost.\n[All Turns] [Once Per Turn] When this Digimon gets linked, 1 of your opponent's Digimon gets -7000 DP for the turn.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Yellow / Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "All",
+      "digivolveCost": "4",
+      "form": "Sup."
+    }
+  ],
+  "dp": "8000 DP",
+  "form": "Ult./Appmon",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+        "captionText": "BT-24: Booster Time Stranger (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT24-038-Sample.png",
+        "imgName": "BT24-038-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d4/BT24-038-Sample.png/revision/latest?cb=20251206060042",
+        "uploadDate": "2025-12-06T06:00:42"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d4/BT24-038-Sample.png/revision/latest?cb=20251206060042",
+  "level": "5",
+  "linkDp": "<< +4000 DP",
+  "linkEffect": "[When Linking] 1 of your opponent's Digimon gets -7000 DP for the turn.",
+  "linkRequirements": "[Link] [Appmon] trait: Cost 3 \n(Plug this card from the hand or battle area sideways into the specified Digimon in the battle area.)",
+  "name": "Biomon",
+  "nameJapanese": "バイオモン",
+  "playCost": "8",
+  "rarity": "Rare",
   "setData": {
     "ch": [
       {
@@ -20,10 +58,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Moyasi",
+          "text": "Moyasi"
         }
       }
     ],
@@ -33,10 +71,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Moyasi",
+          "text": "Moyasi"
         }
       }
     ],
@@ -46,10 +84,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Moyasi",
+          "text": "Moyasi"
         }
       }
     ],
@@ -59,12 +97,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Moyasi",
+          "text": "Moyasi"
         }
       }
     ]
-  }
+  },
+  "type": "Life (App Name)"
 }
