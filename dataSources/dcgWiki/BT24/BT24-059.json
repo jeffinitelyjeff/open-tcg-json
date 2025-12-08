@@ -1,18 +1,50 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]   Lv.4 w/[Aqua] or [Sea Animal] in any trait or w/[TS] trait: Cost 3",
+  "attribute": "Virus",
   "blockIcon": "05",
+  "cardEffects": "[On Play] [When Digivolving] ＜De-Digivolve  1＞ 1 of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.)\n[On Deletion] Reveal the top 3 cards of your deck. You may play 1 play cost 7 or lower [TS] trait card suspended among them without paying the cost. Trash the rest.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Black / Blue",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+        "captionText": "BT-24: Booster Time Stranger (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT24-059-Sample.png",
+        "imgName": "BT24-059-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/89/BT24-059-Sample.png/revision/latest?cb=20251207124307",
+        "uploadDate": "2025-12-07T12:43:07"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/89/BT24-059-Sample.png/revision/latest?cb=20251207124307",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] By placing 1 of your other Digimon as this Digimon's bottom digivolution card, it unsuspends.",
+  "level": "5",
+  "name": "Sharkmon",
+  "nameJapanese": "シャークモン",
+  "playCost": "7",
+  "rarity": "Rare",
+  "rule": "[Rule] Trait: Has [Aquatic] Type.",
   "setData": {
     "ch": [
       {
@@ -20,10 +52,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
         }
       }
     ],
@@ -33,10 +65,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
         }
       }
     ],
@@ -46,10 +78,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
         }
       }
     ],
@@ -59,12 +91,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
         }
       }
     ]
-  }
+  },
+  "type": "Cyborg/Titan/TS"
 }

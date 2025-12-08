@@ -1,18 +1,48 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  [Armadillomon]/Lv.3 w/[TS] trait: Cost 2",
+  "attribute": "Free",
   "blockIcon": "05",
+  "cardEffects": "＜Armor Purge＞  (When this Digimon would be deleted, you may trash the top card of this Digimon to prevent that deletion.)\n[When Attacking] [Once Per Turn] You may play 1 Tamer card with the [TS] trait from your hand with the play cost reduced by 2.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Blue / Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Armor Form",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+        "captionText": "BT-24: Booster Time Stranger (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT24-024-Sample.png",
+        "imgName": "BT24-024-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cf/BT24-024-Sample.png/revision/latest?cb=20251207003225",
+        "uploadDate": "2025-12-07T00:32:25"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cf/BT24-024-Sample.png/revision/latest?cb=20251207003225",
+  "level": "4",
+  "name": "Submarimon",
+  "nameJapanese": "サブマリモン",
+  "playCost": "5",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -20,10 +50,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:BIRU_YAMAGUCHI",
+          "text": "BIRU YAMAGUCHI"
         }
       }
     ],
@@ -33,10 +63,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:BIRU_YAMAGUCHI",
+          "text": "BIRU YAMAGUCHI"
         }
       }
     ],
@@ -46,10 +76,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:BIRU_YAMAGUCHI",
+          "text": "BIRU YAMAGUCHI"
         }
       }
     ],
@@ -59,12 +89,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:BIRU_YAMAGUCHI",
+          "text": "BIRU YAMAGUCHI"
         }
       }
     ]
-  }
+  },
+  "type": "Aquatic/Iliad/TS"
 }
