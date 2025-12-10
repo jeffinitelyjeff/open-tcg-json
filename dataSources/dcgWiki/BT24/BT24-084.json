@@ -1,18 +1,40 @@
 {
   "blockIcon": "05",
+  "cardEffects": "[Start of Your Main Phase] If you have 4 or less memory, gain 1 memory.\n[All Turns] When your security stack is removed from, by suspending this Tamer, 1 of your [Aegiomon] may digivolve into a Digimon card with [Aegiochusmon] in its name in the hand without paying the cost.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Tamer",
+  "color": "Yellow",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+        "captionText": "BT-24: Booster Time Stranger (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT24-084-Sample.png",
+        "imgName": "BT24-084-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0e/BT24-084-Sample.png/revision/latest?cb=20251209060118",
+        "uploadDate": "2025-12-09T06:01:18"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+        "captionText": "BT-24: Booster Time Stranger (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT24-084_P1-Sample.png",
+        "imgName": "BT24-084_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/95/BT24-084_P1-Sample.png/revision/latest?cb=20251209060106",
+        "uploadDate": "2025-12-09T06:01:06"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0e/BT24-084-Sample.png/revision/latest?cb=20251209060118",
+  "name": "Inori Misono",
+  "nameJapanese": "御園イノリ",
+  "playCost": "3",
+  "rarity": "Super Rare",
+  "securityEffect": "[Security] Play this card without paying the cost.",
   "setData": {
     "ch": [
       {
@@ -20,10 +42,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+          "text": "BT-24: Booster Time Stranger"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
         }
       }
     ],
@@ -33,10 +66,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+          "text": "BT-24: Booster Time Stranger"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
         }
       }
     ],
@@ -46,10 +90,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+          "text": "BT-24: Booster Time Stranger"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
         }
       }
     ],
@@ -59,12 +114,24 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+          "text": "BT-24: Booster Time Stranger"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
         }
       }
     ]
-  }
+  },
+  "type": "TS"
 }

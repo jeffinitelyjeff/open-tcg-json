@@ -1,18 +1,40 @@
 {
   "blockIcon": "05",
+  "cardEffects": "[Start of Your Turn] If you have 4 or less memory, by returning this Tamer to the bottom of the deck, you may play 1 [Hiroko Sagisaka] or 1 [TS] trait Digimon card with 5000 DP or less from your hand without paying the cost.\n[On Play] Reveal the top 3 cards of your deck. Add 1 card with the [TS] trait among them to the hand. Return the rest to the bottom of the deck.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Tamer",
+  "color": "Red",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+        "captionText": "BT-24: Booster Time Stranger (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT24-083-Sample.png",
+        "imgName": "BT24-083-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/19/BT24-083-Sample.png/revision/latest?cb=20251209123101",
+        "uploadDate": "2025-12-09T12:31:01"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+        "captionText": "BT-24: Booster Time Stranger (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT24-083_P1-Sample.png",
+        "imgName": "BT24-083_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2b/BT24-083_P1-Sample.png/revision/latest?cb=20251209123103",
+        "uploadDate": "2025-12-09T12:31:03"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/19/BT24-083-Sample.png/revision/latest?cb=20251209123101",
+  "name": "Hiroko Sagisaka",
+  "nameJapanese": "鷺坂ヒロコ",
+  "playCost": "3",
+  "rarity": "Rare",
+  "securityEffect": "[Security] Play this card without paying the cost.",
   "setData": {
     "ch": [
       {
@@ -20,10 +42,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+          "text": "BT-24: Booster Time Stranger"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
         }
       }
     ],
@@ -33,10 +66,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+          "text": "BT-24: Booster Time Stranger"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
         }
       }
     ],
@@ -46,10 +90,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+          "text": "BT-24: Booster Time Stranger"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
         }
       }
     ],
@@ -59,12 +114,24 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+          "text": "BT-24: Booster Time Stranger"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
         }
       }
     ]
-  }
+  },
+  "type": "TS"
 }
