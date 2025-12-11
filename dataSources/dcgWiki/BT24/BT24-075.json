@@ -1,18 +1,42 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Demon]/[TS] trait: Cost 3",
+  "attribute": "Ultimate",
   "blockIcon": "05",
+  "cardEffects": "[On Play] [When Digivolving] By trashing 1 card in your hand, delete 1 each of your opponent's level 3 and level 4 Digimon.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+        "captionText": "BT-24: Booster Time Stranger (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT24-075-Sample.png",
+        "imgName": "BT24-075-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/70/BT24-075-Sample.png/revision/latest?cb=20251210142706",
+        "uploadDate": "2025-12-10T14:27:06"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/70/BT24-075-Sample.png/revision/latest?cb=20251210142706",
+  "inheritedEffect": "[Your Turn] While this Digimon is [Titamon] or has the [Titan] trait, it gains ＜Security A. +1}＞  (This Digimon checks 1} additional security cards.).",
+  "level": "5",
+  "name": "SkullBaluchimon",
+  "nameJapanese": "スカルバルキモン",
+  "playCost": "6",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -20,10 +44,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
         }
       }
     ],
@@ -33,10 +57,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
         }
       }
     ],
@@ -46,10 +70,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
         }
       }
     ],
@@ -59,12 +83,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
         }
       }
     ]
-  }
+  },
+  "type": "Undead/X Antibody/Titan/TS"
 }

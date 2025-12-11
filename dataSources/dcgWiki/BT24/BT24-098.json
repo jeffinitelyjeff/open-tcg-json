@@ -1,18 +1,31 @@
 {
   "blockIcon": "05",
+  "cardEffects": "[Main] ＜Draw 2＞ (Draw 2 cards from your deck.) and trash 2 cards in your hand. Then, place this card in the battle area.\n[Your Turn] When any of your [Titan] trait Digimon are played, ＜Delay＞ (By trashing this card after the placing turn, activate the effect below.)\n・If your opponent has 5 or more memory, you may play 1 level 5 or lower Digimon card with the [Titan] trait from your trash without paying the cost.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Option",
+  "color": "Purple",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+        "captionText": "BT-24: Booster Time Stranger (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT24-098-Sample.png",
+        "imgName": "BT24-098-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/db/BT24-098-Sample.png/revision/latest?cb=20251210074209",
+        "uploadDate": "2025-12-10T07:42:09"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/db/BT24-098-Sample.png/revision/latest?cb=20251210074209",
+  "name": "Invasion of the Titans",
+  "nameJapanese": "タイタン族の侵攻",
+  "rarity": "Uncommon",
+  "securityEffect": "[Security] You may play 1 level 4 or lower [Titan] trait Digimon card from your hand or trash without paying the cost. Then, add this card to the hand.",
   "setData": {
     "ch": [
       {
@@ -20,10 +33,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "Itohiro"
         }
       }
     ],
@@ -33,10 +46,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "Itohiro"
         }
       }
     ],
@@ -46,10 +59,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "Itohiro"
         }
       }
     ],
@@ -59,12 +72,14 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "Itohiro"
         }
       }
     ]
-  }
+  },
+  "type": "Titan/TS",
+  "useCost": "3"
 }

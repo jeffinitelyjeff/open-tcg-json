@@ -1,18 +1,42 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Demon]/[TS] trait: Cost 3",
+  "attribute": "Ultimate",
   "blockIcon": "05",
+  "cardEffects": "[On Play] [When Digivolving] By trashing 1 card in your hand, until your opponent's turn ends, 1 of your Digimon with the [Demon], [Shaman] or [Titan] trait gains ＜Blocker＞ (This Digimon can block in the blocker timing.) and ＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling.).\n[On Deletion] You may play 1 level 4 or lower [Demon] or [Titan] trait Digimon card from your trash without paying the cost.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+        "captionText": "BT-24: Booster Time Stranger (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT24-072-Sample.png",
+        "imgName": "BT24-072-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/82/BT24-072-Sample.png/revision/latest?cb=20251210143033",
+        "uploadDate": "2025-12-10T14:30:33"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/82/BT24-072-Sample.png/revision/latest?cb=20251210143033",
+  "inheritedEffect": "[Your Turn] While this Digimon is [Titamon] or has the [Titan] trait, it gains ＜Security A. +1}＞  (This Digimon checks 1} additional security cards.).",
+  "level": "5",
+  "name": "SkullGreymon",
+  "nameJapanese": "スカルグレイモン",
+  "playCost": "7",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -20,10 +44,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       }
     ],
@@ -33,10 +57,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       }
     ],
@@ -46,10 +70,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       }
     ],
@@ -59,12 +83,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       }
     ]
-  }
+  },
+  "type": "Undead/Titan/TS"
 }
