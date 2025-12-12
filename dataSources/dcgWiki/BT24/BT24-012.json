@@ -10,10 +10,26 @@
   },
   "cardType": "Digimon",
   "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "2",
+    "level": "3"
+  },
   "dp": "4000 DP",
   "form": "Champion",
-  "galleryImages": {},
-  "image": null,
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+        "captionText": "BT-24: Booster Time Stranger (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT24-012-Sample.png",
+        "imgName": "BT24-012-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f8/BT24-012-Sample.png/revision/latest?cb=20251211003721",
+        "uploadDate": "2025-12-11T00:37:21"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f8/BT24-012-Sample.png/revision/latest?cb=20251211003721",
   "inheritedEffect": "[Your Turn] [Once Per Turn] When your opponent's security stack is removed from, gain 1 memory.",
   "level": "4",
   "name": "Dimetromon",
