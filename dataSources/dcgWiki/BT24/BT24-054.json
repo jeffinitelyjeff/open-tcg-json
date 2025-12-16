@@ -1,18 +1,49 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  [Kyokyomon]/Lv.2 w/[DigiPolice] trait/[SEEKERS] trait: Cost 0",
+  "attribute": "Vaccine",
   "blockIcon": "05",
+  "cardEffects": "[Your Turn] When any of your [Shuu Yulin]s are played, this Digimon may digivolve into [Hisyaryumon] in the hand for a digivolution cost of 3, ignoring digivolution requirements.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Black / Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "1",
+      "level": "2"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "1",
+      "level": "2"
+    }
+  ],
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+        "captionText": "BT-24: Booster Time Stranger (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT24-054-Sample.png",
+        "imgName": "BT24-054-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/ba/BT24-054-Sample.png/revision/latest?cb=20251215143343",
+        "uploadDate": "2025-12-15T14:33:43"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/ba/BT24-054-Sample.png/revision/latest?cb=20251215143343",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When this Digimon suspends, suspend 1 of your opponent's Digimon or Tamers with as high or lower a play cost as this Digimon.",
+  "level": "3",
+  "name": "Ryudamon",
+  "nameJapanese": "リュウダモン",
+  "playCost": "3",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -20,10 +51,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kariki_Hajime",
+          "text": "Kariki Hajime"
         }
       }
     ],
@@ -33,10 +64,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kariki_Hajime",
+          "text": "Kariki Hajime"
         }
       }
     ],
@@ -46,10 +77,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kariki_Hajime",
+          "text": "Kariki Hajime"
         }
       }
     ],
@@ -59,12 +90,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kariki_Hajime",
+          "text": "Kariki Hajime"
         }
       }
     ]
-  }
+  },
+  "type": "Beast/X Antibody/DigiPolice/SEEKERS"
 }
