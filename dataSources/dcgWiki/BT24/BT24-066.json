@@ -1,18 +1,43 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  [Gigimon]: Cost 0",
+  "attribute": "Virus",
   "blockIcon": "05",
+  "cardEffects": "[On Play] Reveal the top 3 cards of your deck. Among them, add 1 [Evil], [Dark Dragon], [Evil Dragon] or [Dark Knight] trait card or purple Tamer card to the hand and trash 1 such card. Return the rest to the bottom of the deck. Then, trash 1 card in your hand.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+        "captionText": "BT-24: Booster Time Stranger (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT24-066-Sample.png",
+        "imgName": "BT24-066-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/20/BT24-066-Sample.png/revision/latest?cb=20251217064708",
+        "uploadDate": "2025-12-17T06:47:08"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/20/BT24-066-Sample.png/revision/latest?cb=20251217064708",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] Delete 1 of your opponent's level 3 Digimon.",
+  "level": "3",
+  "name": "Guilmon",
+  "nameJapanese": "ギルモン",
+  "playCost": "3",
+  "rarity": "Common",
+  "rule": "[Rule] Trait: Has [Evil] Type.",
   "setData": {
     "ch": [
       {
@@ -20,10 +45,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ],
@@ -33,10 +58,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ],
@@ -46,10 +71,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ],
@@ -59,12 +84,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ]
-  }
+  },
+  "type": "Reptile"
 }

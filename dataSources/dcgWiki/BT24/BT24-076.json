@@ -1,18 +1,42 @@
 {
+  "attribute": "Virus",
   "blockIcon": "05",
+  "cardEffects": "[Trash] [Main] If you have 4 or fewer cards in your hand, play this card with the play cost reduced by 2.\n[On Play] [When Digivolving] Delete 1 of your opponent's level 4 or lower Digimon.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+        "captionText": "BT-24: Booster Time Stranger (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT24-076-Sample.png",
+        "imgName": "BT24-076-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b7/BT24-076-Sample.png/revision/latest?cb=20251217145514",
+        "uploadDate": "2025-12-17T14:55:14"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b7/BT24-076-Sample.png/revision/latest?cb=20251217145514",
+  "inheritedEffect": "[On Deletion] You may play 1 level 4 or lower [Dark Dragon] or [Evil Dragon] Digimon card from your trash without paying the cost.",
+  "level": "5",
+  "name": "WarGrowlmon",
+  "nameJapanese": "メガログラウモン",
+  "playCost": "7",
+  "rarity": "Common",
+  "rule": "[Rule] Trait: Has [Dark Dragon] Type.",
   "setData": {
     "ch": [
       {
@@ -20,10 +44,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ],
@@ -33,10 +57,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ],
@@ -46,10 +70,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ],
@@ -59,12 +83,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ]
-  }
+  },
+  "type": "Cyborg"
 }
