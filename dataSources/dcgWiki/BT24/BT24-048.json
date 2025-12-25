@@ -1,18 +1,41 @@
 {
+  "attribute": "Data",
   "blockIcon": "05",
+  "cardEffects": "＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Play] [When Digivolving] You may hatch in your breeding area. Then, 1 of your Digimon with [Avian] or [Bird] in any of its traits in the breeding area may digivolve into a level 5 or lower Digimon card with [Avian] or [Bird] in any of its traits in the hand without paying the cost.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "6000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
+        "captionText": "BT-24: Booster Time Stranger (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT24-048-Sample.png",
+        "imgName": "BT24-048-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b6/BT24-048-Sample.png/revision/latest?cb=20251224123256",
+        "uploadDate": "2025-12-24T12:32:56"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b6/BT24-048-Sample.png/revision/latest?cb=20251224123256",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When this Digimon deletes your opponent's Digimon in battle, it may unsuspend.",
+  "level": "5",
+  "name": "Deramon",
+  "nameJapanese": "デラモン",
+  "playCost": "6",
+  "rarity": "Rare",
   "setData": {
     "ch": [
       {
@@ -20,10 +43,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NAOKI_AKAMINE",
+          "text": "NAOKI AKAMINE"
         }
       }
     ],
@@ -33,10 +56,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NAOKI_AKAMINE",
+          "text": "NAOKI AKAMINE"
         }
       }
     ],
@@ -46,10 +69,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NAOKI_AKAMINE",
+          "text": "NAOKI AKAMINE"
         }
       }
     ],
@@ -59,12 +82,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-24:_Booster_Time_Stranger",
           "text": "BT-24: Booster Time Stranger"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NAOKI_AKAMINE",
+          "text": "NAOKI AKAMINE"
         }
       }
     ]
-  }
+  },
+  "type": "Avian"
 }
