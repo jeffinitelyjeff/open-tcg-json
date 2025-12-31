@@ -177,6 +177,10 @@ class DCGWikiSpider(base_spider.BaseSpider):
       if DEBUG_ON and card_num not in DEBUG_CARDS:
         continue
 
+      # ignore links for tokens that just go to the generic token page.
+      if card_path.endswith('/wiki/Token'):
+        continue
+
       yield self.request(card_path,
                          self.parse_card_page,
                          meta={
