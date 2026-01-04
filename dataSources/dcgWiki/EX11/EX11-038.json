@@ -1,18 +1,42 @@
 {
+  "attribute": "Virus",
   "blockIcon": "05",
+  "cardEffects": "[When Moving] [On Play] By trashing 1 [Mineral] or [Rock] trait card from your hand or your Digimon's digivolution cards, ＜Draw 1＞ (Draw 1 card from your deck.)",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-038-Sample.png",
+        "imgName": "EX11-038-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9c/EX11-038-Sample.png/revision/latest?cb=20260103080932",
+        "uploadDate": "2026-01-03T08:09:32"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9c/EX11-038-Sample.png/revision/latest?cb=20260103080932",
+  "inheritedEffect": "When effects trash this card from a [Mineral] or [Rock] trait Digimon's digivolution cards, ＜Draw 1＞ (Draw 1 card from your deck.)",
+  "level": "3",
+  "name": "Sunarizamon",
+  "nameJapanese": "スナリザモン",
+  "playCost": "3",
+  "rarity": "Common",
+  "rule": "[Rule] Trait: Has [Mineral] Type.",
   "setData": {
     "ch": [
       {
@@ -20,10 +44,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
         }
       }
     ],
@@ -33,10 +68,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
         }
       }
     ],
@@ -46,10 +92,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
         }
       }
     ],
@@ -59,12 +116,24 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
         }
       }
     ]
-  }
+  },
+  "type": "Reptile/LIBERATOR"
 }
