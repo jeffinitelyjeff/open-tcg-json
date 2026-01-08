@@ -1,18 +1,49 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Ice-Snow] trait: Cost 2",
+  "attribute": "Vaccine",
   "blockIcon": "05",
+  "cardEffects": "[When Digivolving] If you have 1 or fewer Tamers, you may play 1 [Suzune Kazuki] from your hand without paying the cost.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Blue / Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "6000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-015-Sample.png",
+        "imgName": "EX11-015-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/77/EX11-015-Sample.png/revision/latest?cb=20260107143715",
+        "uploadDate": "2026-01-07T14:37:15"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/77/EX11-015-Sample.png/revision/latest?cb=20260107143715",
+  "inheritedEffect": "＜Jamming＞ (This Digimon can't be deleted in battles against Security Digimon.)",
+  "level": "4",
+  "name": "Frigimon",
+  "nameJapanese": "ユキダルモン",
+  "playCost": "5",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -20,10 +51,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
         }
       }
     ],
@@ -33,10 +75,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
         }
       }
     ],
@@ -46,10 +99,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
         }
       }
     ],
@@ -59,12 +123,24 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
         }
       }
     ]
-  }
+  },
+  "type": "Ice-Snow/LIBERATOR"
 }
