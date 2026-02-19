@@ -12,7 +12,9 @@ on:
     branches:
       - "**"
   schedule:
-    # every day at midnight
+    # every hour (dcg_wiki)
+    - cron: "0 * * * *"
+    # daily at 00:00 UTC (tcg_plus)
     - cron: "0 0 * * *"
 jobs:
   start-notify:
@@ -41,8 +43,12 @@ jobs:
 
   poll-dcg-wiki:
     needs: start-notify
+    if: ${{ always() && (github.event_name != 'schedule' || github.event.schedule == '0 * * * *') }}
     timeout-minutes: 120
     runs-on: ubuntu-latest
+    env:
+      START_TS: ${{ needs.start-notify.outputs.start_ts }}
+      PYWIKIBOT_USERNAME: ${{ secrets.PYWIKIBOT_USERNAME }}
     outputs:
       commit_hash: ${{ steps.git-commit-dcg.outputs.commit_hash }}
     steps:
@@ -67,7 +73,45 @@ jobs:
       - name: install python dependencies
         run: poetry install --no-interaction --no-ansi
 
+      - name: read last_change timestamp
+        id: last_change
+        run: |
+          file_path="dataSources/dcgWiki/last_change.txt"
+          mkdir -p "$(dirname "$file_path")"
+          if [ ! -s "$file_path" ]; then
+            echo "1970-01-01T00:00:00+00:00" > "$file_path"
+          fi
+          timestamp=$(<"$file_path")
+          timestamp=${timestamp//$'\r'/}
+          timestamp=${timestamp//$'\n'/}
+          echo "Using last_change timestamp: $timestamp"
+          echo "LAST_CHANGE=$timestamp" >> "$GITHUB_ENV"
+          echo "timestamp=$timestamp" >> "$GITHUB_OUTPUT"
+
+      - name: decode pywikibot password
+        run: echo "${{ secrets.PYWIKIBOT_PASSWORD_BASE64 }}" | base64 -d > lib/pywikibot/user-password.py
+
+      - name: check dcg_wiki recent changes
+        id: recent_changes
+        run: |
+          mkdir -p logs
+          output_file="logs/recent_changes.txt"
+          poetry run python lib/pywikibot/recent_changes.py --since "${{ steps.last_change.outputs.timestamp }}" > "$output_file"
+          if [ -s "$output_file" ]; then
+            count=$(wc -l < "$output_file")
+          else
+            count=0
+          fi
+          echo "Detected $count change(s) since ${{ steps.last_change.outputs.timestamp }}"
+          echo "change_count=$count" >> "$GITHUB_OUTPUT"
+          if [ "$count" -gt 0 ]; then
+            echo "has_changes=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: run scrapy (dcg_wiki)
+        if: ${{ steps.recent_changes.outputs.has_changes == 'true' }}
         run: poetry run python -m lib.scrapy.scripts.run_scrapy --dcg_wiki
 
       - name: cancel workflow run on dcg_wiki failure
@@ -87,6 +131,11 @@ jobs:
           name: logs-dcg-wiki
           path: logs
 
+      - name: persist last_change timestamp
+        run: |
+          iso_ts=$(date -u -d "@$START_TS" +"%Y-%m-%dT%H:%M:%SZ")
+          echo "$iso_ts" > dataSources/dcgWiki/last_change.txt
+
       - name: pull latest changes with rebase
         run: |
           git fetch origin ${{ github.ref_name }}
@@ -100,7 +149,7 @@ jobs:
 
   poll-tcg-plus:
     needs: start-notify
-    if: always()
+    if: ${{ always() && (github.event_name != 'schedule' || github.event.schedule == '0 0 * * *') }}
     timeout-minutes: 120
     runs-on: ubuntu-latest
     outputs:
@@ -127,7 +176,20 @@ jobs:
       - name: install python dependencies
         run: poetry install --no-interaction --no-ansi
 
-      - name: run scrapy (tcg_plus)
+      - name: run scrapy (tcg_plus list-only)
+        run: poetry run python -m lib.scrapy.scripts.run_scrapy --tcg_plus --list-only
+
+      - name: detect tcg_plus changes
+        id: detect-tcg-plus-changes
+        run: |
+          if [[ -n "$(git status --porcelain dataSources/tcgPlus)" ]]; then
+            echo "has_changes=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: run scrapy (tcg_plus full)
+        if: ${{ steps.detect-tcg-plus-changes.outputs.has_changes == 'true' }}
         run: poetry run python -m lib.scrapy.scripts.run_scrapy --tcg_plus
 
       - name: cancel workflow run on tcg_plus failure

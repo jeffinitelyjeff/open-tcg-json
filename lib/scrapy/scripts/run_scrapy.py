@@ -39,6 +39,10 @@ def get_cli_args() -> argparse.Namespace:
                               action='store_true',
                               help=f'Run the {spider_name} spider.')
 
+  parser.add_argument('--list-only',
+                      action='store_true',
+                      help='Only fetch TCG+ card lists without details.')
+
   args = parser.parse_args()
   return args
 
@@ -61,7 +65,8 @@ def run_spiders(scrapy_settings: project.Settings, args: argparse.Namespace):
   selected_spiders = []
   for spider_name, spider in SPIDERS.items():
     if args.all or getattr(args, spider_name):
-      selected_spiders.append((spider_name, spider))
+      spider_kwargs = get_spider_kwargs(spider_name, args)
+      selected_spiders.append((spider_name, spider, spider_kwargs))
     else:
       logging.info("Spider %s ==> ❌ skipped", spider_name)
 
@@ -69,7 +74,18 @@ def run_spiders(scrapy_settings: project.Settings, args: argparse.Namespace):
     logging.info("No spiders selected; exiting.")
     return
 
+  if args.list_only and not any(name == 'tcg_plus'
+                                for name, _, _ in selected_spiders):
+    logging.info("--list-only flag ignored because tcg_plus spider was not selected")
+
   run_spiders_parallel(scrapy_settings, selected_spiders)
+
+
+def get_spider_kwargs(spider_name: str, args: argparse.Namespace) -> dict:
+  if spider_name == 'tcg_plus':
+    return {'list_only': args.list_only}
+
+  return {}
 
 
 def run_spiders_parallel(scrapy_settings: project.Settings, selected_spiders):
@@ -77,11 +93,11 @@ def run_spiders_parallel(scrapy_settings: project.Settings, selected_spiders):
 
   crawlers = []
 
-  for spider_name, spider in selected_spiders:
+  for spider_name, spider, spider_kwargs in selected_spiders:
     logging.info("Spider %s ==> start (parallel)", spider_name)
     crawler = process.create_crawler(spider)
     crawlers.append((crawler, spider_name))
-    process.crawl(crawler)
+    process.crawl(crawler, **spider_kwargs)
 
   process.start()
 

@@ -58,6 +58,14 @@ class TCGPlusSpider(base_spider.BaseSpider):
   output_dir = scrapy_util.ROOT_DIR / 'dataSources' / 'tcgPlus'
   clear_output_dir = True
 
+  def __init__(self, list_only: bool = False, *args, **kwargs):
+    super().__init__(*args, **kwargs)
+    self.list_only = list_only
+    if self.list_only:
+      logging.info("TCG+ spider running in list-only mode; skipping card detail requests")
+      # Keep prior card detail files so git status only reflects list diffs
+      self.clear_output_dir = False
+
   async def start(self):
     for game_id in GAME_ID_MAPPING:
       yield self.card_list_request(game_id)
@@ -114,7 +122,8 @@ class TCGPlusSpider(base_spider.BaseSpider):
         continue
 
       results[card_id] = card
-      yield self.card_detail_request(card_id, game_id)
+      if not self.list_only:
+        yield self.card_detail_request(card_id, game_id)
 
     new_offset = offset + LIMIT
     if new_offset < total_count:
