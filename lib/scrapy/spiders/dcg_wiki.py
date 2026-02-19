@@ -4,8 +4,11 @@ from datetime import datetime
 import functools
 import logging
 import re
+from urllib.parse import urlencode, urlparse, unquote
 
 import scrapy
+from scrapy.http import HtmlResponse
+from scrapy.selector import Selector
 
 from . import base_spider
 from .. import scrapy_util
@@ -13,6 +16,7 @@ from ..pipelines import JSONItem, JSONLItem, TextItem
 from ...langs import Lang
 
 WIKI_DOMAIN = "https://digimoncardgame.fandom.com"
+WIKI_API = f"{WIKI_DOMAIN}/api.php"
 
 SET_LIST_PATHS = [
     "/wiki/Booster_Packs",
@@ -108,7 +112,81 @@ class DCGWikiSpider(base_spider.BaseSpider):
     self.seen_cards: set[str] = set()
 
   def request(self, path, callback, **kwargs):
-    return scrapy.Request(WIKI_DOMAIN + path, callback=callback, **kwargs)
+    title = self._page_title_from_path(path)
+    assert title, f"invalid wiki path: {path}"
+    return self._api_parse_request(title, callback, **kwargs)
+
+  def _api_parse_request(self, title: str, callback, **kwargs):
+    params = {
+        'action': 'parse',
+        'format': 'json',
+        'formatversion': '2',
+        'prop': 'text',
+        'page': title,
+    }
+    url = f"{WIKI_API}?{urlencode(params)}"
+    wrapped_callback = self._wrap_parse_callback(callback)
+    return scrapy.Request(url, callback=wrapped_callback, **kwargs)
+
+  def _wrap_parse_callback(self, callback):
+
+    @functools.wraps(callback)
+    def handler(api_response, *args, **kwargs):
+      data = api_response.json()
+      parse_data = data.get('parse')
+      assert parse_data, f"no parse data for {api_response.url}"
+      html = parse_data.get('text') or ''
+      if isinstance(html, dict):
+        html = html.get('*', '')
+      assert html, f"empty html for {api_response.url}"
+
+      selector = Selector(text=html)
+      redirect_href = selector.css(
+          '.redirectMsg .redirectText a::attr(href)').get()
+      if redirect_href:
+        redirect_title = self._page_title_from_path(redirect_href)
+        current_title = parse_data.get('title')
+        if redirect_title and redirect_title != current_title:
+          new_meta = dict(api_response.request.meta or {})
+          chain = list(new_meta.get('_redirect_chain', []))
+          if redirect_title in chain:
+            raise RuntimeError(
+                f"Redirect loop detected ({chain} -> {redirect_title})")
+          chain.append(redirect_title)
+          new_meta['_redirect_chain'] = chain
+          return self._api_parse_request(redirect_title,
+                                         callback,
+                                         meta=new_meta)
+
+      page_title = parse_data.get('title', '')
+      page_url = wiki_url(f"/wiki/{page_title.replace(' ', '_')}")
+
+      html_response = HtmlResponse(url=page_url or api_response.url,
+                                   body=html.encode('utf-8'),
+                                   encoding='utf-8',
+                                   request=api_response.request,
+                                   status=api_response.status)
+
+      return callback(html_response, *args, **kwargs)
+
+    return handler
+
+  def _page_title_from_path(self, path: str | None) -> str | None:
+    if not path:
+      return None
+
+    if path.startswith(WIKI_DOMAIN):
+      parsed = urlparse(path)
+      path = parsed.path
+
+    path = path.split('?', 1)[0]
+    path = path.split('#', 1)[0]
+
+    if path.startswith('/wiki/'):
+      path = path[len('/wiki/'):]
+    path = path.lstrip('/')
+
+    return unquote(path) if path else None
 
   async def start(self):
     for path in CARD_LIST_PATHS:
@@ -338,14 +416,16 @@ class DCGWikiSpider(base_spider.BaseSpider):
   def parse_card_gallery(self, response):
     data = defaultdict(list)
 
-    headers = response.css('.mw-content-ltr > h2')
     galleries = response.css('.wikia-gallery')
 
-    assert len(headers) == len(galleries), \
-          f"mismatched gallery headers ({len(headers)} != {len(galleries)})"
-
-    for (header, gallery) in zip(headers, galleries):
-      region_name = get_text(header.css('.mw-headline')).lower()
+    for gallery in galleries:
+      header = gallery.xpath('preceding-sibling::*[self::h2 or self::p][1]')
+      if header:
+        headline = header.css('.mw-headline')
+        region_name = get_text(headline) if headline else get_text(header)
+      else:
+        region_name = ''
+      region_name = (region_name or '').lower()
       region_abbr = (Lang.abbr_from_full(region_name) or "").lower()
 
       # ignore "other" gallery subsections

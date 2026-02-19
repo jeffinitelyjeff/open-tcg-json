@@ -11,8 +11,8 @@ from ..spiders import tcg_plus
 from ..spiders import dcg_wiki
 
 SPIDERS = {
-    "tcg_plus": tcg_plus.TCGPlusSpider,
     "dcg_wiki": dcg_wiki.DCGWikiSpider,
+    "tcg_plus": tcg_plus.TCGPlusSpider,
 }
 
 
@@ -58,25 +58,43 @@ def set_up_logs(project_settings: project.Settings):
 
 
 def run_spiders(scrapy_settings: project.Settings, args: argparse.Namespace):
+  selected_spiders = []
+  for spider_name, spider in SPIDERS.items():
+    if args.all or getattr(args, spider_name):
+      selected_spiders.append((spider_name, spider))
+    else:
+      logging.info("Spider %s ==> ❌ skipped", spider_name)
+
+  if not selected_spiders:
+    logging.info("No spiders selected; exiting.")
+    return
+
+  run_spiders_parallel(scrapy_settings, selected_spiders)
+
+
+def run_spiders_parallel(scrapy_settings: project.Settings, selected_spiders):
   process = CrawlerProcess(scrapy_settings)
 
   crawlers = []
 
-  for spider_name, spider in SPIDERS.items():
-    if args.all or getattr(args, spider_name):
-      logging.info("Spider %s ==> start", spider_name)
-      crawler = process.create_crawler(spider)
-      crawlers.append(crawler)
-      process.crawl(crawler)
-    else:
-      logging.info("Spider %s ==> ❌ skipped", spider_name)
+  for spider_name, spider in selected_spiders:
+    logging.info("Spider %s ==> start (parallel)", spider_name)
+    crawler = process.create_crawler(spider)
+    crawlers.append((crawler, spider_name))
+    process.crawl(crawler)
 
   process.start()
 
-  for crawler in crawlers:
+  for crawler, spider_name in crawlers:
+    spider_label = crawler.spider.name if crawler.spider else spider_name
+    finish_reason = crawler.stats.get_value('finish_reason')
+    if finish_reason and finish_reason != 'finished':
+      raise RuntimeError(
+          f"Spider [{spider_label}] stopped early ({finish_reason})")
+
     error_count = crawler.stats.get_value('log_count/ERROR', 0)
     if error_count > 0:
-      msg = f"Spider [{crawler.spider.name}] encountered {error_count} errors"
+      msg = f"Spider [{spider_label}] encountered {error_count} errors"
       raise RuntimeError(msg)
 
 

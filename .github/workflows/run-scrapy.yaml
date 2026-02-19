@@ -10,66 +10,214 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main
+      - "**"
   schedule:
     # every day at midnight
     - cron: "0 0 * * *"
 jobs:
-  poll-all:
-    timeout-minutes: 120
+  start-notify:
     runs-on: ubuntu-latest
+    outputs:
+      start_ts: ${{ steps.start_ts.outputs.start_ts }}
     steps:
       - name: check out repo
         uses: actions/checkout@v3
+
       - name: get start timestamp
-        run: echo "START_TS=$(date +'%s')" >> "$GITHUB_ENV"
+        id: start_ts
+        run: |
+          ts=$(date +'%s')
+          echo "START_TS=$ts" >> "$GITHUB_ENV"
+          echo "start_ts=$ts" >> "$GITHUB_OUTPUT"
+
       - name: set discord default messages
         run: python -m lib.scrapy.scripts.set_discord_msg --defaults
-      - name: discord notification
+
+      - name: discord notification (start)
         uses: tsickert/discord-webhook@v5.3.0
         with:
           webhook-url: ${{ secrets.DISCORD_NOTIFICATION_URL }}
           content: ${{ env.DISCORD_MSG_START }}
+
+  poll-dcg-wiki:
+    needs: start-notify
+    timeout-minutes: 120
+    runs-on: ubuntu-latest
+    outputs:
+      commit_hash: ${{ steps.git-commit-dcg.outputs.commit_hash }}
+    steps:
+      - name: check out repo
+        uses: actions/checkout@v3
+
       - name: update apt
         run: sudo apt-get update
+
       - name: install poetry
         run: pipx install poetry
+
       - name: set up python
         uses: actions/setup-python@v4
         with:
           python-version: "3.x"
           cache: "poetry"
+
       - name: display python version
         run: python -c "import sys; print(sys.version)"
+
       - name: install python dependencies
         run: poetry install --no-interaction --no-ansi
-      - name: run scrapy
-        run: poetry run python -m lib.scrapy.scripts.run_scrapy --all
-      - name: archive logs
+
+      - name: run scrapy (dcg_wiki)
+        run: poetry run python -m lib.scrapy.scripts.run_scrapy --dcg_wiki
+
+      - name: cancel workflow run on dcg_wiki failure
+        if: ${{ failure() }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "dcg_wiki job failed, cancelling workflow ${GITHUB_RUN_ID}"
+          curl -s -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}/cancel"
+
+      - name: archive logs (dcg_wiki)
         uses: actions/upload-artifact@v4
         with:
+          name: logs-dcg-wiki
           path: logs
-      - name: commit and push
-        id: git-commit
+
+      - name: pull latest changes with rebase
+        run: |
+          git fetch origin ${{ github.ref_name }}
+          git pull --rebase --autostash origin ${{ github.ref_name }}
+
+      - name: commit and push dcg_wiki output
+        id: git-commit-dcg
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "🤖 automated poll update"
-      - name: set discord msg
-        run: poetry run python -m lib.scrapy.scripts.set_discord_msg --success --commit-hash ${{ steps.git-commit.outputs.commit_hash }} 
-      - name: discord success notification
-        if: ${{ success() }}
+          commit_message: "🤖 dcg_wiki poll update"
+
+  poll-tcg-plus:
+    needs: start-notify
+    if: always()
+    timeout-minutes: 120
+    runs-on: ubuntu-latest
+    outputs:
+      commit_hash: ${{ steps.git-commit-tcg.outputs.commit_hash }}
+    steps:
+      - name: check out repo
+        uses: actions/checkout@v3
+
+      - name: update apt
+        run: sudo apt-get update
+
+      - name: install poetry
+        run: pipx install poetry
+
+      - name: set up python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+          cache: "poetry"
+
+      - name: display python version
+        run: python -c "import sys; print(sys.version)"
+
+      - name: install python dependencies
+        run: poetry install --no-interaction --no-ansi
+
+      - name: run scrapy (tcg_plus)
+        run: poetry run python -m lib.scrapy.scripts.run_scrapy --tcg_plus
+
+      - name: cancel workflow run on tcg_plus failure
+        if: ${{ failure() }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "tcg_plus job failed, cancelling workflow ${GITHUB_RUN_ID}"
+          curl -s -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}/cancel"
+
+      - name: archive logs (tcg_plus)
+        uses: actions/upload-artifact@v4
+        with:
+          name: logs-tcg-plus
+          path: logs
+
+      - name: pull latest changes with rebase
+        run: |
+          git fetch origin ${{ github.ref_name }}
+          git pull --rebase --autostash origin ${{ github.ref_name }}
+
+      - name: commit and push tcg_plus output
+        id: git-commit-tcg
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "🤖 tcg_plus poll update"
+
+  end-notify:
+    needs:
+      - poll-dcg-wiki
+      - poll-tcg-plus
+    if: always()
+    runs-on: ubuntu-latest
+    env:
+      START_TS: ${{ needs.start-notify.outputs.start_ts }}
+    steps:
+      - name: check out repo
+        uses: actions/checkout@v3
+
+      - name: pull latest repo state
+        run: |
+          git fetch origin ${{ github.ref_name }}
+          git checkout ${{ github.ref_name }}
+          git pull --ff-only origin ${{ github.ref_name }}
+
+      - name: prepare discord defaults
+        run: python -m lib.scrapy.scripts.set_discord_msg --defaults
+
+      - name: prepare dcg_wiki success message
+        if: ${{ needs.poll-dcg-wiki.result == 'success' && needs.poll-dcg-wiki.outputs.commit_hash != '' }}
+        shell: bash
+        env:
+          COMMIT_HASH: ${{ needs.poll-dcg-wiki.outputs.commit_hash }}
+        run: |
+          python -m lib.scrapy.scripts.set_discord_msg --dcg-wiki-success --commit-hash "$COMMIT_HASH"
+
+      - name: discord success notification (dcg_wiki)
+        if: ${{ needs.poll-dcg-wiki.result == 'success' && needs.poll-dcg-wiki.outputs.commit_hash != '' }}
         uses: tsickert/discord-webhook@v5.3.0
         with:
           webhook-url: ${{ secrets.DISCORD_NOTIFICATION_URL }}
           content: ${{ env.DISCORD_MSG_SUCCESS }}
+
+      - name: prepare tcg_plus success message
+        if: ${{ needs.poll-tcg-plus.result == 'success' && needs.poll-tcg-plus.outputs.commit_hash != '' }}
+        shell: bash
+        env:
+          COMMIT_HASH: ${{ needs.poll-tcg-plus.outputs.commit_hash }}
+        run: |
+          python -m lib.scrapy.scripts.set_discord_msg --tcg-plus-success --commit-hash "$COMMIT_HASH"
+
+      - name: discord success notification (tcg_plus)
+        if: ${{ needs.poll-tcg-plus.result == 'success' && needs.poll-tcg-plus.outputs.commit_hash != '' }}
+        uses: tsickert/discord-webhook@v5.3.0
+        with:
+          webhook-url: ${{ secrets.DISCORD_NOTIFICATION_URL }}
+          content: ${{ env.DISCORD_MSG_SUCCESS }}
+
       - name: discord failure notification
-        if: ${{ failure() }}
+        if: ${{ needs.poll-dcg-wiki.result == 'failure' || needs.poll-tcg-plus.result == 'failure' }}
         uses: tsickert/discord-webhook@v5.3.0
         with:
           webhook-url: ${{ secrets.DISCORD_NOTIFICATION_URL }}
           content: ${{ env.DISCORD_MSG_FAIL }}
+
       - name: discord cancel notification
-        if: ${{ cancelled() }}
+        if: ${{ (needs.poll-dcg-wiki.result == 'cancelled' || needs.poll-tcg-plus.result == 'cancelled') && (needs.poll-dcg-wiki.result != 'failure' && needs.poll-tcg-plus.result != 'failure') }}
         uses: tsickert/discord-webhook@v5.3.0
         with:
           webhook-url: ${{ secrets.DISCORD_NOTIFICATION_URL }}

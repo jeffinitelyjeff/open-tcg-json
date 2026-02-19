@@ -21,13 +21,15 @@ def main():
 
   parser = argparse.ArgumentParser()
   group = parser.add_mutually_exclusive_group(required=True)
-  group.add_argument('--success', action='store_true')
+  group.add_argument('--dcg-wiki-success', action='store_true')
+  group.add_argument('--tcg-plus-success', action='store_true')
   group.add_argument('--defaults', action='store_true')
   parser.add_argument('--commit-hash', type=str, nargs='?', default=None)
   args = parser.parse_args()
 
-  if args.success:
-    msg = make_success_msg(args.commit_hash)
+  if args.dcg_wiki_success or args.tcg_plus_success:
+    job_key = 'dcg_wiki' if args.dcg_wiki_success else 'tcg_plus'
+    msg = make_success_msg(job_key, args.commit_hash)
     with open(GITHUB_ENV_FILE, 'a') as f:
       f.write(f'DISCORD_MSG_SUCCESS<<EOF\n{msg}\nEOF\n')
   else:
@@ -40,7 +42,7 @@ def main():
       f.write(f'DISCORD_MSG_CANCEL={msg_cancel}\n')
 
 
-def make_success_msg(commit_hash: str | None) -> str:
+def make_success_msg(job_key: str, commit_hash: str | None) -> str:
   try:
     with open(scrapy_util.DISCORD_STATS_PATH, "r") as f:
       discord_stats = f.read()
@@ -60,7 +62,12 @@ def make_success_msg(commit_hash: str | None) -> str:
     if diff_stats:
       blocks.append(diff_stats)
 
-  title = f"⚙️  {RUN_MD_LINK} finished"
+  job_display = {
+      'dcg_wiki': 'DCG Wiki scrape',
+      'tcg_plus': 'TCG Plus scrape',
+  }.get(job_key, job_key)
+
+  title = f"⚙️  {RUN_MD_LINK} ({job_display}) finished"
 
   msg = make_msg(title, blocks)
 

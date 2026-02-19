@@ -3,7 +3,10 @@
 # See documentation in:
 # https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
+from itertools import cycle
+
 from scrapy import signals
+from scrapy.exceptions import CloseSpider
 
 # useful for handling different item types with a single interface
 from itemadapter import is_item, ItemAdapter
@@ -101,3 +104,43 @@ class OTCGJDownloaderMiddleware:
 
   def spider_opened(self, spider):
     spider.logger.info("Spider opened: %s" % spider.name)
+
+
+class RotateUserAgentMiddleware:
+  """Cycle through USER_AGENTS for every outgoing request."""
+
+  def __init__(self, user_agents: list[str]):
+    self.user_agents_cycle = cycle(user_agents) if user_agents else None
+
+  @classmethod
+  def from_crawler(cls, crawler):
+    agents = crawler.settings.get('USER_AGENTS') or []
+    # Ensure values are strings and strip empties.
+    agents = [str(agent).strip() for agent in agents if str(agent).strip()]
+    return cls(agents)
+
+  def process_request(self, request, spider):
+    if not self.user_agents_cycle:
+      return None
+    request.headers['User-Agent'] = next(self.user_agents_cycle)
+    return None
+
+
+class StopOnForbiddenMiddleware:
+  """Stop crawl immediately when final 403 response is seen."""
+
+  def __init__(self, max_retry_times: int):
+    self.max_retry_times = max_retry_times
+
+  @classmethod
+  def from_crawler(cls, crawler):
+    # Defer to RETRY_TIMES so behavior matches RetryMiddleware.
+    return cls(crawler.settings.getint('RETRY_TIMES', 2))
+
+  def process_response(self, request, response, spider):
+    if response.status == 403:
+      retries = request.meta.get('retry_times', 0)
+      if retries >= self.max_retry_times:
+        spider.logger.error("403 retry exhausted at %s", response.url)
+        raise CloseSpider("403 forbidden after retries")
+    return response

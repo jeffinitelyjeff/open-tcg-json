@@ -19,6 +19,20 @@ USER_AGENT = ('Mozilla/5.0 (X11; Linux x86_64) '
               'Chrome/57.0.2987.110 '
               'Safari/537.36')
 
+USER_AGENTS = [
+    ('Mozilla/5.0 (X11; Linux x86_64) '
+     'AppleWebKit/537.36 (KHTML, like Gecko) '
+     'Chrome/57.0.2987.110 '
+     'Safari/537.36'),  # chrome
+    ('Mozilla/5.0 (X11; Linux x86_64) '
+     'AppleWebKit/537.36 (KHTML, like Gecko) '
+     'Chrome/61.0.3163.79 '
+     'Safari/537.36'),  # chrome
+    ('Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:55.0) '
+     'Gecko/20100101 '
+     'Firefox/55.0')  # firefox
+]
+
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
 
@@ -55,33 +69,18 @@ DEFAULT_REQUEST_HEADERS = {
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
-    'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware':
-        None,
-    # https://pypi.org/project/Scrapy-UserAgents/
-    'scrapy_useragents.downloadermiddlewares.useragents.UserAgentsMiddleware':
-        500,
+    'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware': None,
+    'lib.scrapy.middlewares.RotateUserAgentMiddleware': 500,
+    # Run after RetryMiddleware (550) so we see final 403 responses.
+    'lib.scrapy.middlewares.StopOnForbiddenMiddleware': 560,
 }
-
-USER_AGENTS = [
-    ('Mozilla/5.0 (X11; Linux x86_64) '
-     'AppleWebKit/537.36 (KHTML, like Gecko) '
-     'Chrome/57.0.2987.110 '
-     'Safari/537.36'),  # chrome
-    ('Mozilla/5.0 (X11; Linux x86_64) '
-     'AppleWebKit/537.36 (KHTML, like Gecko) '
-     'Chrome/61.0.3163.79 '
-     'Safari/537.36'),  # chrome
-    ('Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:55.0) '
-     'Gecko/20100101 '
-     'Firefox/55.0')  # firefox
-]
 
 # Enable or disable extensions
 # See https://docs.scrapy.org/en/latest/topics/extensions.html
 EXTENSIONS = {
     # "scrapy.extensions.closespider.CloseSpider": 100,
 }
-# CLOSESPIDER_ERRORCOUNT = 1
+CLOSESPIDER_ERRORCOUNT = 1
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
