@@ -1,18 +1,83 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Puppet] trait: Cost 2",
+  "attribute": "Data",
   "blockIcon": "05",
+  "cardEffects": "[When Digivolving] If you have 1 or fewer Tamers, you may play 1 [Mirai Kinosaki] from your hand without paying the cost.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
-    "korean": "Not released",
+    "korean": "Unrestricted",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Yellow/Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "6000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-021.png",
+        "imgName": "EX11-021.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d8/EX11-021.png/revision/latest?cb=20260130063715",
+        "uploadDate": "2026-01-30T06:37:15"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-021-Sample.png",
+        "imgName": "EX11-021-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a9/EX11-021-Sample.png/revision/latest?cb=20260113083049",
+        "uploadDate": "2026-01-13T08:30:49"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-021_P1.png",
+        "imgName": "EX11-021_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e5/EX11-021_P1.png/revision/latest?cb=20260130063715",
+        "uploadDate": "2026-01-30T06:37:15"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-021-J.png",
+        "imgName": "EX11-021-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8d/EX11-021-J.png/revision/latest?cb=20260130064401",
+        "uploadDate": "2026-01-30T06:44:01"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-021_P1-J.png",
+        "imgName": "EX11-021_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ef/EX11-021_P1-J.png/revision/latest?cb=20260130064400",
+        "uploadDate": "2026-01-30T06:44:00"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d8/EX11-021.png/revision/latest?cb=20260130063715",
+  "inheritedEffect": "[Opponent's Turn] [Once Per Turn] When one of your opponent's Digimon attacks, by deleting 1 of your other Digimon, end that attack.",
+  "level": "4",
+  "name": "Kokeshimon",
+  "nameJapanese": "コケシモン",
+  "playCost": "5",
+  "rarity": "Common",
   "setData": {
     "ch": [
       {
@@ -20,10 +85,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
         }
       }
     ],
@@ -33,10 +109,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
         }
       }
     ],
@@ -46,10 +133,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
         }
       }
     ],
@@ -59,12 +157,24 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
         }
       }
     ]
-  }
+  },
+  "type": "Puppet/LIBERATOR"
 }

@@ -1,5 +1,5 @@
 {
-  "blockIcon": "01",
+  "blockIcon": "01,05",
   "cardEffects": "Reduce the memory cost of this card in your hand by 1 for each Digimon your opponent has in play.\n[Main] Your opponent can't play Digimon by effects until the end of their turn. Delete all of your opponent's Digimon with 6000 DP or less.",
   "cardRestriction": {
     "chinese": "Unrestricted",
@@ -33,8 +33,8 @@
         "uploadDate": "2022-04-22T12:49:32"
       },
       {
-        "captionLink": "https://digimoncardgame.fandom.com/wiki/New_Awakening_Pre-Release_Pack",
-        "captionText": "New Awakening Pre-Release Pack (EN)",
+        "captionLink": null,
+        "captionText": "PRP-BT8 (EN)",
         "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-097_P0.png",
         "imgName": "BT8-097_P0.png",
         "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/46/BT8-097_P0.png/revision/latest?cb=20221103070958",
@@ -89,14 +89,6 @@
         "imgName": "BT8-097_P1-J.png",
         "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bb/BT8-097_P1-J.png/revision/latest?cb=20230630104350",
         "uploadDate": "2023-06-30T10:43:50"
-      },
-      {
-        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-08:_Booster_New_Awakening",
-        "captionText": "BT-08: Booster New Awakening (JP Sample)",
-        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT8-097-Sample-J.png",
-        "imgName": "BT8-097-Sample-J.png",
-        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d7/BT8-097-Sample-J.png/revision/latest?cb=20211116091757",
-        "uploadDate": "2021-11-16T09:17:57"
       }
     ]
   },
@@ -136,6 +128,17 @@
       {
         "boosterSet": "BTC-04: Booster Next Hero",
         "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Uncommon",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
           "text": "banira"
@@ -208,6 +211,17 @@
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Robomisutya",
           "text": "robomisutya"
         }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
       }
     ],
     "jp": [
@@ -228,6 +242,30 @@
           "text": "PB-15: Digimon Card Game 3rd Anniversary Set"
         },
         "foil&Rarity": "Textured - Gold Background - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Uncommon",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
           "text": "banira"

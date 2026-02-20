@@ -1,18 +1,84 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Royal Base] trait: Cost 2",
+  "attribute": "Virus",
   "blockIcon": "05",
+  "cardEffects": "[Security] [Opponent's Turn] All of your [Royal Base] trait Digimon gain ＜Reboot＞ (This Digimon also unsuspends in your opponent's unsuspend phase.)\n[On Play] [When Digivolving] Add your top face-down security card to the hand. Then, you may place 1 [Royal Base] trait Digimon card from your hand face up as the bottom security card.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
-    "korean": "Not released",
+    "korean": "Unrestricted",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Green/Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-030.png",
+        "imgName": "EX11-030.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/af/EX11-030.png/revision/latest?cb=20260130063715",
+        "uploadDate": "2026-01-30T06:37:15"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-030-Sample.png",
+        "imgName": "EX11-030-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/be/EX11-030-Sample.png/revision/latest?cb=20260116201656",
+        "uploadDate": "2026-01-16T20:16:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-030_P1.png",
+        "imgName": "EX11-030_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5b/EX11-030_P1.png/revision/latest?cb=20260130063931",
+        "uploadDate": "2026-01-30T06:39:31"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-030-J.png",
+        "imgName": "EX11-030-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/47/EX11-030-J.png/revision/latest?cb=20260130064401",
+        "uploadDate": "2026-01-30T06:44:01"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-030_P1-J.png",
+        "imgName": "EX11-030_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a2/EX11-030_P1-J.png/revision/latest?cb=20260130064401",
+        "uploadDate": "2026-01-30T06:44:01"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/af/EX11-030.png/revision/latest?cb=20260130063715",
+  "inheritedEffect": "[All Turns] This Digimon gets +1000 DP.",
+  "level": "4",
+  "name": "ForgeBeemon",
+  "nameJapanese": "フォージビーモン",
+  "playCost": "4",
+  "rarity": "Common",
+  "rule": "[Rule] Trait: Has [Insectoid] Type.",
   "setData": {
     "ch": [
       {
@@ -20,10 +86,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
         }
       }
     ],
@@ -33,10 +110,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
         }
       }
     ],
@@ -46,10 +134,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
         }
       }
     ],
@@ -59,12 +158,24 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
         }
       }
     ]
-  }
+  },
+  "type": "Cyborg/X Antibody/Royal Base/LIBERATOR"
 }

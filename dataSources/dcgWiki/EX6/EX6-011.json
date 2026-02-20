@@ -3,15 +3,15 @@
   "altDigivolutionRequirements": "[DNA Digivolve] Red Lv.6 + Black Lv.6 : Cost 0\nStack the 2 specified Digimon and digivolve unsuspended.",
   "attribute": "Virus",
   "blockIcon": "03",
-  "cardEffects": "[Hand] [Counter] ＜Blast DNA Digivolve ([Durandamon] + [BryweLudramon])＞ (1 of your specified Digimon and 1 specified card in hand may DNA digivolve into this card.)\n＜Raid＞ (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.)\n＜Reboot＞ (Unsuspend this Digimon during your opponent's unsuspend phase.)\n[On Play] [When Digivolving] Trash the top card of your opponent's security stack and this Digimon isn't affected by your opponent's effects until the end of their turn. Then, if DNA digivolving, ＜De-Digivolve  1＞ all of your opponent's Digimon and delete 1 of their Digimon.",
+  "cardEffects": "[Hand] [Counter] ＜Blast DNA Digivolve ([Durandamon] + [BryweLudramon])＞ (1 of your specified Digimon and 1 specified card in hand may DNA digivolve into this card.)\n＜Raid＞ (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.)\n＜Reboot＞ (This Digimon also unsuspends in your opponent's unsuspend phase.)\n[On Play] [When Digivolving] Trash the top card of your opponent's security stack and this Digimon isn't affected by your opponent's effects until the end of their turn. Then, if DNA digivolving, ＜De-Digivolve  1＞ all of your opponent's Digimon and delete 1 of their Digimon.",
   "cardRestriction": {
     "chinese": "Unrestricted",
     "english": "Unrestricted",
-    "korean": "Not released",
+    "korean": "Unrestricted",
     "nameJapanese": "Unrestricted"
   },
   "cardType": "Digimon",
-  "color": "Red / Black",
+  "color": "Red/Black",
   "digivolutionRequirements": [
     {
       "color": "Red",

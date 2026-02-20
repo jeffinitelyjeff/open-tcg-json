@@ -2,7 +2,7 @@
   "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[Greymon] in name or w/[CS] trait: Cost 4",
   "attribute": "Virus",
   "blockIcon": "05",
-  "cardEffects": "＜Raid＞ (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.)\n＜Reboot＞ (Unsuspend this Digimon during your opponent's unsuspend phase.)\n[When Digivolving] You may unsuspend 1 of your opponent's Digimon. Then, this Digimon may attack.\n[All Turns] [Once Per Turn] When attack targets change, this Digimon gains ＜Piercing＞  (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.) and +5000 DP for the turn.",
+  "cardEffects": "＜Raid＞ (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.)\n＜Reboot＞ (This Digimon also unsuspends in your opponent's unsuspend phase.)\n[When Digivolving] You may unsuspend 1 of your opponent's Digimon. Then, this Digimon may attack.\n[All Turns] [Once Per Turn] When attack targets change, this Digimon gains ＜Piercing＞  (When this Digimon attacks and deletes an opponent's Digimon in battle, it checks security before the attack ends.) and +5000 DP for the turn.",
   "cardRestriction": {
     "chinese": "Unrestricted",
     "english": "Unrestricted",
@@ -10,7 +10,7 @@
     "nameJapanese": "Unrestricted"
   },
   "cardType": "Digimon",
-  "color": "Red / Black",
+  "color": "Red/Black",
   "digivolutionRequirements": [
     {
       "color": "Red",

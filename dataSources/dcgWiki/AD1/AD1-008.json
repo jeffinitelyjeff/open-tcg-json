@@ -1,18 +1,49 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[WarGrowlmon] in name or w/[Hero] trait: Cost 3",
+  "attribute": "Virus",
   "blockIcon": "05",
+  "cardEffects": "＜Rush＞ (This Digimon can attack the turn it comes into play.)\n＜Raid＞ (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.)\n＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon in battle, it checks security before the attack ends.)\n[When Digivolving] Delete up to 10000 DP total worth of your opponent's Digimon. Then, this Digimon may attack.\n[When Digivolving] [When Attacking] [Once Per Turn] Delete 1 of your opponent's lowest DP Digimon.\n[Your Turn] Your opponent's effects don't affect this Digimon with [Takato Matsuki] trait in its digivolution cards and it gets +5000 DP.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "4",
+    "level": "5"
+  },
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+        "captionText": "AD-01: Advanced Booster Digimon Generation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:AD1-008-Sample.png",
+        "imgName": "AD1-008-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a6/AD1-008-Sample.png/revision/latest?cb=20260212123707",
+        "uploadDate": "2026-02-12T12:37:07"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+        "captionText": "AD-01: Advanced Booster Digimon Generation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:AD1-008_P1-Sample.png",
+        "imgName": "AD1-008_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f9/AD1-008_P1-Sample.png/revision/latest?cb=20260212123716",
+        "uploadDate": "2026-02-12T12:37:16"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a6/AD1-008-Sample.png/revision/latest?cb=20260212123707",
+  "level": "6",
+  "name": "Gallantmon",
+  "nameJapanese": "デュークモン",
+  "playCost": "12",
+  "rarity": "Super Rare",
   "setData": {
     "ch": [
       {
@@ -20,10 +51,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
         }
       }
     ],
@@ -33,10 +72,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
         }
       }
     ],
@@ -46,10 +93,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
         }
       }
     ],
@@ -59,12 +114,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
         }
       }
     ]
-  }
+  },
+  "type": "Holy Warrior/Royal Knight/Hero"
 }

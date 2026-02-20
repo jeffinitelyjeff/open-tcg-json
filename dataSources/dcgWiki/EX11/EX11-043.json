@@ -1,18 +1,83 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[Cyborg]/[Machine] trait: Cost 3",
+  "attribute": "Virus",
   "blockIcon": "05",
+  "cardEffects": "[Security] [End of Opponent's Turn] Play this card without paying the cost.\n[On Play] [When Digivolving] Flip your opponent's top face-down security card face up and return 1 of their lowest play cost Digimon to the bottom of the deck. Then, this Digimon gains ＜Security A. +1＞ (This Digimon checks 1 additional security card.) until your turn ends.\n[Your Turn] When any of your Digimon check face-up security cards, you may place this Digimon's top stacked card face up as the bottom security card.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
-    "korean": "Not released",
+    "korean": "Unrestricted",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Black/Blue",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "4",
+    "level": "5"
+  },
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-043.png",
+        "imgName": "EX11-043.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/36/EX11-043.png/revision/latest?cb=20260130063716",
+        "uploadDate": "2026-01-30T06:37:16"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-043-Sample.png",
+        "imgName": "EX11-043-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/36/EX11-043-Sample.png/revision/latest?cb=20260116054315",
+        "uploadDate": "2026-01-16T05:43:15"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Dawn_of_Liberator",
+        "captionText": "Box Promotion Pack: Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-043_P1.png",
+        "imgName": "EX11-043_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4a/EX11-043_P1.png/revision/latest?cb=20260130165857",
+        "uploadDate": "2026-01-30T16:58:57"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Dawn_of_Liberator",
+        "captionText": "Box Promotion Pack: Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-043_P1-Sample.png",
+        "imgName": "EX11-043_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5c/EX11-043_P1-Sample.png/revision/latest?cb=20260116060214",
+        "uploadDate": "2026-01-16T06:02:14"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-043-J.png",
+        "imgName": "EX11-043-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1f/EX11-043-J.png/revision/latest?cb=20260130065332",
+        "uploadDate": "2026-01-30T06:53:32"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Dawn_of_Liberator",
+        "captionText": "Box Promotion Pack: Dawn of Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-043_P1-J.png",
+        "imgName": "EX11-043_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/56/EX11-043_P1-J.png/revision/latest?cb=20260130065332",
+        "uploadDate": "2026-01-30T06:53:32"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/3/36/EX11-043.png/revision/latest?cb=20260130063716",
+  "level": "6",
+  "name": "Invisimon",
+  "nameJapanese": "インビジモン",
+  "playCost": "12",
+  "rarity": "Rare",
   "setData": {
     "ch": [
       {
@@ -20,10 +85,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Dawn_of_Liberator",
+          "text": "Box Promotion Pack: Dawn of Liberator"
+        },
+        "foil&Rarity": "Full Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
         }
       }
     ],
@@ -33,10 +109,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Dawn_of_Liberator",
+          "text": "Box Promotion Pack: Dawn of Liberator"
+        },
+        "foil&Rarity": "Full Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
         }
       }
     ],
@@ -46,10 +133,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Dawn_of_Liberator",
+          "text": "Box Promotion Pack: Dawn of Liberator"
+        },
+        "foil&Rarity": "Full Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
         }
       }
     ],
@@ -59,12 +157,24 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Dawn_of_Liberator",
+          "text": "Box Promotion Pack: Dawn of Liberator"
+        },
+        "foil&Rarity": "Full Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
         }
       }
     ]
-  }
+  },
+  "type": "Cyborg/LIBERATOR"
 }

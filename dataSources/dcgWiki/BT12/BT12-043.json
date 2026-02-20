@@ -1,7 +1,7 @@
 {
   "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[RizeGreymon] in name: Cost 3",
   "attribute": "Vaccine",
-  "blockIcon": "02",
+  "blockIcon": "02,05",
   "cardEffects": "[When Digivolving] For each yellow and/or red Tamer you have in play, 1 of your opponent's Digimon and all of your opponent's Security Digimon get -3000 DP for the turn.\n[Your Turn] All of your [Marcus Damon] in play get +3000 DP and gain ＜Security A. +1＞ (This Digimon checks 1 additional security card.)",
   "cardRestriction": {
     "chinese": "Unrestricted",
@@ -10,7 +10,7 @@
     "nameJapanese": "Unrestricted"
   },
   "cardType": "Digimon",
-  "color": "Yellow / Red",
+  "color": "Yellow/Red",
   "digivolutionRequirements": [
     {
       "color": "Yellow",
@@ -100,6 +100,14 @@
         "imgName": "BT12-043_P2-J.png",
         "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/88/BT12-043_P2-J.png/revision/latest?cb=20240827194313",
         "uploadDate": "2024-08-27T19:43:13"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Ultimate_Cup_2024_Season_2",
+        "captionText": "Ultimate Cup 2024 Season 2 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT12-043_P3-J.png",
+        "imgName": "BT12-043_P3-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bc/BT12-043_P3-J.png/revision/latest?cb=20250404053925",
+        "uploadDate": "2025-04-04T05:39:25"
       }
     ]
   },
@@ -142,6 +150,19 @@
     ]
   },
   "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
     "en": [
       {
         "boosterSet": {
@@ -208,6 +229,17 @@
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Naochika_Morishita",
           "text": "Naochika Morishita"
         }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
       }
     ],
     "jp": [
@@ -242,6 +274,30 @@
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Hokuyuu",
           "text": "hokuyuu"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
         }
       }
     ]

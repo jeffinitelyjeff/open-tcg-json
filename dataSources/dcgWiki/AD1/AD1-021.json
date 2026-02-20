@@ -1,18 +1,41 @@
 {
   "blockIcon": "05",
+  "cardEffects": "[Your Turn] When this Tamer suspends, ＜Draw 1＞ (Draw 1 card from your deck.) Then, 1 of your Digimon may digivolve into a yellow Digimon card with [Greymon] in its name in the hand with the digivolution cost reduced by 3.\n[End of Your Turn] [Once Per Turn] If you have a yellow Digimon with [Agumon] or [Greymon] in its name, for the turn, 1 of your [Marcus Damon]s is also treated as a 6000 DP Digimon, gains ＜Rush＞ (This Digimon can attack the turn it comes into play.) and can't digivolve. Then, 1 of your Digimon may attack.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Tamer",
+  "color": "Yellow/Red",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+        "captionText": "AD-01: Advanced Booster Digimon Generation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:AD1-021-Sample.png",
+        "imgName": "AD1-021-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d9/AD1-021-Sample.png/revision/latest?cb=20260207031421",
+        "uploadDate": "2026-02-07T03:14:21"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+        "captionText": "AD-01: Advanced Booster Digimon Generation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:AD1-021_P1-Sample.png",
+        "imgName": "AD1-021_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/dc/AD1-021_P1-Sample.png/revision/latest?cb=20260207031526",
+        "uploadDate": "2026-02-07T03:15:26"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d9/AD1-021-Sample.png/revision/latest?cb=20260207031421",
+  "name": "Marcus Damon & Agumon",
+  "nameJapanese": "大門大＆アグモン",
+  "playCost": "5",
+  "rarity": "Super Rare",
+  "rule": "[Rule] Name: Also treated as [Marcus Damon].",
+  "securityEffect": "[Security] Play this card without paying the cost.",
   "setData": {
     "ch": [
       {
@@ -20,11 +43,16 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": "No Illustrator"
       }
     ],
     "en": [
@@ -33,11 +61,16 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": "No Illustrator"
       }
     ],
     "jp": [
@@ -46,11 +79,16 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": "No Illustrator"
       }
     ],
     "kr": [
@@ -59,12 +97,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": "No Illustrator"
       }
     ]
-  }
+  },
+  "type": "DATA SQUAD"
 }

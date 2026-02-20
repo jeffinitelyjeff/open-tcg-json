@@ -1,18 +1,37 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Omnimon] in text or w/[ADVENTURE] trait: Cost 2",
+  "attribute": "Data",
   "blockIcon": "05",
+  "cardEffects": "[On Play] [When Digivolving] ＜Draw 1＞ (Draw 1 card from your deck.)\n[All Turns] When your Digimon or Tamers are played or digivolve, if any of them have [Greymon] or [Matt Ishida] in their names, this Digimon may digivolve into a Digimon card with [Garurumon] in its name in the hand without paying the cost.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Blue",
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+        "captionText": "AD-01: Advanced Booster Digimon Generation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:AD1-010-Sample.png",
+        "imgName": "AD1-010-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3b/AD1-010-Sample.png/revision/latest?cb=20260130055945",
+        "uploadDate": "2026-01-30T05:59:45"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3b/AD1-010-Sample.png/revision/latest?cb=20260130055945",
+  "inheritedEffect": "＜Jamming＞ (This Digimon can't be deleted in battles against Security Digimon.)",
+  "level": "4",
+  "name": "Garurumon",
+  "nameJapanese": "ガルルモン",
+  "playCost": "5",
+  "rarity": "Rare",
   "setData": {
     "ch": [
       {
@@ -20,11 +39,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
       }
     ],
     "en": [
@@ -33,11 +49,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
       }
     ],
     "jp": [
@@ -46,11 +59,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
       }
     ],
     "kr": [
@@ -59,12 +69,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
       }
     ]
-  }
+  },
+  "type": "Beast/ADVENTURE"
 }

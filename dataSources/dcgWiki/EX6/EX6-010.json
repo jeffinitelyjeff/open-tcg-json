@@ -2,11 +2,11 @@
   "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[Legend-Arms] trait: Cost 4",
   "attribute": "Vaccine",
   "blockIcon": "03",
-  "cardEffects": "[Hand] [Main] By paying 3 cost and placing this card as the bottom digivolution card of 1 of your Digimon that's level 6 or has the [Legend-Arms] trait, delete 1 of your opponent's Digimon with as much or less DP as that Digimon.\n＜Raid＞ (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.)\n＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.)\n[When Digivolving] 1 of your Digimon may attack.",
+  "cardEffects": "[Hand] [Main] By paying 3 cost and placing this card as the bottom digivolution card of 1 of your Digimon that's level 6 or has the [Legend-Arms] trait, delete 1 of your opponent's Digimon with as much or less DP as that Digimon.\n＜Raid＞ (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.)\n＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon in battle, it checks security before the attack ends.)\n[When Digivolving] 1 of your Digimon may attack.",
   "cardRestriction": {
     "chinese": "Unrestricted",
     "english": "Unrestricted",
-    "korean": "Not released",
+    "korean": "Unrestricted",
     "nameJapanese": "Unrestricted"
   },
   "cardType": "Digimon",
@@ -49,7 +49,7 @@
     ]
   },
   "image": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3e/EX6-010.png/revision/latest?cb=20240531091329",
-  "inheritedEffect": "＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.)\n[Your Turn] While this Digimon is [RagnaLoardmon], the [Security] effects on cards checked by this Digimon don't activate.",
+  "inheritedEffect": "＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon in battle, it checks security before the attack ends.)\n[Your Turn] While this Digimon is [RagnaLoardmon], the [Security] effects on cards checked by this Digimon don't activate.",
   "level": "6",
   "name": "Durandamon",
   "nameJapanese": "デュランダモン",

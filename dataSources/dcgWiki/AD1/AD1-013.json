@@ -1,18 +1,49 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[Blue Flare]/[Xros Heart] trait: Cost 3",
   "blockIcon": "05",
+  "cardEffects": "＜Reboot＞ (This Digimon also unsuspends in your opponent's unsuspend phase.)\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Play] [When Digivolving] Delete 1 of your opponent's Digimon with the fewest digivolution cards.\n[All Turns] When this Digimon would leave the battle area other than by DigiXros, you may play 1 level 5 or lower [Blue Flare] or [Xros Heart] trait Digimon card from its digivolution cards without paying the cost.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Blue/Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "3",
+      "level": "5"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "5"
+    }
+  ],
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+        "captionText": "AD-01: Advanced Booster Digimon Generation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:AD1-013-Sample.png",
+        "imgName": "AD1-013-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/21/AD1-013-Sample.png/revision/latest?cb=20260205060100",
+        "uploadDate": "2026-02-05T06:01:00"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/21/AD1-013-Sample.png/revision/latest?cb=20260205060100",
+  "inheritedEffect": "[All Turns] For each color in this [Blue Flare] or [Xros Heart] trait Digimon's digivolution cards, it gets +1000 DP.",
+  "level": "6",
+  "name": "ZeigGreymon",
+  "nameJapanese": "ジークグレイモン",
+  "playCost": "11",
+  "rarity": "Rare",
+  "rule": "[Rule] Trait: Has [Xros Heart] Type.",
   "setData": {
     "ch": [
       {
@@ -20,10 +51,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ],
@@ -33,10 +64,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ],
@@ -46,10 +77,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ],
@@ -59,12 +90,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ]
-  }
+  },
+  "type": "Cyborg/Blue Flare"
 }

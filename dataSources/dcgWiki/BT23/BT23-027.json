@@ -2,15 +2,15 @@
   "altDigivolutionRequirements": "[Digivolve]  [Patamon]/Lv.3 w/[CS] trait: Cost 2",
   "attribute": "Vaccine",
   "blockIcon": "05",
-  "cardEffects": "＜Barrier＞ (When this Digimon would be deleted in battle, by trashing the top card of your security stack, prevent that deletion.)\n[On Play] [When Digivolving] ＜Draw 1＞ (Draw 1 card from your deck.) Then, if it's your turn, 2 of your Digimon may DNA digivolve into [Shakkoumon] in the hand.",
+  "cardEffects": "＜Barrier＞ (When this Digimon would be deleted in battle, by trashing your top security card, it isn't deleted.)\n[On Play] [When Digivolving] ＜Draw 1＞ (Draw 1 card from your deck.) Then, if it's your turn, 2 of your Digimon may DNA digivolve into [Shakkoumon] in the hand.",
   "cardRestriction": {
-    "chinese": "Not released",
-    "english": "Not released",
-    "korean": "Not released",
-    "nameJapanese": "Not released"
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
   },
   "cardType": "Digimon",
-  "color": "Yellow / Blue",
+  "color": "Yellow/Blue",
   "digivolutionRequirements": [
     {
       "color": "Yellow",
@@ -56,7 +56,7 @@
     ]
   },
   "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/04/BT23-027.png/revision/latest?cb=20251003041126",
-  "inheritedEffect": "＜Barrier＞ (When this Digimon would be deleted in battle, by trashing the top card of your security stack, prevent that deletion.)",
+  "inheritedEffect": "＜Barrier＞ (When this Digimon would be deleted in battle, by trashing your top security card, it isn't deleted.)",
   "level": "4",
   "name": "Angemon",
   "nameJapanese": "エンジェモン",

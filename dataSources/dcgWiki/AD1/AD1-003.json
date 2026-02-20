@@ -1,18 +1,37 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Growlmon] in name or w/[Hero] trait: Cost 3",
+  "attribute": "Virus",
   "blockIcon": "05",
+  "cardEffects": "＜Raid＞ (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.)\n[On Play] [When Digivolving] You may play 1 [Takato Matsuki] from your hand or trash without paying the cost. Then, you may delete 1 of your opponent's Digimon with 6000 DP or less.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Red",
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+        "captionText": "AD-01: Advanced Booster Digimon Generation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:AD1-003-Sample.png",
+        "imgName": "AD1-003-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/81/AD1-003-Sample.png/revision/latest?cb=20260212071514",
+        "uploadDate": "2026-02-12T07:15:14"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/81/AD1-003-Sample.png/revision/latest?cb=20260212071514",
+  "inheritedEffect": "[All Turns] When this Digimon with [Gallantmon] in its name would leave the battle area other than by your effects, you may play 1 each of [Takato Matsuki] and [Guilmon] from its digivolution cards without paying the cost.",
+  "level": "5",
+  "name": "WarGrowlmon",
+  "nameJapanese": "メガログラウモン",
+  "playCost": "7",
+  "rarity": "Rare",
   "setData": {
     "ch": [
       {
@@ -20,11 +39,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
       }
     ],
     "en": [
@@ -33,11 +49,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
       }
     ],
     "jp": [
@@ -46,11 +59,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
       }
     ],
     "kr": [
@@ -59,12 +69,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
       }
     ]
-  }
+  },
+  "type": "Cyborg/Hero"
 }

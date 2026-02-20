@@ -1,18 +1,41 @@
 {
   "blockIcon": "05",
+  "cardEffects": "[Security] Play this card without paying the cost.\n[Start of Your Main Phase] [On Play] You may place up to 2 [Hybrid] trait cards with different colors from your hand or trash under this Tamer. If this effect placed, ＜Draw 1＞ (Draw 1 card from your deck.) Then, if there are 4 or more [Hybrid] trait cards under this Tamer, gain 2 memory.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Tamer",
+  "color": "Black/Yellow/Purple",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+        "captionText": "AD-01: Advanced Booster Digimon Generation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:AD1-023-Sample.png",
+        "imgName": "AD1-023-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/be/AD1-023-Sample.png/revision/latest?cb=20260210003109",
+        "uploadDate": "2026-02-10T00:31:09"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+        "captionText": "AD-01: Advanced Booster Digimon Generation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:AD1-023_P1-Sample.png",
+        "imgName": "AD1-023_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/60/AD1-023_P1-Sample.png/revision/latest?cb=20260210003106",
+        "uploadDate": "2026-02-10T00:31:06"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/be/AD1-023-Sample.png/revision/latest?cb=20260210003109",
+  "name": "J.P., Koji, & Koichi",
+  "nameJapanese": "純平＆輝二＆輝一",
+  "playCost": "5",
+  "rarity": "Rare",
+  "rule": "[Rule] Name: Also treated as [J.P. Shibayama]/[Koji Minamoto]/[Koichi Kimura].",
+  "securityEffect": "[All Turns] [Once Per Turn] When this Digimon with the [Hybrid] or [Ten Warriors] trait would leave the battle area, by adding your top security card to the hand, it doesn't leave.",
   "setData": {
     "ch": [
       {
@@ -20,11 +43,16 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": "No Illustrator"
       }
     ],
     "en": [
@@ -33,11 +61,16 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": "No Illustrator"
       }
     ],
     "jp": [
@@ -46,11 +79,16 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": "No Illustrator"
       }
     ],
     "kr": [
@@ -59,11 +97,16 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": "No Illustrator"
       }
     ]
   }

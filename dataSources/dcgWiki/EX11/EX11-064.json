@@ -1,18 +1,50 @@
 {
   "blockIcon": "05",
+  "cardEffects": "[Start of Your Main Phase] If your opponent has a Digimon, gain 1 memory.\n[On Play] Flip your opponent's top face-down security card face up.\n[Your Turn] When one of your [Cyborg] or [Machine] trait Digimon attacks, by suspending this Tamer, that Digimon may digivolve into a [Cyborg] or [Machine] trait Digimon card in the hand. For each of your opponent's face-up security cards, reduce this effect's digivolution cost by 1.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
-    "korean": "Not released",
+    "korean": "Unrestricted",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Tamer",
+  "color": "Black/Blue",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-064.png",
+        "imgName": "EX11-064.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/88/EX11-064.png/revision/latest?cb=20260130165643",
+        "uploadDate": "2026-01-30T16:56:43"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-064-Sample.png",
+        "imgName": "EX11-064-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e2/EX11-064-Sample.png/revision/latest?cb=20260116054243",
+        "uploadDate": "2026-01-16T05:42:43"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-064-J.png",
+        "imgName": "EX11-064-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a8/EX11-064-J.png/revision/latest?cb=20260130065604",
+        "uploadDate": "2026-01-30T06:56:04"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/88/EX11-064.png/revision/latest?cb=20260130165643",
+  "name": "Altea",
+  "nameJapanese": "アルテア",
+  "playCost": "4",
+  "rarity": "Rare",
+  "securityEffect": "[Security] Play this card without paying the cost.",
   "setData": {
     "ch": [
       {
@@ -20,10 +52,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tsunemi_Aosa",
+          "text": "Tsunemi Aosa"
         }
       }
     ],
@@ -33,10 +65,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tsunemi_Aosa",
+          "text": "Tsunemi Aosa"
         }
       }
     ],
@@ -46,10 +78,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tsunemi_Aosa",
+          "text": "Tsunemi Aosa"
         }
       }
     ],
@@ -59,12 +91,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tsunemi_Aosa",
+          "text": "Tsunemi Aosa"
         }
       }
     ]
-  }
+  },
+  "type": "LIBERATOR"
 }

@@ -1,18 +1,56 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[RizeGreymon] in name or w/[DATA SQUAD] trait: Cost 3",
+  "attribute": "Vaccine",
   "blockIcon": "05",
+  "cardEffects": "＜Alliance＞ (When this Digimon attacks, by suspending 1 of your other Digimon, add the suspended Digimon's DP to this Digimon and it gains ＜Security A. +1＞ for the attack.)\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n[When Digivolving] [When Attacking] [Once Per Turn] You may play 1 [Marcus Damon] from your hand or trash without paying the cost. Then, to 1 of your opponent's Digimon, give -3000 DP for each of your Digimon and Tamers until their turn ends.\n[All Turns] [Once Per Turn] When any of your [Marcus Damon]s are played or suspend, you may delete 1 of your opponent's Digimon with as much or less DP as this Digimon.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Yellow/Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "5"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "4",
+      "level": "5"
+    }
+  ],
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+        "captionText": "AD-01: Advanced Booster Digimon Generation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:AD1-016-Sample.png",
+        "imgName": "AD1-016-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e2/AD1-016-Sample.png/revision/latest?cb=20260207030541",
+        "uploadDate": "2026-02-07T03:05:41"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+        "captionText": "AD-01: Advanced Booster Digimon Generation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:AD1-016_P1-Sample.png",
+        "imgName": "AD1-016_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f1/AD1-016_P1-Sample.png/revision/latest?cb=20260207031306",
+        "uploadDate": "2026-02-07T03:13:06"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e2/AD1-016-Sample.png/revision/latest?cb=20260207030541",
+  "level": "6",
+  "name": "ShineGreymon",
+  "nameJapanese": "シャイングレイモン",
+  "playCost": "12",
+  "rarity": "Super Rare",
   "setData": {
     "ch": [
       {
@@ -20,10 +58,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
         }
       }
     ],
@@ -33,10 +79,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
         }
       }
     ],
@@ -46,10 +100,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
         }
       }
     ],
@@ -59,12 +121,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
         }
       }
     ]
-  }
+  },
+  "type": "Light Dragon/DATA SQUAD"
 }

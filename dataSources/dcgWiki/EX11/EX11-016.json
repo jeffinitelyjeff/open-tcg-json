@@ -6,11 +6,11 @@
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
-    "korean": "Not released",
+    "korean": "Unrestricted",
     "nameJapanese": "Not released"
   },
   "cardType": "Digimon",
-  "color": "Blue / Yellow",
+  "color": "Blue/Yellow",
   "digivolutionRequirements": [
     {
       "color": "Blue",
@@ -30,15 +30,49 @@
       {
         "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
         "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-016.png",
+        "imgName": "EX11-016.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/20/EX11-016.png/revision/latest?cb=20260130063419",
+        "uploadDate": "2026-01-30T06:34:19"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
         "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-016-Sample.png",
         "imgName": "EX11-016-Sample.png",
         "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e9/EX11-016-Sample.png/revision/latest?cb=20260107143705",
         "uploadDate": "2026-01-07T14:37:05"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-016_P1.png",
+        "imgName": "EX11-016_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/aa/EX11-016_P1.png/revision/latest?cb=20260130063419",
+        "uploadDate": "2026-01-30T06:34:19"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-016-J.png",
+        "imgName": "EX11-016-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e1/EX11-016-J.png/revision/latest?cb=20260130063616",
+        "uploadDate": "2026-01-30T06:36:16"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-016_P1-J.png",
+        "imgName": "EX11-016_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/be/EX11-016_P1-J.png/revision/latest?cb=20260130063616",
+        "uploadDate": "2026-01-30T06:36:16"
       }
     ]
   },
-  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e9/EX11-016-Sample.png/revision/latest?cb=20260107143705",
-  "inheritedEffect": "[Your Turn] While your opponent has no Digimon with digivolution cards, this [Ice-Snow] trait Digimon gains ＜Piercing＞  (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.) and ＜Security A. +1＞  (This Digimon checks 1 additional security card.)",
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/20/EX11-016.png/revision/latest?cb=20260130063419",
+  "inheritedEffect": "[Your Turn] While your opponent has no Digimon with digivolution cards, this [Ice-Snow] trait Digimon gains ＜Piercing＞  (When this Digimon attacks and deletes an opponent's Digimon in battle, it checks security before the attack ends.) and ＜Security A. +1＞  (This Digimon checks 1 additional security card.)",
   "level": "5",
   "name": "PolarBearmon",
   "nameJapanese": "ポーラーベアモン",

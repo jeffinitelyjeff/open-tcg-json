@@ -1,18 +1,106 @@
 {
+  "altDigivolutionRequirements": "[DNA Digivolve] Green Lv.6 + Black Lv.6 : Cost 0\nStack the 2 specified Digimon and digivolve unsuspended.",
+  "attribute": "Data",
   "blockIcon": "05",
+  "cardEffects": "＜Security A. +1＞ (This Digimon checks 1 additional security card.)\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n＜Link +2＞ (Add 2 to this Digimon's maximum links.)\n[When Digivolving] If DNA digivolving, you may link up to 3 [Maquinamon] from your hand, trash or this Digimon's digivolution cards to this Digimon without paying the cost.\n[End of Opponent's Turn] [Once Per Turn] For each of this Digimon's link cards, trash your opponent's top security card and return 1 of their Digimon to the bottom of the deck.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
-    "korean": "Not released",
+    "korean": "Unrestricted",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Green/Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "5",
+      "level": "6"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "5",
+      "level": "6"
+    }
+  ],
+  "dp": "15000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-073.png",
+        "imgName": "EX11-073.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cf/EX11-073.png/revision/latest?cb=20260130170319",
+        "uploadDate": "2026-01-30T17:03:19"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-073-Sample.png",
+        "imgName": "EX11-073-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d2/EX11-073-Sample.png/revision/latest?cb=20260115124128",
+        "uploadDate": "2026-01-15T12:41:28"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-073_P1.png",
+        "imgName": "EX11-073_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/ba/EX11-073_P1.png/revision/latest?cb=20260130064136",
+        "uploadDate": "2026-01-30T06:41:36"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-073_P1-Sample.png",
+        "imgName": "EX11-073_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/57/EX11-073_P1-Sample.png/revision/latest?cb=20260115124110",
+        "uploadDate": "2026-01-15T12:41:10"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-073_P2.png",
+        "imgName": "EX11-073_P2.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1d/EX11-073_P2.png/revision/latest?cb=20260130165451",
+        "uploadDate": "2026-01-30T16:54:51"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-073-J.png",
+        "imgName": "EX11-073-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/94/EX11-073-J.png/revision/latest?cb=20260130065720",
+        "uploadDate": "2026-01-30T06:57:20"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-073_P1-J.png",
+        "imgName": "EX11-073_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9e/EX11-073_P1-J.png/revision/latest?cb=20260130065605",
+        "uploadDate": "2026-01-30T06:56:05"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-073_P2-J.png",
+        "imgName": "EX11-073_P2-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fe/EX11-073_P2-J.png/revision/latest?cb=20260130065719",
+        "uploadDate": "2026-01-30T06:57:19"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cf/EX11-073.png/revision/latest?cb=20260130170319",
+  "level": "7",
+  "name": "ExMaquinamon",
+  "nameJapanese": "エクスマキナモン",
+  "playCost": "15",
+  "rarity": "Secret Rare",
   "setData": {
     "ch": [
       {
@@ -20,10 +108,32 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Secret Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Rare Pull",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
         }
       }
     ],
@@ -33,10 +143,32 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Secret Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Rare Pull",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
         }
       }
     ],
@@ -46,10 +178,32 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Secret Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Rare Pull",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
         }
       }
     ],
@@ -59,12 +213,35 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Secret Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Rare Pull",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
         }
       }
     ]
-  }
+  },
+  "type": "Unique/LIBERATOR"
 }

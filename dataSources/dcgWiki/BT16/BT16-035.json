@@ -1,15 +1,15 @@
 {
   "attribute": "Vaccine",
   "blockIcon": "03",
-  "cardEffects": "＜Barrier＞ (When this Digimon would be deleted in battle, by trashing the top card of your security stack, prevent that deletion.)\n＜Reboot＞ (Unsuspend this Digimon during your opponent's unsuspend phase.)\n[All Turns] [Once Per Turn] When a card is removed from your security stack, you may unsuspend this Digimon.",
+  "cardEffects": "＜Barrier＞ (When this Digimon would be deleted in battle, by trashing your top security card, it isn't deleted.)\n＜Reboot＞ (This Digimon also unsuspends in your opponent's unsuspend phase.)\n[All Turns] [Once Per Turn] When a card is removed from your security stack, you may unsuspend this Digimon.",
   "cardRestriction": {
     "chinese": "Unrestricted",
     "english": "Unrestricted",
-    "korean": "Not released",
+    "korean": "Unrestricted",
     "nameJapanese": "Unrestricted"
   },
   "cardType": "Digimon",
-  "color": "Yellow / Black",
+  "color": "Yellow/Black",
   "digivolutionRequirements": [
     {
       "color": "Yellow",

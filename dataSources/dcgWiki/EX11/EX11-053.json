@@ -1,18 +1,78 @@
 {
+  "attribute": "Data",
   "blockIcon": "05",
+  "cardEffects": "[On Play] By placing 1 [Royal Knight] trait Digimon card from your hand as the bottom digivolution card of any of your [King Drasil_7D6]s on the field, ＜Draw 1＞ (Draw 1 card from your deck.)\n[On Deletion] If you have 1 or fewer security cards, you may play 1 [Omnimon (X Antibody)] from your hand or under your [King Drasil_7D6]s on the field without paying the cost. Then, place this card as the played Digimon's bottom digivolution card.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
-    "korean": "Not released",
+    "korean": "Unrestricted",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "White",
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-053.png",
+        "imgName": "EX11-053.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d9/EX11-053.png/revision/latest?cb=20260130063933",
+        "uploadDate": "2026-01-30T06:39:33"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-053-Sample.png",
+        "imgName": "EX11-053-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/01/EX11-053-Sample.png/revision/latest?cb=20260120123755",
+        "uploadDate": "2026-01-20T12:37:55"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-053_P1.png",
+        "imgName": "EX11-053_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/ac/EX11-053_P1.png/revision/latest?cb=20260130064135",
+        "uploadDate": "2026-01-30T06:41:35"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-053_P1-Sample.png",
+        "imgName": "EX11-053_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/35/EX11-053_P1-Sample.png/revision/latest?cb=20260120123750",
+        "uploadDate": "2026-01-20T12:37:50"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-053-J.png",
+        "imgName": "EX11-053-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d1/EX11-053-J.png/revision/latest?cb=20260130065603",
+        "uploadDate": "2026-01-30T06:56:03"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-053_P1-J.png",
+        "imgName": "EX11-053_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4e/EX11-053_P1-J.png/revision/latest?cb=20260130065603",
+        "uploadDate": "2026-01-30T06:56:03"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d9/EX11-053.png/revision/latest?cb=20260130063933",
+  "level": "4",
+  "name": "Omekamon",
+  "nameJapanese": "オメカモン",
+  "playCost": "5",
+  "rarity": "Super Rare",
+  "rule": "[Rule] Name: Also treated as [X Antibody].",
   "setData": {
     "ch": [
       {
@@ -20,10 +80,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Minato_Sashima",
+          "text": "Minato Sashima"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
         }
       }
     ],
@@ -33,10 +104,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Minato_Sashima",
+          "text": "Minato Sashima"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
         }
       }
     ],
@@ -46,10 +128,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Minato_Sashima",
+          "text": "Minato Sashima"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
         }
       }
     ],
@@ -59,12 +152,24 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Minato_Sashima",
+          "text": "Minato Sashima"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
         }
       }
     ]
-  }
+  },
+  "type": "Puppet/X Antibody/LIBERATOR"
 }

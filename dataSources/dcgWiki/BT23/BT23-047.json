@@ -2,15 +2,15 @@
   "altDigivolutionRequirements": "[Digivolve]  Lv.6 w/[CS] trait: Cost 5 \n[DNA Digivolve] Green Lv.6 + Blue Lv.6 : Cost 0\nStack the 2 specified Digimon and digivolve unsuspended.",
   "attribute": "Data",
   "blockIcon": "05",
-  "cardEffects": "＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.)\n＜Security A. +1＞ (This Digimon checks 1 additional security card.)\n＜Partition (green Lv.5 & blue Lv.5)＞ (When this Digimon with each of the specified digivolution cards would leave the battle area other than by your own effects or by battle, you may play 1 each of the specified cards without paying the costs.)\n[On Play] [When Digivolving] Suspend 5 of your opponent's Digimon or Tamers. None of your opponent's Digimon can unsuspend in their next unsuspend phase. Then, this Digimon may attack.\n[Your Turn] [Once Per Turn] When your opponent's security stack is removed from, trash 1 of their Option cards in the battle area. Then, delete 1 of their suspended Digimon or Tamers.",
+  "cardEffects": "＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon in battle, it checks security before the attack ends.)\n＜Security A. +1＞ (This Digimon checks 1 additional security card.)\n＜Partition (green Lv.5 & blue Lv.5)＞ (When this Digimon with each of the specified digivolution cards would leave the battle area other than by your own effects or by battle, you may play 1 each of the specified cards without paying the costs.)\n[On Play] [When Digivolving] Suspend 5 of your opponent's Digimon or Tamers. None of your opponent's Digimon can unsuspend in their next unsuspend phase. Then, this Digimon may attack.\n[Your Turn] [Once Per Turn] When your opponent's security stack is removed from, trash 1 of their Option cards in the battle area. Then, delete 1 of their suspended Digimon or Tamers.",
   "cardRestriction": {
-    "chinese": "Not released",
-    "english": "Not released",
-    "korean": "Not released",
-    "nameJapanese": "Not released"
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
   },
   "cardType": "Digimon",
-  "color": "Green / Red / Blue",
+  "color": "Green/Red/Blue",
   "digivolutionRequirements": [
     {
       "color": "Green",

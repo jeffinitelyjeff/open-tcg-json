@@ -2,15 +2,15 @@
   "altDigivolutionRequirements": "[DNA Digivolve] Yellow Lv.6 + Black Lv.6 : Cost 0\nStack the 2 specified Digimon and digivolve unsuspended.",
   "attribute": "Vaccine",
   "blockIcon": "03",
-  "cardEffects": "＜Barrier＞ (When this Digimon would be deleted in battle, by trashing the top card of your security stack, prevent that deletion.)\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n＜Partition (Yellow Lv.6 & Black Lv.6)＞ (When this Digimon with each of the specified digivolution cards would leave the battle area other than by your own effects or by battle, you may play 1 each of the specified cards without paying the costs.)\n[When Digivolving] ＜De-Digivolve  3＞ 1 of your opponent's Digimon. (Trash up to 3 cards from the top. You can't trash past level 3 cards.) Then, 1 of their Digimon gets -8000 DP for the turn.\n[End of Opponent's Turn] Trash the top card of both players' security stacks.",
+  "cardEffects": "＜Barrier＞ (When this Digimon would be deleted in battle, by trashing your top security card, it isn't deleted.)\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n＜Partition (Yellow Lv.6 & Black Lv.6)＞ (When this Digimon with each of the specified digivolution cards would leave the battle area other than by your own effects or by battle, you may play 1 each of the specified cards without paying the costs.)\n[When Digivolving] ＜De-Digivolve  3＞ 1 of your opponent's Digimon. (Trash up to 3 cards from the top. You can't trash past level 3 cards.) Then, 1 of their Digimon gets -8000 DP for the turn.\n[End of Opponent's Turn] Trash the top card of both players' security stacks.",
   "cardRestriction": {
     "chinese": "Unrestricted",
     "english": "Unrestricted",
-    "korean": "Not released",
+    "korean": "Unrestricted",
     "nameJapanese": "Unrestricted"
   },
   "cardType": "Digimon",
-  "color": "Yellow / Black",
+  "color": "Yellow/Black",
   "digivolutionRequirements": [
     {
       "color": "Yellow",

@@ -1,18 +1,57 @@
 {
+  "altDigivolutionRequirements": "[DNA Digivolve] Lv.6 w/[Greymon] in name + Lv.6 w/[Garurumon] in name : Cost 0\nStack the 2 specified Digimon and digivolve unsuspended.",
+  "assemblyRequirements": "[Assembly -6] [WarGreymon] x [MetalGarurumon] \nWhen this would be played, by placing the specified cards from the trash under it, reduce the play cost.",
+  "attribute": "Vaccine",
   "blockIcon": "05",
+  "cardEffects": "＜Raid＞ (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.)\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n＜Partition ([WarGreymon] & [MetalGarurumon])＞ (When this Digimon with each of the specified digivolution cards would leave the battle area other than by your own effects or by battle, you may play 1 each of the specified cards without paying the costs.)\n[On Play] [When Digivolving] Return all of your opponent's Digimon with as many or fewer digivolution cards as this Digimon to the bottom of the deck. Then, delete 1 of your opponent's Digimon.\n[All Turns] [Once Per Turn] When any of your opponent's Digimon leave the battle area, trash 1 of their Option cards in the battle area and trash their top security card.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Red/White/Blue",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "5",
+      "level": "6"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "5",
+      "level": "6"
+    }
+  ],
+  "dp": "15000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+        "captionText": "AD-01: Advanced Booster Digimon Generation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:AD1-025-Sample.png",
+        "imgName": "AD1-025-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/63/AD1-025-Sample.png/revision/latest?cb=20260215013542",
+        "uploadDate": "2026-02-15T01:35:42"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+        "captionText": "AD-01: Advanced Booster Digimon Generation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:AD1-025_P1-Sample.png",
+        "imgName": "AD1-025_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/09/AD1-025_P1-Sample.png/revision/latest?cb=20260215013531",
+        "uploadDate": "2026-02-15T01:35:31"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/63/AD1-025-Sample.png/revision/latest?cb=20260215013542",
+  "level": "7",
+  "name": "Omnimon",
+  "nameJapanese": "オメガモン",
+  "playCost": "15",
+  "rarity": "Secret Rare",
   "setData": {
     "ch": [
       {
@@ -20,7 +59,26 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Secret Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Souichirou_Gunjima",
+          "text": "Souichirou Gunjima"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Rare Pull",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
           "text": "To be completed"
@@ -33,7 +91,26 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Secret Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Souichirou_Gunjima",
+          "text": "Souichirou Gunjima"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Rare Pull",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
           "text": "To be completed"
@@ -46,7 +123,26 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Secret Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Souichirou_Gunjima",
+          "text": "Souichirou Gunjima"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Rare Pull",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
           "text": "To be completed"
@@ -59,12 +155,32 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Secret Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Souichirou_Gunjima",
+          "text": "Souichirou Gunjima"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Rare Pull",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
           "text": "To be completed"
         }
       }
     ]
-  }
+  },
+  "type": "Holy Warrior/Royal Knight/ADVENTURE/Hero"
 }

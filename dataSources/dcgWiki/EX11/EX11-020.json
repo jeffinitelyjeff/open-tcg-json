@@ -1,18 +1,91 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  [Kyaromon]: Cost 0",
+  "attribute": "Data",
   "blockIcon": "05",
+  "cardEffects": "[On Deletion] If deleted other than in battle, you may play 1 [Shoemon] trait from your hand without paying the cost.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
-    "korean": "Not released",
+    "korean": "Unrestricted",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Yellow/Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "1",
+      "level": "2"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "1",
+      "level": "2"
+    }
+  ],
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-020.png",
+        "imgName": "EX11-020.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/40/EX11-020.png/revision/latest?cb=20260130063419",
+        "uploadDate": "2026-01-30T06:34:19"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-020-Sample.png",
+        "imgName": "EX11-020-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c1/EX11-020-Sample.png/revision/latest?cb=20260114063017",
+        "uploadDate": "2026-01-14T06:30:17"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-020_P1.png",
+        "imgName": "EX11-020_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/09/EX11-020_P1.png/revision/latest?cb=20260130170026",
+        "uploadDate": "2026-01-30T17:00:26"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-020_P1-Sample.png",
+        "imgName": "EX11-020_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0b/EX11-020_P1-Sample.png/revision/latest?cb=20260126165607",
+        "uploadDate": "2026-01-26T16:56:07"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-020-J.png",
+        "imgName": "EX11-020-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c3/EX11-020-J.png/revision/latest?cb=20260130063616",
+        "uploadDate": "2026-01-30T06:36:16"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-020_P1-J.png",
+        "imgName": "EX11-020_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/49/EX11-020_P1-J.png/revision/latest?cb=20260130064400",
+        "uploadDate": "2026-01-30T06:44:00"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/40/EX11-020.png/revision/latest?cb=20260130063419",
+  "inheritedEffect": "[Opponent's Turn] [Once Per Turn] When one of your opponent's Digimon attacks, by deleting 1 of your other Digimon, end that attack.",
+  "level": "3",
+  "name": "Hanimon",
+  "nameJapanese": "ハニモン",
+  "playCost": "3",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -20,10 +93,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Rare Pull",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shoyama_Seihou",
+          "text": "Shoyama Seihou"
         }
       }
     ],
@@ -33,10 +117,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Rare Pull",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shoyama_Seihou",
+          "text": "Shoyama Seihou"
         }
       }
     ],
@@ -46,10 +141,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Rare Pull",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shoyama_Seihou",
+          "text": "Shoyama Seihou"
         }
       }
     ],
@@ -59,12 +165,24 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Rare Pull",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shoyama_Seihou",
+          "text": "Shoyama Seihou"
         }
       }
     ]
-  }
+  },
+  "type": "Puppet/LIBERATOR"
 }

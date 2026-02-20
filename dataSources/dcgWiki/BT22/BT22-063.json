@@ -2,7 +2,7 @@
   "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[CS] trait: Cost 3 \n[Digivolve]  While you have 3 or fewer security cards, [Kyoko Kuremi]: Cost 5",
   "attribute": "Vaccine",
   "blockIcon": "05",
-  "cardEffects": "＜Reboot＞ (Unsuspend this Digimon during your opponent's unsuspend phase.)\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Play] [When Digivolving] [When Attacking] 1 of your opponent's Digimon gets -5000 DP for the turn.\n[All Turns] [Once Per Turn] When this Digimon suspends, if [Kyoko Kuremi] is in this Digimon's digivolution cards or if this Digimon's stack has 2 or more same-level cards, it gets +3000 DP until your opponent's turn ends. Then, this Digimon unsuspends.",
+  "cardEffects": "＜Reboot＞ (This Digimon also unsuspends in your opponent's unsuspend phase.)\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Play] [When Digivolving] [When Attacking] 1 of your opponent's Digimon gets -5000 DP for the turn.\n[All Turns] [Once Per Turn] When this Digimon suspends, if [Kyoko Kuremi] is in this Digimon's digivolution cards or if this Digimon's stack has 2 or more same-level cards, it gets +3000 DP until your opponent's turn ends. Then, this Digimon unsuspends.",
   "cardRestriction": {
     "chinese": "Unrestricted",
     "english": "Unrestricted",
@@ -10,7 +10,7 @@
     "nameJapanese": "Unrestricted"
   },
   "cardType": "Digimon",
-  "color": "Black / Yellow",
+  "color": "Black/Yellow",
   "digivolutionRequirements": [
     {
       "color": "Black",

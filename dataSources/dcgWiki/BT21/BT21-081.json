@@ -1,6 +1,6 @@
 {
   "blockIcon": "05",
-  "cardEffects": "[Start of Your Main Phase] If your opponent has a Digimon, gain 1 memory.\n[End of Your Turn] By suspending this Tamer, 1 of your Digimon with the [Reptile] or [Dragonkin] trait gains ＜Piercing＞ for the turn. (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.) Then, that Digimon attacks.",
+  "cardEffects": "[Start of Your Main Phase] If your opponent has a Digimon, gain 1 memory.\n[End of Your Turn] By suspending this Tamer, 1 of your Digimon with the [Reptile] or [Dragonkin] trait gains ＜Piercing＞ for the turn. (When this Digimon attacks and deletes an opponent's Digimon in battle, it checks security before the attack ends.) Then, that Digimon attacks.",
   "cardRestriction": {
     "chinese": "Unrestricted",
     "english": "Unrestricted",
@@ -78,8 +78,8 @@
     ],
     "rulings": [
       {
-        "answer": "No, you can't.The Digimon that was given ＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.) by this effect must attack if possible.",
-        "question": "Can I use this card's [End of Your Turn] effect to give ＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.) to 1 of my Digimon, but then choose to not attack with that Digimon?",
+        "answer": "No, you can't.The Digimon that was given ＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon in battle, it checks security before the attack ends.) by this effect must attack if possible.",
+        "question": "Can I use this card's [End of Your Turn] effect to give ＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon in battle, it checks security before the attack ends.) to 1 of my Digimon, but then choose to not attack with that Digimon?",
         "reference": "[1]"
       },
       {

@@ -1,16 +1,16 @@
 {
   "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[RizeGreymon] in name: Cost 3",
   "attribute": "Vaccine",
-  "blockIcon": "02",
+  "blockIcon": "02,05",
   "cardEffects": "[Start of Your Main Phase] [When Digivolving] Until the end of your opponent's turn, 1 of your [Marcus Damon]s is also treated as a 3000 DP Digimon, can't digivolve, and gains ＜Blocker＞.\n[All Turns] [Once Per Turn] When one of your red or yellow Tamers becomes suspended, 1 of your opponent's Digimon gets -6000 DP for the turn.",
   "cardRestriction": {
     "chinese": "Unrestricted",
     "english": "Unrestricted",
-    "korean": "Not released",
+    "korean": "Unrestricted",
     "nameJapanese": "Unrestricted"
   },
   "cardType": "Digimon",
-  "color": "Red / Yellow",
+  "color": "Red/Yellow",
   "digivolutionRequirements": [
     {
       "color": "Red",
@@ -37,7 +37,7 @@
       },
       {
         "captionLink": "https://digimoncardgame.fandom.com/wiki/Royal_Knights_Pre-Release_Pack",
-        "captionText": "Royal Knights Pre-Release Pack (EN)",
+        "captionText": "Royal Knights Pre-Release Pack} (EN)",
         "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-018_P0.png",
         "imgName": "BT13-018_P0.png",
         "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e5/BT13-018_P0.png/revision/latest?cb=20230714195733",
@@ -68,14 +68,6 @@
         "imgName": "BT13-018-J.png",
         "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c3/BT13-018-J.png/revision/latest?cb=20230217122643",
         "uploadDate": "2023-02-17T12:26:43"
-      },
-      {
-        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
-        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
-        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-018-Sample-J.png",
-        "imgName": "BT13-018-Sample-J.png",
-        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c2/BT13-018-Sample-J.png/revision/latest?cb=20230126091315",
-        "uploadDate": "2023-01-26T09:13:15"
       },
       {
         "captionLink": null,
@@ -111,6 +103,19 @@
     ]
   },
   "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      }
+    ],
     "en": [
       {
         "boosterSet": {
@@ -155,6 +160,17 @@
           "link": "https://digimoncardgame.fandom.com/wiki/Category:E_Volution",
           "text": "E_Volution_"
         }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
       }
     ],
     "jp": [
@@ -175,6 +191,30 @@
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:E_Volution",
           "text": "E_Volution_"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
         }
       }
     ]

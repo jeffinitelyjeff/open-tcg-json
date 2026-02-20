@@ -1,18 +1,74 @@
 {
   "blockIcon": "05",
+  "cardEffects": "[Start of Your Turn] If you have 2 or less memory, set it to 3.\n[All Turns] When any of your Tokens or [Puppet] trait Digimon are deleted, by suspending this Tamer, ＜Draw 1＞ (Draw 1 card from your deck.) If deleted by ＜Overclock＞, you may play 1 level 4 or lower [Puppet] trait Digimon card from your hand without paying the cost.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
-    "korean": "Not released",
+    "korean": "Unrestricted",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Tamer",
+  "color": "Yellow",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-060.png",
+        "imgName": "EX11-060.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/49/EX11-060.png/revision/latest?cb=20260130165203",
+        "uploadDate": "2026-01-30T16:52:03"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-060-Sample.png",
+        "imgName": "EX11-060-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/34/EX11-060-Sample.png/revision/latest?cb=20260113123048",
+        "uploadDate": "2026-01-13T12:30:48"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-060_P1.png",
+        "imgName": "EX11-060_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9c/EX11-060_P1.png/revision/latest?cb=20260130165202",
+        "uploadDate": "2026-01-30T16:52:02"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-060_P1-Sample.png",
+        "imgName": "EX11-060_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/ca/EX11-060_P1-Sample.png/revision/latest?cb=20260113123054",
+        "uploadDate": "2026-01-13T12:30:54"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-060-J.png",
+        "imgName": "EX11-060-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1d/EX11-060-J.png/revision/latest?cb=20260130065604",
+        "uploadDate": "2026-01-30T06:56:04"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-060_P1-J.png",
+        "imgName": "EX11-060_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/73/EX11-060_P1-J.png/revision/latest?cb=20260130065604",
+        "uploadDate": "2026-01-30T06:56:04"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/49/EX11-060.png/revision/latest?cb=20260130165203",
+  "name": "Arisa Kinosaki",
+  "nameJapanese": "城之崎有紗",
+  "playCost": "4",
+  "rarity": "Super Rare",
+  "securityEffect": "[Security] Play this card without paying the cost.",
   "setData": {
     "ch": [
       {
@@ -20,10 +76,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shin_Sasaki",
+          "text": "Shin Sasaki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
         }
       }
     ],
@@ -33,10 +100,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shin_Sasaki",
+          "text": "Shin Sasaki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
         }
       }
     ],
@@ -46,10 +124,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shin_Sasaki",
+          "text": "Shin Sasaki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
         }
       }
     ],
@@ -59,12 +148,24 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shin_Sasaki",
+          "text": "Shin Sasaki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Teppei_Tadokoro",
+          "text": "Teppei Tadokoro"
         }
       }
     ]
-  }
+  },
+  "type": "LIBERATOR"
 }

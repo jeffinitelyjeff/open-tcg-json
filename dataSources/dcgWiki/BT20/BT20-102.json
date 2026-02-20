@@ -1,16 +1,16 @@
 {
   "altDigivolutionRequirements": "[Digivolve]  [Omnimon]: Cost 2",
   "attribute": "Vaccine",
-  "blockIcon": "04",
-  "cardEffects": "＜Raid＞ (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.)\n＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.)\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Play] [When Digivolving] If [Omnimon] or [X Antibody] is in this Digimon's digivolution cards, choose 1 of both players' Digimon and delete all other Digimon. Then, return 1 of your opponent's Digimon to the bottom of the deck.\n[End of Your Turn] [Once Per Turn] 1 of your Digimon may gain ＜Rush＞ (This Digimon can attack the turn it comes into play.) for the turn and attack without suspending.",
+  "blockIcon": "04,05",
+  "cardEffects": "＜Raid＞ (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.)\n＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon in battle, it checks security before the attack ends.)\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Play] [When Digivolving] If [Omnimon] or [X Antibody] is in this Digimon's digivolution cards, choose 1 of both players' Digimon and delete all other Digimon. Then, return 1 of your opponent's Digimon to the bottom of the deck.\n[End of Your Turn] [Once Per Turn] 1 of your Digimon may gain ＜Rush＞ (This Digimon can attack the turn it comes into play.) for the turn and attack without suspending.",
   "cardRestriction": {
     "chinese": "Unrestricted",
     "english": "Unrestricted",
-    "korean": "Not released",
+    "korean": "Unrestricted",
     "nameJapanese": "Unrestricted"
   },
   "cardType": "Digimon",
-  "color": "Blue / White / Red",
+  "color": "Blue/White/Red",
   "digivolutionRequirements": [
     {
       "color": "Blue",
@@ -161,6 +161,30 @@
     ]
   },
   "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Secret Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Gold Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      }
+    ],
     "en": [
       {
         "boosterSet": {
@@ -193,6 +217,28 @@
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
           "text": "As'Maria"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Secret Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Gold Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
         }
       }
     ],
@@ -228,6 +274,52 @@
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:As%27Maria",
           "text": "As'Maria"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Secret Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Gold Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Secret Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Gold Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
         }
       }
     ]

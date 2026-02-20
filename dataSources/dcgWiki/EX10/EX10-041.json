@@ -4,13 +4,13 @@
   "blockIcon": "05",
   "cardEffects": "When effects trash this card from the deck or security stack, give 1 of your opponent's Digimon ＜Security A. -1＞  (This Digimon checks 1 additional security card.) until their turn ends.\n[On Play] [When Digivolving] By trashing your top security card, trash the top 2 cards of your deck and all of your opponent's Digimon get -3000 DP for the turn.",
   "cardRestriction": {
-    "chinese": "Not released",
-    "english": "Not released",
-    "korean": "Not released",
-    "nameJapanese": "Not released"
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
   },
   "cardType": "Digimon",
-  "color": "Purple / Yellow",
+  "color": "Purple/Yellow",
   "digivolutionRequirements": [
     {
       "color": "Purple",
@@ -72,7 +72,7 @@
     ]
   },
   "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/80/EX10-041.png/revision/latest?cb=20250905051359",
-  "inheritedEffect": "＜Barrier＞ (When this Digimon would be deleted in battle, by trashing the top card of your security stack, prevent that deletion.)",
+  "inheritedEffect": "＜Barrier＞ (When this Digimon would be deleted in battle, by trashing your top security card, it isn't deleted.)",
   "level": "4",
   "name": "Wizardmon",
   "nameJapanese": "ウィザーモン",

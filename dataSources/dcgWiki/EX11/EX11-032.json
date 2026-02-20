@@ -1,18 +1,75 @@
 {
+  "attribute": "Data",
   "blockIcon": "05",
+  "cardEffects": "[Hand] [Main] If you have [Shoto Kazama], by placing 1 [Galemon] from your trash as any of your [Pteromon]'s bottom digivolution card, it digivolves into this card for a digivolution cost of 3, ignoring digivolution requirements.\n[When Digivolving] You may suspend 1 Digimon. Then, you may play 1 3000 DP or lower green Digimon card with [Avian] or [Bird] in any of its traits from your hand without paying the cost. For each suspended Digimon, add 1000 to this effect's DP maximum.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
-    "korean": "Not released",
+    "korean": "Unrestricted",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-032.png",
+        "imgName": "EX11-032.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f4/EX11-032.png/revision/latest?cb=20260130063715",
+        "uploadDate": "2026-01-30T06:37:15"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-032-Sample.png",
+        "imgName": "EX11-032-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/15/EX11-032-Sample.png/revision/latest?cb=20260119064007",
+        "uploadDate": "2026-01-19T06:40:07"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-032_P1.png",
+        "imgName": "EX11-032_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9a/EX11-032_P1.png/revision/latest?cb=20260130063715",
+        "uploadDate": "2026-01-30T06:37:15"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-032-J.png",
+        "imgName": "EX11-032-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/12/EX11-032-J.png/revision/latest?cb=20260130064401",
+        "uploadDate": "2026-01-30T06:44:01"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-032_P1-J.png",
+        "imgName": "EX11-032_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b7/EX11-032_P1-J.png/revision/latest?cb=20260130064401",
+        "uploadDate": "2026-01-30T06:44:01"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f4/EX11-032.png/revision/latest?cb=20260130063715",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When this Digimon wins a battle, this [Vortex Warriors] trait Digimon may unsuspend.",
+  "level": "5",
+  "name": "GrandGalemon",
+  "nameJapanese": "グランゲイルモン",
+  "playCost": "8",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -20,10 +77,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
         }
       }
     ],
@@ -33,10 +101,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
         }
       }
     ],
@@ -46,10 +125,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
         }
       }
     ],
@@ -59,12 +149,24 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
         }
       }
     ]
-  }
+  },
+  "type": "Bird Dragon/Vortex Warriors/LIBERATOR"
 }

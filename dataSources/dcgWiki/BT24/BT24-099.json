@@ -2,14 +2,13 @@
   "blockIcon": "05",
   "cardEffects": "While you have an [Appmon] trait Digimon or Tamer on the field, you can ignore this card's color requirements.\n[Main] By trashing 1 [Appmon] card from your hand, ＜Draw 2＞ (Draw 2 cards from your deck.) Then, place this card in the battle area.\n[All Turns] When Digimon are deleted, ＜Delay＞ (By trashing this card after the placing turn, activate the effect below.)\n・You may link 1 [Appmon] Digimon card from your trash to 1 of your Digimon without paying the cost.",
   "cardRestriction": {
-    "chinese": "Not released",
-    "english": "Not released",
-    "korean": "Not released",
-    "nameJapanese": "Not released"
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
   },
   "cardType": "Option",
   "color": "Purple",
-  "form": "Appmon",
   "galleryImages": {
     "en": [
       {
@@ -87,5 +86,6 @@
       }
     ]
   },
+  "type": "Appmon",
   "useCost": "3"
 }

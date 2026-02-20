@@ -1,11 +1,11 @@
 {
   "attribute": "Vaccine",
   "blockIcon": "03",
-  "cardEffects": "When an effect trashes this card from the security stack, you may play it without paying the cost.\n＜Barrier＞ (When this Digimon would be deleted in battle, by trashing the top card of your security stack, prevent that deletion.)\n[All Turns] [Once Per Turn] When a card is removed from your security stack, gain 1 memory.",
+  "cardEffects": "When an effect trashes this card from the security stack, you may play it without paying the cost.\n＜Barrier＞ (When this Digimon would be deleted in battle, by trashing your top security card, it isn't deleted.)\n[All Turns] [Once Per Turn] When a card is removed from your security stack, gain 1 memory.",
   "cardRestriction": {
     "chinese": "Unrestricted",
     "english": "Unrestricted",
-    "korean": "Not released",
+    "korean": "Unrestricted",
     "nameJapanese": "Unrestricted"
   },
   "cardType": "Digimon",
@@ -72,7 +72,7 @@
     ]
   },
   "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bc/BT15-037.png/revision/latest?cb=20240209090323",
-  "inheritedEffect": "＜Barrier＞ (When this Digimon would be deleted in battle, by trashing the top card of your security stack, prevent that deletion.)",
+  "inheritedEffect": "＜Barrier＞ (When this Digimon would be deleted in battle, by trashing your top security card, it isn't deleted.)",
   "level": "4",
   "name": "Gatomon",
   "nameJapanese": "テイルモン",

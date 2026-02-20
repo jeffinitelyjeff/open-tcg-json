@@ -2,7 +2,7 @@
   "altDigivolutionRequirements": "[Digivolve]  Lv.6 w/[Royal Knight] trait: Cost 5",
   "attribute": "Data",
   "blockIcon": "02",
-  "cardEffects": "[When Digivolving] You may place 1 card with the [Royal Knight] trait and a play cost of 13 or less from your hand or trash under this Digimon as its bottom digivolution card. Activate 1 of that card's [When Digivolving] effects as an effect of this Digimon. Then, ＜Blitz＞ (If your opponent has 1 or more memory, this Digimon may attack.).\n[All Turns] While a card with the [Royal Knight] trait is in this Digimon's digivolution cards, this Digimon gains ＜Piercing＞  (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.) and ＜Blocker＞ (This Digimon can block in the blocker timing.), and gains ＜Security A. +1＞  (This Digimon checks 1 additional security card.) for each card with the [Royal Knight] trait in this Digimon's digivolution cards.",
+  "cardEffects": "[When Digivolving] You may place 1 card with the [Royal Knight] trait and a play cost of 13 or less from your hand or trash under this Digimon as its bottom digivolution card. Activate 1 of that card's [When Digivolving] effects as an effect of this Digimon. Then, ＜Blitz＞ (If your opponent has 1 or more memory, this Digimon may attack.).\n[All Turns] While a card with the [Royal Knight] trait is in this Digimon's digivolution cards, this Digimon gains ＜Piercing＞  (When this Digimon attacks and deletes an opponent's Digimon in battle, it checks security before the attack ends.) and ＜Blocker＞ (This Digimon can block in the blocker timing.), and gains ＜Security A. +1＞  (This Digimon checks 1 additional security card.) for each card with the [Royal Knight] trait in this Digimon's digivolution cards.",
   "cardRestriction": {
     "chinese": "Unrestricted",
     "english": "Unrestricted",
@@ -10,7 +10,7 @@
     "nameJapanese": "Unrestricted"
   },
   "cardType": "Digimon",
-  "color": "Red / Black",
+  "color": "Red/Black",
   "digivolutionRequirements": [
     {
       "color": "Red",

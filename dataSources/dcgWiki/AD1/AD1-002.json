@@ -1,18 +1,50 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  [Takuya Kanbara] w/2 or more [Hybrid] trait cards under: Cost 3",
+  "attribute": "Variable",
   "blockIcon": "05",
+  "cardEffects": "＜Rush＞ (This Digimon can attack the turn it comes into play.)\n[When Digivolving] Delete 1 of your opponent's Digimon with as much or less DP as this Digimon.\n[End of Attack] [On Deletion] You may trash 1 [Hybrid] or [Ten Warriors] trait card from your hand. If this effect trashed, ＜Draw 2＞ (Draw 2 cards from your deck.) Then, you may play 1 red, blue or green Tamer card with inherited effects from your hand or trash without paying the cost.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "8000 DP",
+  "form": "Hybrid",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+        "captionText": "AD-01: Advanced Booster Digimon Generation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:AD1-002-Sample.png",
+        "imgName": "AD1-002-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d8/AD1-002-Sample.png/revision/latest?cb=20260215013707",
+        "uploadDate": "2026-02-15T01:37:07"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+        "captionText": "AD-01: Advanced Booster Digimon Generation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:AD1-002_P1-Sample.png",
+        "imgName": "AD1-002_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/37/AD1-002_P1-Sample.png/revision/latest?cb=20260215013717",
+        "uploadDate": "2026-02-15T01:37:17"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d8/AD1-002-Sample.png/revision/latest?cb=20260215013707",
+  "inheritedEffect": "[Your Turn] This Digimon gets +4000 DP.",
+  "level": "5",
+  "name": "Aldamon",
+  "nameJapanese": "アルダモン",
+  "playCost": "8",
+  "rarity": "Super Rare",
   "setData": {
     "ch": [
       {
@@ -20,10 +52,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:IWAO",
+          "text": "IWAO"
         }
       }
     ],
@@ -33,10 +73,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:IWAO",
+          "text": "IWAO"
         }
       }
     ],
@@ -46,10 +94,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:IWAO",
+          "text": "IWAO"
         }
       }
     ],
@@ -59,12 +115,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:IWAO",
+          "text": "IWAO"
         }
       }
     ]
-  }
+  },
+  "type": "Wizard"
 }

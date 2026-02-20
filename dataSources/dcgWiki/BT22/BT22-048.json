@@ -2,7 +2,7 @@
   "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[CS] trait: Cost 2",
   "attribute": "Data",
   "blockIcon": "05",
-  "cardEffects": "[On Play] [When Digivolving] 1 of your Digimon gets +3000 DP for the turn. Then, if this Digimon's stack has 2 or more same-level cards, this Digimon gains ＜Raid＞  (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.) and ＜Piercing＞ for the turn. (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.)",
+  "cardEffects": "[On Play] [When Digivolving] 1 of your Digimon gets +3000 DP for the turn. Then, if this Digimon's stack has 2 or more same-level cards, this Digimon gains ＜Raid＞  (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.) and ＜Piercing＞ for the turn. (When this Digimon attacks and deletes an opponent's Digimon in battle, it checks security before the attack ends.)",
   "cardRestriction": {
     "chinese": "Unrestricted",
     "english": "Unrestricted",
@@ -10,7 +10,7 @@
     "nameJapanese": "Unrestricted"
   },
   "cardType": "Digimon",
-  "color": "Green / Red",
+  "color": "Green/Red",
   "digivolutionRequirements": [
     {
       "color": "Green",
@@ -42,6 +42,14 @@
         "imgName": "BT22-048-Sample.png",
         "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e6/BT22-048-Sample.png/revision/latest?cb=20250531130348",
         "uploadDate": "2025-05-31T13:03:48"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Judge_Pack_2025_Season_2",
+        "captionText": "Judge Pack 2025 Season 2 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT22-048_P1.png",
+        "imgName": "BT22-048_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a4/BT22-048_P1.png/revision/latest?cb=20260204094808",
+        "uploadDate": "2026-02-04T09:48:08"
       }
     ],
     "jp": [

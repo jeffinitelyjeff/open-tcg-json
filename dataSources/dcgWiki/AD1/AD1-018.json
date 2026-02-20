@@ -1,18 +1,56 @@
 {
+  "attribute": "Virus",
   "blockIcon": "05",
+  "cardEffects": "When this card would be played, if you have 4 or more cards with [Knightmon] or [Lucemon] in its text in your trash, reduce the play cost by 5.\n[On Play] [When Digivolving] Until your opponent's turn ends, their Digimon's effects don't affect 1 of your Digimon.\n[All Turns] [Once Per Turn] When any of your Digimon with [Knightmon] or [Lucemon] in its text are played, ＜De-Digivolve  2＞ 1 of your opponent's Digimon. (Trash up to 2 cards from the top. You can't trash past level 3 cards.)",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Purple/Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "3",
+      "level": "5"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "5"
+    }
+  ],
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+        "captionText": "AD-01: Advanced Booster Digimon Generation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:AD1-018-Sample.png",
+        "imgName": "AD1-018-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5f/AD1-018-Sample.png/revision/latest?cb=20260216075844",
+        "uploadDate": "2026-02-16T07:58:44"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+        "captionText": "AD-01: Advanced Booster Digimon Generation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:AD1-018_P1-Sample.png",
+        "imgName": "AD1-018_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0a/AD1-018_P1-Sample.png/revision/latest?cb=20260216075845",
+        "uploadDate": "2026-02-16T07:58:45"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5f/AD1-018-Sample.png/revision/latest?cb=20260216075844",
+  "level": "6",
+  "name": "LordKnightmon",
+  "nameJapanese": "ロードナイトモン",
+  "playCost": "11",
+  "rarity": "Rare",
+  "securityEffect": "[Security] ＜De-Digivolve  1＞ 1 of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.) Then, delete 1 of your opponent's Digimon with a play cost of 3 or less.",
   "setData": {
     "ch": [
       {
@@ -20,10 +58,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       }
     ],
@@ -33,10 +79,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       }
     ],
@@ -46,10 +100,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       }
     ],
@@ -59,12 +121,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       }
     ]
-  }
+  },
+  "type": "Holy Warrior/Royal Knight"
 }

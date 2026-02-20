@@ -1,18 +1,56 @@
 {
+  "attribute": "Data",
   "blockIcon": "05",
+  "cardEffects": "When this card would be played, if you have 4 or more cards with [Lucemon] or [Witchelny] in its text in your trash, reduce the play cost by 5.\n[On Play] [When Digivolving] By trashing your top or bottom security card, all of your opponent's Digimon get -6000 DP for the turn.\n[All Turns] [Once Per Turn] When your security stack is removed from, you may delete 1 of your opponent's lowest DP Digimon.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Yellow/Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "5"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "5"
+    }
+  ],
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+        "captionText": "AD-01: Advanced Booster Digimon Generation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:AD1-017-Sample.png",
+        "imgName": "AD1-017-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8c/AD1-017-Sample.png/revision/latest?cb=20260216075837",
+        "uploadDate": "2026-02-16T07:58:37"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+        "captionText": "AD-01: Advanced Booster Digimon Generation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:AD1-017_P1-Sample.png",
+        "imgName": "AD1-017_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4b/AD1-017_P1-Sample.png/revision/latest?cb=20260216075841",
+        "uploadDate": "2026-02-16T07:58:41"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8c/AD1-017-Sample.png/revision/latest?cb=20260216075837",
+  "level": "6",
+  "name": "Dynasmon",
+  "nameJapanese": "デュナスモン",
+  "playCost": "11",
+  "rarity": "Rare",
+  "securityEffect": "[Security] Give 1 of your opponent's Digimon ＜Security A. -1＞ for the turn. (This Digimon checks 1 additional security card.) Then, 1 of their Digimon gets -3000 DP until your turn ends.",
   "setData": {
     "ch": [
       {
@@ -20,10 +58,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       }
     ],
@@ -33,10 +79,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       }
     ],
@@ -46,10 +100,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       }
     ],
@@ -59,12 +121,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       }
     ]
-  }
+  },
+  "type": "Holy Warrior/Royal Knight"
 }

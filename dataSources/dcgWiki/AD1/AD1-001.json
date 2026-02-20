@@ -1,18 +1,37 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Omnimon] in text or w/[ADVENTURE] trait: Cost 2",
+  "attribute": "Vaccine",
   "blockIcon": "05",
+  "cardEffects": "[On Play] [When Digivolving] You may return 1 card with [Greymon], [Garurumon] or [Omnimon] in its name from your trash to the hand.\n[All Turns] When your Digimon or Tamers are played or digivolve, if any of them have [Garurumon] or [Tai Kamiya] in their names, this Digimon may digivolve into a Digimon card with [Greymon] in its name in the hand without paying the cost.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Red",
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+        "captionText": "AD-01: Advanced Booster Digimon Generation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:AD1-001-Sample.png",
+        "imgName": "AD1-001-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/ac/AD1-001-Sample.png/revision/latest?cb=20260130055919",
+        "uploadDate": "2026-01-30T05:59:19"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/ac/AD1-001-Sample.png/revision/latest?cb=20260130055919",
+  "inheritedEffect": "＜Raid＞ (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.)",
+  "level": "4",
+  "name": "Greymon",
+  "nameJapanese": "グレイモン",
+  "playCost": "5",
+  "rarity": "Rare",
   "setData": {
     "ch": [
       {
@@ -20,7 +39,15 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Regionals_26-27_Season_1_Promotion_Card",
+          "text": "Regionals 26-27 Season 1 Promotion Card"
+        },
+        "foil&Rarity": "Textured - Stamped - Top 16 Prize",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
           "text": "To be completed"
@@ -33,7 +60,15 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Regionals_26-27_Season_1_Promotion_Card",
+          "text": "Regionals 26-27 Season 1 Promotion Card"
+        },
+        "foil&Rarity": "Textured - Stamped - Top 16 Prize",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
           "text": "To be completed"
@@ -46,7 +81,15 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Regionals_26-27_Season_1_Promotion_Card",
+          "text": "Regionals 26-27 Season 1 Promotion Card"
+        },
+        "foil&Rarity": "Textured - Stamped - Top 16 Prize",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
           "text": "To be completed"
@@ -59,12 +102,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Regionals_26-27_Season_1_Promotion_Card",
+          "text": "Regionals 26-27 Season 1 Promotion Card"
+        },
+        "foil&Rarity": "Textured - Stamped - Top 16 Prize",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
           "text": "To be completed"
         }
       }
     ]
-  }
+  },
+  "type": "Dinosaur/ADVENTURE"
 }

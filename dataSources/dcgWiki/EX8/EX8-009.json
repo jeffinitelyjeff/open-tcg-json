@@ -1,16 +1,16 @@
 {
   "altDigivolutionRequirements": "[Digivolve]  [Gigimon]/[Guilmon]: Cost 0",
   "attribute": "Virus",
-  "blockIcon": "04",
+  "blockIcon": "04,05",
   "cardEffects": "[On Play] [When Digivolving] Reveal the top 3 cards of your deck. Add 1 card with [Growlmon] or [Gallantmon] in its name and 1 [X Antibody] among them to the hand. Return the rest to the bottom of the deck.",
   "cardRestriction": {
     "chinese": "Unrestricted",
     "english": "Unrestricted",
-    "korean": "Not released",
+    "korean": "Unrestricted",
     "nameJapanese": "Unrestricted"
   },
   "cardType": "Digimon",
-  "color": "Red / Purple",
+  "color": "Red/Purple",
   "digivolutionRequirements": [
     {
       "color": "Red",
@@ -125,6 +125,17 @@
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
           "text": "Takase"
         }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
       }
     ],
     "en": [
@@ -149,6 +160,17 @@
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
           "text": "Takase"
         }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
       }
     ],
     "jp": [
@@ -172,6 +194,30 @@
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
           "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ]

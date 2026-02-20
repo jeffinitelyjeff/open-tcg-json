@@ -2,7 +2,7 @@
   "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[MetalGreymon] in name: Cost 3",
   "attribute": "Vaccine",
   "blockIcon": "02",
-  "cardEffects": "＜Raid＞ (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.)\n[When Digivolving] Until the end of your opponent's turn, this Digimon gets +3000 DP and ＜Reboot＞ (Unsuspend this Digimon during your opponent's unsuspend phase.)\n[All Turns] [Once Per Turn] When an attack target is switched, unsuspend this Digimon.",
+  "cardEffects": "＜Raid＞ (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.)\n[When Digivolving] Until the end of your opponent's turn, this Digimon gets +3000 DP and ＜Reboot＞ (This Digimon also unsuspends in your opponent's unsuspend phase.)\n[All Turns] [Once Per Turn] When an attack target is switched, unsuspend this Digimon.",
   "cardRestriction": {
     "chinese": "Unrestricted",
     "english": "Unrestricted",
@@ -10,7 +10,7 @@
     "nameJapanese": "Unrestricted"
   },
   "cardType": "Digimon",
-  "color": "Black / Red",
+  "color": "Black/Red",
   "digivolutionRequirements": {
     "color": "Black",
     "digivolveCost": "4",

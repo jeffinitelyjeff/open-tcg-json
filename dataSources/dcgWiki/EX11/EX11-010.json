@@ -1,18 +1,83 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Dinosaur] trait: Cost 3",
+  "attribute": "Data",
   "blockIcon": "05",
+  "cardEffects": "＜Security A. +1＞ (This Digimon checks 1 additional security card.)\n＜Fortitude＞ (When this Digimon with digivolution cards is deleted, play this card without paying the cost.)\n[On Play] [When Digivolving] You may suspend 1 Digimon. Then, if this Digimon is suspended, it gets +4000 DP until your opponent's turn ends.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
-    "korean": "Not released",
+    "korean": "Unrestricted",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Red/Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-010.png",
+        "imgName": "EX11-010.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/42/EX11-010.png/revision/latest?cb=20260130063419",
+        "uploadDate": "2026-01-30T06:34:19"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-010-Sample.png",
+        "imgName": "EX11-010-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b1/EX11-010-Sample.png/revision/latest?cb=20260121071904",
+        "uploadDate": "2026-01-21T07:19:04"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-010_P1.png",
+        "imgName": "EX11-010_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c4/EX11-010_P1.png/revision/latest?cb=20260130063419",
+        "uploadDate": "2026-01-30T06:34:19"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-010-J.png",
+        "imgName": "EX11-010-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a7/EX11-010-J.png/revision/latest?cb=20260130063616",
+        "uploadDate": "2026-01-30T06:36:16"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-010_P1-J.png",
+        "imgName": "EX11-010_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/09/EX11-010_P1-J.png/revision/latest?cb=20260130064359",
+        "uploadDate": "2026-01-30T06:43:59"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/42/EX11-010.png/revision/latest?cb=20260130063419",
+  "inheritedEffect": "＜Security A. +1＞ (This Digimon checks 1 additional security card.)",
+  "level": "5",
+  "name": "MasterTyrannomon",
+  "nameJapanese": "マスターティラノモン",
+  "playCost": "8",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -20,10 +85,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Moyasi",
+          "text": "Moyasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Moyasi",
+          "text": "Moyasi"
         }
       }
     ],
@@ -33,10 +109,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Moyasi",
+          "text": "Moyasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Moyasi",
+          "text": "Moyasi"
         }
       }
     ],
@@ -46,10 +133,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Moyasi",
+          "text": "Moyasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Moyasi",
+          "text": "Moyasi"
         }
       }
     ],
@@ -59,12 +157,24 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Moyasi",
+          "text": "Moyasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Moyasi",
+          "text": "Moyasi"
         }
       }
     ]
-  }
+  },
+  "type": "Dinosaur/LIBERATOR"
 }

@@ -1,16 +1,16 @@
 {
   "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Agumon] in name and [Dinosaur] trait: Cost 2",
   "attribute": "Vaccine",
-  "blockIcon": "02",
+  "blockIcon": "02,05",
   "cardEffects": "[When Digivolving] Search your security stack, and you may play 1 red or yellow Tamer card among it without paying its cost. If you did, ＜Recovery +1 (Deck)＞. Then, shuffle your security stack.",
   "cardRestriction": {
-    "chinese": "Unrestricted",
+    "chinese": "Restricted to 1",
     "english": "Restricted to 1",
-    "korean": "Not released",
+    "korean": "Restricted to 1",
     "nameJapanese": "Restricted to 1"
   },
   "cardType": "Digimon",
-  "color": "Red / Yellow",
+  "color": "Red/Yellow",
   "digivolutionRequirements": [
     {
       "color": "Red",
@@ -54,12 +54,12 @@
         "uploadDate": "2023-02-17T12:26:43"
       },
       {
-        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
-        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
-        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-012-Sample-J.png",
-        "imgName": "BT13-012-Sample-J.png",
-        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d3/BT13-012-Sample-J.png/revision/latest?cb=20230126091247",
-        "uploadDate": "2023-01-26T09:12:47"
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Ultimate_Cup_2024_Season_2",
+        "captionText": "Ultimate Cup 2024 Season 2 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-012_P1-J.png",
+        "imgName": "BT13-012_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/af/BT13-012_P1-J.png/revision/latest?cb=20250404053925",
+        "uploadDate": "2025-04-04T05:39:25"
       }
     ]
   },
@@ -93,6 +93,19 @@
     ]
   },
   "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ],
     "en": [
       {
         "boosterSet": {
@@ -115,6 +128,17 @@
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
           "text": "Spareribs"
         }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
       }
     ],
     "jp": [
@@ -124,6 +148,30 @@
           "text": "BT-13: Booster Versus Royal Knights"
         },
         "foil&Rarity": "No Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Common",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
           "text": "poroze"

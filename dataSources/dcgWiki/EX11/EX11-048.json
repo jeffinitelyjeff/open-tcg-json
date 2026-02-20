@@ -1,18 +1,75 @@
 {
+  "attribute": "Data",
   "blockIcon": "05",
+  "cardEffects": "[When Moving] [On Play] 1 of your Digimon with the [Ghost] trait gains ＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling.) until your opponent's turn ends.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
-    "korean": "Not released",
+    "korean": "Unrestricted",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-048.png",
+        "imgName": "EX11-048.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/41/EX11-048.png/revision/latest?cb=20260130063932",
+        "uploadDate": "2026-01-30T06:39:32"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-048-Sample.png",
+        "imgName": "EX11-048-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/02/EX11-048-Sample.png/revision/latest?cb=20260111080429",
+        "uploadDate": "2026-01-11T08:04:29"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-048_P1.png",
+        "imgName": "EX11-048_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4d/EX11-048_P1.png/revision/latest?cb=20260130063932",
+        "uploadDate": "2026-01-30T06:39:32"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-048-J.png",
+        "imgName": "EX11-048-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/35/EX11-048-J.png/revision/latest?cb=20260130065332",
+        "uploadDate": "2026-01-30T06:53:32"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+        "captionText": "EX-11: Extra Booster Dawn of Liberator (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX11-048_P1-J.png",
+        "imgName": "EX11-048_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/05/EX11-048_P1-J.png/revision/latest?cb=20260130065332",
+        "uploadDate": "2026-01-30T06:53:32"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/41/EX11-048.png/revision/latest?cb=20260130063932",
+  "inheritedEffect": "[On Deletion] Gain 1 memory.",
+  "level": "3",
+  "name": "Ghostmon",
+  "nameJapanese": "ゴースモン",
+  "playCost": "3",
+  "rarity": "Common",
   "setData": {
     "ch": [
       {
@@ -20,10 +77,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
         }
       }
     ],
@@ -33,10 +101,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
         }
       }
     ],
@@ -46,10 +125,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
         }
       }
     ],
@@ -59,12 +149,24 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
           "text": "EX-11: Extra Booster Dawn of Liberator"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-11:_Extra_Booster_Dawn_of_Liberator",
+          "text": "EX-11: Extra Booster Dawn of Liberator"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Limited Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
         }
       }
     ]
-  }
+  },
+  "type": "Ghost/LIBERATOR"
 }

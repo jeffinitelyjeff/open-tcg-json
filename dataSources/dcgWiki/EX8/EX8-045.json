@@ -2,15 +2,15 @@
   "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[NSo] trait: Cost 3 \n[DNA Digivolve] Green/Purple Lv.5 + Red/Yellow Lv.5 : Cost 0\nStack the 2 specified Digimon and digivolve unsuspended.",
   "attribute": "Virus",
   "blockIcon": "04",
-  "cardEffects": "[When Digivolving] Suspend 1 of your opponent's Digimon or Tamers. Then, return 1 of their suspended Tamers to the bottom of the deck.\n[Your Turn] For each color in this Digimon's digivolution cards, it gets +1000 DP. While your opponent has no Digimon with equal or higher DP, this Digimon gets ＜Piercing＞  (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.) and ＜Security A. +1＞  (This Digimon checks 1 additional security card.)",
+  "cardEffects": "[When Digivolving] Suspend 1 of your opponent's Digimon or Tamers. Then, return 1 of their suspended Tamers to the bottom of the deck.\n[Your Turn] For each color in this Digimon's digivolution cards, it gets +1000 DP. While your opponent has no Digimon with equal or higher DP, this Digimon gets ＜Piercing＞  (When this Digimon attacks and deletes an opponent's Digimon in battle, it checks security before the attack ends.) and ＜Security A. +1＞  (This Digimon checks 1 additional security card.)",
   "cardRestriction": {
     "chinese": "Unrestricted",
     "english": "Unrestricted",
-    "korean": "Not released",
+    "korean": "Unrestricted",
     "nameJapanese": "Unrestricted"
   },
   "cardType": "Digimon",
-  "color": "Green / Purple",
+  "color": "Green/Purple",
   "digivolutionRequirements": [
     {
       "color": "Green",

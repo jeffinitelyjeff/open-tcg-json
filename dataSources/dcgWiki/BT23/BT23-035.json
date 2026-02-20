@@ -2,15 +2,15 @@
   "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[Witchelny]/[CS] trait: Cost 3",
   "attribute": "Data",
   "blockIcon": "05",
-  "cardEffects": "＜Barrier＞ (When this Digimon would be deleted in battle, by trashing the top card of your security stack, prevent that deletion.)\n[On Play] [When Digivolving] By trashing your top security card, all of your opponent's Digimon get -6000 DP for the turn.\n[All Turns] [Once Per Turn] When your security stack is removed from, this Digimon gains ＜Security A. +1＞  (This Digimon checks 1 additional security card.) until your turn ends. Then, if you have 3 or fewer security cards, ＜Recovery +1 (Deck)＞ (Place the top card of your deck on top of your security stack.)",
+  "cardEffects": "＜Barrier＞ (When this Digimon would be deleted in battle, by trashing your top security card, it isn't deleted.)\n[On Play] [When Digivolving] By trashing your top security card, all of your opponent's Digimon get -6000 DP for the turn.\n[All Turns] [Once Per Turn] When your security stack is removed from, this Digimon gains ＜Security A. +1＞  (This Digimon checks 1 additional security card.) until your turn ends. Then, if you have 3 or fewer security cards, ＜Recovery +1 (Deck)＞ (Place the top card of your deck on top of your security stack.)",
   "cardRestriction": {
-    "chinese": "Not released",
-    "english": "Not released",
-    "korean": "Not released",
-    "nameJapanese": "Not released"
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
   },
   "cardType": "Digimon",
-  "color": "Yellow / Red",
+  "color": "Yellow/Red",
   "digivolutionRequirements": [
     {
       "color": "Yellow",

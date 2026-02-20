@@ -1,16 +1,16 @@
 {
   "altDigivolutionRequirements": "[Digivolve]  [RizeGreymon]: Cost 1",
   "attribute": "Vaccine",
-  "blockIcon": "01",
+  "blockIcon": "01,05",
   "cardEffects": "[When Digivolving] You may play 1 red or yellow Tamer card from your hand without paying its memory cost. Then, if [RizeGreymon] or [X Antibody] is in this Digimon's digivolution cards, 1 of opponent's Digimon gets -2000 DP for each red or yellow Tamer you have in play for the turn.\n[Your Turn] For each Tamer you have in play, this Digimon gets +1000 DP.",
   "cardRestriction": {
     "chinese": "Unrestricted",
     "english": "Unrestricted",
-    "korean": "Not released",
+    "korean": "Unrestricted",
     "nameJapanese": "Unrestricted"
   },
   "cardType": "Digimon",
-  "color": "Yellow / Red",
+  "color": "Yellow/Red",
   "digivolutionRequirements": [
     {
       "color": "Yellow",
@@ -76,14 +76,6 @@
         "imgName": "BT9-041-J.png",
         "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a7/BT9-041-J.png/revision/latest?cb=20220218110406",
         "uploadDate": "2022-02-18T11:04:06"
-      },
-      {
-        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
-        "captionText": "BT-09: Booster X Record (JP Sample)",
-        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-041-Sample-J.png",
-        "imgName": "BT9-041-Sample-J.png",
-        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b6/BT9-041-Sample-J.png/revision/latest?cb=20220126093409",
-        "uploadDate": "2022-01-26T09:34:09"
       }
     ]
   },
@@ -113,6 +105,17 @@
     "ch": [
       {
         "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
         "foil&Rarity": "Foil - Rare",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
@@ -164,6 +167,17 @@
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
           "text": "kaz"
         }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
       }
     ],
     "jp": [
@@ -171,6 +185,30 @@
         "boosterSet": {
           "link": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
           "text": "BT-09: Booster X Record"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
         },
         "foil&Rarity": "Foil - Rare",
         "illustrator": {

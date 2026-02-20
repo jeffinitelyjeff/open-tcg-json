@@ -1,11 +1,11 @@
 {
   "attribute": "Virus",
-  "blockIcon": "03",
+  "blockIcon": "03,05",
   "cardEffects": "[When Digivolving] [When Attacking] Delete 1 of your opponent's Digimon with 8000 DP or less. If this effect didn't delete, this Digimon gets +3000 DP and gains ＜Blocker＞ (This Digimon can block in the blocker timing.) until the end of your opponent's turn.\n[Your Turn] While you have 0 or less memory, this Digimon isn't affected by your opponent's effects.",
   "cardRestriction": {
     "chinese": "Unrestricted",
     "english": "Unrestricted",
-    "korean": "Not released",
+    "korean": "Unrestricted",
     "nameJapanese": "Unrestricted"
   },
   "cardType": "Digimon",
@@ -44,14 +44,6 @@
         "imgName": "BT17-016-J.png",
         "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6e/BT17-016-J.png/revision/latest?cb=20240322064311",
         "uploadDate": "2024-03-22T06:43:11"
-      },
-      {
-        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
-        "captionText": "BT-17: Booster Secret Crisis (JP)",
-        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT17-016-Sample-J.png",
-        "imgName": "BT17-016-Sample-J.png",
-        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ec/BT17-016-Sample-J.png/revision/latest?cb=20240307185956",
-        "uploadDate": "2024-03-07T18:59:56"
       }
     ]
   },
@@ -88,6 +80,19 @@
     ]
   },
   "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      }
+    ],
     "en": [
       {
         "boosterSet": {
@@ -110,6 +115,17 @@
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
           "text": "tyuga"
         }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
       }
     ],
     "jp": [
@@ -117,6 +133,30 @@
         "boosterSet": {
           "link": "https://digimoncardgame.fandom.com/wiki/BT-17:_Booster_Secret_Crisis",
           "text": "BT-17: Booster Secret Crisis"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
         },
         "foil&Rarity": "Foil - Rare",
         "illustrator": {
