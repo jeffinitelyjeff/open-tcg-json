@@ -1,11 +1,11 @@
 {
   "attribute": "Free",
-  "blockIcon": "01",
+  "blockIcon": "01,05",
   "cardEffects": "＜Jamming＞ (This Digimon can't be deleted in battles against Security Digimon.)",
   "cardRestriction": {
     "chinese": "Unrestricted",
     "english": "Unrestricted",
-    "korean": "Not released",
+    "korean": "Unrestricted",
     "nameJapanese": "Unrestricted"
   },
   "cardType": "Digimon",
@@ -36,7 +36,7 @@
       },
       {
         "captionLink": "https://digimoncardgame.fandom.com/wiki/Ultimate_Cup_2022",
-        "captionText": "Ultimate Cup 2022 (Top 64) (EN)",
+        "captionText": "Ultimate Cup 2022 (EN)",
         "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-014_P1.png",
         "imgName": "EX1-014_P1.png",
         "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/97/EX1-014_P1.png/revision/latest?cb=20220325132623",
@@ -53,8 +53,8 @@
         "uploadDate": "2021-07-21T04:15:10"
       },
       {
-        "captionLink": null,
-        "captionText": "Ultimate Cup 2023 Japanese (5 Wins Prize) (JP)",
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Ultimate_Cup_2022",
+        "captionText": "Ultimate Cup 2022 (JP)",
         "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX1-014_P1-J.png",
         "imgName": "EX1-014_P1-J.png",
         "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/19/EX1-014_P1-J.png/revision/latest?cb=20230721075209",
@@ -77,6 +77,14 @@
         "boosterSet": "EXC-01: Extra Booster",
         "foil&Rarity": "No Foil - Common",
         "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Common",
+        "illustrator": "No Illustrator"
       }
     ],
     "en": [
@@ -98,6 +106,14 @@
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
           "text": "Kenji Watanabe"
         }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Common",
+        "illustrator": "No Illustrator"
       }
     ],
     "jp": [
@@ -116,6 +132,24 @@
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
           "text": "Kenji Watanabe"
         }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Common",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Common",
+        "illustrator": "No Illustrator"
       }
     ]
   },

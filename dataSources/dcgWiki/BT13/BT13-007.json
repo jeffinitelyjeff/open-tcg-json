@@ -1,6 +1,6 @@
 {
   "attribute": "Unknown",
-  "blockIcon": "02",
+  "blockIcon": "02,05",
   "cardEffects": "[Breeding] [Your Turn] All of your Digimon can't digivolve.\n[Breeding] [Your Turn] [Once Per Turn] When a [Royal Knight] trait Digimon card would be played, you may reduce the play cost by 4. Further reduce it by 1 for each of this Digimon's digivolution cards.\n[Breeding] [Start of Your Main Phase] Reveal the top card of your Digi-Egg deck, then place that card and all of your [Royal Knight] trait Digimon as this Digimon's bottom digivolution cards.",
   "cardRestriction": {
     "chinese": "Unrestricted",
@@ -42,26 +42,10 @@
       {
         "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
         "captionText": "BT-13: Booster Versus Royal Knights (JP)",
-        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-007-Sample-J.png",
-        "imgName": "BT13-007-Sample-J.png",
-        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/78/BT13-007-Sample-J.png/revision/latest?cb=20230120135110",
-        "uploadDate": "2023-01-20T13:51:10"
-      },
-      {
-        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
-        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
         "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-007_P1-J.png",
         "imgName": "BT13-007_P1-J.png",
         "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/07/BT13-007_P1-J.png/revision/latest?cb=20230224164837",
         "uploadDate": "2023-02-24T16:48:37"
-      },
-      {
-        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-13:_Booster_Versus_Royal_Knights",
-        "captionText": "BT-13: Booster Versus Royal Knights (JP)",
-        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT13-007_P1-Sample-J.png",
-        "imgName": "BT13-007_P1-Sample-J.png",
-        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/17/BT13-007_P1-Sample-J.png/revision/latest?cb=20230215094156",
-        "uploadDate": "2023-02-15T09:41:56"
       }
     ]
   },
@@ -143,6 +127,19 @@
     ]
   },
   "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
     "en": [
       {
         "boosterSet": {
@@ -164,6 +161,17 @@
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Naochika_Morishita",
           "text": "Naochika Morishita"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
         }
       }
     ],
@@ -188,6 +196,30 @@
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Naochika_Morishita",
           "text": "Naochika Morishita"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
         }
       }
     ]

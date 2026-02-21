@@ -1,0 +1,173 @@
+{
+  "ace": "Overflow ＜-5＞ (As this card moves from the field or under a card to an area other than those, lose 5 memory.)",
+  "altDigivolutionRequirements": "[Digivolve]  While you have 2 or fewer security cards, [Agumon]: Cost 3",
+  "attribute": "Unknown",
+  "blockIcon": "03,05",
+  "cardEffects": "[Hand] [Counter] ＜Blast Digivolve＞ (Your Digimon may digivolve into this card without paying the cost.)\n[On Play] [When Digivolving] Delete any number of your opponent's Digimon whose total DP adds up to equal or less than this Digimon's DP.\n[When Attacking] [Once Per Turn] If you have a Tamer, trash the top card of your opponent's security stack.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "3",
+    "level": "6"
+  },
+  "dp": "14000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-03:_Limited_Card_Set_2024",
+        "captionText": "LM-03: Limited Card Set 2024 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:LM-021.png",
+        "imgName": "LM-021.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a9/LM-021.png/revision/latest?cb=20241129082458",
+        "uploadDate": "2024-11-29T08:24:58"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-03:_Limited_Card_Set_2024",
+        "captionText": "LM-03: Limited Card Set 2024 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:LM-021-J.png",
+        "imgName": "LM-021-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c9/LM-021-J.png/revision/latest?cb=20240301113131",
+        "uploadDate": "2024-03-01T11:31:31"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a9/LM-021.png/revision/latest?cb=20241129082458",
+  "level": "7",
+  "name": "Agumon - Bond of Bravery",
+  "nameJapanese": "アグモン -勇気の絆-",
+  "playCost": "8",
+  "rarity": "Promo",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=LM-021#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for LM-021 (Dec. 13, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, this is a standard digivolution requirement for a Digimon card.  It references the number of your security cards, but it's not an effect.",
+        "question": "Is \"[Digivolve] While you have 2 or fewer security cards, [Agumon]: Cost 3\" a digivolution requirement added by an effect while I have 2 or fewer security cards?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.  Digivolution is possible as long as you have 2 or fewer security cards when you use <Blast Digivolve>.",
+        "question": "Can I use <Blast Digivolve> to digivolve my [Agumon] into this card in the hand when I have 2 or fewer security cards and an opponent's Digimon attacks?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, it can't.  Digivolution from [Agumon] isn't possible because the digivolution requirements aren't met when you use <Blast Digivolve>.",
+        "question": "If an opponent's Digimon attacks when I have 2 or fewer security cards, then an effect adds a card to my security stack so my security stack has 3 or more cards when I use <Blast Digivolve>, can my [Agumon] digivolve into this card in the hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it can.  Digivolution from [Agumon] is possible as long as the digivolution requirements are met when you use <Blast Digivolve>.",
+        "question": "If an opponent's Digimon attacks when I have 3 security cards, then an effect removes a card from my security stack so my security stack has 2 or fewer cards when I use <Blast Digivolve>, can my [Agumon] digivolve into this card in the hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it can.",
+        "question": "If I use an effect such as P-103 [Offense Training]'s ＜Delay＞ that digivolves a Digimon, can my [Agumon] digivolve into this card in the hand when I have 2 or fewer security cards?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "This effect allows you to choose any number of your opponent's Digimon whose total DP adds up to the same as this Digimon's DP or less, then you delete all of them.  For example, if this Digimon has 14000 DP when its [On Play] [When Digivolving] effect activates, you can choose any number of your opponent's Digimon whose DP adds up to a total of 14000 or less, such as 1 with 10000 DP and 1 with 4000 DP, or 2 of their Digimon with 7000 DP each, then you delete them.",
+        "question": "What does \"[On Play] [When Digivolving] Delete your opponent's Digimon up to a total DP equal to this Digimon's DP\" mean, exactly?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can choose any targets as long as their total DP adds up to a value less than or equal to this Digimon's DP. However, you must choose at least 1 of your opponent's Digimon whose total DP is equal to or less than this Digimon's DP.",
+        "question": "Can I intentionally choose targets whose total DP adds up to a lower value than this Digimon's DP?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hokuyuu",
+          "text": "hokuyuu"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Limited_Set",
+          "text": "Special Limited Set"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hokuyuu",
+          "text": "hokuyuu"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hokuyuu",
+          "text": "hokuyuu"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-03:_Limited_Card_Set_2024",
+          "text": "LM-03: Limited Card Set 2024"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hokuyuu",
+          "text": "hokuyuu"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hokuyuu",
+          "text": "hokuyuu"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hokuyuu",
+          "text": "hokuyuu"
+        }
+      }
+    ]
+  },
+  "type": "Unknown"
+}
