@@ -1,6 +1,7 @@
 import argparse
 import os
 import subprocess
+import time
 
 from .. import scrapy_util
 
@@ -67,7 +68,9 @@ def make_success_msg(job_key: str, commit_hash: str | None) -> str:
       'tcg_plus': 'TCG Plus scrape',
   }.get(job_key, job_key)
 
-  title = f"⚙️  {RUN_MD_LINK} ({job_display}) finished"
+  runtime = format_runtime(START_TS)
+  runtime_suffix = f" (⏱️ {runtime})" if runtime else ""
+  title = f"⚙️  {RUN_MD_LINK} ({job_display}) finished{runtime_suffix}"
 
   msg = make_msg(title, blocks)
 
@@ -84,6 +87,32 @@ def make_success_msg(job_key: str, commit_hash: str | None) -> str:
 
 def make_msg(title, blocks):
   return '\n'.join([title, *[f"```\n{b}\n```" for b in blocks]])
+
+
+def format_runtime(start_ts: str | None) -> str | None:
+  if not start_ts:
+    return None
+
+  try:
+    start_epoch = int(start_ts)
+  except ValueError:
+    return None
+
+  duration = int(time.time()) - start_epoch
+  if duration < 0:
+    return None
+
+  hours, remainder = divmod(duration, 3600)
+  minutes, seconds = divmod(remainder, 60)
+
+  parts = []
+  if hours:
+    parts.append(f"{hours}h")
+  if minutes or hours:
+    parts.append(f"{minutes}m")
+  parts.append(f"{seconds}s")
+
+  return ' '.join(parts)
 
 
 if __name__ == '__main__':
