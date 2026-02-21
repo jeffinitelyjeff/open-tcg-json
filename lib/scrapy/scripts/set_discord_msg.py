@@ -16,11 +16,20 @@ RUN_URL = f"{SERVER_URL}/{REPO_NAME}/actions/runs/{RUN_ID}"
 RUN_MD_LINK = f"[Poll run #{RUN_NUMBER}](<{RUN_URL}>)"
 
 START_TS = os.getenv('START_TS')
+JOB_DISPLAY_NAMES = {
+    'dcg_wiki': 'DCG Wiki scrape',
+    'tcg_plus': 'TCG Plus scrape',
+}
 
 
 def main():
 
   parser = argparse.ArgumentParser()
+  parser.add_argument('--job',
+                      choices=JOB_DISPLAY_NAMES.keys(),
+                      required=True,
+                      help='Job identifier for Discord messaging context.')
+
   group = parser.add_mutually_exclusive_group(required=True)
   group.add_argument('--dcg-wiki-success', action='store_true')
   group.add_argument('--tcg-plus-success', action='store_true')
@@ -28,13 +37,16 @@ def main():
   parser.add_argument('--commit-hash', type=str, nargs='?', default=None)
   args = parser.parse_args()
 
+  validate_job_args(parser, args)
+
   if args.dcg_wiki_success or args.tcg_plus_success:
-    job_key = 'dcg_wiki' if args.dcg_wiki_success else 'tcg_plus'
+    job_key = args.job
     msg = make_success_msg(job_key, args.commit_hash)
     with open(GITHUB_ENV_FILE, 'a') as f:
       f.write(f'DISCORD_MSG_SUCCESS<<EOF\n{msg}\nEOF\n')
   else:
-    msg_start = f"⚙️  {RUN_MD_LINK} started (<t:{START_TS}:R>)"
+    job_display = job_display_name(args.job)
+    msg_start = f"⚙️  {job_display} {RUN_MD_LINK} started (<t:{START_TS}:R>)"
     msg_fail = f"⚠️  {RUN_MD_LINK} failed"
     msg_cancel = f"❌  {RUN_MD_LINK} cancelled"
     with open(GITHUB_ENV_FILE, 'a') as f:
@@ -63,10 +75,7 @@ def make_success_msg(job_key: str, commit_hash: str | None) -> str:
     if diff_stats:
       blocks.append(diff_stats)
 
-  job_display = {
-      'dcg_wiki': 'DCG Wiki scrape',
-      'tcg_plus': 'TCG Plus scrape',
-  }.get(job_key, job_key)
+  job_display = job_display_name(job_key)
 
   runtime = format_runtime(START_TS)
   runtime_suffix = f" (⏱️ {runtime})" if runtime else ""
@@ -87,6 +96,20 @@ def make_success_msg(job_key: str, commit_hash: str | None) -> str:
 
 def make_msg(title, blocks):
   return '\n'.join([title, *[f"```\n{b}\n```" for b in blocks]])
+
+
+def job_display_name(job_key: str) -> str:
+  return JOB_DISPLAY_NAMES.get(job_key, job_key)
+
+
+def validate_job_args(parser: argparse.ArgumentParser, args):
+  flag_job = None
+  if args.dcg_wiki_success:
+    flag_job = 'dcg_wiki'
+  elif args.tcg_plus_success:
+    flag_job = 'tcg_plus'
+  if flag_job and args.job != flag_job:
+    parser.error(f"--job must be '{flag_job}' when using this flag")
 
 
 def format_runtime(start_ts: str | None) -> str | None:

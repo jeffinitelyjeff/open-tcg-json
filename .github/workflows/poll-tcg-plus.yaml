@@ -1,0 +1,129 @@
+name: Poll TCG Plus
+env:
+  START_TS: ""
+  DISCORD_MSG_START: ""
+  DISCORD_MSG_SUCCESS: ""
+  DISCORD_MSG_FAIL: ""
+  DISCORD_MSG_CANCEL: ""
+  COMMIT_HASH: ""
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - "**"
+  schedule:
+    # run every day at 00:25 UTC
+    # avoiding popular 00:00 github actions timeslot
+    - cron: "25 0 * * *"
+jobs:
+  poll-tcg-plus:
+    timeout-minutes: 120
+    runs-on: ubuntu-latest
+    steps:
+      - name: check out repo
+        uses: actions/checkout@v3
+
+      - name: get start timestamp
+        id: start_ts
+        run: |
+          ts=$(date +'%s')
+          echo "START_TS=$ts" >> "$GITHUB_ENV"
+
+      - name: set discord default messages
+        run: python -m lib.scrapy.scripts.set_discord_msg --defaults --job tcg_plus
+
+      - name: discord notification (start)
+        uses: tsickert/discord-webhook@v5.3.0
+        with:
+          webhook-url: ${{ secrets.DISCORD_NOTIFICATION_URL }}
+          content: ${{ env.DISCORD_MSG_START }}
+
+      - name: update apt
+        run: sudo apt-get update
+
+      - name: install poetry
+        run: pipx install poetry
+
+      - name: set up python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+          cache: "poetry"
+
+      - name: display python version
+        run: python -c "import sys; print(sys.version)"
+
+      - name: install python dependencies
+        run: poetry install --no-interaction --no-ansi
+
+      - name: run scrapy (tcg_plus list-only)
+        run: poetry run python -m lib.scrapy.scripts.run_scrapy --tcg_plus --list-only
+
+      - name: detect tcg_plus changes
+        id: detect-tcg-plus-changes
+        run: |
+          if [[ -n "$(git status --porcelain dataSources/tcgPlus)" ]]; then
+            echo "has_changes=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: run scrapy (tcg_plus full)
+        if: ${{ steps.detect-tcg-plus-changes.outputs.has_changes == 'true' }}
+        run: poetry run python -m lib.scrapy.scripts.run_scrapy --tcg_plus
+
+      - name: cancel workflow run on tcg_plus failure
+        if: ${{ failure() }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "tcg_plus job failed, cancelling workflow ${GITHUB_RUN_ID}"
+          curl -s -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}/cancel"
+
+      - name: archive logs (tcg_plus)
+        uses: actions/upload-artifact@v4
+        with:
+          name: logs-tcg-plus
+          path: logs
+
+      - name: pull latest changes with rebase
+        run: |
+          git fetch origin ${{ github.ref_name }}
+          git pull --rebase --autostash origin ${{ github.ref_name }}
+
+      - name: commit and push tcg_plus output
+        id: git-commit-tcg
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "🤖 tcg_plus poll update"
+
+      - name: prepare tcg_plus success message
+        if: ${{ success() && steps.git-commit-tcg.outputs.commit_hash != '' }}
+        env:
+          COMMIT_HASH: ${{ steps.git-commit-tcg.outputs.commit_hash }}
+        run: |
+          python -m lib.scrapy.scripts.set_discord_msg --tcg-plus-success --job tcg_plus --commit-hash "$COMMIT_HASH"
+
+      - name: discord success notification (tcg_plus)
+        if: ${{ success() && steps.git-commit-tcg.outputs.commit_hash != '' }}
+        uses: tsickert/discord-webhook@v5.3.0
+        with:
+          webhook-url: ${{ secrets.DISCORD_NOTIFICATION_URL }}
+          content: ${{ env.DISCORD_MSG_SUCCESS }}
+
+      - name: discord failure notification
+        if: ${{ failure() }}
+        uses: tsickert/discord-webhook@v5.3.0
+        with:
+          webhook-url: ${{ secrets.DISCORD_NOTIFICATION_URL }}
+          content: ${{ env.DISCORD_MSG_FAIL }}
+
+      - name: discord cancel notification
+        if: ${{ cancelled() }}
+        uses: tsickert/discord-webhook@v5.3.0
+        with:
+          webhook-url: ${{ secrets.DISCORD_NOTIFICATION_URL }}
+          content: ${{ env.DISCORD_MSG_CANCEL }}
