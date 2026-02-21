@@ -1,5 +1,5 @@
 {
-  "blockIcon": "01",
+  "blockIcon": "01,05",
   "cardEffects": "[Your Turn] When one of your Digimon with [Agumon] or [Greymon] in its name (other than [DoruGreymon], [BurningGreymon] or [DexDoruGreymon]) moves from the breeding area to the battle area, gain 1 memory and ＜Draw 1＞ (Draw 1 card from your deck.)\n[Main] [Once Per Turn] You can digivolve your [Agumon] into 1 [Agumon - Bond of Bravery] in your hand for its digivolution cost, ignoring its level. If you do, trash the top 2 cards of your security stack. Then, if you have 1 or more security cards, delete that Digimon at the end of the turn.",
   "cardRestriction": {
     "chinese": "Unrestricted",
@@ -10,6 +10,16 @@
   "cardType": "Tamer",
   "color": "Red",
   "galleryImages": {
+    "ch": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
+        "captionText": "BT-06: Booster Double Diamond (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT6-087-C.png",
+        "imgName": "BT6-087-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3f/BT6-087-C.png/revision/latest?cb=20231120210059",
+        "uploadDate": "2023-11-20T21:00:59"
+      }
+    ],
     "en": [
       {
         "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
@@ -87,6 +97,16 @@
   },
   "securityEffect": "[Security] Play this card without paying the cost.",
   "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      }
+    ],
     "en": [
       {
         "boosterSet": {
@@ -111,6 +131,14 @@
         },
         "foil&Rarity": "Foil - Coloured Border - Alternative Art",
         "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
       }
     ],
     "jp": [
@@ -118,6 +146,24 @@
         "boosterSet": {
           "link": "https://digimoncardgame.fandom.com/wiki/BT-06:_Booster_Double_Diamond",
           "text": "BT-06: Booster Double Diamond"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
         },
         "foil&Rarity": "Foil - Rare",
         "illustrator": "No Illustrator"
