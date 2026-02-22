@@ -31,8 +31,8 @@ jobs:
           ts=$(date +'%s')
           echo "START_TS=$ts" >> "$GITHUB_ENV"
 
-      - name: set discord default messages
-        run: python -m lib.scrapy.scripts.set_discord_msg --defaults --job dcg_wiki
+      - name: set discord start message
+        run: python -m lib.scrapy.scripts.set_discord_msg --start --job dcg_wiki
 
       - name: discord notification (start)
         uses: tsickert/discord-webhook@v5.3.0
@@ -133,15 +133,15 @@ jobs:
         with:
           commit_message: "🤖 dcg_wiki poll update"
 
-      - name: prepare dcg_wiki success message
-        if: ${{ success() && steps.git-commit-dcg.outputs.commit_hash != '' }}
+      - name: set discord end messages
+        if: ${{ always() }}
         env:
           COMMIT_HASH: ${{ steps.git-commit-dcg.outputs.commit_hash }}
         run: |
-          python -m lib.scrapy.scripts.set_discord_msg --dcg-wiki-success --job dcg_wiki --commit-hash "$COMMIT_HASH"
+          python -m lib.scrapy.scripts.set_discord_msg --end --job dcg_wiki --commit-hash "$COMMIT_HASH"
 
       - name: discord success notification (dcg_wiki)
-        if: ${{ success() && steps.git-commit-dcg.outputs.commit_hash != '' }}
+        if: ${{ success() }}
         uses: tsickert/discord-webhook@v5.3.0
         with:
           webhook-url: ${{ secrets.DISCORD_NOTIFICATION_URL }}

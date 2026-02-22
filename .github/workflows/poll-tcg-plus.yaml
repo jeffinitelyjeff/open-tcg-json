@@ -1,4 +1,4 @@
-name: Poll TCG Plus
+name: Poll TCG+
 env:
   START_TS: ""
   DISCORD_MSG_START: ""
@@ -29,8 +29,8 @@ jobs:
           ts=$(date +'%s')
           echo "START_TS=$ts" >> "$GITHUB_ENV"
 
-      - name: set discord default messages
-        run: python -m lib.scrapy.scripts.set_discord_msg --defaults --job tcg_plus
+      - name: set discord start message
+        run: python -m lib.scrapy.scripts.set_discord_msg --start --job tcg_plus
 
       - name: discord notification (start)
         uses: tsickert/discord-webhook@v5.3.0
@@ -100,15 +100,15 @@ jobs:
         with:
           commit_message: "🤖 tcg_plus poll update"
 
-      - name: prepare tcg_plus success message
-        if: ${{ success() && steps.git-commit-tcg.outputs.commit_hash != '' }}
+      - name: set discord end messages
+        if: ${{ always() }}
         env:
           COMMIT_HASH: ${{ steps.git-commit-tcg.outputs.commit_hash }}
         run: |
-          python -m lib.scrapy.scripts.set_discord_msg --tcg-plus-success --job tcg_plus --commit-hash "$COMMIT_HASH"
+          python -m lib.scrapy.scripts.set_discord_msg --end --job tcg_plus --commit-hash "$COMMIT_HASH"
 
-      - name: discord success notification (tcg_plus)
-        if: ${{ success() && steps.git-commit-tcg.outputs.commit_hash != '' }}
+      - name: discord success notification
+        if: ${{ success() }}
         uses: tsickert/discord-webhook@v5.3.0
         with:
           webhook-url: ${{ secrets.DISCORD_NOTIFICATION_URL }}

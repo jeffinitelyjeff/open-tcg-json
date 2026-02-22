@@ -1,4 +1,5 @@
 import argparse
+import enum
 import os
 import subprocess
 import time
@@ -11,14 +12,14 @@ RUN_NUMBER = os.getenv('GITHUB_RUN_NUMBER')
 SERVER_URL = os.getenv('GITHUB_SERVER_URL')
 REPO_NAME = os.getenv('GITHUB_REPOSITORY')
 RUN_ID = os.getenv('GITHUB_RUN_ID')
+RUN_EVENT = os.getenv('GITHUB_EVENT_NAME')
 
 RUN_URL = f"{SERVER_URL}/{REPO_NAME}/actions/runs/{RUN_ID}"
-RUN_MD_LINK = f"[Poll run #{RUN_NUMBER}](<{RUN_URL}>)"
 
 START_TS = os.getenv('START_TS')
 JOB_DISPLAY_NAMES = {
-    'dcg_wiki': 'DCG Wiki scrape',
-    'tcg_plus': 'TCG Plus scrape',
+    'dcg_wiki': 'DCG Wiki',
+    'tcg_plus': 'TCG+',
 }
 
 
@@ -31,31 +32,70 @@ def main():
                       help='Job identifier for Discord messaging context.')
 
   group = parser.add_mutually_exclusive_group(required=True)
-  group.add_argument('--dcg-wiki-success', action='store_true')
-  group.add_argument('--tcg-plus-success', action='store_true')
-  group.add_argument('--defaults', action='store_true')
+  group.add_argument('--start',
+                     action='store_true',
+                     help='Set the start message for the job.')
+  group.add_argument(
+      '--end',
+      action='store_true',
+      help='Set the end (success/failure/cancel) message for the job.')
   parser.add_argument('--commit-hash', type=str, nargs='?', default=None)
   args = parser.parse_args()
 
-  validate_job_args(parser, args)
-
-  if args.dcg_wiki_success or args.tcg_plus_success:
-    job_key = args.job
-    msg = make_success_msg(job_key, args.commit_hash)
-    with open(GITHUB_ENV_FILE, 'a') as f:
-      f.write(f'DISCORD_MSG_SUCCESS<<EOF\n{msg}\nEOF\n')
+  if args.start:
+    JobState.START.write_env_var(args.job)
+  elif args.end:
+    success_body = make_success_body(args.commit_hash)
+    JobState.SUCCEEDED.write_env_var(args.job, extra_body=success_body)
+    JobState.FAILED.write_env_var(args.job)
+    JobState.CANCELED.write_env_var(args.job)
   else:
-    job_display = job_display_name(args.job)
-    msg_start = f"⚙️  {job_display} {RUN_MD_LINK} started (<t:{START_TS}:R>)"
-    msg_fail = f"⚠️  {RUN_MD_LINK} failed"
-    msg_cancel = f"❌  {RUN_MD_LINK} cancelled"
+    parser.error("One of --start or --end must be provided")
+
+
+class JobState(enum.Enum):
+  START = 'start'
+  SUCCEEDED = 'succeeded'
+  FAILED = 'failed'
+  CANCELED = 'canceled'
+
+  def env_var(self):
+    if self is JobState.START:
+      return 'DISCORD_MSG_START'
+    if self is JobState.SUCCEEDED:
+      return 'DISCORD_MSG_SUCCESS'
+    if self is JobState.FAILED:
+      return 'DISCORD_MSG_FAIL'
+    if self is JobState.CANCELED:
+      return 'DISCORD_MSG_CANCEL'
+    raise ValueError(f"unsupported job state: {self}")
+
+  def write_env_var(self, job_key: str, extra_body: str | None = None):
+    md_link = run_md_link(job_key)
+    runtime = format_runtime(START_TS)
+    runtime_suffix = f" in {runtime}" if runtime else ""
+
+    if self is JobState.START:
+      value = f"⚙️  {md_link} started for {RUN_EVENT} (<t:{START_TS}:R>)"
+    elif self is JobState.SUCCEEDED:
+      value = f"✅  {md_link} finished{runtime_suffix}"
+    elif self is JobState.FAILED:
+      value = f"⚠️  {md_link} failed{runtime_suffix}"
+    elif self is JobState.CANCELED:
+      value = f"❌  {md_link} cancelled{runtime_suffix}"
+    else:
+      raise ValueError(f"unsupported job state: {self}")
+
+    if extra_body:
+      value += f"\n{extra_body}"
+    elif self is JobState.SUCCEEDED:
+      value += " (no changes)"
+
     with open(GITHUB_ENV_FILE, 'a') as f:
-      f.write(f'DISCORD_MSG_START={msg_start}\n')
-      f.write(f'DISCORD_MSG_FAIL={msg_fail}\n')
-      f.write(f'DISCORD_MSG_CANCEL={msg_cancel}\n')
+      f.write(f'{self.env_var()}<<EOF\n{value}\nEOF\n\n')
 
 
-def make_success_msg(job_key: str, commit_hash: str | None) -> str:
+def make_success_body(commit_hash: str | None) -> str:
   try:
     with open(scrapy_util.DISCORD_STATS_PATH, "r") as f:
       discord_stats = f.read()
@@ -66,50 +106,36 @@ def make_success_msg(job_key: str, commit_hash: str | None) -> str:
   if discord_stats:
     blocks.append(discord_stats)
 
-  print(f"commit_hash: {commit_hash}")  # FIXME
-
   if commit_hash:
     git_cmd = ['git', 'show', '--stat', '--pretty=oneline', commit_hash]
     diff_stats = subprocess.run(git_cmd, capture_output=True, text=True).stdout
-    print(f"diff_stats: {diff_stats}")  # FIXME
     if diff_stats:
       blocks.append(diff_stats)
 
-  job_display = job_display_name(job_key)
+  # actual discord cutoff is 2000, but leave some buffer for formatting and
+  # title
+  msg_cutoff = 1900
 
-  runtime = format_runtime(START_TS)
-  runtime_suffix = f" (⏱️ {runtime})" if runtime else ""
-  title = f"⚙️  {RUN_MD_LINK} ({job_display}) finished{runtime_suffix}"
+  block_length = sum(len(b) for b in blocks)
+  while block_length > msg_cutoff:
+    excess_length = block_length - msg_cutoff
+    # trim the start of each block evenly
+    trim_per_block = (excess_length // len(blocks)) + 1
+    for i in range(len(blocks)):
+      # only trim the block if it wouldn't be completely removed by the trim
+      # this means we might not actually trim as much as we need and we
+      # need to loop a couple times.
+      if len(blocks[i]) > trim_per_block:
+        blocks[i] = blocks[i][trim_per_block:]
 
-  msg = make_msg(title, blocks)
+    block_length = sum(len(b) for b in blocks)
 
-  msg_cutoff = 1997
-
-  if len(msg) > msg_cutoff:
-    extra_len = len(msg) - msg_cutoff
-    # trim the start of the diff (summary stats are at the end)
-    blocks[-1] = blocks[-1][extra_len:]
-    msg = make_msg(title, blocks)
-
-  return msg
-
-
-def make_msg(title, blocks):
-  return '\n'.join([title, *[f"```\n{b}\n```" for b in blocks]])
+  return '\n\n'.join(f"```{b}```" for b in blocks if b)
 
 
-def job_display_name(job_key: str) -> str:
-  return JOB_DISPLAY_NAMES.get(job_key, job_key)
-
-
-def validate_job_args(parser: argparse.ArgumentParser, args):
-  flag_job = None
-  if args.dcg_wiki_success:
-    flag_job = 'dcg_wiki'
-  elif args.tcg_plus_success:
-    flag_job = 'tcg_plus'
-  if flag_job and args.job != flag_job:
-    parser.error(f"--job must be '{flag_job}' when using this flag")
+def run_md_link(job_key: str) -> str:
+  job_display = JOB_DISPLAY_NAMES.get(job_key, job_key)
+  return f"[{job_display} update #{RUN_NUMBER}](<{RUN_URL}>)"
 
 
 def format_runtime(start_ts: str | None) -> str | None:
