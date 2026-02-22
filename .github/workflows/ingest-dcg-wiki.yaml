@@ -1,0 +1,126 @@
+name: Ingest DCG Wiki
+env:
+  START_TS: ""
+  DISCORD_MSG_START: ""
+  DISCORD_MSG_SUCCESS: ""
+  DISCORD_MSG_FAIL: ""
+  DISCORD_MSG_CANCEL: ""
+  COMMIT_HASH: ""
+on:
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: "Optional note explaining why this ingestion was triggered."
+        required: false
+        default: ""
+jobs:
+  ingest-dcg-wiki:
+    timeout-minutes: 120
+    runs-on: ubuntu-latest
+    env:
+      PYWIKIBOT_USERNAME: ${{ secrets.PYWIKIBOT_USERNAME }}
+    steps:
+      - name: check out repo
+        uses: actions/checkout@v3
+
+      - name: log trigger reason
+        if: ${{ github.event.inputs.reason != '' }}
+        run: |
+          echo "Trigger reason: ${{ github.event.inputs.reason }}" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: get start timestamp
+        id: start_ts
+        run: |
+          ts=$(date +'%s')
+          echo "START_TS=$ts" >> "$GITHUB_ENV"
+
+      - name: set discord start message
+        run: python -m lib.scrapy.scripts.set_discord_msg --start --job dcg_wiki
+
+      - name: discord notification (start)
+        uses: tsickert/discord-webhook@v5.3.0
+        with:
+          webhook-url: ${{ secrets.DISCORD_NOTIFICATION_URL }}
+          content: ${{ env.DISCORD_MSG_START }}
+
+      - name: update apt
+        run: sudo apt-get update
+
+      - name: install poetry
+        run: pipx install poetry
+
+      - name: set up python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+          cache: "poetry"
+
+      - name: display python version
+        run: python -c "import sys; print(sys.version)"
+
+      - name: install python dependencies
+        run: poetry install --no-interaction --no-ansi
+
+      - name: ensure last_change file exists
+        run: |
+          file_path="dataSources/dcgWiki/last_change.txt"
+          mkdir -p "$(dirname "$file_path")"
+          if [ ! -s "$file_path" ]; then
+            echo "1970-01-01T00:00:00+00:00" > "$file_path"
+          fi
+
+      - name: decode pywikibot password
+        run: echo "${{ secrets.PYWIKIBOT_PASSWORD_BASE64 }}" | base64 -d > lib/pywikibot/user-password.py
+
+      - name: run scrapy (dcg_wiki)
+        run: poetry run python -m lib.scrapy.scripts.run_scrapy --dcg_wiki
+
+      - name: archive logs (dcg_wiki ingest)
+        uses: actions/upload-artifact@v4
+        with:
+          name: logs-dcg-wiki-ingest
+          path: logs
+
+      - name: persist last_change timestamp
+        run: |
+          iso_ts=$(date -u -d "@$START_TS" +"%Y-%m-%dT%H:%M:%SZ")
+          echo "$iso_ts" > dataSources/dcgWiki/last_change.txt
+
+      - name: pull latest changes with rebase
+        run: |
+          git fetch origin ${{ github.ref_name }}
+          git pull --rebase --autostash origin ${{ github.ref_name }}
+
+      - name: commit and push dcg_wiki output
+        id: git-commit-dcg
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "🤖 dcg_wiki ingest update"
+
+      - name: set discord end messages
+        if: ${{ always() }}
+        env:
+          COMMIT_HASH: ${{ steps.git-commit-dcg.outputs.commit_hash }}
+        run: |
+          python -m lib.scrapy.scripts.set_discord_msg --end --job dcg_wiki --commit-hash "$COMMIT_HASH"
+
+      - name: discord success notification (dcg_wiki)
+        if: ${{ success() }}
+        uses: tsickert/discord-webhook@v5.3.0
+        with:
+          webhook-url: ${{ secrets.DISCORD_NOTIFICATION_URL }}
+          content: ${{ env.DISCORD_MSG_SUCCESS }}
+
+      - name: discord failure notification
+        if: ${{ failure() }}
+        uses: tsickert/discord-webhook@v5.3.0
+        with:
+          webhook-url: ${{ secrets.DISCORD_NOTIFICATION_URL }}
+          content: ${{ env.DISCORD_MSG_FAIL }}
+
+      - name: discord cancel notification
+        if: ${{ cancelled() }}
+        uses: tsickert/discord-webhook@v5.3.0
+        with:
+          webhook-url: ${{ secrets.DISCORD_NOTIFICATION_URL }}
+          content: ${{ env.DISCORD_MSG_CANCEL }}

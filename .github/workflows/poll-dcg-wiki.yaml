@@ -1,11 +1,4 @@
 name: Poll DCG Wiki
-env:
-  START_TS: ""
-  DISCORD_MSG_START: ""
-  DISCORD_MSG_SUCCESS: ""
-  DISCORD_MSG_FAIL: ""
-  DISCORD_MSG_CANCEL: ""
-  COMMIT_HASH: ""
 on:
   workflow_dispatch:
   push:
@@ -17,28 +10,13 @@ on:
     - cron: "25 * * * *"
 jobs:
   poll-dcg-wiki:
-    timeout-minutes: 30
+    timeout-minutes: 10
     runs-on: ubuntu-latest
     env:
       PYWIKIBOT_USERNAME: ${{ secrets.PYWIKIBOT_USERNAME }}
     steps:
       - name: check out repo
         uses: actions/checkout@v3
-
-      - name: get start timestamp
-        id: start_ts
-        run: |
-          ts=$(date +'%s')
-          echo "START_TS=$ts" >> "$GITHUB_ENV"
-
-      - name: set discord start message
-        run: python -m lib.scrapy.scripts.set_discord_msg --start --job dcg_wiki
-
-      - name: discord notification (start)
-        uses: tsickert/discord-webhook@v5.3.0
-        with:
-          webhook-url: ${{ secrets.DISCORD_NOTIFICATION_URL }}
-          content: ${{ env.DISCORD_MSG_START }}
 
       - name: update apt
         run: sudo apt-get update
@@ -88,6 +66,7 @@ jobs:
             count=0
           fi
           echo "Detected $count change(s) since ${{ steps.last_change.outputs.timestamp }}"
+          echo "CHANGE_COUNT=$count" >> "$GITHUB_ENV"
           echo "change_count=$count" >> "$GITHUB_OUTPUT"
           if [ "$count" -gt 0 ]; then
             echo "has_changes=true" >> "$GITHUB_OUTPUT"
@@ -95,68 +74,36 @@ jobs:
             echo "has_changes=false" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: run scrapy (dcg_wiki)
-        if: ${{ steps.recent_changes.outputs.has_changes == 'true' }}
-        run: poetry run python -m lib.scrapy.scripts.run_scrapy --dcg_wiki
-
-      - name: cancel workflow run on dcg_wiki failure
-        if: ${{ failure() }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          echo "dcg_wiki job failed, cancelling workflow ${GITHUB_RUN_ID}"
-          curl -s -X POST \
-            -H "Accept: application/vnd.github+json" \
-            -H "Authorization: Bearer ${GITHUB_TOKEN}" \
-            "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}/cancel"
-
-      - name: archive logs (dcg_wiki)
+      - name: archive logs (poll)
         uses: actions/upload-artifact@v4
         with:
-          name: logs-dcg-wiki
+          name: logs-dcg-wiki-poll
           path: logs
 
-      - name: persist last_change timestamp
+      - name: trigger ingest workflow
+        if: ${{ steps.recent_changes.outputs.has_changes == 'true' }}
+        uses: actions/github-script@v7
+        env:
+          CHANGE_COUNT: ${{ steps.recent_changes.outputs.change_count }}
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const changeCount = Number(process.env.CHANGE_COUNT || '0');
+            const reason = `Changes detected (${changeCount}) by poll run #${context.runNumber}`;
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: "ingest-dcg-wiki.yaml",
+              ref: context.ref,
+              inputs: { reason },
+            });
+            core.info(`Triggered ingest-dcg-wiki workflow on ${context.ref} (changes: ${changeCount}).`);
+
+      - name: summarize ingest trigger
         if: ${{ steps.recent_changes.outputs.has_changes == 'true' }}
         run: |
-          iso_ts=$(date -u -d "@$START_TS" +"%Y-%m-%dT%H:%M:%SZ")
-          echo "$iso_ts" > dataSources/dcgWiki/last_change.txt
+          echo "Detected ${{ steps.recent_changes.outputs.change_count }} change(s); ingest workflow dispatched." >> "$GITHUB_STEP_SUMMARY"
 
-      - name: pull latest changes with rebase
-        run: |
-          git fetch origin ${{ github.ref_name }}
-          git pull --rebase --autostash origin ${{ github.ref_name }}
-
-      - name: commit and push dcg_wiki output
-        id: git-commit-dcg
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "🤖 dcg_wiki poll update"
-
-      - name: set discord end messages
-        if: ${{ always() }}
-        env:
-          COMMIT_HASH: ${{ steps.git-commit-dcg.outputs.commit_hash }}
-        run: |
-          python -m lib.scrapy.scripts.set_discord_msg --end --job dcg_wiki --commit-hash "$COMMIT_HASH"
-
-      - name: discord success notification (dcg_wiki)
-        if: ${{ success() }}
-        uses: tsickert/discord-webhook@v5.3.0
-        with:
-          webhook-url: ${{ secrets.DISCORD_NOTIFICATION_URL }}
-          content: ${{ env.DISCORD_MSG_SUCCESS }}
-
-      - name: discord failure notification
-        if: ${{ failure() }}
-        uses: tsickert/discord-webhook@v5.3.0
-        with:
-          webhook-url: ${{ secrets.DISCORD_NOTIFICATION_URL }}
-          content: ${{ env.DISCORD_MSG_FAIL }}
-
-      - name: discord cancel notification
-        if: ${{ cancelled() }}
-        uses: tsickert/discord-webhook@v5.3.0
-        with:
-          webhook-url: ${{ secrets.DISCORD_NOTIFICATION_URL }}
-          content: ${{ env.DISCORD_MSG_CANCEL }}
+      - name: summarize no changes
+        if: ${{ steps.recent_changes.outputs.has_changes != 'true' }}
+        run: echo "No new DCG Wiki changes detected; ingest workflow not triggered." >> "$GITHUB_STEP_SUMMARY"
