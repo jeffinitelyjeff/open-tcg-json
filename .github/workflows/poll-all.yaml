@@ -141,7 +141,7 @@ jobs:
       - name: detect tcg_plus changes
         id: detect-tcg-plus-changes
         run: |
-          status_output=$(git status --porcelain dataSources/tcgPlus)
+          status_output=$(git status --porcelain --untracked-files=all)
           if [[ -n "$status_output" ]]; then
             change_count=$(echo "$status_output" | wc -l | tr -d ' ')
             echo "CHANGE_COUNT=$change_count" >> "$GITHUB_ENV"
@@ -218,7 +218,7 @@ jobs:
       - name: detect dcg_main changes
         id: detect-dcg-main-changes
         run: |
-          status_output=$(git status --porcelain dataSources/dcgMain)
+          status_output=$(git status --porcelain --untracked-files=all)
           if [[ -n "$status_output" ]]; then
             change_count=$(echo "$status_output" | wc -l | tr -d ' ')
             echo "CHANGE_COUNT=$change_count" >> "$GITHUB_ENV"
