@@ -1,4 +1,4 @@
-name: Ingest TCG+
+name: Archive DCG Main
 env:
   START_TS: ""
   DISCORD_MSG_START: ""
@@ -10,11 +10,11 @@ on:
   workflow_dispatch:
     inputs:
       reason:
-        description: "Optional note explaining why this ingestion was triggered."
+        description: "Optional note explaining why this archive was triggered."
         required: false
         default: ""
 jobs:
-  ingest-tcg-plus:
+  archive-dcg-main:
     timeout-minutes: 180
     runs-on: ubuntu-latest
     steps:
@@ -33,7 +33,7 @@ jobs:
           echo "START_TS=$ts" >> "$GITHUB_ENV"
 
       - name: set discord start message
-        run: python -m lib.scrapy.scripts.set_discord_msg --start --job tcg_plus
+        run: python -m lib.scrapy.scripts.set_discord_msg --start --job dcg_main
 
       - name: discord notification (start)
         uses: tsickert/discord-webhook@v5.3.0
@@ -59,13 +59,13 @@ jobs:
       - name: install python dependencies
         run: poetry install --no-interaction --no-ansi
 
-      - name: run scrapy (tcg_plus full)
-        run: poetry run python -m lib.scrapy.scripts.run_scrapy --tcg_plus
+      - name: run scrapy (dcg_main full)
+        run: poetry run python -m lib.scrapy.scripts.run_scrapy --dcg_main
 
-      - name: archive logs (tcg_plus ingest)
+      - name: archive logs (dcg_main archive)
         uses: actions/upload-artifact@v4
         with:
-          name: logs-tcg-plus-ingest
+          name: logs-dcg-main-archive
           path: logs
 
       - name: pull latest changes with rebase
@@ -73,18 +73,18 @@ jobs:
           git fetch origin ${{ github.ref_name }}
           git pull --rebase --autostash origin ${{ github.ref_name }}
 
-      - name: commit and push tcg_plus output
-        id: git-commit-tcg
+      - name: commit and push dcg_main output
+        id: git-commit-dcg-main
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "🤖 tcg_plus update"
+          commit_message: "🤖 dcg_main update"
 
       - name: set discord end messages
         if: ${{ always() }}
         env:
-          COMMIT_HASH: ${{ steps.git-commit-tcg.outputs.commit_hash }}
+          COMMIT_HASH: ${{ steps.git-commit-dcg-main.outputs.commit_hash }}
         run: |
-          python -m lib.scrapy.scripts.set_discord_msg --end --job tcg_plus --commit-hash "$COMMIT_HASH"
+          python -m lib.scrapy.scripts.set_discord_msg --end --job dcg_main --commit-hash "$COMMIT_HASH"
 
       - name: discord success notification
         if: ${{ success() }}

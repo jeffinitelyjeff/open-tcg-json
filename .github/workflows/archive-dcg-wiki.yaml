@@ -1,4 +1,4 @@
-name: Ingest DCG Main
+name: Archive DCG Wiki
 env:
   START_TS: ""
   DISCORD_MSG_START: ""
@@ -10,13 +10,15 @@ on:
   workflow_dispatch:
     inputs:
       reason:
-        description: "Optional note explaining why this ingestion was triggered."
+        description: "Optional note explaining why this archive was triggered."
         required: false
         default: ""
 jobs:
-  ingest-dcg-main:
-    timeout-minutes: 180
+  archive-dcg-wiki:
+    timeout-minutes: 120
     runs-on: ubuntu-latest
+    env:
+      PYWIKIBOT_USERNAME: ${{ secrets.PYWIKIBOT_USERNAME }}
     steps:
       - name: check out repo
         uses: actions/checkout@v3
@@ -33,7 +35,7 @@ jobs:
           echo "START_TS=$ts" >> "$GITHUB_ENV"
 
       - name: set discord start message
-        run: python -m lib.scrapy.scripts.set_discord_msg --start --job dcg_main
+        run: python -m lib.scrapy.scripts.set_discord_msg --start --job dcg_wiki
 
       - name: discord notification (start)
         uses: tsickert/discord-webhook@v5.3.0
@@ -59,34 +61,50 @@ jobs:
       - name: install python dependencies
         run: poetry install --no-interaction --no-ansi
 
-      - name: run scrapy (dcg_main full)
-        run: poetry run python -m lib.scrapy.scripts.run_scrapy --dcg_main
+      - name: ensure last_change file exists
+        run: |
+          file_path="dataSources/dcgWiki/last_change.txt"
+          mkdir -p "$(dirname "$file_path")"
+          if [ ! -s "$file_path" ]; then
+            echo "1970-01-01T00:00:00+00:00" > "$file_path"
+          fi
 
-      - name: archive logs (dcg_main ingest)
+      - name: decode pywikibot password
+        run: echo "${{ secrets.PYWIKIBOT_PASSWORD_BASE64 }}" | base64 -d > lib/pywikibot/user-password.py
+
+      - name: run scrapy (dcg_wiki)
+        run: poetry run python -m lib.scrapy.scripts.run_scrapy --dcg_wiki
+
+      - name: archive logs (dcg_wiki archive)
         uses: actions/upload-artifact@v4
         with:
-          name: logs-dcg-main-ingest
+          name: logs-dcg-wiki-archive
           path: logs
+
+      - name: persist last_change timestamp
+        run: |
+          iso_ts=$(date -u -d "@$START_TS" +"%Y-%m-%dT%H:%M:%SZ")
+          echo "$iso_ts" > dataSources/dcgWiki/last_change.txt
 
       - name: pull latest changes with rebase
         run: |
           git fetch origin ${{ github.ref_name }}
           git pull --rebase --autostash origin ${{ github.ref_name }}
 
-      - name: commit and push dcg_main output
-        id: git-commit-dcg-main
+      - name: commit and push dcg_wiki output
+        id: git-commit-dcg
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "🤖 dcg_main update"
+          commit_message: "🤖 dcg_wiki update"
 
       - name: set discord end messages
         if: ${{ always() }}
         env:
-          COMMIT_HASH: ${{ steps.git-commit-dcg-main.outputs.commit_hash }}
+          COMMIT_HASH: ${{ steps.git-commit-dcg.outputs.commit_hash }}
         run: |
-          python -m lib.scrapy.scripts.set_discord_msg --end --job dcg_main --commit-hash "$COMMIT_HASH"
+          python -m lib.scrapy.scripts.set_discord_msg --end --job dcg_wiki --commit-hash "$COMMIT_HASH"
 
-      - name: discord success notification
+      - name: discord success notification (dcg_wiki)
         if: ${{ success() }}
         uses: tsickert/discord-webhook@v5.3.0
         with:

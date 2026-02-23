@@ -81,7 +81,7 @@ jobs:
           name: logs-dcg-wiki-poll
           path: logs
 
-      - name: trigger ingest workflow
+      - name: trigger archive workflow
         if: ${{ steps.recent_changes.outputs.has_changes == 'true' }}
         uses: actions/github-script@v7
         env:
@@ -94,20 +94,20 @@ jobs:
             await github.rest.actions.createWorkflowDispatch({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              workflow_id: "ingest-dcg-wiki.yaml",
+              workflow_id: "archive-dcg-wiki.yaml",
               ref: context.ref,
               inputs: { reason },
             });
-            core.info(`Triggered ingest-dcg-wiki workflow on ${context.ref} (changes: ${changeCount}).`);
+            core.info(`Triggered archive-dcg-wiki workflow on ${context.ref} (changes: ${changeCount}).`);
 
-      - name: summarize ingest trigger
+      - name: summarize archive trigger
         if: ${{ steps.recent_changes.outputs.has_changes == 'true' }}
         run: |
-          echo "Detected ${{ steps.recent_changes.outputs.change_count }} change(s); ingest workflow dispatched." >> "$GITHUB_STEP_SUMMARY"
+          echo "Detected ${{ steps.recent_changes.outputs.change_count }} change(s); archive workflow dispatched." >> "$GITHUB_STEP_SUMMARY"
 
       - name: summarize no changes
         if: ${{ steps.recent_changes.outputs.has_changes != 'true' }}
-        run: echo "No new DCG Wiki changes detected; ingest workflow not triggered." >> "$GITHUB_STEP_SUMMARY"
+        run: echo "No new DCG Wiki changes detected; archive workflow not triggered." >> "$GITHUB_STEP_SUMMARY"
 
   poll-tcg-plus:
     if: github.event_name != 'schedule' || github.event.schedule == '25 0 * * *'
@@ -158,7 +158,7 @@ jobs:
           name: logs-tcg-plus
           path: logs
 
-      - name: trigger ingest workflow
+      - name: trigger archive workflow
         if: ${{ steps.detect-tcg-plus-changes.outputs.has_changes == 'true' }}
         uses: actions/github-script@v7
         env:
@@ -171,20 +171,20 @@ jobs:
             await github.rest.actions.createWorkflowDispatch({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              workflow_id: "ingest-tcg-plus.yaml",
+              workflow_id: "archive-tcg-plus.yaml",
               ref: context.ref,
               inputs: { reason },
             });
-            core.info(`Triggered ingest-tcg-plus workflow on ${context.ref} (changes: ${changeCount}).`);
+            core.info(`Triggered archive-tcg-plus workflow on ${context.ref} (changes: ${changeCount}).`);
 
-      - name: summarize ingest trigger
+      - name: summarize archive trigger
         if: ${{ steps.detect-tcg-plus-changes.outputs.has_changes == 'true' }}
         run: |
-          echo "Detected ${{ steps.detect-tcg-plus-changes.outputs.change_count }} change(s); ingest workflow dispatched." >> "$GITHUB_STEP_SUMMARY"
+          echo "Detected ${{ steps.detect-tcg-plus-changes.outputs.change_count }} change(s); archive workflow dispatched." >> "$GITHUB_STEP_SUMMARY"
 
       - name: summarize no changes
         if: ${{ steps.detect-tcg-plus-changes.outputs.has_changes != 'true' }}
-        run: echo "No new TCG+ changes detected; ingest workflow not triggered." >> "$GITHUB_STEP_SUMMARY"
+        run: echo "No new TCG+ changes detected; archive workflow not triggered." >> "$GITHUB_STEP_SUMMARY"
 
   poll-dcg-main:
     if: github.event_name != 'schedule' || github.event.schedule == '25 0 * * *'
@@ -235,7 +235,7 @@ jobs:
           name: logs-dcg-main
           path: logs
 
-      - name: trigger ingest workflow
+      - name: trigger archive workflow
         if: ${{ steps.detect-dcg-main-changes.outputs.has_changes == 'true' }}
         uses: actions/github-script@v7
         env:
@@ -248,17 +248,17 @@ jobs:
             await github.rest.actions.createWorkflowDispatch({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              workflow_id: "ingest-dcg-main.yaml",
+              workflow_id: "archive-dcg-main.yaml",
               ref: context.ref,
               inputs: { reason },
             });
-            core.info(`Triggered ingest-dcg-main workflow on ${context.ref} (changes: ${changeCount}).`);
+            core.info(`Triggered archive-dcg-main workflow on ${context.ref} (changes: ${changeCount}).`);
 
-      - name: summarize ingest trigger
+      - name: summarize archive trigger
         if: ${{ steps.detect-dcg-main-changes.outputs.has_changes == 'true' }}
         run: |
-          echo "Detected ${{ steps.detect-dcg-main-changes.outputs.change_count }} change(s); ingest workflow dispatched." >> "$GITHUB_STEP_SUMMARY"
+          echo "Detected ${{ steps.detect-dcg-main-changes.outputs.change_count }} change(s); archive workflow dispatched." >> "$GITHUB_STEP_SUMMARY"
 
       - name: summarize no changes
         if: ${{ steps.detect-dcg-main-changes.outputs.has_changes != 'true' }}
-        run: echo "No new DCG Main changes detected; ingest workflow not triggered." >> "$GITHUB_STEP_SUMMARY"
+        run: echo "No new DCG Main changes detected; archive workflow not triggered." >> "$GITHUB_STEP_SUMMARY"
