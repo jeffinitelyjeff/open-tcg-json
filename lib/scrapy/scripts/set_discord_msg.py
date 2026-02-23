@@ -115,7 +115,7 @@ def make_success_body(commit_hash: str | None) -> str:
 
   # actual discord cutoff is 2000, but leave some buffer for formatting and
   # title
-  msg_cutoff = 1900
+  msg_cutoff = 1800
 
   block_length = sum(len(b) for b in blocks)
   while block_length > msg_cutoff:
