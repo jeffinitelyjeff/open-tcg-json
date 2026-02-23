@@ -103,11 +103,11 @@ jobs:
       - name: summarize archive trigger
         if: ${{ steps.recent_changes.outputs.has_changes == 'true' }}
         run: |
-          echo "Detected ${{ steps.recent_changes.outputs.change_count }} change(s); archive workflow dispatched." >> "$GITHUB_STEP_SUMMARY"
+          echo "🚀 Detected ${{ steps.recent_changes.outputs.change_count }} change(s); archive workflow dispatched." >> "$GITHUB_STEP_SUMMARY"
 
       - name: summarize no changes
         if: ${{ steps.recent_changes.outputs.has_changes != 'true' }}
-        run: echo "No new DCG Wiki changes detected; archive workflow not triggered." >> "$GITHUB_STEP_SUMMARY"
+        run: echo "😴 No new DCG Wiki changes detected; archive workflow not triggered." >> "$GITHUB_STEP_SUMMARY"
 
   poll-tcg-plus:
     if: github.event_name != 'schedule' || github.event.schedule == '25 0 * * *'
@@ -180,11 +180,11 @@ jobs:
       - name: summarize archive trigger
         if: ${{ steps.detect-tcg-plus-changes.outputs.has_changes == 'true' }}
         run: |
-          echo "Detected ${{ steps.detect-tcg-plus-changes.outputs.change_count }} change(s); archive workflow dispatched." >> "$GITHUB_STEP_SUMMARY"
+          echo "🚀 Detected ${{ steps.detect-tcg-plus-changes.outputs.change_count }} change(s); archive workflow dispatched." >> "$GITHUB_STEP_SUMMARY"
 
       - name: summarize no changes
         if: ${{ steps.detect-tcg-plus-changes.outputs.has_changes != 'true' }}
-        run: echo "No new TCG+ changes detected; archive workflow not triggered." >> "$GITHUB_STEP_SUMMARY"
+        run: echo "😴 No new TCG+ changes detected; archive workflow not triggered." >> "$GITHUB_STEP_SUMMARY"
 
   poll-dcg-main:
     if: github.event_name != 'schedule' || github.event.schedule == '25 0 * * *'
@@ -257,8 +257,8 @@ jobs:
       - name: summarize archive trigger
         if: ${{ steps.detect-dcg-main-changes.outputs.has_changes == 'true' }}
         run: |
-          echo "Detected ${{ steps.detect-dcg-main-changes.outputs.change_count }} change(s); archive workflow dispatched." >> "$GITHUB_STEP_SUMMARY"
+          echo "🚀 Detected ${{ steps.detect-dcg-main-changes.outputs.change_count }} change(s); archive workflow dispatched." >> "$GITHUB_STEP_SUMMARY"
 
       - name: summarize no changes
         if: ${{ steps.detect-dcg-main-changes.outputs.has_changes != 'true' }}
-        run: echo "No new DCG Main changes detected; archive workflow not triggered." >> "$GITHUB_STEP_SUMMARY"
+        run: echo "😴 No new DCG Main changes detected; archive workflow not triggered." >> "$GITHUB_STEP_SUMMARY"
