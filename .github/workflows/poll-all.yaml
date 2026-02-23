@@ -7,8 +7,7 @@ on:
   schedule:
     # for poll-dcg-wiki: every hour at 25 minutes past the hour
     - cron: "25 * * * *"
-    # for poll-tcg-plus: once a day at 00:25
-    - cron: "25 0 * * *"
+    # for poll-tcg-plus and poll-dcg-main: once a day at 00:25
 jobs:
   poll-dcg-wiki:
     if: github.event_name != 'schedule' || github.event.schedule == '25 * * * *'
@@ -186,3 +185,80 @@ jobs:
       - name: summarize no changes
         if: ${{ steps.detect-tcg-plus-changes.outputs.has_changes != 'true' }}
         run: echo "No new TCG+ changes detected; ingest workflow not triggered." >> "$GITHUB_STEP_SUMMARY"
+
+  poll-dcg-main:
+    if: github.event_name != 'schedule' || github.event.schedule == '25 0 * * *'
+    timeout-minutes: 10
+    runs-on: ubuntu-latest
+    steps:
+      - name: check out repo
+        uses: actions/checkout@v3
+
+      - name: update apt
+        run: sudo apt-get update
+
+      - name: install poetry
+        run: pipx install poetry
+
+      - name: set up python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+          cache: "poetry"
+
+      - name: display python version
+        run: python -c "import sys; print(sys.version)"
+
+      - name: install python dependencies
+        run: poetry install --no-interaction --no-ansi
+
+      - name: run scrapy (dcg_main list-only)
+        run: poetry run python -m lib.scrapy.scripts.run_scrapy --dcg_main --list-only
+
+      - name: detect dcg_main changes
+        id: detect-dcg-main-changes
+        run: |
+          status_output=$(git status --porcelain dataSources/dcgMain)
+          if [[ -n "$status_output" ]]; then
+            change_count=$(echo "$status_output" | wc -l | tr -d ' ')
+            echo "CHANGE_COUNT=$change_count" >> "$GITHUB_ENV"
+            echo "change_count=$change_count" >> "$GITHUB_OUTPUT"
+            echo "has_changes=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "change_count=0" >> "$GITHUB_OUTPUT"
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: archive logs (dcg_main)
+        uses: actions/upload-artifact@v4
+        with:
+          name: logs-dcg-main
+          path: logs
+
+      - name: trigger ingest workflow
+        if: ${{ steps.detect-dcg-main-changes.outputs.has_changes == 'true' }}
+        uses: actions/github-script@v7
+        env:
+          CHANGE_COUNT: ${{ steps.detect-dcg-main-changes.outputs.change_count }}
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const changeCount = Number(process.env.CHANGE_COUNT || '0');
+            const reason = `Git changes detected (${changeCount}) by poll run #${context.runNumber}`;
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: "ingest-dcg-main.yaml",
+              ref: context.ref,
+              inputs: { reason },
+            });
+            core.info(`Triggered ingest-dcg-main workflow on ${context.ref} (changes: ${changeCount}).`);
+
+      - name: summarize ingest trigger
+        if: ${{ steps.detect-dcg-main-changes.outputs.has_changes == 'true' }}
+        run: |
+          echo "Detected ${{ steps.detect-dcg-main-changes.outputs.change_count }} change(s); ingest workflow dispatched." >> "$GITHUB_STEP_SUMMARY"
+
+      - name: summarize no changes
+        if: ${{ steps.detect-dcg-main-changes.outputs.has_changes != 'true' }}
+        run: echo "No new DCG Main changes detected; ingest workflow not triggered." >> "$GITHUB_STEP_SUMMARY"

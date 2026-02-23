@@ -73,7 +73,7 @@ class DCGMainSiteSpider(base_spider.BaseSpider):
   def parse_main_page(self, response):
     region = response.meta['region']
     digest = hashlib.sha256(response.body).hexdigest()
-    subpath = [region, 'card_list_hash']
+    subpath = [region, '_card_list_hash']
     yield TextItem(digest, subpath=subpath)
 
     if self.poll_only:
