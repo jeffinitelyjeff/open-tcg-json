@@ -70,33 +70,6 @@ def get_text(element) -> str:
   return ''.join(element.css('::text').getall()).strip()
 
 
-def response_url_logger(log_level=logging.DEBUG):
-
-  def decorator(func):
-
-    @functools.wraps(func)
-    def wrapper(self, response, *args, **kwargs):
-      logging.log(log_level, 'GET %s | %s', response.status, response.url)
-      self.crawler.stats.inc_value(f'httpstatus/count/{response.status}')
-      try:
-        result = func(self, response, *args, **kwargs)
-        if hasattr(result, '__iter__') and not isinstance(result, (str, bytes)):
-          for item in result:
-            yield item
-        else:
-          return result
-      except AssertionError as e:
-        raise AssertionError(f"{e} ({response.url})") from e
-
-    return wrapper
-
-  return decorator
-
-
-response_url_logger_INFO = response_url_logger(logging.INFO)
-response_url_logger_DEBUG = response_url_logger(logging.DEBUG)
-
-
 class DCGWikiSpider(base_spider.BaseSpider):
   # scrapy properties
   name = "DCG Wiki Spider"
@@ -218,7 +191,7 @@ class DCGWikiSpider(base_spider.BaseSpider):
     set_type, set_num = set_long_id.split('-')
     return f"{set_type}-{int(set_num):03d}"
 
-  @response_url_logger_INFO
+  @scrapy_util.log_response_INFO
   def parse_set_list(self, response):
     # Parses a page that has a list OF sets.
     # NOT a page that has a list of cards in a set.
@@ -229,7 +202,7 @@ class DCGWikiSpider(base_spider.BaseSpider):
       yield self.card_list_item(path)
       yield self.request(path, self.parse_card_list)
 
-  @response_url_logger_INFO
+  @scrapy_util.log_response_INFO
   def parse_card_list(self, response):
     # Parses a page that has a list of cards.
     card_paths = response.css('.cardlist th a::attr(href)').getall()
@@ -265,7 +238,7 @@ class DCGWikiSpider(base_spider.BaseSpider):
                              'set_id': set_id
                          })
 
-  @response_url_logger_INFO
+  @scrapy_util.log_response_INFO
   def parse_card_page(self, response):
     response = response.replace(
         body=re.sub(r"<br\s*/?>", '\n', response.text).encode())
@@ -338,7 +311,7 @@ class DCGWikiSpider(base_spider.BaseSpider):
     else:
       return JSONItem(card_data, subpath=[set_id, f'{card_num}.json'])
 
-  @response_url_logger_INFO
+  @scrapy_util.log_response_INFO
   def parse_card_subpage(self, response):
     meta = response.meta
     card_data = meta.get('card_data')
@@ -412,6 +385,7 @@ class DCGWikiSpider(base_spider.BaseSpider):
 
     return data
 
+  @scrapy_util.log_response_INFO
   def parse_card_gallery(self, response):
     data = defaultdict(list)
 
@@ -466,6 +440,7 @@ class DCGWikiSpider(base_spider.BaseSpider):
   def full_img_for_thumb(thumb_url: str) -> str:
     return re.sub(r'/scale-to-width-down/\d+', '', thumb_url)
 
+  @scrapy_util.log_response_INFO
   def parse_card_rulings(self, response):
     ruling_items = response.css('.ruling')
     assert len(ruling_items) > 0, f"no rulings"
@@ -498,6 +473,7 @@ class DCGWikiSpider(base_spider.BaseSpider):
     data = {'rulings': rulings, 'references': references}
     return data
 
+  @scrapy_util.log_response_INFO
   def parse_card_errata(self, response):
     tables = response.css('.errata-table')
 
