@@ -1,0 +1,87 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": [
+        "You choose 1 of your opponent's level 3 or lower Digimon and place it under another of your opponent's Digimon as its bottom digivolution card or under an opponent's Tamer.",
+        "For each Tamer you have in play with a different color, you add 1 to the maximum level you can choose with this effect.",
+        "If you have a multicolor Tamer, you reference its colors that are different from your other Tamers and count it as 1 Tamer with a different color. For example, if you have a red Tamer, a red/blue Tamer, and a blue/yellow Tamer, you would refer to the red, blue, and yellow colors, then add +3 to the maximum level you can choose."
+      ],
+      "date": "Sep. 5, 2025",
+      "num": "Q2216",
+      "q": "What does this card's [When Digivolving] effect do, exactly?"
+    },
+    {
+      "a": "If there are already any cards stacked under the Tamer, you place the new card at the bottom.",
+      "date": "Sep. 5, 2025",
+      "num": "Q2217",
+      "q": "If I use this card's [When Digivolving] effect to place a card under a Tamer that already has cards under it, in what order do I place the cards?"
+    },
+    {
+      "a": "No, you can't.",
+      "date": "Sep. 5, 2025",
+      "num": "Q2218",
+      "q": "Can I use this card's [When Digivolving] effect to place 1 of my opponent's Digimon under another of their Digimon, one that isn't affected by effects?"
+    },
+    {
+      "a": [
+        "Yes, it will leave the battle area.",
+        "The digivolution cards of the Digimon to be placed in digivolution cards will be trashed at the same time."
+      ],
+      "date": "Sep. 5, 2025",
+      "num": "Q4995",
+      "q": "If I use this card's [When Digivolving] effect to place an opponent's Digimon under my opponent's other Digimon as its bottom digivolution card, will the Digimon to be placed in digivolution cards leave the battle area?"
+    },
+    {
+      "a": [
+        "No, it doesn't.",
+        "A Digimon will gain an inherited effect, but a Tamer doesn't gain it."
+      ],
+      "date": "Sep. 5, 2025",
+      "num": "Q4996",
+      "q": "If I use this card's [When Digivolving] effect to place an opponent's Digimon under one of their Tamers, does that Tamer gain the placed card's inherited effect?"
+    },
+    {
+      "a": [
+        "Yes, it gains the inherited effect.",
+        "If BT17-087 [Marcus Damon] suspends, BT12-038 [GeoGreymon]'s inherited effect will trigger. However, as soon as it is no longer treated as a Digimon, it will lose inherited effects.",
+        "Related Cards"
+      ],
+      "date": "Sep. 5, 2025",
+      "num": "Q4997",
+      "q": "If I use this card's [When Digivolving] effect to place an opponent's BT12-038 [GeoGreymon] from the battle area as the bottom digivolution card of their BT17-087 [Marcus Damon] that's treated as a Digimon, does that BT17-087 [Marcus Damon] gain BT12-038 [GeoGreymon]'s inherited effect?"
+    },
+    {
+      "a": "Yes, it can attack.",
+      "date": "Sep. 5, 2025",
+      "num": "Q4998",
+      "q": "If I use this card's [End of Your Turn] effect to attack, can this card attack even if it's suspended?"
+    }
+  ],
+  "Color": "Purple",
+  "Cost": "9",
+  "DP": "10000",
+  "Digivolve Cost 1": [
+    "Purple",
+    "4 from Lv.4"
+  ],
+  "Effect": [
+    "[When Digivolving] Place 1 of your opponent's level 3 or lower Digimon as the bottom digivolution card of another of your opponent's Digimon or under an opponent's Tamer. For each Tamer with a different color you have in play, add 1 to the maximum level you can choose with this effect.",
+    "[End of Your Turn][Once Per Turn] If this Digimon has 4 or more digivolution cards, this Digimon may attack without suspending."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "[When Attacking][Once Per Turn] If this Digimon has ＜Save＞ in its text, ＜Draw 1＞. (Draw 1 card from your deck.)",
+  "Notes": [
+    "Booster ACROSS TIME [BT12]",
+    "?search=true&category=522014",
+    "/products/pack/ver12.php"
+  ],
+  "Special Digivolution Condition": "[Digivolve] 4 from red, black, or purple Lv.4 w/＜Save＞ text",
+  "Type": "Dragon",
+  "cardLv": "Lv.5",
+  "cardNo": "BT12-083",
+  "cardRarity": "SR",
+  "cardTitle": "Arresterdramon: Superior Mode",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT12-083.png?260210"
+}

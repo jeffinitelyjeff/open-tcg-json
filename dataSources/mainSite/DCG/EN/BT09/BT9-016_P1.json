@@ -1,0 +1,46 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "No. This effect specifies a card name, so you must have a card whose name is either [WarGreymon] or [X Antibody] in this Digimon’s digivolution cards. Having a card with [X Antibody] in its traits doesn't count.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1810",
+      "q": "This card’s effect reads, “If [WarGreymon] or [X Antibody] is in this Digimon’s digivolution cards”. Does having a card with [X Antibody] in its traits count?"
+    },
+    {
+      "a": [
+        "Performing the check causes a card to be removed from your opponent’s security stack, causing this card’s [All Turns] effect to trigger. If you flip over a card with a [Security] effect, however, the [Security] effect will trigger afterwards, which means it will activate first.",
+        "After that, if there are no other triggered effects, you'll gain 1 memory before the battle with the Security Digimon."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q1811",
+      "q": "I attack my opponent and perform a security check. Does this card’s [All Turns] effect cause me to gain 1 memory first, before the [Security] effect of the card I flipped over activates, or before the battle with my opponent's Security Digimon occurs?"
+    }
+  ],
+  "Color": "Red",
+  "Cost": "12",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Red",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "[All Turns] When a card is removed from your opponent’s security stack, gain 1 memory.",
+    "[End of Attack][Once Per Turn] If [WarGreymon] or [X Antibody] is in this Digimon’s digivolution cards, delete 1 of your opponent’s Digimon with DP less than or equal to this Digimon’s DP."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster X RECORD [BT09]",
+    "?search=true&category=522010",
+    "/products/pack/ver9.php"
+  ],
+  "Special Digivolution Condition": "[Digivolve] 1 from [WarGreymon]",
+  "Type": "Dragonkin/X Antibody",
+  "cardLv": "Lv.6",
+  "cardNo": "BT9-016",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "WarGreymon (X Antibody)",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT9-016_P1.png?260210"
+}

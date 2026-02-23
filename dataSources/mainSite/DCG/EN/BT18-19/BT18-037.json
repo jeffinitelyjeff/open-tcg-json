@@ -1,0 +1,71 @@
+{
+  "Attribute": "Variable",
+  "Card Q&A": [
+    {
+      "a": "No, it digivolves from the Tamer as-is.",
+      "date": "Jun. 21, 2024",
+      "num": "Q2957",
+      "q": "Does this card's digivolution requirement where it can digivolve from a Tamer mean that the Tamer that will become a digivolution card is treated as a Digimon when it digivolves?"
+    },
+    {
+      "a": [
+        "No, it isn't considered a Digimon that would digivolve.",
+        "When a Tamer would digivolve using this card's digivolution requirement, \"when a Digimon would digivolve\" effects don't trigger."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q2958",
+      "q": "When a Tamer would digivolve using this card's digivolution requirement, is it considered a Digimon that would digivolve?"
+    },
+    {
+      "a": [
+        "No, it isn't considered a Digimon that digivolves.",
+        "When a Tamer digivolves using this card's digivolution requirement, \"when a Digimon digivolves\" effects don't trigger."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q2959",
+      "q": "When a Tamer digivolves using this card's digivolution requirement, is it considered a Digimon that digivolves?"
+    },
+    {
+      "a": [
+        "No, you can also choose to not add them to your hand.",
+        "If you don't add them, you shuffle your security stack without gaining",
+        "."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q2960",
+      "q": "If cards that are targets of this effect are found in my security stack, do I have to add as many cards to my hand as possible?"
+    }
+  ],
+  "Color": [
+    "Yellow",
+    "Blue"
+  ],
+  "Cost": "5",
+  "DP": "5000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "Blue",
+    "3 from Lv.3"
+  ],
+  "Digivolve Cost 2": [
+    "Yellow",
+    "Blue",
+    "3 from Tamer"
+  ],
+  "Effect": "[When Digivolving] Search your security stack. You may add 1 card with the [Hybrid] or [Ten Warriors] trait among it to the hand. If this added, ＜Recovery +1 ≪Deck≫＞. Then, shuffle your security stack.",
+  "Form": "Hybrid",
+  "Inherited Effect": "[When Attacking] If you have 7 or fewer cards in your hand, ＜Draw 1＞.",
+  "Notes": [
+    "SPECIAL BOOSTER Ver.2.0 [BT18-19]",
+    "?search=true&category=522025",
+    "/products/pack/ver18-19"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [Koji Minamoto]: Cost 2/[KendoGarurumon]: Cost 0",
+  "Type": "Warrior",
+  "cardLv": "Lv.4",
+  "cardNo": "BT18-037",
+  "cardRarity": "R",
+  "cardTitle": "Lobomon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT18-037.png?260210"
+}

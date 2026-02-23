@@ -1,0 +1,52 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": [
+        "\"No, you can't.",
+        "In order to play an [Agumon], the Digimon card's name can only be [Agumon].\""
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q811",
+      "q": "Can I use this card’s effect to play a Digimon with [Agumon] in its name such as [Agumon Expert] or [BushiAgumon]?"
+    },
+    {
+      "a": "Yes. Blocking causes the attack target to be switched, so the effect activates.",
+      "date": "Mar. 28, 2024",
+      "num": "Q812",
+      "q": "If I attack my opponent using a Digimon with this card in its digivolution cards and my opponent blocks, does this card's inherited effect activate?"
+    },
+    {
+      "a": "Yes, it activates.",
+      "date": "Mar. 28, 2024",
+      "num": "Q813",
+      "q": "Does this card’s inherited effect activate when an attack target is switched for a Digimon other than a Digimon with this card in its digivolution cards?"
+    }
+  ],
+  "Color": "Black",
+  "Cost": "6",
+  "DP": "5000",
+  "Digivolve Cost 1": [
+    "Black",
+    "2 from Lv.3"
+  ],
+  "Effect": [
+    "[Security] You may play 1 [Agumon] or 1 Tamer card with [Tai Kamiya] in its name from your hand or trash without paying the cost.",
+    "＜Blocker＞ (At blocker timing, by suspending this Digimon, it becomes the attack target.)"
+  ],
+  "Form": "Champion",
+  "Inherited Effect": "[All Turns][Once Per Turn]When an attack target is switched, gain 1 memory.",
+  "Notes": [
+    "Starter Deck DRAGON OF COURAGE [ST15]",
+    "?search=true&category=522115",
+    "/products/deck/st-15.php"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.3 w/[Agumon] in name: Cost 2",
+  "Type": "Dinosaur",
+  "cardLv": "Lv.4",
+  "cardNo": "ST15-08",
+  "cardRarity": "SR",
+  "cardTitle": "Greymon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/ST15-08.png?260210"
+}

@@ -1,0 +1,79 @@
+{
+  "Attribute": "Variable",
+  "Card Q&A": [
+    {
+      "a": [
+        "Effects with the [Hand] icon can activate when their card is revealed from the hand.",
+        "This effect can activate during the main phase when you reveal this card from the hand and process the effect."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q3038",
+      "q": "How do I activate this card's [Hand] [Main] effect?"
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "A \"by\" condition can't be met if only some of the required actions are performed.",
+        "In order for the conditions for this card's [Hand] [Main] effect to be met, you must place 1 [Loweemon] and 1 [KaiserLeomon] under your Tamer."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q3039",
+      "q": "Can I use this card's [Hand] [Main] effect to place just 1 [Loweemon] or [KaiserLeomon] from my trash under my Tamer?"
+    },
+    {
+      "a": "No, it digivolves from the Tamer as-is.",
+      "date": "Jun. 21, 2024",
+      "num": "Q3040",
+      "q": "Does this card's [Hand] [Main] effect where it can digivolve from a Tamer mean that the Tamer that will become a digivolution card is treated as a Digimon when it digivolves?"
+    },
+    {
+      "a": [
+        "No, it isn't considered a Digimon that would digivolve.",
+        "When a Tamer would digivolve using this card's [Hand] [Main] effect, \"when a Digimon would digivolve\" effects don't trigger."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q3041",
+      "q": "When a Tamer would digivolve using this card's [Hand] [Main] effect, is it considered a Digimon that would digivolve?"
+    },
+    {
+      "a": [
+        "No, it isn't considered a Digimon that digivolves.",
+        "When a Tamer digivolves using this card's [Hand] [Main] effect, \"when a Digimon digivolves\" effects don't trigger."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q3042",
+      "q": "When a Tamer digivolves using this card's [Hand] [Main] effect, is it considered a Digimon that digivolves?"
+    }
+  ],
+  "Color": [
+    "Purple",
+    "Yellow"
+  ],
+  "Cost": "8",
+  "DP": "8000",
+  "Digivolve Cost 1": [
+    "Purple",
+    "Yellow",
+    "4 from Lv.4"
+  ],
+  "Effect": [
+    "{[Hand} [Main] By placing 1 [Loweemon] and 1 [KaiserLeomon] from your trash under 1 of your purple or yellow Tamers, digivolve it into this card for a digivolution cost of 3, ignoring digivolution requirements.",
+    "＜Jamming＞",
+    "[When Digivolving] You may play 1 Tamer card with inherited effects from your trash without paying the cost."
+  ],
+  "Form": "Hybrid",
+  "Inherited Effect": "[When Attacking] [Once Per Turn] 1 of your opponent's Digimon gets -4000 DP for the turn.",
+  "Notes": [
+    "Championship 25-26 Regionals Champion Card Set Season 1",
+    "?search=true&category=522902"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Purple/yellow Lv.4 w/[Hybrid] trait: Cost 3",
+  "Type": "Warrior",
+  "cardLv": "Lv.5",
+  "cardNo": "BT18-081",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "U",
+  "cardTitle": "Rhihimon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT18-081_P1.png?260210"
+}

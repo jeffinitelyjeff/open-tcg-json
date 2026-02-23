@@ -1,0 +1,66 @@
+{
+  "Card Q&A": [
+    {
+      "a": [
+        "Yes, you can.",
+        "If you do, trash as many cards from your security stack as you can."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q1472",
+      "q": "I only have 1 or fewer cards left in my security stack. Can I activate this card’s [Main] effect?"
+    },
+    {
+      "a": "No, this card’s [Main] effect only affects cards whose names are [Agumon].",
+      "date": "Mar. 28, 2024",
+      "num": "Q1473",
+      "q": "Can I use this card’s [Main] effect on cards with [Agumon] in their name? (For example, [Agumon Expert], [ToyAgumon], etc.)"
+    },
+    {
+      "a": "No. If you had 1 or more cards in your security stack at the time the effect finished activating, [Agumon - Bond of Bravery] will be deleted at the end of the turn, regardless of how many cards are in your security stack at that time.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1474",
+      "q": "I activated this card’s [Main] effect to digivolve into [Agumon - Bond of Bravery]. I had 1 or more cards in my security stack at the time of activation, but another effect causes my security stack to become empty later that same turn. Do I get to keep [Agumon - Bond of Bravery] in play at the end of the turn?"
+    },
+    {
+      "a": [
+        "The first copy’s effect was used to digivolve into [Agumon - Bond of Bravery] while your security stack had 1 or more cards in it, so [Agumon - Bond of Bravery] will be deleted at the end of the turn.",
+        "The second copy’s effect was used to digivolve into [Agumon - Bond of Bravery] while your security stack was empty, so [Agumon - Bond of Bravery] stays in play at the end of the turn."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q1475",
+      "q": [
+        "I have 2 copies of this card in play. I use the first copy’s [Main] effect to digivolve a Digimon into an [Agumon - Bond of Bravery] while there are 1 or more cards in my security stack. I use the second copy’s [Main] effect to digivolve a different Digimon into [Agumon - Bond of Bravery] while my security stack is empty.",
+        "What happens to each [Agumon - Bond of Bravery] at the end of the turn?"
+      ]
+    },
+    {
+      "a": "Yes, it's deleted upon the deletion timing.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5524",
+      "q": "Do I delete the Digimon that digivolved by this card's effect at the end of the same turn it digivolved?"
+    },
+    {
+      "a": "The pending processing for the effect that triggers at the end of the turn and the deletion at the end of the turn are considered to be processing that triggers simultaneously. Therefore, the turn player can choose the processing order.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5525",
+      "q": "What is the processing order for an effect that triggers at the end of the turn and the deletion of a Digimon that digivolved by this card's [Main] effect?"
+    }
+  ],
+  "Color": "Red",
+  "Cost": "3",
+  "Effect": [
+    "[Your Turn] When one of your Digimon with [Agumon] or [Greymon] in its name moves from the breeding area to the battle area, gain 1 memory and trigger ＜Draw 1＞. (Draw 1 card from your deck.)",
+    "[Main][Once Per Turn] Digivolve your [Agumon] into 1 [Agumon - Bond of Bravery] in your hand for its digivolution cost, ignoring its level. If you do, trash the top 2 cards of your security stack. Then, if you have 1 or more security cards, delete that Digimon at the end of the turn."
+  ],
+  "Notes": [
+    "Booster DOUBLE DIAMOND [BT06]",
+    "?search=true&category=522005",
+    "/products/pack/ver6.php"
+  ],
+  "Security Effect": "[Security] Play this card without paying its memory cost.",
+  "cardNo": "BT6-087",
+  "cardRarity": "R",
+  "cardTitle": "Tai Kamiya",
+  "cardType": "Tamer",
+  "imgSrc": "../images/cardlist/card/BT6-087.png?260210"
+}

@@ -1,0 +1,86 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": [
+        "No, you can't.",
+        "You can place 1 [Sanzomon], 1 [Gokuumon], or 1 [Sagomon] under this card."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q3738",
+      "q": "Can I place 1 each of [Sanzomon], [Gokuumon], and [Sagomon] for this card's DigiXros requirements?"
+    },
+    {
+      "a": "No, you can't. The \"if DigiXrosing\" part of the effect can only activate when DigiXrosing.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3739",
+      "q": "If DigiXrosing when this card would be played, can I also activate the part after \"if DigiXrosing\" in this card's [On Play] [When Attacking] effect when this Digimon attacks?"
+    },
+    {
+      "a": "Yes, that's correct.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3740",
+      "q": [
+        "Can I use this card's [On Play] [When Attacking] effect or inherited effect to give 1 of my Digimon",
+        "?"
+      ]
+    },
+    {
+      "a": "\"When [...] would leave the battle area\" refers to when this Digimon is placed in the trash, returned to the hand/deck, placed in the security stack, moved to the breeding area, or placed under another card.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3741",
+      "q": "What does this card's \"when [...] would leave the battle area\" mean, exactly?"
+    },
+    {
+      "a": [
+        "Yes, it triggers.",
+        "Because a Digimon also leaves the battle area when it's placed in digivolution cards for a DigiXros, the effect triggers and activates."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q3742",
+      "q": "Does this card's [All Turns] effect trigger when this card is in the battle area and would be placed in another Digimon’s digivolution cards for a DigiXros?"
+    },
+    {
+      "a": [
+        "No, it can't.",
+        "You must choose all of the cards to place when you declare the DigiXros. After choosing them, the chosen cards are placed under the card to DigiXros. This card's [All Turns] effect triggers and activates when the chosen cards would be placed, so after activation has occurred, you can't re-do your choices for the cards to place for the DigiXros."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q3743",
+      "q": "I chose this card as a target for a DigiXros. Then, I used this card's [All Turns] effect to return a yellow Digimon card to the hand. At such times, can the card returned to the hand be placed for the DigiXros?"
+    }
+  ],
+  "Color": [
+    "Yellow",
+    "Black"
+  ],
+  "Cost": "7",
+  "DP": "7000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "Black",
+    "4 from Lv.4"
+  ],
+  "Effect": [
+    "[On Play] [When Attacking] 1 Digimon may gain ＜Security A. -1＞ until the end of your opponent's turn. Then, if DigiXrosing, this Digimon gets +3000 DP and ＜Blocker＞ until the end of your opponent's turn.",
+    "[All Turns] When this Digimon would leave the battle area, return 1 yellow Digimon card from its digivolution cards to the hand."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "[When Attacking] [Once Per Turn] 1 Digimon may gain ＜Security A. -1＞ until the end of your opponent's turn.",
+  "Notes": [
+    "Theme Booster INFERNAL ASCENSION [EX06]",
+    "?search=true&category=522022",
+    "/products/pack/ex-06"
+  ],
+  "Special Play Condition": [
+    "DigiXros -2: [Sanzomon]/[Gokuumon]/[Sagomon]",
+    "When you would play this card, you may place specified cards from your hand/battle area under it. Each placed card reduces the play cost."
+  ],
+  "Type": "Puppet",
+  "cardLv": "Lv.5",
+  "cardNo": "EX6-026",
+  "cardRarity": "U",
+  "cardTitle": "Cho-Hakkaimon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX6-026.png?260210"
+}

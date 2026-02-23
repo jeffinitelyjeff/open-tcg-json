@@ -1,0 +1,51 @@
+{
+  "Card Q&A": [
+    {
+      "a": [
+        "No, you can't.",
+        "This card's effect doesn't let you attack with a Digimon that's in a state where it can't attack."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q1898",
+      "q": "Can I use this card's [Main] effect to attack my opponent with 1 of my Digimon with [Greymon] in its name that is suspended or was played in the same turn?"
+    },
+    {
+      "a": "No. [X Antibody] in this effect's text refers to the card name, therefore only a card with [X Antibody] as its card name will meet the condition. It doesn't refer to the [X Antibody] trait.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1899",
+      "q": "If a digivolution card has the [X Antibody] trait, does it meet this card's \"if you have a Digimon with [X Antibody] in its digivolution cards in play\" condition?"
+    },
+    {
+      "a": "Yes, it activates.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1900",
+      "q": "When I use this card's [Main] effect to attack, does the attacking Digimon's [When Attacking] effect activate?"
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "This card's effect only allows you to attack a player."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q1901",
+      "q": "Can I use this card's [Main] effect to have one of my opponent's Digimon attack when one of my Digimon with [Greymon] in its name has a \"this Digimon can also attack your opponent's unsuspended Digimon\" effect?"
+    }
+  ],
+  "Color": "Red",
+  "Cost": "8",
+  "Effect": [
+    "When you would use this card, if you have a Digimon with [X Antibody] in its digivolution cards in play, reduce the memory cost of this card by 2.",
+    "[Main] Delete 1 of your opponent's Digimon with 13000 DP or less. Then, 1 of your Digimon with [Greymon] in its name may attack your opponent."
+  ],
+  "Notes": [
+    "Booster X RECORD [BT09]",
+    "?search=true&category=522010",
+    "/products/pack/ver9.php"
+  ],
+  "Security Effect": "[Security] Delete 1 of your opponent's Digimon.",
+  "cardNo": "BT9-095",
+  "cardRarity": "R",
+  "cardTitle": "Gaia Force ZERO",
+  "cardType": "Option",
+  "imgSrc": "../images/cardlist/card/BT9-095.png?260210"
+}

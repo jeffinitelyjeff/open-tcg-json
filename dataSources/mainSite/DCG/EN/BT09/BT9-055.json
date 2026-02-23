@@ -1,0 +1,52 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "Yes, it can.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1849",
+      "q": "I activate this card’s [When Digivolving] effect in the middle of an attack to suspend an opponent's Digimon. Can this card's effect then switch the target of attack to one of my opponent’s other suspended Digimon?"
+    },
+    {
+      "a": "No. This effect specifies a card name, so you must have a card whose name is either [GranKuwagamon] or [X Antibody] in this Digimon’s digivolution cards. Having a card with [X Antibody] in its traits doesn't count.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1850",
+      "q": "This card’s effect reads, “If [GranKuwagamon] or [X Antibody] is in this Digimon’s digivolution cards”. Does having a card with [X Antibody] in its traits count?"
+    },
+    {
+      "a": [
+        "Yes, you can.",
+        "A \"this Digimon can't be attacked\" effect prevents a Digimon from being chosen as the target upon an attack declaration, therefore an attack can be switched to a Digimon with such an effect by using an effect that switches the target after the attack declaration."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q1851",
+      "q": "Can I switch the target of attack to an opponent's Digimon with a \"this Digimon can't be attacked\" effect when I activate this card's [When Digivolving] effect during an attack?"
+    }
+  ],
+  "Color": "Green",
+  "Cost": "12",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Green",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "[When Digivolving] Suspend 1 of your opponent's Digimon. Then, if this Digimon is attacking, you may switch the target of attack to 1 of your opponent’s suspended Digimon.",
+    "[Your Turn] This Digimon gets +4000 DP.",
+    "[End of Attack][Once Per Turn] If [GranKuwagamon] or [X Antibody] is in this Digimon’s digivolution cards, suspend 1 of your opponent’s Digimon and unsuspend this Digimon."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster X RECORD [BT09]",
+    "?search=true&category=522010",
+    "/products/pack/ver9.php"
+  ],
+  "Special Digivolution Condition": "[Digivolve] 1 from [GranKuwagamon]",
+  "Type": "Insectoid/X Antibody",
+  "cardLv": "Lv.6",
+  "cardNo": "BT9-055",
+  "cardRarity": "SR",
+  "cardTitle": "GrandisKuwagamon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT9-055.png?260210"
+}

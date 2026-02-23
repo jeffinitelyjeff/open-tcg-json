@@ -1,0 +1,43 @@
+{
+  "Card Q&A": [
+    {
+      "a": [
+        "No, you only delete it at the end of your opponent's first turn after it's played by this effect.",
+        "If another effect prevents it from being deleted at the end of your opponent's first turn when it would be deleted, that Digimon isn't deleted at the end of your opponent's following turns.",
+        "If it isn't deleted by another effect when it would be deleted by this effect, it's still prevented from digivolving."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5724",
+      "q": [
+        "Do I delete the Digimon that was played by this card's [Start of Your Main Phase] effect at the end of my opponent's turn?",
+        "And if it isn't deleted, is it still prevented from digivolving?"
+      ]
+    },
+    {
+      "a": "The pending processing for the effect that triggers at the end of the turn and the deletion at the end of the turn are considered to be processing that triggers simultaneously. Therefore, the turn player can choose the processing order.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5725",
+      "q": "What is the processing order for an effect that triggers at the end of the turn and the deletion of a Digimon played by this card's [Start of Your Main Phase] effect?"
+    }
+  ],
+  "Color": [
+    "Green",
+    "Yellow"
+  ],
+  "Cost": "4",
+  "Effect": [
+    "[Start of Your Main Phase] If you have 1 or fewer Digimon in play, you may play 1 [Terriermon] or [Lopmon] from your hand without paying the cost. Digimon played by this effect can't digivolve and are deleted at the next end of your opponent’s turn.",
+    "[Your Turn] When one of your Digimon with [Terriermon] or [Lopmon] in its digivolution cards would digivolve, by suspending this Tamer, reduce the digivolution cost by 1."
+  ],
+  "Notes": [
+    "Theme Booster ALTERNATIVE BEING [EX04]",
+    "?search=true&category=522015",
+    "/products/pack/ex-04.php"
+  ],
+  "Security Effect": "[Security] Play this card without paying the cost.",
+  "cardNo": "EX4-063",
+  "cardRarity": "R",
+  "cardTitle": "Henry Wong & Shu-Chong Wong",
+  "cardType": "Tamer",
+  "imgSrc": "../images/cardlist/card/EX4-063.png?260210"
+}

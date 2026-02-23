@@ -1,0 +1,61 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": "No, this card's effect does not allow ignoring digivolution requirements, so you can only digivolve into a card that meets the digivolution requirements.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2407",
+      "q": "When I use this card's effect to digivolve it into a yellow Digimon card with the [Vaccine] trait in my security stack, can it digivolve regardless of its digivolution requirements?"
+    },
+    {
+      "a": "No, you can't.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2408",
+      "q": "Can I use an effect that digivolves my Digimon to digivolve this card into a security card with the [Vaccine] trait?"
+    },
+    {
+      "a": [
+        "Yes.",
+        "added a card to your security, so you gain 1 memory.",
+        "Related Cards"
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2409",
+      "q": [
+        "I have a Digimon in play with this card in its digivolution cards. [BT1-087 T.K. Takaishi]’s effect adds a yellow card from my security stack to my hand, and",
+        "adds a card to my security stack. The number of cards in my security stack ultimately remained the same, but can I still gain 1 memory from this card’s inherited effect?"
+      ]
+    },
+    {
+      "a": "Yes, they trigger simultaneously.",
+      "date": "Jun. 21, 2024",
+      "num": "Q2410",
+      "q": [
+        "I used this card's [Start of Your Main Phase] effect to digivolve from a security card, then place a card from my hand at the bottom of the security stack.",
+        "Do \"when a card is added to the security stack\" and \"when a card is removed from the security stack\" effects trigger simultaneously at such times?"
+      ]
+    }
+  ],
+  "Color": "Yellow",
+  "Cost": "3",
+  "DP": "1000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "0 from Lv.2"
+  ],
+  "Effect": "[Start of Your Main Phase] Search your security stack. This Digimon may digivolve into a yellow Digimon card with the [Vaccine] trait among them without paying the cost. Then, shuffle your security stack. If digivolved by this effect, you may place 1 yellow card with the [Vaccine] trait from your hand at the bottom of your security stack.",
+  "Form": "Rookie",
+  "Inherited Effect": "[Your Turn][Once Per Turn] When a card is added to your security stack, gain 1 memory.",
+  "Notes": [
+    "Booster BLAST ACE [BT14]",
+    "?search=true&category=522018",
+    "/products/pack/ver14.php"
+  ],
+  "Type": "Mammal",
+  "cardLv": "Lv.3",
+  "cardNo": "BT14-033",
+  "cardRarity": "SR",
+  "cardTitle": "Patamon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT14-033.png?260210"
+}

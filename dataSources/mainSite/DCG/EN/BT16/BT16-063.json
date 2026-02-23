@@ -1,0 +1,63 @@
+{
+  "Attribute": "Free",
+  "Card Q&A": [
+    {
+      "a": [
+        "The \"until the end of your opponent's turn, this Digimon isn't affected by the effects of their Digimon\" part activates even if not DNA digivolving.",
+        "The \"place 1 of your opponent's Digimon with as high or lower a level as the number of cards in your or their security stack at the bottom of their security stack\" part only activates if DNA digivolving."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2651",
+      "q": "Does this card’s [When Digivolving] effect activate when performing a non-DNA digivolve?"
+    },
+    {
+      "a": "No, this effect places 1 of your opponent's Digimon with as high or lower a level as the number of cards in either your or their security stack at the bottom of their security stack, not the total number of cards.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2652",
+      "q": "Does this card’s [When Digivolving] effect place 1 of my opponent's Digimon with as high or lower a level as the total number of cards in my or their security stack at the bottom of their security stack?"
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "If your opponent has a Digimon with as high or lower a level than the number of either your or your opponent's security cards, you must place those Digimon at the bottom of their security stack for this card's [When Digivolving] effect."
+      ],
+      "date": "Nov. 22, 2024",
+      "num": "Q2653",
+      "q": [
+        "I have 5 security cards, and my opponent has 1 security card.",
+        "Can I refer to the number of my opponent's security cards for this card's [When Digivolving] effect so I don't place their Digimon at the bottom of the security stack?"
+      ]
+    }
+  ],
+  "Color": [
+    "Black",
+    "Yellow"
+  ],
+  "Cost": "8",
+  "DP": "8000",
+  "Digivolve Cost 1": [
+    "Black",
+    "Yellow",
+    "4 from Lv.4"
+  ],
+  "Effect": [
+    "＜Partition (black Lv.4 & yellow Lv.4)＞",
+    "[When Digivolving] Until the end of your opponent's turn, this Digimon isn't affected by the effects of their Digimon. Then, if DNA digivolving, place 1 of your opponent's Digimon with as high or lower a level as the number of cards in your or their security stack at the bottom of their security stack.",
+    "(Rule) Trait: Has [Angel] type."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "＜Partition (black Lv.4 & yellow Lv.4)＞ (When this Digimon with each of the specified digivolution cards would leave the battle area other than by your effects or a battle, you may play 1 each of the specified cards without paying the costs.)",
+  "Notes": [
+    "Booster BEGINNING OBSERVER [BT16]",
+    "?search=true&category=522021",
+    "/products/pack/ver16"
+  ],
+  "Special Digivolution Condition": "[DNA Digivolution] Black Lv.4 + yellow Lv.4: Cost 0 Digivolve unsuspended with the 2 specified Digimon stacked on top of each other.",
+  "Type": "Mutant",
+  "cardLv": "Lv.5",
+  "cardNo": "BT16-063",
+  "cardRarity": "SR",
+  "cardTitle": "Shakkoumon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT16-063.png?260210"
+}

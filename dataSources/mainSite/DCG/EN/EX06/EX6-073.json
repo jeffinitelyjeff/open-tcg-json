@@ -1,0 +1,70 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": [
+        "Yes, they are.",
+        "When cards such as [Leviamon] and [Leviamon (X Antibody)] differ in that one has [X Antibody] in its name and the other doesn't, you can reference the cards as if they have different names."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q3823",
+      "q": "If [Leviamon] and [Leviamon (X Antibody)] are in this card's digivolution cards, are they considered \"cards with different names\"?"
+    },
+    {
+      "a": "It activates if 4 or more cards are first placed for the [When Digivolving] [When Attacking] effect. Even if you have 4 or more [Seven Great Demon Lords] trait cards with different names in digivolution cards, the effect won't activate unless you first place 4 or more cards for the [When Digivolving] [When Attacking] effect.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3824",
+      "q": "Does \"if 4 or more were placed\" in this card's [When Digivolving] [When Attacking] effect mean that the effect activates if I first place 4 or more cards for the [When Digivolving] [When Attacking] effect? Or does it activate if 4 or more [Seven Great Demon Lords] trait cards with different names are in digivolution cards?"
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "If you activate this effect, you must return 7 [Seven Great Demon Lords] trait cards with different names from this Digimon's digivolution cards to the bottom of the deck in order to delete 7 of your opponent's Digimon or Tamers."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q3825",
+      "q": "If I return 1 to 7 [Seven Great Demon Lords] trait cards with different names from this Digimon's digivolution cards to the bottom of the deck, can I use this card's 2nd [When Attacking] effect to delete the same number of my opponent's Digimon or Tamers?"
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "Deleting 7 of your opponent's Digimon or Tamers is mandatory for this effect."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q3826",
+      "q": "Can I use this card's 2nd [When Attacking] effect to trash 7 cards from my opponent's security stack without deleting their Digimon or Tamers?"
+    },
+    {
+      "a": "Yes. If it isn't deleted, then the number of security cards trashed isn't reduced by 1.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3827",
+      "q": "When I would use this card's 2nd [When Attacking] effect to delete 7 of my opponent's Digimon or Tamers, if an opponent's Digimon isn't deleted due to an \"isn't affected by your opponent’s effects\" effect or other reason, does that mean that the number of security cards trashed isn't reduced by 1 for that Digimon?"
+    }
+  ],
+  "Color": "Purple",
+  "Cost": "16",
+  "DP": "16000",
+  "Digivolve Cost 1": [
+    "Purple",
+    "7 from Lv.6"
+  ],
+  "Effect": [
+    "[When Digivolving] [When Attacking] You may place up to 7 [Seven Great Demon Lords] trait cards with different names from your trash as this Digimon's bottom digivolution cards. If 4 or more were placed, delete 1 of your opponent's Digimon or Tamers.",
+    "[When Attacking] By returning 7 [Seven Great Demon Lords] trait cards with different names from this Digimon's digivolution cards to the bottom of the deck, delete 7 of your opponent's Digimon or Tamers. Then, trash the top 7 cards of their security stack. For each card this effect deleted, reduce the number of security cards trashed by 1."
+  ],
+  "Form": "Mega",
+  "Inherited Effect": "-",
+  "Notes": [
+    "Theme Booster INFERNAL ASCENSION [EX06]",
+    "?search=true&category=522022",
+    "/products/pack/ex-06"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.5 or higher w/[Seven Great Demon Lords] trait: Cost 6",
+  "Type": "Avatar",
+  "cardLv": "Lv.7",
+  "cardNo": "EX6-073",
+  "cardRarity": "SEC",
+  "cardTitle": "Ogudomon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX6-073.png?260210"
+}

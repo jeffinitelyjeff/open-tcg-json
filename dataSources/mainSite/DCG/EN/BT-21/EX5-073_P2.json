@@ -1,0 +1,66 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "Yes, it can.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3686",
+      "q": "Can \"trash any 8 digivolution cards from your opponent's Digimon\" in this card's [When Digivolving][When Attacking] effect trash a total of 8 digivolution cards from multiple opponent's Digimon?"
+    },
+    {
+      "a": [
+        "No, it doesn’t.",
+        "If this effect is activated [When Attacking], only \"delete 1 of their Digimon with as many or fewer digivolution cards as this Digimon\" activates."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q3687",
+      "q": "If this Digimon attacks after DNA digivolving, does \"if DNA digivolving, trash any 8 digivolution cards from your opponent's Digimon\" in this card's [When Attacking] effect activate?"
+    },
+    {
+      "a": [
+        "Yes, you can process it.",
+        "Even if this Digimon didn't DNA digivolve, this card's [When Digivolving] [When Attacking] effect will delete 1 of your opponent's Digimon with as many or fewer digivolution cards as this Digimon."
+      ],
+      "date": "Jun. 13, 2025",
+      "num": "Q3688",
+      "q": "Can I process the part of the effect after \"then\" in this card's [When Digivolving] [When Attacking] effect even if the \"if\" condition in the 1st process isn't met?"
+    },
+    {
+      "a": "No, as many as possible are trashed.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3689",
+      "q": "If my opponent's Digimon have less than 8 digivolution cards when this card's [When Digivolving][When Attacking] effect activates, does that mean that those digivolution cards can't be trashed?"
+    }
+  ],
+  "Color": [
+    "Red",
+    "Blue"
+  ],
+  "Cost": "15",
+  "DP": "15000",
+  "Digivolve Cost 1": [
+    "Red",
+    "Blue",
+    "6 from Lv.6"
+  ],
+  "Effect": [
+    "＜Security A. +1＞ ＜Blocker＞",
+    "[When Digivolving] [When Attacking] If DNA digivolving, trash any 8 digivolution cards from your opponent's Digimon. Then, delete 1 of their Digimon with as many or fewer digivolution cards as this Digimon.",
+    "[All Turns] When this Digimon would leave the battle area by your opponent's effects, by trashing 2 same-level cards in its digivolution cards, it doesn't leave."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster WORLD CONVERGENCE [BT-21]",
+    "?search=true&category=522028",
+    "/products/pack/ver21"
+  ],
+  "Special Digivolution Condition": "[DNA Digivolve] [Apollomon] + [Dianamon]: Cost 0 Stack the 2 specified Digimon and digivolve unsuspended.",
+  "Type": "Galaxy",
+  "cardLv": "Lv.7",
+  "cardNo": "EX5-073",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SEC",
+  "cardTitle": "GraceNovamon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX5-073_P2.png?260210"
+}

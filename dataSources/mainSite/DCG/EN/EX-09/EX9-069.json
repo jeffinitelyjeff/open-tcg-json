@@ -1,0 +1,53 @@
+{
+  "Card Q&A": [
+    {
+      "a": "No, it doesn't trigger.",
+      "date": "Jun. 13, 2025",
+      "num": "Q4829",
+      "q": "Does this card's [Your Turn] effect trigger when a face-down card is placed as a digivolution card under my Digimon in the breeding area?"
+    },
+    {
+      "a": [
+        "The [Your Turn] effects on the 2 copies of this card will derived trigger, so you can choose whether they will activate, and then you can activate them.",
+        "Then, the [Start of Your Main Phase] effect on the 2nd copy of this card can activate.",
+        "The [Start of Your Main Phase] effect on the 2nd copy of this card triggers the [Your Turn] effects on the 2 copies of this card again, therefore if this card is unsuspended, you can also activate the [Your Turn] effects during this timing."
+      ],
+      "date": "Jun. 13, 2025",
+      "num": "Q4830",
+      "q": [
+        "2 copies of this card are in the battle area.",
+        "The [Start of Your Main Phase] effects on both copies of this card trigger simultaneously, and I activate that effect on the 1st copy of this card.",
+        "At such times, in what order do the already triggered [Start of Your Main Phase] effect on the 2nd copy of this card and the triggered [Your Turn] effects on the 2 copies of this card activate?"
+      ]
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "If you don't suspend this card, the part after \"then\" in its [Your Turn] effect can't give you",
+        "."
+      ],
+      "date": "Jul. 4, 2025",
+      "num": "Q4978",
+      "q": "Can I process the part of the effect after \"then\" in this card's [Your Turn] effect without meeting the \"by\" condition?"
+    }
+  ],
+  "Color": "White",
+  "Cost": "3",
+  "Effect": [
+    "[Start of Your Main Phase] You may place 1 card from your hand face down as any of your [DM] trait Digimon's bottom digivolution card.",
+    "[Your Turn] When face-down cards are placed as any of your Digimon's digivolution cards, by suspending this Tamer, gain 1 memory. Then, if you have 7 or fewer cards in your hand, ＜Draw 1＞.",
+    "[Opponent's Turn] All of your Digimon with face-down digivolution cards gain ＜Reboot＞."
+  ],
+  "Notes": [
+    "Extra Booster VERSUS MONSTERS [EX-09]",
+    "?search=true&category=522029",
+    "/products/pack/ex-09"
+  ],
+  "Security Effect": "[Security] Play this card without paying the cost.",
+  "Type": "DM",
+  "cardNo": "EX9-069",
+  "cardRarity": "SR",
+  "cardTitle": "Analog Youth",
+  "cardType": "Tamer",
+  "imgSrc": "../images/cardlist/card/EX9-069.png?260210"
+}

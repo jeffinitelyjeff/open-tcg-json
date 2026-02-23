@@ -1,0 +1,59 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "Yes, it activates.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3714",
+      "q": "Does this card's \"when you would play this card\" effect also activate when this card would be played by an effect?"
+    },
+    {
+      "a": [
+        "Yes, you can.",
+        "Even if the part after the conditions specified with \"by X\" in an effect can't be resolved, the effect can still activate."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q3715",
+      "q": "Can I use this card's [End of Your Turn] effect to place 1 of my level 6 Digimon on top of my security stack even when I don't have [Lucemon: Chaos Mode] in my trash?"
+    },
+    {
+      "a": "Yes, that's correct.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3716",
+      "q": "Can I use this card's [End of Your Turn] effect to place 1 of my level 6 Digimon on top of my security stack but choose to not digivolve this Digimon into [Lucemon: Chaos Mode] in my trash?"
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "You can’t ignore the digivolution requirements.",
+        "Related Cards"
+      ],
+      "date": "Sep. 5, 2025",
+      "num": "Q5002",
+      "q": "Can I use this card's [End of Your Turn] effect to digivolve into a BT7-111 [Lucemon: Chaos Mode] in the trash?"
+    }
+  ],
+  "Color": "Yellow",
+  "Cost": "10",
+  "DP": "10000",
+  "Effect": [
+    "When this card would be played, if you don't have a level 5 or lower Digimon, reduce the play cost by 5.",
+    "[Start of Your Main Phase] [On Play] Reveal the top 3 cards of your deck. Add 1 card with the [Angel], [Archangel], [Three Great Angels] or [Seven Great Demon Lords] trait among them to the hand. Trash the rest.",
+    "[End of Your Turn] [Once Per Turn] By placing 1 of your level 6 Digimon on top of your security stack, this Digimon may digivolve into [Lucemon: Chaos Mode] in your trash without paying the cost."
+  ],
+  "Form": "Rookie",
+  "Inherited Effect": "-",
+  "Notes": [
+    "Theme Booster INFERNAL ASCENSION [EX06]",
+    "?search=true&category=522022",
+    "/products/pack/ex-06"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [Cupimon]: Cost 5",
+  "Type": "Angel",
+  "cardLv": "Lv.3",
+  "cardNo": "EX6-018",
+  "cardRarity": "R",
+  "cardTitle": "Lucemon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX6-018.png?260210"
+}

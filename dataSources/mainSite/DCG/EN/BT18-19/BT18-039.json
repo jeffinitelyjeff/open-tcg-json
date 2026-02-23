@@ -1,0 +1,65 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": [
+        "Such effects change the original DP shown on the target card to the predetermined value shown in the effect.",
+        "For example, if a Digimon has an original DP of 8000 and it's chosen as the target for a \"[Main] Change the original DP of 1 of your opponent's Digimon to 3000 until the end of their turn\" effect, that Digimon's original DP will become 3000 instead of 8000."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q2961",
+      "q": "What does the \"change 1 Digimon's original DP\" effect do, exactly?"
+    },
+    {
+      "a": [
+        "Its original DP is changed, then +1000 is added to the changed DP.",
+        "Values added to DP don't affect the original DP."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q2962",
+      "q": "What happens if a Digimon that got +1000 DP has its original DP changed by the \"change 1 Digimon's original DP\" effect?"
+    },
+    {
+      "a": "The original DP is changed to the most recent value.",
+      "date": "Jun. 21, 2024",
+      "num": "Q2963",
+      "q": "What happens if a Digimon has its original DP changed and is then affected by a \"change 1 Digimon's original DP\" effect again?"
+    },
+    {
+      "a": [
+        "No, it can't.",
+        "Effects that change information can't change information that a card didn't originally have.",
+        "For example, if a Digimon has its original DP changed by an effect and then its top card becomes a card without DP due to a",
+        "effect, it will no longer be affected by the effect that changes the original DP."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q2964",
+      "q": "Can a Digimon without DP be affected by the \"change 1 Digimon's original DP\" effect?"
+    }
+  ],
+  "Color": "Yellow",
+  "Cost": "7",
+  "DP": "7000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "3 from Lv.4"
+  ],
+  "Effect": [
+    "＜Barrier＞",
+    "[On Play] [When Digivolving] By trashing your top security card, change 1 Digimon's original DP to 6000 until the end of of your opponent's turn."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "[All Turns] [Once Per Turn] When your security stack is removed from, this Digimon may unsuspend.",
+  "Notes": [
+    "SPECIAL BOOSTER Ver.2.0 [BT18-19]",
+    "?search=true&category=522025",
+    "/products/pack/ver18-19"
+  ],
+  "Type": "Magic Warrior/Witchelny",
+  "cardLv": "Lv.5",
+  "cardNo": "BT18-039",
+  "cardRarity": "U",
+  "cardTitle": "Mistymon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT18-039.png?260210"
+}

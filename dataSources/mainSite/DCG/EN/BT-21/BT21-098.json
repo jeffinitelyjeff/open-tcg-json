@@ -1,0 +1,55 @@
+{
+  "Card Q&A": [
+    {
+      "a": [
+        "It refers to a card that contains the specified text or icon in its name, traits, effects, inherited effects, (Rule), digivolution requirements, DNA digivolution, DigiXros requirements, burst digivolve, App Fusion, Link, or Assembly requirements.",
+        "For example, a card with [Knightmon] in its text would include cards with the name [DarkKnightmon] and cards with the text [Knightmon] in their effects."
+      ],
+      "date": "Jun. 13, 2025",
+      "num": "Q4622",
+      "q": "What does a card with \"X in its text\" refer to?"
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "If your opponent has a Digimon, you must choose that card and delete it."
+      ],
+      "date": "Apr. 4, 2025",
+      "num": "Q4623",
+      "q": [
+        "My opponent has a Digimon.",
+        "Can I meet the \"if this effect didn't delete\" condition in this card's",
+        "effect by not choosing a card to delete?"
+      ]
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Apr. 4, 2025",
+      "num": "Q4624",
+      "q": [
+        "My opponent has a Digimon.",
+        "Can I meet the \"if this effect didn't delete\" condition in this card's",
+        "effect by choosing an opponent's Digimon with an effect that prevents deletion?"
+      ]
+    }
+  ],
+  "Color": "Black",
+  "Cost": "6",
+  "Effect": [
+    "[Main] Delete 1 of your opponent’s Digimon with the lowest play cost. Then, place this card in the battle area.",
+    "[Your Turn] When one of your [Galacticmon] attacks, ＜Delay＞.",
+    "・Delete 1 of your opponent’s Digimon with the lowest play cost. If this effect didn't delete, trash the top cards of your opponent's security stack so that it has 1 card left."
+  ],
+  "Notes": [
+    "Booster WORLD CONVERGENCE [BT-21]",
+    "?search=true&category=522028",
+    "/products/pack/ver21"
+  ],
+  "Security Effect": "[Security] You may play 1 card with [Vemmon] in its text and a play cost of 6 or less from your hand or trash without paying the cost. Then, add this card to the hand.",
+  "Type": "LIBERATOR",
+  "cardNo": "BT21-098",
+  "cardRarity": "C",
+  "cardTitle": "Ragnarok Cannon",
+  "cardType": "Option",
+  "imgSrc": "../images/cardlist/card/BT21-098.png?260210"
+}

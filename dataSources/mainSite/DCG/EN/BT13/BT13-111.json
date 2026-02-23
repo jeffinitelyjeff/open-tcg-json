@@ -1,0 +1,45 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": [
+        "No, it means every 5 cards in yours and your opponent's trashes combined.",
+        "For example, if you have 12 cards in your trash and your opponent has 8 cards in theirs, that makes a total of 20 cards, so the play cost is reduced by 8."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2364",
+      "q": "Does \"for every 5 cards in both players' trash\" mean for every 5 cards in either mine or my opponent's trash?"
+    },
+    {
+      "a": "No. \"Delete 1 of your opponent's Digimon with 6000 DP or less\" becomes \"Delete 1 of your opponent's Digimon with 7000 DP or less,\" but 13000 DP isn't the maximum for \"delete 1 of your opponent's Digimon with 13000 DP or more,\" therefore it isn't affected and remains as \"delete 1 of your opponent's Digimon with 13000 DP or more.\"",
+      "date": "Mar. 28, 2024",
+      "num": "Q2365",
+      "q": "When an \"Add 1000 to the maximum your DP-based deletion effects can delete\" effect has activated, does this card's [On Play][When Digivolving][When Attacking] effect become \"Delete 1 of your opponent's Digimon with 7000 DP or less. If no Digimon was deleted by this effect, delete 1 of your opponent's Digimon with 14000 DP or more\"?"
+    }
+  ],
+  "Color": "Red",
+  "Cost": "13",
+  "DP": "13000",
+  "Digivolve Cost 1": [
+    "Red",
+    "5 from Lv.5"
+  ],
+  "Effect": [
+    "When you would play this card from the hand, if you have no Digimon, reduce the play cost by 2 for every 5 total cards in both players' trashes.",
+    "＜Rush＞ (This Digimon can attack the turn it was played.)",
+    "[On Play][When Digivolving][When Attacking] Delete 1 of your opponent's Digimon with 6000 DP or less. If no opponent's Digimon was deleted by this effect, delete 1 of their Digimon with 13000 DP or more."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster VERSUS ROYAL KNIGHTS [BT13]",
+    "?search=true&category=522016",
+    "/products/pack/ver13.php"
+  ],
+  "Type": "Holy Warrior/Royal Knight",
+  "cardLv": "Lv.6",
+  "cardNo": "BT13-111",
+  "cardRarity": "SEC",
+  "cardTitle": "Gallantmon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT13-111.png?260210"
+}

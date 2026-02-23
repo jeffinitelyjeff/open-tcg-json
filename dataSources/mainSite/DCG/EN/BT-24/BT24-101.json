@@ -1,0 +1,80 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "It can digivolve for digivolution cost of 0.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5714",
+      "q": [
+        "I have 0 security cards.",
+        "What is the digivolution cost if I use this card's 3rd digivolution requirement to digivolve from a level 5 card with [Aegiochusmon] in its name?"
+      ]
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5715",
+      "q": "Can I use this card's [On Play] [When Digivolving] to reduce the DP of 1 of my opponent's Digimon even when I have 0 security cards and therefore can't trash one?"
+    },
+    {
+      "a": [
+        "No, it isn't deleted yet.",
+        "Once all of the processing for this card's [On Play] [When Digivolving] effect is resolved, then all of the Digimon with 0 DP are deleted at the same time."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5716",
+      "q": [
+        "I activated \"1 of your opponent's Digimon gets -13000 DP until their turn ends\" in this card's [On Play] [When Digivolving] effect, and the DP of my opponent's Digimon became 0.",
+        "At such times, is that Digimon deleted before the part of the effect after \"then\"?"
+      ]
+    },
+    {
+      "a": [
+        "[Security] effects take precedence for activation.",
+        "Upon a security check, a [Security] effect will immediately activate without pending activation.",
+        "For other triggered effects, the turn player activates their effects first."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5717",
+      "q": "In what order do a [Security] effect, \"when [...] performs a security check\" effect, and \"when a card is removed from [...] security stack\" effect activate when they trigger simultaneously upon a security check?"
+    },
+    {
+      "a": [
+        "Yes, all of those Digimon are prevented from leaving.",
+        "This card's [All Turns] effect affects all Digimon without having to choose them."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5718",
+      "q": "If I activate this card's 2nd [All Turns] effect when multiples of my Digimon or Tamers with the [TS] trait would leave the battle area at the same time, are all of those Digimon and Tamers prevented from leaving?"
+    }
+  ],
+  "Color": "Yellow",
+  "Cost": "12",
+  "DP": "13000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "5 from Lv.5"
+  ],
+  "Effect": [
+    "[On Play] [When Digivolving] Trash your top security card and 1 of your opponent's Digimon gets -13000 DP until their turn ends. Then, if you have 1 or fewer security cards, ＜Recovery +2 ≪Deck≫＞.",
+    "[All Turns] [Once Per Turn] When your security stack is removed from, trash your opponent's top security card.",
+    "[All Turns] [Once Per Turn] When any of your [TS] trait Digimon or Tamers would leave the battle area, by trashing your top security card, they don't leave."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster TIME STRANGER [BT-24]",
+    "?search=true&category=522033",
+    "/products/pack/ver24"
+  ],
+  "Special Digivolution Condition": [
+    "[Digivolve] Lv.5 w/[TS] trait: Cost 5",
+    "[Digivolve] Lv.5 w/[Aegiochusmon] in name: Cost 1 for each of your security cards"
+  ],
+  "Type": "Shaman/Olympos XII/Iliad/TS",
+  "cardLv": "Lv.6",
+  "cardNo": "BT24-101",
+  "cardRarity": "SEC",
+  "cardTitle": "Jupitermon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT24-101.png?260210"
+}

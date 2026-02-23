@@ -1,0 +1,77 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": [
+        "This effect prevents [When Digivolving] effects on cards from activating.",
+        "[When Digivolving] effects can no longer activate by triggering or when effects such as \"activate that card's [When Digivolving]\" effect\" activate."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5536",
+      "q": "What does \"[When Digivolving] effects don't activate\" mean, exactly?"
+    },
+    {
+      "a": [
+        "Yes, you can.",
+        "The effect can activate if it activates upon the [When Attacking] timing."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5537",
+      "q": [
+        "I used a card affected by \"can't activate [When Digivolving] effects\" to attack.",
+        "Can I activate that card's [When Digivolving] [When Attacking] effect at such times?"
+      ]
+    },
+    {
+      "a": "No, it can't be activated.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5538",
+      "q": "If a card is affected by \"can't activate [When Digivolving] effects,\" can other effects activate its [When Digivolving] effect?"
+    },
+    {
+      "a": "No, you can't.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5539",
+      "q": "If a card is affected by \"can't activate [When Digivolving] effects,\" can I process just the \"by\" condition in its [When Digivolving] effect?"
+    },
+    {
+      "a": [
+        "No, it doesn't count.",
+        "The effect can't activate upon the [When Digivolving] timing, therefore it doesn't count as an instance of that effect's [X Per Turn]."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5540",
+      "q": [
+        "A card that was given \"can't activate [When Digivolving] effects\" digivolved into a card that has a [When Digivolving] [When Attacking] [Once Per Turn] effect.",
+        "Does that count as an instance of that effect's [X Per Turn] even if that effect can't be activated upon the timing when that card digivolved?"
+      ]
+    }
+  ],
+  "Color": "Yellow",
+  "Cost": "5",
+  "DP": "8000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "3 from Lv.4"
+  ],
+  "Effect": [
+    "{Hand} [Counter] ＜Blast Digivolve＞ (Your Digimon may digivolve into this card without paying the cost.)",
+    "[On Play] [When Digivolving] If it's your turn, you may use 1 single-color use cost 5 or lower Option card from your hand without paying the cost. If it's your opponent's, for the turn, give 1 of their Digimon ＜Security A. -1＞ and it can't activate [When Digivolving] effects."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "[When Attacking] 1 of your opponent's Digimon gets -4000 DP for the turn.",
+  "Notes": [
+    "SPECIAL BOOSTER Ver.2.5 [BT19-20]",
+    "?search=true&category=522027",
+    "/products/pack/ver19-20"
+  ],
+  "Special Rule": "＜Overflow (-3)＞ (As this card moves from the field or under a card to an area other than those, lose 3 memory.)",
+  "Type": "Wizard",
+  "cardLv": "Lv.5",
+  "cardNo": "BT19-037",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "Taomon ACE",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT19-037_P2.png?260210"
+}

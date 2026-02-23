@@ -1,0 +1,58 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": [
+        "The top card is trashed until there are no more stacked cards.",
+        "Once there is 1 card left, it isn't considered to have \"stacked cards,\" therefore no more are trashed."
+      ],
+      "date": "Apr. 4, 2025",
+      "num": "Q4540",
+      "q": "What happens if a Digimon with 10 or fewer cards stacked with it is chosen for this card's [On Play] [When Digivolving] effect?"
+    },
+    {
+      "a": [
+        "It's trashed upon the rule check timing.",
+        "This trashing isn't considered trashing from the battle area."
+      ],
+      "date": "Apr. 4, 2025",
+      "num": "Q4541",
+      "q": "What happens if this card's [On Play] [When Digivolving] effect trashes stacked cards and the Digimon becomes a Digimon without DP?"
+    },
+    {
+      "a": [
+        "It's trashed upon the rule check timing.",
+        "This trashing isn't considered trashing from the battle area."
+      ],
+      "date": "Apr. 4, 2025",
+      "num": "Q4542",
+      "q": "What happens if this card's [On Play] [When Digivolving] effect trashes stacked cards and the Digimon becomes an Option card?"
+    }
+  ],
+  "Color": [
+    "Red",
+    "Yellow"
+  ],
+  "Cost": "15",
+  "DP": "17000",
+  "Effect": [
+    "When this card would be played, by placing 1 of your [Shoutmon] under it, reduce the play cost by 1 and cards in your trash can also be placed for DigiXros.",
+    "[On Play] [When Digivolving] Trash the top 10 stacked cards of 1 of your opponent's Digimon.",
+    "[When Attacking] [Once Per Turn] You may return 1 of your opponent's Digimon with no digivolution cards to the bottom of the deck."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster WORLD CONVERGENCE [BT-21]",
+    "?search=true&category=522028",
+    "/products/pack/ver21"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.6 w/[Hero] trait: Cost 5",
+  "Special Play Condition": "DigiXros -1: ∞ Digimon cards w/[Xros Heart] or [Blue Flare] trait & different card numbers",
+  "Type": "Composite/Xros Heart/Blue Flare/Hero",
+  "cardLv": "Lv.7",
+  "cardNo": "BT21-030",
+  "cardRarity": "R",
+  "cardTitle": "Shoutmon X7: Superior Mode",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT21-030.png?260210"
+}

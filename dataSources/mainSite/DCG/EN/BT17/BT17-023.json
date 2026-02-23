@@ -1,0 +1,109 @@
+{
+  "Attribute": "Variable",
+  "Card Q&A": [
+    {
+      "a": "No, [Koji Minamoto] digivolves as a Tamer.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2763",
+      "q": "Does this card's \"[Koji Minamoto]: Cost 2\" digivolution requirement mean that [Koji Minamoto] is treated as a Digimon when it digivolves?"
+    },
+    {
+      "a": [
+        "No, they don’t trigger.",
+        "\"When a Digimon digivolves\" effects don't trigger when a Tamer digivolves."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2764",
+      "q": "Does this card's \"[Koji Minamoto]: Cost 2\" digivolution requirement to digivolve, do \"when a Digimon digivolves\" effects trigger?"
+    },
+    {
+      "a": [
+        "No, they don’t trigger.",
+        "\"When a Digimon digivolves\" effects don't trigger when a Tamer digivolves."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2765",
+      "q": "Does this card's \"[Koji Minamoto]: Cost 2\" digivolution requirement to digivolve, do \"when a Digimon would digivolve\" effects trigger?"
+    },
+    {
+      "a": [
+        "Yes, you can.",
+        "Because you're digivolving from a Tamer, it isn't considered an unsuspended Digimon.",
+        "Related Cards"
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2766",
+      "q": "My opponent activates EX3-053 [Metallicdramon]'s [On Play] effect. Can I digivolve an unsuspended [Koji Minamoto] using this card's \"[Koji Minamoto]: Cost 2\" digivolution requirement in the next turn?"
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "P-104 [Mental Training]'s",
+        "effect digivolves 1 Digimon. It doesn't digivolve Tamers.",
+        "Related Cards"
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2767",
+      "q": [
+        "Can I activate P-104 [Mental Training]'s",
+        "effect and digivolve using this card's \"[Takuya Kanbara]: Cost 2\" digivolution requirement in the next turn?"
+      ]
+    },
+    {
+      "a": "No, this card's [When Attacking] effect does not allow ignoring digivolution requirements, so you can only digivolve into a card that meets the digivolution requirements.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2768",
+      "q": "When I use this card's 2nd [When Attacking] effect to digivolve into a Digimon card with the [Hybrid] trait in the hand, can it digivolve regardless of its digivolution requirements?"
+    },
+    {
+      "a": [
+        "They trigger simultaneously, so the turn player chooses the effect to activate first.",
+        "However, if you activate the 2nd [When Attacking] effect first and digivolve, the 1st [When Attacking] can no longer be activated."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2769",
+      "q": "When this card attacks, which of its 2 [When Attacking] effects activate first?"
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "For this card's 1st effect, you declare a digivolution, then upon revealing this card, you can also choose a Tamer as the card to digivolve, and that Tamer is also treated as a level 3 Digimon. As with the normal digivolution procedure, after revealing this card and declaring a digivolution, you can't choose to not digivolve.",
+        "In addition, you can't declare digivolution into this card in the first place unless there is a card on the field that you can digivolve."
+      ],
+      "date": "Apr. 4, 2025",
+      "num": "Q4660",
+      "q": "Can I choose to not digivolve with this card's 1st effect?"
+    }
+  ],
+  "Color": [
+    "Blue",
+    "Yellow"
+  ],
+  "Cost": "6",
+  "DP": "6000",
+  "Digivolve Cost 1": [
+    "Blue",
+    "Yellow",
+    "3 from Lv.3"
+  ],
+  "Effect": [
+    "This card may digivolve from the hand onto one of your yellow Tamers as if that card is a level 3 yellow Digimon.",
+    "[When Attacking] ＜Draw 1＞",
+    "[When Attacking] This Digimon may digivolve into a Digimon card with the [Hybrid] trait in the hand with the digivolution cost reduced by 1."
+  ],
+  "Form": "Hybrid",
+  "Inherited Effect": "[When Attacking] If you have 7 or fewer cards in your hand, ＜Draw 1＞.",
+  "Notes": [
+    "Booster SECRET CRISIS [BT17]",
+    "?search=true&category=522023",
+    "/products/pack/ver17"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [Koji Minamoto]: Cost 2/[Lobomon]: Cost 1",
+  "Type": "Cyborg",
+  "cardLv": "Lv.4",
+  "cardNo": "BT17-023",
+  "cardRarity": "C",
+  "cardTitle": "KendoGarurumon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT17-023.png?260210"
+}

@@ -1,0 +1,64 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "Yes, you can.",
+      "date": "Nov. 22, 2024",
+      "num": "Q3937",
+      "q": "Can I use this card's [When Digivolving] [When Attacking] effect to trash a total of 3 digivolution cards from my multiple different Digimon?"
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "A \"by doing X\" condition can't be met if only some of the required actions are performed.",
+        "The conditions for this [When Digivolving] [When Attacking] effect require you to trash the specified number of digivolution cards."
+      ],
+      "date": "Nov. 22, 2024",
+      "num": "Q3938",
+      "q": "Can I trash just 2 digivolution cards for the conditions of this card's [When Digivolving] [When Attacking] effect?"
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Nov. 22, 2024",
+      "num": "Q3939",
+      "q": "Can I use this card's [End of Your Turn] effect to place Digi-Egg cards with the [Mineral] or [Rock] trait from my trash as digivolution cards?"
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "If this card's [End of Your Turn] effect activates, you must place at least 1 card in digivolution cards.",
+        "However, if you choose to not activate this effect, it won't activate and you don't place any cards in digivolution cards."
+      ],
+      "date": "Nov. 22, 2024",
+      "num": "Q3940",
+      "q": "Can I activate this card's [End of Your Turn] effect but choose to not to place cards with the [Mineral] or [Rock] trait from my trash as this Digimon's bottom digivolution cards?"
+    }
+  ],
+  "Color": "Black",
+  "Cost": "12",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Black",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "＜Fragment ≪3≫＞ (When this Digimon would be deleted, by trashing any 3 of its digivolution cards, it isn't deleted.)",
+    "[When Digivolving] [When Attacking] By trashing any 3 digivolution cards with the [Mineral] or [Rock] trait from your Digimon, this Digimon unsuspends and gains ＜Security A. +1＞ for the turn.",
+    "[End of Your Turn] [Once Per Turn] You may place up to 3 cards with the [Mineral] or [Rock] trait from your trash as this Digimon's bottom digivolution cards."
+  ],
+  "Form": "Mega",
+  "Inherited Effect": "-",
+  "Notes": [
+    "Extra Booster CHAIN OF LIBERATION [EX08]",
+    "?search=true&category=522026",
+    "/products/pack/ex-08"
+  ],
+  "Type": "Mineral/LIBERATOR",
+  "cardLv": "Lv.6",
+  "cardNo": "EX8-055",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "Pyramidimon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX8-055_P1.png?260210"
+}

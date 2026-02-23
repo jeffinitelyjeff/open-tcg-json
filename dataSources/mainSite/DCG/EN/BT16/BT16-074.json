@@ -1,0 +1,53 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "Yes, that's correct.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2661",
+      "q": [
+        "If I have exactly 3 cards in my security stack, do I activate both the \"",
+        "and trash 1 card in your hand\" effect and the \"you may play 1 Digimon card with [Pulsemon] in its text and 6000 DP or less from your trash without paying the cost. At the next end of your opponent’s turn, delete it\" effect when activating this card's [When Digivolving] effect?"
+      ]
+    },
+    {
+      "a": [
+        "No, you only delete it at the end of your opponent's first turn after it's played by this effect.",
+        "If another effect prevents it from being deleted at the end of your opponent's first turn when it would be deleted, that Digimon isn't deleted at the end of your opponent's following turns."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5532",
+      "q": "Do I delete the Digimon that was played by this card's [When Digivolving] effect at the end of my opponent's turn?"
+    },
+    {
+      "a": "The pending processing for the effect that triggers at the end of the turn and the deletion at the end of the turn are considered to be processing that triggers simultaneously. Therefore, the turn player can choose the processing order.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5533",
+      "q": "What is the processing order for an effect that triggers at the end of the turn and the deletion of a Digimon played by this card's [When Digivolving] effect?"
+    }
+  ],
+  "Color": "Purple",
+  "Cost": "7",
+  "DP": "7000",
+  "Digivolve Cost 1": [
+    "Purple",
+    "Yellow",
+    "3 from Lv.4"
+  ],
+  "Effect": "[When Digivolving] If you have 3 or more security cards, ＜Draw 2＞ and trash 1 card in your hand. If you have 3 or fewer, you may play 1 Digimon card with [Pulsemon] in its text and 6000 DP or less from your trash without paying the cost. At the next end of your opponent’s turn, delete it.",
+  "Form": "Ultimate",
+  "Inherited Effect": "[End of Attack] [Once Per Turn] If this Digimon has [Pulsemon] in its text, by trashing the top card of your security stack, unsuspend this Digimon.",
+  "Notes": [
+    "Booster BEGINNING OBSERVER [BT16]",
+    "?search=true&category=522021",
+    "/products/pack/ver16"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.4 w/[Pulsemon] in text: Cost 3",
+  "Type": "Insectoid",
+  "cardLv": "Lv.5",
+  "cardNo": "BT16-074",
+  "cardRarity": "R",
+  "cardTitle": "Climbmon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT16-074.png?260210"
+}

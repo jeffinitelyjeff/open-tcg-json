@@ -1,0 +1,66 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": [
+        "No, you can't.",
+        "If your opponent has a level 6 or lower Digimon, you must choose that card and delete it."
+      ],
+      "date": "Oct. 3, 2025",
+      "num": "Q5337",
+      "q": [
+        "My opponent has a level 6 or lower Digimon.",
+        "Can I meet the \"if this effect didn't delete\" condition in this card's [All Turns] effect by not choosing a card to delete?"
+      ]
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Oct. 3, 2025",
+      "num": "Q5338",
+      "q": [
+        "My opponent has a level 6 or lower Digimon.",
+        "Can I meet the \"if this effect didn't delete\" condition in this card's [All Turns] effect by choosing an opponent's level 6 or lower Digimon with an effect that prevents deletion?"
+      ]
+    },
+    {
+      "a": "After this effect activates, the current timing makes a transition to the end of attack timing. For example, if this effect activates during the attack declaration timing, it will make a transition to the end of attack timing. A transition to the counter timing or block timing won't occur, and the attack won't succeed.",
+      "date": "Oct. 3, 2025",
+      "num": "Q5339",
+      "q": "What does \"end the attack\" mean, exactly?"
+    },
+    {
+      "a": [
+        "Yes, such attacks can be ended.",
+        "\"End the attack\" effects are effects that change the timing, they don't affect an attacking Digimon."
+      ],
+      "date": "Oct. 3, 2025",
+      "num": "Q5340",
+      "q": "Can an \"end the attack\" effect end an attack by a Digimon that isn't affected by effects?"
+    }
+  ],
+  "Color": "Purple",
+  "Cost": "11",
+  "DP": "11000",
+  "Digivolve Cost 1": [
+    "Purple",
+    "3 from Lv.5"
+  ],
+  "Effect": [
+    "＜Execute＞",
+    "[On Play] [On Deletion] You may play 1 level 5 or lower Digimon card with the [Ghost] trait from your trash without paying the cost.",
+    "[All Turns] When another Digimon attacks, by deleting this Digimon, delete 1 of your opponent's level 6 or lower Digimon. If this effect didn't delete your opponent's Digimon, you may end that attack."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster HACKERS' SLUMBER [BT-23]",
+    "?search=true&category=522032",
+    "/products/pack/ver23"
+  ],
+  "Type": "Ghost/LIBERATOR",
+  "cardLv": "Lv.6",
+  "cardNo": "BT23-069",
+  "cardRarity": "R",
+  "cardTitle": "Necromon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT23-069.png?260210"
+}

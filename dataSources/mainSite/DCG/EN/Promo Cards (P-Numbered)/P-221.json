@@ -1,0 +1,84 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": [
+        "This effect prevents a card from being affected by effects.",
+        "For example, your Digimon won't suspend if it's chosen for a \"suspend 1 of your opponent's Digimon\" effect, and its DP won't be reduced by 3000 if it's chosen for a \"1 of your opponent's Digimon gets -3000 DP\" effect."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5765",
+      "q": "What does \"effects don't affect\" mean, exactly?"
+    },
+    {
+      "a": [
+        "Yes, it can be chosen.",
+        "For example, a Digimon that isn't affected by effects can be chosen for a \"suspend 1 of your opponent's Digimon\" effect."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5766",
+      "q": "Can a card that has an \"effects don't affect\" effect be chosen for an effect?"
+    },
+    {
+      "a": [
+        "Yes, it can.",
+        "It won't be affected by it, but it can be given an effect.",
+        "However, if an effect such as",
+        "is given to a Digimon that isn't affected by effects, the Digimon won't be considered to have that effect."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5767",
+      "q": "Can a card that has an \"effects don't affect\" effect be given an effect?"
+    },
+    {
+      "a": "As soon as it gains the \"effects don't affect\" effect, it will no longer be affected.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5768",
+      "q": "If a card is affected by an effect, then it later gains an \"effects don't affect\" effect, what happens to the effect that was affecting it?"
+    },
+    {
+      "a": "It will be affected by the effect as soon as it can be affected by effects.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5769",
+      "q": "If a card has an \"effects don't affect\" effect, it gains an effect, then it later loses the \"effects don't affect\" effect, what happens to the effect that it gained?"
+    },
+    {
+      "a": "If the Digimon isn't affected by effects upon the trigger timing, the effect won't trigger.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5770",
+      "q": [
+        "A card that has an \"effects don't affect\" effect was given an effect that triggers at a timing such as [When Attacking].",
+        "Will the effect trigger if that card later meets the trigger conditions?"
+      ]
+    }
+  ],
+  "Color": [
+    "Yellow",
+    "Purple"
+  ],
+  "Cost": "15",
+  "DP": "15000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "Purple",
+    "5 from Lv.6"
+  ],
+  "Effect": [
+    "＜Security A.+1＞ ＜Partition (yellow Lv.6 & purple/black Lv.6)＞ (When this Digimon with each of the specified digivolution cards would leave the battle area other than by your effects or a battle, you may play 1 each of the specified cards without paying the costs.)",
+    "[When Digivolving] If DNA digivolving, until your opponent's turn ends, their effects don't affect this Digimon.",
+    "[When Digivolving] [When Attacking] 1 of your opponent's Digimon gets -10000 DP until their turn ends."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "TIME STRANGER [BT-24] Box Topper",
+    "?search=true&category=522901"
+  ],
+  "Special Digivolution Condition": "[DNA Digivolve] Yellow Lv.6 + purple/black Lv.6: Cost 0",
+  "Type": "Unique",
+  "cardLv": "Lv.7",
+  "cardNo": "P-221",
+  "cardRarity": "P",
+  "cardTitle": "Chaosmon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/P-221.png?260210"
+}

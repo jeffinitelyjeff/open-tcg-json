@@ -1,0 +1,48 @@
+{
+  "Attribute": "Life",
+  "Card Q&A": [
+    {
+      "a": [
+        "No, you can't activate it.",
+        "If a Digimon is deleted and an [On Deletion] link effect is triggered, it will only be pending activation for the Digimon card with that link card. If a card with an effect that's pending activation leaves that area before the effect activates, the effect can no longer be activated.",
+        "In this case, if this card and the linked Digimon are deleted and an [On Deletion] link effect is triggered, the effect will only be pending activation for the linked Digimon card.",
+        "If the deleted Digimon card with the effect that's pending activation leaves the trash, the [On Deletion] link effect that was pending activation can no longer be activated.",
+        "Related Cards"
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5643",
+      "q": "This card is linked to my Digimon. If I use BT7-107 [Calling From the Darkness]'s [Main] effect to delete that Digimon and return the deleted Digimon card to the hand, can I then activate this card's link effect?"
+    }
+  ],
+  "Color": "Black",
+  "Cost": "4",
+  "DP": "4000",
+  "Digivolve Cost 1": [
+    "Black",
+    "2 from Lv.3"
+  ],
+  "Digivolve Cost 2": [
+    "Multicolor",
+    "2 from Stnd."
+  ],
+  "Effect": [
+    "[Security] At the end of the battle, play this card without paying the cost.",
+    "[On Play] [On Deletion] Until your opponent's turn ends, 1 of their Digimon can't attack players."
+  ],
+  "Form": "Sup./Appmon",
+  "Link Condition": "＜Link＞ [Appmon] trait: Cost 2 (Plug this card from the hand or battle area sideways into the specified Digimon in the battle area.)",
+  "Link DP": "DP+3000",
+  "Link Effect": "[On Deletion] ＜De-Digivolve 1＞ 1 of your opponent's Digimon.",
+  "Notes": [
+    "Booster TIME STRANGER [BT-24]",
+    "?search=true&category=522033",
+    "/products/pack/ver24"
+  ],
+  "Type": "Doctor",
+  "cardLv": "Lv.4",
+  "cardNo": "BT24-057",
+  "cardRarity": "C",
+  "cardTitle": "Docmon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT24-057.png?260210"
+}

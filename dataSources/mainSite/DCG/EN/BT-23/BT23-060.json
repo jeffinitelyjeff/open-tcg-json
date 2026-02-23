@@ -1,0 +1,58 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": [
+        "Yes, you must choose to activate it.",
+        "Even if you don't have a face-up [Zaxon] trait Digimon card in your security stack, it counts toward the [Once Per Turn] limit."
+      ],
+      "date": "Oct. 3, 2025",
+      "num": "Q5330",
+      "q": "Do I have to choose to activate this card's [When Attacking] effect if it triggers?"
+    },
+    {
+      "a": [
+        "No, you can't. If the effect will activate, you must process the \"by\" condition.",
+        "If you have a [Royal Base] or [Zaxon] trait card in the trash, you must place 1 of those cards face up as the bottom security card.",
+        "If you don't have a [Royal Base] or [Zaxon] trait card in the trash, you can choose to place one from the hand face up as the bottom security card.",
+        "Related Cards"
+      ],
+      "date": "Oct. 3, 2025",
+      "num": "Q5331",
+      "q": [
+        "I only have a face-up BT23-045 [TigerVespamon ACE] in my security stack.",
+        "If I use this card's [When Attacking] effect to activate that BT23-045 [TigerVespamon ACE]'s [On Play] effect, can I choose to not process the [On Play] effect's \"by\" condition?"
+      ]
+    }
+  ],
+  "Color": [
+    "Black",
+    "Red"
+  ],
+  "Cost": "12",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Black",
+    "Red",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "＜Security A. +1＞ ＜Reboot＞",
+    "[On Play] [When Digivolving] ＜De-Digivolve 1＞ 1 of your opponent's Digimon. Then, delete 1 of their Digimon with 8000 DP or less.",
+    "[When Attacking] [Once Per Turn] Activate 1 [On Play] effect on a face-up [Zaxon] trait Digimon card in your security stack as an effect of this Digimon."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster HACKERS' SLUMBER [BT-23]",
+    "?search=true&category=522032",
+    "/products/pack/ver23"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.5 w/[CS] trait: Cost 3",
+  "Type": "Machine/Zaxon/CS",
+  "cardLv": "Lv.6",
+  "cardNo": "BT23-060",
+  "cardRarity": "U",
+  "cardTitle": "Machinedramon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT23-060.png?260210"
+}

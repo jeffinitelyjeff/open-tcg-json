@@ -1,0 +1,39 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "No, it doesn't. The minimum value is 0, the resulting play cost can't be negative.",
+      "date": "Sep. 5, 2025",
+      "num": "Q2647",
+      "q": "If I use the \"reduce the play costs of all of your opponent's Digimon by 1\" effect and all of my opponent's Digimon have their play costs reduced by 3, does an opponent's Digimon with a play cost of 2 now have a play cost of -1?"
+    },
+    {
+      "a": "No, it isn't. This card's effect only reduces the play costs of Digimon in your opponent's battle area.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2648",
+      "q": "If I use the \"reduce the play costs of all of your opponent's Digimon by 1\" effect, is the play cost also reduced for Digimon cards in areas other than the battle area (such as my opponent's hand or trash)?"
+    }
+  ],
+  "Color": "Black",
+  "Cost": "7",
+  "DP": "7000",
+  "Digivolve Cost 1": [
+    "Black",
+    "3 from Lv.4"
+  ],
+  "Effect": "[On Play] [When Digivolving] Reveal the top 3 cards of your deck. For each [D-Brigade] or [DigiPolice] trait card among them, reduce the play costs of all of your opponent's Digimon by 1 for the turn. Return the revealed cards to the top or the bottom of the deck. Then, delete 1 of your opponent's Digimon with a play cost of 4 or less.",
+  "Form": "Ultimate",
+  "Inherited Effect": "[All Turns] [Once Per Turn] When one of your other Digimon with the [D-Brigade] or [DigiPolice] trait is played, ＜De-Digivolve 1＞ 1 of your opponent's Digimon.",
+  "Notes": [
+    "Booster BEGINNING OBSERVER [BT16]",
+    "?search=true&category=522021",
+    "/products/pack/ver16"
+  ],
+  "Type": "Machine/D-Brigade/DigiPolice",
+  "cardLv": "Lv.5",
+  "cardNo": "BT16-060",
+  "cardRarity": "C",
+  "cardTitle": "Tankdramon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT16-060.png?260210"
+}

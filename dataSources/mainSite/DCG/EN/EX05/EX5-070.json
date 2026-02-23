@@ -1,0 +1,54 @@
+{
+  "Card Q&A": [
+    {
+      "a": "That's correct. This card has a \"Name: Also treated as [X Antibody]\" rule, therefore a Digimon with this card in its digivolution cards isn't treated as \"1 of your Digimon without [X Antibody] in its digivolution cards.\"",
+      "date": "Mar. 28, 2024",
+      "num": "Q3679",
+      "q": "If a Digimon has this card in its digivolution cards, does that mean that it isn't treated as \"1 of your Digimon without [X Antibody] in its digivolution cards\"?"
+    },
+    {
+      "a": "No, it activates even if only this card is in the digivolution cards.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3680",
+      "q": "Does this card's inherited effect only activate if both [X Antibody] and a Digimon card are in the digivolution cards?"
+    },
+    {
+      "a": "Yes, it activates.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3681",
+      "q": [
+        "If a Digimon with this card in its digivolution cards would be deleted other than by one of my effects, then an effect such as",
+        "prevents it from being deleted, does this card's inherited effect activate?"
+      ]
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "If digivolution isn't performed using this card's effect, you can't place this card in digivolution cards."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q3682",
+      "q": "Can I use this card and then place this card in digivolution cards without digivolving 1 of my Digimon without [X Antibody] in its digivolution cards?"
+    }
+  ],
+  "Color": "White",
+  "Cost": "0",
+  "Effect": [
+    "While you have a Digimon, you may ignore this card's color requirements.",
+    "[Security] Add this card to the hand.",
+    "[Main] 1 of your Digimon without [X Antibody] in its digivolution cards may digivolve into a Digimon card with the [X Antibody] trait in your hand with the digivolution cost reduced by 1. If it did, place this card as its bottom digivolution card.",
+    "(Rule) Name: Also treated as [X Antibody]."
+  ],
+  "Inherited Effect": "[All Turns] When this Digimon would leave the battle area other than by one of your effects, from this Digimon's digivolution cards, return 1 Digimon card to the hand and place 1 [X Antibody] on top of your security stack.",
+  "Notes": [
+    "Theme Booster ANIMAL COLOSSEUM [EX05]",
+    "?search=true&category=522019",
+    "/products/pack/ex-05.php"
+  ],
+  "Type": "X Antibody",
+  "cardNo": "EX5-070",
+  "cardRarity": "SR",
+  "cardTitle": "X Antibody Proto Form",
+  "cardType": "Option",
+  "imgSrc": "../images/cardlist/card/EX5-070.png?260210"
+}

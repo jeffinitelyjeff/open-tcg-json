@@ -1,0 +1,82 @@
+{
+  "Attribute": "Variable",
+  "Card Q&A": [
+    {
+      "a": "Yes, it can digivolve.",
+      "date": "Jun. 21, 2024",
+      "num": "Q2925",
+      "q": "Can I use this card's digivolution requirement to digivolve for a cost of 5 even when my [Takuya Kanbara] has more than 5 [Hybrid] trait cards under it?"
+    },
+    {
+      "a": [
+        "Yes. After this card's [Your Turn] effect activates, then you perform the security check for",
+        ".",
+        "This card's [Your Turn] effect and",
+        "trigger simultaneously, but the activated",
+        "is processed immediately before the attack ends, therefore",
+        "is first gained from this card's [Your Turn] effect, then you perform the security check for",
+        "."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q2926",
+      "q": [
+        "If this card gains",
+        "from another card's effect, then this card attacks and deletes an opponent's Digimon in battle, do I perform the security check for",
+        "after this card's [Your Turn] effect activates?"
+      ]
+    },
+    {
+      "a": [
+        "Yes, it can attack.",
+        "When digivolving into this card, the turn end conditions won't be met until all of the resulting processing has been resolved.",
+        "In this case, this card's [When Digivolving] effect, [Your Turn] effect, and any effects triggered by them must first be resolved, and then the turn end conditions will be met.",
+        "Then, the end of the turn timing will occur and BT18-088 [Takuya Kanbara & Koji Minamoto]'s [End of Your Turn] effect will trigger.",
+        "Related Cards"
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q2927",
+      "q": [
+        "BT18-088 [Takuya Kanbara & Koji Minamoto] digivolved into this card, and the memory gauge moved to 1 on my opponent's side.",
+        "Then, I used this card’s [When Digivolving] effect to attack and used this card's [Your Turn] effect to unsuspend it.",
+        "Can I then use the [End of Your Turn] inherited effect on BT18-088 [Takuya Kanbara & Koji Minamoto] in this card's digivolution cards to attack a player?"
+      ]
+    },
+    {
+      "a": "Yes. For each color in this Digimon's digivolution cards, you choose and trash 1 digivolution card from your opponent's Digimon and suspend 1 of their Digimon.",
+      "date": "Jan. 24, 2025",
+      "num": "Q4289",
+      "q": "If there are 3 colors in this card's digivolution cards, can I use this card's [When Digivolving] effect to  choose and trash 3 digivolution cards from my opponent's Digimon, then choose and suspend 3 of their Digimon?"
+    }
+  ],
+  "Color": [
+    "Red",
+    "Green",
+    "Blue"
+  ],
+  "Cost": "13",
+  "DP": "13000",
+  "Digivolve Cost 1": [
+    "Red",
+    "Green",
+    "Blue",
+    "5 from Lv.5"
+  ],
+  "Effect": [
+    "[When Digivolving] For each color in this Digimon's digivolution cards, trash any 1 digivolution card from your opponent's Digimon and suspend 1 of their Digimon. Then, this Digimon may attack.",
+    "[Your Turn] [Once Per Turn] When this Digimon deletes your opponent's Digimon in battle, it gains ＜Security A. +1＞ for the turn and unsuspends."
+  ],
+  "Form": "Hybrid",
+  "Notes": [
+    "SPECIAL BOOSTER Ver.2.0 [BT18-19]",
+    "?search=true&category=522025",
+    "/products/pack/ver18-19"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [Takuya Kanbara] w/5 [Hybrid] trait cards under: Cost 5",
+  "Type": "Dragon Warrior",
+  "cardLv": "Lv.6",
+  "cardNo": "BT18-018",
+  "cardRarity": "SR",
+  "cardTitle": "EmperorGreymon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT18-018.png?260210"
+}

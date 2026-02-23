@@ -1,0 +1,56 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": [
+        "No, you can't end that attack.",
+        "If the \"by doing X\" condition isn't met, the rest of the effect isn't processed. In this case, if you can't delete 1 of your other Digimon, then you can't end the attack."
+      ],
+      "date": "Jun. 13, 2025",
+      "num": "Q4775",
+      "q": "I tried to delete 1 of my other Digimon using this card's inherited effect when an opponent's Digimon attacked, but I couldn't delete the other Digimon due to another effect. Can I end that attack at such times?"
+    },
+    {
+      "a": "After this effect activates, the current timing makes a transition to the end of attack timing. For example, if this effect activates during the attack declaration timing, it will make a transition to the end of attack timing. A transition to the counter timing or block timing won't occur, and the attack won't succeed.",
+      "date": "Jun. 13, 2025",
+      "num": "Q4776",
+      "q": "What does \"end the attack\" mean, exactly?"
+    },
+    {
+      "a": [
+        "Yes, such attacks can be ended.",
+        "\"End the attack\" effects are effects that change the timing, they don't affect an attacking Digimon."
+      ],
+      "date": "Jun. 13, 2025",
+      "num": "Q4777",
+      "q": "Can an \"end the attack\" effect end an attack by a Digimon that isn't affected by effects?"
+    }
+  ],
+  "Color": [
+    "Yellow",
+    "Purple"
+  ],
+  "Cost": "3",
+  "DP": "1000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "Purple",
+    "1 from Lv.2"
+  ],
+  "Effect": "[On Play] By trashing 1 card in your hand, you may return 1 Digimon card with the [Puppet] trait from your trash to the hand.",
+  "Form": "Rookie",
+  "Inherited Effect": "[Opponent's Turn] [Once Per Turn] When one of your opponent's Digimon attacks, by deleting 1 of your other Digimon, end that attack.",
+  "Notes": [
+    "Extra Booster VERSUS MONSTERS [EX-09]",
+    "?search=true&category=522029",
+    "/products/pack/ex-09"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [Kyaromon]: Cost 0",
+  "Type": "Puppet/LIBERATOR",
+  "cardLv": "Lv.3",
+  "cardNo": "EX9-024",
+  "cardRarity": "C",
+  "cardTitle": "Hanimon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX9-024.png?260210"
+}

@@ -1,0 +1,48 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "You trash the 1st face-down digivolution card from the bottom.",
+      "date": "Jun. 13, 2025",
+      "num": "Q4785",
+      "q": "If there are 2 face-down cards then 1 face-up card in order from top to bottom in this card's digivolution cards, what card do I trash for this card's [When Digivolving] [When Attacking] effect?"
+    },
+    {
+      "a": [
+        "[Security] effects take precedence for activation.",
+        "Upon a security check, a [Security] effect will immediately activate without pending activation.",
+        "For other triggered effects, the turn player activates their effects first."
+      ],
+      "date": "Jul. 4, 2025",
+      "num": "Q4786",
+      "q": "What order do a [Security] effect, \"when [...] performs a security check\" effect, and \"when a card is removed from [...] security stack\" effect activate when they trigger simultaneously upon a security check?"
+    }
+  ],
+  "Color": "Yellow",
+  "Cost": "8",
+  "DP": "8000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "4 from Lv.4"
+  ],
+  "Effect": [
+    "When any of your [Ver.3] trait Digimon would digivolve into this card, for each of their face-down digivolution cards, reduce the digivolution cost by 1.",
+    "＜Security A. +1＞",
+    "[When Digivolving] [When Attacking] [Once Per Turn] By trashing this Digimon's bottom face-down digivolution card, ＜Recovery +1 ≪Deck≫＞."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "[All Turns] [Once Per Turn] When your security stack is removed from, 1 of your opponent's Digimon gets -4000 DP for the turn.",
+  "Notes": [
+    "Extra Booster VERSUS MONSTERS [EX-09]",
+    "?search=true&category=522029",
+    "/products/pack/ex-09"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [Sukamon]: Cost 3/Lv.4 w/[DM] trait: Cost 4",
+  "Type": "Puppet/DM/Ver.3",
+  "cardLv": "Lv.5",
+  "cardNo": "EX9-031",
+  "cardRarity": "R",
+  "cardTitle": "Etemon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX9-031.png?260210"
+}

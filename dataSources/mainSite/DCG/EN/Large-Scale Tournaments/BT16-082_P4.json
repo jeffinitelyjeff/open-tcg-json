@@ -1,0 +1,54 @@
+{
+  "Attribute": "Free",
+  "Card Q&A": [
+    {
+      "a": "Yes, it activates.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2668",
+      "q": "Does this card's [Your Turn] effect activate when this Digimon itself moves from the breeding area to the battle area?"
+    },
+    {
+      "a": "It activates during the breeding phase. If effects trigger during the breeding phase, the main phase will come after all effects have activated.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2669",
+      "q": "When one of my Digimon moves from the breeding area to the battle area during the breeding phase, does this card's [Your Turn] effect activate during the breeding phase or main phase?"
+    },
+    {
+      "a": "Yes, it activates.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2670",
+      "q": "I moved one of my Digimon from the breeding area to the battle area when all of my Digimon's DP is reduced by an effect. The moved Digimon's DP becomes 0 and is deleted due to the DP-reducing effect, but does this card's [All Turns] effect activate?"
+    },
+    {
+      "a": [
+        "No, you can't activate it.",
+        "When a card with an effect that's pending activation leaves an area while activation is pending, the effect can no longer be activated.",
+        "In this case, the effect triggers when this card is moved, but because the DP becomes 0 before activation, this card is deleted and removed from the battle area, and the effect can't be activated."
+      ],
+      "date": "May. 24, 2024",
+      "num": "Q2671",
+      "q": "I moved this card from the breeding area to the battle area when all of my Digimon's DP is reduced by an effect. At such times, if this card's DP becomes 0 and is deleted due to the DP-reducing effect after it's moved, can I activate this card's [Your Turn] effect?"
+    }
+  ],
+  "Color": "White",
+  "Cost": "3",
+  "DP": "2000",
+  "Digivolve Cost 1": [
+    "Multicolor",
+    "1 from Lv.2"
+  ],
+  "Effect": "[Your Turn] [Once Per Turn] When any of your Digimon move from the breeding area to the battle area, reveal the top 3 cards of your deck. Add 1 Digimon card or Tamer card among them to the hand. Return the rest to the bottom of the deck. Then, you may hatch in your breeding area.",
+  "Form": "Rookie",
+  "Notes": [
+    "2024 Championship Regionals Champion Card Set Wave 3",
+    "?search=true&category=522902"
+  ],
+  "Type": "Ancient Fairy",
+  "cardLv": "Lv.3",
+  "cardNo": "BT16-082",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "R",
+  "cardTitle": "Ukkomon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT16-082_P4.png?260210"
+}

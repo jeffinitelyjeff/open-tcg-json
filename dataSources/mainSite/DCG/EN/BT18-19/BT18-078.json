@@ -1,0 +1,95 @@
+{
+  "Attribute": "Variable",
+  "Card Q&A": [
+    {
+      "a": "No, it digivolves from the Tamer as-is.",
+      "date": "Jun. 21, 2024",
+      "num": "Q3026",
+      "q": "Does this card's digivolution requirement where it can digivolve from a Tamer mean that the Tamer that will become a digivolution card is treated as a Digimon when it digivolves?"
+    },
+    {
+      "a": [
+        "No, it isn't considered a Digimon that would digivolve.",
+        "When a Tamer would digivolve using this card's digivolution requirement, \"when a Digimon would digivolve\" effects don't trigger."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q3027",
+      "q": "When a Tamer would digivolve using this card's digivolution requirement, is it considered a Digimon that would digivolve?"
+    },
+    {
+      "a": [
+        "No, it isn't considered a Digimon that digivolves.",
+        "When a Tamer digivolves using this card's digivolution requirement, \"when a Digimon digivolves\" effects don't trigger."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q3028",
+      "q": "When a Tamer digivolves using this card's digivolution requirement, is it considered a Digimon that digivolves?"
+    },
+    {
+      "a": [
+        "Such effects change the original color shown on the target card to the predetermined color shown in the effect.",
+        "For example, if a Digimon's original color is red and it's chosen as the target for a \"[On Play] [When Digivolving] Until the end of your opponent's turn, change the original color of 1 of your opponent's Digimon or Tamers to 1 non-white color\" effect, then you choose a non-white color, and that Digimon's original color will become that color."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q3029",
+      "q": "What does the \"change the original color\" effect do, exactly?"
+    },
+    {
+      "a": [
+        "Its original color is changed, and it retains the gained color.",
+        "Gained colors don't affect the original color."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q3030",
+      "q": "What happens if a Digimon that gained a color has its original color changed by the \"change the original color\" effect?"
+    },
+    {
+      "a": "The original color is changed to the most recent color.",
+      "date": "Jun. 21, 2024",
+      "num": "Q3031",
+      "q": "What happens if a Digimon has its original color changed and is then affected by a \"change the original color\" effect again?"
+    },
+    {
+      "a": "The original color can be changed to any 1 color from among red, blue, yellow, green, black, or purple.",
+      "date": "Jun. 21, 2024",
+      "num": "Q3032",
+      "q": "What original colors can this card's [On Play] [When Digivolving] effect change an opponent's Digimon or Tamer to?"
+    },
+    {
+      "a": "Yes, the digivolution requirements have to be met.",
+      "date": "Jun. 21, 2024",
+      "num": "Q3033",
+      "q": "When digivolving with this card’s [When Attacking] effect, do the digivolution requirements have to be met?"
+    }
+  ],
+  "Color": "Purple",
+  "Cost": "6",
+  "DP": "6000",
+  "Digivolve Cost 1": [
+    "Purple",
+    "3 from Lv.3"
+  ],
+  "Digivolve Cost 2": [
+    "Purple",
+    "3 from Tamer"
+  ],
+  "Effect": [
+    "[On Play] [When Digivolving] Until the end of your opponent's turn, change the original color of 1 of your opponent's Digimon or Tamers to 1 non-white color.",
+    "[When Attacking] 1 of your Digimon or Tamers may digivolve into a level 4 card with the [Hybrid] trait in the trash with the digivolution cost reduced by 1."
+  ],
+  "Form": "Hybrid",
+  "Inherited Effect": "[On Deletion] You may play 1 Tamer card with a play cost of 4 or less from your trash without paying the cost.",
+  "Notes": [
+    "SPECIAL BOOSTER Ver.2.0 [BT18-19]",
+    "?search=true&category=522025",
+    "/products/pack/ver18-19"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [Koichi Kimura]: Cost 2/[Velgrmon]: Cost 1",
+  "Type": "Wizard",
+  "cardLv": "Lv.4",
+  "cardNo": "BT18-078",
+  "cardRarity": "SR",
+  "cardTitle": "Duskmon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT18-078.png?260210"
+}

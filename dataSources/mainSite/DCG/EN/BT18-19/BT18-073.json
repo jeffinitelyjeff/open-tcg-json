@@ -1,0 +1,74 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": [
+        "Yes, they trigger simultaneously.",
+        "However, if you activate BT18-015 [Kimeramon]'s [On Deletion] effect first and then DNA digivolve into [Millenniummon] using [Kimeramon] and this card while its [On Play] [When Digivolving] effect has triggered, this card will be removed from the battle area before the [On Play] effect can activate.",
+        "Related Cards"
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q3014",
+      "q": [
+        "When this card would be played, I deleted my BT18-015 [Kimeramon], then I played this card.",
+        "At such times, does this card's [On Play] [When Digivolving] effect trigger simultaneously with BT18-015 [Kimeramon]'s [On Deletion] effect?"
+      ]
+    },
+    {
+      "a": [
+        "Yes, the DNA digivolution requirements have to be met.",
+        "In addition, DNA digivolution can't be performed unless the [Millenniummon] has DNA digivolution."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q3015",
+      "q": "If I use this card's [On Deletion] effect to DNA digivolve into [Millenniummon] in the hand, do the DNA digivolution requirements have to be met for [Millenniummon]?"
+    },
+    {
+      "a": [
+        "Yes, that's correct.",
+        "The [On Deletion] effect activates after the card is placed in the trash, therefore this card itself in the trash can DNA digivolve into [Millenniummon] in the hand."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q3016",
+      "q": "Does this card's [On Deletion] effect allow my [Kimeramon] and the BT18-073 [Machinedramon] itself that activated the effect in the trash to DNA digivolve into [Millenniummon] in the hand?"
+    },
+    {
+      "a": "Your [Kimeramon] in the battle area and [Machinedramon] in your trash can DNA digivolve into [Millenniummon] in the hand.",
+      "date": "Nov. 22, 2024",
+      "num": "Q3017",
+      "q": "What are the areas where [Kimeramon] and [Machinedramon] can DNA digivolve into [Millenniummon] in the hand using this card's [On Deletion] effect?"
+    }
+  ],
+  "Color": [
+    "Black",
+    "Purple"
+  ],
+  "Cost": "11",
+  "DP": "11000",
+  "Digivolve Cost 1": [
+    "Black",
+    "Purple",
+    "3 from Lv.5"
+  ],
+  "Effect": [
+    "When this card would be played, by deleting 1 of your Digimon with the [Composite] trait, reduce the play cost by 4.",
+    "[On Play] [When Digivolving] ＜De-Digivolve 1＞ all of your opponent's Digimon.",
+    "[On Deletion] 1 of your [Kimeramon] and 1 [Machinedramon] in the trash may DNA digivolve into [Millenniummon] in the hand.",
+    "(Rule) Trait: Has [Composite] Type."
+  ],
+  "Form": "Mega",
+  "Inherited Effect": "[Opponent's Turn] [Once Per Turn] When any of your opponent's Digimon attack, you may change the attack target to 1 of your Digimon with the [Composite] or [Wicked God] trait.",
+  "Notes": [
+    "SPECIAL BOOSTER Ver.2.0 [BT18-19]",
+    "?search=true&category=522025",
+    "/products/pack/ver18-19"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.5 w/[Composite] trait: Cost 3",
+  "Type": "Machine",
+  "cardLv": "Lv.6",
+  "cardNo": "BT18-073",
+  "cardRarity": "R",
+  "cardTitle": "Machinedramon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT18-073.png?260210"
+}

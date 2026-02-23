@@ -1,0 +1,94 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": "Yes, you can.",
+      "date": "Jan. 24, 2025",
+      "num": "Q4302",
+      "q": "Can I use this card's [When Digivolving] effect to give \"isn't affected by your opponent's effects\" to 1 of my Digimon and use another Digimon to attack?"
+    },
+    {
+      "a": [
+        "This effect prevents Digimon from being affected by effects.",
+        "For example, your Digmon won't suspend if it's chosen for a \"suspend 1 of your opponent's Digimon\" effect, and its DP won't be reduced if it's chosen for a \"1 of your opponent's Digimon gets -3000 DP\" effect."
+      ],
+      "date": "Jan. 24, 2025",
+      "num": "Q4303",
+      "q": "What does \"isn't affected by [...] effects\" mean, exactly?"
+    },
+    {
+      "a": "Yes, it can be chosen.",
+      "date": "Jan. 24, 2025",
+      "num": "Q4304",
+      "q": "Can a card that has an \"isn't affected by [...] effects\" effect be chosen for an effect?"
+    },
+    {
+      "a": [
+        "Yes, it can.",
+        "It won't be affected by it, but it can be given an effect.",
+        "However, if an effect such as",
+        "is given to a Digimon that isn't affected by effects, the Digimon won't be considered to have that effect."
+      ],
+      "date": "Apr. 4, 2025",
+      "num": "Q4305",
+      "q": "Can a card that has an \"isn't affected by [...] effects\" effect be given an effect?"
+    },
+    {
+      "a": "As soon as it gains the \"isn't affected by [...] effects\" effect, it will no longer be affected.",
+      "date": "Jan. 24, 2025",
+      "num": "Q4306",
+      "q": "If a card is affected by an effect, then it later gains an \"isn't affected by [...] effects\" effect, what happens to the effect that was affecting it?"
+    },
+    {
+      "a": "It will be affected by the effect as soon as it can be affected by effects.",
+      "date": "Jan. 24, 2025",
+      "num": "Q4307",
+      "q": "If a card has an \"isn't affected by [...] effects\" effect, it gains an effect, then it later loses the \"isn't affected by [...] effects\" effect, what happens to the effect that it gained?"
+    },
+    {
+      "a": "If the Digimon isn't affected by effects upon the trigger timing, the effect won't trigger.",
+      "date": "Jun. 13, 2025",
+      "num": "Q4308",
+      "q": [
+        "A card that has an \"isn't affected by [...] effects\" effect was given an effect that triggers at a timing such as [When Attacking].",
+        "Will the effect trigger if that card later meets the trigger conditions?"
+      ]
+    },
+    {
+      "a": [
+        "Yes, you can process it.",
+        "Even if [Jesmon] or [X Antibody] isn't in this card's digivolution cards, this card's [When Digivolving] effect will allow 1 of your Digimon to attack."
+      ],
+      "date": "Jun. 13, 2025",
+      "num": "Q4717",
+      "q": "Can I process the part of the effect after \"then\" in this card's [When Digivolving] effect even if the \"if\" condition in the 1st process isn't met?"
+    }
+  ],
+  "Color": "Red",
+  "Cost": "12",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Red",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "＜Alliance＞",
+    "[When Digivolving] If [Jesmon] or [X Antibody] is in this Digimon's digivolution cards, for the turn, 1 of your Digimon isn't affected by your opponent's effects. Then, 1 of your Digimon may attack.",
+    "[Your Turn]  All of your Digimon with [Sistermon] in their names or the [Royal Knight] trait gain ＜Piercing＞ and can also attack your opponent's unsuspended Digimon."
+  ],
+  "Form": "Mega",
+  "Inherited Effect": "[Your Turn] While this Digimon is [Jesmon GX], all of your Digimon gain ＜Piercing＞ and can also attack your opponent's unsuspended Digimon.",
+  "Notes": [
+    "SPECIAL BOOSTER Ver.2.5 [BT19-20]",
+    "?search=true&category=522027",
+    "/products/pack/ver19-20"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [Jesmon]: Cost 1",
+  "Type": "Holy Warrior/X Antibody/Royal Knight",
+  "cardLv": "Lv.6",
+  "cardNo": "BT20-019",
+  "cardRarity": "R",
+  "cardTitle": "Jesmon (X Antibody)",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT20-019.png?260210"
+}

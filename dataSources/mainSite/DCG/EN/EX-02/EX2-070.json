@@ -1,0 +1,69 @@
+{
+  "Card Q&A": [
+    {
+      "a": "Yes, you can.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3354",
+      "q": "Can I use this card to digivolve into a Digimon card with a special digivolution costing 3 or less?"
+    },
+    {
+      "a": "No. The effect reads “You may digivolve 1 of your Digimon,” so you can’t use it to DNA Digivolve.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3355",
+      "q": "Can I use this card to DNA Digivolve into a Digimon card with a DNA Digivolution costing 3 or less?"
+    },
+    {
+      "a": "No. The effect reads “You may digivolve 1 of your Digimon,” so you can’t use it to digivolve a Tamer.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3356",
+      "q": "Can I use this card to digivolve one of my Tamers into a Digimon that can digivolve from Tamers?"
+    },
+    {
+      "a": "No, this card's effect does not allow ignoring digivolution requirements, so you can't ignore digivolution requirements unless some other effect that permits you to do so.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3357",
+      "q": "Can I ignore digivolution requirements when digivolving by the effect of this card, as long as the cost is 3 or less?"
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3358",
+      "q": "I have a card in my hand with an effect that reads “1 of your Digimon may digivolve into this card in your hand for a digivolution cost of 3.” Can I use this card’ to digivolve into it?"
+    },
+    {
+      "a": [
+        "No, those effects are only active when the digivolution is taking place, which means they reduce the digivolution cost after a player has announced a digivolution. As such, at the time this card's effect is activated, the digivolution cost hasn't been reduced, and you can't choose the card with this card’s effect.",
+        "Related Cards"
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q3359",
+      "q": [
+        "Can I activate effects that reduce digivolution costs like",
+        "or [EX1-071 Win Rate: 60%!] to reduce the digivolution cost of a card in my hand from 4 or more to 3 or less, and then use this card to digivolve into it?"
+      ]
+    },
+    {
+      "a": "No. Even if the card has a digivolution requirement with a cost of 3, if you want to digivolve off the requirement with a cost of 4, you can’t use this card to digivolve.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3360",
+      "q": "I have a Digimon card with multiple digivolution requirements: one with a digivolution cost of 3, and one with a digivolution cost of 4. Can I use this card to digivolve into that Digimon card and apply the requirement with a cost of 4?"
+    }
+  ],
+  "Color": "Green",
+  "Cost": "2",
+  "Effect": [
+    "While you have a Tamer in play, you may use this card without meeting its color requirements.",
+    "[Main] ＜Draw 1＞. (Draw 1 card from your deck.) Then, you may digivolve 1 of your Digimon into a Digimon card in your hand that can digivolve for a digivolution cost of 3 or less without paying its digivolution cost."
+  ],
+  "Notes": [
+    "Theme Booster DIGITAL HAZARD [EX-02]",
+    "?search=true&category=522009",
+    "/products/pack/ex-02.php"
+  ],
+  "Security Effect": "[Security] Reveal the top 3 cards of your deck. Add 1 Digimon card among them to your hand. Place the remaining cards at the bottom of your deck in any order. Then, add this card to your hand.",
+  "cardNo": "EX2-070",
+  "cardRarity": "C",
+  "cardTitle": "Digivolution Plug-In S",
+  "cardType": "Option",
+  "imgSrc": "../images/cardlist/card/EX2-070.png?260210"
+}

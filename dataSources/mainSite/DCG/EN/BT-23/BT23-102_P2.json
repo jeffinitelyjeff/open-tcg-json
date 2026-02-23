@@ -1,0 +1,64 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": [
+        "[Security] effects take precedence for activation.",
+        "Upon a security check, a [Security] effect will immediately activate without pending activation.",
+        "For other triggered effects, the turn player activates their effects first."
+      ],
+      "date": "Oct. 3, 2025",
+      "num": "Q5390",
+      "q": "What order do a [Security] effect, \"when [...] performs a security check\" effect, and \"when a card is removed from [...] security stack\" effect activate when they trigger simultaneously upon a security check?"
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Oct. 3, 2025",
+      "num": "Q5391",
+      "q": "Can I use this card's [All Turns] effect to place either my Digimon or my opponent's Digimon as the bottom security card?"
+    },
+    {
+      "a": "No, it doesn't trigger.",
+      "date": "Oct. 3, 2025",
+      "num": "Q5392",
+      "q": [
+        "Does this card's",
+        "also trigger when this card's [All Turns] effect is used to place this card itself as the bottom security card?"
+      ]
+    }
+  ],
+  "Color": [
+    "Yellow",
+    "Purple"
+  ],
+  "Cost": "13",
+  "DP": "13000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "Purple",
+    "5 from Lv.5"
+  ],
+  "Effect": [
+    "＜Barrier＞ ＜Partition ([Angewomon] & [LadyDevimon])＞",
+    "[When Digivolving] You may play 1 level 5 or lower yellow or purple card from your hand or trash without paying the cost. Then, if this Digimon's stack has 2 or more same-level cards, trash the top cards of both players' security stacks so that they have 3 cards left.",
+    "[All Turns] [Once Per Turn] When security stacks are removed from, you may place 1 Digimon as the bottom security card."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster HACKERS' SLUMBER [BT-23]",
+    "?search=true&category=522032",
+    "/products/pack/ver23"
+  ],
+  "Special Digivolution Condition": [
+    "[Digivolve] Lv.5 w/[CS] trait: Cost 5",
+    "[DNA Digivolve] Yellow Lv.5 + purple Lv.5: Cost 0"
+  ],
+  "Type": "Angel/CS",
+  "cardLv": "Lv.6",
+  "cardNo": "BT23-102",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SEC",
+  "cardTitle": "Mastemon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT23-102_P2.png?260210"
+}

@@ -1,0 +1,39 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "Yes, it activates.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2390",
+      "q": "Does \"This Digimon can't be blocked\" in this card's [Start of Your Main Phase] effect activate even when my opponent can't trash a digivolution card?"
+    },
+    {
+      "a": "No, you can't activate it. This card’s inherited effect reads \"When this Digimon would be deleted,\" so it interrupts the deletion when it activates. Therefore, the [Gomamon] with the [On Deletion] effect is removed from the digivolution cards before the [On Deletion] effect can be triggered.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2391",
+      "q": "I have both this card and another [Gomamon] with an [On Deletion] inherited effect in the digivolution cards of the same one of my Digimon. When that Digimon is deleted, can I activate this card's inherited effect, play the other [Gomamon] from the digivolution cards, and activate that [On Deletion] inherited effect?"
+    }
+  ],
+  "Color": "Blue",
+  "Cost": "3",
+  "DP": "1000",
+  "Digivolve Cost 1": [
+    "Blue",
+    "0 from Lv.2"
+  ],
+  "Effect": "[Start of Your Main Phase] Trash any 1 digivolution card of 1 of your opponent's Digimon. This Digimon can't be blocked for the turn.",
+  "Form": "Rookie",
+  "Inherited Effect": "[Opponent's Turn] When this Digimon would be deleted, you may play 1 [Gomamon] from its digivolution cards without paying the cost.",
+  "Notes": [
+    "Booster BLAST ACE [BT14]",
+    "?search=true&category=522018",
+    "/products/pack/ver14.php"
+  ],
+  "Type": "Sea Beast",
+  "cardLv": "Lv.3",
+  "cardNo": "BT14-020",
+  "cardRarity": "SR",
+  "cardTitle": "Gomamon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT14-020.png?260210"
+}

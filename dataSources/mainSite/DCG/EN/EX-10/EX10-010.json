@@ -1,0 +1,109 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": [
+        "This effect prevents a card from being affected by effects.",
+        "For example, your Digimon won't suspend if it's chosen for a \"suspend 1 of your opponent's Digimon\" effect, and its DP won't be reduced by 3000 if it's chosen for a \"1 of your opponent's Digimon gets -3000 DP\" effect."
+      ],
+      "date": "Sep. 5, 2025",
+      "num": "Q5020",
+      "q": "What does \"effects don't affect\" mean, exactly?"
+    },
+    {
+      "a": [
+        "Yes, it can be chosen.",
+        "For example, a Digimon that isn't affected by effects can be chosen for a \"suspend 1 of your opponent's Digimon\" effect."
+      ],
+      "date": "Sep. 5, 2025",
+      "num": "Q5021",
+      "q": "Can a card that has an \"effects don't affect\" effect be chosen for an effect?"
+    },
+    {
+      "a": [
+        "Yes, it can.",
+        "It won't be affected by it, but it can be given an effect.",
+        "However, if an effect such as",
+        "is given to a Digimon that isn't affected by effects, the Digimon won't be considered to have that effect."
+      ],
+      "date": "Sep. 5, 2025",
+      "num": "Q5022",
+      "q": "Can a card that has an \"effects don't affect\" effect be given an effect?"
+    },
+    {
+      "a": "As soon as it gains the \"effects don't affect\" effect, it will no longer be affected.",
+      "date": "Sep. 5, 2025",
+      "num": "Q5023",
+      "q": "If a card is affected by an effect, then it later gains an \"effects don't affect\" effect, what happens to the effect that was affecting it?"
+    },
+    {
+      "a": "It will be affected by the effect as soon as it can be affected by effects.",
+      "date": "Sep. 5, 2025",
+      "num": "Q5024",
+      "q": "If a card has an \"effects don't affect\" effect, it gains an effect, then it later loses the \"effects don't affect\" effect, what happens to the effect that it gained?"
+    },
+    {
+      "a": "If the Digimon isn't affected by effects upon the trigger timing, the effect won't trigger.",
+      "date": "Sep. 5, 2025",
+      "num": "Q5025",
+      "q": [
+        "A card that has an \"effects don't affect\" effect was given an effect that triggers at a timing such as [When Attacking].",
+        "Will the effect trigger if that card later meets the trigger conditions?"
+      ]
+    },
+    {
+      "a": [
+        "Yes, it's deleted.",
+        "If this card's [All Turns] effect activates while your opponent has a Digimon with 13000 DP or more, as soon as that Digimon leaves, the effect will no longer be activated.",
+        "Related Cards"
+      ],
+      "date": "Sep. 5, 2025",
+      "num": "Q5026",
+      "q": [
+        "My opponent only has 1 BT5-112 [Omnimon Zwart Defeat] in the battle area.",
+        "If that BT5-112 [Omnimon Zwart Defeat] is deleted and this card is chosen as its [On Deletion] effect, is this card deleted?"
+      ]
+    },
+    {
+      "a": "The [All Turns] effects on both EX10-010 [BlackWarGreymon ACE]s remain activated and their DPs become 15000.",
+      "date": "Sep. 5, 2025",
+      "num": "Q5202",
+      "q": [
+        "Both I and my opponent have 1 EX10-010 [BlackWarGreymon ACE] in our battle areas, and I have a Digimon with an original DP of 13000 or more.",
+        "Since I have a Digimon with an original DP of 13000 or more, the [All Turns] effects on both EX10-010 [BlackWarGreymon ACE]s activate and their DPs become 15000.",
+        "If my Digimon with an original DP of 13000 or more leaves the battle area, what happens to the [All Turns] effects and DP of both our EX10-010 [BlackWarGreymon ACE]s?"
+      ]
+    }
+  ],
+  "Color": [
+    "Red",
+    "Black"
+  ],
+  "Cost": "7",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Red",
+    "Black",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "{Hand} [Counter] ＜Blast Digivolve＞ (Your Digimon may digivolve into this card without paying the cost.)",
+    "＜Raid＞ ＜Reboot＞ ＜Blocker＞",
+    "[On Play] [When Digivolving] Delete 1 of your opponent's play cost 7 or lower Digimon or Tamers.",
+    "[All Turns] While your opponent has a Digimon with 13000 DP or more, your opponent's Digimon's effects don't affect this Digimon, and it gets +3000 DP."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Extra Booster SINISTER ORDER [EX-10]",
+    "?search=true&category=522031",
+    "/products/pack/ex-10"
+  ],
+  "Special Rule": "＜Overflow (-4)＞ (As this card moves from the field or under a card to an area other than those, lose 4 memory.)",
+  "Type": "Dragonkin",
+  "cardLv": "Lv.6",
+  "cardNo": "EX10-010",
+  "cardRarity": "SR",
+  "cardTitle": "BlackWarGreymon ACE",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX10-010.png?260210"
+}

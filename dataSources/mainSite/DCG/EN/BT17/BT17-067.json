@@ -1,0 +1,80 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": [
+        "It triggers at the timing when this card is in the trash and your [DoruGreymon] would be deleted.",
+        "[Trash] means that an effect can trigger and activate when the card is in the trash."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2821",
+      "q": "When exactly is the timing when this card's [Trash] [All Turns] effect triggers?"
+    },
+    {
+      "a": [
+        "Yes, you can.",
+        "However, the DP-reducing effect will be carried over after the [DoruGreymon] effect activates and digivolution occurs, therefore deletion will occur again if the DP is still 0 after the effect activates and digivolution occurs."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2822",
+      "q": "If I use this card's [Trash] effect to digivolve when my [DoruGreymon] would be deleted by its DP becoming 0, can I prevent that deletion?"
+    },
+    {
+      "a": [
+        "No, you can't activate it.",
+        "The Digimon is deleted before the [When Digivolving] effect activates."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2823",
+      "q": "I used this card's [Trash] effect to digivolve when my [DoruGreymon] would be deleted due to its DP being reduced by 10000. Its DP became 0 due to the DP-reducing effect, but can I activate this card's [When Digivolving] effect after it digivolves at such times?"
+    },
+    {
+      "a": [
+        "No, it activates instead of \"Then,",
+        ".\""
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2824",
+      "q": [
+        "Does \"delete 1 of your opponent's Digimon with a play cost of 6 or less instead\" in this card's [When Digivolving] effect activate instead of \"Trash 1 card in your hand. Then,",
+        ".\"?"
+      ]
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2825",
+      "q": "Can I use this card’s inherited effect to choose my Digimon with a \"can't be deleted by effects\" effect and only delete an opponent's Digimon with as high or lower a level as that Digimon?"
+    }
+  ],
+  "Color": [
+    "Purple",
+    "Black"
+  ],
+  "Cost": "8",
+  "DP": "8000",
+  "Digivolve Cost 1": [
+    "Purple",
+    "Black",
+    "4 from Lv.4"
+  ],
+  "Effect": [
+    "[Trash] [All Turns] When one of your [DoruGreymon] would be deleted, by digivolving it into this card without paying the cost, prevent that deletion.",
+    "[When Digivolving] Trash 1 card in your hand. Then, ＜Draw 1＞. If [DoruGreymon] is in this Digimon's digivolution cards or this digivolved from the trash, delete 1 of your opponent's Digimon with a play cost of 6 or less instead."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "[End of Attack] [Once Per Turn] You may choose 1 of your Digimon. Delete 1 of your chosen Digimon and 1 of your opponent's Digimon with as high or lower a level as that Digimon.",
+  "Notes": [
+    "Booster SECRET CRISIS [BT17]",
+    "?search=true&category=522023",
+    "/products/pack/ver17"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [DoruGreymon]: Cost 1",
+  "Type": "Undead/X Antibody/SoC",
+  "cardLv": "Lv.5",
+  "cardNo": "BT17-067",
+  "cardRarity": "C",
+  "cardTitle": "DexDoruGreymon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT17-067.png?260210"
+}

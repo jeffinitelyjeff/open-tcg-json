@@ -1,0 +1,65 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": [
+        "No, it doesn't.",
+        "This effect is triggered \"When a card is removed from your opponent's security stack,\" so even when you check multiple cards in your opponent's security stack, it is triggered upon the first check, then you choose whether to activate it or not. Also, this is a [Once Per Turn] effect, so if you activate this effect when a card is removed from their security stack upon the first check, you can't activate the effect again upon the next check."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2058",
+      "q": [
+        "Does this card's [My Turn] effect allow this card's [On Deletion] effect to be activated twice when I use one of my Digimon with",
+        "to check 2 cards in my opponent's security stack?"
+      ]
+    },
+    {
+      "a": "Yes. Other than [Sea Animal], all traits with [Avian], [Bird], [Beast], [Animal] or [Sovereign] are applicable regardless of other words or pluralizations.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2059",
+      "q": "Does \"with [Avian], [Bird], [Beast], [Animal] or [Sovereign] in one of its traits (other than [Sea Animal])\" mean that all traits with the [Avian], [Bird], [Beast], [Animal] or [Sovereign] text other than [Sea Animal] are included regardless of other words or pluralizations?"
+    },
+    {
+      "a": [
+        "It means that you can use this card's [On Deletion] effect to play \"1 red Digimon with [Avian], [Bird], [Beast], [Animal] or [Sovereign] in one of its traits (other than [Sea Animal]), and 3000 DP or less,\" and if you have a red Tamer when this effect is activated, you add 2000 to the maximum DP for the \"3000 DP or less\" restriction.",
+        "For example, you can play 1 Digimon card with 5000 DP or less if you have 1 red Tamer, and you can play 1 Digimon card with 7000 DP or less if you have 2 red Tamers."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2060",
+      "q": "What does \"For each red Tamer you have in play, add 2000 to the maximum DP of the card you can play by this effect\" on this card mean?"
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "It only affects the [On Deletion] effect on this card itself."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2061",
+      "q": "Can I use this card's \"For each red Tamer you have in play, add 2000 to the maximum DP of the card you can play by this effect\" effect to add 2000 to the maximum DP of my Digimon played with effects other than this card's effects?"
+    }
+  ],
+  "Color": "Red",
+  "Cost": "11",
+  "DP": "11000",
+  "Digivolve Cost 1": [
+    "Red",
+    "3 from Lv.5"
+  ],
+  "Effect": [
+    "[Your Turn][Once Per Turn] When a card is removed from your opponent's security stack, you may activate 1 of this Digimon's [On Deletion] effects.",
+    "[On Deletion] You may play 1 red Digimon card with [Avian], [Bird], [Beast], [Animal], or [Sovereign], other than [Sea Animal], in one of its traits and 3000 DP or less from your hand without paying the cost. For each red Tamer you have in play, add 2000 to the maximum DP of the card you can play by this effect."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster DIMENSIONAL PHASE [BT11]",
+    "?search=true&category=522013",
+    "/products/pack/ver11.php"
+  ],
+  "Type": "Holy Beast",
+  "cardLv": "Lv.6",
+  "cardNo": "BT11-016",
+  "cardRarity": "SR",
+  "cardTitle": "Phoenixmon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT11-016.png?260210"
+}

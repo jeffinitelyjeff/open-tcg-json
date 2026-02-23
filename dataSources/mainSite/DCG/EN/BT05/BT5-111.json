@@ -1,0 +1,103 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "No, you can't digivolve from a Digimon in your breeding area that has [Omnimon] in its name using this card's effect.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1385",
+      "q": "Can I digivolve into this card from a Digimon in my breeding area that has [Omnimon] in its name?"
+    },
+    {
+      "a": "The target of attack is no longer in play, so the attack ends without a battle.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1386",
+      "q": "I attack an opponent's Digimon with this Digimon, and use its [When Attacking] effect to delete the opposing Digimon. What happens to the attack?"
+    },
+    {
+      "a": [
+        "No. You didn't delete the opponent's Digimon in battle, so",
+        "doesn't activate."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q1387",
+      "q": [
+        "I attack an opponent's Digimon with this Digimon, and use its [When Attacking] effect to delete the opposing Digimon. If this Digimon has",
+        ", can I check the opponent's security cards?"
+      ]
+    },
+    {
+      "a": "Yes, you can. If you do, the blocking Digimon will battle this Digimon.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1388",
+      "q": [
+        "My opponent attacks one of my Digimon with this Digimon, using its [When Attacking] effect to delete my Digimon. Can I use another Digimon with",
+        "to block the attack?"
+      ]
+    },
+    {
+      "a": "No. This effect is activated at counter timing, which means it only activates after the [When Attacking] effect has finished activating.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1389",
+      "q": "My opponent's Digimon attacks. Can this card's [Opponent's Turn] effect be used to to end the attack before the attacking Digimon's [When Attacking] effect activates?"
+    },
+    {
+      "a": "Yes. The [On Deletion] effect activates immediately after the deletion occurs, so it activates before this card's [Opponent's Turn] effect.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1390",
+      "q": "My opponent's Digimon used a [When Attacking] effect to delete one of my Digimon with an [On Deletion] effect. If I use this card's [Opponent's Turn] effect to end the attack, does the [On Deletion] effect activate?"
+    },
+    {
+      "a": [
+        "Yes, you can.",
+        "Related Cards"
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q1391",
+      "q": "My opponent attacks with a Digimon. After activating my [BT1-082 Rosemon]'s effect, can I use this card's [Opponent's Turn] effect to end the attack?"
+    },
+    {
+      "a": "No. The battle has already concluded, which means the counter timing window for activating the effect has passed, so you can't activate this effect.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1392",
+      "q": "My opponent attacks with a Digimon. After comparing DP in battle, can I activate this card's [Opponent's Turn] effect to end the attack?"
+    },
+    {
+      "a": "No. [When Attacking] effects will activate as normal.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1393",
+      "q": "If I use this card's [Opponent's Turn] effect, will the game treat the attack as if it never occurred?"
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1394",
+      "q": "Can I digivolve one of my Digimon with [Omnimon] in its name in the battle area into this card in the hand when an effect to digivolve one of my Digimon is activated?"
+    }
+  ],
+  "Color": "White",
+  "Cost": "15",
+  "DP": "15000",
+  "Digivolve Cost 1": [
+    "Red",
+    "Blue",
+    "6 from Lv.6"
+  ],
+  "Effect": [
+    "Your Digimon with [Omnimon] in its name can digivolve into this card in your hand for a memory cost of 3, ignoring this card's digivolution requirements.",
+    "[When Attacking] Delete 1 of your opponent's Digimon with DP less than or equal to this Digimon's DP.",
+    "[Opponent's Turn] When your opponent's Digimon attacks, you may trash 2 of this Digimon's digivolution cards to end the attack."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster BATTLE OF OMNI [BT05]",
+    "?search=true&category=522004",
+    "/products/pack/ver5.php"
+  ],
+  "Type": "Holy Warrior/Royal Knight/X-Antibody",
+  "cardLv": "Lv.7",
+  "cardNo": "BT5-111",
+  "cardRarity": "SEC",
+  "cardTitle": "Omnimon (X Antibody)",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT5-111.png?260210"
+}

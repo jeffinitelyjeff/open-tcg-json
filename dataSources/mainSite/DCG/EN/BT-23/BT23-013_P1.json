@@ -1,0 +1,68 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": "Yes, you can.",
+      "date": "Oct. 3, 2025",
+      "num": "Q5222",
+      "q": [
+        "If this card attacks and I use its [When Digivolving] [When Attacking] effect to play a Digimon, can I then use",
+        "to suspend the played Digimon?"
+      ]
+    },
+    {
+      "a": [
+        "No, it can't attack. A new attack declaration can't be made during an attack.",
+        "In this case, you use this card to attack and use its [When Digivolving] [When Attacking] effect to play a Digimon.",
+        "This card's [Your Turn] effect can be activated before the counter timing, but because you can't declare another attack during an attack, you won't be able to attack using this effect, even if you activate it."
+      ],
+      "date": "Oct. 3, 2025",
+      "num": "Q5223",
+      "q": "If this card attacks and I use its [When Digivolving] [When Attacking] effect to play a Digimon, can I then use this card's [Your Turn] effect to attack?"
+    },
+    {
+      "a": [
+        "No, it can't be played.",
+        "\"With the same names\" also refers to a card with even just 1 of the same name as any of your Digimon.",
+        "This effect can't play cards with the same name as [Sistermon Ciel].",
+        "Related Cards"
+      ],
+      "date": "Oct. 3, 2025",
+      "num": "Q5224",
+      "q": [
+        "I have BT10-085 [Sistermon Ciel].",
+        "Can I use this card's [When Digivolving] [When Attacking] effect to play a BT6-084 [Sistermon Ciel] or ST12-13 [Sistermon Ciel] that's also treated as [Sistermon Noir]?"
+      ]
+    }
+  ],
+  "Color": "Red",
+  "Cost": "12",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Red",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "＜Rush＞ ＜Alliance＞",
+    "[When Digivolving] [When Attacking] You may play 1 [Atho, René & Por] Token or, from your hand or trash, 1 Digimon card with [Sistermon] in its name without paying the cost. This effect can't play cards with the same names as any of your Digimon. (Digimon/white/6000 DP/＜Reboot＞ ＜Blocker＞ ＜Decoy (Red)/(Black)＞)",
+    "[Your Turn] [Once Per Turn] When any of your other Digimon are played, this Digimon may attack."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster HACKERS' SLUMBER [BT-23]",
+    "?search=true&category=522032",
+    "/products/pack/ver23"
+  ],
+  "Special Digivolution Condition": [
+    "[Digivolve] [SaviorHuckmon]/Lv.5 w/[CS] trait: Cost 3",
+    "[Digivolve] While opponent has a 10000 DP or higher Digimon, [Huckmon]: Cost 5"
+  ],
+  "Type": "Holy Warrior/Royal Knight/CS",
+  "cardLv": "Lv.6",
+  "cardNo": "BT23-013",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "Jesmon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT23-013_P1.png?260210"
+}

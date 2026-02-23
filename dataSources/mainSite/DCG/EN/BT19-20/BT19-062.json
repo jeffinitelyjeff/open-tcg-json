@@ -1,0 +1,63 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "This effect trashes an Option card that was placed by a \"place this card in the battle area\" effect.",
+      "date": "Sep. 20, 2024",
+      "num": "Q3120",
+      "q": "What does the \"trash 1 Option card in your opponent's battle area\" effect do, exactly?"
+    },
+    {
+      "a": "Yes, you have to trash it.",
+      "date": "Sep. 20, 2024",
+      "num": "Q3121",
+      "q": "If I have an Option card in the battle area, do I have to trash it for this card's [When Attacking] effect?"
+    },
+    {
+      "a": "Yes, it must attack if possible.",
+      "date": "Sep. 20, 2024",
+      "num": "Q3122",
+      "q": "If my opponent has an unsuspended Digimon, does this card attack a player if possible for this card's [End of Your Turn] effect?"
+    },
+    {
+      "a": [
+        "No, an attack using the 2nd effect isn't possible. A new attack declaration can't be made during an attack.",
+        "In this case, the [End of Your Turn] effects on both copies of this card trigger simultaneously at the end of your turn, and you use the [End of Your Turn] effect on the 1st copy of this card to attack.",
+        "The 2nd [End of Your Turn] effect can be activated before the counter timing, but because you can't declare another attack during an attack, you won't be able to attack using the 2nd effect, even if you activate it."
+      ],
+      "date": "Apr. 4, 2025",
+      "num": "Q3123",
+      "q": [
+        "I have 2 copies of this card in the battle area.",
+        "At the end of my turn, I used the [End of Your Turn] effect on the 1st copy of this card to attack. Can I then use the [End of Your Turn] effect on the 2nd copy of this card to attack?"
+      ]
+    }
+  ],
+  "Color": "Black",
+  "Cost": "7",
+  "DP": "9000",
+  "Digivolve Cost 1": [
+    "Black",
+    "4 from Lv.4"
+  ],
+  "Effect": [
+    "＜Rush＞ ＜Collision＞",
+    "[When Attacking] Trash 1 of your Option cards in the battle area.",
+    "[End of Your Turn] If your opponent has an unsuspended Digimon, this Digimon attacks a player."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "＜Collision＞ (During this Digimon's attack, give all of your opponent's Digimon ＜Blocker＞, and the opponent blocks if able.)",
+  "Notes": [
+    "SPECIAL BOOSTER Ver.2.5 [BT19-20]",
+    "?search=true&category=522027",
+    "/products/pack/ver19-20"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [Strikedramon]: Cost 3",
+  "Type": "Cyborg",
+  "cardLv": "Lv.5",
+  "cardNo": "BT19-062",
+  "cardRarity": "U",
+  "cardTitle": "Cyberdramon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT19-062.png?260210"
+}

@@ -1,0 +1,54 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": [
+        "No, you can't.",
+        "At the end of your turn, all of these cards' [End of Your Turn] effects will trigger at the same time, but after you choose the activation order, declare the attack for the 1st Digimon, and effects such as [When Attacking] effects and \"\"when one of your Digimon attacks\"\" effects have finished activating, then the timing will occur for the activation of the [End of Your Turn] effects on the 2nd and other copies of this card that were pending activation. However, since the 1st Digimon is already attacking, you can't declare another attack and the effect activation will fail.",
+        "As a result, only the copy that activated first will attack."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q4100",
+      "q": "When I have multiple copies of this Digimon, can I use this card's [End of Your Turn] effect to attack using each in order?"
+    },
+    {
+      "a": [
+        "Yes, you can.",
+        "At the end of your turn, this card and [RB1-034 Ruli Tsukiyono]'s effects trigger at the same time, so you can attack if you first activate [RB1-034 Ruli Tsukiyono]'s effect and then unsuspend this card.",
+        "Related Cards"
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q4101",
+      "q": [
+        "I used my [RB1-034 Ruli Tsukiyono]'s [End of Your Turn] effect to unsuspend this card while it was suspended.",
+        "In such cases, can I use this card's [End of Your Turn] effect to attack?"
+      ]
+    }
+  ],
+  "Color": "Green",
+  "Cost": "12",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Green",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "＜Blocker＞",
+    "[When Digivolving][When Attacking] Suspend 1 of your opponent’s Digimon. Then, if your opponent has no unsuspended Digimon, gain 1 memory.",
+    "[End of Your Turn] 1 of your Digimon with [Angoramon] in its text may attack an opponent's Digimon."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "RESURGENCE BOOSTER [RB01]",
+    "?search=true&category=522017",
+    "/products/pack/rb-01.php"
+  ],
+  "Type": "Beast Knight",
+  "cardLv": "Lv.6",
+  "cardNo": "RB1-025",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "Diarbbitmon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/RB1-025_P1.png?260210"
+}

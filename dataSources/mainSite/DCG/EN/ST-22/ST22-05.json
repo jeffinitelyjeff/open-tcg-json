@@ -1,0 +1,72 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": "Yes, you can.",
+      "date": "Nov. 21, 2025",
+      "num": "Q5417",
+      "q": [
+        "I used this card's {Hand} [Counter]",
+        "to digivolve my Digimon into this card during my opponent's counter timing, and I used its [When Digivolving] effect to play a [Pipe Fox] Token.",
+        "At such times, can I use the [Pipe Fox] Token to block during the block timing?"
+      ]
+    },
+    {
+      "a": "As with the standard rules, a used Option card is temporarily treated as not being in any area. After using it and activating the Option card's [Main] effect, the card is trashed unless it's to be placed in an area.",
+      "date": "Nov. 21, 2025",
+      "num": "Q5418",
+      "q": "If I use this card's [On Play] [When Digivolving] [When Attacking] effect to use an Option card from under a Tamer, what happens to that Option card?"
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Nov. 21, 2025",
+      "num": "Q5419",
+      "q": [
+        "If I use this card to attack and use its [When Attacking] effect to play a [Pipe Fox] Token, can I then use",
+        "to suspend the [Pipe Fox] Token?"
+      ]
+    },
+    {
+      "a": [
+        "No, you can't activate it.",
+        "is an effect that triggers upon an attack. In this case, ST22-04 [Taomon] attacks in its current state where this card's",
+        "hasn't triggered, therefore it can't activate.",
+        "Related Cards"
+      ],
+      "date": "Nov. 21, 2025",
+      "num": "Q5420",
+      "q": [
+        "ST22-04 [Taomon] with ST22-01 [Viximon] in digivolution cards attacks, and I use ST22-04 [Taomon]'s [When Attacking] effect to use an Option card.",
+        "If I use ST22-01 [Viximon]'s inherited effect to digivolve this card at such times, can I activate this card's",
+        "?"
+      ]
+    }
+  ],
+  "Color": "Yellow",
+  "Cost": "6",
+  "DP": "11000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "3 from Lv.5"
+  ],
+  "Effect": [
+    "{Hand} [Counter] ＜Blast Digivolve＞ (Your Digimon may digivolve into this card without paying the cost.)",
+    "＜Alliance＞",
+    "[On Play] [When Digivolving] [When Attacking] [Once Per Turn] You may play 1 [Pipe Fox] Token. (Digimon/Yellow/6000 DP/＜Blocker＞) Then, you may use 1 Option card with the [Onmyōjutsu] or [Plug-In] trait from your hand or under your Tamers without paying the cost."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Advanced Deck AMETHYST MANDALA [ST-22]",
+    "?search=true&category=522122",
+    "/products/deck/st-22"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [Sakuyamon: Maid Mode]: Cost 1",
+  "Special Rule": "＜Overflow (-4)＞ (As this card moves from the field or under a card to an area other than those, lose 4 memory.)",
+  "Type": "Shaman",
+  "cardLv": "Lv.6",
+  "cardNo": "ST22-05",
+  "cardRarity": "SR",
+  "cardTitle": "Sakuyamon ACE",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/ST22-05.png?260210"
+}

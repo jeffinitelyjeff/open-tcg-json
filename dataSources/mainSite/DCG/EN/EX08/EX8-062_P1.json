@@ -1,0 +1,63 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "Yes, you can.",
+      "date": "Nov. 22, 2024",
+      "num": "Q3948",
+      "q": "Can I use \"・1 of your opponent's Digimon gets -2000 DP for the turn\" in this card's [On Play] [When Digivolving] effect to give the same Digimon -2000 DP multiple times?"
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Nov. 22, 2024",
+      "num": "Q3949",
+      "q": "Can I use \"・1 of your opponent's Digimon gets -2000 DP for the turn\" in this card's [On Play] [When Digivolving] effect to give different Digimon -2000 DP?"
+    },
+    {
+      "a": [
+        "No, it isn't deleted yet.",
+        "This card's [On Play] [When Digivolving] effect activates \"・1 of your opponent's Digimon gets -2000 DP for the turn\" 4 times, then all Digimon with 0 DP are deleted at the same timing."
+      ],
+      "date": "Apr. 4, 2025",
+      "num": "Q3950",
+      "q": [
+        "I activated \"・1 of your opponent's Digimon gets -2000 DP for the turn\" in this card's [On Play] [When Digivolving] effect once, and the DP of the opponent's Digimon became 0.",
+        "Is that Digimon deleted before the effect activates 3 more times?"
+      ]
+    }
+  ],
+  "Color": [
+    "Purple",
+    "Yellow"
+  ],
+  "Cost": "7",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Purple",
+    "Yellow",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "{Hand} [Counter] ＜Blast Digivolve＞ (Your Digimon may digivolve into this card without paying the cost.)",
+    "[On Play] [When Digivolving] Activate the effect below 4 times:",
+    "・1 of your opponent's Digimon gets -2000 DP for the turn.",
+    "[All Turns] [Once Per Turn] When other Digimon are deleted, you may play 1 level 4 or lower [NSo] trait Digimon card from your trash without paying the cost."
+  ],
+  "Form": "Mega",
+  "Inherited Effect": "-",
+  "Notes": [
+    "Extra Booster CHAIN OF LIBERATION [EX08]",
+    "?search=true&category=522026",
+    "/products/pack/ex-08"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.5 w/[NSo] trait: Cost 3",
+  "Special Rule": "＜Overflow (-4)＞ (As this card moves from the field or under a card to an area other than those, lose 4 memory.)",
+  "Type": "Wizard/NSo",
+  "cardLv": "Lv.6",
+  "cardNo": "EX8-062",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "Piedmon ACE",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX8-062_P1.png?260210"
+}

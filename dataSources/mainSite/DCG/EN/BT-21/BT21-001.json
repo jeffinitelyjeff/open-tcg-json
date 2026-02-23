@@ -1,0 +1,49 @@
+{
+  "Card Q&A": [
+    {
+      "a": [
+        "[Security] effects take precedence for activation.",
+        "Upon a security check, a [Security] effect will immediately activate without pending activation.",
+        "For other triggered effects, the turn player activates their effects first."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q4516",
+      "q": "In what order do a [Security] effect, \"when [...] performs a security check\" effect, and \"when a card is removed from [...] security stack\" effect activate when they trigger simultaneously upon a security check?"
+    },
+    {
+      "a": "Yes, another security check is performed.",
+      "date": "Apr. 4, 2025",
+      "num": "Q4517",
+      "q": [
+        "A Digimon that has this card in its digivolution cards attacks, and a security check was performed on my opponent's security stack.",
+        "If the attacking Digimon with this card in its digivolution cards digivolves into a Digimon with",
+        "using this card's inherited effect, is another security check performed?"
+      ]
+    },
+    {
+      "a": [
+        "The top card of the security stack.",
+        "Upon a security check, the checked card is already considered to be removed from the security stack, therefore that card won't be trashed.",
+        "Related Cards"
+      ],
+      "date": "Apr. 4, 2025",
+      "num": "Q4518",
+      "q": "I use a Digimon that has this card in its digivolution cards to perform a security check on my opponent's security stack, then I use this Digimon's inherited effect to digivolve into BT21-024 [Cyberdramon]. What card is trashed by BT21-024 [Cyberdramon]'s [When Digivolving] effect at such times?"
+    }
+  ],
+  "Color": "Red",
+  "Form": "In-Training",
+  "Inherited Effect": "[Your Turn] [Once Per Turn] When your opponent's security stack is removed from, 1 of your Digimon may digivolve into a Digimon card with the [Reptile] or [Dragonkin] trait in the hand with the digivolution cost reduced by 1.",
+  "Notes": [
+    "Booster WORLD CONVERGENCE [BT-21]",
+    "?search=true&category=522028",
+    "/products/pack/ver21"
+  ],
+  "Type": "Lesser/LIBERATOR",
+  "cardLv": "Lv.2",
+  "cardNo": "BT21-001",
+  "cardRarity": "C",
+  "cardTitle": "Gigimon",
+  "cardType": "Digi-Egg",
+  "imgSrc": "../images/cardlist/card/BT21-001.png?260210"
+}

@@ -1,0 +1,61 @@
+{
+  "Card Q&A": [
+    {
+      "a": "Yes, it is still a Digimon that was played by this effect, so you delete it at the end of your opponent's turn.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3433",
+      "q": [
+        "This card's effects read \"The Digimon played by this effect can't digivolve to level 7, and at the end of your opponent's turn, delete that Digimon.\" Do I delete that Digimon even if digivolution cards are added by an effect and then it becomes another Digimon due to an effect such as",
+        "?"
+      ]
+    },
+    {
+      "a": "No, if the Digimon to digivolve into is level 7, DNA digivolving is not possible either.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3434",
+      "q": "If I use this card's effect to play a Digimon, can I DNA digivolve that Digimon into a level 7 Digimon?"
+    },
+    {
+      "a": [
+        "No, you only delete it at the end of your opponent's first turn after it's played by this effect.",
+        "If another effect prevents it from being deleted at the end of your opponent's first turn when it would be deleted, that Digimon isn't deleted at the end of your opponent's following turns.",
+        "If it isn't deleted by another effect when it would be deleted by this effect, it's still prevented from digivolving to level 7."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5722",
+      "q": [
+        "Do I delete the Digimon that was played by this card's",
+        "effect at the end of my opponent's turn?",
+        "And if it isn't deleted, is it still prevented from digivolving to level 7?"
+      ]
+    },
+    {
+      "a": "The pending processing for the effect that triggers at the end of the turn and the deletion at the end of the turn are considered to be processing that triggers simultaneously. Therefore, the turn player can choose the processing order.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5723",
+      "q": [
+        "What is the processing order for an effect that triggers at the end of the turn and the deletion of a Digimon played by this card's",
+        "effect?"
+      ]
+    }
+  ],
+  "Color": "Yellow",
+  "Cost": "8",
+  "Effect": [
+    "[Main] ＜Draw 1＞. Then, place this card in your battle area.",
+    "[Main] ＜Delay＞ (By trashing this card in your battle area, activate the effect below. You can't activate this effect the turn this card enters play.)",
+    "・Play 1 Digimon card with [Four Great Dragons] in its traits from your hand without paying the cost. The Digimon played by this effect can't digivolve to level 7, and at the end of your opponent's turn, delete that Digimon."
+  ],
+  "Notes": [
+    "Theme Booster DRACONIC ROAR [EX-03]",
+    "?search=true&category=522012",
+    "/products/pack/ex-03.php"
+  ],
+  "Security Effect": "[Security] Place this card in its owner's battle area.",
+  "Type": "Four Great Dragons",
+  "cardNo": "EX3-069",
+  "cardRarity": "R",
+  "cardTitle": "Trial of the Four Great Dragons",
+  "cardType": "Option",
+  "imgSrc": "../images/cardlist/card/EX3-069.png?260210"
+}

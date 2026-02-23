@@ -1,0 +1,50 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "Yes, you can.",
+      "date": "Mar. 28, 2024",
+      "num": "Q637",
+      "q": "Can I use this card's effect to target one of my opponent's Digimon with 4000 DP or less, reduce its DP to 0, and delete it?"
+    },
+    {
+      "a": "No battle occurs, and the attack ends. If there are other effects to activate (When Attacking effects, etc.), the attack ends after activating them.",
+      "date": "Mar. 28, 2024",
+      "num": "Q638",
+      "q": "This card attacks an opponent's Digimon, then that Digimon's DP is reduced to 0 and deleted by this card's effect. What happens to the attack?"
+    },
+    {
+      "a": [
+        "No.",
+        "and other effects that activate when an opponent's Digimon attacks only activate during the reaction timing window that occurs after When Attacking effects, etc. finish activating. As such, once a block has been declared, the window for activating this card's inherited effect has already passed, so it can't be activated."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q639",
+      "q": [
+        "This card attacks an opponent's Digimon, then my opponent blocks with a Digimon that has",
+        ". Can I use this card's effect to reduce the DP of the blocking Digimon to 0 and delete it?"
+      ]
+    }
+  ],
+  "Color": "Yellow",
+  "Cost": "12",
+  "DP": "10000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "4 from Lv.5"
+  ],
+  "Effect": "[When Attacking] 1 of your opponent's Digimon gets -4000 DP for the turn.",
+  "Form": "Mega",
+  "Notes": [
+    "Starter Deck HEAVEN’S YELLOW [ST-3]",
+    "?search=true&category=522103",
+    "/products/deck/st-3.php"
+  ],
+  "Type": "Seraph/Three Great Angels",
+  "cardLv": "Lv.6",
+  "cardNo": "ST3-11",
+  "cardRarity": "SR",
+  "cardTitle": "Seraphimon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/ST3-11.png?260210"
+}

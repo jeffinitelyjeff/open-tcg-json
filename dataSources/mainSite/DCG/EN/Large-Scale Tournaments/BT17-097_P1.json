@@ -1,0 +1,116 @@
+{
+  "Card Q&A": [
+    {
+      "a": "No, this card's [Main] effect does not allow ignoring digivolution requirements, so you can only digivolve into a card that meets the digivolution requirements.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2885",
+      "q": "When I use this card's [Main] effect to digivolve into a level 5 or higher Digimon card with the [Free] trait in the hand, can it digivolve regardless of its digivolution requirements?"
+    },
+    {
+      "a": [
+        "No, this card's",
+        "effect does not allow ignoring digivolution requirements, so you can only digivolve into a card that meets the digivolution requirements."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2886",
+      "q": [
+        "When I use this card's",
+        "effect to digivolve into a Digimon card with [Imperialdramon] in its name in the hand, can it digivolve regardless of its digivolution requirements?"
+      ]
+    },
+    {
+      "a": [
+        "No, you can't activate it.",
+        "and this card's",
+        "effect will trigger simultaneously, but if you use this card's effect to digivolve first, the triggered",
+        "on BT16-025 [Paildramon] will be negated and won't activate.",
+        "Related Cards"
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q2887",
+      "q": [
+        "When BT16-025 [Paildramon] would be deleted by an opponent's effect, can I activate BT16-025 [Paildramon]'s",
+        "effect after using this card's",
+        "effect to digivolve?"
+      ]
+    },
+    {
+      "a": [
+        "No, you can't activate it.",
+        "BT16-025 [Paildramon]'s",
+        "inherited effect can't be activated because it doesn't trigger when the Digimon is deleted by an opponent's effect.",
+        "Related Cards"
+      ],
+      "date": "May. 24, 2024",
+      "num": "Q2888",
+      "q": [
+        "When BT16-025 [Paildramon] is deleted by an opponent's effect, can I activate BT16-025 [Paildramon]'s",
+        "inherited effect after using this card's",
+        "effect to digivolve?"
+      ]
+    },
+    {
+      "a": [
+        "Yes, you can.",
+        "and this card's",
+        "effect will trigger simultaneously, and the triggered",
+        "on BT16-025 [Paildramon] can be activated, even if you use this card's effect to digivolve first.",
+        "Related Cards"
+      ],
+      "date": "May. 24, 2024",
+      "num": "Q2889",
+      "q": [
+        "When a Digimon with BT16-025 [Paildramon] in its digivolution cards is deleted by an opponent's effect, can I activate BT16-025 [Paildramon]'s",
+        "inherited effect after using this card's",
+        "effect to digivolve?"
+      ]
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "1 digivolution can only be performed on 1 Digimon. You can't perform separate digivolutions on multiple cards at the same time.",
+        "Therefore, when multiples of your Digimon with the [Free] trait would be deleted other than by one of your effects, you can only use this card's effect to digivolve 1 of those Digimon.",
+        "In addition, only the digivolved Digimon is prevented from being deleted."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q2890",
+      "q": "If I activate this card's [All Turns] effect when multiples of my Digimon with the [Free] trait would be deleted at the same time other than by one of my effects, can I digivolve all of those Digimon and prevent them from being deleted?"
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "Only the turn player can attack.",
+        "In this case, your EX3-063 [Imperialdramon: Dragon Mode] can't attack because it isn't your turn.",
+        "Related Cards"
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q2891",
+      "q": [
+        "[All Turns] When my Digimon with the [Free] trait would be deleted other than by one of my effects during my opponent's turn, I used this card's [All Turns] effect to digivolve that Digimon into EX3-063 [Imperialdramon: Dragon Mode].",
+        "Can I then use",
+        "in EX3-063 [Imperialdramon: Dragon Mode]'s [When Digivolving] effect to attack?"
+      ]
+    }
+  ],
+  "Color": [
+    "Blue",
+    "Green"
+  ],
+  "Cost": "2",
+  "Effect": [
+    "[Main] 1 of your Digimon may digivolve into a level 5 or higher Digimon card with the [Free] trait in the hand with the digivolution cost reduced by 4. Then, place this card in the battle area.",
+    "[All Turns] When any of your Digimon with the [Free] trait would be deleted other than by your effects, ＜Delay＞.",
+    "・By digivolving one of those Digimon into a Digimon card with [Imperialdramon] in its name in the hand without paying the cost, they aren't deleted."
+  ],
+  "Notes": [
+    "Championship 25-26 Regionals Participation Card Set Season 2",
+    "?search=true&category=522902"
+  ],
+  "Security Effect": "[Security] You may play 1 Tamer card with [Davis Motomiya] or [Ken Ichijoji] in its name from your hand or trash without paying the cost. Then, place this card in the battle area.",
+  "cardNo": "BT17-097",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "U",
+  "cardTitle": "Return to the Primogenitor",
+  "cardType": "Option",
+  "imgSrc": "../images/cardlist/card/BT17-097_P1.png?260210"
+}

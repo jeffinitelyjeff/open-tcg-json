@@ -1,0 +1,55 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": [
+        "No, you can't.",
+        "An attack declaration can't be made during an attack."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2698",
+      "q": "My Digimon attacks and digivolves into this card by an effect during the attack. Can I use this card's [When Digivolving] effect to attack again?"
+    },
+    {
+      "a": [
+        "The deletion by a rule check is processed first.",
+        "As soon as your opponent's Digimon attacks and suspends, that Digimon's [When Attacking] effect triggers, but the rule check occurs before it activates. The Digimon with 0 DP will be deleted upon the rule check before the [When Attacking] effect can activate."
+      ],
+      "date": "Nov. 21, 2025",
+      "num": "Q5452",
+      "q": "This card is in the battle area, and it has X Antibody in its digivolution cards. My opponent's Digimon with 4000 DP or less and a [When Attacking] effect attacks, and now it's suspended. At such times, this card's [All Turns] effect causes that Digimon's DP to become 0. Which is processed first, the deletion by a rule check or that Digimon's [When Attacking] effect?"
+    }
+  ],
+  "Color": [
+    "Yellow",
+    "Green"
+  ],
+  "Cost": "11",
+  "DP": "11000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "Green",
+    "3 from Lv.5"
+  ],
+  "Effect": [
+    "＜Armor Purge＞",
+    "[When Digivolving] Suspend all of your opponent’s Digimon. Then, this Digimon may attack.",
+    "[All Turns] While [Rapidmon] or [X Antibody] is in this Digimon's digivolution cards, all of your opponent's suspended Digimon get -4000 DP.",
+    "[All Turns] [Once Per Turn] When any of your opponent's Digimon are deleted in battle or by having 0 DP, gain 2 memory."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Limited Card Pack BILLION BULLET [LM-06]",
+    "?search=true&category=522202",
+    "/products/goods/limited-pack-billion-bullet.php"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [Rapidmon]: Cost 4",
+  "Type": "Holy Warrior/X Antibody",
+  "cardLv": "Lv.6",
+  "cardNo": "BT16-101",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SEC",
+  "cardTitle": "Rapidmon (X Antibody)",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT16-101_P2.png?260210"
+}

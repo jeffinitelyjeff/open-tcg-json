@@ -1,0 +1,70 @@
+{
+  "Attribute": "System",
+  "Card Q&A": [
+    {
+      "a": [
+        "App Fusion is possible with the following combinations.",
+        "●[Hackmon] with [Protecmon] link card",
+        "●[Hackmon] with [Pipomon] link card",
+        "●[Protecmon] with [Hackmon] link card",
+        "●[Protecmon] with [Pipomon] link card",
+        "●[Pipomon] with [Hackmon] link card",
+        "●[Pipomon] with [Protecmon] link card"
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5647",
+      "q": "This card has 3 different cards in its App Fusion requirements. What combinations are possible for App Fusion?"
+    },
+    {
+      "a": [
+        "No, you can't activate it.",
+        "If a Digimon is deleted and an [On Deletion] link effect is triggered, it will only be pending activation for the Digimon card with that link card. If a card with an effect that's pending activation leaves that area before the effect activates, the effect can no longer be activated.",
+        "In this case, if this card and the linked Digimon are deleted and an [On Deletion] link effect is triggered, the effect will only be pending activation for the linked Digimon card.",
+        "If the deleted Digimon card with the effect that's pending activation leaves the trash, the [On Deletion] link effect that was pending activation can no longer be activated.",
+        "Related Cards"
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5648",
+      "q": "This card is linked to my Digimon. If I use BT7-107 [Calling From the Darkness]'s [Main] effect to delete that Digimon and return the deleted Digimon card to the hand, can I then activate this card's link effect?"
+    }
+  ],
+  "Color": [
+    "Purple",
+    "Red"
+  ],
+  "Cost": "6",
+  "DP": "6000",
+  "Digivolve Cost 1": [
+    "Purple",
+    "Red",
+    "3 from Lv.3"
+  ],
+  "Digivolve Cost 2": [
+    "Multicolor",
+    "3 from Stnd."
+  ],
+  "Effect": [
+    "[On Play] [When Digivolving] 1 of your Digimon with the [System], [Life] or [Transmutation] trait gains ＜Security A. +1＞ for the turn.",
+    "[On Deletion] You may play 1 level 3 Digimon card with the [Appmon] trait from your trash without paying the cost."
+  ],
+  "Form": "Sup./Appmon",
+  "Link Condition": "＜Link＞ [Appmon] trait: Cost 2 (Plug this card from the hand or battle area sideways into the specified Digimon in the battle area.)",
+  "Link DP": "DP+3000",
+  "Link Effect": "[On Deletion] You may play 1 level 3 [Appmon] trait Digimon card from your trash without paying the cost.",
+  "Notes": [
+    "Booster TIME STRANGER [BT-24]",
+    "?search=true&category=522033",
+    "/products/pack/ver24"
+  ],
+  "Special Digivolution Condition": [
+    "[App Fusion] [Hackmon] & [Protecmon] & [Pipomon]: Cost 0",
+    "If 2 such cards are linked together, stack the link card on top and digivolve."
+  ],
+  "Type": "Super Hacking",
+  "cardLv": "Lv.4",
+  "cardNo": "BT24-071",
+  "cardRarity": "R",
+  "cardTitle": "Raidramon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT24-071.png?260210"
+}

@@ -1,0 +1,91 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": [
+        "Yes, all of those Digimon are prevented from leaving.",
+        "This card's [All Turns] effect affects all Digimon without having to choose them."
+      ],
+      "date": "Sep. 20, 2024",
+      "num": "Q3098",
+      "q": "If I activate this card's [All Turns] effect when multiples of my other Digimon with the [Royal Base] trait would leave the battle area at the same time by effects, are all of those Digimon prevented from leaving?"
+    },
+    {
+      "a": [
+        "BT19-053 [QueenBeemon]'s [All Turns] effect places all of your Digimon with the [Royal Base] trait into your security stack.",
+        "In such cases, this card's [All Turns] effect prevents all of your Digimon with the [Royal Base] trait from being deleted, but if BT19-053 [QueenBeemon]'s [All Turns] effect activates afterward, you can place all of your [Royal Base] trait Digimon that were affected by the deletion effect into your security stack.",
+        "Related Cards"
+      ],
+      "date": "Sep. 20, 2024",
+      "num": "Q3099",
+      "q": [
+        "I have this card, BT19-053 [QueenBeemon], and another Digimon with the [Royal Base] trait in my battle area.",
+        "My opponent uses BT5-110 [All Delete] and I activate this card's [All Turns] effect when multiples of my other Digimon would leave the battle area at the same time, and all of my other Digimon with the [Royal Base] trait are prevented from leaving. What happens if BT19-053 [QueenBeemon]'s [All Turns] effect activates afterward?"
+      ]
+    },
+    {
+      "a": [
+        "They become face-up security cards that remain revealed.",
+        "Other than rules that specify face-up security cards, the rules apply in the same manner as standard security cards."
+      ],
+      "date": "Nov. 22, 2024",
+      "num": "Q3100",
+      "q": "What happens to cards placed face up in the security stack by effects?"
+    },
+    {
+      "a": [
+        "The check is performed with the card left revealed.",
+        "Other than rules for cards left revealed, the rules apply in the same manner as standard security checks."
+      ],
+      "date": "Nov. 22, 2024",
+      "num": "Q3101",
+      "q": "What happens upon a security check for a security card that is placed face-up?"
+    },
+    {
+      "a": "Yes, it triggers.",
+      "date": "Nov. 22, 2024",
+      "num": "Q3102",
+      "q": "Does a card's [Security] effect trigger upon a security check with that card placed face-up?"
+    },
+    {
+      "a": [
+        "Any face-up cards are placed face down, then you shuffle the cards.",
+        "After shuffling, all cards are left face-down."
+      ],
+      "date": "Nov. 22, 2024",
+      "num": "Q3103",
+      "q": "What happens if I shuffle a security stack that includes security cards placed face-up?"
+    }
+  ],
+  "Color": [
+    "Green",
+    "Black"
+  ],
+  "Cost": "4",
+  "DP": "4000",
+  "Digivolve Cost 1": [
+    "Green",
+    "Black",
+    "3 from Lv.3"
+  ],
+  "Effect": [
+    "{Security} [All Turns] All of your [Royal Base] trait Digimon get +1000 DP.",
+    "[All Turns] When any of your other Digimon with the [Royal Base] trait would leave the battle area by effects, by placing this Digimon face up as the bottom security card, they don't leave.",
+    "(Rule) Trait: Has [Insectoid] Type."
+  ],
+  "Form": "Champion",
+  "Inherited Effect": "[All Turns] This Digimon gets +1000 DP.",
+  "Notes": [
+    "SPECIAL BOOSTER Ver.2.0 [BT18-19]",
+    "?search=true&category=522025",
+    "/products/pack/ver18-19"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.3 w/[Royal Base] trait: Cost 2",
+  "Type": "Cyborg/X Antibody/Royal Base/LIBERATOR",
+  "cardLv": "Lv.4",
+  "cardNo": "BT19-048",
+  "cardRarity": "C",
+  "cardTitle": "ForgeBeemon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT19-048.png?260210"
+}

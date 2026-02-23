@@ -1,0 +1,63 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "No. If there's a valid target, you must choose it when you activate the effect. You can't choose to not activate the effect when there is a valid target.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2710",
+      "q": "When my opponent has a Digimon with 3000 DP or less, can I activate this card's effect and gain 1 memory but choose not to delete my opponent’s Digimon?"
+    },
+    {
+      "a": "Yes. You can choose your opponent's Digimon with 3000 DP or less as a target, even if the chosen Digimon has an effect that prevents it from being deleted, in order to get the “if this effect didn't delete” part of the effect.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2711",
+      "q": "My opponent has a Digimon with 3000 DP or less and an effect that reads, “This Digimon can't be deleted by your opponent’s effects,” and another Digimon with 3000 DP or less but no effect. Can I intentionally have this card’s effect target the Digimon with the effect preventing deletion and gain 1 memory?"
+    },
+    {
+      "a": "This inherited effect's condition is fulfilled if the memory is at 0 through 10 on your opponent's side when a DP-based deletion effect activates on a Digimon with this card in its digivolution cards.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2712",
+      "q": "What does \"while you have 0 or less memory\" in this card’s inherited effect mean, exactly?"
+    },
+    {
+      "a": [
+        "Such effects increase the maximum value shown for DP-based deletion effects.",
+        "For example, while \"[Your Turn] Add 1000 to the maximum your DP-based deletion effects can delete\" is activated, \"[When Digivolving] Delete 1 of your opponent's Digimon with 3000 DP or less\" will allow you to delete an opponent's Digimon with 4000 DP or less."
+      ],
+      "date": "May. 24, 2024",
+      "num": "Q2713",
+      "q": "What does an \"add X000 to the maximum your DP-based deletion effects can delete\" effect do?"
+    },
+    {
+      "a": [
+        "No, it can't be increased.",
+        "You can't increase the maximum of a DP-based deletion effect that doesn't show a numerical value."
+      ],
+      "date": "May. 24, 2024",
+      "num": "Q2714",
+      "q": "If \"add X000 to the maximum your DP-based deletion effects can delete\" is activating, can the maximum be increased for an effect such as \"delete 1 of your opponent's Digimon with DP less than or equal to this Digimon's DP\" that references a Digimon's DP for deletion?"
+    }
+  ],
+  "Color": "Red",
+  "Cost": "3",
+  "DP": "1000",
+  "Digivolve Cost 1": [
+    "Red",
+    "0 from Lv.2"
+  ],
+  "Effect": "[Your Turn] [Once Per Turn] When one of your [Calumon] or Tamers with [Takato Matsuki] in their name is played, delete 1 of your opponent's Digimon with 3000 DP or less. If this effect didn't delete, gain 1 memory.",
+  "Form": "Rookie",
+  "Inherited Effect": "[All Turns] While you have 0 or less memory, add 2000 to this Digimon's DP-based deletion effects' maximums.",
+  "Notes": [
+    "Booster SECRET CRISIS [BT17]",
+    "?search=true&category=522023",
+    "/products/pack/ver17"
+  ],
+  "Type": "Reptile",
+  "cardLv": "Lv.3",
+  "cardNo": "BT17-008",
+  "cardRarity": "U",
+  "cardTitle": "Guilmon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT17-008.png?260210"
+}

@@ -1,0 +1,50 @@
+{
+  "Card Q&A": [
+    {
+      "a": "Yes, you can.",
+      "date": "Jul. 4, 2025",
+      "num": "Q4961",
+      "q": "When a card with a [Main] inherited effect digivolves into a card with the [Flame] or [CS] trait, can I activate this card's [Your Turn] effect and activate that [Main] effect?"
+    },
+    {
+      "a": [
+        "After all of BT22-010 [Meramon]'s [Main] effect has resolved, then you process the part of the effect after \"if this activated any effect.\"",
+        "If you use BT22-010 [Meramon]'s effect to attack, you gain 1 memory after the attack declaration.",
+        "Related Cards"
+      ],
+      "date": "Jul. 4, 2025",
+      "num": "Q4962",
+      "q": "If I use this card's [Your Turn] effect to activate BT22-010 [Meramon]'s [Main] effect, when do I process the part of the effect after \"if this activated any effect\"?"
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "If a [Once Per Turn] effect activates, it can't activate again during the same turn."
+      ],
+      "date": "Jul. 4, 2025",
+      "num": "Q4963",
+      "q": [
+        "I used this card's [Your Turn] effect to activate a [Main] [Once Per Turn] effect.",
+        "Can I activate that [Main] [Once Per Turn] effect again during the same turn?"
+      ]
+    }
+  ],
+  "Color": "Purple",
+  "Cost": "4",
+  "Effect": [
+    "[Start of Your Turn] If you have 2 or less memory, set it to 3.",
+    "[Your Turn] When your Digimon are played or digivolve, if any of them have the [Flame] or [CS] trait, by suspending this Tamer, activate 1 of those Digimon's [Main] effects. If this activated any effect, gain 1 memory."
+  ],
+  "Notes": [
+    "Booster CYBER EDEN [BT-22]",
+    "?search=true&category=522030",
+    "/products/pack/ver22"
+  ],
+  "Security Effect": "[Security] Play this card without paying the cost.",
+  "Type": "CS",
+  "cardNo": "BT22-092",
+  "cardRarity": "U",
+  "cardTitle": "Jimmy KEN",
+  "cardType": "Tamer",
+  "imgSrc": "../images/cardlist/card/BT22-092.png?260210"
+}

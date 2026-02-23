@@ -1,0 +1,48 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "Yes, it can.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2307",
+      "q": "Can this card's inherited effect delete an opponent's [Sukamon] to prevent itself from being deleted?"
+    },
+    {
+      "a": [
+        "No, it can't be activated.",
+        "Until the processing for the 1st activation has resolved, only 1 activation is possible for each immediate-type effect.",
+        "In your case, until the deletion of the 1st only [Sukamon] A is resolved, only 1 activation is possible for each \"when [...] would\" effect, therefore the effect that has already activated for [Sukamon] A can't be activated again."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q2308",
+      "q": [
+        "I have [Sukamon] A and [Sukamon] B with this card in their digivolution cards in the battle area.",
+        "When [Sukamon] A would be deleted, I attempted to delete [Sukamon] B using this card's inherited effect.",
+        "On the other hand, when [Sukamon] B would be deleted, I attempted to delete [Sukamon] A using this card's inherited effect.",
+        "At such times, can [Sukamon] A activate this card's inherited effect again?"
+      ]
+    }
+  ],
+  "Color": "Black",
+  "Cost": "3",
+  "DP": "2000",
+  "Digivolve Cost 1": [
+    "Black",
+    "2 from Lv.3"
+  ],
+  "Effect": "[On Deletion] ＜De-Digivolve 1＞ 1 of your opponent's Digimon. (Trash 1 card from the top of 1 of your opponent's Digimon. Stop trashing when you would trash a level 3 card or the Digimon's last card.)",
+  "Form": "Champion",
+  "Inherited Effect": "[All Turns] When this Digimon would be deleted, by deleting 1 other Digimon with [Sukamon] in its name, prevent that deletion.",
+  "Notes": [
+    "Booster VERSUS ROYAL KNIGHTS [BT13]",
+    "?search=true&category=522016",
+    "/products/pack/ver13.php"
+  ],
+  "Type": "Mutant",
+  "cardLv": "Lv.4",
+  "cardNo": "BT13-065",
+  "cardRarity": "C",
+  "cardTitle": "PlatinumSukamon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT13-065.png?260210"
+}

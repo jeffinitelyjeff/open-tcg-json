@@ -1,0 +1,55 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": "Yes, it is not deleted.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3991",
+      "q": "Does this card's [When Attacking] effect prevent deletion in battles against Security Digimon?"
+    },
+    {
+      "a": [
+        "No. Deletion by",
+        "is deletion by an effect, not deletion in battle."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q3992",
+      "q": [
+        "Does this card's [When Attacking] effect prevent deletion even when my opponent's deleted Digimon has",
+        "?"
+      ]
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "Upon the attack declaration, the inherited effects on the 2 copies of this card simultaneously trigger, then the player determines the activation order. However, because your hand increases to 8 cards from",
+        "on the 1st card, the effect's conditions aren't met for the 2nd card, so the effect doesn't activate. As a result, you only draw 1 card."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q3993",
+      "q": "If I have 7 cards in my hand upon an attack by my Digimon with 2 of this card in its digivolution cards, can I draw a total of 2 cards from both instances of this card's effect?"
+    }
+  ],
+  "Color": "Blue",
+  "Cost": "4",
+  "DP": "4000",
+  "Digivolve Cost 1": [
+    "Blue",
+    "2 from Lv.3"
+  ],
+  "Effect": "[When Attacking] By trashing 1 blue card in your hand, this Digimon can't be deleted in battle for the turn.",
+  "Form": "Champion",
+  "Inherited Effect": "[When Attacking] If you have 7 or fewer cards in your hand, ＜Draw 1＞.",
+  "Notes": [
+    "LIMITED PACK DIGIMON GHOST GAME [LM01]",
+    "?search=true&category=522020",
+    "/products/pack/ver15"
+  ],
+  "Type": "Mollusk",
+  "cardLv": "Lv.4",
+  "cardNo": "LM-003",
+  "cardRarity": "U",
+  "cardTitle": "TeslaJellymon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/LM-003.png?260210"
+}

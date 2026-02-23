@@ -1,0 +1,54 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "Yes. Both the card you add to hand and the card you trash must have [Undead] or [Dark Animal] in their traits.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1862",
+      "q": "This card’s [On Play] effect reveals cards from the top of my deck. Can I only trash a card that has [Undead] or [Dark Animal] in its traits?"
+    },
+    {
+      "a": [
+        "No. For this card's effect you reveal cards, add 1 card with [Undead] or [Dark Animal] in its traits among them to your hand, then trash 1 card with [Undead] or [Dark Animal] in its traits among them.",
+        "Therefore, if there is only 1 card with [Undead] or [Dark Animal] in its traits among the revealed cards, it's first added to the hand, so you can't trash it."
+      ],
+      "date": "Feb. 6, 2026",
+      "num": "Q1863",
+      "q": "This card’s [On Play] effect reveals cards from the top of my deck. If only 1 card has [Undead] or [Dark Animal] in its traits, can I choose whether to add it to my hand or trash it?"
+    },
+    {
+      "a": "No. This effect can’t ignore digivolution requirements. When activating this effect, you can only digivolve into a card with [Undead] or [Dark Animal] in its traits if it also meets the digivolution requirements.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1864",
+      "q": "If I have cards in my trash with [Undead] or [Dark Animal] in their traits, does this card's inherited effect let me digivolve any card into any of them, regardless of digivolution requirements?"
+    },
+    {
+      "a": "No. The [When Attacking] effect wasn't present when you declared the attack, so it doesn't activate.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1865",
+      "q": "I activate this card’s inherited effect to digivolve into a card with a [When Attacking] effect. Does that effect activate immediately?"
+    }
+  ],
+  "Color": "Purple",
+  "Cost": "3",
+  "DP": "1000",
+  "Digivolve Cost 1": [
+    "Purple",
+    "0 from Lv.2"
+  ],
+  "Effect": "[On Play] Reveal the top 3 cards of your deck. Among them, add 1 card with [Undead] or [Dark Animal] in one of its traits to the hand and trash 1 such card. Return the rest to the bottom of the deck.",
+  "Form": "Rookie",
+  "Inherited Effect": "[When Attacking] This Digimon may digivolve into a Digimon card with [Undead] or [Dark Animal] in its traits from your trash for its digivolution cost.",
+  "Notes": [
+    "Booster X RECORD [BT09]",
+    "?search=true&category=522010",
+    "/products/pack/ver9.php"
+  ],
+  "Type": "Undead",
+  "cardLv": "Lv.3",
+  "cardNo": "BT9-071",
+  "cardRarity": "U",
+  "cardTitle": "Dracmon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT9-071.png?260210"
+}

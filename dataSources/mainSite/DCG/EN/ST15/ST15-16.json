@@ -1,0 +1,45 @@
+{
+  "Card Q&A": [
+    {
+      "a": [
+        "Yes, you can.",
+        "However, in such cases, the attack isn't performed due to the \"this Digimon can't attack\" effect."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q818",
+      "q": "Can I choose an opponent's Digimon with a \"this Digimon can't attack\" effect as the target for \"[Start of Your Main Phase] Attack with this Digimon\" when I activate this card's [Main] effect?"
+    },
+    {
+      "a": [
+        "At the start of your opponent's main phase, the effects gained from this card's effect are triggered at the same time, and your opponent determines which one activates first. After effects such as [When Attacking] have activated, and before the counter timing occurs, it is time to activate the effect of the 2nd Digimon that was pending activation. However, since the 1st Digimon is already attacking, the effect ends without an attack made.",
+        "As a result, only the Digimon whose effect was activated first can attack."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q819",
+      "q": "What happens if I use this card twice and 2 of my opponent's Digimon gain the \"[Start of Your Main Phase] Attack with this Digimon\" effect?"
+    },
+    {
+      "a": [
+        "Yes, you can.",
+        "In such cases, as soon as it becomes your opponent's turn, the target opposing Digimon loses the \"this Digimon isn't affected by your opponent’s effects\" effect, and the attack occurs at the start of the main phase by this card's effect."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q820",
+      "q": "Can I choose an opponent's Digimon with an \"[Opponent’s Turn] This Digimon isn't affected by your opponent’s effects\" effect as the target for \"[Start of Your Main Phase] Attack with this Digimon\" when I activate this card's [Main] effect?"
+    }
+  ],
+  "Color": "Black",
+  "Cost": "6",
+  "Effect": "[Main] ＜De-Digivolve 3＞ 1 of your opponent's Digimon. Then, until the end of your opponent's turn, 1 of your opponent's Digimon gains \"[Start of Your Main Phase] This Digimon attacks.\"",
+  "Notes": [
+    "Starter Deck DRAGON OF COURAGE [ST15]",
+    "?search=true&category=522115",
+    "/products/deck/st-15.php"
+  ],
+  "Security Effect": "[Security] ＜De-Digivolve 3＞ 1 of your opponent's Digimon. (Trash up to 3 cards from the top. You can't trash past level 3 cards.)",
+  "cardNo": "ST15-16",
+  "cardRarity": "C",
+  "cardTitle": "Trident Arm",
+  "cardType": "Option",
+  "imgSrc": "../images/cardlist/card/ST15-16.png?260210"
+}

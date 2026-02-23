@@ -1,0 +1,69 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": [
+        "Yes, you can.",
+        "In such cases, you add as many cards to your hand as possible."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2529",
+      "q": "Can I use this card's [On Play] effect to add a card to my hand when only 1 level 6 or higher card is among the revealed cards?"
+    },
+    {
+      "a": "No, the effect doesn’t activate for Digimon in breeding areas.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2530",
+      "q": "Do [On Play] effects activate for Digimon played into the breeding area by this card's [End of Your Turn] effect?"
+    },
+    {
+      "a": "No, Digimon in breeding areas aren't referenced by effects, so they don't trigger.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2531",
+      "q": "Do \"when a Digimon is played\" effects trigger for Digimon played into the breeding area by this card's [End of Your Turn] effect?"
+    },
+    {
+      "a": "No. It can't attack because the \"Digimon can't attack the turn they came into play\" rule still applies to Digimon played into the breeding area.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2532",
+      "q": [
+        "I used this card's [End of Your Turn] effect to play a Digimon into the breeding area, and another effect moved the memory to 0 or more, and my turn continued.",
+        "If the Digimon that was played into the breeding area is then moved to the battle area by an effect, can that Digimon attack?"
+      ]
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "A \"can't be played by effects\" effect affects a player when it activates, therefore the act of playing a Digimon itself won't be possible, whether in the breeding area or the battle area."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2533",
+      "q": "Can I use this card's [End of Your Turn] effect to play a Digimon into the breeding area when it's affected by a \"Digimon can't be played by effects\" effect?"
+    }
+  ],
+  "Color": "Green",
+  "Cost": "6",
+  "DP": "6000",
+  "Digivolve Cost 1": [
+    "Green",
+    "3 from Lv.4"
+  ],
+  "Effect": [
+    "[On Play] Reveal the top 4 cards of your deck. Add 2 level 6 or higher cards among them to the hand. Return the rest to the bottom of the deck.",
+    "[End of Your Turn] By deleting 1 of your Digimon, you may play 1 Digimon card with the [Dark Masters] trait from your hand to an empty space in your breeding area without paying the cost."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon, it performs any security checks it normally would.)",
+  "Notes": [
+    "Booster EXCEED APOCALYPSE [BT15]",
+    "?search=true&category=522020",
+    "/products/pack/ver15"
+  ],
+  "Type": "Vegetation",
+  "cardLv": "Lv.5",
+  "cardNo": "BT15-050",
+  "cardRarity": "C",
+  "cardTitle": "Cherrymon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT15-050.png?260210"
+}

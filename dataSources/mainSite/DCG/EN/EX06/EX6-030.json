@@ -1,0 +1,53 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "Yes, it activates.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3748",
+      "q": "If I don't play a Digimon card, can the part after \"then\" in this card's [When Digivolving] effect activate?"
+    },
+    {
+      "a": "\"When [...] would leave the battle area other than by battle\" refers to when that Digimon is placed in the trash other than as a result of a battle, returned to the hand/deck, placed in the security stack, moved to the breeding area, or placed under another card.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3749",
+      "q": "What does this card's \"when [...] would leave the battle area other than by [...] a battle\" mean, exactly?"
+    },
+    {
+      "a": [
+        "Yes, all of those Digimon are prevented from leaving.",
+        "This card's [All Turns] effect affects all Digimon without having to choose them.",
+        "In such cases, the effect triggers once when multiples of your Digimon with the [Angel], [Archangel], or [Three Great Angels] trait would leave the battle area at the same time other than by one of your effects or a battle, and by trashing the top card of your security stack, all of those Digimon are prevented from leaving."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q3750",
+      "q": "If I activate this card's [All Turns] effect when multiples of my Digimon with the [Angel], [Archangel], or [Three Great Angels] trait would leave the battle area at the same time other than by one of my effects or a battle, are all of those Digimon prevented from leaving?"
+    }
+  ],
+  "Color": "Yellow",
+  "Cost": "12",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "[When Digivolving] Search your security stack. You may play 1 level 5 or lower [Angel] or [Archangel] trait Digimon card among it without paying the cost. Then, shuffle it, and 1 of your opponent's Digimon gets -7000 DP for the turn.",
+    "[All Turns] When one of your Digimon with the [Angel], [Archangel] or [Three Great Angels] trait would leave the battle area other than by one of your effects or a battle, by trashing the top card of your security stack, prevent them from leaving.",
+    "(Rule) Trait: Has [Angel] Type."
+  ],
+  "Form": "Mega",
+  "Inherited Effect": "-",
+  "Notes": [
+    "Theme Booster INFERNAL ASCENSION [EX06]",
+    "?search=true&category=522022",
+    "/products/pack/ex-06"
+  ],
+  "Type": "Dominion",
+  "cardLv": "Lv.6",
+  "cardNo": "EX6-030",
+  "cardRarity": "SR",
+  "cardTitle": "Dominimon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX6-030.png?260210"
+}

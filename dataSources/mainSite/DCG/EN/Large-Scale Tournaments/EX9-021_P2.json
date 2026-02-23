@@ -1,0 +1,124 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": [
+        "Yes, you can process it.",
+        "Even if this Digimon didn't DNA digivolve, this card's [When Digivolving] effect deletes all of your opponent's Digimon with the highest level."
+      ],
+      "date": "Jun. 13, 2025",
+      "num": "Q4764",
+      "q": "Can I process the part of the effect after \"then\" in this card's [When Digivolving] effect even if the \"if\" condition in the 1st process isn't met?"
+    },
+    {
+      "a": [
+        "The following combinations are possible.",
+        "●1 card with [Greymon] in its name and 1 card with [Garurumon] in its name",
+        "●1 card with [Greymon] in its name and 1 card with the [Ver.2] trait",
+        "●1 card with the [Ver.1] trait and 1 card with [Garurumon] in its name",
+        "●1 card with the [Ver.1] trait and 1 card with the [Ver.2] trait"
+      ],
+      "date": "Jun. 13, 2025",
+      "num": "Q4765",
+      "q": "What combinations of digivolution cards can be played by this card's [End of Attack] effect?"
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "If this card's [End of Attack] effect activates, you must play the specified cards whenever possible."
+      ],
+      "date": "Jun. 13, 2025",
+      "num": "Q4766",
+      "q": "At the end of an attack by this card that has 1 card with [Greymon] in its name and 1 card with [Garurumon] in its name in its digivolution cards, can I activate this card's [End of Attack] effect and play just the card with [Greymon] in its name from this Digimon's digivolution cards?"
+    },
+    {
+      "a": "Yes, just that card can be played.",
+      "date": "Jun. 13, 2025",
+      "num": "Q4767",
+      "q": "At the end of an attack by this card that has just 1 card with [Greymon] in its name in its digivolution cards, can I activate this card's [End of Attack] effect and play just the card with [Greymon] in its name from this Digimon's digivolution cards?"
+    },
+    {
+      "a": [
+        "This effect prevents Digimon from being affected by effects.",
+        "For example, your Digimon won't suspend if it's chosen for a \"suspend 1 of your opponent's Digimon\" effect, and its DP won't be reduced by 3000 if it's chosen for a \"1 of your opponent's Digimon gets -3000 DP.\""
+      ],
+      "date": "Jun. 13, 2025",
+      "num": "Q4768",
+      "q": "What does \"none of your [...] Digimon are affected by your opponent's Digimon's effects\" mean, exactly?"
+    },
+    {
+      "a": [
+        "Yes, it can be chosen.",
+        "For example, a Digimon that isn't affected by effects can be chosen for a \"suspend 1 of your opponent's Digimon\" effect."
+      ],
+      "date": "Jun. 13, 2025",
+      "num": "Q4769",
+      "q": "Can a card that has an \"isn't affected by [...] effects\" effect be chosen for an effect?"
+    },
+    {
+      "a": [
+        "Yes, it can.",
+        "It won't be affected by it, but it can be given an effect.",
+        "However, if an effect such as",
+        "is given to a Digimon that isn't affected by effects, the Digimon won't be considered to have that effect."
+      ],
+      "date": "Jun. 13, 2025",
+      "num": "Q4770",
+      "q": "Can a card that has an \"isn't affected by [...] effects\" effect be given an effect?"
+    },
+    {
+      "a": "As soon as it gains the \"isn't affected by [...] effects\" effect, it will no longer be affected.",
+      "date": "Jun. 13, 2025",
+      "num": "Q4771",
+      "q": "If a card is affected by an effect, then it later gains an \"isn't affected by [...] effects\" effect, what happens to the effect that was affecting it?"
+    },
+    {
+      "a": "It will be affected by the effect as soon as it can be affected by effects.",
+      "date": "Jun. 13, 2025",
+      "num": "Q4772",
+      "q": "If a card has an \"isn't affected by [...] effects\" effect, it gains an effect, then it later loses the \"isn't affected by [...] effects\" effect, what happens to the effect that it gained?"
+    },
+    {
+      "a": "If the Digimon isn't affected by effects upon the trigger timing, the effect won't trigger.",
+      "date": "Jun. 13, 2025",
+      "num": "Q4773",
+      "q": [
+        "A card that has an \"isn't affected by [...] effects\" effect was given an effect that triggers at a timing such as [When Attacking].",
+        "Will the effect trigger if that card later meets the trigger conditions?"
+      ]
+    }
+  ],
+  "Color": [
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "Cost": "15",
+  "DP": "15000",
+  "Digivolve Cost 1": [
+    "Blue",
+    "Red",
+    "5 from Lv.6"
+  ],
+  "Effect": [
+    "[When Digivolving] If DNA digivolving, your opponent's effects don't affect this Digimon for the turn. Then, delete all of their Digimon with the highest level.",
+    "[End of Attack] You may play 1 card with [Greymon] in its name or the [Ver.1] trait and 1 card with [Garurumon] in its name or the [Ver.2] trait from this Digimon's digivolution cards without paying the costs. If this effect played, place this Digimon as your top security card."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Event Pack 9",
+    "?search=true&category=522902"
+  ],
+  "Special Digivolution Condition": [
+    "[Digivolve] Lv.6 w/[DM] trait: Cost 5",
+    "[DNA Digivolve] Blue Lv.6 + red Lv.6: Cost 0"
+  ],
+  "Type": "Holy Warrior/DM/Ver.1/Ver.2",
+  "cardLv": "Lv.7",
+  "cardNo": "EX9-021",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "Omnimon Alter-S",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX9-021_P2.png?260210"
+}

@@ -1,0 +1,74 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "\"When [...] would leave the battle area\" refers to when this Digimon is placed in the trash, returned to the hand/deck, placed in the security stack, moved to the breeding area, or placed under another card.",
+      "date": "Mar. 28, 2024",
+      "num": "Q4029",
+      "q": "What does this card's \"when [...] would leave the battle area\" mean, exactly?"
+    },
+    {
+      "a": [
+        "No, it doesn't.",
+        "applies when a card from the battle area or from under a card is placed into another area. In this case, it doesn't apply because a card from the battle area is placed under another card."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q4030",
+      "q": [
+        "Does",
+        "apply when I use this card's [All Turns] effect to place this card in the digivolution cards of the played [Guilmon]?"
+      ]
+    },
+    {
+      "a": [
+        "Such effects increase the maximum value shown for DP-based deletion effects.",
+        "For example, while \"[Your Turn] Add 1000 to the maximum your DP-based deletion effects can delete\" is activated, \"[When Digivolving] Delete 1 of your opponent's Digimon with 3000 DP or less\" will allow you to delete an opponent's Digimon with 4000 DP or less."
+      ],
+      "date": "May. 24, 2024",
+      "num": "Q4031",
+      "q": "What does an \"add X000 to the maximum your DP-based deletion effects can delete\" effect do?"
+    },
+    {
+      "a": [
+        "No, it can't be increased.",
+        "You can't increase the maximum of a DP-based deletion effect that doesn't show a numerical value."
+      ],
+      "date": "May. 24, 2024",
+      "num": "Q4032",
+      "q": "If \"add X000 to the maximum your DP-based deletion effects can delete\" is activating, can the maximum be increased for an effect such as \"delete 1 of your opponent's Digimon with DP less than or equal to this Digimon's DP\" that references a Digimon's DP for deletion?"
+    }
+  ],
+  "Color": [
+    "Purple",
+    "Red"
+  ],
+  "Cost": "7",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Purple",
+    "Red",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "[Hand] [Counter] ＜Blast Digivolve＞ (Your Digimon may digivolve into this card without paying the cost.)",
+    "[On Play] [When Digivolving] Delete 1 of your opponent's 11000 DP or lower Digimon.",
+    "[All Turns] When this Digimon would leave the battle area, play 1 [Guilmon] from its digivolution cards or your trash without paying the cost. If this effect played, place this Digimon as the played Digimon's bottom digivolution card.",
+    "(Rule) Name: Also treated as [ChaosGallantmon]."
+  ],
+  "Form": "Mega",
+  "Inherited Effect": "[All Turns] Add 5000 to this Digimon's DP deletion effects' maximums.",
+  "Notes": [
+    "SPECIAL LIMITED SET",
+    "?search=true&category=522201",
+    "/products/goods/special-limited-set.php"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.5 w/[Growlmon] in name: Cost 3",
+  "Special Rule": "＜Overflow (-4)＞ (As this card moves from the field or under a card to an area other than those, lose 4 memory.)",
+  "Type": "Evil Dragon/Four Great Dragons",
+  "cardLv": "Lv.6",
+  "cardNo": "LM-026",
+  "cardRarity": "P",
+  "cardTitle": "Megidramon ACE",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/LM-026.png?260210"
+}

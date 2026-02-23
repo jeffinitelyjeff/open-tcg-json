@@ -1,0 +1,37 @@
+{
+  "Card Q&A": [
+    {
+      "a": [
+        "Such effects increase the maximum value shown for DP-based deletion effects.",
+        "For example, while \"[Your Turn] Add 1000 to the maximum your DP-based deletion effects can delete\" is activated, \"[When Digivolving] Delete 1 of your opponent's Digimon with 3000 DP or less\" will allow you to delete an opponent's Digimon with 4000 DP or less."
+      ],
+      "date": "May. 24, 2024",
+      "num": "Q2144",
+      "q": "What does an \"add X000 to the maximum your DP-based deletion effects can delete\" effect do?"
+    },
+    {
+      "a": [
+        "No, it can't be increased.",
+        "You can't increase the maximum of a DP-based deletion effect that doesn't show a numerical value."
+      ],
+      "date": "May. 24, 2024",
+      "num": "Q2145",
+      "q": "If \"add X000 to the maximum your DP-based deletion effects can delete\" is activating, can the maximum be increased for an effect such as \"delete 1 of your opponent's Digimon with DP less than or equal to this Digimon's DP\" that references a Digimon's DP for deletion?"
+    }
+  ],
+  "Color": "Red",
+  "Form": "In-Training",
+  "Inherited Effect": "[Your Turn] Add 1000 to the maximum your DP-based deletion effects can delete.",
+  "Notes": [
+    "Booster ACROSS TIME [BT12]",
+    "?search=true&category=522014",
+    "/products/pack/ver12.php"
+  ],
+  "Type": "Lesser",
+  "cardLv": "Lv.2",
+  "cardNo": "BT12-001",
+  "cardRarity": "U",
+  "cardTitle": "Gigimon",
+  "cardType": "Digi-Egg",
+  "imgSrc": "../images/cardlist/card/BT12-001.png?260210"
+}

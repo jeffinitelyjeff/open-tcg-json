@@ -1,0 +1,51 @@
+{
+  "Card Q&A": [
+    {
+      "a": "You place it at the bottom of the cards.",
+      "date": "Nov. 21, 2025",
+      "num": "Q5427",
+      "q": "If an effect places a card under this card while it already has one or more cards under it, in what order do I place the cards?"
+    },
+    {
+      "a": "6 cost or less. The level of the attacking Digimon is referenced during the timing when this card's [Your Turn] effect activates.",
+      "date": "Nov. 21, 2025",
+      "num": "Q5428",
+      "q": [
+        "A level 5 [Taomon] attacks, and this card's [Your Turn] effect triggers.",
+        "At such times, if another effect digivolves the attacking Digimon into a level 6 [Sakuyamon], what is the cost of the Option card that can be activated using this card's [Your Turn] effect?"
+      ]
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Nov. 21, 2025",
+      "num": "Q5429",
+      "q": [
+        "My Digimon with [Renamon], [Kyubimon], or [Sakuyamon] in its name attacks, and this card's [Your Turn] effect triggers.",
+        "If another effect then digivolves the attacking Digimon and it no longer has [Renamon], [Kyubimon], or [Sakuyamon] in its name, can I still activate this effect?"
+      ]
+    },
+    {
+      "a": "As with the standard rules, a used Option card is temporarily treated as not being in any area. After using it and activating the Option card's [Main] effect, the card is trashed unless it's to be placed in an area.",
+      "date": "Nov. 21, 2025",
+      "num": "Q5430",
+      "q": "If I use this card's [Your Turn] effect to use an Option card from under this card, what happens to that Option card?"
+    }
+  ],
+  "Color": "Yellow",
+  "Cost": "4",
+  "Effect": [
+    "[Start of Your Main Phase] [On Play] By placing 1 Option card with the [Onmyōjutsu] or [Plug-In] trait from your hand under this Tamer, ＜Draw 1＞ and gain 1 memory.",
+    "[Your Turn] When one of your Digimon with [Renamon], [Kyubimon], [Taomon] or [Sakuyamon] in its name attacks, by suspending this Tamer, you may use 1 [Onmyōjutsu] or [Plug-In] trait Option card with as high or lower a use cost as that Digimon's level from under this Tamer without paying the cost."
+  ],
+  "Notes": [
+    "Advanced Deck AMETHYST MANDALA [ST-22]",
+    "?search=true&category=522122",
+    "/products/deck/st-22"
+  ],
+  "Security Effect": "[Security] Play this card without paying the cost.",
+  "cardNo": "ST22-07",
+  "cardRarity": "R",
+  "cardTitle": "Rika Nonaka",
+  "cardType": "Tamer",
+  "imgSrc": "../images/cardlist/card/ST22-07.png?260210"
+}

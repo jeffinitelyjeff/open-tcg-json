@@ -1,0 +1,66 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": [
+        "Yes, [When Digivolving]",
+        "can activate so long as the opponent somehow has 1 or more memory at the time."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q775",
+      "q": [
+        "When I DNA digivolve into this card, is it possible to attack with the",
+        "in the [When Digivolving] effect?"
+      ]
+    },
+    {
+      "a": "Yes, that's correct.",
+      "date": "Mar. 28, 2024",
+      "num": "Q776",
+      "q": "When I DNA digivolve into this card and it has 8 digivolution cards, do I delete 2 of my opponent's Digimon with play costs of 20 or less and trash the top 2 cards of their security stack?"
+    },
+    {
+      "a": [
+        "No, this card's",
+        "and \"for every 4 cards in this Digimon's digivolution cards, delete 1 of your opponent's Digimon with a play cost of 20 or less and trash the top card of your opponent's security stack\" are a single effect, therefore if DNA digivolving, the latter part of the effect will continue to activate after the attack has been declared and won't be interrupted by another effect.",
+        "After the whole effect has finished activating, the [When Attacking] effect will activate."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q777",
+      "q": [
+        "When I DNA digivolve into this card, my opponent has 1 or more memory.",
+        "If there is an inherited [When Attacking] effect when I attack with the",
+        "in the [When Digivolving] effect, do I activate the [When Attacking] effect before this card's \"for every 4 cards in this Digimon's digivolution cards, delete 1 of your opponent's Digimon with a play cost of 20 or less and trash the top card of your opponent's security stack\" effect?"
+      ]
+    }
+  ],
+  "Color": [
+    "Red",
+    "Black"
+  ],
+  "Cost": "15",
+  "DP": "15000",
+  "Digivolve Cost 1": [
+    "Red",
+    "Black",
+    "6 from Lv.6"
+  ],
+  "Effect": [
+    "[When Digivolving] ＜Blitz＞ (This Digimon can attack when your opponent has 1 or more memory.) When DNA digivolving, for every 4 cards in this Digimon's digivolution cards, delete 1 of your opponent's Digimon with a play cost of 20 or less and trash the top card of your opponent's security stack.",
+    "[All Turns][Once Per Turn] When a card is removed from a player's security stack, unsuspend this Digimon."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Starter Deck RAGNALOARDMON [ST-13]",
+    "?search=true&category=522113",
+    "/products/deck/st-13.php"
+  ],
+  "Special Digivolution Condition": "[DNA Digivolve] 0 from red Lv.6 + black Lv.6",
+  "Type": "Unique/Legend-Arms",
+  "cardLv": "Lv.7",
+  "cardNo": "ST13-06",
+  "cardRarity": "SR",
+  "cardTitle": "RagnaLoardmon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/ST13-06.png?260210"
+}

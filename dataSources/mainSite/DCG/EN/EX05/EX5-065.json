@@ -1,0 +1,40 @@
+{
+  "Card Q&A": [
+    {
+      "a": [
+        "You place the top card of one of your Digimon in the digivolution cards of that Digimon or another of your Digimon.",
+        "This doesn't include when the top card becomes a digivolution card through digivolution."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q3669",
+      "q": "What does \"when an effect places the top card of one of your Digimon in a Digimon's digivolution cards\" in this card's [Your Turn] effect mean, exactly?"
+    },
+    {
+      "a": [
+        "No, it doesn’t.",
+        "The [On Play] effect will trigger, but it can't activate because the Digimon becomes a digivolution card through DNA digivolution before the effect activates."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q3670",
+      "q": "I used this card's [Start of Opponent's Turn] effect to play and DNA digivolve a Digimon. In such cases, does the played Digimon's [On Play] effect activate?"
+    }
+  ],
+  "Color": "Blue",
+  "Cost": "3",
+  "Effect": [
+    "[Your Turn] When an effect places the top card of one of your Digimon in a Digimon's digivolution cards, by suspending this Tamer, gain 1 memory.",
+    "[Start of Opponent's Turn] By playing 1 card with the same level as one of your [Night Claw] or [Light Fang] trait Digimon from that Digimon's digivolution cards without paying the cost, 2 of your Digimon may DNA digivolve into a Digimon card in your hand. At the end of the turn, return the Digimon played by this effect to the hand."
+  ],
+  "Notes": [
+    "Theme Booster ANIMAL COLOSSEUM [EX05]",
+    "?search=true&category=522019",
+    "/products/pack/ex-05.php"
+  ],
+  "Security Effect": "[Security] Play this card without paying the cost.",
+  "Type": "Night Claw",
+  "cardNo": "EX5-065",
+  "cardRarity": "R",
+  "cardTitle": "Sayo & Koh",
+  "cardType": "Tamer",
+  "imgSrc": "../images/cardlist/card/EX5-065.png?260210"
+}

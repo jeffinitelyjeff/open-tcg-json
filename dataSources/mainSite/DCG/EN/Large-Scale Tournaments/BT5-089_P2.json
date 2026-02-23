@@ -1,0 +1,77 @@
+{
+  "Card Q&A": [
+    {
+      "a": "Yes, it does. [Start of Your Turn] effects activate before your unsuspend phase.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1360",
+      "q": [
+        "My opponent's suspended Digimon unsuspends during my unsuspend phase using",
+        ". Does this card's [Start of Your Turn] effect activate?"
+      ]
+    },
+    {
+      "a": "No. The effect reads, \"you may,\" so you can choose not to digivolve.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1361",
+      "q": "I attack with a green level 5 Digimon, and use this card's [Your Turn] effect to reveal a green level 6 Digimon card. Do I have to digivolve into that card?"
+    },
+    {
+      "a": "Yes, you get to choose which card to digivolve into.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1362",
+      "q": "This card's [Your Turn] effect revealed 2 or more green level 6 Digimon. Can I choose which card to digivolve into?"
+    },
+    {
+      "a": "Yes, you do.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1363",
+      "q": "I attack with a green level 5 Digimon, and use this card's [Your Turn] effect to digivolve it. Do I get to draw a bonus card from digivolving?"
+    },
+    {
+      "a": "No, you can't.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1364",
+      "q": "This card's [Your Turn] effect revealed a non-green level 6 Digimon card. Can I digivolve into that card?"
+    },
+    {
+      "a": [
+        "\"You can choose to activate this card's effect twice off a single attack, but you can't activate both effects simultaneously. Instead, you activate each Tamer's effect one at a time.",
+        "First, activate the first Tamer's effect, reveal 3 cards from your deck, and choose whether or not to digivolve the attacking Digimon. From there, you can decide whether or not to activate the second Tamer's effect.",
+        "Furthermore, if you digivolve into a card revealed from the first Tamer's effect, the card revealed from the second Tamer's effect must be a green level 6 card that can digivolve from a level 6 Digimon. (i.e. [BT5-056 Rafflesimon])\"",
+        "Related Cards"
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q1365",
+      "q": "I have 2 copies of this Tamer in play, and attack with a green level 5 Digimon. Can I suspend both Tamers, reveal 6 cards from my deck, and choose a card to digivolve into from among them?"
+    },
+    {
+      "a": "It activates immediately after you draw the bonus card for digivolving. Even if there are other [When Attacking] or \"When one of your Digimon attacks\" effects, the [When Digivolving] effect activates first as a newly triggered effect.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1366",
+      "q": "If I use this card's [Your Turn] effect to digivolve into a level 6 Digimon with a [When Digivolving] effect, when does that effect activate?"
+    },
+    {
+      "a": "No. The window for activating [When Attacking] effects has already passed, so the effect doesn't activate.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1367",
+      "q": "If I use this card's [Your Turn] effect to digivolve into a level 6 Digimon with a [When Attacking] effect, does that effect activate?"
+    }
+  ],
+  "Color": "Green",
+  "Cost": "4",
+  "Effect": [
+    "[Start of Your Turn] If your opponent has a suspended Digimon in play, gain 2 memory.",
+    "[Your Turn] When you attack with a level 5 green Digimon, you may suspend this Tamer to reveal 3 cards from the top of your deck. You may digivolve 1 green level 6 Digimon card among them onto the attacking Digimon without paying its memory cost. Place the remaining cards at the bottom of your deck in any order."
+  ],
+  "Notes": [
+    "Event Pack 5",
+    "?search=true&category=522902"
+  ],
+  "Security Effect": "[Security] Play this card without paying its memory cost.",
+  "cardNo": "BT5-089",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "R",
+  "cardTitle": "Izzy Izumi & Mimi Tachikawa",
+  "cardType": "Tamer",
+  "imgSrc": "../images/cardlist/card/BT5-089_P2.png?260210"
+}

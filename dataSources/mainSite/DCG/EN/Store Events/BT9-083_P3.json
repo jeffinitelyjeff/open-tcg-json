@@ -1,0 +1,87 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "The player who controls this card decides.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1879",
+      "q": "When placing cards from my opponent's trash at the bottom of their deck with this card’s [When Digivolving] effect, who gets to decide the order of the cards?"
+    },
+    {
+      "a": "Digi-Egg cards in your opponent’s trash can be chosen as part of the effect, but they’re returned to the bottom of your opponent’s Digi-Egg deck instead of their normal deck.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1880",
+      "q": "Does this card’s [When Digivolving] effect let me place Digi-Egg cards from my opponent's trash at the bottom of their deck?"
+    },
+    {
+      "a": "No. Even if you have multiple cards with [Mega] in their traits, this effect will only place 10 cards from your opponent's trash at the bottom of their deck.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1881",
+      "q": "If there are 2 cards with [Mega] in their traits in this Digimon’s digivolution cards, do I get to place 20 cards from my opponent’s trash at the bottom of their deck with this card's [When Digivolving] effect?"
+    },
+    {
+      "a": "Yes, it does. Place as many cards as you can at the bottom of your opponent’s deck.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1882",
+      "q": "If my opponent has 9 or fewer cards in their trash, does this card’s [When Digivolving] effect still activate?"
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "You must activate this effect at the start of your turn."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q1883",
+      "q": "Can I choose not to activate this card’s [Start of Your Turn] effect to avoid trashing any cards?"
+    },
+    {
+      "a": [
+        "Yes, it does.",
+        "While there are no cards in your opponent’s security stack to trash, you still perform the part of the effect that reads, “Trash the top card of this Digimon.”"
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q1884",
+      "q": "Does this card’s [Start of Your Turn] effect activate even when my opponent’s security stack is empty?"
+    },
+    {
+      "a": "No. When there are no digivolution cards, you can't perform \"trash the top card of this Digimon,\" so it doesn't activate.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1885",
+      "q": "Does this card's [Start of Your Turn] effect activate when this card has no digivolution cards?"
+    },
+    {
+      "a": "No. The [Start of Your Turn] effect on the [BT9-083 Omnimon: Merciful Mode] that was a digivolution card isn't yet in a state where it can activate at the start of your turn, therefore it doesn't trigger.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1886",
+      "q": "My turn starts when I have this card with [BT9-083 Omnimon: Merciful Mode] as its top digivolution card. If I use this card's [Start of Your Turn] effect to trash this card, then activate the [Start of Your Turn] effect on the [BT9-083 Omnimon: Merciful Mode] that was a digivolution card, can I trash a total of 2 cards from my opponent's security stack?"
+    }
+  ],
+  "Color": "White",
+  "Cost": "15",
+  "DP": "15000",
+  "Digivolve Cost 1": [
+    "Red",
+    "Blue",
+    "Yellow",
+    "Green",
+    "6 from Lv.6"
+  ],
+  "Effect": [
+    "[When Digivolving] For each card with [Mega] in their traits in this Digimon’s digivolution cards, delete 1 of your opponent’s Digimon. Then, place 10 cards from your opponent’s trash at the bottom of their deck in any order.",
+    "[Start of Your Turn] Trash the top card of this Digimon. If you do, trash the top card of your opponent’s security stack."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Store Championship 2023 Top 4 Pack Wave 2",
+    "?search=true&category=522903"
+  ],
+  "Special Digivolution Condition": "[Digivolve] 3 if name contains [Omnimon]",
+  "Type": "Holy Warrior",
+  "cardLv": "Lv.7",
+  "cardNo": "BT9-083",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "Omnimon: Merciful Mode",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT9-083_P3.png?260210"
+}

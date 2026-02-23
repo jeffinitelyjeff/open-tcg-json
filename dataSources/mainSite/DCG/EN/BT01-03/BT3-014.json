@@ -1,0 +1,54 @@
+{
+  "Attribute": "Free",
+  "Card Q&A": [
+    {
+      "a": "Yes, since this Digimon is treated as both red and yellow during your turn, it can digivolve into a Digimon with a digivolution requirement of \"Yellow, Level 5.\"",
+      "date": "Mar. 28, 2024",
+      "num": "Q1054",
+      "q": "Can this Digimon Digivolve into a Digimon which has a Digivolution requirement of \"Yellow, Level 5?\""
+    },
+    {
+      "a": "No, you can't. [Your Turn] effects don't activate from breeding areas, so the card isn't treated as a yellow card. You can't digivolve it into a Digimon that requires a yellow Digimon.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1055",
+      "q": "This card is in my breeding area. Can I digivolve it into a Digimon that requires a yellow Digimon?"
+    },
+    {
+      "a": "The DP value printed on a card is its original DP. This card's [When Digivolving] effect causes a target Digimon's DP, regardless of what's written on the card, to be temporarily treated as having 1000 DP.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1056",
+      "q": "What does \"Original DP\" mean?"
+    },
+    {
+      "a": "Your opponent's Digimon's DP will be overwritten as 1000, and if a -1000 DP effect is being applied to it, its DP becomes 0, causing the Digimon to be deleted.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1057",
+      "q": "If this card's [When Digivolving] effect is activated against an opponent's Digimon whose DP has been reduced by 1000 by an effect, what happens to that Digimon?"
+    }
+  ],
+  "Color": "Red",
+  "Cost": "7",
+  "DP": "7000",
+  "Digivolve Cost 1": [
+    "Red",
+    "Yellow",
+    "3 from Lv.4"
+  ],
+  "Effect": [
+    "[When Digivolving] Change the original DP of 1 of your opponent's level 4 or lower Digimon to 1000 for the turn.",
+    "[Your Turn] This Digimon is also treated as yellow."
+  ],
+  "Form": "Ultimate",
+  "Notes": [
+    "RELEASE SPECIAL BOOSTER Ver.1.5 [BT01-03]",
+    "?search=true&category=522002",
+    "/products/pack/ver3.php"
+  ],
+  "Type": "Beastkin",
+  "cardLv": "Lv.5",
+  "cardNo": "BT3-014",
+  "cardRarity": "R",
+  "cardTitle": "Silphymon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT3-014.png?260210"
+}

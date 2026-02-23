@@ -1,0 +1,53 @@
+{
+  "Card Q&A": [
+    {
+      "a": "The DP value printed on a card is its original DP. This card's effect temporarily allows you to treat the DP value printed on an opponent's Digimon as if it were 3000.",
+      "date": "Mar. 28, 2024",
+      "num": "Q972",
+      "q": "What does \"original DP\" refer to?"
+    },
+    {
+      "a": [
+        "Yes, when a Digimon's DP becomes 0, it's deleted.",
+        "Related Cards"
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q973",
+      "q": "I use this card's effect to change the original DP of an opponent's Digimon to 3000. I then use [ST3-11 Seraphimon]'s effect to give an opponent's Digimon -4000 DP. If the opponent's Digimon drops to 0 DP, is it deleted?"
+    },
+    {
+      "a": [
+        "Yes, effects that increase or decrease DP work as normal, raising the Digimon's DP to 6000.",
+        "Related Cards"
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q974",
+      "q": "This card's effect has set a Digimon's original DP to 3000. If [ST1-13 Shadow Wing] is used to give that Digimon +3000 DP, is its DP now 6000?"
+    },
+    {
+      "a": "No, its original DP becomes 3000. 3000 DP and 1000 DP (from the effect) add up to 4000 DP.",
+      "date": "Mar. 28, 2024",
+      "num": "Q975",
+      "q": "If I use this card's effect on a Digimon that's already getting +1000 DP from an effect, does its DP become 3000?"
+    },
+    {
+      "a": "Even after digivolving, the Digimon's DP is treated as 3000 until the end of the turn.",
+      "date": "Mar. 28, 2024",
+      "num": "Q976",
+      "q": "I digivolve a Digimon while this card's effect is active. What happens to the Digimon's DP?"
+    }
+  ],
+  "Color": "Yellow",
+  "Cost": "4",
+  "Effect": "[Main] Change the original DP of 1 of your opponent's Digimon to 3000 until the end of your opponent's next turn.",
+  "Notes": [
+    "RELEASE SPECIAL BOOSTER Ver.1.0 [BT01-03]",
+    "?search=true&category=522001",
+    "/products/pack/ver2.php"
+  ],
+  "cardNo": "BT1-105",
+  "cardRarity": "C",
+  "cardTitle": "Blast Fire",
+  "cardType": "Option",
+  "imgSrc": "../images/cardlist/card/BT1-105.png?260210"
+}

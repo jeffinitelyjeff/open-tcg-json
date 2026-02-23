@@ -1,0 +1,70 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": [
+        "No, you can't end that attack.",
+        "If the \"by doing X\" condition isn't met, the rest of the effect isn't processed. In this case, if you can't delete 1 of your other Digimon, then you can't end the attack."
+      ],
+      "date": "Jun. 13, 2025",
+      "num": "Q3772",
+      "q": "I tried to delete 1 of my other Digimon using this card's inherited effect when an opponent's Digimon attacked, but I couldn't delete the other Digimon due to another effect. Can I end that attack at such times?"
+    },
+    {
+      "a": "After this effect activates, the current timing makes a transition to the end of attack timing. For example, if this effect activates during the attack declaration timing, it will make a transition to the end of attack timing. A transition to the counter timing or block timing won't occur, and the attack won't succeed.",
+      "date": "Jun. 13, 2025",
+      "num": "Q3773",
+      "q": "What does \"end the attack\" mean, exactly?"
+    },
+    {
+      "a": [
+        "Yes, such attacks can be ended.",
+        "\"End the attack\" effects are effects that change the timing, they don't affect an attacking Digimon."
+      ],
+      "date": "Jun. 13, 2025",
+      "num": "Q3774",
+      "q": "Can an \"end the attack\" effect end an attack by a Digimon that isn't affected by effects?"
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "is performed at the end of the counter timing. If you activate this card's [Opponent's Turn] effect, the attack will end before [Counter] effects trigger during the counter timing, therefore",
+        "can no longer be performed."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q3775",
+      "q": [
+        "Can I use",
+        "to digivolve my Digimon if I activate this card's inherited effect and end the attack from an opponent's Digimon?"
+      ]
+    },
+    {
+      "a": "Yes, it activates.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3776",
+      "q": "Do [End of Attack] effects activate if I activate this card's inherited effect and end the attack from an opponent's Digimon?"
+    }
+  ],
+  "Color": "Purple",
+  "Cost": "3",
+  "DP": "1000",
+  "Digivolve Cost 1": [
+    "Purple",
+    "0 from Lv.2"
+  ],
+  "Effect": "[On Deletion] Delete 1 of your opponent's level 3 Digimon.",
+  "Form": "Rookie",
+  "Inherited Effect": "[Opponent's Turn] [Once Per Turn] When an opponent's Digimon attacks, by deleting 1 of your other Digimon, end the attack.",
+  "Notes": [
+    "Theme Booster INFERNAL ASCENSION [EX06]",
+    "?search=true&category=522022",
+    "/products/pack/ex-06"
+  ],
+  "Type": "Mammal",
+  "cardLv": "Lv.3",
+  "cardNo": "EX6-045",
+  "cardRarity": "C",
+  "cardTitle": "Tsukaimon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX6-045.png?260210"
+}

@@ -1,0 +1,82 @@
+{
+  "Attribute": "Unknown",
+  "Card Q&A": [
+    {
+      "a": "Yes, you can.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1354",
+      "q": "When playing this card, can I delete one of my [Diaboromon] tokens to reduce its play cost by 12?"
+    },
+    {
+      "a": [
+        "This effect prevents [When Digivolving] effects on cards from activating.",
+        "[When Digivolving] effects can no longer activate by triggering or when effects such as \"activate that card's [When Digivolving] effect\" activate."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q1355",
+      "q": "What does \"[When Digivolving] effects don't activate\" mean, exactly?"
+    },
+    {
+      "a": [
+        "Yes, you can.",
+        "The effect can activate if it activates upon the [When Attacking] timing."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5520",
+      "q": [
+        "I used a card affected by \"can't activate [When Digivolving] effects\" to attack.",
+        "Can I activate that card's [When Digivolving] [When Attacking] effect at such times?"
+      ]
+    },
+    {
+      "a": "No, it can't be activated.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5521",
+      "q": "If a card is affected by \"can't activate [When Digivolving] effects,\" can other effects activate its [When Digivolving] effect?"
+    },
+    {
+      "a": "No, you can't.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5522",
+      "q": "If a card is affected by \"can't activate [When Digivolving] effects,\" can I process just the \"by\" condition in its [When Digivolving] effect?"
+    },
+    {
+      "a": [
+        "No, it doesn't count.",
+        "The effect can't activate upon the [When Digivolving] timing, therefore it doesn't count as an instance of that effect's [X Per Turn]."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5523",
+      "q": [
+        "A card that was given \"can't activate [When Digivolving] effects\" digivolved into a card that has a [When Digivolving] [When Attacking] [Once Per Turn] effect.",
+        "Does that count as an instance of that effect's [X Per Turn] even if that effect can't be activated upon the timing when that card digivolved?"
+      ]
+    }
+  ],
+  "Color": "White",
+  "Cost": "15",
+  "DP": "15000",
+  "Digivolve Cost 1": [
+    "Black",
+    "White",
+    "3 from Lv.6"
+  ],
+  "Effect": [
+    "When playing this card from your hand, you may delete 1 of your [Diaboromon] to reduce this card's play cost by 12.",
+    "＜Rush＞ (This Digimon can attack the turn it comes into play.)",
+    "[All Turns] The [When Digivolving] effects on level 7 Digimon don't activate."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster BATTLE OF OMNI [BT05]",
+    "?search=true&category=522004",
+    "/products/pack/ver5.php"
+  ],
+  "Type": "Unidentified",
+  "cardLv": "Lv.7",
+  "cardNo": "BT5-085",
+  "cardRarity": "SR",
+  "cardTitle": "Armageddemon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT5-085.png?260210"
+}

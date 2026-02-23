@@ -1,0 +1,34 @@
+{
+  "Card Q&A": [
+    {
+      "a": "No, it means if the total sum of cards in your security stack and the cards in your opponent's security stack is 6 or less.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2345",
+      "q": "Does \"If the total cards in both players' security stacks is 6 or less\" mean 6 or less cards in either me or my opponent's security stacks?"
+    },
+    {
+      "a": "No, it doesn't. A card revealed from your security stack and then trashed isn't considered \"When this card is trashed from a security stack.\"",
+      "date": "Mar. 28, 2024",
+      "num": "Q2346",
+      "q": "If this card is revealed from my security stack and trashed by [BT10-086 Omnimon (X Antibody)]'s effect, does this card's “When this card is trashed from a security stack by an effect” effect activate?"
+    }
+  ],
+  "Color": "Yellow",
+  "Cost": "3",
+  "Effect": [
+    "When an effect trashes this card from the security stack, you may play this card without paying the cost.",
+    "[Start of Your Main Phase] If there're 6 or fewer total cards in both players' security stacks, gain 1 memory.",
+    "[Main] If there're 6 or fewer total cards in both players' security stacks, by suspending this Tamer, 1 of your [Kudamon] may digivolve into [Kentaurosmon] in the hand for the digivolution cost, ignoring its level."
+  ],
+  "Notes": [
+    "Booster VERSUS ROYAL KNIGHTS [BT13]",
+    "?search=true&category=522016",
+    "/products/pack/ver13.php"
+  ],
+  "Security Effect": "[Security] Play this card without paying the cost.",
+  "cardNo": "BT13-098",
+  "cardRarity": "U",
+  "cardTitle": "Richard Sampson",
+  "cardType": "Tamer",
+  "imgSrc": "../images/cardlist/card/BT13-098.png?260210"
+}

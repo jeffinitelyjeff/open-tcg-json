@@ -1,0 +1,89 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": [
+        "Yes, you can.",
+        "Related Cards"
+      ],
+      "date": "Jul. 4, 2025",
+      "num": "Q4884",
+      "q": [
+        "When I activate EX9-070 [Meat]'s",
+        "effect and would digivolve my Digimon into this card with the digivolution cost reduced by 2, can I activate this card's 1st effect and further reduce the digivolution cost by 1 for each of that Digimon's face-down digivolution cards?"
+      ]
+    },
+    {
+      "a": [
+        "This effect prevents [When Digivolving] effects on cards from activating.",
+        "[When Digivolving] effects can no longer activate by triggering or when effects such as \"activate that card's [When Digivolving]\" effect\" activate."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q4885",
+      "q": "What does \"[When Digivolving] effects don't activate\" mean, exactly?"
+    },
+    {
+      "a": [
+        "Yes, you can.",
+        "The effect can activate if it activates upon the [When Attacking] timing."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q4886",
+      "q": [
+        "I used a card affected by \"can't activate [When Digivolving] effects\" to attack.",
+        "Can I activate that card's [When Digivolving] [When Attacking] effect at such times?"
+      ]
+    },
+    {
+      "a": "No, it can't be activated.",
+      "date": "Dec. 25, 2025",
+      "num": "Q4887",
+      "q": "If a card is affected by \"can't activate [When Digivolving] effects,\" can other effects activate its [When Digivolving] effect?"
+    },
+    {
+      "a": "No, you can't.",
+      "date": "Dec. 25, 2025",
+      "num": "Q4888",
+      "q": "If a card is affected by \"can't activate [When Digivolving] effects,\" can I process just the \"by\" condition in its [When Digivolving] effect?"
+    },
+    {
+      "a": [
+        "No, it doesn't count.",
+        "The effect can't activate upon the [When Digivolving] timing, therefore it doesn't count as an instance of that effect's [X Per Turn]."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q4889",
+      "q": [
+        "A card that was given \"can't activate [When Digivolving] effects\" digivolved into a card that has a [When Digivolving] [When Attacking] [Once Per Turn] effect.",
+        "Does that count as an instance of that effect's [X Per Turn] even if that effect can't be activated upon the timing when that card digivolved?"
+      ]
+    }
+  ],
+  "Color": "Yellow",
+  "Cost": "8",
+  "DP": "8000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "4 from Lv.4"
+  ],
+  "Effect": [
+    "When any of your Digimon with the [Ver.1] trait would digivolve into this card, for each of its face-down digivolution cards, reduce the digivolution cost by 1.",
+    "＜Armor Purge＞",
+    "[When Digivolving] [When Attacking] [Once Per Turn] By trashing this Digimon's bottom face-down digivolution card, until your opponent's turn ends, 1 of their Digimon can't activate [When Digivolving] effects and gets -4000 DP."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "[When Attacking] [Once Per Turn] 1 of your opponent's Digimon gets -4000 DP for the turn.",
+  "Notes": [
+    "Booster CYBER EDEN [BT-22]",
+    "?search=true&category=522030",
+    "/products/pack/ver22"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [Numemon]: Cost 3/Lv.4 w/[DM] trait: Cost 4",
+  "Type": "Puppet/DM/Ver.1",
+  "cardLv": "Lv.5",
+  "cardNo": "BT22-038",
+  "cardRarity": "C",
+  "cardTitle": "Monzaemon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT22-038.png?260210"
+}

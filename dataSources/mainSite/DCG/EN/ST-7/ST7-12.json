@@ -1,0 +1,39 @@
+{
+  "Card Q&A": [
+    {
+      "a": "You can choose any number of your opponent's Digimon, as long as the DP of the chosen Digimon adds up to 8000 or less. For example, you could choose 1 Digimon with 3000 DP + 1 Digimon with 5000 DP, or 2 Digimon with 2000 DP + 1 Digimon with 3000 DP.",
+      "date": "Mar. 28, 2024",
+      "num": "Q692",
+      "q": "What does “Choose any number of your opponent's Digimon whose total DP adds up to 8000 or less” mean, exactly?"
+    },
+    {
+      "a": "Yes. As long as the total DP of the chosen cards is 8000 DP or less, you can choose as many or as few cards as you like. However, note that you must choose a minimum of 1 Digimon with 8000 DP or less.",
+      "date": "Mar. 28, 2024",
+      "num": "Q693",
+      "q": "Can I choose fewer cards than possible, even if the DP of the chosen cards adds up to less than 8000?"
+    },
+    {
+      "a": [
+        "No. When [BT4-066 Golemon] is deleted, reducing the DP of your opponent’s Digimon, this card’s effect will have already finished activating. As such, you cannot choose additional Digimon with this card’s effect midway.",
+        "Related Cards"
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q694",
+      "q": "My opponent has a [BT4-066 Golemon] in play. If [BT4-066 Golemon] is chosen as part of this card’s effect, [BT4-066 Golemon]’s deletion will cause my opponent’s black Digimon to each receive -1000 DP. Can I choose more of my opponent’s Digimon with this card’s effect to cover the gap to reach 8000 DP?"
+    }
+  ],
+  "Color": "Red",
+  "Cost": "5",
+  "Effect": "[Main] Choose any number of your opponent's Digimon whose total DP adds up to 8000 or less and delete them.",
+  "Notes": [
+    "Starter Deck GALLANTMON [ST-7]",
+    "?search=true&category=522107",
+    "/products/deck/st-7.php"
+  ],
+  "Security Effect": "[Security] Activate this card's [Main] effect.",
+  "cardNo": "ST7-12",
+  "cardRarity": "C",
+  "cardTitle": "Atomic Blaster",
+  "cardType": "Option",
+  "imgSrc": "../images/cardlist/card/ST7-12.png?260210"
+}

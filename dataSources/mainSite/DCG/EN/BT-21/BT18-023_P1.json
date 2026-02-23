@@ -1,0 +1,66 @@
+{
+  "Attribute": "Variable",
+  "Card Q&A": [
+    {
+      "a": "No, it digivolves from the Tamer as-is.",
+      "date": "Jun. 21, 2024",
+      "num": "Q2936",
+      "q": "Does this card's digivolution requirement where it can digivolve from a Tamer mean that the Tamer that will become a digivolution card is treated as a Digimon when it digivolves?"
+    },
+    {
+      "a": [
+        "No, it isn't considered a Digimon that would digivolve.",
+        "When a Tamer would digivolve using this card's digivolution requirement, \"when a Digimon would digivolve\" effects don't trigger."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q2937",
+      "q": "When a Tamer would digivolve using this card's digivolution requirement, is it considered a Digimon that would digivolve?"
+    },
+    {
+      "a": [
+        "No, it isn't considered a Digimon that digivolves.",
+        "When a Tamer digivolves using this card's digivolution requirement, \"when a Digimon digivolves\" effects don't trigger."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q2938",
+      "q": "When a Tamer digivolves using this card's digivolution requirement, is it considered a Digimon that digivolves?"
+    },
+    {
+      "a": "Yes, you must add as many cards to your hand or place as bottom digivolution cards as possible.",
+      "date": "Jun. 21, 2024",
+      "num": "Q2939",
+      "q": "If cards that are targets of this effect are revealed from the deck, do I have to add as many cards to my hand or place as bottom digivolution cards as possible?"
+    }
+  ],
+  "Color": "Blue",
+  "Cost": "5",
+  "DP": "5000",
+  "Digivolve Cost 1": [
+    "Blue",
+    "2 from Lv.3"
+  ],
+  "Digivolve Cost 2": [
+    "Blue",
+    "2 from TAMER"
+  ],
+  "Effect": [
+    "[On Play] [When Digivolving] Reveal the top 3 cards of your deck. Among them, add to your hand or place as any of your blue Digimon's bottom digivolution card 1 Digimon card with [Aqua] or [Sea Animal] in any of its traits. Return the rest to the bottom of the deck.",
+    "(Rule) Trait: Has [Aquatic] Type."
+  ],
+  "Form": "Hybrid",
+  "Inherited Effect": "[When Attacking] [Once Per Turn] You may return 1 level 3 Digimon to the hand.",
+  "Notes": [
+    "Booster WORLD CONVERGENCE [BT-21]",
+    "?search=true&category=522028",
+    "/products/pack/ver21"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [Calmaramon]: Cost 0",
+  "Type": "Fairy",
+  "cardLv": "Lv.4",
+  "cardNo": "BT18-023",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "C",
+  "cardTitle": "Lanamon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT18-023_P1.png?260210"
+}

@@ -1,0 +1,66 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": [
+        "Such effects prevent your opponent from playing XX.",
+        "With this card's effect, your opponent's actions or effects can't play Digimon cards with 5000 DP or less.",
+        "This effect affects the opponent player."
+      ],
+      "date": "Apr. 25, 2025",
+      "num": "Q4669",
+      "q": "What does a \"your opponent can't play XX\" effect do, exactly?"
+    },
+    {
+      "a": "Yes. Your opponent reveals cards, but then doesn't play the specified card.",
+      "date": "Apr. 25, 2025",
+      "num": "Q4670",
+      "q": "I activate a \"your opponent can't play XX\" effect, and in the same turn, my opponent activates an effect that reveals cards and plays a specified card from their deck. Is the card revealed from the deck but not played?"
+    },
+    {
+      "a": [
+        "Yes, it can be played.",
+        "\"Your opponent can't play Digimon\" is an effect that prevents your opponent's actions or effects from playing Digimon. Your effects can still play an opponent's Digimon with 5000 DP or less.",
+        "Related Cards"
+      ],
+      "date": "Apr. 25, 2025",
+      "num": "Q4671",
+      "q": "Can an opponent's Digimon with 5000 DP or less be played if I activate a \"your opponent can't play Digimon with 5000 DP or less\" effect, and in the same turn, I activate an effect such as EX5-060 [Dragomon]'s [On Play] [When Digivolving] effect that plays an opponent's Digimon card?"
+    },
+    {
+      "a": [
+        "No, it can't be played.",
+        "\"Your opponent can't play Digimon\" is an effect that prevents your opponent's actions or effects from playing Digimon. Your Digimon with 5000 DP or less can't be played by an opponent's effect.",
+        "Related Cards"
+      ],
+      "date": "Apr. 25, 2025",
+      "num": "Q4672",
+      "q": "Can my Digimon with 5000 DP or less be played if I activate a \"your opponent can't play Digimon with 5000 DP or less\" effect, and in the same turn, my opponent activates an effect such as EX5-060 [Dragomon]'s [On Play] [When Digivolving] effect that plays an opponent's Digimon card?"
+    }
+  ],
+  "Color": "Red",
+  "Cost": "12",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Red",
+    "Black",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "[On Play] Delete all of your opponent's Digimon with the lowest DP. If no Digimon is deleted by this effect, your opponent can't play Digimon with 5000 DP or less until the end of their turn.",
+    "[When Attacking] If you have a Tamer in play, trash the top card of your opponent's security stack."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Theme Booster DRACONIC ROAR [EX-03]",
+    "?search=true&category=522012",
+    "/products/pack/ex-03.php"
+  ],
+  "Type": "Earth Dragon",
+  "cardLv": "Lv.6",
+  "cardNo": "EX3-012",
+  "cardRarity": "SR",
+  "cardTitle": "Volcanicdramon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX3-012.png?260210"
+}

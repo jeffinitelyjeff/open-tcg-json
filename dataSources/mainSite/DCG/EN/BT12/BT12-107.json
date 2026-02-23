@@ -1,0 +1,43 @@
+{
+  "Card Q&A": [
+    {
+      "a": "Yes, you can. However, in such cases the \"can't attack\" effect prevents making the attack.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2243",
+      "q": "Can I choose an opponent's Digimon with a \"can't attack\" effect as the target when I activate this card's [Main] effect?"
+    },
+    {
+      "a": [
+        "At the start of your opponent's main phase, the effects gained from this card's effect are triggered at the same time, and your opponent determines which one activates first.",
+        "After effects such as [When Attacking] have activated, and before the counter timing occurs, it is time to activate the effect of the 2nd Digimon that was pending activation. However, since the 1st Digimon is already attacking, the effect ends without an attack made.",
+        "As a result, only the Digimon whose effect was activated first can attack."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2244",
+      "q": "What happens if this card's effect activates twice and 2 of my opponent's Digimon gain the \"[Start of Your Main Phase] Attack with this Digimon\" effect?"
+    },
+    {
+      "a": [
+        "You can still choose a \"this Digimon isn't affected by your opponent’s effects\" Digimon as a target for the effect. As soon as it becomes your opponent's turn, that opposing Digimon loses the \"this Digimon isn't affected by your opponent’s effects\" effect and is affected by this card's effect.",
+        "As a result, the attack occurs at the start of the main phase."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2245",
+      "q": "What happens if this card's effect is activated on an opponent's Digimon with an \"[Opponent’s Turn] This Digimon isn't affected by your opponent’s effects\" effect?"
+    }
+  ],
+  "Color": "Black",
+  "Cost": "1",
+  "Effect": "[Main] Until the end of your opponent's turn, 1 of your opponent's Digimon gains \"[Start of Your Main Phase] This Digimon attacks.\"",
+  "Notes": [
+    "Booster ACROSS TIME [BT12]",
+    "?search=true&category=522014",
+    "/products/pack/ver12.php"
+  ],
+  "Security Effect": "[Security] Add this card to its owner's hand.",
+  "cardNo": "BT12-107",
+  "cardRarity": "C",
+  "cardTitle": "Laplace's Demon",
+  "cardType": "Option",
+  "imgSrc": "../images/cardlist/card/BT12-107.png?260210"
+}

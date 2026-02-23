@@ -1,0 +1,83 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": [
+        "[Security] effects take precedence for activation.",
+        "Upon a security check, a [Security] effect will immediately activate without pending activation.",
+        "For other triggered effects, the turn player activates their effects first."
+      ],
+      "date": "Jan. 24, 2025",
+      "num": "Q4309",
+      "q": "What order do a [Security] effect, \"when [...] performs a security check\" effect, and \"when a card is removed from [...] security stack\" effect activate when they trigger simultaneously upon a security check?"
+    },
+    {
+      "a": [
+        "Such effects prevent your opponent from playing XX by effects.",
+        "With this card's effect, your opponent can no longer play Digimon or Tamers by effects such as BT10-018 [Gaossmon]'s [On Deletion] effect or BT9-099 [Sunrise Buster]'s [Main] effect.",
+        "This effect affects the opponent player.",
+        "Related Cards"
+      ],
+      "date": "Apr. 25, 2025",
+      "num": "Q4665",
+      "q": "What does a \"your opponent can't play XX by effects\" effect do, exactly?"
+    },
+    {
+      "a": "Yes. Your opponent reveals cards, but then doesn't play the specified card.",
+      "date": "Apr. 25, 2025",
+      "num": "Q4666",
+      "q": "I activate a \"your opponent can't play XX by effects\" effect, and in the same turn, my opponent activates an effect that reveals cards and plays a specified card from their deck. Is the card revealed from the deck but not played?"
+    },
+    {
+      "a": [
+        "Yes, it can be played.",
+        "\"Your opponent can't play Digimon by effects\" is an effect that prevents your opponent from playing Digimon by effects. Your effects can still play an opponent's Digimon.",
+        "Related Cards"
+      ],
+      "date": "Apr. 25, 2025",
+      "num": "Q4667",
+      "q": "Can an opponent's Digimon be played if I activate a \"your opponent can't play Digimon by effects\" effect, and in the same turn, I activate an effect such as EX5-060 [Dragomon]'s [On Play] [When Digivolving] effect that plays an opponent's Digimon card?"
+    },
+    {
+      "a": [
+        "No, it can't be played.",
+        "\"Your opponent can't play Digimon by effects\" is an effect that prevents your opponent from playing Digimon by effects. Your Digimon can't be played by an opponent's effect.",
+        "Related Cards"
+      ],
+      "date": "Apr. 25, 2025",
+      "num": "Q4668",
+      "q": "Can my Digimon be played if I activate a \"your opponent can't play Digimon by effects\" effect, and in the same turn, my opponent activates an effect such as EX5-060 [Dragomon]'s [On Play] [When Digivolving] effect that plays an opponent's Digimon card?"
+    }
+  ],
+  "Color": [
+    "Red",
+    "Purple"
+  ],
+  "Cost": "13",
+  "DP": "13000",
+  "Digivolve Cost 1": [
+    "Red",
+    "Purple",
+    "5 from Lv.5"
+  ],
+  "Effect": [
+    "＜Raid＞ ＜Piercing＞",
+    "[When Digivolving] Your opponent can't play Digimon or Tamers by effects until the end of their turn. Then, if [Imperialdramon: Dragon Mode] is in this Digimon's digivolution cards, trash your opponent's top security card.",
+    "[All Turns] [Once Per Turn] When your opponent's security stack is removed from, delete 1 of their Digimon with as much or less DP as this Digimon."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "SPECIAL BOOSTER Ver.2.5 [BT19-20]",
+    "?search=true&category=522027",
+    "/products/pack/ver19-20"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [Imperialdramon: Dragon Mode]: Cost 2",
+  "Type": "Ancient Dragonkin",
+  "cardLv": "Lv.6",
+  "cardNo": "BT20-020",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "Imperialdramon: Fighter Mode",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT20-020_P1.png?260210"
+}

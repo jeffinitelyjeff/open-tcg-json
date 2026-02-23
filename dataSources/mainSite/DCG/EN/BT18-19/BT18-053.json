@@ -1,0 +1,79 @@
+{
+  "Attribute": "Variable",
+  "Card Q&A": [
+    {
+      "a": [
+        "Effects with the [Hand] icon can activate when their card is revealed from the hand.",
+        "This effect can activate during the main phase when you reveal this card from the hand and process the effect."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q2983",
+      "q": "How do I activate this card's [Hand] [Main] effect?"
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "A \"by doing X\" condition can't be met if only some of the required actions are performed.",
+        "In order for the conditions for this card's [Hand] [Main] effect to be met, you must place 1 [Kazemon] and 1 [Zephyrmon] under your Tamer."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q2984",
+      "q": "Can I use this card's [Hand] [Main] effect to place just 1 [Kazemon] or [Zephyrmon] from my trash under my Tamer?"
+    },
+    {
+      "a": "No, it digivolves from the Tamer as-is.",
+      "date": "Jun. 21, 2024",
+      "num": "Q2985",
+      "q": "Does this card's [Hand] [Main] effect where it can digivolve from a Tamer mean that the Tamer that will become a digivolution card is treated as a Digimon when it digivolves?"
+    },
+    {
+      "a": [
+        "No, it isn't considered a Digimon that would digivolve.",
+        "When a Tamer would digivolve using this card's [Hand] [Main] effect, \"when a Digimon would digivolve\" effects don't trigger."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q2986",
+      "q": "When a Tamer would digivolve using this card's [Hand] [Main] effect, is it considered a Digimon that would digivolve?"
+    },
+    {
+      "a": [
+        "No, it isn't considered a Digimon that digivolves.",
+        "When a Tamer digivolves using this card's [Hand] [Main] effect, \"when a Digimon digivolves\" effects don't trigger."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q2987",
+      "q": "When a Tamer digivolves using this card's [Hand] [Main] effect, is it considered a Digimon that digivolves?"
+    }
+  ],
+  "Color": [
+    "Green",
+    "Red"
+  ],
+  "Cost": "8",
+  "DP": "8000",
+  "Digivolve Cost 1": [
+    "Green",
+    "Red",
+    "4 from Lv.4"
+  ],
+  "Effect": [
+    "[Hand] [Main] By placing 1 [Kazemon] and 1 [Zephyrmon] from your trash under 1 of your green or red Tamers, digivolve it into this card for a digivolution cost of 3, ignoring digivolution requirements.",
+    "＜Raid＞",
+    "[When Digivolving] Suspend 1 of your opponent's Digimon or Tamers. It can't unsuspend until the end of their turn."
+  ],
+  "Form": "Hybrid",
+  "Inherited Effect": "[All Turns] This Digimon gets +2000 DP.",
+  "Notes": [
+    "SPECIAL BOOSTER Ver.2.0 [BT18-19]",
+    "?search=true&category=522025",
+    "/products/pack/ver18-19"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Green/red Lv.4 w/[Hybrid] trait: Cost 3",
+  "Type": "Cyborg",
+  "cardLv": "Lv.5",
+  "cardNo": "BT18-053",
+  "cardRarity": "U",
+  "cardTitle": "JetSilphymon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT18-053.png?260210"
+}

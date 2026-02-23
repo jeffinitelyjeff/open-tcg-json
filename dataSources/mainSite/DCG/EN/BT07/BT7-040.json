@@ -1,0 +1,60 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": [
+        "The digivolution cost is equal to the number of cards in your security stack minus the amount reduced by the effect.",
+        "If you have 4 security cards and activate an effect that reduces digivolution costs by 2, the final digivolution cost will be 2. (4 minus 2.)"
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q1568",
+      "q": "When digivolving into this card from my hand, I activate an effect on another card that reduces digivolution costs. What happens to this card’s digivolution cost?"
+    },
+    {
+      "a": [
+        "Yes, you can. This card's",
+        "allows you to choose any number of digivolution cards to trash, from 1 to 4. If you have 3 or fewer digivolution cards, you can activate the effect as long as you can trash 1 or more of them."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q1569",
+      "q": [
+        "This card’s",
+        "reads “up to 4.” Can I activate the effect if I have 3 or fewer digivolution cards?"
+      ]
+    },
+    {
+      "a": "No, this effect can only target 1 of your opponent's Digimon.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1570",
+      "q": [
+        "I trash 2 digivolution cards to activate this card's",
+        ". Can I have 2 of my opponent's Digimon both get -3000 DP?"
+      ]
+    }
+  ],
+  "Color": "Yellow",
+  "Cost": "11",
+  "DP": "11000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "5 from Lv.5"
+  ],
+  "Effect": [
+    "When digivolving into this card from your hand, the memory cost of the digivolution is equal to the number of cards in your security stack. If you have 0 security cards, the memory cost is 1.",
+    "[Main][Once Per Turn] ＜Digi-Burst up to 4＞ (Trash up to 4 of this Digimon's digivolution cards to activate the effect below.)",
+    "・1 of your opponent's Digimon gets -3000 DP for the turn for each card trashed by this card's effect."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster NEXT ADVENTURE [BT07]",
+    "?search=true&category=522007",
+    "/products/pack/ver7.php"
+  ],
+  "Type": "Beastkin",
+  "cardLv": "Lv.6",
+  "cardNo": "BT7-040",
+  "cardRarity": "SR",
+  "cardTitle": "Rasenmon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT7-040.png?260210"
+}

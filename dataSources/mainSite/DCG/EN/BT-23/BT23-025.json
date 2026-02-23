@@ -1,0 +1,62 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": [
+        "No, you can't.",
+        "If you don't pay 5 cost while you have a Digimon or Tamer with the [CS] trait, the part after \"then\" in this card's {Hand} [Main] effect can't place this card as the top security card."
+      ],
+      "date": "Oct. 3, 2025",
+      "num": "Q5253",
+      "q": "Can I process the part of the effect after \"then\" in this card's {Hand} [Main] effect without meeting the \"by\" condition?"
+    },
+    {
+      "a": "No, you can't.",
+      "date": "Oct. 3, 2025",
+      "num": "Q5254",
+      "q": "Can I declare activation and process the part of the effect after \"then\" in this card's {Hand} [Main] effect even when I don't have a Digimon or Tamer with the [CS] trait?"
+    },
+    {
+      "a": "Yes, it's deleted upon the deletion timing.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5563",
+      "q": "Do I delete the Digimon that was played by this card's [Security] effect at the end of the turn?"
+    },
+    {
+      "a": "The pending processing for the effect that triggers at the end of the turn and the deletion at the end of the turn are considered to be processing that triggers simultaneously. Therefore, the turn player can choose the processing order.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5564",
+      "q": "What is the processing order for an effect that triggers at the end of the turn and the deletion of this card played by its [Security] effect?"
+    }
+  ],
+  "Color": [
+    "Blue",
+    "Yellow"
+  ],
+  "Cost": "11",
+  "DP": "11000",
+  "Digivolve Cost 1": [
+    "Blue",
+    "Yellow",
+    "3 from Lv.5"
+  ],
+  "Effect": [
+    "{Hand} [Main] If you have a Digimon or Tamer with the [CS] trait, by paying 5 cost, give 3 of your opponent's Digimon ＜Security A. -1＞ until their turn ends. Then, place this card as the top security card.",
+    "[On Play] [When Digivolving] Return 1 of your opponent's Digimon with the lowest level to the hand."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster HACKERS' SLUMBER [BT-23]",
+    "?search=true&category=522032",
+    "/products/pack/ver23"
+  ],
+  "Security Effect": "[Security] At the end of the battle, play this card without paying the cost. At turn end, delete this Digimon.",
+  "Special Digivolution Condition": "[Digivolve] Lv.5 w/[CS] trait: Cost 3",
+  "Type": "Fairy/CS",
+  "cardLv": "Lv.6",
+  "cardNo": "BT23-025",
+  "cardRarity": "U",
+  "cardTitle": "MarineAngemon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT23-025.png?260210"
+}

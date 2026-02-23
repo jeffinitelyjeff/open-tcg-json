@@ -1,0 +1,42 @@
+{
+  "Card Q&A": [
+    {
+      "a": "Yes, it's deleted.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2683",
+      "q": "The Digimon played using this card's [On Deletion] effect digivolved. Is that Digimon deleted at the end of my opponent's turn?"
+    },
+    {
+      "a": [
+        "No, you only delete it at the end of your opponent's first turn after it's played by this effect.",
+        "If another effect prevents it from being deleted at the end of your opponent's first turn when it would be deleted, that Digimon isn't deleted at the end of your opponent's following turns."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5534",
+      "q": "Do I delete the Digimon that was played by this card's [On Deletion] effect at the end of my opponent's turn?"
+    },
+    {
+      "a": "The pending processing for the effect that triggers at the end of the turn and the deletion at the end of the turn are considered to be processing that triggers simultaneously. Therefore, the turn player can choose the processing order.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5535",
+      "q": "What is the processing order for an effect that triggers at the end of the turn and the deletion of a Digimon played by this card's [On Deletion] effect?"
+    }
+  ],
+  "Color": "Purple",
+  "Cost": "4",
+  "Effect": [
+    "[Your Turn] When [Arukenimon] or [Mummymon] would be played from your hand, by deleting this Tamer, reduce the play cost by 3.",
+    "[On Deletion] You may play 1 level 5 or lower Digimon card with [Myotismon] in its text from your trash without paying the cost. At the next end of your opponent’s turn, delete it."
+  ],
+  "Notes": [
+    "Booster BEGINNING OBSERVER [BT16]",
+    "?search=true&category=522021",
+    "/products/pack/ver16"
+  ],
+  "Security Effect": "[Security] Play this card without paying the cost.",
+  "cardNo": "BT16-089",
+  "cardRarity": "R",
+  "cardTitle": "Arukenimon & Mummymon",
+  "cardType": "Tamer",
+  "imgSrc": "../images/cardlist/card/BT16-089.png?260210"
+}

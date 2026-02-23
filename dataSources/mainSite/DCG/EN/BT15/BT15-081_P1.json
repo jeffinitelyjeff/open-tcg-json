@@ -1,0 +1,91 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "No, it doesn't activate.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2575",
+      "q": "When an effect plays an opponent's Digimon into the breeding area, does this card's [All Turns] effect activate?"
+    },
+    {
+      "a": "Yes, it activates.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2576",
+      "q": "Does this card's [All Turns] effect also activate when one of my effects plays an opponent's Digimon/Tamer?"
+    },
+    {
+      "a": "No, you can't. You must delete as many as possible.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2577",
+      "q": "Can I use this card's [When Digivolving] effect to delete just 1 of my opponent's Digimon if my opponent has level 3, level 5, and level 7 Digimon?"
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2578",
+      "q": [
+        "When this card was in the trash, my [Leviamon] attacked a player, and a Digimon or Tamer was played by a [Security] effect upon the security check.",
+        "In such cases, can I use this card's [Trash] [All Turns] effect to digivolve the attacking [Leviamon] into this card?"
+      ]
+    },
+    {
+      "a": [
+        "No, it only gets 1 additional security check.",
+        "[EX5-063 Leviamon]'s",
+        "is lost upon the digivolution but it gains",
+        ", so the total possible security checks will be 3.",
+        "In the situation from your question, you have already performed 2 security checks, so you have 1 security check remaining."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2579",
+      "q": [
+        "My [EX5-063 Leviamon] with",
+        "attacked a player, and a Digimon or Tamer was played by a [Security] effect upon the 2nd security check. This caused the [EX5-063 Leviamon] to digivolve into this card from the trash.",
+        "This card has",
+        ", but does it get 2 additional security checks?"
+      ]
+    },
+    {
+      "a": "They trigger simultaneously, so the turn player can activate their effect first.",
+      "date": "Jun. 13, 2025",
+      "num": "Q2580",
+      "q": "When an opponent's Digimon with an [On Play] effect is played by an effect, in what order do that Digimon's [On Play] effect and this card's {Trash} [All Turns] effect activate?"
+    },
+    {
+      "a": [
+        "Yes, you can process it.",
+        "Even if your opponent doesn't have as many or more total Digimon and Tamers as you, this card's [When Digivolving] effect will delete 1 of your opponent's level 3, 1 of their level 5 and 1 of their level 7 Digimon."
+      ],
+      "date": "Jun. 13, 2025",
+      "num": "Q4707",
+      "q": "Can I process the part of the effect after \"then\" in this card's [When Digivolving] effect even if the \"if\" condition in the 1st process isn't met?"
+    }
+  ],
+  "Color": "Purple",
+  "Cost": "14",
+  "DP": "14000",
+  "Digivolve Cost 1": [
+    "Purple",
+    "6 from Lv.5"
+  ],
+  "Effect": [
+    "[Trash] [All Turns] When an effect plays an opponent's Digimon or Tamer, 1 of your [Leviamon] or Digimon with [X Antibody] in their digivolution cards may digivolve into this card without paying the cost.",
+    "＜Security A. +2＞",
+    "[When Digivolving] If your opponent has as many or more total Digimon and Tamers as you, delete 1 of their Tamers. Then, delete 1 of your opponent's level 3, 1 of their level 5 and 1 of their level 7 Digimon."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster EXCEED APOCALYPSE [BT15]",
+    "?search=true&category=522020",
+    "/products/pack/ver15"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [Leviamon]: Cost 2",
+  "Type": "Demon Lord/Seven Great Demon Lords/X Antibody",
+  "cardLv": "Lv.6",
+  "cardNo": "BT15-081",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "Leviamon (X Antibody)",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT15-081_P1.png?260210"
+}

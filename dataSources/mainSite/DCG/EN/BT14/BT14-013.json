@@ -1,0 +1,55 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": "Yes, the digivolution cost is reduced by 1. This effect continues until the end of the turn, therefore the digivolution cost will be reduced by 1 for every digivolution that occurs during that time and meets the requirements.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2375",
+      "q": "When digivolving into a Digimon that meets the requirements and then digivolving into another Digimon that meets the requirements in the same turn, can this card's [Start of Your Main Phase] reduce the digivolution cost by 1 again?"
+    },
+    {
+      "a": "No, you can't. This card's inherited effect does not allow you to attack with Digimon that are in a state where they can't attack.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2376",
+      "q": "Can I use this card's inherited effect to attack using a Digimon with this card in its digivolution cards even when it's suspended?"
+    },
+    {
+      "a": "No, you can't. Because the turn didn't switch the first time the turn ended, the [Once Per Turn] restriction still applies. In addition, the [Once Per Turn] restriction doesn't reset even for digivolutions. Therefore, you can't use this card's inherited effect to attack twice.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2377",
+      "q": "At the end of my turn, I used this inherited effect to attack, then an effect changed my memory to 0 or more and my turn continued. After that, if a Digimon with this card in its digivolution cards digivolved and the end of my turn came again while it was unsuspended, can I use this inherited effect to attack again?"
+    },
+    {
+      "a": "No, you can't. At the end of your turn, the inherited effects on these cards activate, the activation order is decided, and then the attack occurs for the 1st Digimon with this card in its digivolution cards. After activation of effects that are triggered upon attack declaration such as [When Attacking] effects and \"when one of your Digimon attacks\" effects but before the counter timing, the next activation would occur for the other inherited effect that was pending activation, but because the 1st Digimon is still attacking, you can't make a new attack declaration, and the 2nd activation fails.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2378",
+      "q": "When I have 2 Digimon with this card in their digivolution cards, can I use this card's [End of Your Turn] effect to attack using these 2 Digimon?"
+    }
+  ],
+  "Color": [
+    "Red",
+    "Green"
+  ],
+  "Cost": "5",
+  "DP": "5000",
+  "Digivolve Cost 1": [
+    "Red",
+    "Green",
+    "3 from Lv.3"
+  ],
+  "Effect": "[Start of Your Main Phase] For the turn, when this Digimon would digivolve into a card with [Tyrannomon] in its name, or the [Dinosaur] or [Ceratopsian] trait, reduce the digivolution cost by 1.",
+  "Form": "Champion",
+  "Inherited Effect": "[End of Your Turn][Once Per Turn] If this Digimon has [Tyrannomon] in its name, or the [Dinosaur] or [Ceratopsian] trait, it may attack.",
+  "Notes": [
+    "Booster BLAST ACE [BT14]",
+    "?search=true&category=522018",
+    "/products/pack/ver14.php"
+  ],
+  "Type": "Dinosaur",
+  "cardLv": "Lv.4",
+  "cardNo": "BT14-013",
+  "cardRarity": "U",
+  "cardTitle": "Tyrannomon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT14-013.png?260210"
+}

@@ -1,0 +1,47 @@
+{
+  "Attribute": "Archangel",
+  "Card Q&A": [
+    {
+      "a": "Yes, you can.",
+      "date": "Mar. 28, 2024",
+      "num": "Q634",
+      "q": "Can I use this card's inherited effect to target one of my opponent's Digimon with 1000 DP or less and delete it?"
+    },
+    {
+      "a": "No battle occurs, and the attack ends. If there are other effects to activate (When Attacking effects, etc.), the attack ends after activating them.",
+      "date": "Mar. 28, 2024",
+      "num": "Q635",
+      "q": "A Digimon with this card as a digivolution card attacks an opponent's Digimon, then that Digimon's DP is reduced to 0 and deleted by this card's inherited effect. What happens to the attack?"
+    },
+    {
+      "a": "No, blocking can only be performed in the blocker timing that occurs after all [When Attacking] effects finish resolving. As such, once a block has been declared, the window for activating this card's inherited effect has already passed, so it can't be activated.",
+      "date": "Mar. 28, 2024",
+      "num": "Q636",
+      "q": [
+        "A Digimon with this card as a digivolution card attacks an opponent's Digimon, then the opponent blocks with a Digimon that has",
+        ". Can I use this card's inherited effect to reduce the DP of the blocking Digimon to 0 and delete it?"
+      ]
+    }
+  ],
+  "Color": "Yellow",
+  "Cost": "7",
+  "DP": "7000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "3 from Lv.4"
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "[When Attacking] 1 of your opponent's Digimon gets -1000 DP for the turn.",
+  "Notes": [
+    "Official Tournament Pack Vol.3",
+    "?search=true&category=522903"
+  ],
+  "Type": "Archangel",
+  "cardLv": "Lv.5",
+  "cardNo": "ST3-08",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "R",
+  "cardTitle": "MagnaAngemon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/ST3-08_P2.png?260210"
+}

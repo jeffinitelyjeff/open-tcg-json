@@ -1,0 +1,132 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": [
+        "No, you can't.",
+        "A \"by\" condition can't be met if only some of the required actions are performed.",
+        "The conditions for this [On Play] [When Digivolving] effect require you to place the specified number of cards from your trash as this Digimon's top digivolution cards."
+      ],
+      "date": "Sep. 5, 2025",
+      "num": "Q5161",
+      "q": "Can I place just 2 [Bagra Army] trait Digimon cards from my trash as this Digimon's top digivolution cards for the conditions of this card's [On Play] [When Digivolving] effect?"
+    },
+    {
+      "a": "If there are already any cards stacked under the Tamer, you place the new card at the bottom.",
+      "date": "Sep. 5, 2025",
+      "num": "Q5162",
+      "q": "If I use this card's [On Play] [When Digivolving] effect to place a card under a Tamer that already has cards under it, in what order do I place the cards?"
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "If your opponent only has 1 Digimon that is unaffected by effects and no Tamers in their battle area, you can choose a card in their hand, but it can't be placed under that Digimon."
+      ],
+      "date": "Sep. 5, 2025",
+      "num": "Q5163",
+      "q": "Can I use this card's [On Play] [When Digivolving] effect to place 1 card from my opponent's hand in the digivolution cards of one of their Digimon that isn't affected by effects?"
+    },
+    {
+      "a": [
+        "No, it doesn't.",
+        "A Digimon will gain an inherited effect, but a Tamer doesn't gain it."
+      ],
+      "date": "Sep. 5, 2025",
+      "num": "Q5164",
+      "q": "If I use this card's [On Play] [When Digivolving] effect to place a card from my opponent's hand under one of their Tamers, does that Tamer gain the placed card's inherited effect?"
+    },
+    {
+      "a": [
+        "Yes, it gains the inherited effect.",
+        "If BT17-087 [Marcus Damon] suspends, BT12-038 [GeoGreymon]'s inherited effect will trigger. However, as soon as it is no longer treated as a Digimon, it will lose inherited effects.",
+        "Related Cards"
+      ],
+      "date": "Sep. 5, 2025",
+      "num": "Q5165",
+      "q": "If I use this card's [On Play] [When Digivolving] effect to place BT12-038 [GeoGreymon] from my opponent's hand as the bottom digivolution card of their BT17-087 [Marcus Damon] that's treated as a Digimon, does that BT17-087 [Marcus Damon] gain BT12-038 [GeoGreymon]'s inherited effect?"
+    },
+    {
+      "a": [
+        "Yes, it triggers.",
+        "Related Cards"
+      ],
+      "date": "Sep. 5, 2025",
+      "num": "Q5166",
+      "q": [
+        "When this card would be played, I placed EX10-056 [Bagramon] under it for its DigiXros, then I played this card.",
+        "I then used this card's [On Play] [When Digivolving] effect to place 1 card from my opponent's hand as their Digimon's bottom digivolution card.",
+        "This card's [All Turns] effect gives it EX10-056 [Bagramon]'s [All Turns] effect at such times, but does it trigger from this card's [On Play] [When Digivolving] effect placing a card from my opponent's hand as their Digimon's bottom digivolution card?"
+      ]
+    },
+    {
+      "a": [
+        "No, it doesn't trigger.",
+        "Related Cards"
+      ],
+      "date": "Sep. 5, 2025",
+      "num": "Q5167",
+      "q": [
+        "I used this card's [On Play] [When Digivolving] effect to place 1 card from my opponent's hand as their Digimon's bottom digivolution card, then I placed 3 cards including EX10-056 [Bagramon] from my trash as this Digimon's top digivolution cards.",
+        "This card's [All Turns] effect gives it EX10-056 [Bagramon]'s [All Turns] effect at such times, but does it trigger from this card's [On Play] [When Digivolving] effect placing a card from my opponent's hand as their Digimon's bottom digivolution card?"
+      ]
+    },
+    {
+      "a": [
+        "Yes, it triggers.",
+        "Related Cards"
+      ],
+      "date": "Sep. 5, 2025",
+      "num": "Q5168",
+      "q": [
+        "I used this card's [On Play] [When Digivolving] effect to place 3 cards including EX10-058 [Lilithmon] from my trash as this Digimon's top digivolution cards and delete my opponent's Digimon.",
+        "This card's [All Turns] effect gives it EX10-058 [Lilithmon]'s [All Turns] effect at such times, but does it trigger from this card's [On Play] [When Digivolving] effect deleting my opponent's Digimon?"
+      ]
+    },
+    {
+      "a": [
+        "Yes, it triggers.",
+        "If the gained [All Turns] effect from EX10-055 [Tactimon] activates, this card will be prevented from leaving, EX7-061 [Lilithmon (X Antibody)]'s \"by deleting 1 other Digimon\" condition will no longer be met, and EX7-061 [Lilithmon (X Antibody)] will be deleted.",
+        "Related Cards"
+      ],
+      "date": "Sep. 5, 2025",
+      "num": "Q5169",
+      "q": [
+        "I used this card's [On Play] [When Digivolving] effect to place 3 cards including EX10-055 [Tactimon] from my trash as this Digimon's top digivolution cards and chose my opponent's EX7-061 [Lilithmon (X Antibody)] as the target to delete.",
+        "This caused the 1st [All Turns] effect on my opponent's EX7-061 [Lilithmon (X Antibody)] to interrupt, and this card was chosen as the target to delete.",
+        "This card's [All Turns] effect gives it EX10-055 [Tactimon]'s [All Turns] effect at such times, but does it trigger?"
+      ]
+    }
+  ],
+  "Color": [
+    "Purple",
+    "Black"
+  ],
+  "Cost": "16",
+  "DP": "16000",
+  "Digivolve Cost 1": [
+    "Purple",
+    "Black",
+    "6 from Lv.6"
+  ],
+  "Effect": [
+    "[On Play] [When Digivolving] Choose 1 card in your opponent's hand without looking and place it as any of their Digimon's bottom digivolution card or under any of their Tamers. Then, by placing 3 [Bagra Army] trait Digimon cards from your trash as this Digimon's top digivolution cards, delete 1 of their Digimon or Tamers with cards under it.",
+    "[All Turns] This Digimon gains all [All Turns] effects on all level 6 [Bagra Army] trait Digimon cards in its digivolution cards."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Extra Booster SINISTER ORDER [EX-10]",
+    "?search=true&category=522031",
+    "/products/pack/ex-10"
+  ],
+  "Special Play Condition": [
+    "DigiXros -3: [Bagramon]×[DarkKnightmon]",
+    "When this would be played, you may place specified cards from your hand/battle area under it. Each one reduces the play cost."
+  ],
+  "Type": "Composite/Bagra Army",
+  "cardLv": "Lv.7",
+  "cardNo": "EX10-059",
+  "cardRarity": "SR",
+  "cardTitle": "DarknessBagramon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX10-059.png?260210"
+}

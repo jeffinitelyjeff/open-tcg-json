@@ -1,0 +1,34 @@
+{
+  "Card Q&A": [
+    {
+      "a": [
+        "[Security] effects take precedence for activation.",
+        "Upon a security check, a [Security] effect will immediately activate without pending activation.",
+        "For other triggered effects, the turn player activates their effects first."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q4608",
+      "q": "In what order do a [Security] effect, \"when [...] performs a security check\" effect, and \"when a card is removed from [...] security stack\" effect activate when they trigger simultaneously upon a security check?"
+    }
+  ],
+  "Color": "Red",
+  "Cost": "8",
+  "Effect": [
+    "When this card would be used, if your opponent has 3 or fewer security cards, reduce the use cost by 4.",
+    "[Main] Delete 1 of your opponent's highest DP Digimon. Then, place this card in the battle area.",
+    "[All Turns] When your opponent's security stack is removed from, ＜Delay＞.",
+    "・1 of your [Reptile] or [Dragonkin] trait Digimon may digivolve into a [Reptile] or [Dragonkin] trait Digimon card in the hand without paying the cost."
+  ],
+  "Notes": [
+    "Booster WORLD CONVERGENCE [BT-21]",
+    "?search=true&category=522028",
+    "/products/pack/ver21"
+  ],
+  "Security Effect": "[Security] Delete 1 of your opponent's Digimon with the highest DP.",
+  "Type": "LIBERATOR",
+  "cardNo": "BT21-093",
+  "cardRarity": "C",
+  "cardTitle": "Raging Serpentine",
+  "cardType": "Option",
+  "imgSrc": "../images/cardlist/card/BT21-093.png?260210"
+}

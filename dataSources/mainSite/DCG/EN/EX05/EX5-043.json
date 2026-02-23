@@ -1,0 +1,45 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": "It means that the effect's play cost reduction of 4 can be further reduced by 3 if the conditions are met, so you can play 1 green Digimon card from your hand with the play cost reduced by 7.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3621",
+      "q": "What does \"if a card with [Leopardmon] in its name or [X Antibody] is in this Digimon's digivolution cards, further reduce it by 3\" in this card's [When Digivolving][Main] effect mean?"
+    },
+    {
+      "a": [
+        "No, it can't.",
+        "Even if there are multiple digivolution cards that meet the conditions, this effect can only further reduce the cost by a maximum of 3."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q3622",
+      "q": "If a total of 2 or more cards with [Leopardmon] in their names and/or [X Antibody] are in this Digimon's digivolution cards, can this card's effect further reduce the cost by 3 for each of those cards?"
+    }
+  ],
+  "Color": "Green",
+  "Cost": "13",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Green",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "[When Digivolving][Main][Once Per Turn] You may play 1 green Digimon card from your hand with the play cost reduced by 4. If a card with [Leopardmon] in its name or [X Antibody] is in this Digimon's digivolution cards, further reduce it by 3.",
+    "[Your Turn][Once Per Turn] When one of your Digimon is played, you may return 1 of your opponent's 5000 DP or lower Digimon to the hand. For each of your other Digimon, add 3000 to the maximum DP this effect can choose."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Theme Booster ANIMAL COLOSSEUM [EX05]",
+    "?search=true&category=522019",
+    "/products/pack/ex-05.php"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.6 w/[Leopardmon] in name w/o [X Antibody] trait: Cost 1",
+  "Type": "Holy Warrior/Royal Knight/X Antibody",
+  "cardLv": "Lv.6",
+  "cardNo": "EX5-043",
+  "cardRarity": "SR",
+  "cardTitle": "Leopardmon (X Antibody)",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX5-043.png?260210"
+}

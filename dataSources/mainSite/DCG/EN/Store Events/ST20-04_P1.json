@@ -1,0 +1,68 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": [
+        "No, you can't.",
+        "You must give",
+        "to 1 of your Digimon."
+      ],
+      "date": "Jun. 13, 2025",
+      "num": "Q4445",
+      "q": "If this card's [Your Turn] effect triggers when another Digimon with the [ADVENTURE] trait is played or another of my Digimon digivolves into an [ADVENTURE] trait Digimon, can I choose to not activate it?"
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Apr. 4, 2025",
+      "num": "Q4446",
+      "q": [
+        "Can I choose different Digimon for the Digimon that gains",
+        "and the Digimon that attacks for this card's [Your Turn] effect?"
+      ]
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Apr. 4, 2025",
+      "num": "Q4447",
+      "q": [
+        "After my Digimon gains",
+        "with this card's [Your Turn] effect, can I choose to not attack for the part of the effect after \"then\"?"
+      ]
+    },
+    {
+      "a": [
+        "Yes, you can process it.",
+        "Even if your other Digimon don't have the [ADVENTURE] trait, this card's [Your Turn] effect will allow 1 of your Digimon to attack."
+      ],
+      "date": "Jun. 13, 2025",
+      "num": "Q4693",
+      "q": "Can I process the part of the effect after \"then\" in this card's [Your Turn] effect even if the \"if\" condition in the 1st process isn't met?"
+    }
+  ],
+  "Color": "Red",
+  "Cost": "7",
+  "DP": "7000",
+  "Digivolve Cost 1": [
+    "Red",
+    "from Lv.4"
+  ],
+  "Effect": [
+    "[On Play] [When Digivolving] For the turn, 1 of your Digimon gains ＜Security A. +1＞, and for every 2 colors your Tamers have, gets +2000 DP. (This Digimon checks 1 additional security card.)",
+    "[Your Turn] [Once Per Turn] When your other Digimon are played or digivolve, if any of them have the [ADVENTURE] trait, 1 of your Digimon gains ＜Alliance＞ for the turn. Then, 1 of your Digimon may attack."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "＜Alliance＞ (When this Digimon attacks, by suspending 1 of your other Digimon, this Digimon gains ＜Security A. +1＞ and the suspended Digimon's DP for the attack.)",
+  "Notes": [
+    "Welcome Tamers Pack",
+    "?search=true&category=522903"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.4 w/[ADVENTURE] trait: Cost 3",
+  "Type": "Birdkin/ADVENTURE",
+  "cardLv": "Lv.5",
+  "cardNo": "ST20-04",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "R",
+  "cardTitle": "Garudamon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/ST20-04_P1.png?260210"
+}

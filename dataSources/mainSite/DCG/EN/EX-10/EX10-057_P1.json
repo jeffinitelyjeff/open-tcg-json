@@ -1,0 +1,106 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": [
+        "It refers to a card that contains the specified text or icon in its name, traits, effects, inherited effects, (Rule), digivolution requirements, DNA digivolution, DigiXros requirements, burst digivolve, App Fusion, Link, or Assembly requirements.",
+        "For example, a card with [Knightmon] in its text would include cards with the name [DarkKnightmon] and cards with the text [Knightmon] in their effects."
+      ],
+      "date": "Sep. 5, 2025",
+      "num": "Q5149",
+      "q": "What does a card with \"X in its text\" refer to?"
+    },
+    {
+      "a": [
+        "They become face-up security cards that remain revealed.",
+        "Other than rules that specify face-up security cards, the rules apply in the same manner as standard security cards."
+      ],
+      "date": "Sep. 5, 2025",
+      "num": "Q5150",
+      "q": "What happens to cards placed face up in the security stack by effects?"
+    },
+    {
+      "a": [
+        "The check is performed with the card left revealed.",
+        "Other than rules for cards left revealed, the rules apply in the same manner as standard security checks."
+      ],
+      "date": "Sep. 5, 2025",
+      "num": "Q5151",
+      "q": "What happens upon a security check for a security card that is placed face-up?"
+    },
+    {
+      "a": "Yes, it triggers.",
+      "date": "Sep. 5, 2025",
+      "num": "Q5152",
+      "q": "Does a card's [Security] effect trigger upon a security check with that card placed face-up?"
+    },
+    {
+      "a": [
+        "Any face-up cards are placed face down, then you shuffle the cards.",
+        "After shuffling, all cards are left face-down."
+      ],
+      "date": "Sep. 5, 2025",
+      "num": "Q5153",
+      "q": "What happens if I shuffle a security stack that includes security cards placed face-up?"
+    },
+    {
+      "a": "Yes, it can be activated.",
+      "date": "Sep. 5, 2025",
+      "num": "Q5154",
+      "q": "Can I activate this card’s {Hand} [Main] effect even when I have no Digimon?"
+    },
+    {
+      "a": [
+        "The player can choose the processing order.",
+        "Related Cards"
+      ],
+      "date": "Sep. 5, 2025",
+      "num": "Q5155",
+      "q": [
+        "The card played by this card's {Hand} [Main] effect digivolved into BT15-102 [Apocalymon].",
+        "At turn end, in what order are the deletion from this card's effect and BT15-102 [Apocalymon]'s [End of Your Turn] effect processed?"
+      ]
+    },
+    {
+      "a": "This condition is met when this card is face-up in the security stack upon being checked.",
+      "date": "Sep. 5, 2025",
+      "num": "Q5156",
+      "q": "What does the condition \"if this card was face-up\" in this card's [Security] effect mean, exactly?"
+    },
+    {
+      "a": "Yes, it's deleted upon the deletion timing.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5739",
+      "q": "Do I delete the Digimon that was played by this card's {Hand} [Main] effect at the end of the turn?"
+    },
+    {
+      "a": "The pending processing for the effect that triggers at the end of the turn and the deletion at the end of the turn are considered to be processing that triggers simultaneously. Therefore, the turn player can choose the processing order.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5740",
+      "q": "What is the processing order for an effect that triggers at the end of the turn and the deletion of this card played by its {Hand} [Main] effect?"
+    }
+  ],
+  "Color": "Purple",
+  "Cost": "11",
+  "DP": "11000",
+  "Effect": [
+    "{Hand} [Main] If you don't have any Digimon other than Digimon with [Dark Masters] in their texts, you may play this card with the play cost reduced by 5. At turn end, delete the Digimon this effect played.",
+    "[On Play] [When Attacking] Delete 1 of your opponent's unsuspended Digimon.",
+    "[All Turns] This Digimon can only digivolve into [Apocalymon].",
+    "[On Deletion] If you have no purple face-up security cards, place this Digimon face up as the bottom security card."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Extra Booster SINISTER ORDER [EX-10]",
+    "?search=true&category=522031",
+    "/products/pack/ex-10"
+  ],
+  "Type": "Wizard/Dark Masters",
+  "cardLv": "Lv.6",
+  "cardNo": "EX10-057",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "R",
+  "cardTitle": "Piedmon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX10-057_P1.png?260210"
+}

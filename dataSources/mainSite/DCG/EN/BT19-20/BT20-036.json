@@ -1,0 +1,58 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "The effects trigger simultaneously, so the player can choose the activation order.",
+      "date": "Jan. 24, 2025",
+      "num": "Q4345",
+      "q": [
+        "I used this card's [End of Your Turn] effect to DNA digivolve, then I attacked using that Digimon.",
+        "At such times, in what order can I activate that Digimon's [When Digivolving] effect and [When Attacking] effect?"
+      ]
+    },
+    {
+      "a": [
+        "No, an attack using the 2nd effect isn't possible. A new attack declaration can't be made during an attack.",
+        "In this case, the [End of Your Turn] effects on both copies of this card trigger simultaneously at the end of your turn, and you use the [End of Your Turn] effect on the 1st copy of this card to attack.",
+        "The 2nd [End of Your Turn] effect can be activated before the counter timing, but because you can't declare another attack during an attack, you won't be able to attack using the 2nd effect, even if you activate it."
+      ],
+      "date": "Apr. 4, 2025",
+      "num": "Q4346",
+      "q": [
+        "I have 2 copies of this card in the battle area.",
+        "At the end of my turn, I used the [End of Your Turn] effect on the 1st copy of this card to attack. Can I then use the [End of Your Turn] effect on the 2nd copy of this card to attack?"
+      ]
+    }
+  ],
+  "Color": [
+    "Yellow",
+    "Black"
+  ],
+  "Cost": "12",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "Black",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "When this card would be played, if you have a Digimon with the [ACCEL] trait, reduce the play cost by 5.",
+    "[On Play] [When Digivolving] ＜De-Digivolve 2＞ 1 of your opponent's Digimon. Then, 1 of their Digimon gets -5000 DP until the end of their turn.",
+    "[End of Your Turn] This Digimon and any of your other Digimon may DNA digivolve into a Digimon card with [Chaosmon] in its name in the hand. Then, the DNA digivolved Digimon may attack."
+  ],
+  "Form": "Mega",
+  "Inherited Effect": "[Opponent's Turn] [Once Per Turn] When one of your opponent's Digimon attacks, you may change the attack target to this Digimon.",
+  "Notes": [
+    "SPECIAL BOOSTER Ver.2.5 [BT19-20]",
+    "?search=true&category=522027",
+    "/products/pack/ver19-20"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.5 w/[ACCEL] trait: Cost 3",
+  "Type": "Beastkin/Boss/ACCEL",
+  "cardLv": "Lv.6",
+  "cardNo": "BT20-036",
+  "cardRarity": "U",
+  "cardTitle": "BanchoLeomon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT20-036.png?260210"
+}

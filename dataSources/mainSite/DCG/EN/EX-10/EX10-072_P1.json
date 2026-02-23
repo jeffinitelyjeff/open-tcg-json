@@ -1,0 +1,44 @@
+{
+  "Card Q&A": [
+    {
+      "a": "Yes, it's deleted upon the deletion timing.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5744",
+      "q": [
+        "Do I delete the Digimon that was played by this card's",
+        "effect at the end of my turn?",
+        "And do I delete the Digimon that was played by the [Security] effect at the end of the turn?"
+      ]
+    },
+    {
+      "a": "The pending processing for the effect that triggers at the end of the turn and the deletion at the end of the turn are considered to be processing that triggers simultaneously. Therefore, the turn player can choose the processing order.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5745",
+      "q": [
+        "What is the processing order for an effect that triggers at the end of the turn and the deletion of a Digimon played by this card's",
+        "effect or [Security] effect?"
+      ]
+    }
+  ],
+  "Color": "White",
+  "Cost": "3",
+  "Effect": [
+    "While you don't have [Spiral Mountain] in the battle area, you can ignore this card's color requirements.",
+    "[Main] ＜Draw 2＞. Then, place this card in the battle area.",
+    "[End of Opponent’s Turn] ＜Delay＞",
+    "・You may play 1 face-up Digimon card with the [Dark Masters] trait from your security stack without paying the cost. At the end of your turn, delete the Digimon this effect played."
+  ],
+  "Notes": [
+    "Extra Booster SINISTER ORDER [EX-10]",
+    "?search=true&category=522031",
+    "/products/pack/ex-10"
+  ],
+  "Security Effect": "[Security] You may play 1 Digimon card with the [Dark Masters] trait from your hand or trash without paying the cost. Then, add this card to the hand. At turn end, delete the Digimon this effect played.",
+  "Type": "Dark Masters",
+  "cardNo": "EX10-072",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "C",
+  "cardTitle": "Spiral Mountain",
+  "cardType": "Option",
+  "imgSrc": "../images/cardlist/card/EX10-072_P1.png?260210"
+}

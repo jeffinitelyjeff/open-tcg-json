@@ -1,0 +1,77 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": [
+        "This effect prevents Digimon from being affected by effects.",
+        "For example, your Digmon won't suspend if it's chosen for a \"suspend 1 of your opponent's Digimon\" effect, and its DP won't be reduced if it's chosen for a \"1 of your opponent's Digimon gets -3000 DP\" effect."
+      ],
+      "date": "Jan. 24, 2025",
+      "num": "Q4392",
+      "q": "What does \"isn't affected by [...] effects\" mean, exactly?"
+    },
+    {
+      "a": "Yes, it can be chosen.",
+      "date": "Jan. 24, 2025",
+      "num": "Q4393",
+      "q": "Can a card that has an \"isn't affected by [...] effects\" effect be chosen for an effect?"
+    },
+    {
+      "a": [
+        "Yes, it can.",
+        "However, it won't be affected by it."
+      ],
+      "date": "Apr. 4, 2025",
+      "num": "Q4394",
+      "q": "Can a card that has an \"isn't affected by [...] effects\" effect be given an effect?"
+    },
+    {
+      "a": "As soon as it gains the \"isn't affected by [...] effects\" effect, it will no longer be affected.",
+      "date": "Jan. 24, 2025",
+      "num": "Q4395",
+      "q": "If a card is affected by an effect, then it later gains an \"isn't affected by [...] effects\" effect, what happens to the effect that was affecting it?"
+    },
+    {
+      "a": "It will be affected by the effect as soon as it can be affected by effects.",
+      "date": "Jan. 24, 2025",
+      "num": "Q4396",
+      "q": "If a card has an \"isn't affected by [...] effects\" effect, it gains an effect, then it later loses the \"isn't affected by [...] effects\" effect, what happens to the effect that it gained?"
+    },
+    {
+      "a": "If the Digimon isn't affected by effects upon the trigger timing, the effect won't trigger.",
+      "date": "Jun. 13, 2025",
+      "num": "Q4397",
+      "q": [
+        "A card that has an \"isn't affected by [...] effects\" effect was given an effect that triggers at a timing such as [When Attacking].",
+        "Will the effect trigger if that card later meets the trigger conditions?"
+      ]
+    }
+  ],
+  "Color": "Black",
+  "Cost": "13",
+  "DP": "13000",
+  "Digivolve Cost 1": [
+    "Black",
+    "Red",
+    "5 from Lv.5"
+  ],
+  "Effect": [
+    "[When Digivolving] ＜De-Digivolve 2＞ 1 of your opponent's Digimon. Then, if [Gankoomon] or [X Antibody] is in this Digimon's digivolution cards, until the end of your opponent's turn, none of your Digimon are affected by your opponent's Digimon's effects.",
+    "[Opponent's Turn] All of your Digimon with [Sistermon] or [Huckmon] in their names or the [Royal Knight] trait gain ＜Reboot＞ and ＜Blocker＞."
+  ],
+  "Form": "Mega",
+  "Inherited Effect": "[Opponent's Turn] While this Digimon is [Jesmon GX], all of your Digimon gain ＜Reboot＞ and ＜Blocker＞.",
+  "Notes": [
+    "SPECIAL BOOSTER Ver.2.5 [BT19-20]",
+    "?search=true&category=522027",
+    "/products/pack/ver19-20"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [Gankoomon]: Cost 2",
+  "Type": "Holy Warrior/X Antibody/Royal Knight",
+  "cardLv": "Lv.6",
+  "cardNo": "BT20-059",
+  "cardRarity": "R",
+  "cardTitle": "Gankoomon (X Antibody)",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT20-059.png?260210"
+}

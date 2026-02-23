@@ -1,0 +1,98 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": [
+        "Yes, all of those Digimon are prevented from leaving.",
+        "This card's [All Turns] effect affects all Digimon without having to choose them."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5621",
+      "q": "If I activate this card's [All Turns] effect when multiples of my [TS] trait Digimon would leave the battle area other than by my effects at the same time, are all of those Digimon prevented from leaving?"
+    },
+    {
+      "a": [
+        "This effect prevents [When Digivolving] effects on cards from activating.",
+        "[When Digivolving] effects can no longer activate by triggering or when effects such as \"activate that card's [When Digivolving]\" effect\" activate."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5622",
+      "q": "What does \"[When Digivolving] effects don't activate\" mean, exactly?"
+    },
+    {
+      "a": [
+        "Yes, you can.",
+        "The effect can activate if it activates upon the [When Attacking] timing."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5623",
+      "q": [
+        "I used a card affected by \"can't activate [When Digivolving] effects\" to attack.",
+        "Can I activate that card's [When Digivolving] [When Attacking] effect at such times?"
+      ]
+    },
+    {
+      "a": "No, it can't be activated.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5624",
+      "q": "If a card is affected by \"can't activate [When Digivolving] effects,\" can other effects activate its [When Digivolving] effect?"
+    },
+    {
+      "a": "No, you can't.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5625",
+      "q": "If a card is affected by \"can't activate [When Digivolving] effects,\" can I process just the \"by\" condition in its [When Digivolving] effect?"
+    },
+    {
+      "a": [
+        "No, it doesn't count.",
+        "The effect can't activate upon the [When Digivolving] timing, therefore it doesn't count as an instance of that effect's [X Per Turn]."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5626",
+      "q": [
+        "A card that was given \"can't activate [When Digivolving] effects\" digivolved into a card that has a [When Digivolving] [When Attacking] [Once Per Turn] effect.",
+        "Does that count as an instance of that effect's [X Per Turn] even if that effect can't be activated upon the timing when that card digivolved?"
+      ]
+    },
+    {
+      "a": [
+        "It refers to Digimon other than the Digimon that would leave the battle area.",
+        "However, if multiple Digimon would leave, you can place Digimon other than 1 of those Digimon in the security stack to meet the conditions."
+      ],
+      "date": "Feb. 6, 2026",
+      "num": "Q5781",
+      "q": "What Digimon are referred to as \"other Digimon\" by this card's [All Turns] effect?"
+    }
+  ],
+  "Color": [
+    "Yellow",
+    "Blue"
+  ],
+  "Cost": "12",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "Blue",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "When this card would be played, if you have 3 or fewer security cards, reduce the play cost by 5.",
+    "[On Play] [When Digivolving] Trash all digivolution cards of 1 of your opponent's Digimon. Then, until your opponent's turn ends, 2 of their Digimon or Tamers can't suspend or activate [When Digivolving] effects.",
+    "[All Turns] [Once Per Turn] When any of your [TS] trait Digimon would leave the battle area other than by your effects, by placing 1 other Digimon with no digivolution cards as the bottom security card, they don't leave."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster TIME STRANGER [BT-24]",
+    "?search=true&category=522033",
+    "/products/pack/ver24"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.5 w/[TS] trait: Cost 3",
+  "Type": "Shaman/Olympos XII/Iliad/TS",
+  "cardLv": "Lv.6",
+  "cardNo": "BT24-040",
+  "cardRarity": "SR",
+  "cardTitle": "Venusmon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT24-040.png?260210"
+}

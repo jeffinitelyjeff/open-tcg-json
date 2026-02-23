@@ -1,0 +1,52 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": [
+        "No, you can't.",
+        "If your opponent has Digimon, you must choose the card with the highest level among them and delete it."
+      ],
+      "date": "Nov. 7, 2025",
+      "num": "Q5343",
+      "q": [
+        "My opponent has a Digimon.",
+        "Can I meet the \"if this effect didn't delete\" condition in this card's [When Digivolving] effect by not choosing a card to delete?"
+      ]
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Nov. 7, 2025",
+      "num": "Q5344",
+      "q": [
+        "My opponent has a Digimon with an effect that prevents deletion.",
+        "Can I meet the \"if this effect didn't delete\" condition in this card's [When Digivolving] effect by choosing the opponent's Digimon with the effect that prevents deletion?"
+      ]
+    }
+  ],
+  "Color": "Purple",
+  "Cost": "14",
+  "DP": "14000",
+  "Digivolve Cost 1": [
+    "Purple",
+    "4 from Lv.6"
+  ],
+  "Effect": [
+    "＜Piercing＞ ＜Security A. +1＞ ＜Execute＞",
+    "[When Digivolving] Delete 1 of your opponent's Digimon with the highest level. If this effect didn't delete, this Digimon gets +5000 DP for the turn.",
+    "[On Deletion] You may play 1 level 6 or lower Digimon card with the [Ghost] trait from your trash without paying the cost."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster HACKERS' SLUMBER [BT-23]",
+    "?search=true&category=522032",
+    "/products/pack/ver23"
+  ],
+  "Special Digivolution Condition": "[Digivolve] While you have [Violet Inboots], [Phantomon]: Cost 6",
+  "Type": "Ghost/LIBERATOR",
+  "cardLv": "Lv.7",
+  "cardNo": "BT23-071",
+  "cardRarity": "SR",
+  "cardTitle": "Dullahamon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT23-071.png?260210"
+}

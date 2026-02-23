@@ -1,0 +1,66 @@
+{
+  "Attribute": "Variable",
+  "Card Q&A": [
+    {
+      "a": [
+        "The [Security] effect will activate first.",
+        "Upon a security check, a [Security] effect will immediately activate without pending activation."
+      ],
+      "date": "Apr. 4, 2025",
+      "num": "Q4523",
+      "q": "What order do an effect that triggers when a card is removed from a security stack and a [Security] effect on a checked card activate when they trigger simultaneously upon a security check?"
+    },
+    {
+      "a": [
+        "Yes, the digivolution cost will be reduced by a total of 2.",
+        "Related Cards"
+      ],
+      "date": "Jun. 13, 2025",
+      "num": "Q4524",
+      "q": [
+        "[Agunimon] is in this card's digivolution cards.",
+        "If this card attacks and I use its [Your Turn] effect to digivolve into BT21-020 [Aldamon], is the digivolution cost reduced by a total of 2?"
+      ]
+    },
+    {
+      "a": "Yes, another security check is performed.",
+      "date": "Apr. 4, 2025",
+      "num": "Q4525",
+      "q": [
+        "This card attacks and I perform a security check on my opponent.",
+        "If I then use this card's [Your Turn] effect to digivolve into a Digimon card with",
+        ", is another security check performed?"
+      ]
+    }
+  ],
+  "Color": "Red",
+  "Cost": "6",
+  "DP": "6000",
+  "Digivolve Cost 1": [
+    "Red",
+    "3 from Lv.3"
+  ],
+  "Digivolve Cost 2": [
+    "Red",
+    "3 from TAMER"
+  ],
+  "Effect": [
+    "[On Play] [When Digivolving] This Digimon gains ＜Piercing＞ and +3000 DP for the turn.",
+    "[Your Turn] When your opponent's security stack is removed from, this Digimon may digivolve into a level 5 Digimon card with the [Hybrid] trait in the hand with the digivolution cost reduced by 1."
+  ],
+  "Form": "Hybrid",
+  "Inherited Effect": "[Your Turn] This Digimon gets +2000 DP.",
+  "Notes": [
+    "Booster WORLD CONVERGENCE [BT-21]",
+    "?search=true&category=522028",
+    "/products/pack/ver21"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [Agunimon]: Cost 1",
+  "Type": "Dark Dragon",
+  "cardLv": "Lv.4",
+  "cardNo": "BT21-014",
+  "cardRarity": "C",
+  "cardTitle": "BurningGreymon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT21-014.png?260210"
+}

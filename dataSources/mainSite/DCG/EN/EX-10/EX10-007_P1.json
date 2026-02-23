@@ -1,0 +1,57 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "Yes, you can.",
+      "date": "Sep. 5, 2025",
+      "num": "Q5012",
+      "q": "Can I use this card's [On Play] [When Digivolving] effect to give DP to either my Digimon or my opponent's Digimon?"
+    },
+    {
+      "a": [
+        "The [All Turns] effects on both EX10-010 [BlackWarGreymon ACE]s activate and their DPs become 15000.",
+        "Because the DP of your opponent's EX10-010 [BlackWarGreymon ACE] becomes 15000, the [All Turns] effect on your EX10-010 [BlackWarGreymon ACE] will activate.",
+        "In turn, this causes the [All Turns] effect on your opponent's EX10-010 [BlackWarGreymon ACE] to activate, it can no longer be affected by the +3000 DP from this card's effect, and this [All Turns] effect will give it +3000 DP.",
+        "In addition, the conditions for both [All Turns] effects will still be met even after your opponent's turn ends and this card's effect is lost, and the DP becomes 15000 for both.",
+        "Related Cards"
+      ],
+      "date": "Sep. 5, 2025",
+      "num": "Q5013",
+      "q": [
+        "Both I and my opponent have 1 EX10-010 [BlackWarGreymon ACE] in our battle areas.",
+        "If this card's [On Play] [When Digivolving] effect gives +3000 DP to my opponent's EX10-010 [BlackWarGreymon ACE], what happens to the [All Turns] effects and DP of both our EX10-010 [BlackWarGreymon ACE]s?"
+      ]
+    }
+  ],
+  "Color": [
+    "Red",
+    "Black"
+  ],
+  "Cost": "4",
+  "DP": "4000",
+  "Digivolve Cost 1": [
+    "Red",
+    "Black",
+    "3 from Lv.3"
+  ],
+  "Effect": [
+    "＜Raid＞",
+    "[On Play] [When Digivolving] 1 Digimon gets +3000 DP until your opponent's turn ends."
+  ],
+  "Form": "Champion",
+  "Inherited Effect": "[All Turns] This Digimon gets +1000 DP.",
+  "Notes": [
+    "Extra Booster SINISTER ORDER [EX-10]",
+    "?search=true&category=522031",
+    "/products/pack/ex-10"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.3 w/[Agumon] in name: Cost 2",
+  "Type": "Dinosaur",
+  "cardLv": "Lv.4",
+  "cardNo": "EX10-007",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "C",
+  "cardTitle": "Greymon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX10-007_P1.png?260210"
+}

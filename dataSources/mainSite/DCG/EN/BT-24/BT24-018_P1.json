@@ -1,0 +1,82 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": "This effect allows you to choose 1 card in your opponent's security stack and trash it.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5596",
+      "q": "What does \"you may trash any 1 of your opponent's security cards\" mean, exactly?"
+    },
+    {
+      "a": [
+        "[Security] effects take precedence for activation.",
+        "Upon a security check, a [Security] effect will immediately activate without pending activation.",
+        "For other triggered effects, the turn player activates their effects first."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5597",
+      "q": "In what order do a [Security] effect, \"when [...] performs a security check\" effect, and \"when a card is removed from [...] security stack\" effect activate when they trigger simultaneously upon a security check?"
+    },
+    {
+      "a": [
+        "Yes, all of those Digimon are prevented from leaving.",
+        "This card's [All Turns] effect affects all Digimon without having to choose them."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5598",
+      "q": "If I activate this card's [All Turns] effect when multiples of my Digimon with the [Reptile] or [Dragonkin] trait would leave the battle area at the same time, are all of those Digimon prevented from leaving?"
+    },
+    {
+      "a": "Yes, it leaves.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5599",
+      "q": [
+        "I attempted to delete my opponent's Digimon using this card's 2nd [All Turns] effect when this card would leave the battle area.",
+        "If another effect prevents my opponent's Digimon from being deleted at such times, does this card leave the battle area?"
+      ]
+    },
+    {
+      "a": [
+        "Yes, you can.",
+        "When this card would be deleted, its",
+        "and 2nd [All Turns] effect trigger simultaneously. Even if you activate its 2nd [All Turns] effect first and the opponent's Digimon can't be deleted, you can then activate the",
+        "that triggered simultaneously."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5600",
+      "q": [
+        "I attempted to delete my opponent's Digimon using this card's 2nd [All Turns] effect when this card with cards under it would be deleted.",
+        "If another effect prevents my opponent's Digimon from being deleted at such times, can I use",
+        "on this card and prevent it from being deleted?"
+      ]
+    }
+  ],
+  "Color": "Red",
+  "Cost": "14",
+  "DP": "14000",
+  "Digivolve Cost 1": [
+    "Red",
+    "4 from Lv.6"
+  ],
+  "Effect": [
+    "＜Progress＞ ＜Piercing＞ ＜Blocker＞ ＜Armor Purge＞",
+    "[When Digivolving] You may trash any 1 of your opponent's security cards. Then, this Digimon may unsuspend.",
+    "[All Turns] [Once Per Turn] When your opponent's security stack is removed from, you may delete 1 of their Digimon.",
+    "[All Turns] [Once Per Turn] When any of your [Reptile] or [Dragonkin] trait Digimon would leave the battle area, by deleting 1 of your opponent's lowest DP Digimon, they don't leave."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster TIME STRANGER [BT-24]",
+    "?search=true&category=522033",
+    "/products/pack/ver24"
+  ],
+  "Special Digivolution Condition": "[Digivolve] While you have [Owen Dreadnought], [Lamiamon]: Cost 6",
+  "Type": "Dragonkin/LIBERATOR",
+  "cardLv": "Lv.7",
+  "cardNo": "BT24-018",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "Styracomon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT24-018_P1.png?260210"
+}

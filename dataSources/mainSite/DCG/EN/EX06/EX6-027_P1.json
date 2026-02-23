@@ -1,0 +1,67 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "No. If you can't add cards from your security stack to the hand, you can't activate the effect.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3744",
+      "q": "Can I activate this card's [On Play] [When Digivolving] effect when I have 0 security cards?"
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "This effect does not allow you to attack with this Digimon if it is in a state where it can't attack."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q3745",
+      "q": "Can I use this Digimon to attack with this card's [All Turns] effect if it digivolved from a Digimon that was played this turn or a suspended Digimon?"
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "You must gain",
+        "and attack, or you must neither gain",
+        "nor attack."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q3746",
+      "q": [
+        "When a card is removed from my security stack, can I use this card's [All Turns] effect to gain",
+        "without attacking?"
+      ]
+    }
+  ],
+  "Color": [
+    "Yellow",
+    "Red"
+  ],
+  "Cost": "7",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "Red",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "{Hand} [Counter] ＜Blast Digivolve＞ (One of your Digimon may digivolve into this card without paying the cost.)",
+    "[On Play] [When Digivolving] By trashing the top or bottom card of your security stack, 1 of your opponent's Digimon gets -8000 DP until the end of their turn.",
+    "[All Turns] [Once Per Turn] When a card is removed from your security stack, if it's your turn, this Digimon may gain ＜Security A. +1＞ for the turn and attack. If it's your opponent's turn, ＜Recovery +1 ≪Deck≫＞."
+  ],
+  "Form": "Mega",
+  "Inherited Effect": "-",
+  "Notes": [
+    "Theme Booster INFERNAL ASCENSION [EX06]",
+    "?search=true&category=522022",
+    "/products/pack/ex-06"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [Angewomon]: Cost 3",
+  "Special Rule": "＜Overflow (-4)＞ (As this card moves from the battle area or under a card to another area, lose 4 memory.)",
+  "Type": "Throne/Three Great Angels",
+  "cardLv": "Lv.6",
+  "cardNo": "EX6-027",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "Ophanimon ACE",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX6-027_P1.png?260210"
+}

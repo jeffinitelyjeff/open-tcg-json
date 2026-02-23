@@ -1,0 +1,69 @@
+{
+  "Attribute": "Unidentified",
+  "Card Q&A": [
+    {
+      "a": [
+        "Count the total number of you and your opponent's suspended Digimon and suspended Tamers, then gain 1 memory for every 2.",
+        "For example, if you have 1 suspended Digimon and 1 suspended Tamer while your opponent has 2 suspended Digimon, the total would be 4 and you gain 2 memory."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2183",
+      "q": "How do I count \"for every 2 suspended Digimon and/or Tamers, gain 1 memory\" for this card's [When Digivolving] effect?"
+    },
+    {
+      "a": [
+        "Yes, that's right.",
+        "Other [BT12-057 Quartzmon]'s [Other than this Digimon, all Digimon and Tamers don't unsuspend.]'s effect will also activate, so if there's more than 1 of this Digimon in play, none of them will be able to unsuspended during the unsuspend phase."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2184",
+      "q": "If I have 2 or more of this Digimon in the battle area, or if me and my opponent have 1 or more each, does this Digimon itself become unable to unsuspend during the unsuspend phase because of this card's [All Turns] effect?"
+    },
+    {
+      "a": [
+        "Yes, it unsuspends.",
+        "DNA Digivolve treats unsuspended Digimon because of the DNA Digivolve as new Digimon in the battle area. This card's effect does not affect it since it's not treated as a suspended Digimon becoming unsuspended"
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2185",
+      "q": "If this Digimon is in play, and 2 suspended Digimon perform DNA Digivolve, will that Digimon unsuspend?"
+    },
+    {
+      "a": "Yes, that's right. Even with the \"Unsuspend this...\" effect, they don't unsuspend.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2186",
+      "q": [
+        "If this Digimon is in play, do other Digimon or Tamers with effects such as",
+        "or \"Unsuspend this...\" become unable to unsuspend?"
+      ]
+    }
+  ],
+  "Color": "Green",
+  "Cost": "16",
+  "DP": "15000",
+  "Digivolve Cost 1": [
+    "Green",
+    "Black",
+    "White",
+    "6 from Lv.6"
+  ],
+  "Effect": [
+    "[When Digivolving] Suspend all other Digimon and all Tamers. Then, for every 2 suspended Digimon and/or Tamers, gain 1 memory.",
+    "[All Turns] Other than this Digimon, all Digimon and Tamers don't unsuspend.",
+    "[When Attacking] Suspend 1 of your opponent's Digimon or Tamers. Then, trash the top card of your opponent’s security stack for every 5 suspended Digimon and/or Tamers."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster ACROSS TIME [BT12]",
+    "?search=true&category=522014",
+    "/products/pack/ver12.php"
+  ],
+  "Special Digivolution Condition": "[Digivolve] 9 from Lv.5 w/＜Save＞ in text",
+  "Type": "Unknown",
+  "cardLv": "Lv.7",
+  "cardNo": "BT12-057",
+  "cardRarity": "SR",
+  "cardTitle": "Quartzmon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT12-057.png?260210"
+}

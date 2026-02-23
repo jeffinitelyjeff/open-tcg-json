@@ -1,0 +1,45 @@
+{
+  "Card Q&A": [
+    {
+      "a": "No, it isn't affected.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2119",
+      "q": "My Digimon is affected by this card's \"isn't affected by your opponent's Option cards\" effect. Is it affected by the [Security] effect of my opponent's Option cards?"
+    },
+    {
+      "a": [
+        "Yes, this card's \"isn't affected by your opponent's Option cards\" effect expires while the effect of [EX1-068 Ice Wall!] is still active, so that Digimon will have [EX1-068 Ice Wall!]'s \"[When Attacking] Lose 2 memory\" effect.",
+        "Related Cards"
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2120",
+      "q": "My opponent uses [EX1-068 Ice Wall!] while one of my Digimon is affected by this card's \"isn't affected by your opponent's Option cards\" effect. If it becomes my next turn and this card's effect expires, will that Digimon have the \"[When Attacking] Lose 2 memory\" effect?"
+    },
+    {
+      "a": [
+        "Since that Digimon isn't affected by your opponent's Option cards anymore, [EX1-068 Ice Wall!]'s \"[When Attacking] Lose 2 memory\" effect ends.",
+        "Related Cards"
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2121",
+      "q": "My opponent uses [EX1-068 Ice Wall!] and I activate this card's \"isn't affected by your opponent's Option cards\" effect on one of my Digimon that has \"[When Attacking] Lose 2 memory\". What happens with the \"[When Attacking] Lose 2 memory\" effect in such cases?"
+    }
+  ],
+  "Color": "Black",
+  "Cost": "4",
+  "Effect": [
+    "[Start of Your Turn] If you have 2 memory or less, set your memory to 3.",
+    "[Your Turn] When one of your Digimon digivolves into a Digimon with [Greymon] in its name, by suspending this Tamer, that Digimon gets +2000 DP until the end of your opponent's turn. If it digivolved into a same-level Digimon, it isn't affected by your opponent's Option cards until the end of your opponent's turn."
+  ],
+  "Notes": [
+    "Booster DIMENSIONAL PHASE [BT11]",
+    "?search=true&category=522013",
+    "/products/pack/ver11.php"
+  ],
+  "Security Effect": "[Security] Play this card without paying its memory cost.",
+  "cardNo": "BT11-093",
+  "cardRarity": "R",
+  "cardTitle": "Yuuya Kuga",
+  "cardType": "Tamer",
+  "imgSrc": "../images/cardlist/card/BT11-093.png?260210"
+}

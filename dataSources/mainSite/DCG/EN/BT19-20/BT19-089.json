@@ -1,0 +1,33 @@
+{
+  "Card Q&A": [
+    {
+      "a": [
+        "Its DP becomes the value it would have when it's unaffected by the DP reduction.",
+        "For example, if a Digimon has an original DP of 5000 and its DP is reduced by -2000 (making its current DP 3000), its DP will no longer be reduced if you choose it for this card's [Main] effect, therefore its DP will become 5000."
+      ],
+      "date": "Sep. 20, 2024",
+      "num": "Q3158",
+      "q": [
+        "I have a Digimon whose DP has been reduced.",
+        "What happens if I choose that Digimon with reduced DP for this card's [Main] effect?"
+      ]
+    }
+  ],
+  "Color": "Red",
+  "Cost": "2",
+  "Effect": [
+    "While your opponent has a white Digimon or Tamer, you may ignore this card's color requirements.",
+    "[Main] Until the end of your opponent's turn, 1 of your Digimon is unaffected by your opponent's Option cards and its DP can't be reduced."
+  ],
+  "Notes": [
+    "SPECIAL BOOSTER Ver.2.5 [BT19-20]",
+    "?search=true&category=522027",
+    "/products/pack/ver19-20"
+  ],
+  "Security Effect": "[Security] Add this card to the hand.",
+  "cardNo": "BT19-089",
+  "cardRarity": "C",
+  "cardTitle": "Red Card",
+  "cardType": "Option",
+  "imgSrc": "../images/cardlist/card/BT19-089.png?260210"
+}

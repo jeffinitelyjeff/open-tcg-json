@@ -1,0 +1,68 @@
+{
+  "Attribute": "Free",
+  "Card Q&A": [
+    {
+      "a": [
+        "No, it isn't deleted yet.",
+        "Once all of the processing for this card's [On Play] [When Digivolving] effect is resolved, then all of the Digimon with 0 DP are deleted at the same time."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5616",
+      "q": [
+        "I activated \"1 of your opponent's Digimon gets -5000 DP for the turn\" in this card's [On Play] [When Digivolving] effect, and the DP of my opponent's Digimon became 0.",
+        "At such times, is that Digimon deleted before the part of the effect after \"then\"?"
+      ]
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5617",
+      "q": "Can I use this card's [On Play] [When Digivolving] effect to give -5000 DP to 1 of my opponent's Digimon, but then choose to not have 1 of my Digimon attack?"
+    },
+    {
+      "a": "1 level 4 or lower yellow or red Digimon card or 1 level 4 or lower [TS] trait Digimon card.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5618",
+      "q": "What cards can be played by this card's [All Turns] effect?"
+    },
+    {
+      "a": "1 level 4 or lower yellow or red Digimon card or 1 level 4 or lower [TS] trait Digimon card.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5619",
+      "q": "What cards can be played using this card's inherited effect?"
+    }
+  ],
+  "Color": [
+    "Yellow",
+    "Red"
+  ],
+  "Cost": "8",
+  "DP": "8000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "Red",
+    "4 from Lv.4"
+  ],
+  "Effect": [
+    "[On Play] [When Digivolving] 1 of your opponent's Digimon gets -5000 DP for the turn. Then, 1 of your Digimon may attack. If DNA digivolving, 1 of your Digimon gains ＜Security A. +1＞ and +5000 DP for the turn.",
+    "[All Turns] [Once Per Turn] When this Digimon would leave the battle area other than by your effects, you may play 1 level 4 or lower yellow, red or [TS] trait Digimon card from its digivolution cards without paying the cost."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "[All Turns] [Once Per Turn] When this Digimon would leave the battle area other than by your effects, you may play 1 level 4 or lower yellow, red or [TS] trait Digimon card from its digivolution cards without paying the cost.",
+  "Notes": [
+    "Booster TIME STRANGER [BT-24]",
+    "?search=true&category=522033",
+    "/products/pack/ver24"
+  ],
+  "Special Digivolution Condition": [
+    "[Digivolve] Lv.4 w/[TS] trait: Cost 3",
+    "[DNA Digivolve] Yellow Lv.4 + red/green Lv.4: Cost 0"
+  ],
+  "Type": "Beastkin/Iliad/TS",
+  "cardLv": "Lv.5",
+  "cardNo": "BT24-037",
+  "cardRarity": "R",
+  "cardTitle": "Silphymon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT24-037.png?260210"
+}

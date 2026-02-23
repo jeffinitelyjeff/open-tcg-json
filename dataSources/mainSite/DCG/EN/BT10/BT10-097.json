@@ -1,0 +1,47 @@
+{
+  "Card Q&A": [
+    {
+      "a": "Yes, that's correct.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2030",
+      "q": "If [Kiriha Aonuma] is among the cards revealed by this card's effect, can it be played?"
+    },
+    {
+      "a": "Yes, you can add 1 card if only 1 card is revealed.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2031",
+      "q": "Can this card's effect add fewer than 2 cards to my hand if it reveals fewer than 2 cards with the [Blue Flare] trait among the 6 revealed cards?"
+    },
+    {
+      "a": "No. For this card's effect you reveal cards, add 2 cards with the [Blue Flare] trait among them to your hand, then play 1 [Kiriha Aonuma] among them. Therefore, if there are 2 or fewer cards with the [Blue Flare] trait including [Kiriha Aonuma] among the revealed cards, you can't play [Kiriha Aonuma] because you would have to add it to your hand.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2032",
+      "q": "If there aren't 2 other Digimon cards with the [Blue Flare] trait among the six revealed cards, can I still play [Kiriha Aonuma] from among the revealed cards?"
+    },
+    {
+      "a": "No, if you perform any of this effect you must perform as much of it as possible, so if both cards with the [Blue Flare] trait and a [Kiriha Aonuma] are among the 3 cards revealed, you must perform both \"add [...] to your hand\" and \"play 1 [Kiriha Aonuma],\" or you must choose to perform neither.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2033",
+      "q": "This card's effect reveals 6 cards. If both cards with the [Blue Flare] trait and a [Kiriha Aonuma] are among the cards revealed, can I choose to only activate the effect that adds the cards to my hand and not play [Kiriha Aonuma], or the other way around?"
+    }
+  ],
+  "Color": "Blue",
+  "Cost": "5",
+  "Effect": [
+    "[Main] Reveal the top 6 cards of your deck. You may add 2 cards with [Blue Flare] in their traits among them to your hand, and play 1 [Kiriha Aonuma] among them without paying its memory cost. Place the rest at the bottom of your deck in any order. Then, place this card in your Battle Area.",
+    "[Main] ＜Delay＞ (By trashing this card in your battle area, activate the effect below. You can't activate this effect the turn this card enters play.)",
+    "・Gain 2 memory."
+  ],
+  "Notes": [
+    "Booster XROS ENCOUNTER [BT10]",
+    "?search=true&category=522011",
+    "/products/pack/ver10.php"
+  ],
+  "Security Effect": "[Security] Place this card in its owner's battle area.",
+  "Type": "Blue Flare",
+  "cardNo": "BT10-097",
+  "cardRarity": "R",
+  "cardTitle": "Blazing Memory Boost!",
+  "cardType": "Option",
+  "imgSrc": "../images/cardlist/card/BT10-097.png?260210"
+}

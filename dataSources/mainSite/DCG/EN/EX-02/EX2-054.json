@@ -1,0 +1,43 @@
+{
+  "Card Q&A": [
+    {
+      "a": "No, it's treated as a normal Digimon once it comes into play.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3345",
+      "q": "If this card's effect plays a Digimon, is it treated as a Security Digimon even in my battle area?"
+    },
+    {
+      "a": [
+        "Yes. This card’s [Opponent's Turn] effect gives your opponent’s attacking Digimon",
+        "before the second security check, so the second security check does not occur, and the attack ends."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q3346",
+      "q": [
+        "An opponent’s Digimon with",
+        "attacks me directly, and this card is flipped over during the first security check and played in my battle area by its [Security] effect. If I have a [Mother D-Reaper] with 6 or more digivolution cards in play, can this card's [Opponent’s Turn] effect prevent my opponent's second security check?"
+      ]
+    }
+  ],
+  "Color": "White",
+  "Cost": "11",
+  "DP": "10000",
+  "Effect": [
+    "[Security] Play this card without battling and without paying its memory cost.",
+    "[On Play] If you have a [Mother D-Reaper] in play, ＜Recovery +1 (Deck)＞. (Place the top card of your deck on top of your security stack.)",
+    "[Opponent's Turn] While you have a [Mother D-Reaper] with 6 or more digivolution cards in play, all of your opponent's Digimon gain ＜Security Attack -1＞. (This Digimon checks 1 fewer security cards.)"
+  ],
+  "Form": "D-Reaper",
+  "Notes": [
+    "Theme Booster DIGITAL HAZARD [EX-02]",
+    "?search=true&category=522009",
+    "/products/pack/ex-02.php"
+  ],
+  "Type": "Base Defense Agent",
+  "cardLv": "Lv.-",
+  "cardNo": "EX2-054",
+  "cardRarity": "C",
+  "cardTitle": "ADR-09 Gatekeeper",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX2-054.png?260210"
+}

@@ -1,0 +1,58 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": "No, it doesn’t activate.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2774",
+      "q": "Does this card's [Your Turn] effect activate when the hand increases from the digivolution bonus upon digivolution by an effect?"
+    },
+    {
+      "a": [
+        "No, they don’t.",
+        "Although cards are added to both players' hands, they are added at the same timing, therefore your opponent only adds 1 card from their security stack to the hand.",
+        "Related Cards"
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2775",
+      "q": "If both my hand and my opponent's hand increase when we both draw 1 card from our decks using an effect such as BT16-020 [GaoGamon]'s [When Digivolving] effect, does my opponent add 2 cards from the top of their security stack to the hand using this card's [Your Turn] effect?"
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2776",
+      "q": "Can I use this card's [On Deletion] effect to play a Tamer card even if I don't return a card from the trash to the hand?"
+    }
+  ],
+  "Color": [
+    "Blue",
+    "Yellow"
+  ],
+  "Cost": "12",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Blue",
+    "Yellow",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "[On Play] [When Digivolving] Return 1 of your opponent's Digimon with the lowest level to the hand.",
+    "[Your Turn] [Once Per Turn] When an effect adds cards to your or your opponent's hand, your opponent adds the top card of their security stack to the hand.",
+    "[On Deletion] You may return 1 Tamer card and 1 [Hybrid] trait Digimon card from your trash to the hand. Then, you may play 1 Tamer card from your hand without paying the cost."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster SECRET CRISIS [BT17]",
+    "?search=true&category=522023",
+    "/products/pack/ver17"
+  ],
+  "Special Play Condition": "DigiXros -3: [Lobomon]×[KendoGarurumon] When you would play this card, you may place specified cards from your hand/battle area under it. Each placed card reduces the play cost.",
+  "Type": "Ancient Animal/Ten Warriors",
+  "cardLv": "Lv.6",
+  "cardNo": "BT17-028",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "AncientGarurumon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT17-028_P1.png?260210"
+}

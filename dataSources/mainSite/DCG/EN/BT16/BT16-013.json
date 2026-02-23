@@ -1,0 +1,91 @@
+{
+  "Attribute": "Free",
+  "Card Q&A": [
+    {
+      "a": "Yes, it activates.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2606",
+      "q": "Does this card’s [All Turns] effect activate when a security card is removed from my security stack by one of my own effects?"
+    },
+    {
+      "a": "Yes, it can.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2607",
+      "q": [
+        "After gaining",
+        "from this card's [All Turns] effect during my opponent's turn, can this Digimon gain",
+        "again from this card's [All Turns] effect during my next turn?"
+      ]
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "This effect is triggered \"when a card is removed from your opponent's security stack,\" so even when you check multiple cards in your opponent's security stack, it is triggered and activates upon the first check. Also, this is a [Once Per Turn] effect, so this effect activates when a card is removed from their security stack upon the first check, and you can't activate the effect again upon the next check."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2608",
+      "q": [
+        "Can I activate this card's [All Turns] effect twice when I use one of my Digimon with",
+        "to check 2 cards in my opponent's security stack?"
+      ]
+    },
+    {
+      "a": "Yes, you do.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2609",
+      "q": [
+        "If the [All Turns] effect gives this Digimon",
+        "when this card attacks and I check my opponent's security stack, do I get an additional security check?"
+      ]
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2610",
+      "q": [
+        "An opponent's Digimon with",
+        "and 8000 DP or less attacked and a security check occurred. If I use this card's [All Turns] effect to delete my opponent's attacking Digimon before the 2nd security check is performed, can I prevent the 2nd security check?"
+      ]
+    },
+    {
+      "a": [
+        "No, it doesn’t activate.",
+        "The effect triggers when a card is removed from a security stack, but this card is removed from the battle area before it can activate."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2611",
+      "q": "My Digimon attacked a player and a security check occurred. If this card leaves the battle area due to the revealed card's [Security] effect, does this card’s [All Turns] effect activate?"
+    }
+  ],
+  "Color": [
+    "Red",
+    "Yellow"
+  ],
+  "Cost": "7",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Red",
+    "Yellow",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "{Hand} [Counter] ＜Blast Digivolve＞ (One of your Digimon may digivolve into this card without paying the cost.)",
+    "[On Play] [When Digivolving] All of your opponent's Digimon get -5000 DP for the turn.",
+    "[All Turns] [Once Per Turn] When a card is removed from a security stack, delete 1 of your opponent's 8000 DP or lower Digimon. If this effect didn't delete, this Digimon gains ＜Security A. +1＞ until the end of your turn."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster BEGINNING OBSERVER [BT16]",
+    "?search=true&category=522021",
+    "/products/pack/ver16"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [Silphymon]: Cost 3",
+  "Special Rule": "＜Overflow (-4)＞ (As this card moves from the battle area or under a card to another area, lose 4 memory.)",
+  "Type": "Warrior",
+  "cardLv": "Lv.6",
+  "cardNo": "BT16-013",
+  "cardRarity": "SR",
+  "cardTitle": "Valkyrimon ACE",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT16-013.png?260210"
+}

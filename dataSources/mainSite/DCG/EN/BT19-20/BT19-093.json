@@ -1,0 +1,74 @@
+{
+  "Card Q&A": [
+    {
+      "a": "The 2nd effect will last until the end of your opponent's turn.",
+      "date": "Sep. 20, 2024",
+      "num": "Q3166",
+      "q": "If this card is in the battle area and is trashed during my opponent's turn, how long does its 2nd effect last?"
+    },
+    {
+      "a": [
+        "This effect prevents [When Digivolving] effects on cards from activating.",
+        "[When Digivolving] effects can no longer activate by triggering or when effects such as \"activate that card's [When Digivolving]\" effect\" activate."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5546",
+      "q": "What does \"[When Digivolving] effects don't activate\" mean, exactly?"
+    },
+    {
+      "a": [
+        "Yes, you can.",
+        "The effect can activate if it activates upon the [When Attacking] timing."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5547",
+      "q": [
+        "I used a card affected by \"can't activate [When Digivolving] effects\" to attack.",
+        "Can I activate that card's [When Digivolving] [When Attacking] effect at such times?"
+      ]
+    },
+    {
+      "a": "No, it can't be activated.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5548",
+      "q": "If a card is affected by \"can't activate [When Digivolving] effects,\" can other effects activate its [When Digivolving] effect?"
+    },
+    {
+      "a": "No, you can't.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5549",
+      "q": "If a card is affected by \"can't activate [When Digivolving] effects,\" can I process just the \"by\" condition in its [When Digivolving] effect?"
+    },
+    {
+      "a": [
+        "No, it doesn't count.",
+        "The effect can't activate upon the [When Digivolving] timing, therefore it doesn't count as an instance of that effect's [X Per Turn]."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5550",
+      "q": [
+        "A card that was given \"can't activate [When Digivolving] effects\" digivolved into a card that has a [When Digivolving] [When Attacking] [Once Per Turn] effect.",
+        "Does that count as an instance of that effect's [X Per Turn] even if that effect can't be activated upon the timing when that card digivolved?"
+      ]
+    }
+  ],
+  "Color": "Yellow",
+  "Cost": "3",
+  "Effect": [
+    "While you don't have [Queen Device] in the battle area, you may ignore this card's color requirements.",
+    "When this card is trashed from the battle area, until the end of your opponent's turn, 1 of their Digimon can't activate [When Digivolving] effects and gets -3000 DP.",
+    "[Main] Until the end of your opponent's turn, 1 of their Digimon can't activate [When Digivolving] effects and gets -3000 DP. Then, place this card in the battle area."
+  ],
+  "Notes": [
+    "SPECIAL BOOSTER Ver.2.5 [BT19-20]",
+    "?search=true&category=522027",
+    "/products/pack/ver19-20"
+  ],
+  "Security Effect": "[Security] Give 2 of your opponent's Digimon ＜Security A. -2＞ for the turn. Then, add this card to the hand.",
+  "Type": "Device",
+  "cardNo": "BT19-093",
+  "cardRarity": "C",
+  "cardTitle": "Queen Device",
+  "cardType": "Option",
+  "imgSrc": "../images/cardlist/card/BT19-093.png?260210"
+}

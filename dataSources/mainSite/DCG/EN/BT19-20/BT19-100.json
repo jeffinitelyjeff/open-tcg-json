@@ -1,0 +1,100 @@
+{
+  "Card Q&A": [
+    {
+      "a": [
+        "No, you can't.",
+        "You can't activate it unless all of your Digimon and Tamers in the battle area have the [D-Reaper] trait."
+      ],
+      "date": "Sep. 20, 2024",
+      "num": "Q3176",
+      "q": "Can I activate this card's [Security] effect even if I have a Digimon with the [D-Reaper] trait and a Tamer without the [D-Reaper] trait in my battle area?"
+    },
+    {
+      "a": [
+        "Yes, you can. When text doesn't specify an area, it means that it specifies, references, or affects the battle area.",
+        "In the case of this card's [Security] effect, it can be activated if all of the Digimon and Tamers in your battle area have the [D-Reaper] trait."
+      ],
+      "date": "Sep. 20, 2024",
+      "num": "Q3177",
+      "q": "Can I activate this card's [Security] effect even if all of my Digimon and Tamers in the battle area have the [D-Reaper] trait but my Digimon in the breeding area doesn't have the [D-Reaper] trait?"
+    },
+    {
+      "a": [
+        "No, you can't activate it. When text doesn't specify an area, it means that it specifies, references, or affects the battle area.",
+        "In the case of this card's [Security] effect, it can't be activated unless you have at least 1 Digimon or Tamer in your battle area with the [D-Reaper] trait."
+      ],
+      "date": "Sep. 20, 2024",
+      "num": "Q3178",
+      "q": "Can I activate this card's [Security] effect even if I don't have any Digimon or Tamers with the [D-Reaper] trait in my battle area, but I do have a Digimon with the [D-Reaper] trait in my breeding area?"
+    },
+    {
+      "a": [
+        "Yes, you can.",
+        "However, the condition \"if you have no face-up security cards\" in this card's [Main] effect won't be met, and the effect can't activate."
+      ],
+      "date": "Sep. 20, 2024",
+      "num": "Q3179",
+      "q": "Can I use this card from my hand when I have a face-up Security card?"
+    },
+    {
+      "a": [
+        "They become face-up security cards that remain revealed.",
+        "Other than rules that specify face-up security cards, the rules apply in the same manner as standard security cards."
+      ],
+      "date": "Nov. 22, 2024",
+      "num": "Q3180",
+      "q": "What happens to cards placed face up in the security stack by effects?"
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "If the effect triggers, it must activate."
+      ],
+      "date": "Apr. 4, 2025",
+      "num": "Q3181",
+      "q": "If this card's {Security} effect triggers, can I choose to not activate it?"
+    },
+    {
+      "a": [
+        "The check is performed with the card left revealed.",
+        "Other than rules for cards left revealed, the rules apply in the same manner as standard security checks."
+      ],
+      "date": "Nov. 22, 2024",
+      "num": "Q3182",
+      "q": "What happens upon a security check for a security card that is placed face-up?"
+    },
+    {
+      "a": "Yes, it triggers.",
+      "date": "Nov. 22, 2024",
+      "num": "Q3183",
+      "q": "Does a card's [Security] effect trigger upon a security check with that card placed face-up?"
+    },
+    {
+      "a": [
+        "Any face-up cards are placed face down, then you shuffle the cards.",
+        "After shuffling, all cards are left face-down."
+      ],
+      "date": "Nov. 22, 2024",
+      "num": "Q3184",
+      "q": "What happens if I shuffle a security stack that includes security cards placed face-up?"
+    }
+  ],
+  "Color": "White",
+  "Cost": "3",
+  "Effect": [
+    "[Security] [Opponent's Turn] When one of your opponent's Digimon attacks, if all of your Digimon and Tamers have the [D-Reaper] trait, for each digivolution card of 1 of your [Mother D-Reaper]s, the attacking Digimon gets -1000 DP for the turn.",
+    "[Main] If you have no face-up security cards, by trashing your top security card, place this card face up as your top security card."
+  ],
+  "Notes": [
+    "SPECIAL BOOSTER Ver.2.5 [BT19-20]",
+    "?search=true&category=522027",
+    "/products/pack/ver19-20"
+  ],
+  "Security Effect": "[Security] From your hand and without paying the cost, you may play 1 [D-Reaper] trait card with as high or lower a play cost as the number of 1 of your [Mother D-Reaper]s' digivolution cards.",
+  "Type": "D-Reaper",
+  "cardNo": "BT19-100",
+  "cardRarity": "C",
+  "cardTitle": "D-Reaper Zone",
+  "cardType": "Option",
+  "imgSrc": "../images/cardlist/card/BT19-100.png?260210"
+}

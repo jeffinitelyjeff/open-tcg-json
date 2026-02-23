@@ -1,0 +1,68 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": [
+        "No, you can't.",
+        "You must give",
+        "to 1 of your Digimon."
+      ],
+      "date": "Jun. 13, 2025",
+      "num": "Q4472",
+      "q": "If this card's [Your Turn] effect triggers when another Digimon with the [ADVENTURE] trait is played or another of my Digimon digivolves into an [ADVENTURE] trait Digimon, can I choose to not activate it?"
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Apr. 4, 2025",
+      "num": "Q4473",
+      "q": [
+        "Can I choose different Digimon for the Digimon that gains",
+        "and the Digimon that attacks for this card's [Your Turn] effect?"
+      ]
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Apr. 4, 2025",
+      "num": "Q4474",
+      "q": [
+        "After my Digimon gains",
+        "with this card's [Your Turn] effect, can I choose to not attack for the part of the effect after \"then\"?"
+      ]
+    },
+    {
+      "a": [
+        "Yes, you can process it.",
+        "Even if your other Digimon don't have the [ADVENTURE] trait, this card's [Your Turn] effect will allow 1 of your Digimon to attack."
+      ],
+      "date": "Jun. 13, 2025",
+      "num": "Q4699",
+      "q": "Can I process the part of the effect after \"then\" in this card's [Your Turn] effect even if the \"if\" condition in the 1st process isn't met?"
+    }
+  ],
+  "Color": "Blue",
+  "Cost": "7",
+  "DP": "7000",
+  "Digivolve Cost 1": [
+    "Blue",
+    "3 from Lv.4"
+  ],
+  "Effect": [
+    "[On Play] [When Digivolving] For every 2 colors your Tamers have, trash any 1 of your opponent's Digimon's digivolution cards. Then, return 1 of their Digimon with 1 or fewer digivolution cards to the hand.",
+    "[Your Turn] [Once Per Turn] When your other Digimon are played or digivolve, if any of them have the [ADVENTURE] trait, 1 of your Digimon gains ＜Alliance＞ for the turn. Then, 1 of your Digimon may attack."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "＜Alliance＞ (When this Digimon attacks, by suspending 1 of your other Digimon, this Digimon gains ＜Security A. +1＞ and the suspended Digimon's DP for the attack.)",
+  "Notes": [
+    "Starter Deck HERO OF HOPE [ST-21]",
+    "?search=true&category=522121",
+    "/products/deck/st20-21"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.4 w/[ADVENTURE] trait: Cost 3",
+  "Type": "Sea Beast/ADVENTURE",
+  "cardLv": "Lv.5",
+  "cardNo": "ST21-04",
+  "cardRarity": "U",
+  "cardTitle": "Zudomon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/ST21-04.png?260210"
+}

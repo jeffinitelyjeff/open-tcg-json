@@ -1,0 +1,65 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "Yes, your opponent loses 1 memory.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2520",
+      "q": "If this card’s [On Play] [When Digivolving] effect activates on an opponent's Digimon with 3000 DP or less, then its DP is reduced to 0 and it's deleted, does the \"[On Deletion] Lose 1 memory\" effect given to my opponent's Digimon at the same time cause my opponent to lose 1 memory?"
+    },
+    {
+      "a": [
+        "Yes, they activate.",
+        "This card's \"This Digimon gains all effects of cards with [Gammamon] in their names in this Digimon's digivolution cards\" effect is an [All Turns] effect, so it will activate as soon as the digivolution is confirmed. Therefore, [When Evolving] effects are gained and will trigger."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2521",
+      "q": "When digivolving into this card, do the [When Digivolving] effects on digivolution cards with [Gammamon] in their names activate?"
+    },
+    {
+      "a": [
+        "Yes, if the memory gauge is now at 1 or greater on your opponent's side, you can activate",
+        "."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2522",
+      "q": [
+        "I digivolve a Digimon with [Gammamon] in its name and a [When Digivolving]",
+        "effect into this card. Can I activate the [When Digivolving]",
+        "effect through this card's [All Turns] effect and attack?"
+      ]
+    },
+    {
+      "a": "No, this card's [All Turns] effect and inherited effect don't affect the inherited effects of digivolution cards with [Gammamon] in their names.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2523",
+      "q": "Does this card's [All Turns] effect and inherited effect allow me to activate the inherited effect of a digivolution card with [Gammamon] in its name as an effect of this card?"
+    }
+  ],
+  "Color": "Yellow",
+  "Cost": "7",
+  "DP": "7000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "3 from Lv.4"
+  ],
+  "Effect": [
+    "[On Play] [When Digivolving] Until the end of your opponent's turn, 1 of their Digimon gets -3000 DP and gains \"[On Deletion] Lose 1 memory.\"",
+    "[All Turns] This Digimon gains all of the effects of cards with [Gammamon] in their names in this Digimon's digivolution cards."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "[All Turns] This Digimon gains all of the effects of cards with [Gammamon] in their names in this Digimon's digivolution cards.",
+  "Notes": [
+    "Booster EXCEED APOCALYPSE [BT15]",
+    "?search=true&category=522020",
+    "/products/pack/ver15"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.4 w/[Gammamon] in name: Cost 3",
+  "Type": "Mutant",
+  "cardLv": "Lv.5",
+  "cardNo": "BT15-039",
+  "cardRarity": "U",
+  "cardTitle": "Bombermon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT15-039.png?260210"
+}

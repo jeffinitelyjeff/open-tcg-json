@@ -1,0 +1,73 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "Normally, the turn will end and switch when the memory moves to 1 or more on your opponent's side. But while this effect is activated, the turn won't end unless the memory moves to 3 or more on your opponent's side. Your turn will continue when your opponent's memory is at 1 or 2.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2449",
+      "q": "What does this card's [Your Turn] effect mean?"
+    },
+    {
+      "a": "No, this effect only applies during your turn. Your opponent's turn continues until the memory moves to 1 or more from your perspective.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2450",
+      "q": "If the memory moves to 2 or less on my opponent's side during my opponent's turn, does the turn switch to my turn with this card's [Your Turn] effect?"
+    },
+    {
+      "a": "Yes, your turn continues.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2451",
+      "q": "The memory moved to 3 or more on my opponent's side and the turn ended while this card's [Your Turn] effect was activated. If the memory moves to 1 or 2 on my opponent's side due to an [End of Your Turn] effect, does my turn continue?"
+    },
+    {
+      "a": [
+        "No.",
+        "still requires the memory to be at 1 or more on your opponent's side for attacking."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2452",
+      "q": [
+        "When the memory moves to 3 or more on my opponent's side while this card's [Your Turn] effect is activated, does",
+        "allow for attacking?"
+      ]
+    },
+    {
+      "a": "No, you can't. This effect is a \"You may play\" effect, but it doesn't include \"up to,\" therefore you must choose to either play no cards or as many as possible.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2453",
+      "q": "Can I use this card's [When Digivolving] effect to play just 2 of the target cards from my trash when [Eiji Nagasumi] is in this Digimon's digivolution cards and I have 3 or more level 4 or lower cards with the [Dark Animal] or [SoC] trait in my trash?"
+    },
+    {
+      "a": "The memory will move to 3 on your opponent's side, and the turn will end if there are no other effects pending activation, etc.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2454",
+      "q": "What happens if I declare a \"pass\" when I have this Digimon?"
+    }
+  ],
+  "Color": "Purple",
+  "Cost": "12",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Purple",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "[When Digivolving] You may play 1 level 4 or lower card with the [Dark Animal] or [SoC] trait from your trash without paying the cost. If [Eiji Nagasumi] is in this Digimon's digivolution cards, add 2 to the number of cards this effect may play.",
+    "[When Attacking][Once Per Turn] By deleting 1 of your opponent's level 3 or lower Digimon, unsuspend this Digimon. For each of your Digimon, add 1 to the level this effect may choose.",
+    "[Your Turn] The turn end condition is the opponent having 3 or more memory."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster BLAST ACE [BT14]",
+    "?search=true&category=522018",
+    "/products/pack/ver14.php"
+  ],
+  "Type": "Dark Animal/X Antibody/SoC",
+  "cardLv": "Lv.6",
+  "cardNo": "BT14-081",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "Fenriloogamon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT14-081_P1.png?260210"
+}

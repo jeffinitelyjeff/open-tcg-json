@@ -1,0 +1,82 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": [
+        "Yes, it can be blocked.",
+        "is an effect that allows for the Digimon to block, so it isn't affected by \"\"isn't affected by the effects of your opponent's Digimon\"\" effects."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2315",
+      "q": "If this Digimon attacks when this card's [On Play][When Attacking] effect prevents it from being affected by the effects of my opponent's Digimon, can it be blocked by my opponent's Digimon?"
+    },
+    {
+      "a": [
+        "No. The effect reads \"\"You may choose,\"\" so you don't have to choose a Digimon.",
+        "In such cases, the attack doesn't occur."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q2316",
+      "q": "Do I have to choose an opponent's Digimon and have my opponent attack for this card's [End of Opponent’s Turn] effect?"
+    },
+    {
+      "a": "No, you don't have to choose an opponent's Digimon.",
+      "date": "Jun. 21, 2024",
+      "num": "Q2317",
+      "q": "Do I have to choose an opponent's Digimon for this card's [End of Opponent’s Turn] effect?"
+    },
+    {
+      "a": "No, they can't attack using a Digimon that can't attack.",
+      "date": "Jun. 21, 2024",
+      "num": "Q2318",
+      "q": "If I choose an opponent's Digimon that can't attack for this card's [End of Opponent’s Turn] effect, does my opponent attack with that Digimon?"
+    },
+    {
+      "a": [
+        "No, your opponent can't attack using that Digimon. A new attack declaration can't be made during an attack.",
+        "In such cases, even if you choose an opponent's Digimon for this card's [End of Opponent’s Turn] effect when there is already an attacking Digimon, your opponent can't attack with the chosen Digimon."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q2319",
+      "q": [
+        "An opponent's Digimon is attacking using an effect at the end of their turn.",
+        "If I choose an opponent's Digimon for this card's [End of Opponent’s Turn] effect, does my opponent attack with that Digimon?"
+      ]
+    },
+    {
+      "a": [
+        "Yes, you can choose a Digimon that isn't affected by effects for this and have it attack.",
+        "Such Digimon aren't affected by effects, but they can be chosen.",
+        "In addition, \"your opponent attacks with the chosen Digimon\" in this card's [End of Opponent’s Turn] effect affects a player, therefore your opponent must attack with the chosen Digimon if it can attack."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q2320",
+      "q": "Can I choose a Digimon that isn't affected by effects for this card's [End of Opponent’s Turn] effect and have it attack?"
+    }
+  ],
+  "Color": "Black",
+  "Cost": "13",
+  "DP": "13000",
+  "Digivolve Cost 1": [
+    "Black",
+    "5 from Lv.5"
+  ],
+  "Effect": [
+    "＜Blocker＞",
+    "[On Play][When Digivolving] Until the end of your opponent's turn, this Digimon isn't affected by the effects of your opponent's Digimon.",
+    "[End of Opponent’s Turn] Choose 1 of your opponent's Digimon. Your opponent attacks with the chosen Digimon."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster VERSUS ROYAL KNIGHTS [BT13]",
+    "?search=true&category=522016",
+    "/products/pack/ver13.php"
+  ],
+  "Type": "Holy Warrior/Royal Knight",
+  "cardLv": "Lv.6",
+  "cardNo": "BT13-077",
+  "cardRarity": "SR",
+  "cardTitle": "Craniamon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT13-077.png?260210"
+}

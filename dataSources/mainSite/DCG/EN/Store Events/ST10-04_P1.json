@@ -1,0 +1,64 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "Yes. The effect reads, “Reveal the top 3 cards of your deck,” so if you don’t have 3 cards left in your deck, reveal as many as you can.",
+      "date": "Mar. 28, 2024",
+      "num": "Q727",
+      "q": "Does this card’s [On Play] effect force me to reveal 3 cards from the top of my deck?"
+    },
+    {
+      "a": "Yes. The effect reads, “Add 1 card...to your hand,” so if you reveal a card that meets the requirements, you must add it to your hand.",
+      "date": "Mar. 28, 2024",
+      "num": "Q728",
+      "q": "This card's [On Play] effect reveals cards from the top of my deck. If I reveal both yellow and purple cards, do I have to add both of them to my hand?"
+    },
+    {
+      "a": "At the end of your turn, this effect allows you DNA digivolve a Digimon with this card in its digivolution cards, along with one of your other Digimon, into a Digimon in your hand that has [DNA Digivolve]. Note that this happens before it becomes your opponent’s turn.",
+      "date": "Mar. 28, 2024",
+      "num": "Q729",
+      "q": "How does this card’s inherited effect work, exactly?"
+    },
+    {
+      "a": "No. You can’t ignore the digivolution requirements, so you can’t DNA digivolve into a Digimon card that doesn’t have [DNA Digivolve].",
+      "date": "Mar. 28, 2024",
+      "num": "Q730",
+      "q": "With this card's inherited effect, can I DNA digivolve into to DNA digivolve into a Digimon card in my hand that doesn’t have [DNA Digivolve]?"
+    },
+    {
+      "a": "No. You can’t ignore the digivolution requirements, so you can’t DNA digivolve using Digimon that aren’t specified in [DNA Digivolution].",
+      "date": "Mar. 28, 2024",
+      "num": "Q731",
+      "q": "Does this card's inherited effect allow me to DNA digivolve into a card other than the Digimon specified by [DNA Digivolution] in the hand?"
+    }
+  ],
+  "Color": [
+    "Yellow",
+    "Purple"
+  ],
+  "Cost": "5",
+  "DP": "4000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "Purple",
+    "0 from Lv.3"
+  ],
+  "Effect": [
+    "[On Play] Reveal the top 3 cards of your deck. Add 1 yellow Digimon card and 1 purple Digimon card among them to your hand. Place the remaining cards at the bottom of your deck in any order.",
+    "[Your Turn] When this Digimon digivolves into a card with [Archangel] or [Fallen Angel] in its traits, reduce the memory cost of the digivolution by 2."
+  ],
+  "Form": "Champion",
+  "Inherited Effect": "[End of Your Turn] You may DNA digivolve this Digimon and one of your other Digimon in play into a Digimon card in your hand by paying its DNA digivolve cost.",
+  "Notes": [
+    "Official Tournament Pack Vol.9",
+    "?search=true&category=522903"
+  ],
+  "Type": "Holy Beast",
+  "cardLv": "Lv.4",
+  "cardNo": "ST10-04",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "Gatomon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/ST10-04_P1.png?260210"
+}

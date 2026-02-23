@@ -1,0 +1,44 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": [
+        "No, it can't.",
+        "This card's [Your Turn] effect triggers \"when a card is removed from your opponent's security stack,\" therefore it will trigger/activate when the 1st security check is performed, even if there are no targets. Because it's a [Once Per Turn] effect, it can't trigger when the 2nd security check is performed."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q3551",
+      "q": [
+        "In a state where my opponent had no Digimon, I used this Digimon with",
+        "to attack, [BT3-036 Ankylomon] was flipped over for the 1st security check, and the [Security] effect played it as an opponent's Digimon at the end of the battle. When the 2nd security check is performed, can this card's [Your Turn] effect delete my opponent’s [BT3-036 Ankylomon]?"
+      ]
+    }
+  ],
+  "Color": "Red",
+  "Cost": "12",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Red",
+    "Blue",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "[When Digivolving] ＜Blitz＞",
+    "[Your Turn] For every 3 cards in this Digimon's digivolution cards, this Digimon gains ＜Security A. +1＞.",
+    "[Your Turn][Once Per Turn] When a card is removed from your opponent's security stack, delete 1 of your opponent’s Digimon with DP less than or equal to this Digimon’s DP."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Theme Booster ANIMAL COLOSSEUM [EX05]",
+    "?search=true&category=522019",
+    "/products/pack/ex-05.php"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.5 w/[Light Fang]/[Night Claw] trait: Cost 4",
+  "Type": "Shaman/Olympos XII/Light Fang",
+  "cardLv": "Lv.6",
+  "cardNo": "EX5-014",
+  "cardRarity": "SR",
+  "cardTitle": "Apollomon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX5-014.png?260210"
+}

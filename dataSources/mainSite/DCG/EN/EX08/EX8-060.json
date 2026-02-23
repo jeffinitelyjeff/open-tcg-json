@@ -1,0 +1,61 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "Yes, it triggers.",
+      "date": "Nov. 22, 2024",
+      "num": "Q3941",
+      "q": "Does this card's [Your Turn] effect trigger when this card itself is played?"
+    },
+    {
+      "a": "Yes, it triggers.",
+      "date": "Nov. 22, 2024",
+      "num": "Q3942",
+      "q": "Does this card's [Your Turn] effect trigger when a card digivolves into this card itself?"
+    },
+    {
+      "a": "No, it can't attack. A new attack declaration can't be made during an attack.",
+      "date": "Nov. 22, 2024",
+      "num": "Q3943",
+      "q": [
+        "This card attacks, and I use its [When Attacking] effect to play an [NSo] trait Digimon.",
+        "If I then use this card's [Your Turn] effect to DNA digivolve using 2 of my Digimon, can I use that Digimon to attack?"
+      ]
+    },
+    {
+      "a": "The effects trigger simultaneously, so the player can choose the activation order.",
+      "date": "Nov. 22, 2024",
+      "num": "Q3944",
+      "q": [
+        "I used this card's [Your Turn] effect to DNA digivolve, then I attacked using that Digimon.",
+        "At such times, in what order can I activate that Digimon's [When Digivolving] effect and [When Attacking] effect?"
+      ]
+    }
+  ],
+  "Color": "Purple",
+  "Cost": "7",
+  "DP": "7000",
+  "Digivolve Cost 1": [
+    "Purple",
+    "3 from Lv.4"
+  ],
+  "Effect": [
+    "[When Attacking] You may play 1 [NSo] trait Digimon card with a play cost of 3 or less from your trash without paying the cost.",
+    "[Your Turn] [Once Per Turn] When your Digimon are played or digivolve, if any of them have the [NSo] trait, 2 of your Digimon may DNA digivolve into a Digimon card with the [NSo] trait in the hand. Then, that DNA digivolved Digimon may attack."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "[When Attacking] [Once Per Turn] By deleting 1 of your other Digimon, this Digimon unsuspends.",
+  "Notes": [
+    "Extra Booster CHAIN OF LIBERATION [EX08]",
+    "?search=true&category=522026",
+    "/products/pack/ex-08"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.4 w/[NSo] trait: Cost 3",
+  "Type": "Undead/NSo",
+  "cardLv": "Lv.5",
+  "cardNo": "EX8-060",
+  "cardRarity": "R",
+  "cardTitle": "Myotismon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX8-060.png?260210"
+}

@@ -1,0 +1,70 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "Yes, it activates at the end of the battle, regardless of outcome.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1495",
+      "q": "Does this card’s [Security] effect activate even if it loses the battle against the attacking Digimon?"
+    },
+    {
+      "a": "Even after using this card’s [Security] effect to prevent your opponent’s Digimon from attacking players, it only prevents them from declaring further attacks. The current attack proceeds normally.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1496",
+      "q": "If I use this card’s [Security] effect to prevent my opponent’s currently attacking Digimon from attacking players, does the attack end immediately, or does my opponent get to perform their remaining security checks?"
+    },
+    {
+      "a": "Yes, you do.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1497",
+      "q": [
+        "My opponent uses this card’s [Security] effect to prevent one of my Digimon with",
+        "from attacking players. If that Digimon attacks and deletes an opponent's Digimon and survives, do I still get to perform security checks with",
+        "?"
+      ]
+    },
+    {
+      "a": [
+        "Yes, it can.",
+        "This card’s [Security Effect] only affects Digimon that are in play at the time it’s activated."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q1498",
+      "q": [
+        "I have 11 or fewer Digimon in play, and my opponent activates this card’s [Security] effect, preventing all of my Digimon from attacking players for the turn. If I later play a Digimon with",
+        "during that same turn, can that Digimon attack players?"
+      ]
+    },
+    {
+      "a": "No, it doesn’t.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1499",
+      "q": "If this Digimon attacks and is deleted in battle, does its [End of Attack] effect activate at the end of the attack?"
+    }
+  ],
+  "Color": "Black",
+  "Cost": "13",
+  "DP": "11000",
+  "Digivolve Cost 1": [
+    "Black",
+    "3 from Lv.5"
+  ],
+  "Effect": [
+    "[Security] At the end of the battle, add this card to your hand. Then, if a Digimon with [Royal Knight] or [X-Antibody] in its type is in play, up to 12 of your opponent's Digimon can't attack players for the turn.",
+    "[When Attacking] You may pay up to 5 memory. If you do, this Digimon gets +1000 DP for the turn for each memory paid.",
+    "[End of Attack] Gain 2 memory."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster DOUBLE DIAMOND [BT06]",
+    "?search=true&category=522005",
+    "/products/pack/ver6.php"
+  ],
+  "Type": "Holy Warrior/Royal Knight/X-Antibody",
+  "cardLv": "Lv.6",
+  "cardNo": "BT6-111",
+  "cardRarity": "SEC",
+  "cardTitle": "Alphamon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT6-111.png?260210"
+}

@@ -1,0 +1,87 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "If no Digimon was deleted by this effect” refers to a state in which, when resolving this Digimon’s [When Digivolving] effect, your opponent doesn't have a Digimon with 10000 DP or less in play, or you try to delete an opponent's suitable Digimon can't be deleted with the effect. Essentially, if you didn't delete a Digimon by “Delete 1 of your opponent’s Digimon with 10000 DP or less,” follow the instructions listed after “If no Digimon was deleted by this effect...",
+      "date": "Mar. 28, 2024",
+      "num": "Q3298",
+      "q": "This card’s [When Digivolving] effect reads “Delete 1 of your opponent's Digimon with 10000 DP or less. If no Digimon was deleted by this effect...” What situations does “If no Digimon was deleted by this effect” refer to, specifically?"
+    },
+    {
+      "a": [
+        "No. If there’s a valid target in play, you must choose it with the effect.",
+        "You can't choose to NOT activate the effect."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q3299",
+      "q": "My opponent has a Digimon with 10000 DP or less in play. Can I choose not to delete my opponent’s Digimon with this card’s [When Digivolving] effect so we both trash the top 5 cards of our deck?"
+    },
+    {
+      "a": "Yes. You can choose your opponent’s Digimon with 10000 DP or less as a target, even if the chosen Digimon has an effect that prevents it from being deleted, in order to get the “if no Digimon was deleted by this effect” part of the effect.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3300",
+      "q": "My opponent has a Digimon with 10000 DP or less and an effect that reads, “This Digimon can't be deleted by your opponent’s effects,” and another Digimon with 10000 DP or less but no effect. Can I intentionally have this card’s [When Digivolving] effect target the Digimon with the effect preventing deletion to have us both trash the top 5 cards of our decks?"
+    },
+    {
+      "a": [
+        "Yes, you can.",
+        "Related Cards"
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q3301",
+      "q": "If [EX2-008 Guilmon]’s [On Play] effect reveals this card from my deck, can I add it to my hand as a card that has [Gallantmon] in its name?"
+    },
+    {
+      "a": [
+        "Yes. The Digimon chosen as a target for this effect is not deleted, and the Digimon that activates",
+        "is deleted by the effect of",
+        "and not this effect. As such, the condition is satisfied for \"if no Digimon was deleted by this effect,\" and both players will trash the top 5 cards of their decks."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q3302",
+      "q": [
+        "I try to delete an opponent's Digimon with this card’s [When Digivolving] effect, and my opponent activates",
+        "to prevent the chosen Digimon from being deleted. If the Digimon that activated",
+        "is deleted, does the “if no Digimon was deleted by this effect” part of this card's effect still activate?"
+      ]
+    },
+    {
+      "a": "This is a special rule for this card that always treats it as if it also has the [ChaosGallantmon] name.",
+      "date": "Aug. 1, 2024",
+      "num": "Q3303",
+      "q": [
+        "What does this card's (Rule) mean, exactly?",
+        "(*This card's \"The name of this card/Digimon is also treated as [ChaosGallantmon]\" has been changed to \"(Rule) Name: Also treated as [ChaosGallantmon].\")"
+      ]
+    }
+  ],
+  "Color": [
+    "Red",
+    "Purple"
+  ],
+  "Cost": "13",
+  "DP": "13000",
+  "Digivolve Cost 1": [
+    "Red",
+    "Purple",
+    "5 from Lv.5"
+  ],
+  "Effect": [
+    "The name of this card/Digimon is also treated as [ChaosGallantmon].",
+    "[When Digivolving] Delete 1 of your opponent's Digimon with 10000 DP or less. If no Digimon was deleted by this effect, trash the top 5 cards of both players' decks.",
+    "[On Deletion] You may play 1 [Guilmon] and 1 [Takato Matsuki] from your hand and/or trash without paying their memory costs."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Theme Booster DIGITAL HAZARD [EX-02]",
+    "?search=true&category=522009",
+    "/products/pack/ex-02.php"
+  ],
+  "Type": "Evil Dragon/Four Great Dragons",
+  "cardLv": "Lv.6",
+  "cardNo": "EX2-012",
+  "cardRarity": "SR",
+  "cardTitle": "Megidramon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX2-012.png?260210"
+}

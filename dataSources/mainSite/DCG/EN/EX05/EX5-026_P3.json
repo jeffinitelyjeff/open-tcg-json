@@ -1,0 +1,60 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": "Yes, you can.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3588",
+      "q": "If I have a Digimon card in my trash with a level that's different from all of my opponent's Digimon, can I use this card's [When Attacking] effect to return that card to the bottom of the deck?"
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "Digimon without a level can't be targeted by effects that reference levels."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q3589",
+      "q": "If I use this card's [When Attacking] effect to return a Digimon card with no level to the bottom of the deck, can I delete my opponent's Digimon with no level?"
+    },
+    {
+      "a": [
+        "Yes, it does.",
+        "This card's effect targets \"all of their Digimon,\" therefore opponent's Digimon that later enter the battle area are also affected by this effect."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q3590",
+      "q": "If an opponent's Digimon enters the battle area after this card's [When Digivolving] effect activates, does that Digimon gain \"[When Attacking] Lose 4 memory\"?"
+    }
+  ],
+  "Color": [
+    "Blue",
+    "Purple"
+  ],
+  "Cost": "12",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Blue",
+    "Purple",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "＜Blocker＞",
+    "[When Digivolving] If [MetalGarurumon] or [X Antibody] is in this Digimon's digivolution cards, until the end of your opponent's turn, all of their Digimon gain \"[When Attacking] Lose 4 memory.\"",
+    "[When Attacking] By returning 1 Digimon card from your trash to the bottom of the deck, delete 1 of your opponent's Digimon with the same level as that card."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Theme Booster ANIMAL COLOSSEUM [EX05]",
+    "?search=true&category=522019",
+    "/products/pack/ex-05.php"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [MetalGarurumon]: Cost 1",
+  "Type": "Cyborg/X Antibody",
+  "cardLv": "Lv.6",
+  "cardNo": "EX5-026",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "MetalGarurumon (X Antibody)",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX5-026_P3.png?260210"
+}

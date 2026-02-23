@@ -1,0 +1,48 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": "Yes, it can.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2422",
+      "q": "Can this card's [When Digivolving] effect unsuspend this Digimon even when my opponent has no Digimon?"
+    },
+    {
+      "a": "No, you can't. At the end of your turn, these cards' [End of Your Turn] effects trigger at the same time, the activation order is decided, and then the attack occurs for the 1st Digimon. After activation of effects that are triggered upon attack declaration such as [When Attacking] effects and \"when one of your Digimon attacks\" effects but before the counter timing, the activation would next occur for the other [End of Your Turn] effect that was pending activation, but because the 1st Digimon is still attacking, you can't make a new attack declaration, and the 2nd effect activation fails.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2423",
+      "q": "When I have 2 copies of this Digimon, can I use this card's [End of Your Turn] effect to attack using these 2 Digimon?"
+    },
+    {
+      "a": "No, you can't. This effect does not allow you to attack with Digimon that are in a state where they can't attack.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2424",
+      "q": "Can I use this card's [End of Your Turn] effect to attack even when this Digimon is suspended?"
+    }
+  ],
+  "Color": "Green",
+  "Cost": "12",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Green",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "＜Piercing＞",
+    "[When Digivolving] By unsuspending this Digimon, suspend 1 of your opponent's Digimon.",
+    "[End of Your Turn] This Digimon may attack an opponent's Digimon."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster BLAST ACE [BT14]",
+    "?search=true&category=522018",
+    "/products/pack/ver14.php"
+  ],
+  "Type": "Ancient Animal",
+  "cardLv": "Lv.6",
+  "cardNo": "BT14-054",
+  "cardRarity": "U",
+  "cardTitle": "SaberLeomon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT14-054.png?260210"
+}

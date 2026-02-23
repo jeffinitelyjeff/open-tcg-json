@@ -1,0 +1,53 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "Yes, it can.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2309",
+      "q": "Can this card's inherited effect delete an opponent's [Sukamon] to prevent itself from being deleted?"
+    },
+    {
+      "a": [
+        "No, it can't be activated.",
+        "Until the processing for the 1st activation has resolved, only 1 activation is possible for each immediate-type effect.",
+        "In your case, until the deletion of the 1st only [Sukamon] A is resolved, only 1 activation is possible for each \"when [...] would\" effect, therefore the effect that has already activated for [Sukamon] A can't be activated again."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q2310",
+      "q": [
+        "I have [Sukamon] A and [Sukamon] B with this card in their digivolution cards in the battle area.",
+        "When [Sukamon] A would be deleted, I attempted to delete [Sukamon] B using this card's inherited effect.",
+        "On the other hand, when [Sukamon] B would be deleted, I attempted to delete [Sukamon] A using this card's inherited effect.",
+        "At such times, can [Sukamon] A activate this card's inherited effect again?"
+      ]
+    }
+  ],
+  "Color": [
+    "Black",
+    "Yellow"
+  ],
+  "Cost": "6",
+  "DP": "6000",
+  "Digivolve Cost 1": [
+    "Black",
+    "Yellow",
+    "4 from Lv.4"
+  ],
+  "Effect": "[When Attacking] You may play 1 level 4 or lower Digimon card with [Sukamon] in its name from your hand without paying the cost.",
+  "Form": "Ultimate",
+  "Inherited Effect": "[All Turns] When this Digimon would be deleted, by deleting 1 other Digimon with [Sukamon] in its name, prevent that deletion.",
+  "Notes": [
+    "Booster VERSUS ROYAL KNIGHTS [BT13]",
+    "?search=true&category=522016",
+    "/products/pack/ver13.php"
+  ],
+  "Special Digivolution Condition": "[Digivolve] 3 from Lv.4 w/[Sukamon] in name",
+  "Type": "Mutant",
+  "cardLv": "Lv.5",
+  "cardNo": "BT13-069",
+  "cardRarity": "C",
+  "cardTitle": "KingSukamon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT13-069.png?260210"
+}

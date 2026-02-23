@@ -1,0 +1,44 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "Yes. It's no longer affected by your opponent's effects as soon as it's suspended, so it can now unsuspend.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2536",
+      "q": "If this Digimon is unsuspended, then it's suspended by an opponent's \"Suspend 1 of your opponent's Digimon. That Digimon can't unsuspend during your opponent's next unsuspend phase\" effect, are effects that prevent unsuspending during the unsuspend phase negated?"
+    },
+    {
+      "a": [
+        "Yes, it isn't affected.",
+        "[Security] effects on Security Digimon are treated as Digimon effects, so the \"this Digimon isn't affected by the effects of your opponent's Digimon\" effect prevents such effects from affecting this Digimon."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2537",
+      "q": "Does this card's [All Turns] effect prevent [Security] effects on my opponent's Security Digimon from affecting this Digimon when it's suspended?"
+    }
+  ],
+  "Color": "Green",
+  "Cost": "11",
+  "DP": "11000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "3 from Lv.5"
+  ],
+  "Effect": [
+    "[On Play] [When Digivolving] By trashing your top or bottom security card, 1 of your opponent's Digimon gets -9000 DP until the end of their turn.",
+    "[All Turns] [Once Per Turn] When your security stack is removed from, if you have 3 or fewer security cards, you may place 1 yellow card from your hand as your top or bottom security card."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "2024 Championship Regionals Finalist Card Set Wave 2",
+    "?search=true&category=522902"
+  ],
+  "Type": "Holy Dragon/Four Great Dragons",
+  "cardLv": "Lv.6",
+  "cardNo": "BT15-053",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "R",
+  "cardTitle": "HerculesKabuterimon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT15-053_P6.png?260210"
+}

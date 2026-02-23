@@ -1,0 +1,51 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "It isn't deleted at this timing, it's deleted at the end of your opponent's next turn.",
+      "date": "Dec. 20, 2024",
+      "num": "Q4275",
+      "q": [
+        "An opponent's Digimon attacks using an effect at the end of their turn.",
+        "Then, if this card was checked upon that Digimon's attack and this card was played using its [Security] effect, when do I delete the [Familiar] Token that was played by this card's [On Play] [When Digivolving] effect?"
+      ]
+    },
+    {
+      "a": "Yes, it's deleted upon the deletion timing.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5756",
+      "q": "Do I delete the token that was played by this card's [On Play] [When Digivolving] effect at the end of my opponent's turn?"
+    },
+    {
+      "a": "The pending processing for the effect that triggers at the end of the turn and the deletion at the end of the turn are considered to be processing that triggers simultaneously. Therefore, the turn player can choose the processing order.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5757",
+      "q": "What is the processing order for an effect that triggers at the end of the turn and the deletion of a token played by this card's [On Play] [When Digivolving] effect?"
+    }
+  ],
+  "Color": "Yellow",
+  "Cost": "4",
+  "DP": "4000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "2 from Lv.3"
+  ],
+  "Effect": [
+    "[Security] At the end of the battle, play this card without paying the cost.",
+    "[On Play] [When Digivolving] Play 1 [Familiar] Token. (Digimon/Yellow/3000 DP/\"[On Deletion] 1 of your opponent's Digimon gets -3000 DP for the turn.\") At the end of your opponent’s turn, delete that token."
+  ],
+  "Form": "Champion",
+  "Inherited Effect": "＜Barrier＞ (When this Digimon would be deleted in battle, by trashing your top security card, it isn't deleted.)",
+  "Notes": [
+    "Event Pack 8",
+    "?search=true&category=522902"
+  ],
+  "Type": "Puppet/LIBERATOR",
+  "cardLv": "Lv.4",
+  "cardNo": "P-165",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "P",
+  "cardTitle": "ShoeShoemon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/P-165_P2.png?260210"
+}

@@ -1,0 +1,56 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "It means that the effect will activate at the specified timing if this card is in your trash.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3447",
+      "q": "What does [Trash] in this card's [End of Your Turn] effect mean?"
+    },
+    {
+      "a": "Yes, the effect reads “you may play,\" so you can choose not to play it.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3448",
+      "q": "After deleting 1 of my Digimon with digivolution cards and [Gallantmon] in its name, can I choose to not play this card for this card's [End of Your Turn] effect?"
+    },
+    {
+      "a": [
+        "No, it means every 10 cards in the total sum of cards in your trash and the cards in your opponent's trash.",
+        "For example, if you have 15 cards in your trash and your opponent has 9 cards in their trash, the total would be 24. Therefore, you add 4000 to the maximum this DP-based deletion effect can delete, and you can now delete 1 of your opponent's Digimon with 11000 DP or less."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q3449",
+      "q": "Does \"For every 10 total cards in both players' trashes\" in this card's [On Play] effect mean every 10 cards in either me or my opponent's trashes?"
+    }
+  ],
+  "Color": [
+    "Red",
+    "Purple"
+  ],
+  "Cost": "12",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Red",
+    "Purple",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "[Trash][End of Your Turn] By deleting 1 of your Digimon with digivolution cards and [Gallantmon] in its name, you may play this card without paying the cost.",
+    "[On Play] Delete 1 of your opponent's Digimon with 7000 DP or less. For every 10 total cards in both players' trashes, add 2000 to the maximum this DP-based deletion effect can delete."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Theme Booster ALTERNATIVE BEING [EX04]",
+    "?search=true&category=522015",
+    "/products/pack/ex-04.php"
+  ],
+  "Special Digivolution Condition": "[Digivolve] 3 from Lv.5 w/[WarGrowlmon] in name",
+  "Type": "Dark Knight",
+  "cardLv": "Lv.6",
+  "cardNo": "EX4-011",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "R",
+  "cardTitle": "ChaosGallantmon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX4-011_P1.png?260210"
+}

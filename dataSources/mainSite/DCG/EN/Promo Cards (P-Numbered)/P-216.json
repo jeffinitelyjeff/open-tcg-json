@@ -1,0 +1,48 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": [
+        "Yes, it's deleted upon the deletion timing.",
+        "If another effect prevents the Digimon played by the [On Deletion] effect from being deleted, it's still prevented from digivolving."
+      ],
+      "date": "Feb. 6, 2026",
+      "num": "Q5962",
+      "q": [
+        "Do I delete the Digimon that was played by this card's [On Play] effect at the end of my opponent's turn?",
+        "And if the Digimon that was played by this card's [On Deletion] effect was prevented from being deleted at the end of my turn, is it still prevented from digivolving?"
+      ]
+    },
+    {
+      "a": "The pending processing for the effect that triggers at the end of the turn and the deletion at the end of the turn are considered to be processing that triggers simultaneously. Therefore, the turn player can choose the processing order.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5963",
+      "q": "What is the processing order for an effect that triggers at the end of the turn and the deletion of a Digimon played by this card's [On Play] or [On Deletion] effect?"
+    }
+  ],
+  "Color": "Black",
+  "Cost": "6",
+  "DP": "6000",
+  "Digivolve Cost 1": [
+    "Black",
+    "3 from Lv.4"
+  ],
+  "Effect": [
+    "＜Blocker＞",
+    "[On Play] You may play 1 [Dark Masters] trait Digimon card from your hand without paying the cost. The Digimon this effect played can't digivolve and is deleted at turn end.",
+    "[On Deletion] You may play 1 face-up [Dark Masters] trait Digimon card from your security stack without paying the cost. At the end of your turn, delete the Digimon this effect played."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "＜Blocker＞ (This Digimon can block in the blocker timing.)",
+  "Notes": [
+    "Store Tournament 2026 Vol. 1",
+    "?search=true&category=522901"
+  ],
+  "Type": "Puppet",
+  "cardLv": "Lv.5",
+  "cardNo": "P-216",
+  "cardRarity": "P",
+  "cardTitle": "WaruMonzaemon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/P-216.png?260210"
+}

@@ -1,0 +1,57 @@
+{
+  "Card Q&A": [
+    {
+      "a": [
+        "This Tamer can perform attacks just like Digimon, and it can also be affected by effects that target Digimon.",
+        "It can also be deleted in battle with a Digimon or Security Digimon."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2227",
+      "q": "This card's [Start of Your Main Phase] effect allows this Tamer to be treated as a Digimon. What does this mean, exactly?"
+    },
+    {
+      "a": "Yes, it's deleted.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2228",
+      "q": "When the [Start of Your Main Phase] effect has this card also be treated as a Digimon, does this card get deleted when an opponent's effect reduces its DP to 0?"
+    },
+    {
+      "a": [
+        "Yes, it is met.",
+        "If this card's [Start of Your Main Phase] effect is activated, this card is treated as both a Digimon and a Tamer, so the \"When this Tamer becomes suspended\" condition is considered to be met when this card is suspended."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2229",
+      "q": "When the [Start of Your Main Phase] effect has this card also be treated as a Digimon and then this card is suspended, does that meet the \"When this Tamer becomes suspended\" condition in this card's [Your Turn] effect?"
+    },
+    {
+      "a": [
+        "No, it's not.",
+        "This card's effect has the Tamer be treated as a Digimon. As soon as it is placed in another Digimon's digivolution cards, it is treated as just a Tamer card and any activated effects are lost."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2230",
+      "q": "When the [Start of Your Main Phase] effect has this card also be treated as a Digimon and then this Digimon is placed in another Digimon's digivolution cards by a \"place 1 Digimon as another Digimon's digivolution card\" effect, is this card treated as \"a Digimon card in digivolution cards\" during that turn?"
+    }
+  ],
+  "Color": [
+    "Yellow",
+    "Red"
+  ],
+  "Cost": "4",
+  "Effect": [
+    "[Start of Your Main Phase] If you have a Digimon with [Agumon] or [Greymon] in its name in play, by paying 1 memory, for the turn, this Tamer is also treated as a 3000 DP Digimon that can't digivolve.",
+    "[Your Turn] When this Tamer becomes suspended, 1 of your Digimon may digivolve into a yellow card with [Greymon] in its name in your hand without paying the cost."
+  ],
+  "Notes": [
+    "Booster ACROSS TIME [BT12]",
+    "?search=true&category=522014",
+    "/products/pack/ver12.php"
+  ],
+  "Security Effect": "[Security] Play this card without paying the cost.",
+  "cardNo": "BT12-092",
+  "cardRarity": "R",
+  "cardTitle": "Marcus Damon",
+  "cardType": "Tamer",
+  "imgSrc": "../images/cardlist/card/BT12-092.png?260210"
+}

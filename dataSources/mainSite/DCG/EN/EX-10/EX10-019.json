@@ -1,0 +1,94 @@
+{
+  "Attribute": "System",
+  "Card Q&A": [
+    {
+      "a": "Yes, you can.",
+      "date": "Sep. 5, 2025",
+      "num": "Q5051",
+      "q": "Can I also activate this card's link effect by trashing this card itself when it's a link card?"
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Sep. 5, 2025",
+      "num": "Q5052",
+      "q": [
+        "I used",
+        "and have a Digimon that has multiple link cards including this card.",
+        "Can I use this card's Link effect to trash one of that Digimon's link cards other than this card?"
+      ]
+    },
+    {
+      "a": "No, you can't.",
+      "date": "Sep. 5, 2025",
+      "num": "Q5053",
+      "q": [
+        "Can I use this card's [On Play] [When Digivolving] effect to link a card that doesn't have",
+        "?"
+      ]
+    },
+    {
+      "a": "No, even if this effect didn't suspend the target, it can still give it \"can't unsuspend.\"",
+      "date": "Sep. 5, 2025",
+      "num": "Q5054",
+      "q": [
+        "I chose a target to suspend using this card's [All Turns] effect.",
+        "At such times, if the target can't suspend, does that mean it can't gain \"can't unsuspend\"?"
+      ]
+    },
+    {
+      "a": "No, you can't.",
+      "date": "Sep. 5, 2025",
+      "num": "Q5055",
+      "q": "Can I use this card's [All Turns] effect to give \"can't unsuspend\" to an opponent's Digimon or Tamer without choosing a target to suspend?"
+    },
+    {
+      "a": [
+        "No, it counts toward a use of [Once Per Turn].",
+        "Even if it didn't suspend an opponent's Digimon or Tamer, the \"can't unsuspend\" part of the effect is mandatory, therefore it counts toward the [Once Per Turn] limit."
+      ],
+      "date": "Sep. 5, 2025",
+      "num": "Q5056",
+      "q": "If this card's [All Turns] [Once Per Turn] effect didn't suspend an opponent's Digimon or Tamer, does that mean it doesn't count toward the [Once Per Turn] limit?"
+    }
+  ],
+  "Color": [
+    "Green",
+    "Purple"
+  ],
+  "Cost": "8",
+  "DP": "8000",
+  "Digivolve Cost 1": [
+    "Green",
+    "Purple",
+    "4 from Lv.4"
+  ],
+  "Digivolve Cost 2": [
+    "Multicolor",
+    "4 from Sup."
+  ],
+  "Effect": [
+    "＜Fortitude＞",
+    "[On Play] [When Digivolving] You may link 1 level 4 or lower Digimon card from your trash or this Digimon's digivolution cards to this Digimon without paying the cost.",
+    "[All Turns] [Once Per Turn] When this Digimon gets linked, you may suspend 1 of your opponent's Digimon or Tamers. It can't unsuspend in their next unsuspend phase."
+  ],
+  "Form": "Ult./Appmon",
+  "Link Condition": "＜Link＞ [Appmon] trait: Cost 3 (Plug this card from the hand or battle area sideways into the specified Digimon in the battle area.)",
+  "Link DP": "+4000 DP",
+  "Link Effect": "[All Turns] When any of your opponent's Digimon suspend, by trashing 1 of this Digimon's link cards, trash your opponent's top security card.",
+  "Notes": [
+    "Extra Booster SINISTER ORDER [EX-10]",
+    "?search=true&category=522031",
+    "/products/pack/ex-10"
+  ],
+  "Special Digivolution Condition": [
+    "[App Fusion] [Mienumon] & [Sakusimon]: Cost 0",
+    "If 2 such cards are linked together, stack the link card on top and digivolve."
+  ],
+  "Type": "Strategy/Leviathan",
+  "cardLv": "Lv.5",
+  "cardNo": "EX10-019",
+  "cardRarity": "SR",
+  "cardTitle": "Warudamon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX10-019.png?260210"
+}

@@ -1,0 +1,81 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": [
+        "This effect prevents [When Digivolving] effects on cards from activating.",
+        "[When Digivolving] effects can no longer activate by triggering or when effects such as \"activate that card's [When Digivolving]\" effect\" activate."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5746",
+      "q": "What does \"[When Digivolving] effects don't activate\" mean, exactly?"
+    },
+    {
+      "a": [
+        "Yes, you can.",
+        "The effect can activate if it activates upon the [When Attacking] timing."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5747",
+      "q": [
+        "I used a card affected by \"can't activate [When Digivolving] effects\" to attack.",
+        "Can I activate that card's [When Digivolving] [When Attacking] effect at such times?"
+      ]
+    },
+    {
+      "a": "No, it can't be activated.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5748",
+      "q": "If a card is affected by \"can't activate [When Digivolving] effects,\" can other effects activate its [When Digivolving] effect?"
+    },
+    {
+      "a": "No, you can't.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5749",
+      "q": "If a card is affected by \"can't activate [When Digivolving] effects,\" can I process just the \"by\" condition in its [When Digivolving] effect?"
+    },
+    {
+      "a": [
+        "No, it doesn't count.",
+        "The effect can't activate upon the [When Digivolving] timing, therefore it doesn't count as an instance of that effect's [X Per Turn]."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5750",
+      "q": [
+        "A card that was given \"can't activate [When Digivolving] effects\" digivolved into a card that has a [When Digivolving] [When Attacking] [Once Per Turn] effect.",
+        "Does that count as an instance of that effect's [X Per Turn] even if that effect can't be activated upon the timing when that card digivolved?"
+      ]
+    }
+  ],
+  "Color": [
+    "Green",
+    "Yellow"
+  ],
+  "Cost": "12",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Green",
+    "Yellow",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "＜Security A. +1＞",
+    "[On Play] [When Digivolving] Suspend 1 of your opponent's Digimon or Tamers. Then, until their turn ends, 1 of their Digimon or Tamers can't activate [When Digivolving] effects or unsuspend.",
+    "[On Deletion] Place this card as the bottom security card.",
+    "(Rule) Trait: Has [Three Great Angels]."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "WORLD CONVERGENCE [BT-21] Limited Card Pack",
+    "?search=true&category=522028",
+    "/products/pack/ver21"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.5 w/[Angel]/[Archangel] trait: Cost 3",
+  "Type": "Throne",
+  "cardLv": "Lv.6",
+  "cardNo": "LM-042",
+  "cardRarity": "P",
+  "cardTitle": "Rasielmon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/LM-042.png?260210"
+}

@@ -1,0 +1,69 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": [
+        "Yes, it is.",
+        "In this case, even if",
+        "de-digivolves an opponent's Digimon into a Digi-Egg card without DP, it won't be trashed until this card's [On Play] [When Digivolving] effect is resolved, so that card is still treated as a Digimon. Therefore, this effect's \"if your opponent has 2 or more Digimon\" condition is still met, and you can return 1 of your opponent's level 4 or lower Digimon to the hand. After returning it, the Digi-Egg card is trashed.",
+        "In addition, if a Digi-Egg card is returned to the hand by this effect, that card is placed at the bottom of the Digi-Egg deck."
+      ],
+      "date": "Sep. 20, 2024",
+      "num": "Q3079",
+      "q": [
+        "My opponent has 2 Digimon.",
+        "If I use",
+        "in this card's [On Play] [When Digivolving] effect to de-digivolve 1 of my opponent's Digimon into a Digi-Egg card without DP, is the \"if your opponent has 2 or more Digimon\" condition in this effect still met?"
+      ]
+    },
+    {
+      "a": [
+        "No, it isn't met.",
+        "In this case, if",
+        "is used to de-digivolve an opponent's Digimon into a Tamer, the \"if your opponent has 2 or more Digimon\" condition in this effect is no longer met."
+      ],
+      "date": "Sep. 20, 2024",
+      "num": "Q3080",
+      "q": [
+        "My opponent has 2 Digimon.",
+        "If I use",
+        "in this card's [On Play] [When Digivolving] effect to de-digivolve 1 of my opponent's Digimon into a Tamer, is the \"if your opponent has 2 or more Digimon\" condition in this effect still met?"
+      ]
+    },
+    {
+      "a": "It can play 1 [Blue Flare] trait Digimon card with a play cost of 5 or less, or it can play 1 [Xros Heart] trait Digimon card with a play cost of 5 or less.",
+      "date": "Sep. 20, 2024",
+      "num": "Q3081",
+      "q": "What cards can be played from under my Tamers using this card's [On Deletion] effect?"
+    }
+  ],
+  "Color": [
+    "Blue",
+    "Black"
+  ],
+  "Cost": "11",
+  "DP": "11000",
+  "Digivolve Cost 1": [
+    "Blue",
+    "Black",
+    "3 from Lv.5"
+  ],
+  "Effect": [
+    "[On Play] [When Digivolving] ＜De-Digivolve 2＞ 1 of your opponent's Digimon. Then, if your opponent has 2 or more Digimon, return 1 of their level 4 or lower Digimon to the hand.",
+    "[On Deletion] You may play 1 [Blue Flare] or [Xros Heart] trait Digimon card with a play cost of 5 or less from under your Tamers without paying the cost. Then, ＜Save＞."
+  ],
+  "Form": "Mega",
+  "Inherited Effect": "[All Turns] This Digimon gets +2000 DP.",
+  "Notes": [
+    "SPECIAL BOOSTER Ver.2.5 [BT19-20]",
+    "?search=true&category=522027",
+    "/products/pack/ver19-20"
+  ],
+  "Type": "Cyborg/Blue Flare",
+  "cardLv": "Lv.6",
+  "cardNo": "BT19-026",
+  "cardRarity": "R",
+  "cardTitle": "ZeigGreymon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT19-026.png?260210"
+}

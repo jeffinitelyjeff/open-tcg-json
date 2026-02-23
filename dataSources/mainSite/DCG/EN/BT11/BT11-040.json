@@ -1,0 +1,52 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "Yes, you can.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2073",
+      "q": "Can this card's inherited effect delete an opponent's [Sukamon] to prevent itself from being deleted?"
+    },
+    {
+      "a": [
+        "No, it can't be activated.",
+        "Until the processing for the 1st activation has resolved, only 1 activation is possible for each immediate-type effect.",
+        "In your case, until the deletion of the 1st only [Sukamon] A is resolved, only 1 activation is possible for each \"when [...] would\" effect, therefore the effect that has already activated for [Sukamon] A can't be activated again."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q2074",
+      "q": [
+        "I have [Sukamon] A and [Sukamon] B with this card in their digivolution cards in the battle area.",
+        "When [Sukamon] A would be deleted, I attempted to delete [Sukamon] B using this card's inherited effect.",
+        "On the other hand, when [Sukamon] B would be deleted, I attempted to delete [Sukamon] A using this card's inherited effect.",
+        "At such times, can [Sukamon] A activate this card's inherited effect again?"
+      ]
+    }
+  ],
+  "Color": [
+    "Yellow",
+    "Black"
+  ],
+  "Cost": "3",
+  "DP": "1000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "Black",
+    "2 from Lv.3"
+  ],
+  "Effect": "[On Deletion] Reveal the top 3 cards of your deck. Add 1 card with [Chuumon], [Sukamon], or [Etemon] in its name among them to your hand. Trash the rest.",
+  "Form": "Champion",
+  "Inherited Effect": "[All Turns] When this Digimon would be deleted, by deleting 1 other Digimon with [Sukamon] in its name, prevent that deletion.",
+  "Notes": [
+    "Booster DIMENSIONAL PHASE [BT11]",
+    "?search=true&category=522013",
+    "/products/pack/ver11.php"
+  ],
+  "Type": "Abnormal",
+  "cardLv": "Lv.4",
+  "cardNo": "BT11-040",
+  "cardRarity": "U",
+  "cardTitle": "Sukamon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT11-040.png?260210"
+}

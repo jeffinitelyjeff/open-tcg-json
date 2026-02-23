@@ -1,0 +1,104 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "Yes, for each of this Digimon's level 6 digivolution cards, you suspend 1 of your opponent's Digimon or Tamers and gain 1 memory.",
+      "date": "Jan. 24, 2025",
+      "num": "Q4347",
+      "q": "If this card has 2 level 6 digivolution cards, can I use this card's [When Digivolving] effect to suspend 2 of my opponent's Digimon or Tamers and gain 2 memory?"
+    },
+    {
+      "a": [
+        "This effect prevents [On Play] effects on cards from activating.",
+        "Triggered [On Play] effects can no longer activate when a card is played or when effects such as \"activate that card's [On Play]\" effect\" activate."
+      ],
+      "date": "Jan. 24, 2025",
+      "num": "Q4348",
+      "q": "What does \"none of your opponent's Digimon can activate [On Play] effects\" mean, exactly?"
+    },
+    {
+      "a": [
+        "Yes, you can.",
+        "The effect can activate if it's triggered upon the [When Attacking] timing."
+      ],
+      "date": "Jan. 24, 2025",
+      "num": "Q4349",
+      "q": [
+        "I used a card affected by \"none of your opponent's Digimon can activate [On Play] effects\" to attack.",
+        "Can I activate that card's [On Play] [When Attacking] effect at such times?"
+      ]
+    },
+    {
+      "a": "No, it can't be activated.",
+      "date": "Jan. 24, 2025",
+      "num": "Q4350",
+      "q": "If a card is affected by \"none of your opponent's Digimon can activate [On Play] effects,\" can it activate its own [On Play] effect using an effect such as \"activate 1 of that card's [On Play] effects\"?"
+    },
+    {
+      "a": "No, it can't be activated.",
+      "date": "Jan. 24, 2025",
+      "num": "Q4351",
+      "q": "If a card is affected by \"none of your opponent's Digimon can activate [On Play] effects,\" can another card's [On Play] effect be activated using an effect such as \"activate 1 of that card's [On Play] effects as an effect of this card\"?"
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Jan. 24, 2025",
+      "num": "Q4352",
+      "q": "Can I use \"activate 1 of that card's [On Play] effects as an effect of this card\" on a card that isn't affected by \"none of your opponent's Digimon can activate [On Play] effects\" to activate the [On Play] effect on another card that's affected by \"none of your opponent's Digimon can activate [On Play] effects\"?"
+    },
+    {
+      "a": "No, you can't.",
+      "date": "Jan. 24, 2025",
+      "num": "Q4353",
+      "q": "If a card is affected by \"none of your opponent's Digimon can activate [On Play] effects,\" can I perform just the \"by doing X\" condition in its [On Play] effect?"
+    },
+    {
+      "a": [
+        "No, it doesn't count.",
+        "The effect can't activate upon the [On Play] timing, therefore it doesn't count as an instance of that effect's [X Per Turn]."
+      ],
+      "date": "Apr. 4, 2025",
+      "num": "Q4354",
+      "q": [
+        "A card digivolved into a card that has an [On Play] [When Attacking] [Once Per Turn] effect while \"none of your opponent's Digimon can activate [On Play] effects\" was activated.",
+        "Does that count as an instance of that effect's [X Per Turn] even if that effect can't be activated upon the timing when that card is played?"
+      ]
+    },
+    {
+      "a": "That's correct, both your opponent's Digimon and Tamers are prevented from activating [On Play] effects or unsuspending.",
+      "date": "Jun. 13, 2025",
+      "num": "Q4718",
+      "q": "Does this card's [When Digivolving] effect prevent both my opponent's Digimon and Tamers from activating [On Play] effects or unsuspending until the end of their turn?"
+    }
+  ],
+  "Color": [
+    "Yellow",
+    "Green"
+  ],
+  "Cost": "15",
+  "DP": "15000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "Green",
+    "5 from Lv.6"
+  ],
+  "Effect": [
+    "＜Security A.+1＞ ＜Partition (Yellow Lv.6 & Green/Black Lv.6)＞ (When this Digimon with each of the specified digivolution cards would leave the battle area other than by your effects or a battle, you may play 1 each of the specified cards without paying the costs.)",
+    "[When Digivolving] For each of this Digimon's level 6 digivolution cards, suspend 1 of your opponent's Digimon or Tamers and gain 1 memory. Then, none of their Digimon or Tamers can activate [On Play] effects or unsuspend until the end of their turn."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "SPECIAL BOOSTER Ver.2.5 [BT19-20]",
+    "?search=true&category=522027",
+    "/products/pack/ver19-20"
+  ],
+  "Special Digivolution Condition": "[DNA Digivolve] Yellow Lv.6 + green/black Lv.6: Cost 0",
+  "Type": "Unique",
+  "cardLv": "Lv.7",
+  "cardNo": "BT20-037",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "Chaosmon: Valdur Arm",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT20-037_P1.png?260210"
+}

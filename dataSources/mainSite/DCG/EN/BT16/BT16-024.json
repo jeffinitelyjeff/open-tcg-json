@@ -1,0 +1,53 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "No, this card's effect does not allow ignoring digivolution requirements, so you can only digivolve into a card that meets the digivolution requirements.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2619",
+      "q": "When I use this card's [On Play] [When Digivolving] effect to digivolve it into a Digimon card with the [Angel]/[Three Great Angels] trait in my security stack, can it digivolve regardless of its digivolution requirements?"
+    },
+    {
+      "a": "No, you can't.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2620",
+      "q": "Can I use an effect that digivolves my Digimon to digivolve this Digimon into a Digimon card with the [Angel]/[Three Great Angels] trait in my security stack?"
+    },
+    {
+      "a": "Yes, they trigger.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2621",
+      "q": [
+        "I used this card's [On Play] [When Digivolving] effect to digivolve into a card with the [Angel]/[Three Great Angels] trait in my security stack, then I placed 1 Digimon card with the [Angel]/[Archangel]/[Three Great Angels] trait from the hand at the bottom of my security stack.",
+        "The number of cards in my security stack remained the same, but do \"when a card is removed from a security stack\" or \"When a card is added to a security stack\" effects trigger?"
+      ]
+    }
+  ],
+  "Color": [
+    "Blue",
+    "Yellow"
+  ],
+  "Cost": "6",
+  "DP": "6000",
+  "Digivolve Cost 1": [
+    "Blue",
+    "Yellow",
+    "4 from Lv.4"
+  ],
+  "Effect": "[On Play] [When Digivolving] If it's your turn, search your security stack. This Digimon may digivolve into a Digimon card with the [Angel] or [Three Great Angels] trait among them with the digivolution cost reduced by 2. Then, shuffle your security stack. If this effect digivolved, you may place 1 Digimon card with the [Angel], [Archangel] or [Three Great Angels] trait from the hand at the bottom of your security stack.",
+  "Form": "Ultimate",
+  "Inherited Effect": "[Opponent's Turn] All of your Digimon with the [Angel], [Archangel] or [Three Great Angels] trait gain ＜Blocker＞.",
+  "Notes": [
+    "Booster BEGINNING OBSERVER [BT16]",
+    "?search=true&category=522021",
+    "/products/pack/ver16"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [Angemon]: Cost 3",
+  "Type": "Archangel",
+  "cardLv": "Lv.5",
+  "cardNo": "BT16-024",
+  "cardRarity": "U",
+  "cardTitle": "MagnaAngemon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT16-024.png?260210"
+}

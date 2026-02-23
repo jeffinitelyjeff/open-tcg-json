@@ -1,0 +1,80 @@
+{
+  "Attribute": "Variable",
+  "Card Q&A": [
+    {
+      "a": [
+        "Effects with the [Hand] icon can activate when their card is revealed from the hand.",
+        "This effect can activate during the main phase when you reveal this card from the hand and process the effect."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q2946",
+      "q": "How do I activate this card's [Hand] [Main] effect?"
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "A \"by doing X\" condition can't be met if only some of the required actions are performed.",
+        "In order for the conditions for this card's [Hand] [Main] effect to be met, you must place 1 [Kumamon] and 1 [Korikakumon] under your Tamer."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q2947",
+      "q": "Can I use this card's [Hand] [Main] effect to place just 1 [Kumamon] or [Korikakumon] from my trash under my Tamer?"
+    },
+    {
+      "a": "No, it digivolves from the Tamer as-is.",
+      "date": "Jun. 21, 2024",
+      "num": "Q2948",
+      "q": "Does this card's [Hand] [Main] effect where it can digivolve from a Tamer mean that the Tamer that will become a digivolution card is treated as a Digimon when it digivolves?"
+    },
+    {
+      "a": [
+        "No, it isn't considered a Digimon that would digivolve.",
+        "When a Tamer would digivolve using this card's [Hand] [Main] effect, \"when a Digimon would digivolve\" effects don't trigger."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q2949",
+      "q": "When a Tamer would digivolve using this card's [Hand] [Main] effect, is it considered a Digimon that would digivolve?"
+    },
+    {
+      "a": [
+        "No, it isn't considered a Digimon that digivolves.",
+        "When a Tamer digivolves using this card's [Hand] [Main] effect, \"when a Digimon digivolves\" effects don't trigger."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q2950",
+      "q": "When a Tamer digivolves using this card's [Hand] [Main] effect, is it considered a Digimon that digivolves?"
+    }
+  ],
+  "Color": [
+    "Blue",
+    "Red"
+  ],
+  "Cost": "8",
+  "DP": "8000",
+  "Digivolve Cost 1": [
+    "Blue",
+    "Red",
+    "4 from Lv.4"
+  ],
+  "Effect": [
+    "[Hand] [Main] By placing 1 [Kumamon] and 1 [Korikakumon] from your trash under 1 of your blue or red Tamers, digivolve it into this card for a digivolution cost of 3, ignoring digivolution requirements.",
+    "＜Iceclad＞ (Other than against Security Digimon, compare the number of digivolution cards instead of DP in this Digimon's battles.)",
+    "[When Digivolving] Delete 1 of your opponent's Digimon with no digivolution cards.",
+    "(Rule) Trait: Has [Ice-Snow] Type."
+  ],
+  "Form": "Hybrid",
+  "Inherited Effect": "[All Turns] This Digimon gets +2000 DP.",
+  "Notes": [
+    "SPECIAL BOOSTER Ver.2.0 [BT18-19]",
+    "?search=true&category=522025",
+    "/products/pack/ver18-19"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Blue/red Lv.4 w/[Hybrid] trait: Cost 3",
+  "Type": "Cyborg",
+  "cardLv": "Lv.5",
+  "cardNo": "BT18-026",
+  "cardRarity": "U",
+  "cardTitle": "DaiPenmon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT18-026.png?260210"
+}

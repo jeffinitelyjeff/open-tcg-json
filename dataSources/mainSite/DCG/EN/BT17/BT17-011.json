@@ -1,0 +1,135 @@
+{
+  "Attribute": "Variable",
+  "Card Q&A": [
+    {
+      "a": "No, [Takuya Kanbara] digivolves as a Tamer.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2723",
+      "q": "Does this card's \"[Takuya Kanbara]: Cost 2\" digivolution requirement mean that [Takuya Kanbara] is treated as a Digimon when it digivolves?"
+    },
+    {
+      "a": [
+        "No, they don’t trigger.",
+        "\"When a Digimon digivolves\" effects don't trigger when a Tamer digivolves."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2724",
+      "q": "If I use this card's \"[Takuya Kanbara]: Cost 2\" digivolution requirement to digivolve, do \"when a Digimon digivolves\" effects trigger?"
+    },
+    {
+      "a": [
+        "No, they don’t trigger.",
+        "\"When a Digimon digivolves\" effects don't trigger when a Tamer digivolves."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2725",
+      "q": "If I use this card's \"[Takuya Kanbara]: Cost 2\" digivolution requirement to digivolve, do \"when a Digimon would digivolve\" effects trigger?"
+    },
+    {
+      "a": [
+        "Yes, you can.",
+        "Because you're digivolving from a Tamer, it isn't considered an unsuspended Digimon.",
+        "Related Cards"
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2726",
+      "q": "My opponent activates EX3-053 [Metallicdramon]'s [On Play] effect. Can I digivolve an unsuspended [Takuya Kanbara] using this card's \"[Takuya Kanbara]: Cost 2\" digivolution requirement in the next turn?"
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "P-103 [Offense Training]'s",
+        "effect digivolves 1 Digimon. It doesn't digivolve Tamers.",
+        "Related Cards"
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2727",
+      "q": [
+        "Can I activate P-103 [Offense Training]'s",
+        "effect and digivolve using this card's \"[Takuya Kanbara]: Cost 2\" digivolution requirement to digivolve?"
+      ]
+    },
+    {
+      "a": "Digimon carry over effects after digivolving or de-digivolving, therefore it's deleted at the end of the turn.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2728",
+      "q": [
+        "If I use this Digimon's [When Digivolving] effect to digivolve into [AncientGreymon], then it digivolves or is affected by",
+        ", what happens to the \"delete this Digimon at the end of this turn\" effect?"
+      ]
+    },
+    {
+      "a": "No, it isn't deleted because it's no longer considered a Digimon.",
+      "date": "Mar. 28, 2024",
+      "num": "Q2729",
+      "q": [
+        "This Digimon has a Tamer card in its digivolution cards, and I used its [When Digivolving] effect to digivolve into [AncientGreymon], then it was affected by a",
+        "effect and became a Tamer. Does the \"delete this Digimon at the end of this turn\" effect delete this Tamer at such times?"
+      ]
+    },
+    {
+      "a": [
+        "Digimon carry over effects after digivolving, therefore it plays [AncientGreymon].",
+        "Related Cards"
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q2730",
+      "q": "I used BT3-109 [Back for Revenge!] on this Digimon, then I used this Digimon's [When Digivolving] effect to digivolve into [AncientGreymon]. After this Digimon is deleted at the end of this turn, does BT3-109 [Back for Revenge!]'s effect play this card or [AncientGreymon] into the battle area?"
+    },
+    {
+      "a": [
+        "No, it won't be deleted.",
+        "Effects that are processed at specific timings will be processed when that timing arrives, similar to triggered effects.",
+        "If this card's effect is used to digivolve at the end of the turn, the end of the turn timing has already passed, therefore this card's \"delete this Digimon at the end of the turn\" isn't processed.",
+        "Related Cards"
+      ],
+      "date": "Sep. 20, 2024",
+      "num": "Q2731",
+      "q": [
+        "I have BT17-012 [BurningGreymon] with BT18-088 [Takuya Kanbara & Koji Minamoto] in its digivolution cards.",
+        "At the end of the turn, I use BT18-088 [Takuya Kanbara & Koji Minamoto]'s inherited effect to have BT17-012 [BurningGreymon] attack, and I use BT17-012 [BurningGreymon]'s [When Attacking] effect to digivolve into this card.",
+        "If I use this card's [When Digivolving] effect to digivolve into [AncientGreymon] at such times, the end of the turn timing has already passed, but does this card's effect delete that [AncientGreymon]?"
+      ]
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "For this card's 1st effect, you declare a digivolution, then upon revealing this card, you can also choose a Tamer as the card to digivolve, and that Tamer is also treated as a level 3 Digimon. As with the normal digivolution procedure, after revealing this card and declaring a digivolution, you can't choose to not digivolve.",
+        "In addition, you can't declare digivolution into this card in the first place unless there is a card on the field that you can digivolve."
+      ],
+      "date": "Apr. 4, 2025",
+      "num": "Q4657",
+      "q": "Can I choose to not digivolve with this card's 1st effect?"
+    }
+  ],
+  "Color": [
+    "Red",
+    "Purple"
+  ],
+  "Cost": "6",
+  "DP": "5000",
+  "Digivolve Cost 1": [
+    "Red",
+    "Purple",
+    "3 from Lv.3"
+  ],
+  "Effect": [
+    "This card may digivolve from the hand onto one of your red Tamers as if that card is a level 3 red Digimon.",
+    "[When Digivolving] If [BurningGreymon] is in this Digimon's digivolution cards or you have a blue or green Digimon or Tamer, this Digimon may digivolve into [AncientGreymon] in the hand for a digivolution cost of 3, ignoring its digivolution requirements. If this effect digivolved, delete this Digimon at the end of this turn."
+  ],
+  "Form": "Hybrid",
+  "Inherited Effect": "[Your Turn] This Digimon gets +2000 DP.",
+  "Notes": [
+    "Booster SECRET CRISIS [BT17]",
+    "?search=true&category=522023",
+    "/products/pack/ver17"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [Takuya Kanbara]: Cost 2/[BurningGreymon]: Cost 1",
+  "Type": "Wizard",
+  "cardLv": "Lv.4",
+  "cardNo": "BT17-011",
+  "cardRarity": "C",
+  "cardTitle": "Agunimon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT17-011.png?260210"
+}

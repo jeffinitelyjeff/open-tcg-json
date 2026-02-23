@@ -1,0 +1,61 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": [
+        "It refers to a card that contains the specified text or icon in its name, traits, effects, inherited effects, (Rule), digivolution requirements, DNA digivolution, DigiXros requirements, burst digivolve, App Fusion, Link, or Assembly requirements.",
+        "For example, a card with [Knightmon] in its text would include cards with the name [DarkKnightmon] and cards with the text [Knightmon] in their effects."
+      ],
+      "date": "Sep. 5, 2025",
+      "num": "Q5027",
+      "q": "What does a card with \"X in its text\" refer to?"
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "A \"by\" condition can't be met if only some of the required actions are performed.",
+        "In order for the conditions of this card's {Trash} [Main] effect to be met, you must delete 2 of your level 5 or higher Digimon with [Myotismon] in their texts."
+      ],
+      "date": "Sep. 5, 2025",
+      "num": "Q5028",
+      "q": "Can I use this card's {Trash} [Main] effect to delete just 1 of my Digimon?"
+    },
+    {
+      "a": "Yes, you must delete them whenever possible.",
+      "date": "Sep. 5, 2025",
+      "num": "Q5029",
+      "q": "Do I have to delete 2 other unsuspended Digimon for this card's [On Play] [When Digivolving] [When Attacking] effect whenever possible, regardless of whether they're my Digimon or my opponent's Digimon?"
+    }
+  ],
+  "Color": [
+    "Red",
+    "Purple",
+    "Blue"
+  ],
+  "Cost": "14",
+  "DP": "14000",
+  "Digivolve Cost 1": [
+    "Red",
+    "Purple",
+    "6 from Lv.5"
+  ],
+  "Effect": [
+    "{Trash} [Main] By deleting 2 of your level 5 or higher Digimon with [Myotismon] in their texts, play this card with the play cost reduced by 11.",
+    "[On Play] [When Digivolving] [When Attacking] [Once Per Turn] Delete 2 other unsuspended Digimon.",
+    "[All Turns] [Once Per Turn] When any of your other Digimon or Tamers are deleted, trash your opponent's top security card and return 1 of their Digimon with the lowest DP to the bottom of the deck."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Extra Booster SINISTER ORDER [EX-10]",
+    "?search=true&category=522031",
+    "/products/pack/ex-10"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.5 w/[Myotismon] in name: Cost 5",
+  "Type": "Demon Lord",
+  "cardLv": "Lv.6",
+  "cardNo": "EX10-011",
+  "cardRarity": "SR",
+  "cardTitle": "MaloMyotismon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX10-011.png?260210"
+}

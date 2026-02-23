@@ -1,0 +1,91 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": [
+        "No, you can't.",
+        "You must give",
+        "to 1 of your Digimon."
+      ],
+      "date": "Jun. 13, 2025",
+      "num": "Q4565",
+      "q": "If this card's [Your Turn] effect triggers when another Digimon with the [ADVENTURE] trait is played or another of my Digimon digivolves into an [ADVENTURE] trait Digimon, can I choose to not activate it?"
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Apr. 4, 2025",
+      "num": "Q4566",
+      "q": [
+        "Can I choose different Digimon for the Digimon that gains",
+        "and the Digimon that attacks for this card's [Your Turn] effect?"
+      ]
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Apr. 4, 2025",
+      "num": "Q4567",
+      "q": [
+        "After my Digimon gains",
+        "with this card's [Your Turn] effect, can I choose to not attack for the part of the effect after \"then\"?"
+      ]
+    },
+    {
+      "a": [
+        "No. You perform",
+        "twice, not",
+        ".",
+        "When performing",
+        ", the top 2 cards are considered to be trashed at the same time, but when performing",
+        "twice, the top 2 cards are trashed 1 at a time.",
+        "For example, if using",
+        "to simultaneously trash the top 2 cards of a suspended Digimon and the 2nd card trashed is BT15-047 [Kabuterimon], its effect won't activate. However, if performing",
+        "twice and the Digimon becomes BT15-047 [Kabuterimon] after the 1st instance of",
+        "trashes a card, it won't be affected by the 2nd instance of",
+        "and won't be trashed.",
+        "Related Cards"
+      ],
+      "date": "Apr. 4, 2025",
+      "num": "Q4568",
+      "q": [
+        "My Tamer has 4 colors.",
+        "If this card's [On Play] [When Digivolving] effect activates, do I perform",
+        "?"
+      ]
+    },
+    {
+      "a": [
+        "Yes, you can process it.",
+        "Even if your other Digimon don't have the [ADVENTURE] trait, this card's [Your Turn] effect will allow 1 of your Digimon to attack."
+      ],
+      "date": "Jun. 13, 2025",
+      "num": "Q4731",
+      "q": "Can I process the part of the effect after \"then\" in this card's [Your Turn] effect even if the \"if\" condition in the 1st process isn't met?"
+    }
+  ],
+  "Color": "Black",
+  "Cost": "7",
+  "DP": "7000",
+  "Digivolve Cost 1": [
+    "Black",
+    "3 from Lv.4"
+  ],
+  "Effect": [
+    "[On Play] [When Digivolving] To 1 of your opponent's Digimon, ＜De-Digivolve 1＞ for every 2 of your Tamers' colors.",
+    "[Your Turn] [Once Per Turn] When your other Digimon are played or digivolve, if any of them have the [ADVENTURE] trait, 1 of your Digimon gains ＜Alliance＞ for the turn. Then, 1 of your Digimon may attack."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "＜Alliance＞ (When this Digimon attacks, by suspending 1 of your other Digimon, this Digimon gains ＜Security A. +1＞ and the suspended Digimon's DP for the attack.)",
+  "Notes": [
+    "Booster WORLD CONVERGENCE [BT-21]",
+    "?search=true&category=522028",
+    "/products/pack/ver21"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.4 w/[Greymon] in name or w/[ADVENTURE] trait: Cost 3",
+  "Type": "Cyborg/ADVENTURE",
+  "cardLv": "Lv.5",
+  "cardNo": "BT21-061",
+  "cardRarity": "U",
+  "cardTitle": "MetalGreymon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT21-061.png?260210"
+}

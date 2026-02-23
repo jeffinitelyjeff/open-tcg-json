@@ -1,0 +1,63 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": [
+        "Yes, you can.",
+        "Even if you trash it, you play this card without paying the cost."
+      ],
+      "date": "Jun. 13, 2025",
+      "num": "Q4759",
+      "q": "When this card is played without paying the cost, can I use its 1st effect to trash a specified card from my hand?"
+    },
+    {
+      "a": [
+        "No, it can't.",
+        "You choose 1 of your opponent's Digimon, then choose its digivolution cards to be trashed by this card's [On Play] [When Digivolving] effect."
+      ],
+      "date": "Jun. 13, 2025",
+      "num": "Q4760",
+      "q": "Can this card's [On Play] [When Digivolving] effect trash digivolution cards from multiple Digimon?"
+    },
+    {
+      "a": [
+        "No, you can't.",
+        "If you don't place 1 Digimon card from your trash face down as this Digimon's bottom digivolution card, the part of this card's [On Play] [When Digivolving] effect after \"then\" can't return 1 of your opponent's Digimon with no digivolution cards to the bottom of the deck."
+      ],
+      "date": "Jun. 13, 2025",
+      "num": "Q4761",
+      "q": "Can I process the part of the effect after \"then\" in this card's [On Play] [When Digivolving] effect without meeting the \"by\" condition?"
+    }
+  ],
+  "Color": [
+    "Blue",
+    "Black"
+  ],
+  "Cost": "7",
+  "DP": "7000",
+  "Digivolve Cost 1": [
+    "Blue",
+    "Black",
+    "4 from Lv.4"
+  ],
+  "Effect": [
+    "When this card would be played, by trashing 1 [Cyborg] or [Ver.2] trait card from your hand, reduce the play cost by 2.",
+    "[On Play] [When Digivolving] By placing 1 Digimon card from your trash face down as this Digimon's bottom digivolution card, from 1 of your opponent's Digimon, trash any 1 digivolution card for each of this Digimon's face-down digivolution cards. Then, return 1 of their Digimon with no digivolution cards to the bottom of the deck."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "[End of Your Turn] [Once Per Turn] 1 of your Digimon unsuspends.",
+  "Notes": [
+    "Extra Booster VERSUS MONSTERS [EX-09]",
+    "?search=true&category=522029",
+    "/products/pack/ex-09"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [Mamemon]: Cost 1/Lv.4 w/[DM] trait: Cost 3",
+  "Type": "Cyborg/DM/Ver.2",
+  "cardLv": "Lv.5",
+  "cardNo": "EX9-018",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "MetalMamemon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX9-018_P1.png?260210"
+}

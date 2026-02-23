@@ -1,0 +1,65 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "No, you don't have to choose an opponent's Digimon.",
+      "date": "Jul. 4, 2025",
+      "num": "Q4911",
+      "q": "Do I have to choose an opponent's Digimon for this card's inherited effect?"
+    },
+    {
+      "a": "No, they can't attack using a Digimon that can't attack.",
+      "date": "Jul. 4, 2025",
+      "num": "Q4912",
+      "q": "Does my opponent's Digimon attack even if I choose an opponent's Digimon that can't attack for this card's inherited effect?"
+    },
+    {
+      "a": [
+        "No, your opponent can't attack using that Digimon. A new attack declaration can't be made during an attack.",
+        "In such cases, even if you choose an opponent's Digimon for this card's inherited effect when there is already an attacking Digimon, your opponent can't attack with the chosen Digimon."
+      ],
+      "date": "Jul. 4, 2025",
+      "num": "Q4913",
+      "q": [
+        "An opponent's Digimon is attacking using an effect at the end of their turn.",
+        "If I choose an opponent's Digimon for this card's inherited effect, does that Digimon attack?"
+      ]
+    },
+    {
+      "a": [
+        "Yes, you can choose a Digimon that isn't affected by effects for this and have it attack.",
+        "Such Digimon aren't affected by effects, but they can be chosen.",
+        "In addition, \"your opponent attacks with the chosen Digimon\" in this card's inherited effect affects a player, therefore your opponent must attack with the chosen Digimon if it can attack."
+      ],
+      "date": "Jul. 4, 2025",
+      "num": "Q4914",
+      "q": "Can I choose a Digimon that isn't affected by effects for this card's inherited effect and have it attack?"
+    }
+  ],
+  "Color": "Black",
+  "Cost": "6",
+  "DP": "6000",
+  "Digivolve Cost 1": [
+    "Black",
+    "3 from Lv.4"
+  ],
+  "Effect": [
+    "＜Blocker＞",
+    "[On Play] [When Digivolving] Until your opponent's turn ends, their ＜De-Digivolve＞ effects don't affect this Digimon, and it gets +1000 DP for each of its face-down digivolution cards."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "[End of Opponent's Turn] [Once Per Turn] You may choose 1 of your opponent's Digimon. Your opponent attacks with the chosen Digimon.",
+  "Notes": [
+    "Booster CYBER EDEN [BT-22]",
+    "?search=true&category=522030",
+    "/products/pack/ver22"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.4 w/[DM] trait: Cost 3",
+  "Type": "Machine/DM/Ver.5",
+  "cardLv": "Lv.5",
+  "cardNo": "BT22-060",
+  "cardRarity": "C",
+  "cardTitle": "Datamon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT22-060.png?260210"
+}

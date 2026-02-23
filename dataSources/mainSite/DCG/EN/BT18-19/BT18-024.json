@@ -1,0 +1,56 @@
+{
+  "Attribute": "Variable",
+  "Card Q&A": [
+    {
+      "a": "No, it digivolves from the Tamer as-is.",
+      "date": "Jun. 21, 2024",
+      "num": "Q2940",
+      "q": "Does this card's digivolution requirement where it can digivolve from a Tamer mean that the Tamer that will become a digivolution card is treated as a Digimon when it digivolves?"
+    },
+    {
+      "a": [
+        "No, it isn't considered a Digimon that would digivolve.",
+        "When a Tamer would digivolve using this card's digivolution requirement, \"when a Digimon would digivolve\" effects don't trigger."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q2941",
+      "q": "When a Tamer would digivolve using this card's digivolution requirement, is it considered a Digimon that would digivolve?"
+    },
+    {
+      "a": [
+        "No, it isn't considered a Digimon that digivolves.",
+        "When a Tamer digivolves using this card's digivolution requirement, \"when a Digimon digivolves\" effects don't trigger."
+      ],
+      "date": "Jun. 21, 2024",
+      "num": "Q2942",
+      "q": "When a Tamer digivolves using this card's digivolution requirement, is it considered a Digimon that digivolves?"
+    }
+  ],
+  "Color": "Blue",
+  "Cost": "6",
+  "DP": "6000",
+  "Digivolve Cost 1": [
+    "Blue",
+    "3 from Lv.3"
+  ],
+  "Digivolve Cost 2": [
+    "Blue",
+    "3 from Tamer"
+  ],
+  "Effect": "[On Play] [When Digivolving] If level 3 Digimon cards are in this Digimon's digivolution cards, return 1 of your opponent's level 4 or lower Digimon to the hand. If such aren't, you may place 1 blue level 3 Digimon card from your hand as this Digimon's bottom digivolution card.",
+  "Form": "Hybrid",
+  "Inherited Effect": "[When Attacking] [Once Per Turn] You may return 1 level 3 Digimon to the hand.",
+  "Notes": [
+    "SPECIAL BOOSTER Ver.2.0 [BT18-19]",
+    "?search=true&category=522025",
+    "/products/pack/ver18-19"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [Lanamon]: Cost 1",
+  "Type": "Aquatic",
+  "cardLv": "Lv.4",
+  "cardNo": "BT18-024",
+  "cardRarity": "C",
+  "cardTitle": "Calmaramon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT18-024.png?260210"
+}

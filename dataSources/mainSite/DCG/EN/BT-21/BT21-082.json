@@ -1,0 +1,38 @@
+{
+  "Card Q&A": [
+    {
+      "a": "Yes, the digivolution cost is reduced by 1.",
+      "date": "Apr. 4, 2025",
+      "num": "Q4595",
+      "q": "If only this card is in the battle area and I use its [Start of Your Main Phase] effect to digivolve, is the digivolution cost reduced by 1?"
+    },
+    {
+      "a": [
+        "[Security] effects take precedence for activation.",
+        "Upon a security check, a [Security] effect will immediately activate without pending activation.",
+        "For other triggered effects, the turn player activates their effects first."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q4596",
+      "q": "In what order do a [Security] effect, \"when [...] performs a security check\" effect, and \"when a card is removed from [...] security stack\" effect activate when they trigger simultaneously upon a security check?"
+    }
+  ],
+  "Color": "Red",
+  "Cost": "3",
+  "Effect": [
+    "[Security] Play this card without paying the cost.",
+    "[Start of Your Main Phase] 1 of your Digimon or Tamers may digivolve into a Digimon card with the [Hybrid] or [Hero] trait in the hand. For each of your red Tamers with different names, reduce this effect's digivolution cost by 1."
+  ],
+  "Inherited Effect": "[Your Turn] [Once Per Turn] When your opponent's security stack is removed from, you may play 1 red Tamer card from your hand without paying the cost.",
+  "Notes": [
+    "Booster WORLD CONVERGENCE [BT-21]",
+    "?search=true&category=522028",
+    "/products/pack/ver21"
+  ],
+  "Type": "Hero",
+  "cardNo": "BT21-082",
+  "cardRarity": "SR",
+  "cardTitle": "Takuya Kanbara",
+  "cardType": "Tamer",
+  "imgSrc": "../images/cardlist/card/BT21-082.png?260210"
+}

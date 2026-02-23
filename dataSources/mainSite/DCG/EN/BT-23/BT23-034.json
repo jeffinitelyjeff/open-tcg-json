@@ -1,0 +1,109 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": [
+        "This effect prevents [When Digivolving] effects on cards from activating.",
+        "[When Digivolving] effects can no longer activate by triggering or when effects such as \"activate that card's [When Digivolving]\" effect\" activate."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5282",
+      "q": "What does \"[When Digivolving] effects don't activate\" mean, exactly?"
+    },
+    {
+      "a": [
+        "Yes, you can.",
+        "The effect can activate if it activates upon the [When Attacking] timing."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5283",
+      "q": [
+        "I used a card affected by \"can't activate [When Digivolving] effects\" to attack.",
+        "Can I activate that card's [When Digivolving] [When Attacking] effect at such times?"
+      ]
+    },
+    {
+      "a": "No, it can't be activated.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5284",
+      "q": "If a card is affected by \"can't activate [When Digivolving] effects,\" can other effects activate its [When Digivolving] effect?"
+    },
+    {
+      "a": "No, you can't.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5285",
+      "q": "If a card is affected by \"can't activate [When Digivolving] effects,\" can I process just the \"by\" condition in its [When Digivolving] effect?"
+    },
+    {
+      "a": [
+        "No, it doesn't count.",
+        "The effect can't activate upon the [When Digivolving] timing, therefore it doesn't count as an instance of that effect's [X Per Turn]."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5286",
+      "q": [
+        "A card that was given \"can't activate [When Digivolving] effects\" digivolved into a card that has a [When Digivolving] [When Attacking] [Once Per Turn] effect.",
+        "Does that count as an instance of that effect's [X Per Turn] even if that effect can't be activated upon the timing when that card digivolved?"
+      ]
+    },
+    {
+      "a": [
+        "They become face-up security cards that remain revealed.",
+        "Other than rules that specify face-up security cards, the rules apply in the same manner as standard security cards."
+      ],
+      "date": "Oct. 3, 2025",
+      "num": "Q5289",
+      "q": "What happens to cards placed face up in the security stack by effects?"
+    },
+    {
+      "a": [
+        "The check is performed with the card left revealed.",
+        "Other than rules for cards left revealed, the rules apply in the same manner as standard security checks."
+      ],
+      "date": "Oct. 3, 2025",
+      "num": "Q5290",
+      "q": "What happens upon a security check for a security card that is placed face-up?"
+    },
+    {
+      "a": "Yes, it triggers.",
+      "date": "Oct. 3, 2025",
+      "num": "Q5291",
+      "q": "Does a card's [Security] effect trigger upon a security check with that card placed face-up?"
+    },
+    {
+      "a": [
+        "Any face-up cards are placed face down, then you shuffle the cards.",
+        "After shuffling, all cards are left face-down."
+      ],
+      "date": "Oct. 3, 2025",
+      "num": "Q5292",
+      "q": "What happens if I shuffle a security stack that includes security cards placed face-up?"
+    }
+  ],
+  "Color": "Yellow",
+  "Cost": "11",
+  "DP": "11000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "3 from Lv.5"
+  ],
+  "Effect": [
+    "When this card would be played, if you have a Tamer with the [Zaxon] trait, reduce the play cost by 5.",
+    "[On Play] [When Digivolving] [When Attacking] [Once Per Turn] Until your opponent's turn ends, 1 of their Digimon can't activate [When Digivolving] effects and gets -6000 DP.",
+    "[On Deletion] Place this card face up as the bottom security card."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster HACKERS' SLUMBER [BT-23]",
+    "?search=true&category=522032",
+    "/products/pack/ver23"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.5 w/[CS] trait: Cost 3",
+  "Type": "Shaman/Zaxon/CS",
+  "cardLv": "Lv.6",
+  "cardNo": "BT23-034",
+  "cardRarity": "U",
+  "cardTitle": "Sakuyamon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT23-034.png?260210"
+}

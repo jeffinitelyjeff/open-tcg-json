@@ -1,0 +1,58 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "Yes, you can.",
+      "date": "Oct. 3, 2025",
+      "num": "Q5235",
+      "q": [
+        "I have this card in the digivolution cards of a Digimon with",
+        ".",
+        "If that Digimon attacks and I use this card's inherited effect to play a Digimon, can I then use",
+        "to suspend the played Digimon?"
+      ]
+    },
+    {
+      "a": [
+        "Yes, it's deleted upon the deletion timing.",
+        "If it isn't deleted by another effect when it would be deleted by this effect, it's still prevented from digivolving."
+      ],
+      "date": "Dec. 25, 2025",
+      "num": "Q5561",
+      "q": [
+        "Do I delete the Digimon that was played by this card's inherited effect at the end of my opponent's turn?",
+        "And if it isn't deleted, is it still prevented from digivolving?"
+      ]
+    },
+    {
+      "a": "The pending processing for the effect that triggers at the end of the turn and the deletion at the end of the turn are considered to be processing that triggers simultaneously. Therefore, the turn player can choose the processing order.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5562",
+      "q": "What is the processing order for an effect that triggers at the end of the turn and the deletion of a Digimon played by this card's inherited effect?"
+    }
+  ],
+  "Color": [
+    "Blue",
+    "Purple"
+  ],
+  "Cost": "3",
+  "DP": "1000",
+  "Digivolve Cost 1": "1 from",
+  "Effect": "[On Play] By trashing 1 card in your hand, you may return 1 non-Digi-Egg card with the [CS] trait from your trash to the hand.",
+  "Form": "Rookie",
+  "Inherited Effect": "[When Attacking] [Once Per Turn] You may play 1 play cost 5 or lower Digimon card with the [Hudie] trait from your hand without paying the cost. The Digimon this effect played can't digivolve and is deleted at the end of your opponent's turn.",
+  "Notes": [
+    "Booster HACKERS' SLUMBER [BT-23] Box Topper",
+    "?search=true&category=522032",
+    "/products/pack/ver23"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.2 w/[CS] trait: Cost 0",
+  "Type": "Amphibian/Hudie/CS",
+  "cardLv": "Lv.3",
+  "cardNo": "BT23-017",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "U",
+  "cardTitle": "Betamon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT23-017_P1.png?260210"
+}

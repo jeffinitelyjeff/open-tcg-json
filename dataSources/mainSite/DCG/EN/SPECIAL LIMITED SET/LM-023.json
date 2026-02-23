@@ -1,0 +1,76 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": "1 yellow Tamer card or 1 single-color use cost 5 or lower Option card.",
+      "date": "Nov. 21, 2025",
+      "num": "Q4024",
+      "q": "What cards can be placed as a security card by this card's [On Play] [When Digivolving] effect?"
+    },
+    {
+      "a": [
+        "Yes, you reveal it.",
+        "After revealing the card to your opponent, you place it as a security card."
+      ],
+      "date": "Nov. 21, 2025",
+      "num": "Q4025",
+      "q": "When I use this card's [On Play] [When Digivolving] effect to place a card as a security card, do I reveal the card to my opponent?"
+    },
+    {
+      "a": [
+        "Yes, you can.",
+        "If a card's use cost itself is reduced when it's used from the hand and the use cost is 5 or less, this card's [On Play] [When Digivolving] effect can place that card as a security card.",
+        "Related Cards"
+      ],
+      "date": "Nov. 21, 2025",
+      "num": "Q5516",
+      "q": [
+        "An Option card's use cost is 5 or less when used from the hand due to an effect such as BT2-099 [Glorious Burst] or BT8-097 [Crimson Blaze]'s 1st effect.",
+        "Can I use this card's [On Play] [When Digivolving] effect to place that card as a security card?"
+      ]
+    },
+    {
+      "a": "It can be activated after activating the used Option card's [Main] effect.",
+      "date": "Nov. 21, 2025",
+      "num": "Q5517",
+      "q": "If the \"when you use an Option card\" effect triggers, what is the timing when it can activate?"
+    },
+    {
+      "a": [
+        "No, it doesn't trigger.",
+        "If an Option card's effect activates without using it, such as activation by a [Security] effect or",
+        ", the \"when you use an Option card\" effect doesn't trigger."
+      ],
+      "date": "Nov. 21, 2025",
+      "num": "Q5518",
+      "q": "Does the \"when you use an Option card\" effect trigger if an Option card's effect activates by a method other than using the card?"
+    }
+  ],
+  "Color": "Yellow",
+  "Cost": "6",
+  "DP": "11000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "3 from Lv.5"
+  ],
+  "Effect": [
+    "[Hand] [Counter] ＜Blast Digivolve＞ (Your Digimon may digivolve into this card without paying the cost.)",
+    "[On Play] [When Digivolving] You may place 1 yellow Tamer card or 1 single-color use cost 5 or lower Option card from your hand as your top security card.",
+    "[All Turns] [Once Per Turn] When Option cards are used or security stacks are added to, 1 of your opponent's Digimon gets -6000 DP for the turn."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "SPECIAL LIMITED SET",
+    "?search=true&category=522201",
+    "/products/goods/special-limited-set.php"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [Sakuyamon]: Cost 1",
+  "Special Rule": "＜Overflow (-4)＞ (As this card moves from the field or under a card to an area other than those, lose 4 memory.)",
+  "Type": "Shaman",
+  "cardLv": "Lv.6",
+  "cardNo": "LM-023",
+  "cardRarity": "P",
+  "cardTitle": "Sakuyamon: Maid Mode ACE",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/LM-023.png?260210"
+}

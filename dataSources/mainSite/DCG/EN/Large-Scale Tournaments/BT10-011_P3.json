@@ -1,0 +1,90 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "No, even if multiple Tamers suspend at the same time, this effect will only give +2000 DP.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1938",
+      "q": "If more than 1 of my Tamers suspend at the same time, does this card's \"+2000 DP\" effect activate multiple times?"
+    },
+    {
+      "a": [
+        "Yes, if the memory gauge is now at 1 or greater on your opponent's side, you can activate",
+        "."
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q1939",
+      "q": [
+        "I digivolve a Digimon with [Gammamon] in its name and a [When Digivolving]",
+        "effect into this card. Can I activate the [When Digivolving]",
+        "effect through this card's [All Turns] effect and attack?"
+      ]
+    },
+    {
+      "a": [
+        "No, you can't. If this card is added to digivolution cards by [BT8-084 Kimeramon]'s [When Digivolving] effect, you get [BT8-013 BetelGammamon]'s",
+        "effect through this card, but the time to trigger",
+        "has already passed, so",
+        "doesn't activate.",
+        "Related Cards"
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q1940",
+      "q": [
+        "I digivolve a [BT8-013 BetelGammamon] into a [BT8-084 Kimeramon] and place this card as one of [BT8-084 Kimeramon]'s digivolution cards with its [When Digivolving] effect. Can I now activate [BT8-013 BetelGammamon]'s [When Digivolving]",
+        "effect through this card's inherited effect and attack?"
+      ]
+    },
+    {
+      "a": "Yes, you gain all the effects from every applicable card, even if there are multiple of them.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1941",
+      "q": "If I have multiple digivolution cards with [Gammamon] in their names, does this card's [All Turns] effect and inherited effect give me all of their effects?"
+    },
+    {
+      "a": "No, this card's [All Turns] effect and inherited effect don't affect the inherited effects of digivolution cards with [Gammamon] in their names.",
+      "date": "Mar. 28, 2024",
+      "num": "Q1942",
+      "q": "Does this card's [All Turns] effect and inherited effect allow me to activate the inherited effect of a digivolution card with [Gammamon] in its name as an effect of this card?"
+    },
+    {
+      "a": [
+        "This card's effect and inherited effect mean that this Digimon gains [BT8-008 Gammamon]'s effects twice, so",
+        "is activated twice and you draw a total of 2 cards.",
+        "Related Cards"
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q1943",
+      "q": [
+        "Due to an effect, this Digimon has another [BT10-011 Canoweissmon] and a [BT8-008 Gammamon] under it as its digivolution cards. If I play a red Tamer, how exactly does [BT8-008 Gammamon]'s \"When you play a red Tamer,",
+        "(Draw 1 card from your deck)\" effect work in this situation?"
+      ]
+    }
+  ],
+  "Color": "Red",
+  "Cost": "8",
+  "DP": "8000",
+  "Digivolve Cost 1": [
+    "Red",
+    "3 from Lv.4"
+  ],
+  "Effect": [
+    "[Your Turn][Once Per Turn] When one of your Tamers becomes suspended, this Digimon gets +2000 DP for the turn. Then, if this Digimon has 12000 DP or more, it gains ＜Security Attack +1＞ for the turn. (This Digimon checks 1 additional security card.)",
+    "[All Turns] This Digimon gains all effects of cards with [Gammamon] in their names in this Digimon's digivolution cards."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "[All Turns] This Digimon gains all effects of cards with [Gammamon] in their names in this Digimon's digivolution cards.",
+  "Notes": [
+    "2023 Championship Regionals Finalist Card Set 2",
+    "?search=true&category=522902"
+  ],
+  "Special Digivolution Condition": "[Digivolve] 3 from Lv.4 w/[Gammamon] in name",
+  "Type": "Sky Dragon",
+  "cardLv": "Lv.5",
+  "cardNo": "BT10-011",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "R",
+  "cardTitle": "Canoweissmon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT10-011_P3.png?260210"
+}

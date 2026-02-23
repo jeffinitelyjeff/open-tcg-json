@@ -1,0 +1,55 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": "Yes, the effect reads \"you may play it,\" so you may also choose to not play it. In such cases, you place it at the bottom of the deck with the rest of the cards.",
+      "date": "Mar. 28, 2024",
+      "num": "Q790",
+      "q": "When this card's [When Digivolving] effect reveals a card with the [Legend-Arms] trait and a play cost of 7 or less in my deck, can I choose to not play that card?"
+    },
+    {
+      "a": [
+        "It can't be played due to [BT9-Pomumon]'s effect, so return it to the bottom of the deck with the rest of the cards.",
+        "Related Cards"
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q791",
+      "q": "If there's a [BT9-047 Pomumon] and I reveal a Digimon card with the [Legend-Arms] trait and a play cost of 7 or less with this card's [When Attacking] effect, what happens to that card?"
+    },
+    {
+      "a": [
+        "No, this card's inherited effect has the [Opponent's Turn] timing, but the turns haven't changed at the end of your turn, so this card's inherited effect can't be activated and the effect of your opponent's [BT9-112 DeathXmon] can't be prevented.",
+        "Related Cards"
+      ],
+      "date": "Mar. 28, 2024",
+      "num": "Q792",
+      "q": "If my Digimon is targeted by the [End of Opponent's Turn] effect of my opponent's [BT9-112 DeathXmon] while it has this card in its digivolution cards, does this card's inherited effect prevent it from being deleted due to my opponent's effect?"
+    }
+  ],
+  "Color": "Black",
+  "Cost": "11",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Black",
+    "Red",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "[Your Turn][Once Per Turn] When one of your effects places a digivolution card under this Digimon, your opponent's effects can't delete this Digimon or return it to its owner's hand or deck until the end of their turn.",
+    "[When Digivolving] Reveal the top 3 cards of your deck. You may play 1 Digimon card with [Legend-Arms] in its traits and a play cost of 7 or less among them without paying its memory cost. Place the rest at the bottom of your deck in any order."
+  ],
+  "Form": "Mega",
+  "Inherited Effect": "[Opponent's Turn] While this Digimon is [RagnaLoardmon], it isn't affected by the effects of your opponent's Digimon.",
+  "Notes": [
+    "Starter Deck RAGNALOARDMON [ST-13]",
+    "?search=true&category=522113",
+    "/products/deck/st-13.php"
+  ],
+  "Type": "Armor/Legend-Arms",
+  "cardLv": "Lv.6",
+  "cardNo": "ST13-14",
+  "cardRarity": "R",
+  "cardTitle": "BryweLudramon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/ST13-14.png?260210"
+}
