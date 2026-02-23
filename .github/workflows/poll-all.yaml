@@ -135,8 +135,8 @@ jobs:
       - name: install python dependencies
         run: poetry install --no-interaction --no-ansi
 
-      - name: run scrapy (tcg_plus list-only)
-        run: poetry run python -m lib.scrapy.scripts.run_scrapy --tcg_plus --list-only
+      - name: run scrapy (tcg_plus poll-only)
+        run: poetry run python -m lib.scrapy.scripts.run_scrapy --tcg_plus --poll-only
 
       - name: detect tcg_plus changes
         id: detect-tcg-plus-changes
@@ -212,8 +212,8 @@ jobs:
       - name: install python dependencies
         run: poetry install --no-interaction --no-ansi
 
-      - name: run scrapy (dcg_main list-only)
-        run: poetry run python -m lib.scrapy.scripts.run_scrapy --dcg_main --list-only
+      - name: run scrapy (dcg_main poll-only)
+        run: poetry run python -m lib.scrapy.scripts.run_scrapy --dcg_main --poll-only
 
       - name: detect dcg_main changes
         id: detect-dcg-main-changes
