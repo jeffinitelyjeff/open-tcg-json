@@ -9,11 +9,15 @@ from scrapy.utils import project
 from .. import scrapy_util
 from ..spiders import tcg_plus
 from ..spiders import dcg_wiki
+from ..spiders import dcg_main
 
 SPIDERS = {
     "dcg_wiki": dcg_wiki.DCGWikiSpider,
     "tcg_plus": tcg_plus.TCGPlusSpider,
+    "dcg_main": dcg_main.DCGMainSiteSpider,
 }
+
+POLL_SUPPORTED_SPIDERS = {'tcg_plus', 'dcg_main'}
 
 
 def main():
@@ -39,9 +43,11 @@ def get_cli_args() -> argparse.Namespace:
                               action='store_true',
                               help=f'Run the {spider_name} spider.')
 
-  parser.add_argument('--list-only',
-                      action='store_true',
-                      help='Only fetch TCG+ card lists without details.')
+  parser.add_argument(
+      '--poll-only',
+      action='store_true',
+      help=
+      'A quick, lightweight check to determine if a full scrape is necessary.')
 
   args = parser.parse_args()
   return args
@@ -74,16 +80,17 @@ def run_spiders(scrapy_settings: project.Settings, args: argparse.Namespace):
     logging.info("No spiders selected; exiting.")
     return
 
-  if args.list_only and not any(name == 'tcg_plus'
+  if args.poll_only and not any(name in POLL_SUPPORTED_SPIDERS
                                 for name, _, _ in selected_spiders):
-    logging.info("--list-only flag ignored because tcg_plus spider was not selected")
+    logging.info(
+        "--poll-only flag ignored because no supported spiders were selected")
 
   run_spiders_parallel(scrapy_settings, selected_spiders)
 
 
 def get_spider_kwargs(spider_name: str, args: argparse.Namespace) -> dict:
-  if spider_name == 'tcg_plus':
-    return {'list_only': args.list_only}
+  if spider_name in POLL_SUPPORTED_SPIDERS:
+    return {'poll_only': args.poll_only}
 
   return {}
 

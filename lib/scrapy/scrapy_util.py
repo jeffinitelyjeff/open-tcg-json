@@ -44,3 +44,16 @@ def response_logger(log_level=logging.DEBUG):
 
 log_response_INFO = response_logger(logging.INFO)
 log_response_DEBUG = response_logger(logging.DEBUG)
+
+
+def get_text(element) -> str:
+  return ''.join(element.css('::text').getall()).strip()
+
+
+def get_texts_or_text(element) -> list[str]:
+  l = [text.strip() for text in element.css('::text').getall() if text.strip()]
+  return l[0] if len(l) == 1 else l
+
+
+def descendent_text(element) -> str:
+  return ''.join(element.css('*::text').getall()).strip()

@@ -66,8 +66,7 @@ def camel_case(s: str) -> str:
   return parts[0].lower() + ''.join(p.title() for p in parts[1:])
 
 
-def get_text(element) -> str:
-  return ''.join(element.css('::text').getall()).strip()
+get_text = scrapy_util.get_text
 
 
 class DCGWikiSpider(base_spider.BaseSpider):
