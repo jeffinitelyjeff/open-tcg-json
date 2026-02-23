@@ -109,6 +109,7 @@ AUTOTHROTTLE_DEBUG = True
 RANDOMIZE_DOWNLOAD_DELAY = True
 RETRY_ENABLED = True
 RETRY_HTTP_CODES = [500, 502, 503, 504, 522, 524, 408, 429, 403]
+RETRY_TIMES = 10
 
 # Enable and configure HTTP caching (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html#httpcache-middleware-settings
