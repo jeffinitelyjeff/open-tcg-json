@@ -385,7 +385,6 @@ class DCGWikiSpider(base_spider.BaseSpider):
 
     return data
 
-  @scrapy_util.log_response_INFO
   def parse_card_gallery(self, response):
     data = defaultdict(list)
 
@@ -440,7 +439,6 @@ class DCGWikiSpider(base_spider.BaseSpider):
   def full_img_for_thumb(thumb_url: str) -> str:
     return re.sub(r'/scale-to-width-down/\d+', '', thumb_url)
 
-  @scrapy_util.log_response_INFO
   def parse_card_rulings(self, response):
     ruling_items = response.css('.ruling')
     assert len(ruling_items) > 0, f"no rulings"
@@ -473,7 +471,6 @@ class DCGWikiSpider(base_spider.BaseSpider):
     data = {'rulings': rulings, 'references': references}
     return data
 
-  @scrapy_util.log_response_INFO
   def parse_card_errata(self, response):
     tables = response.css('.errata-table')
 
