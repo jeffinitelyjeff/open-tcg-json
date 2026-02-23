@@ -18,8 +18,9 @@ RUN_URL = f"{SERVER_URL}/{REPO_NAME}/actions/runs/{RUN_ID}"
 
 START_TS = os.getenv('START_TS')
 JOB_DISPLAY_NAMES = {
-    'dcg_wiki': 'DCG Wiki',
-    'tcg_plus': 'TCG+',
+    'dcg_wiki': 'DCG Wiki (digimoncardgame.fandom.com)',
+    'dcg_main': 'DCG Main (digimoncard.com)',
+    'tcg_plus': 'TCG+ (bandai-tcg-plus.com)',
 }
 
 
