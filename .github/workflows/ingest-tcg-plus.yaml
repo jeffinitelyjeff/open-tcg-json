@@ -77,7 +77,7 @@ jobs:
         id: git-commit-tcg
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "🤖 tcg_plus ingest update"
+          commit_message: "🤖 tcg_plus update"
 
       - name: set discord end messages
         if: ${{ always() }}

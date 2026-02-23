@@ -95,7 +95,7 @@ jobs:
         id: git-commit-dcg
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "🤖 dcg_wiki ingest update"
+          commit_message: "🤖 dcg_wiki update"
 
       - name: set discord end messages
         if: ${{ always() }}
