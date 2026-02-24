@@ -1,43 +1,58 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Free]/[Hero] trait: Cost 3 \n[DNA Digivolve] Blue Lv.4 + Green Lv.4 : Cost 0\nStack the 2 specified Digimon and digivolve unsuspended.",
+  "attribute": "Free",
   "blockIcon": "05",
+  "cardEffects": "＜Partition (Blue Lv.4 & Green Lv.4)＞ (When this Digimon with each of the specified digivolution cards would leave the battle area other than by your own effects or by battle, you may play 1 each of the specified cards without paying the costs.)\n[When Digivolving] Until your opponent's turn ends, this Digimon can't be deleted in battle. Then, if DNA digivolving, this Digimon's attack target can't change for the turn.\n[When Attacking] This Digimon may digivolve into a Digimon card with [Imperialdramon] in its name in the hand with the digivolution cost reduced by 2.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
-  "setData": {
-    "ch": [
+  "cardType": "Digimon",
+  "color": "Blue/Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
       {
-        "boosterSet": {
-          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
-          "text": "AD-01: Advanced Booster Digimon Generation"
-        },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+        "captionText": "AD-01: Advanced Booster Digimon Generation (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:AD1-011-Sample.png",
+        "imgName": "AD1-011-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0f/AD1-011-Sample.png/revision/latest?cb=20260224003746",
+        "uploadDate": "2026-02-24T00:37:46"
       }
-    ],
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0f/AD1-011-Sample.png/revision/latest?cb=20260224003746",
+  "inheritedEffect": "＜Partition (Blue Lv.4 & Green Lv.4)＞ (When this Digimon with each of the specified digivolution cards would leave the battle area other than by your own effects or by battle, you may play 1 each of the specified cards without paying the costs.)",
+  "level": "5",
+  "name": "Paildramon",
+  "nameJapanese": "パイルドラモン",
+  "playCost": "8",
+  "rarity": "Rare",
+  "setData": {
     "en": [
       {
         "boosterSet": {
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
       }
     ],
     "jp": [
@@ -46,25 +61,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
           "text": "AD-01: Advanced Booster Digimon Generation"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
-      }
-    ],
-    "kr": [
-      {
-        "boosterSet": {
-          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
-          "text": "AD-01: Advanced Booster Digimon Generation"
-        },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
       }
     ]
-  }
+  },
+  "type": "Dragonkin/Hero"
 }
