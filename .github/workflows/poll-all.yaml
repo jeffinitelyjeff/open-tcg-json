@@ -8,11 +8,15 @@ on:
     # for poll-dcg-wiki: every hour at 25 minutes past the hour
     - cron: "25 * * * *"
     # for poll-tcg-plus and poll-dcg-main: once a day at 00:25
+    - cron: "25 0 * * *"
 jobs:
   poll-dcg-wiki:
-    if: github.event_name != 'schedule' || github.event.schedule == '25 * * * *'
+    if: (github.event_name == 'schedule' && github.event.schedule == '25 * * * *') || github.event_name == 'workflow_dispatch'
     timeout-minutes: 10
     runs-on: ubuntu-latest
+    outputs:
+      has_changes: ${{ steps.recent_changes.outputs.has_changes }}
+      change_count: ${{ steps.recent_changes.outputs.change_count }}
     env:
       PYWIKIBOT_USERNAME: ${{ secrets.PYWIKIBOT_USERNAME }}
     steps:
@@ -81,25 +85,6 @@ jobs:
           name: logs-dcg-wiki-poll
           path: logs
 
-      - name: trigger archive workflow
-        if: ${{ steps.recent_changes.outputs.has_changes == 'true' }}
-        uses: actions/github-script@v7
-        env:
-          CHANGE_COUNT: ${{ steps.recent_changes.outputs.change_count }}
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const changeCount = Number(process.env.CHANGE_COUNT || '0');
-            const reason = `Changes detected (${changeCount}) by poll run #${context.runNumber}`;
-            await github.rest.actions.createWorkflowDispatch({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              workflow_id: "archive-dcg-wiki.yaml",
-              ref: context.ref,
-              inputs: { reason },
-            });
-            core.info(`Triggered archive-dcg-wiki workflow on ${context.ref} (changes: ${changeCount}).`);
-
       - name: summarize archive trigger
         if: ${{ steps.recent_changes.outputs.has_changes == 'true' }}
         run: |
@@ -110,9 +95,12 @@ jobs:
         run: echo "😴 No new DCG Wiki changes detected; archive workflow not triggered." >> "$GITHUB_STEP_SUMMARY"
 
   poll-tcg-plus:
-    if: github.event_name != 'schedule' || github.event.schedule == '25 0 * * *'
+    if: (github.event_name == 'schedule' && github.event.schedule == '25 0 * * *') || github.event_name == 'workflow_dispatch'
     timeout-minutes: 10
     runs-on: ubuntu-latest
+    outputs:
+      has_changes: ${{ steps.detect-tcg-plus-changes.outputs.has_changes }}
+      change_count: ${{ steps.detect-tcg-plus-changes.outputs.change_count }}
     steps:
       - name: check out repo
         uses: actions/checkout@v3
@@ -158,25 +146,6 @@ jobs:
           name: logs-tcg-plus
           path: logs
 
-      - name: trigger archive workflow
-        if: ${{ steps.detect-tcg-plus-changes.outputs.has_changes == 'true' }}
-        uses: actions/github-script@v7
-        env:
-          CHANGE_COUNT: ${{ steps.detect-tcg-plus-changes.outputs.change_count }}
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const changeCount = Number(process.env.CHANGE_COUNT || '0');
-            const reason = `Git changes detected (${changeCount}) by poll run #${context.runNumber}`;
-            await github.rest.actions.createWorkflowDispatch({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              workflow_id: "archive-tcg-plus.yaml",
-              ref: context.ref,
-              inputs: { reason },
-            });
-            core.info(`Triggered archive-tcg-plus workflow on ${context.ref} (changes: ${changeCount}).`);
-
       - name: summarize archive trigger
         if: ${{ steps.detect-tcg-plus-changes.outputs.has_changes == 'true' }}
         run: |
@@ -187,9 +156,12 @@ jobs:
         run: echo "😴 No new TCG+ changes detected; archive workflow not triggered." >> "$GITHUB_STEP_SUMMARY"
 
   poll-dcg-main:
-    if: github.event_name != 'schedule' || github.event.schedule == '25 0 * * *'
+    if: (github.event_name == 'schedule' && github.event.schedule == '25 0 * * *') || github.event_name == 'workflow_dispatch'
     timeout-minutes: 10
     runs-on: ubuntu-latest
+    outputs:
+      has_changes: ${{ steps.detect-dcg-main-changes.outputs.has_changes }}
+      change_count: ${{ steps.detect-dcg-main-changes.outputs.change_count }}
     steps:
       - name: check out repo
         uses: actions/checkout@v3
@@ -235,11 +207,70 @@ jobs:
           name: logs-dcg-main
           path: logs
 
-      - name: trigger archive workflow
+      - name: summarize archive trigger
         if: ${{ steps.detect-dcg-main-changes.outputs.has_changes == 'true' }}
+        run: |
+          echo "🚀 Detected ${{ steps.detect-dcg-main-changes.outputs.change_count }} change(s); archive workflow dispatched." >> "$GITHUB_STEP_SUMMARY"
+
+      - name: summarize no changes
+        if: ${{ steps.detect-dcg-main-changes.outputs.has_changes != 'true' }}
+        run: echo "😴 No new DCG Main changes detected; archive workflow not triggered." >> "$GITHUB_STEP_SUMMARY"
+
+  trigger-dcg-wiki-archive:
+    needs: poll-dcg-wiki
+    if: needs.poll-dcg-wiki.outputs.has_changes == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: trigger archive workflow
         uses: actions/github-script@v7
         env:
-          CHANGE_COUNT: ${{ steps.detect-dcg-main-changes.outputs.change_count }}
+          CHANGE_COUNT: ${{ needs.poll-dcg-wiki.outputs.change_count }}
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const changeCount = Number(process.env.CHANGE_COUNT || '0');
+            const reason = `Changes detected (${changeCount}) by poll run #${context.runNumber}`;
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: "archive-dcg-wiki.yaml",
+              ref: context.ref,
+              inputs: { reason },
+            });
+            core.info(`Triggered archive-dcg-wiki workflow on ${context.ref} (changes: ${changeCount}).`);
+
+  trigger-tcg-plus-archive:
+    needs: poll-tcg-plus
+    if: needs.poll-tcg-plus.outputs.has_changes == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: trigger archive workflow
+        uses: actions/github-script@v7
+        env:
+          CHANGE_COUNT: ${{ needs.poll-tcg-plus.outputs.change_count }}
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const changeCount = Number(process.env.CHANGE_COUNT || '0');
+            const reason = `Git changes detected (${changeCount}) by poll run #${context.runNumber}`;
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: "archive-tcg-plus.yaml",
+              ref: context.ref,
+              inputs: { reason },
+            });
+            core.info(`Triggered archive-tcg-plus workflow on ${context.ref} (changes: ${changeCount}).`);
+
+  trigger-dcg-main-archive:
+    needs: poll-dcg-main
+    if: needs.poll-dcg-main.outputs.has_changes == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: trigger archive workflow
+        uses: actions/github-script@v7
+        env:
+          CHANGE_COUNT: ${{ needs.poll-dcg-main.outputs.change_count }}
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
@@ -254,11 +285,31 @@ jobs:
             });
             core.info(`Triggered archive-dcg-main workflow on ${context.ref} (changes: ${changeCount}).`);
 
-      - name: summarize archive trigger
-        if: ${{ steps.detect-dcg-main-changes.outputs.has_changes == 'true' }}
-        run: |
-          echo "🚀 Detected ${{ steps.detect-dcg-main-changes.outputs.change_count }} change(s); archive workflow dispatched." >> "$GITHUB_STEP_SUMMARY"
-
-      - name: summarize no changes
-        if: ${{ steps.detect-dcg-main-changes.outputs.has_changes != 'true' }}
-        run: echo "😴 No new DCG Main changes detected; archive workflow not triggered." >> "$GITHUB_STEP_SUMMARY"
+  trigger-archives-push:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        archive:
+          - name: dcg-wiki
+            workflow: archive-dcg-wiki.yaml
+          - name: tcg-plus
+            workflow: archive-tcg-plus.yaml
+          - name: dcg-main
+            workflow: archive-dcg-main.yaml
+    steps:
+      - name: trigger ${{ matrix.archive.name }} archive workflow (push)
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const sha = context.sha.slice(0, 7);
+            const reason = `Branch push ${context.ref} (${sha}) triggered archive run #${context.runNumber}`;
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: "${{ matrix.archive.workflow }}",
+              ref: context.ref,
+              inputs: { reason },
+            });
+            core.info(`Triggered ${{ matrix.archive.name }} archive workflow on ${context.ref} (push ${sha}).`);

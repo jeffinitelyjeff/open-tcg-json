@@ -75,6 +75,15 @@ jobs:
       - name: run scrapy (dcg_wiki)
         run: poetry run python -m lib.scrapy.scripts.run_scrapy --dcg_wiki
 
+      - name: detect git diffs (pre-timestamp)
+        id: git-diff-check
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            echo "has_diffs=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_diffs=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: archive logs (dcg_wiki archive)
         uses: actions/upload-artifact@v4
         with:
@@ -82,6 +91,7 @@ jobs:
           path: logs
 
       - name: persist last_change timestamp
+        if: ${{ steps.git-diff-check.outputs.has_diffs == 'true' }}
         run: |
           iso_ts=$(date -u -d "@$START_TS" +"%Y-%m-%dT%H:%M:%SZ")
           echo "$iso_ts" > dataSources/dcgWiki/last_change.txt
