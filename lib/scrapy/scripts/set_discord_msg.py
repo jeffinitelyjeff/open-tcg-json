@@ -113,6 +113,8 @@ def make_success_body(commit_hash: str | None) -> str:
     if diff_stats:
       blocks.append(diff_stats)
 
+  print(f"raw success body:\n{discord_stats}\n{diff_stats}")
+
   # actual discord cutoff is 2000, but leave some buffer for formatting and
   # title
   msg_cutoff = 1800
