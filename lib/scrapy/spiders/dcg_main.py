@@ -167,12 +167,20 @@ def card_data(card_html):
     if not info_box.css('.cardFaqListItem'):
       continue
     title = get_text(info_box.css('.cardInfoTit'))
-    data[title] = [{
-        'num': get_text(q.css('.cardFaqNum')),
-        'date': get_text(q.css('.cardFaqDate')),
-        'q': scrapy_util.get_texts_or_text(q.css('.cardFaqQuestion')),
-        'a': scrapy_util.get_texts_or_text(q.css('.cardFaqAnswer'))
-    } for q in info_box.css('.cardFaqListItem')]
+    rulings = []
+    for q in info_box.css('.cardFaqListItem'):
+      ruling = {
+          'num': get_text(q.css('.cardFaqNum')),
+          'date': get_text(q.css('.cardFaqDate')),
+          'q': get_text(q.css('.cardFaqQuestion')),
+          'a': get_text(q.css('.cardFaqAnswer')),
+      }
+      if q.css('.relatedListItem'):
+        ruling['relatedCards'] = [
+            img.attrib['alt'] for img in q.css('.relatedListItem img')
+        ]
+      rulings.append(ruling)
+    data[title] = rulings
 
   basic_fields = ['cardTitle', 'card_name']
   for field in basic_fields:
