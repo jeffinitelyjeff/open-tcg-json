@@ -2,34 +2,28 @@
   "Attribute": "Vaccine",
   "Card Q&A": [
     {
-      "a": [
-        "Battle occurs as normal.",
-        "This card's effect essentially means \"this Digimon can't be chosen as a target of attack by your opponent,\" which means that if you block with this Digimon, the target of attack can still be switched to this Digimon."
-      ],
+      "a": "Battle occurs as normal.This card's effect essentially means \"this Digimon can't be chosen as a target of attack by your opponent,\" which means that if you block with this Digimon, the target of attack can still be switched to this Digimon.",
       "date": "Mar. 28, 2024",
       "num": "Q1307",
-      "q": [
-        "This Digimon gains",
-        "by an effect. If I block with this Digimon in response to an opponent's attack, what happens?"
+      "q": "This Digimon gains  by an effect. If I block with this Digimon in response to an opponent's attack, what happens?"
+    },
+    {
+      "a": "No, you can't.\n                                            \n                        Related Cards",
+      "date": "Mar. 28, 2024",
+      "num": "Q1308",
+      "q": "My opponent has this Digimon in play. Can I use [BT4-090 Chaosmon]'s [When Digivolving] effect to attack it?",
+      "relatedCards": [
+        "BT4-090"
       ]
     },
     {
-      "a": [
-        "No, you can't.",
-        "Related Cards"
-      ],
-      "date": "Mar. 28, 2024",
-      "num": "Q1308",
-      "q": "My opponent has this Digimon in play. Can I use [BT4-090 Chaosmon]'s [When Digivolving] effect to attack it?"
-    },
-    {
-      "a": [
-        "Yes, it can. If your opponent uses [Blastmon]'s effect to switch the target of attack, a battle occurs as if this Digimon was attacked normally.",
-        "Related Cards"
-      ],
+      "a": "Yes, it can. If your opponent uses [Blastmon]'s effect to switch the target of attack, a battle occurs as if this Digimon was attacked normally.\n                                            \n                        Related Cards",
       "date": "Mar. 28, 2024",
       "num": "Q1309",
-      "q": "I have this Digimon in play, unsuspended, when my opponent attacks with [BT4-075 Blastmon]. Can [Blastmon]'s effect be used to switch the target of attack to this Digimon?"
+      "q": "I have this Digimon in play, unsuspended, when my opponent attacks with [BT4-075 Blastmon]. Can [Blastmon]'s effect be used to switch the target of attack to this Digimon?",
+      "relatedCards": [
+        "BT4-075"
+      ]
     }
   ],
   "Color": "Blue",

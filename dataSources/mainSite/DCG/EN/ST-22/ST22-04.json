@@ -2,25 +2,16 @@
   "Attribute": "Data",
   "Card Q&A": [
     {
-      "a": [
-        "This effect prevents [When Digivolving] effects on cards from activating.",
-        "[When Digivolving] effects can no longer activate by triggering or when effects such as \"activate that card's [When Digivolving]\" effect\" activate."
-      ],
+      "a": "This effect prevents [When Digivolving] effects on cards from activating. [When Digivolving] effects can no longer activate by triggering or when effects such as \"activate that card's [When Digivolving]\" effect\" activate.",
       "date": "Dec. 25, 2025",
       "num": "Q5410",
       "q": "What does \"[When Digivolving] effects don't activate\" mean, exactly?"
     },
     {
-      "a": [
-        "Yes, you can.",
-        "The effect can activate if it activates upon the [When Attacking] timing."
-      ],
+      "a": "Yes, you can. The effect can activate if it activates upon the [When Attacking] timing.",
       "date": "Dec. 25, 2025",
       "num": "Q5411",
-      "q": [
-        "I used a card affected by \"can't activate [When Digivolving] effects\" to attack.",
-        "Can I activate that card's [When Digivolving] [When Attacking] effect at such times?"
-      ]
+      "q": "I used a card affected by \"can't activate [When Digivolving] effects\" to attack. Can I activate that card's [When Digivolving] [When Attacking] effect at such times?"
     },
     {
       "a": "No, it can't be activated.",
@@ -35,36 +26,24 @@
       "q": "If a card is affected by \"can't activate [When Digivolving] effects,\" can I process just the \"by\" condition in its [When Digivolving] effect?"
     },
     {
-      "a": [
-        "No, it doesn't count.",
-        "The effect can't activate upon the [When Digivolving] timing, therefore it doesn't count as an instance of that effect's [X Per Turn]."
-      ],
+      "a": "No, it doesn't count. The effect can't activate upon the [When Digivolving] timing, therefore it doesn't count as an instance of that effect's [X Per Turn].",
       "date": "Dec. 25, 2025",
       "num": "Q5414",
-      "q": [
-        "A card that was given \"can't activate [When Digivolving] effects\" digivolved into a card that has a [When Digivolving] [When Attacking] [Once Per Turn] effect.",
-        "Does that count as an instance of that effect's [X Per Turn] even if that effect can't be activated upon the timing when that card digivolved?"
-      ]
+      "q": "A card that was given \"can't activate [When Digivolving] effects\" digivolved into a card that has a [When Digivolving] [When Attacking] [Once Per Turn] effect. Does that count as an instance of that effect's [X Per Turn] even if that effect can't be activated upon the timing when that card digivolved?"
     },
     {
-      "a": [
-        "As with the standard rules, a used Option card is temporarily treated as not being in any area.",
-        "After using it and activating the Option card's [Main] effect, the card is trashed unless it's to be placed in an area."
-      ],
+      "a": "As with the standard rules, a used Option card is temporarily treated as not being in any area. After using it and activating the Option card's [Main] effect, the card is trashed unless it's to be placed in an area.",
       "date": "Dec. 25, 2025",
       "num": "Q5415",
       "q": "If I use this card's [When Attacking] effect to use an Option card from under a Tamer, what happens to that Option card?"
     },
     {
-      "a": [
-        "Yes, it triggers.",
-        "Related Cards"
-      ],
+      "a": "Yes, it triggers.\n                                            \n                        Related Cards",
       "date": "Nov. 21, 2025",
       "num": "Q5416",
-      "q": [
-        "This card with ST22-01 [Viximon] in digivolution cards attacks, and I use this card's [When Attacking] effect to use an Option card.",
-        "If I use ST22-01 [Viximon]'s inherited effect to digivolve this card at such times, does this card's [End of Attack] inherited effect trigger at the end of the attack?"
+      "q": "This card with ST22-01 [Viximon] in digivolution cards attacks, and I use this card's [When Attacking] effect to use an Option card. If I use ST22-01 [Viximon]'s inherited effect to digivolve this card at such times, does this card's [End of Attack] inherited effect trigger at the end of the attack?",
+      "relatedCards": [
+        "ST22-01"
       ]
     }
   ],

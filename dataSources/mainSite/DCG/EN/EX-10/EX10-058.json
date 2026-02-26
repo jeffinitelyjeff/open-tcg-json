@@ -2,11 +2,7 @@
   "Attribute": "Virus",
   "Card Q&A": [
     {
-      "a": [
-        "No, you can't.",
-        "A \"by\" condition can't be met if only some of the required actions are performed.",
-        "The conditions for this [All Turns] effect require you to trash the specified number of digivolution cards."
-      ],
+      "a": "No, you can't. A \"by\" condition can't be met if only some of the required actions are performed. The conditions for this [All Turns] effect require you to trash the specified number of digivolution cards.",
       "date": "Sep. 5, 2025",
       "num": "Q5157",
       "q": "Can I trash just 1 digivolution card for the conditions of this card's [All Turns] effect?"
@@ -24,15 +20,13 @@
       "q": "If I give \"[End of Your Turn] Delete 1 of your Digimon\" to an opponent's Digimon, it activates, and my opponent chooses one of their Digimon that isn't affected by my effects, is that Digimon deleted?"
     },
     {
-      "a": [
-        "No, you can't activate it.",
-        "When a card with an effect that's pending activation leaves its current area while activation is pending, the effect can no longer be activated.",
-        "In this case, being trashed from digivolution cards will trigger EX10-044 [Damemon]'s inherited effect, but it leaves the trash before activation, therefore it doesn't activate.",
-        "Related Cards"
-      ],
+      "a": "No, you can't activate it. When a card with an effect that's pending activation leaves its current area while activation is pending, the effect can no longer be activated. In this case, being trashed from digivolution cards will trigger EX10-044 [Damemon]'s inherited effect, but it leaves the trash before activation, therefore it doesn't activate.\n                                            \n                        Related Cards",
       "date": "Sep. 5, 2025",
       "num": "Q5160",
-      "q": "If I use this card's [All Turns] effect to trash 2 cards including EX10-044 [Damemon] from this Digimon's digivolution cards, then play the trashed EX10-044 [Damemon] from the trash, can I activate EX10-044 [Damemon]'s inherited effect?"
+      "q": "If I use this card's [All Turns] effect to trash 2 cards including EX10-044 [Damemon] from this Digimon's digivolution cards, then play the trashed EX10-044 [Damemon] from the trash, can I activate EX10-044 [Damemon]'s inherited effect?",
+      "relatedCards": [
+        "EX10-044"
+      ]
     }
   ],
   "Color": "Purple",

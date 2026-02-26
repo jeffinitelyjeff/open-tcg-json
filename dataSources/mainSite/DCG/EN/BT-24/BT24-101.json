@@ -5,10 +5,7 @@
       "a": "It can digivolve for digivolution cost of 0.",
       "date": "Dec. 25, 2025",
       "num": "Q5714",
-      "q": [
-        "I have 0 security cards.",
-        "What is the digivolution cost if I use this card's 3rd digivolution requirement to digivolve from a level 5 card with [Aegiochusmon] in its name?"
-      ]
+      "q": "I have 0 security cards. What is the digivolution cost if I use this card's 3rd digivolution requirement to digivolve from a level 5 card with [Aegiochusmon] in its name?"
     },
     {
       "a": "Yes, you can.",
@@ -17,32 +14,19 @@
       "q": "Can I use this card's [On Play] [When Digivolving] to reduce the DP of 1 of my opponent's Digimon even when I have 0 security cards and therefore can't trash one?"
     },
     {
-      "a": [
-        "No, it isn't deleted yet.",
-        "Once all of the processing for this card's [On Play] [When Digivolving] effect is resolved, then all of the Digimon with 0 DP are deleted at the same time."
-      ],
+      "a": "No, it isn't deleted yet. Once all of the processing for this card's [On Play] [When Digivolving] effect is resolved, then all of the Digimon with 0 DP are deleted at the same time.",
       "date": "Dec. 25, 2025",
       "num": "Q5716",
-      "q": [
-        "I activated \"1 of your opponent's Digimon gets -13000 DP until their turn ends\" in this card's [On Play] [When Digivolving] effect, and the DP of my opponent's Digimon became 0.",
-        "At such times, is that Digimon deleted before the part of the effect after \"then\"?"
-      ]
+      "q": "I activated \"1 of your opponent's Digimon gets -13000 DP until their turn ends\" in this card's [On Play] [When Digivolving] effect, and the DP of my opponent's Digimon became 0. At such times, is that Digimon deleted before the part of the effect after \"then\"?"
     },
     {
-      "a": [
-        "[Security] effects take precedence for activation.",
-        "Upon a security check, a [Security] effect will immediately activate without pending activation.",
-        "For other triggered effects, the turn player activates their effects first."
-      ],
+      "a": "[Security] effects take precedence for activation. Upon a security check, a [Security] effect will immediately activate without pending activation. For other triggered effects, the turn player activates their effects first.",
       "date": "Dec. 25, 2025",
       "num": "Q5717",
       "q": "In what order do a [Security] effect, \"when [...] performs a security check\" effect, and \"when a card is removed from [...] security stack\" effect activate when they trigger simultaneously upon a security check?"
     },
     {
-      "a": [
-        "Yes, all of those Digimon are prevented from leaving.",
-        "This card's [All Turns] effect affects all Digimon without having to choose them."
-      ],
+      "a": "Yes, all of those Digimon are prevented from leaving. This card's [All Turns] effect affects all Digimon without having to choose them.",
       "date": "Dec. 25, 2025",
       "num": "Q5718",
       "q": "If I activate this card's 2nd [All Turns] effect when multiples of my Digimon or Tamers with the [TS] trait would leave the battle area at the same time, are all of those Digimon and Tamers prevented from leaving?"

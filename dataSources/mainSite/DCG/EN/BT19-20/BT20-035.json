@@ -2,10 +2,7 @@
   "Attribute": "Vaccine",
   "Card Q&A": [
     {
-      "a": [
-        "It refers to a card that contains the specified text or icon in its name, traits, effects, inherited effects, (Rule), digivolution requirements, DNA digivolution, DigiXros requirements, burst digivolve, App Fusion, Link, or Assembly requirements.",
-        "For example, a card with [Knightmon] in its text would include cards with the name [DarkKnightmon] and cards with the text [Knightmon] in their effects."
-      ],
+      "a": "It refers to a card that contains the specified text or icon in its name, traits, effects, inherited effects, (Rule), digivolution requirements, DNA digivolution, DigiXros requirements, burst digivolve, App Fusion, Link, or Assembly requirements. For example, a card with [Knightmon] in its text would include cards with the name [DarkKnightmon] and cards with the text [Knightmon] in their effects.",
       "date": "Jun. 13, 2025",
       "num": "Q4342",
       "q": "What does a card with \"X in its text\" refer to?"
@@ -17,11 +14,7 @@
       "q": "Can this card's [When Digivolving] effect suspend a different card from the one that's given \"can't unsuspend\"?"
     },
     {
-      "a": [
-        "[Security] effects take precedence for activation.",
-        "Upon a security check, a [Security] effect will immediately activate without pending activation.",
-        "For other triggered effects, the turn player activates their effects first."
-      ],
+      "a": "[Security] effects take precedence for activation. Upon a security check, a [Security] effect will immediately activate without pending activation. For other triggered effects, the turn player activates their effects first.",
       "date": "Jan. 24, 2025",
       "num": "Q4344",
       "q": "What order do a [Security] effect, \"when [...] performs a security check\" effect, and \"when a card is removed from [...] security stack\" effect activate when they trigger simultaneously upon a security check?"

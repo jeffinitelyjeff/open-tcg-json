@@ -2,23 +2,13 @@
   "Attribute": "Data",
   "Card Q&A": [
     {
-      "a": [
-        "No, it can't.",
-        "A rule check will occur before the played Digimon's [On Play] effect activates. A Digimon with 0 DP will be deleted upon a rule check, therefore the effect can't activate because the played Digimon is deleted and the card leaves its current area before its effect that's pending activation activates."
-      ],
+      "a": "No, it can't. A rule check will occur before the played Digimon's [On Play] effect activates. A Digimon with 0 DP will be deleted upon a rule check, therefore the effect can't activate because the played Digimon is deleted and the card leaves its current area before its effect that's pending activation activates.",
       "date": "Oct. 3, 2025",
       "num": "Q5293",
-      "q": [
-        "All of my opponent's Digimon were given -6000 DP from this card's [On Play] [When Digivolving] effect.",
-        "If an opponent's Digimon with 6000 DP or less and an [On Play] effect is played during the same turn, can that Digimon's [On Play] effect activate ?"
-      ]
+      "q": "All of my opponent's Digimon were given -6000 DP from this card's [On Play] [When Digivolving] effect. If an opponent's Digimon with 6000 DP or less and an [On Play] effect is played during the same turn, can that Digimon's [On Play] effect activate ?"
     },
     {
-      "a": [
-        "[Security] effects take precedence for activation.",
-        "Upon a security check, a [Security] effect will immediately activate without pending activation.",
-        "For other triggered effects, the turn player activates their effects first."
-      ],
+      "a": "[Security] effects take precedence for activation. Upon a security check, a [Security] effect will immediately activate without pending activation. For other triggered effects, the turn player activates their effects first.",
       "date": "Oct. 3, 2025",
       "num": "Q5294",
       "q": "What order do a [Security] effect, \"when [...] performs a security check\" effect, and \"when a card is removed from [...] security stack\" effect activate when they trigger simultaneously upon a security check?"
@@ -27,22 +17,13 @@
       "a": "Yes, you can.",
       "date": "Oct. 3, 2025",
       "num": "Q5295",
-      "q": [
-        "After gaining",
-        "from this card's [All Turns] effect during my opponent's turn, can I gain",
-        "again from this card's [All Turns] effect during my next turn?"
-      ]
+      "q": "After gaining  from this card's [All Turns] effect during my opponent's turn, can I gain  again from this card's [All Turns] effect during my next turn?"
     },
     {
       "a": "Yes, you can perform an additional security check.",
       "date": "Oct. 3, 2025",
       "num": "Q5296",
-      "q": [
-        "When this card is used to check my opponent's security stack and it would be deleted in battle with a Security Digimon that has 12000 DP or more, I used this card's",
-        "to trash a security card and prevent the deletion.",
-        "At such times, if I gain",
-        "from this card's [All Turns] effect, can I perform another security check on my opponent?"
-      ]
+      "q": "When this card is used to check my opponent's security stack and it would be deleted in battle with a Security Digimon that has 12000 DP or more, I used this card's  to trash a security card and prevent the deletion. At such times, if I gain  from this card's [All Turns] effect, can I perform another security check on my opponent?"
     }
   ],
   "Color": [

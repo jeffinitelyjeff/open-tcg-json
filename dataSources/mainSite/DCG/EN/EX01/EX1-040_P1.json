@@ -2,22 +2,19 @@
   "Attribute": "Vaccine",
   "Card Q&A": [
     {
-      "a": [
-        "The attack continues, but the turn doesn't switch over yet.",
-        "If the memory gauge is still at 1 or more on your opponent’s side after the attack has ended and all effects triggered by it have been activated, only then does the turn end."
-      ],
+      "a": "The attack continues, but the turn doesn't switch over yet.  If the memory gauge is still at 1 or more on your opponent’s side after the attack has ended and all effects triggered by it have been activated, only then does the turn end.",
       "date": "Mar. 28, 2024",
       "num": "Q3226",
       "q": "When digivolving with this card's [When Attacking] effect, paying the digivolution cost moves the memory gauge to 1 or more on my opponent’s side. What happens to the attack?"
     },
     {
-      "a": [
-        "No, the time to trigger [When Attacking] effects has already passed, so the effect doesn't activate.",
-        "Related Cards"
-      ],
+      "a": "No, the time to trigger [When Attacking] effects has already passed, so the effect doesn't activate.\n                                            \n                        Related Cards",
       "date": "Mar. 28, 2024",
       "num": "Q3227",
-      "q": "I attack with [EX1-035 Kabuterimon] and digivolve into this card with its [When Attacking] effect. Can I then digivolve again during the same attack with this card's [When Digivolving] effect?"
+      "q": "I attack with [EX1-035 Kabuterimon] and digivolve into this card with its [When Attacking] effect. Can I then digivolve again during the same attack with this card's [When Digivolving] effect?",
+      "relatedCards": [
+        "EX1-035"
+      ]
     },
     {
       "a": "No. The effect reads, “This Digimon can digivolve,” so you can choose not to.",

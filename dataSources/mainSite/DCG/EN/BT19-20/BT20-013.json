@@ -2,40 +2,37 @@
   "Attribute": "Data",
   "Card Q&A": [
     {
-      "a": [
-        "No, you can't.",
-        "You can't activate multiple [Main] effects at the same time."
-      ],
+      "a": "No, you can't. You can't activate multiple [Main] effects at the same time.",
       "date": "Jan. 24, 2025",
       "num": "Q4293",
       "q": "2 copies of this card are in the battle area. Can I activate the [Main] effect on both copies of this card and play 1 card with [Sistermon] or [Gankoomon] in its name with the play cost reduced by 4?"
     },
     {
-      "a": [
-        "Yes, the play cost will be reduced by a total of 6.",
-        "Related Cards"
-      ],
+      "a": "Yes, the play cost will be reduced by a total of 6.\n                                            \n                        Related Cards",
       "date": "Jan. 24, 2025",
       "num": "Q4294",
-      "q": "If I use this card's [Main] effect to play BT20-05 [Gankoomon], can I activate BT20-05 [Gankoomon]'s 1st effect and reduce the play cost by a total of 6?"
+      "q": "If I use this card's [Main] effect to play BT20-05 [Gankoomon], can I activate BT20-05 [Gankoomon]'s 1st effect and reduce the play cost by a total of 6?",
+      "relatedCards": [
+        "BT20-057"
+      ]
     },
     {
-      "a": [
-        "You can activate the effect and play such a card, but its play cost won't be reduced.",
-        "Related Cards"
-      ],
+      "a": "You can activate the effect and play such a card, but its play cost won't be reduced.\n                                            \n                        Related Cards",
       "date": "Jan. 24, 2025",
       "num": "Q4295",
-      "q": "If I activate this card's [Main] effect while a Digimon such as ST12-03 [Solarmon] with a \"players can't reduce play costs\" effect is in the battle area, can I play 1 card with [Sistermon] or [Gankoomon] in its name?"
+      "q": "If I activate this card's [Main] effect while a Digimon such as ST12-03 [Solarmon] with a \"players can't reduce play costs\" effect is in the battle area, can I play 1 card with [Sistermon] or [Gankoomon] in its name?",
+      "relatedCards": [
+        "ST12-03"
+      ]
     },
     {
-      "a": [
-        "You can activate the effect, but you can't use it to play such a card.",
-        "Related Cards"
-      ],
+      "a": "You can activate the effect, but you can't use it to play such a card.\n                                            \n                        Related Cards",
       "date": "Jan. 24, 2025",
       "num": "Q4296",
-      "q": "If I activate this card's [Main] effect while a Digimon such as BT9-047 [Pomumon] with a \"players can't play Digimon by effects\" effect is in the battle area, can I play 1 card with [Sistermon] or [Gankoomon] in its name?"
+      "q": "If I activate this card's [Main] effect while a Digimon such as BT9-047 [Pomumon] with a \"players can't play Digimon by effects\" effect is in the battle area, can I play 1 card with [Sistermon] or [Gankoomon] in its name?",
+      "relatedCards": [
+        "BT9-047"
+      ]
     }
   ],
   "Color": "Red",

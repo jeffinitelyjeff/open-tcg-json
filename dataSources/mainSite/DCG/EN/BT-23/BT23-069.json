@@ -2,25 +2,16 @@
   "Attribute": "Virus",
   "Card Q&A": [
     {
-      "a": [
-        "No, you can't.",
-        "If your opponent has a level 6 or lower Digimon, you must choose that card and delete it."
-      ],
+      "a": "No, you can't. If your opponent has a level 6 or lower Digimon, you must choose that card and delete it.",
       "date": "Oct. 3, 2025",
       "num": "Q5337",
-      "q": [
-        "My opponent has a level 6 or lower Digimon.",
-        "Can I meet the \"if this effect didn't delete\" condition in this card's [All Turns] effect by not choosing a card to delete?"
-      ]
+      "q": "My opponent has a level 6 or lower Digimon. Can I meet the \"if this effect didn't delete\" condition in this card's [All Turns] effect by not choosing a card to delete?"
     },
     {
       "a": "Yes, you can.",
       "date": "Oct. 3, 2025",
       "num": "Q5338",
-      "q": [
-        "My opponent has a level 6 or lower Digimon.",
-        "Can I meet the \"if this effect didn't delete\" condition in this card's [All Turns] effect by choosing an opponent's level 6 or lower Digimon with an effect that prevents deletion?"
-      ]
+      "q": "My opponent has a level 6 or lower Digimon. Can I meet the \"if this effect didn't delete\" condition in this card's [All Turns] effect by choosing an opponent's level 6 or lower Digimon with an effect that prevents deletion?"
     },
     {
       "a": "After this effect activates, the current timing makes a transition to the end of attack timing. For example, if this effect activates during the attack declaration timing, it will make a transition to the end of attack timing. A transition to the counter timing or block timing won't occur, and the attack won't succeed.",
@@ -29,10 +20,7 @@
       "q": "What does \"end the attack\" mean, exactly?"
     },
     {
-      "a": [
-        "Yes, such attacks can be ended.",
-        "\"End the attack\" effects are effects that change the timing, they don't affect an attacking Digimon."
-      ],
+      "a": "Yes, such attacks can be ended. \"End the attack\" effects are effects that change the timing, they don't affect an attacking Digimon.",
       "date": "Oct. 3, 2025",
       "num": "Q5340",
       "q": "Can an \"end the attack\" effect end an attack by a Digimon that isn't affected by effects?"

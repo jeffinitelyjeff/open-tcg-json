@@ -19,10 +19,7 @@
       "q": "This card doesn't have a level. Can I still digivolve it into other cards?"
     },
     {
-      "a": [
-        "It can be moved from your breeding area to your battle area like any other Digimon.",
-        "Level 2 Digimon don't have DP, and therefore can't be moved to your battle area. This card has DP, which means it can be moved to your battle area without digivolving it."
-      ],
+      "a": "It can be moved from your breeding area to your battle area like any other Digimon. Level 2 Digimon don't have DP, and therefore can't be moved to your battle area. This card has DP, which means it can be moved to your battle area without digivolving it.",
       "date": "Mar. 28, 2024",
       "num": "Q3276",
       "q": "If this card is in my breeding area, how do I move it to my battle area?"
@@ -34,10 +31,7 @@
       "q": "If this card is in my breeding area, can I activate its [Main] effect to place my [ADR-02 Searcher] in its digivolution cards?"
     },
     {
-      "a": [
-        "Yes, it can.",
-        "“This Digimon can also attack unsuspended Digimon” is an effect that only affects the Digimon that has it, so this card's “This Digimon [...] isn't affected by your opponent’s effects” effect can’t be used to prevent the attack."
-      ],
+      "a": "Yes, it can. “This Digimon can also attack unsuspended Digimon” is an effect that only affects the Digimon that has it, so this card's “This Digimon [...] isn't affected by your opponent’s effects” effect can’t be used to prevent the attack.",
       "date": "Mar. 28, 2024",
       "num": "Q3278",
       "q": "If this card is in my battle area, can it be attacked by my opponent’s Digimon with an effect that reads “This Digimon can also attack unsuspended Digimon”?"
@@ -55,10 +49,7 @@
       "q": "Is this Digimon affected by effects like “Delete 1 of your Digimon,” or “Suspend 1 of your Digimon” that I activate?"
     },
     {
-      "a": [
-        "Yes, you can.",
-        "However, since this card is a Digi-Egg card, note that if this card would be moved to your hand, deck, or security stack, it’s instead placed at the bottom of your Digi-Egg deck face down."
-      ],
+      "a": "Yes, you can.However, since this card is a Digi-Egg card, note that if this card would be moved to your hand, deck, or security stack, it’s instead placed at the bottom of your Digi-Egg deck face down.",
       "date": "Mar. 28, 2024",
       "num": "Q3281",
       "q": "If this card is in my battle area, can my own effects delete it or move it to my hand/deck/security stack?"
@@ -70,22 +61,22 @@
       "q": "If I play two cards with [D-Reaper] in their traits, can I choose not to activate this card’s [Your Turn] effect for the first card, and activate it for the second?"
     },
     {
-      "a": [
-        "No. [BT8-071 Psychemon]’s effect doesn’t target Digimon themselves, so you can’t activate this card's effect to reduce the play cost of cards.",
-        "Related Cards"
-      ],
+      "a": "No. [BT8-071 Psychemon]’s effect doesn’t target Digimon themselves, so you can’t activate this card's effect to reduce the play cost of cards.\n                                            \n                        Related Cards",
       "date": "Mar. 28, 2024",
       "num": "Q3283",
-      "q": "My opponent has [BT8-071 Psychemon] in play. Can this Digimon’s [Your Turn] effect still reduce the play cost of cards with [D-Reaper] in their traits when I would play them?"
+      "q": "My opponent has [BT8-071 Psychemon] in play. Can this Digimon’s [Your Turn] effect still reduce the play cost of cards with [D-Reaper] in their traits when I would play them?",
+      "relatedCards": [
+        "BT8-071"
+      ]
     },
     {
-      "a": [
-        "No. This card is a Digi-Egg card, so if it would be moved to your security stack, it’s instead placed at the bottom of your Digi-Egg deck face down.",
-        "Related Cards"
-      ],
+      "a": "No. This card is a Digi-Egg card, so if it would be moved to your security stack, it’s instead placed at the bottom of your Digi-Egg deck face down.\n                                            \n                        Related Cards",
       "date": "Mar. 28, 2024",
       "num": "Q3284",
-      "q": "If I use [BT4-105 Tactical Retreat!] on this card, can I place it on top of my security stack face down?"
+      "q": "If I use [BT4-105 Tactical Retreat!] on this card, can I place it on top of my security stack face down?",
+      "relatedCards": [
+        "BT4-105"
+      ]
     },
     {
       "a": "Yes, you can.",
@@ -106,13 +97,14 @@
       "q": "I have an [ADR-02 Searcher] with 1 or more digivolution cards in play. If I place it in this Digimon's digivolution cards with this card's [Main] effect, do I also get to place [ADR-02 Searcher]’s digivolution cards under it as well?"
     },
     {
-      "a": [
-        "It can activate in such cases if you declare to trash 8 cards and then trash 7 cards except for [X Antibody].",
-        "Related Cards"
-      ],
+      "a": "It can activate in such cases if you declare to trash 8 cards and then trash 7 cards except for [X Antibody].\n                                            \n                        Related Cards",
       "date": "Mar. 28, 2024",
       "num": "Q3288",
-      "q": "There are 8 digivolution cards under this card, and [BT9-109 X Antibody] is the bottom card. Does the \"you may trash 7 or more digivolution cards from the bottom of 1 of your [Mother D-Reaper]s to set this Digimon's play cost to 0\" effect activate when my [EX2-055 Reaper] is played?"
+      "q": "There are 8 digivolution cards under this card, and [BT9-109 X Antibody] is the bottom card. Does the \"you may trash 7 or more digivolution cards from the bottom of 1 of your [Mother D-Reaper]s to set this Digimon's play cost to 0\" effect activate when my [EX2-055 Reaper] is played?",
+      "relatedCards": [
+        "BT9-109",
+        "EX2-055"
+      ]
     }
   ],
   "Color": "White",

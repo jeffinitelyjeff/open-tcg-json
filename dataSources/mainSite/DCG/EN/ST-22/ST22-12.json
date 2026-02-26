@@ -2,15 +2,7 @@
   "Attribute": "Social",
   "Card Q&A": [
     {
-      "a": [
-        "App Fusion is possible with the following combinations.",
-        "●[Gatchmon] with [Navimon] link card",
-        "●[Gatchmon] with [Tweetmon] link card",
-        "●[Navimon] with [Gatchmon] link card",
-        "●[Navimon] with [Tweetmon] link card",
-        "●[Tweetmon] with [Gatchmon] link card",
-        "●[Tweetmon] with [Navimon] link card"
-      ],
+      "a": "App Fusion is possible with the following combinations. ●[Gatchmon] with [Navimon] link card●[Gatchmon] with [Tweetmon] link card●[Navimon] with [Gatchmon] link card●[Navimon] with [Tweetmon] link card●[Tweetmon] with [Gatchmon] link card●[Tweetmon] with [Navimon] link card",
       "date": "Nov. 21, 2025",
       "num": "Q5441",
       "q": "This card has 3 different cards in its App Fusion requirements. What combinations are possible for App Fusion?"
@@ -19,40 +11,24 @@
       "a": "No, you can't.",
       "date": "Nov. 21, 2025",
       "num": "Q5442",
-      "q": [
-        "Can I use this card's [When Attacking] effect to link a card that doesn't have",
-        "?"
-      ]
+      "q": "Can I use this card's [When Attacking] effect to link a card that doesn't have ?"
     },
     {
-      "a": [
-        "No, you can't. A new attack declaration can't be made during an attack.",
-        "Related Cards"
-      ],
+      "a": "No, you can't. A new attack declaration can't be made during an attack.\n                                            \n                        Related Cards",
       "date": "Nov. 21, 2025",
       "num": "Q5443",
-      "q": [
-        "I used this card's [When Attacking] effect to link BT21-018 [DoGatchmon].",
-        "At such times, can I use BT21-018 [DoGatchmon]'s link effect to attack?"
+      "q": "I used this card's [When Attacking] effect to link BT21-018 [DoGatchmon]. At such times, can I use BT21-018 [DoGatchmon]'s link effect to attack?",
+      "relatedCards": [
+        "BT21-018"
       ]
     },
     {
-      "a": [
-        "No, you can't.",
-        "has already been lost, therefore it can't be activated.",
-        "However, when",
-        "and the [When Attacking] effect trigger simultaneously, you can activate",
-        "first and then activate the [When Attacking] effect.",
-        "Related Cards"
-      ],
+      "a": "No, you can't.  has already been lost, therefore it can't be activated. However, when  and the [When Attacking] effect trigger simultaneously, you can activate  first and then activate the [When Attacking] effect.\n                                            \n                        Related Cards",
       "date": "Nov. 21, 2025",
       "num": "Q5444",
-      "q": [
-        "This card attacks, and its",
-        "and [When Attacking] effect  trigger simultaneously.",
-        "Then, I first activate the [When Attacking] effect, link [Timemon], and I use BT21-084 [Haru Shinkai]'s [Your Turn] effect to app fuse to [Globemon].",
-        "After that, can I activate",
-        "on this card in digivolution cards?"
+      "q": "This card attacks, and its  and [When Attacking] effect  trigger simultaneously. Then, I first activate the [When Attacking] effect, link [Timemon], and I use BT21-084 [Haru Shinkai]'s [Your Turn] effect to app fuse to [Globemon]. After that, can I activate  on this card in digivolution cards?",
+      "relatedCards": [
+        "BT21-084"
       ]
     }
   ],

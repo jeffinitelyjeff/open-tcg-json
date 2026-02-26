@@ -2,13 +2,13 @@
   "Attribute": "Unknown",
   "Card Q&A": [
     {
-      "a": [
-        "Yes, you can.",
-        "Related Cards"
-      ],
+      "a": "Yes, you can.\n                                            \n                        Related Cards",
       "date": "Dec. 25, 2025",
       "num": "Q5644",
-      "q": "When this card with BT22-053 [Keramon] in its digivolution cards would leave the battle area, can I use this card's [All Turns] effect to play [Diaboromon], then use BT22-053 [Keramon]'s inherited effect to delete that [Diaboromon] and prevent this card from leaving?"
+      "q": "When this card with BT22-053 [Keramon] in its digivolution cards would leave the battle area, can I use this card's [All Turns] effect to play [Diaboromon], then use BT22-053 [Keramon]'s inherited effect to delete that [Diaboromon] and prevent this card from leaving?",
+      "relatedCards": [
+        "BT22-053"
+      ]
     },
     {
       "a": "1 Digimon.",
@@ -17,16 +17,12 @@
       "q": "If I activate this card's [All Turns] effect when multiples of my Digimon with [Diaboromon] in their names would leave the battle area at the same time, how many [Diaboromon] can be played by this effect?"
     },
     {
-      "a": [
-        "No, you can't.",
-        "Related Cards"
-      ],
+      "a": "No, you can't.\n                                            \n                        Related Cards",
       "date": "Dec. 25, 2025",
       "num": "Q5646",
-      "q": [
-        "I attack my opponent's Digimon, and an attempt is made to delete this Digimon using an effect.",
-        "After that, I activate this card's [All Turns] effect and play BT17-059 [Diaboromon].",
-        "Can I then activate BT17-059 [Diaboromon]'s [Opponent's Turn] effect?"
+      "q": "I attack my opponent's Digimon, and an attempt is made to delete this Digimon using an effect. After that, I activate this card's [All Turns] effect and play BT17-059 [Diaboromon]. Can I then activate BT17-059 [Diaboromon]'s [Opponent's Turn] effect?",
+      "relatedCards": [
+        "BT17-059"
       ]
     }
   ],

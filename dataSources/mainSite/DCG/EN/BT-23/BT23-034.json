@@ -2,25 +2,16 @@
   "Attribute": "Data",
   "Card Q&A": [
     {
-      "a": [
-        "This effect prevents [When Digivolving] effects on cards from activating.",
-        "[When Digivolving] effects can no longer activate by triggering or when effects such as \"activate that card's [When Digivolving]\" effect\" activate."
-      ],
+      "a": "This effect prevents [When Digivolving] effects on cards from activating. [When Digivolving] effects can no longer activate by triggering or when effects such as \"activate that card's [When Digivolving]\" effect\" activate.",
       "date": "Dec. 25, 2025",
       "num": "Q5282",
       "q": "What does \"[When Digivolving] effects don't activate\" mean, exactly?"
     },
     {
-      "a": [
-        "Yes, you can.",
-        "The effect can activate if it activates upon the [When Attacking] timing."
-      ],
+      "a": "Yes, you can. The effect can activate if it activates upon the [When Attacking] timing.",
       "date": "Dec. 25, 2025",
       "num": "Q5283",
-      "q": [
-        "I used a card affected by \"can't activate [When Digivolving] effects\" to attack.",
-        "Can I activate that card's [When Digivolving] [When Attacking] effect at such times?"
-      ]
+      "q": "I used a card affected by \"can't activate [When Digivolving] effects\" to attack. Can I activate that card's [When Digivolving] [When Attacking] effect at such times?"
     },
     {
       "a": "No, it can't be activated.",
@@ -35,31 +26,19 @@
       "q": "If a card is affected by \"can't activate [When Digivolving] effects,\" can I process just the \"by\" condition in its [When Digivolving] effect?"
     },
     {
-      "a": [
-        "No, it doesn't count.",
-        "The effect can't activate upon the [When Digivolving] timing, therefore it doesn't count as an instance of that effect's [X Per Turn]."
-      ],
+      "a": "No, it doesn't count. The effect can't activate upon the [When Digivolving] timing, therefore it doesn't count as an instance of that effect's [X Per Turn].",
       "date": "Dec. 25, 2025",
       "num": "Q5286",
-      "q": [
-        "A card that was given \"can't activate [When Digivolving] effects\" digivolved into a card that has a [When Digivolving] [When Attacking] [Once Per Turn] effect.",
-        "Does that count as an instance of that effect's [X Per Turn] even if that effect can't be activated upon the timing when that card digivolved?"
-      ]
+      "q": "A card that was given \"can't activate [When Digivolving] effects\" digivolved into a card that has a [When Digivolving] [When Attacking] [Once Per Turn] effect. Does that count as an instance of that effect's [X Per Turn] even if that effect can't be activated upon the timing when that card digivolved?"
     },
     {
-      "a": [
-        "They become face-up security cards that remain revealed.",
-        "Other than rules that specify face-up security cards, the rules apply in the same manner as standard security cards."
-      ],
+      "a": "They become face-up security cards that remain revealed. Other than rules that specify face-up security cards, the rules apply in the same manner as standard security cards.",
       "date": "Oct. 3, 2025",
       "num": "Q5289",
       "q": "What happens to cards placed face up in the security stack by effects?"
     },
     {
-      "a": [
-        "The check is performed with the card left revealed.",
-        "Other than rules for cards left revealed, the rules apply in the same manner as standard security checks."
-      ],
+      "a": "The check is performed with the card left revealed. Other than rules for cards left revealed, the rules apply in the same manner as standard security checks.",
       "date": "Oct. 3, 2025",
       "num": "Q5290",
       "q": "What happens upon a security check for a security card that is placed face-up?"
@@ -71,10 +50,7 @@
       "q": "Does a card's [Security] effect trigger upon a security check with that card placed face-up?"
     },
     {
-      "a": [
-        "Any face-up cards are placed face down, then you shuffle the cards.",
-        "After shuffling, all cards are left face-down."
-      ],
+      "a": "Any face-up cards are placed face down, then you shuffle the cards. After shuffling, all cards are left face-down.",
       "date": "Oct. 3, 2025",
       "num": "Q5292",
       "q": "What happens if I shuffle a security stack that includes security cards placed face-up?"

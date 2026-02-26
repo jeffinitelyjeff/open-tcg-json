@@ -1,11 +1,7 @@
 {
   "Card Q&A": [
     {
-      "a": [
-        "No, it's deleted by this card's effect, not by battle.",
-        "As such, effects that read, \"deletes an opponent's Digimon and survives,\" and effects like",
-        "don't activate."
-      ],
+      "a": "No, it's deleted by this card's effect, not by battle. As such, effects that read, \"deletes an opponent's Digimon and survives,\" and effects like  don't activate.",
       "date": "Mar. 28, 2024",
       "num": "Q1257",
       "q": "I use this card to grant my Digimon this card's effect. I then use one of my Digimon to attack an opponent's Digimon with no digivolution cards. Does my opponent's Digimon get deleted in battle?"
@@ -17,10 +13,7 @@
       "q": "My opponent uses this card during their turn, then attacks one of my Digimon with no digivolution cards. Can I block with one of my other Digimon to prevent that Digimon from being deleted?"
     },
     {
-      "a": [
-        "Yes, you can.",
-        "The Digimon that was a target of the attack will still be deleted by the effect of this card, but you can still block as counter timing and blocker timing will occur normally."
-      ],
+      "a": "Yes, you can.The Digimon that was a target of the attack will still be deleted by the effect of this card, but you can still block as counter timing and blocker timing will occur normally.",
       "date": "Mar. 28, 2024",
       "num": "Q1259",
       "q": "My opponent uses this card during their turn, then attacks one of my Digimon with no digivolution cards. Can I block with one of my other Digimon to force it to attack that Digimon?"
@@ -38,33 +31,22 @@
       "q": "One of my Digimon has been granted the effect from this card. If I use it to attack an opponent's Digimon with higher DP, is my Digimon deleted after losing the battle?"
     },
     {
-      "a": [
-        "No, a Digimon with",
-        "has to attack and delete an opponent's Digimon and survive the battle, but this card's effect deletes the opposing Digimon before the battle begins. As such,",
-        "does not apply."
-      ],
+      "a": "No, a Digimon with  has to attack and delete an opponent's Digimon and survive the battle, but this card's effect deletes the opposing Digimon before the battle begins. As such,  does not apply.",
       "date": "Mar. 28, 2024",
       "num": "Q1262",
-      "q": [
-        "I use this card, then attack an opponent's Digimon with no digivolution cards using a Digimon with",
-        ". Does",
-        "take effect?"
+      "q": "I use this card, then attack an opponent's Digimon with no digivolution cards using a Digimon with . Does  take effect?"
+    },
+    {
+      "a": "No, Dimension Scissor requires the Digimon to attack and delete an opponent's Digimon and survive the battle. This card's effect deletes the opposing Digimon before the battle begins, so the effect doesn't apply.\n                                            \n                        Related Cards",
+      "date": "Mar. 28, 2024",
+      "num": "Q1263",
+      "q": "I use [BT-112 Dimension Scissor], which allows 1 of my Digimon to unsuspend every time it deletes an opponent's Digimon. If I then use this card and attack an opponent's Digimon with no digivolution cards, can I unsuspend my Digimon using Dimension Scissor's effect after deleting the opponent's Digimon using this card's effect?",
+      "relatedCards": [
+        "BT1-112"
       ]
     },
     {
-      "a": [
-        "No, Dimension Scissor requires the Digimon to attack and delete an opponent's Digimon and survive the battle. This card's effect deletes the opposing Digimon before the battle begins, so the effect doesn't apply.",
-        "Related Cards"
-      ],
-      "date": "Mar. 28, 2024",
-      "num": "Q1263",
-      "q": "I use [BT-112 Dimension Scissor], which allows 1 of my Digimon to unsuspend every time it deletes an opponent's Digimon. If I then use this card and attack an opponent's Digimon with no digivolution cards, can I unsuspend my Digimon using Dimension Scissor's effect after deleting the opponent's Digimon using this card's effect?"
-    },
-    {
-      "a": [
-        "The opposing Digimon isn't deleted by the effect granted by this card.",
-        "If the opponent's Digimon has 1 or more digivolution cards at the time you declare the attack, it can't be targeted by the effect granted by this card, even if it loses all of its digivolution cards later."
-      ],
+      "a": "The opposing Digimon isn't deleted by the effect granted by this card.If the opponent's Digimon has 1 or more digivolution cards at the time you declare the attack, it can't be targeted by the effect granted by this card, even if it loses all of its digivolution cards later.",
       "date": "Mar. 28, 2024",
       "num": "Q1264",
       "q": "I use this card, then attack an opponent's Digimon with 1 digivolution card. If I use a [When Attacking] effect to trash the opposing Digimon's digivolution card, what happens?"

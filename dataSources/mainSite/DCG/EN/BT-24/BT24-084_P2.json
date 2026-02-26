@@ -7,26 +7,18 @@
       "q": "What position on the memory gauge does \"while you have 4 or less memory\" refer to?"
     },
     {
-      "a": [
-        "[Security] effects take precedence for activation.",
-        "Upon a security check, a [Security] effect will immediately activate without pending activation.",
-        "For other triggered effects, the turn player activates their effects first."
-      ],
+      "a": "[Security] effects take precedence for activation. Upon a security check, a [Security] effect will immediately activate without pending activation. For other triggered effects, the turn player activates their effects first.",
       "date": "Dec. 25, 2025",
       "num": "Q5669",
       "q": "In what order do a [Security] effect, \"when [...] performs a security check\" effect, and \"when a card is removed from [...] security stack\" effect activate when they trigger simultaneously upon a security check?"
     },
     {
-      "a": [
-        "Yes, you can.",
-        "Related Cards"
-      ],
+      "a": "Yes, you can.\n                                            \n                        Related Cards",
       "date": "Dec. 25, 2025",
       "num": "Q5670",
-      "q": [
-        "P-194 [Aegiomon] performs a security check, and when it would be deleted in battle against a Security Digimon,",
-        "prevents the deletion.",
-        "At such times, can I activate this card's [All Turns] effect and digivolve P-194 [Aegiomon] into a Digimon card with [Aegiochusmon] in its name?"
+      "q": "P-194 [Aegiomon] performs a security check, and when it would be deleted in battle against a Security Digimon,  prevents the deletion. At such times, can I activate this card's [All Turns] effect and digivolve P-194 [Aegiomon] into a Digimon card with [Aegiochusmon] in its name?",
+      "relatedCards": [
+        "P-194"
       ]
     }
   ],

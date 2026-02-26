@@ -1,11 +1,7 @@
 {
   "Card Q&A": [
     {
-      "a": [
-        "[Security] effects take precedence for activation.",
-        "Upon a security check, a [Security] effect will immediately activate without pending activation.",
-        "For other triggered effects, the turn player activates their effects first."
-      ],
+      "a": "[Security] effects take precedence for activation. Upon a security check, a [Security] effect will immediately activate without pending activation. For other triggered effects, the turn player activates their effects first.",
       "date": "Dec. 25, 2025",
       "num": "Q4516",
       "q": "In what order do a [Security] effect, \"when [...] performs a security check\" effect, and \"when a card is removed from [...] security stack\" effect activate when they trigger simultaneously upon a security check?"
@@ -14,21 +10,16 @@
       "a": "Yes, another security check is performed.",
       "date": "Apr. 4, 2025",
       "num": "Q4517",
-      "q": [
-        "A Digimon that has this card in its digivolution cards attacks, and a security check was performed on my opponent's security stack.",
-        "If the attacking Digimon with this card in its digivolution cards digivolves into a Digimon with",
-        "using this card's inherited effect, is another security check performed?"
-      ]
+      "q": "A Digimon that has this card in its digivolution cards attacks, and a security check was performed on my opponent's security stack. If the attacking Digimon with this card in its digivolution cards digivolves into a Digimon with  using this card's inherited effect, is another security check performed?"
     },
     {
-      "a": [
-        "The top card of the security stack.",
-        "Upon a security check, the checked card is already considered to be removed from the security stack, therefore that card won't be trashed.",
-        "Related Cards"
-      ],
+      "a": "The top card of the security stack. Upon a security check, the checked card is already considered to be removed from the security stack, therefore that card won't be trashed.\n                                            \n                        Related Cards",
       "date": "Apr. 4, 2025",
       "num": "Q4518",
-      "q": "I use a Digimon that has this card in its digivolution cards to perform a security check on my opponent's security stack, then I use this Digimon's inherited effect to digivolve into BT21-024 [Cyberdramon]. What card is trashed by BT21-024 [Cyberdramon]'s [When Digivolving] effect at such times?"
+      "q": "I use a Digimon that has this card in its digivolution cards to perform a security check on my opponent's security stack, then I use this Digimon's inherited effect to digivolve into BT21-024 [Cyberdramon]. What card is trashed by BT21-024 [Cyberdramon]'s [When Digivolving] effect at such times?",
+      "relatedCards": [
+        "BT21-024"
+      ]
     }
   ],
   "Color": "Red",

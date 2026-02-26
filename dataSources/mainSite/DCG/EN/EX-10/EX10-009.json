@@ -5,34 +5,19 @@
       "a": "Yes, it's met.",
       "date": "Sep. 5, 2025",
       "num": "Q5016",
-      "q": [
-        "My opponent has no Digimon.",
-        "I activated this card's [When Digivolving] [On Deletion] effect, but none of my opponent's Digimon were deleted.",
-        "At such times, is the \"if this effect didn't delete\" condition met?"
-      ]
+      "q": "My opponent has no Digimon. I activated this card's [When Digivolving] [On Deletion] effect, but none of my opponent's Digimon were deleted. At such times, is the \"if this effect didn't delete\" condition met?"
     },
     {
       "a": "Yes, it's met.",
       "date": "Sep. 5, 2025",
       "num": "Q5017",
-      "q": [
-        "My opponent only has 1 Digimon, and it has an effect that prevents deletion.",
-        "I activated this card's [When Digivolving] [On Deletion] effect, but none of my opponent's Digimon were deleted.",
-        "At such times, is the \"if this effect didn't delete\" condition met?"
-      ]
+      "q": "My opponent only has 1 Digimon, and it has an effect that prevents deletion. I activated this card's [When Digivolving] [On Deletion] effect, but none of my opponent's Digimon were deleted. At such times, is the \"if this effect didn't delete\" condition met?"
     },
     {
-      "a": [
-        "No, it isn't met.",
-        "The \"if this effect didn't delete\" condition is only met when no Digimon are deleted by this effect.",
-        "If even 1 Digimon is deleted, this condition isn't met."
-      ],
+      "a": "No, it isn't met. The \"if this effect didn't delete\" condition is only met when no Digimon are deleted by this effect. If even 1 Digimon is deleted, this condition isn't met.",
       "date": "Sep. 5, 2025",
       "num": "Q5018",
-      "q": [
-        "My opponent has 1 Digimon with 6000 DP and an effect that prevents deletion, and they have 1 Digimon with 6000 DP and no effects.",
-        "Is the \"if this effect didn't delete\" condition met if I activate this card's [When Digivolving] [On Deletion] effect and delete their Digimon other than the Digimon with an effect that prevents deletion?"
-      ]
+      "q": "My opponent has 1 Digimon with 6000 DP and an effect that prevents deletion, and they have 1 Digimon with 6000 DP and no effects. Is the \"if this effect didn't delete\" condition met if I activate this card's [When Digivolving] [On Deletion] effect and delete their Digimon other than the Digimon with an effect that prevents deletion?"
     },
     {
       "a": "No, they don't trigger.",

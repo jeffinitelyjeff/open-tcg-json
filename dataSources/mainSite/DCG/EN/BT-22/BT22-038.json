@@ -2,37 +2,25 @@
   "Attribute": "Vaccine",
   "Card Q&A": [
     {
-      "a": [
-        "Yes, you can.",
-        "Related Cards"
-      ],
+      "a": "Yes, you can.\n                                            \n                        Related Cards",
       "date": "Jul. 4, 2025",
       "num": "Q4884",
-      "q": [
-        "When I activate EX9-070 [Meat]'s",
-        "effect and would digivolve my Digimon into this card with the digivolution cost reduced by 2, can I activate this card's 1st effect and further reduce the digivolution cost by 1 for each of that Digimon's face-down digivolution cards?"
+      "q": "When I activate EX9-070 [Meat]'s  effect and would digivolve my Digimon into this card with the digivolution cost reduced by 2, can I activate this card's 1st effect and further reduce the digivolution cost by 1 for each of that Digimon's face-down digivolution cards?",
+      "relatedCards": [
+        "EX9-070"
       ]
     },
     {
-      "a": [
-        "This effect prevents [When Digivolving] effects on cards from activating.",
-        "[When Digivolving] effects can no longer activate by triggering or when effects such as \"activate that card's [When Digivolving]\" effect\" activate."
-      ],
+      "a": "This effect prevents [When Digivolving] effects on cards from activating. [When Digivolving] effects can no longer activate by triggering or when effects such as \"activate that card's [When Digivolving]\" effect\" activate.",
       "date": "Dec. 25, 2025",
       "num": "Q4885",
       "q": "What does \"[When Digivolving] effects don't activate\" mean, exactly?"
     },
     {
-      "a": [
-        "Yes, you can.",
-        "The effect can activate if it activates upon the [When Attacking] timing."
-      ],
+      "a": "Yes, you can. The effect can activate if it activates upon the [When Attacking] timing.",
       "date": "Dec. 25, 2025",
       "num": "Q4886",
-      "q": [
-        "I used a card affected by \"can't activate [When Digivolving] effects\" to attack.",
-        "Can I activate that card's [When Digivolving] [When Attacking] effect at such times?"
-      ]
+      "q": "I used a card affected by \"can't activate [When Digivolving] effects\" to attack. Can I activate that card's [When Digivolving] [When Attacking] effect at such times?"
     },
     {
       "a": "No, it can't be activated.",
@@ -47,16 +35,10 @@
       "q": "If a card is affected by \"can't activate [When Digivolving] effects,\" can I process just the \"by\" condition in its [When Digivolving] effect?"
     },
     {
-      "a": [
-        "No, it doesn't count.",
-        "The effect can't activate upon the [When Digivolving] timing, therefore it doesn't count as an instance of that effect's [X Per Turn]."
-      ],
+      "a": "No, it doesn't count. The effect can't activate upon the [When Digivolving] timing, therefore it doesn't count as an instance of that effect's [X Per Turn].",
       "date": "Dec. 25, 2025",
       "num": "Q4889",
-      "q": [
-        "A card that was given \"can't activate [When Digivolving] effects\" digivolved into a card that has a [When Digivolving] [When Attacking] [Once Per Turn] effect.",
-        "Does that count as an instance of that effect's [X Per Turn] even if that effect can't be activated upon the timing when that card digivolved?"
-      ]
+      "q": "A card that was given \"can't activate [When Digivolving] effects\" digivolved into a card that has a [When Digivolving] [When Attacking] [Once Per Turn] effect. Does that count as an instance of that effect's [X Per Turn] even if that effect can't be activated upon the timing when that card digivolved?"
     }
   ],
   "Color": "Yellow",

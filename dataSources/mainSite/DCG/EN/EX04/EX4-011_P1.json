@@ -14,10 +14,7 @@
       "q": "After deleting 1 of my Digimon with digivolution cards and [Gallantmon] in its name, can I choose to not play this card for this card's [End of Your Turn] effect?"
     },
     {
-      "a": [
-        "No, it means every 10 cards in the total sum of cards in your trash and the cards in your opponent's trash.",
-        "For example, if you have 15 cards in your trash and your opponent has 9 cards in their trash, the total would be 24. Therefore, you add 4000 to the maximum this DP-based deletion effect can delete, and you can now delete 1 of your opponent's Digimon with 11000 DP or less."
-      ],
+      "a": "No, it means every 10 cards in the total sum of cards in your trash and the cards in your opponent's trash.For example, if you have 15 cards in your trash and your opponent has 9 cards in their trash, the total would be 24. Therefore, you add 4000 to the maximum this DP-based deletion effect can delete, and you can now delete 1 of your opponent's Digimon with 11000 DP or less.",
       "date": "Mar. 28, 2024",
       "num": "Q3449",
       "q": "Does \"For every 10 total cards in both players' trashes\" in this card's [On Play] effect mean every 10 cards in either me or my opponent's trashes?"

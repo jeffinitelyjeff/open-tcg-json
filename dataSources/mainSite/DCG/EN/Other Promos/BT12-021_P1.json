@@ -14,13 +14,13 @@
       "q": "If the 3 cards revealed by this card's effect include both a Digimon card with [Imperialdramon] in its name or the [Free] trait, and a Tamer card with [Davis Motomiya] in its name among them, can I choose to only add one of them to my hand and return the rest to the bottom of the deck?"
     },
     {
-      "a": [
-        "Yes, it's a Tamer card with [Davis Motomiya] in its name, so you can add it to your hand.",
-        "Related Cards"
-      ],
+      "a": "Yes, it's a Tamer card with [Davis Motomiya] in its name, so you can add it to your hand.\n                                            \n                        Related Cards",
       "date": "Mar. 28, 2024",
       "num": "Q2150",
-      "q": "This card's effect reveals 3 cards. If a [BT8-088 Davis Motomiya & Ken Ichijoji] is among the cards revealed, can I add that card to my hand?"
+      "q": "This card's effect reveals 3 cards. If a [BT8-088 Davis Motomiya & Ken Ichijoji] is among the cards revealed, can I add that card to my hand?",
+      "relatedCards": [
+        "BT8-088"
+      ]
     }
   ],
   "Color": "Blue",

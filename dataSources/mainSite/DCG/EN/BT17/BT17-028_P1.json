@@ -8,14 +8,13 @@
       "q": "Does this card's [Your Turn] effect activate when the hand increases from the digivolution bonus upon digivolution by an effect?"
     },
     {
-      "a": [
-        "No, they don’t.",
-        "Although cards are added to both players' hands, they are added at the same timing, therefore your opponent only adds 1 card from their security stack to the hand.",
-        "Related Cards"
-      ],
+      "a": "No, they don’t. Although cards are added to both players' hands, they are added at the same timing, therefore your opponent only adds 1 card from their security stack to the hand.\n                                            \n                        Related Cards",
       "date": "Mar. 28, 2024",
       "num": "Q2775",
-      "q": "If both my hand and my opponent's hand increase when we both draw 1 card from our decks using an effect such as BT16-020 [GaoGamon]'s [When Digivolving] effect, does my opponent add 2 cards from the top of their security stack to the hand using this card's [Your Turn] effect?"
+      "q": "If both my hand and my opponent's hand increase when we both draw 1 card from our decks using an effect such as BT16-020 [GaoGamon]'s [When Digivolving] effect, does my opponent add 2 cards from the top of their security stack to the hand using this card's [Your Turn] effect?",
+      "relatedCards": [
+        "BT16-020"
+      ]
     },
     {
       "a": "Yes, you can.",

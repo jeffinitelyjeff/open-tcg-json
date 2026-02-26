@@ -1,10 +1,7 @@
 {
   "Card Q&A": [
     {
-      "a": [
-        "No. It just reduces the cost of the card to 0.",
-        "Note that in general, costs can’t be reduced to less than 0."
-      ],
+      "a": "No. It just reduces the cost of the card to 0. Note that in general, costs can’t be reduced to less than 0.",
       "date": "Mar. 28, 2024",
       "num": "Q1773",
       "q": "If my opponent has 7 or more Digimon in play, does this card’s effect get reduced to negative 1, effectively gaining me a memory for using it?"
@@ -13,23 +10,15 @@
       "a": "After the battle between the attacking Digimon and Security Digimon, the effect prevents the Digimon from being played, so it's placed in the trash.",
       "date": "Mar. 28, 2024",
       "num": "Q1774",
-      "q": [
-        "I use this card, then attack my opponent. During the security check, I flip over a Digimon card with the effect, “[Security] At the end of the battle, play this card without paying its memory cost.”",
-        "What happens to this Security Digimon?"
-      ]
+      "q": "I use this card, then attack my opponent. During the security check, I flip over a Digimon card with the effect, “[Security] At the end of the battle, play this card without paying its memory cost.” What happens to this Security Digimon?"
     },
     {
-      "a": [
-        "Yes, they can't be played.",
-        "This card's [Main] effect was changed to \"Your opponent can't play Digimon by effects until the end of their turn. Delete all of your opponent's Digimon with 6000 DP or less.\" Therefore, first the effect that prevents playing Digimon is applied, then Digimon with 6000 DP or less are deleted.",
-        "Please see the notices regarding changes to the rules/rulings on the official website.",
-        "Related Cards"
-      ],
+      "a": "Yes, they can't be played. This card's [Main] effect was changed to \"Your opponent can't play Digimon by effects until the end of their turn. Delete all of your opponent's Digimon with 6000 DP or less.\" Therefore, first the effect that prevents playing Digimon is applied, then Digimon with 6000 DP or less are deleted. Please see the notices regarding changes to the rules/rulings on the official website.\n                                            \n                        Related Cards",
       "date": "Mar. 28, 2024",
       "num": "Q1775",
-      "q": [
-        "My opponent used this card on my [BT7-063 DarkKnightmon].",
-        "[DarkKnightmon]'s [All Turns] effect is a \"when this Digimon would be deleted\" effect that interrupts deletion when it activates, but can I use this card's \"your opponent can't play Digimon by effects until the end of their turn\" effect to prevent [SkullKnightmon] and [DeadlyAxemon] from being played from [DarkKnightmon]'s digivolution cards?"
+      "q": "My opponent used this card on my [BT7-063 DarkKnightmon]. [DarkKnightmon]'s [All Turns] effect is a \"when this Digimon would be deleted\" effect that interrupts deletion when it activates, but can I use this card's \"your opponent can't play Digimon by effects until the end of their turn\" effect to prevent [SkullKnightmon] and [DeadlyAxemon] from being played from [DarkKnightmon]'s digivolution cards?",
+      "relatedCards": [
+        "BT7-063"
       ]
     },
     {
@@ -39,15 +28,14 @@
       "q": "If this card's effect is activated on the opponent's turn, how long does the effect last?"
     },
     {
-      "a": [
-        "Such effects prevent your opponent from playing XX by effects.",
-        "With this card's effect, your opponent can no longer play Digimon by effects such as BT10-018 [Gaossmon]'s [On Deletion] effect or BT16-048 [TyrantKabuterimon]'s [When Digivolving] effect.",
-        "This effect affects the opponent player.",
-        "Related Cards"
-      ],
+      "a": "Such effects prevent your opponent from playing XX by effects. With this card's effect, your opponent can no longer play Digimon by effects such as BT10-018 [Gaossmon]'s [On Deletion] effect or BT16-048 [TyrantKabuterimon]'s [When Digivolving] effect. This effect affects the opponent player.\n                                            \n                        Related Cards",
       "date": "Apr. 25, 2025",
       "num": "Q4661",
-      "q": "What does a \"your opponent can't play XX by effects\" effect do, exactly?"
+      "q": "What does a \"your opponent can't play XX by effects\" effect do, exactly?",
+      "relatedCards": [
+        "BT10-018",
+        "BT16-048"
+      ]
     },
     {
       "a": "Yes. Your opponent reveals cards, but then doesn't play the specified card.",
@@ -56,24 +44,22 @@
       "q": "I activate a \"your opponent can't play XX by effects\" effect, and in the same turn, my opponent activates an effect that reveals cards and plays a specified card from their deck. Is the card revealed from the deck but not played?"
     },
     {
-      "a": [
-        "Yes, it can be played.",
-        "\"Your opponent can't play Digimon by effects\" is an effect that prevents your opponent from playing Digimon by effects. Your effects can still play an opponent's Digimon.",
-        "Related Cards"
-      ],
+      "a": "Yes, it can be played. \"Your opponent can't play Digimon by effects\" is an effect that prevents your opponent from playing Digimon by effects. Your effects can still play an opponent's Digimon.\n                                            \n                        Related Cards",
       "date": "Apr. 25, 2025",
       "num": "Q4663",
-      "q": "Can an opponent's Digimon be played if I activate a \"your opponent can't play Digimon by effects\" effect, and in the same turn, I activate an effect such as EX5-060 [Dragomon]'s [On Play] [When Digivolving] effect that plays an opponent's Digimon card?"
+      "q": "Can an opponent's Digimon be played if I activate a \"your opponent can't play Digimon by effects\" effect, and in the same turn, I activate an effect such as EX5-060 [Dragomon]'s [On Play] [When Digivolving] effect that plays an opponent's Digimon card?",
+      "relatedCards": [
+        "EX5-060"
+      ]
     },
     {
-      "a": [
-        "No, it can't be played.",
-        "\"Your opponent can't play Digimon by effects\" is an effect that prevents your opponent from playing Digimon by effects. Your Digimon can't be played by an opponent's effect.",
-        "Related Cards"
-      ],
+      "a": "No, it can't be played. \"Your opponent can't play Digimon by effects\" is an effect that prevents your opponent from playing Digimon by effects. Your Digimon can't be played by an opponent's effect.\n                                            \n                        Related Cards",
       "date": "Apr. 25, 2025",
       "num": "Q4664",
-      "q": "Can my Digimon be played if I activate a \"your opponent can't play Digimon by effects\" effect, and in the same turn, my opponent activates an effect such as EX5-060 [Dragomon]'s [On Play] [When Digivolving] effect that plays an opponent's Digimon card?"
+      "q": "Can my Digimon be played if I activate a \"your opponent can't play Digimon by effects\" effect, and in the same turn, my opponent activates an effect such as EX5-060 [Dragomon]'s [On Play] [When Digivolving] effect that plays an opponent's Digimon card?",
+      "relatedCards": [
+        "EX5-060"
+      ]
     }
   ],
   "Color": "Red",

@@ -8,14 +8,15 @@
       "q": "When using this card’s [On Play] effect to use an Option card, can I use any 7-cost Option card, regardless of its color requirements?"
     },
     {
-      "a": [
-        "No, you can’t. Since those options are cards that have effects that “reduce the cost by…” or “its memory cost is equal to…” when they would be used, their cost has not actually changed when activating this card’s [On Play] effect, so they can’t be used with this card’s effect.",
-        "However, since [BT2-099 Glorious Burst] always has the effect of reducing its use cost when used from the hand, if you have 2 yellow Tamers, it can be used with this card’s effect as its use cost will be 7.",
-        "Related Cards"
-      ],
+      "a": "No, you can’t. Since those options are cards that have effects that “reduce the cost by…” or “its memory cost is equal to…” when they would be used, their cost has not actually changed when activating this card’s [On Play] effect, so they can’t be used with this card’s effect.However, since [BT2-099 Glorious Burst] always has the effect of reducing its use cost when used from the hand, if you have 2 yellow Tamers, it can be used with this card’s effect as its use cost will be 7.\n                                            \n                        Related Cards",
       "date": "Mar. 28, 2024",
       "num": "Q1501",
-      "q": "Can I use option cards that can change their cost to 7 on certain conditions such as [BT7-100 Qualialise Blast] or [BT11-108 DG Dimension] with this card’s [On Play] effect?"
+      "q": "Can I use option cards that can change their cost to 7 on certain conditions such as [BT7-100 Qualialise Blast] or [BT11-108 DG Dimension] with this card’s [On Play] effect?",
+      "relatedCards": [
+        "BT7-100",
+        "BT11-108",
+        "BT2-099"
+      ]
     }
   ],
   "Color": "Purple",

@@ -2,23 +2,13 @@
   "Attribute": "Vaccine",
   "Card Q&A": [
     {
-      "a": [
-        "No, it isn't deleted yet.",
-        "Once all of the processing for this card's [On Play] [When Digivolving] effect is resolved, then all of the Digimon with 0 DP are deleted at the same time."
-      ],
+      "a": "No, it isn't deleted yet. Once all of the processing for this card's [On Play] [When Digivolving] effect is resolved, then all of the Digimon with 0 DP are deleted at the same time.",
       "date": "Jan. 24, 2025",
       "num": "Q4398",
-      "q": [
-        "A Digimon's DP became 0 from this card's [On Play] [When Digivolving] effect.",
-        "At such times, is that Digimon deleted before the rest of this effect's processing is resolved?"
-      ]
+      "q": "A Digimon's DP became 0 from this card's [On Play] [When Digivolving] effect. At such times, is that Digimon deleted before the rest of this effect's processing is resolved?"
     },
     {
-      "a": [
-        "[Security] effects take precedence for activation.",
-        "Upon a security check, a [Security] effect will immediately activate without pending activation.",
-        "For other triggered effects, the turn player activates their effects first."
-      ],
+      "a": "[Security] effects take precedence for activation. Upon a security check, a [Security] effect will immediately activate without pending activation. For other triggered effects, the turn player activates their effects first.",
       "date": "Jan. 24, 2025",
       "num": "Q4399",
       "q": "What order do a [Security] effect, \"when [...] performs a security check\" effect, and \"when a card is removed from [...] security stack\" effect activate when they trigger simultaneously upon a security check?"

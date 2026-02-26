@@ -14,13 +14,15 @@
       "q": "This card's effect reveals 4 cards. If both a Digimon card with [Greymon] or [Omnimon] in its name and a Tamer card with [Tai Kamiya] in its name are among the cards revealed, can I choose to only add one of them to my hand, and return the other cards to the bottom of my deck?"
     },
     {
-      "a": [
-        "Yes, those are Tamer cards with [Tai Kamiya] in their names, so you can add one to your hand.",
-        "Related Cards"
-      ],
+      "a": "Yes, those are Tamer cards with [Tai Kamiya] in their names, so you can add one to your hand.\n                                            \n                        Related Cards",
       "date": "Mar. 28, 2024",
       "num": "Q2189",
-      "q": "This card's effect reveals 4 cards. If [BT5-093 Tai Kamiya & Matt Ishida], [BT9-084 Tai Kamiya & Kari Kamiya], or [P-012 Tai Kamiya (V-Tamer)] is one of the cards revealed, can I add that card to my hand?"
+      "q": "This card's effect reveals 4 cards. If [BT5-093 Tai Kamiya & Matt Ishida], [BT9-084 Tai Kamiya & Kari Kamiya], or [P-012 Tai Kamiya (V-Tamer)] is one of the cards revealed, can I add that card to my hand?",
+      "relatedCards": [
+        "BT5-093",
+        "BT9-084",
+        "P-012"
+      ]
     }
   ],
   "Color": [

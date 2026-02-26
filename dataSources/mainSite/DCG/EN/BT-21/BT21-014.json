@@ -2,35 +2,25 @@
   "Attribute": "Variable",
   "Card Q&A": [
     {
-      "a": [
-        "The [Security] effect will activate first.",
-        "Upon a security check, a [Security] effect will immediately activate without pending activation."
-      ],
+      "a": "The [Security] effect will activate first. Upon a security check, a [Security] effect will immediately activate without pending activation.",
       "date": "Apr. 4, 2025",
       "num": "Q4523",
       "q": "What order do an effect that triggers when a card is removed from a security stack and a [Security] effect on a checked card activate when they trigger simultaneously upon a security check?"
     },
     {
-      "a": [
-        "Yes, the digivolution cost will be reduced by a total of 2.",
-        "Related Cards"
-      ],
+      "a": "Yes, the digivolution cost will be reduced by a total of 2.\n                                            \n                        Related Cards",
       "date": "Jun. 13, 2025",
       "num": "Q4524",
-      "q": [
-        "[Agunimon] is in this card's digivolution cards.",
-        "If this card attacks and I use its [Your Turn] effect to digivolve into BT21-020 [Aldamon], is the digivolution cost reduced by a total of 2?"
+      "q": "[Agunimon] is in this card's digivolution cards. If this card attacks and I use its [Your Turn] effect to digivolve into BT21-020 [Aldamon], is the digivolution cost reduced by a total of 2?",
+      "relatedCards": [
+        "BT21-020"
       ]
     },
     {
       "a": "Yes, another security check is performed.",
       "date": "Apr. 4, 2025",
       "num": "Q4525",
-      "q": [
-        "This card attacks and I perform a security check on my opponent.",
-        "If I then use this card's [Your Turn] effect to digivolve into a Digimon card with",
-        ", is another security check performed?"
-      ]
+      "q": "This card attacks and I perform a security check on my opponent. If I then use this card's [Your Turn] effect to digivolve into a Digimon card with , is another security check performed?"
     }
   ],
   "Color": "Red",

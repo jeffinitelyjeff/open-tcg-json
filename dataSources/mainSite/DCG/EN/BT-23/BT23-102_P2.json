@@ -2,11 +2,7 @@
   "Attribute": "Vaccine",
   "Card Q&A": [
     {
-      "a": [
-        "[Security] effects take precedence for activation.",
-        "Upon a security check, a [Security] effect will immediately activate without pending activation.",
-        "For other triggered effects, the turn player activates their effects first."
-      ],
+      "a": "[Security] effects take precedence for activation. Upon a security check, a [Security] effect will immediately activate without pending activation. For other triggered effects, the turn player activates their effects first.",
       "date": "Oct. 3, 2025",
       "num": "Q5390",
       "q": "What order do a [Security] effect, \"when [...] performs a security check\" effect, and \"when a card is removed from [...] security stack\" effect activate when they trigger simultaneously upon a security check?"
@@ -21,10 +17,7 @@
       "a": "No, it doesn't trigger.",
       "date": "Oct. 3, 2025",
       "num": "Q5392",
-      "q": [
-        "Does this card's",
-        "also trigger when this card's [All Turns] effect is used to place this card itself as the bottom security card?"
-      ]
+      "q": "Does this card's  also trigger when this card's [All Turns] effect is used to place this card itself as the bottom security card?"
     }
   ],
   "Color": [

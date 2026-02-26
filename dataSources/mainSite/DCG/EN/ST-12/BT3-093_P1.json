@@ -7,13 +7,14 @@
       "q": "What cards are added to my hand by this card's [On Play] effect?"
     },
     {
-      "a": [
-        "Yes, you can.",
-        "Related Cards"
-      ],
+      "a": "Yes, you can.\n                                            \n                        Related Cards",
       "date": "Jun. 13, 2025",
       "num": "Q4704",
-      "q": "If BT8-053 [Lighdramon] and P-117 [Veemon] are revealed by this card's [On Play] effect, can I choose BT8-053 [Lighdramon] to add as the blue card but choose to not add P-117 [Veemon] to my hand?"
+      "q": "If BT8-053 [Lighdramon] and P-117 [Veemon] are revealed by this card's [On Play] effect, can I choose BT8-053 [Lighdramon] to add as the blue card but choose to not add P-117 [Veemon] to my hand?",
+      "relatedCards": [
+        "BT8-053",
+        "P-117"
+      ]
     }
   ],
   "Color": "Blue",

@@ -14,25 +14,16 @@
       "q": "What position on the memory gauge does \"while you have 1 or less\" memory refer to?"
     },
     {
-      "a": [
-        "This effect prevents [On Play] effects on cards from activating.",
-        "Triggered [On Play] effects can no longer activate when a card is played or when effects such as \"activate that card's [On Play]\" effect\" activate."
-      ],
+      "a": "This effect prevents [On Play] effects on cards from activating. Triggered [On Play] effects can no longer activate when a card is played or when effects such as \"activate that card's [On Play]\" effect\" activate.",
       "date": "Nov. 22, 2024",
       "num": "Q3900",
       "q": "What does \"none of your opponent's Digimon can activate [On Play] effects\" mean, exactly?"
     },
     {
-      "a": [
-        "Yes, you can.",
-        "The effect can activate if it's triggered upon the [When Attacking] timing."
-      ],
+      "a": "Yes, you can. The effect can activate if it's triggered upon the [When Attacking] timing.",
       "date": "Nov. 22, 2024",
       "num": "Q3901",
-      "q": [
-        "I used a card affected by \"none of your opponent's Digimon can activate [On Play] effects\" to attack.",
-        "Can I activate that card's [On Play] [When Attacking] effect at such times?"
-      ]
+      "q": "I used a card affected by \"none of your opponent's Digimon can activate [On Play] effects\" to attack. Can I activate that card's [On Play] [When Attacking] effect at such times?"
     },
     {
       "a": "No, it can't be activated.",
@@ -59,22 +50,13 @@
       "q": "If a card is affected by \"none of your opponent's Digimon can activate [On Play] effects,\" can I perform just the \"by doing X\" condition in its [On Play] effect?"
     },
     {
-      "a": [
-        "No, it doesn't count.",
-        "The effect can't activate upon the [On Play] timing, therefore it doesn't count as an instance of that effect's [X Per Turn]."
-      ],
+      "a": "No, it doesn't count. The effect can't activate upon the [On Play] timing, therefore it doesn't count as an instance of that effect's [X Per Turn].",
       "date": "Apr. 4, 2025",
       "num": "Q3906",
-      "q": [
-        "A card digivolved into a card that has an [On Play] [When Attacking] [Once Per Turn] effect while \"none of your opponent's Digimon can activate [On Play] effects\" was activated.",
-        "Does that count as an instance of that effect's [X Per Turn] even if that effect can't be activated upon the timing when that card is played?"
-      ]
+      "q": "A card digivolved into a card that has an [On Play] [When Attacking] [Once Per Turn] effect while \"none of your opponent's Digimon can activate [On Play] effects\" was activated. Does that count as an instance of that effect's [X Per Turn] even if that effect can't be activated upon the timing when that card is played?"
     },
     {
-      "a": [
-        "This effect prevents Digimon from being affected by effects.",
-        "For example, your Digmon won't suspend if it's chosen for a \"suspend 1 of your opponent's Digimon\" effect, and its DP won't be reduced if it's chosen for a \"1 of your opponent's Digimon gets -3000 DP\" effect."
-      ],
+      "a": "This effect prevents Digimon from being affected by effects. For example, your Digmon won't suspend if it's chosen for a \"suspend 1 of your opponent's Digimon\" effect, and its DP won't be reduced if it's chosen for a \"1 of your opponent's Digimon gets -3000 DP\" effect.",
       "date": "Nov. 22, 2024",
       "num": "Q3907",
       "q": "What does \"isn't affected by [...] effects\" mean, exactly?"
@@ -86,12 +68,7 @@
       "q": "Can a card that has an \"isn't affected by [...] effects\" effect be chosen for an effect?"
     },
     {
-      "a": [
-        "Yes, it can.",
-        "It won't be affected by it, but it can be given an effect.",
-        "However, if an effect such as",
-        "is given to a Digimon that isn't affected by effects, the Digimon won't be considered to have that effect."
-      ],
+      "a": "Yes, it can. It won't be affected by it, but it can be given an effect. However, if an effect such as  is given to a Digimon that isn't affected by effects, the Digimon won't be considered to have that effect.",
       "date": "Apr. 4, 2025",
       "num": "Q3909",
       "q": "Can a card that has an \"effects don't affect\" effect be given an effect?"
@@ -112,10 +89,7 @@
       "a": "If the Digimon isn't affected by effects upon the trigger timing, the effect won't trigger.",
       "date": "Jun. 13, 2025",
       "num": "Q3912",
-      "q": [
-        "A card that has an \"isn't affected by [...] effects\" effect was given an effect that triggers at a timing such as [When Attacking].",
-        "Will the effect trigger if that card later meets the trigger conditions?"
-      ]
+      "q": "A card that has an \"isn't affected by [...] effects\" effect was given an effect that triggers at a timing such as [When Attacking]. Will the effect trigger if that card later meets the trigger conditions?"
     }
   ],
   "Color": [

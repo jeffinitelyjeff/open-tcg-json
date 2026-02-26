@@ -8,25 +8,16 @@
       "q": "Multiple effects trigger when this card digivolves. In what order do they activate?"
     },
     {
-      "a": [
-        "No, you can't.",
-        "If your opponent has a Digimon with 10000 DP or less, you must choose that card and delete it."
-      ],
+      "a": "No, you can't. If your opponent has a Digimon with 10000 DP or less, you must choose that card and delete it.",
       "date": "Nov. 22, 2024",
       "num": "Q3976",
-      "q": [
-        "My opponent has a Digimon with 10000 DP or less.",
-        "Can I meet the \"if this effect didn't delete\" condition in this card's [When Digivolving] [End of Attack] effect by not choosing a card to delete?"
-      ]
+      "q": "My opponent has a Digimon with 10000 DP or less. Can I meet the \"if this effect didn't delete\" condition in this card's [When Digivolving] [End of Attack] effect by not choosing a card to delete?"
     },
     {
       "a": "Yes, you can.",
       "date": "Nov. 22, 2024",
       "num": "Q3977",
-      "q": [
-        "My opponent has a Digimon with 10000 DP or less.",
-        "Can I meet the \"if this effect didn't delete\" condition in this card's [When Digivolving] [End of Attack] effect by choosing an opponent's Digimon with 10000 DP or less and an effect that prevents deletion?"
-      ]
+      "q": "My opponent has a Digimon with 10000 DP or less. Can I meet the \"if this effect didn't delete\" condition in this card's [When Digivolving] [End of Attack] effect by choosing an opponent's Digimon with 10000 DP or less and an effect that prevents deletion?"
     },
     {
       "a": "It refers to when the memory gauge is at 0 or further to the right.",
@@ -35,10 +26,7 @@
       "q": "What position on the memory gauge does \"while you have 0 or less\" memory refer to?"
     },
     {
-      "a": [
-        "This effect prevents Digimon from being affected by effects.",
-        "For example, your Digmon won't suspend if it's chosen for a \"suspend 1 of your opponent's Digimon\" effect, and its DP won't be reduced if it's chosen for a \"1 of your opponent's Digimon gets -3000 DP\" effect."
-      ],
+      "a": "This effect prevents Digimon from being affected by effects. For example, your Digmon won't suspend if it's chosen for a \"suspend 1 of your opponent's Digimon\" effect, and its DP won't be reduced if it's chosen for a \"1 of your opponent's Digimon gets -3000 DP\" effect.",
       "date": "Nov. 22, 2024",
       "num": "Q3979",
       "q": "What does \"isn't affected by [...] effects\" mean, exactly?"
@@ -50,12 +38,7 @@
       "q": "Can a card that has an \"isn't affected by [...] effects\" effect be chosen for an effect?"
     },
     {
-      "a": [
-        "Yes, it can.",
-        "It won't be affected by it, but it can be given an effect.",
-        "However, if an effect such as",
-        "is given to a Digimon that isn't affected by effects, the Digimon won't be considered to have that effect."
-      ],
+      "a": "Yes, it can. It won't be affected by it, but it can be given an effect. However, if an effect such as  is given to a Digimon that isn't affected by effects, the Digimon won't be considered to have that effect.",
       "date": "Apr. 4, 2025",
       "num": "Q3981",
       "q": "Can a card that has an \"effects don't affect\" effect be given an effect?"
@@ -76,10 +59,7 @@
       "a": "If the Digimon isn't affected by effects upon the trigger timing, the effect won't trigger.",
       "date": "Jun. 13, 2025",
       "num": "Q3984",
-      "q": [
-        "A card that has an \"isn't affected by [...] effects\" effect was given an effect that triggers at a timing such as [When Attacking].",
-        "Will the effect trigger if that card later meets the trigger conditions?"
-      ]
+      "q": "A card that has an \"isn't affected by [...] effects\" effect was given an effect that triggers at a timing such as [When Attacking]. Will the effect trigger if that card later meets the trigger conditions?"
     }
   ],
   "Color": [

@@ -1,10 +1,7 @@
 {
   "Card Q&A": [
     {
-      "a": [
-        "Yes. This card's [Main] effect can place it in a Digimon’s digivolution cards, and it has inherited effects.",
-        "As with Digi-Egg cards and Digimon cards, this card's inherited effects can activate while it's placed in a Digimon’s digivolution cards."
-      ],
+      "a": "Yes. This card's [Main] effect can place it in a Digimon’s digivolution cards, and it has inherited effects. As with Digi-Egg cards and Digimon cards, this card's inherited effects can activate while it's placed in a Digimon’s digivolution cards.",
       "date": "Mar. 28, 2024",
       "num": "Q1917",
       "q": "Does this card have inherited effects even though it's an Option card?"
@@ -22,28 +19,16 @@
       "q": "Can I activate an effect that reduces the digivolution cost when digivolving using this card's inherited effect?"
     },
     {
-      "a": [
-        "No. Trashing by",
-        "is also trashing by an effect."
-      ],
+      "a": "No. Trashing by  is also trashing by an effect.",
       "date": "Mar. 28, 2024",
       "num": "Q1920",
-      "q": [
-        "Can this card be trashed by",
-        "effects on Digimon with this card in its digivolution cards?"
-      ]
+      "q": "Can this card be trashed by  effects on Digimon with this card in its digivolution cards?"
     },
     {
-      "a": [
-        "As with Digimon without DP, this card can't exist in the battle area as the top card, therefore it's trashed. This isn't considered deletion.",
-        "If this card has other digivolution cards under it, they are also trashed."
-      ],
+      "a": "As with Digimon without DP, this card can't exist in the battle area as the top card, therefore it's trashed. This isn't considered deletion. If this card has other digivolution cards under it, they are also trashed.",
       "date": "Mar. 28, 2024",
       "num": "Q1921",
-      "q": [
-        "What happens if this card becomes the top card after a Digimon with this card in its digivolution cards is affected by",
-        "?"
-      ]
+      "q": "What happens if this card becomes the top card after a Digimon with this card in its digivolution cards is affected by ?"
     },
     {
       "a": "Effects can't trash this card, therefore only the digivolution card on top of this card is trashed.",
@@ -52,13 +37,14 @@
       "q": "What happens if a \"trash the bottom 2 digivolution cards of your opponent's Digimon\" effect activates on a Digimon with this card as its bottom digivolution card?"
     },
     {
-      "a": [
-        "It can activate in such cases if you declare to trash 8 cards and then trash 7 cards except for [BT9-109 X Antibody].",
-        "Related Cards"
-      ],
+      "a": "It can activate in such cases if you declare to trash 8 cards and then trash 7 cards except for [BT9-109 X Antibody].\n                                            \n                        Related Cards",
       "date": "Mar. 28, 2024",
       "num": "Q1923",
-      "q": "There are 8 digivolution cards under [EX2-007 Mother D-Reaper], and this card is the bottom card. Does the \"you may trash 7 or more digivolution cards from the bottom of 1 of your [EX2-007 Mother D-Reaper]s to set this Digimon's play cost to 0\" effect activate when my [EX2-055 Reaper] is played?"
+      "q": "There are 8 digivolution cards under [EX2-007 Mother D-Reaper], and this card is the bottom card. Does the \"you may trash 7 or more digivolution cards from the bottom of 1 of your [EX2-007 Mother D-Reaper]s to set this Digimon's play cost to 0\" effect activate when my [EX2-055 Reaper] is played?",
+      "relatedCards": [
+        "EX2-007",
+        "EX2-055"
+      ]
     }
   ],
   "Color": "White",

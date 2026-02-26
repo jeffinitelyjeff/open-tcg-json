@@ -2,11 +2,7 @@
   "Attribute": "Data",
   "Card Q&A": [
     {
-      "a": [
-        "This card's [Opponent’s Turn] effect will replace an effect that would trash digivolution cards.",
-        "For example, if you replace a \"trash the bottom digivolution card of 1 of your opponent's Digimon\" effect, you trash the bottom digivolution card of this card.",
-        "Replacement is possible even when this card doesn't have any digivolution cards."
-      ],
+      "a": "This card's [Opponent’s Turn] effect will replace an effect that would trash digivolution cards. For example, if you replace a \"trash the bottom digivolution card of 1 of your opponent's Digimon\" effect, you trash the bottom digivolution card of this card. Replacement is possible even when this card doesn't have any digivolution cards.",
       "date": "Apr. 4, 2025",
       "num": "Q2002",
       "q": "What does this card's [Opponent's Turn] effect do, exactly?"
@@ -18,52 +14,40 @@
       "q": "What happens when this card's [Opponent's Turn] effect replaces a \"trash all of the digivolution cards of 1 of your opponent's Digimon\" effect?"
     },
     {
-      "a": [
-        "The top 3 digivolution cards of only this card are trashed.",
-        "Replacement is still possible if this card has 2 or fewer digivolution cards. In such cases, trash as many as possible."
-      ],
+      "a": "The top 3 digivolution cards of only this card are trashed. Replacement is still possible if this card has 2 or fewer digivolution cards. In such cases, trash as many as possible.",
       "date": "Apr. 4, 2025",
       "num": "Q2004",
       "q": "What happens when this card's [Opponent's Turn] effect replaces a \"trash the top 3 digivolution cards of all of your opponent's Digimon\" effect?"
     },
     {
-      "a": [
-        "You choose and trash 1 digivolution card of this card.",
-        "The player who chooses the card to trash is the player who activated this card's effect."
-      ],
+      "a": "You choose and trash 1 digivolution card of this card. The player who chooses the card to trash is the player who activated this card's effect.",
       "date": "Apr. 4, 2025",
       "num": "Q2005",
       "q": "What happens when this card's [Opponent's Turn] effect replaces a \"choose 1 digivolution card of 1 of your opponent's Digimon and trash it\" effect?"
     },
     {
-      "a": [
-        "You choose and trash 5 digivolution cards of this card.",
-        "If you were able to choose and trash 5 digivolution cards after the replacement, the condition will be met.",
-        "You can't meet the \"by\" condition by performing just some of the actions, therefore the condition won't be met if you trash less than the specified number of cards, such as when you trash 4 cards."
-      ],
+      "a": "You choose and trash 5 digivolution cards of this card. If you were able to choose and trash 5 digivolution cards after the replacement, the condition will be met. You can't meet the \"by\" condition by performing just some of the actions, therefore the condition won't be met if you trash less than the specified number of cards, such as when you trash 4 cards.",
       "date": "Apr. 4, 2025",
       "num": "Q2006",
       "q": "What happens when this card's [Opponent's Turn] effect replaces a \"by choosing 5 digivolution cards of this Digimon and trashing them\" effect?"
     },
     {
-      "a": [
-        "Yes, it can.",
-        "Once replaced, you choose and trash 2 digivolution cards of this card.",
-        "Related Cards"
-      ],
+      "a": "Yes, it can. Once replaced, you choose and trash 2 digivolution cards of this card.\n                                            \n                        Related Cards",
       "date": "Apr. 4, 2025",
       "num": "Q2007",
-      "q": "If BT8-022 [SnowAgumon]'s [On Play] effect is used to choose a Digimon without digivolution cards, can that effect's trashing be replaced by this card's [Opponent's Turn] effect?"
+      "q": "If BT8-022 [SnowAgumon]'s [On Play] effect is used to choose a Digimon without digivolution cards, can that effect's trashing be replaced by this card's [Opponent's Turn] effect?",
+      "relatedCards": [
+        "BT8-022"
+      ]
     },
     {
-      "a": [
-        "Yes, you can.",
-        "If you were able to choose and trash this card's digivolution cards after the replacement, the condition for BT10-077 [MadLeomon]'s [Opponent's Turn] effect will be met.",
-        "Related Cards"
-      ],
+      "a": "Yes, you can. If you were able to choose and trash this card's digivolution cards after the replacement, the condition for BT10-077 [MadLeomon]'s [Opponent's Turn] effect will be met.\n                                            \n                        Related Cards",
       "date": "Apr. 4, 2025",
       "num": "Q2008",
-      "q": "Can I activate this card's [Opponent's Turn] effect when I would choose and trash digivolution cards by activating the  [Opponent's Turn] effect on a BT10-077 [MadLeomon] without digivolution cards?"
+      "q": "Can I activate this card's [Opponent's Turn] effect when I would choose and trash digivolution cards by activating the  [Opponent's Turn] effect on a BT10-077 [MadLeomon] without digivolution cards?",
+      "relatedCards": [
+        "BT10-077"
+      ]
     }
   ],
   "Color": "Purple",

@@ -7,25 +7,16 @@
       "q": "What does \"while you have (the specified card) on the field\" mean, exactly?"
     },
     {
-      "a": [
-        "This effect prevents [When Digivolving] and [When Attacking] effects on cards from activating.",
-        "[When Digivolving] effects and [When Attacking] effects can no longer activate by triggering or when effects such as \"activate that card's [When Digivolving]\" effect\" activate."
-      ],
+      "a": "This effect prevents [When Digivolving] and [When Attacking] effects on cards from activating. [When Digivolving] effects and [When Attacking] effects can no longer activate by triggering or when effects such as \"activate that card's [When Digivolving]\" effect\" activate.",
       "date": "Dec. 25, 2025",
       "num": "Q5369",
       "q": "What does \"can't activate [When Digivolving] or [When Attacking] effects\" mean, exactly?"
     },
     {
-      "a": [
-        "Yes, you can.",
-        "The effect can activate if it activates upon the [End of Attack] timing."
-      ],
+      "a": "Yes, you can. The effect can activate if it activates upon the [End of Attack] timing.",
       "date": "Dec. 25, 2025",
       "num": "Q5370",
-      "q": [
-        "I used a card affected by \"can't activate [When Digivolving] or [When Attacking] effects\" to attack.",
-        "Can I activate that card's [When Digivolving] [End of Attack] effect at such times?"
-      ]
+      "q": "I used a card affected by \"can't activate [When Digivolving] or [When Attacking] effects\" to attack. Can I activate that card's [When Digivolving] [End of Attack] effect at such times?"
     },
     {
       "a": "No, it can't be activated.",
@@ -40,16 +31,10 @@
       "q": "If a card is given \"can't activate [When Digivolving] or [When Attacking] effects,\" can I process just the \"by\" condition for its [When Digivolving] or [When Attacking] effect?"
     },
     {
-      "a": [
-        "No, it doesn't count.",
-        "The effect can't activate upon the [When Digivolving] timing, therefore it doesn't count as an instance of that effect's [X Per Turn]."
-      ],
+      "a": "No, it doesn't count. The effect can't activate upon the [When Digivolving] timing, therefore it doesn't count as an instance of that effect's [X Per Turn].",
       "date": "Dec. 25, 2025",
       "num": "Q5373",
-      "q": [
-        "A card that was given \"can't activate [When Digivolving] or [When Attacking] effects\" digivolved into a card that has a [When Digivolving] [End of Attack] [Once Per Turn] effect.",
-        "Does that count as an instance of that effect's [X Per Turn] even if that effect can't be activated upon the timing when that card digivolved?"
-      ]
+      "q": "A card that was given \"can't activate [When Digivolving] or [When Attacking] effects\" digivolved into a card that has a [When Digivolving] [End of Attack] [Once Per Turn] effect. Does that count as an instance of that effect's [X Per Turn] even if that effect can't be activated upon the timing when that card digivolved?"
     }
   ],
   "Color": "Yellow",

@@ -2,29 +2,20 @@
   "Attribute": "Vaccine",
   "Card Q&A": [
     {
-      "a": [
-        "No, it isn't deleted yet.",
-        "Once all of the processing for this card's [When Digivolving] effect is resolved, then all of the Digimon with 0 DP are deleted at the same time."
-      ],
+      "a": "No, it isn't deleted yet. Once all of the processing for this card's [When Digivolving] effect is resolved, then all of the Digimon with 0 DP are deleted at the same time.",
       "date": "Dec. 25, 2025",
       "num": "Q5584",
-      "q": [
-        "I activated \"1 of your opponent's Digimon gets -5000 DP for the turn\" in this card's [When Digivolving] effect, and the DP of my opponent's Digimon became 0.",
-        "At such times, is that Digimon deleted before the part of the effect after \"then\"?"
-      ]
+      "q": "I activated \"1 of your opponent's Digimon gets -5000 DP for the turn\" in this card's [When Digivolving] effect, and the DP of my opponent's Digimon became 0. At such times, is that Digimon deleted before the part of the effect after \"then\"?"
     },
     {
-      "a": [
-        "Yes, you perform an additional security check.",
-        "Related Cards"
-      ],
+      "a": "Yes, you perform an additional security check.\n                                            \n                        Related Cards",
       "date": "Dec. 25, 2025",
       "num": "Q5585",
-      "q": [
-        "P-194 [Aegiomon] performs a security check, and when it would be deleted in battle against a Security Digimon,",
-        "prevents the deletion.",
-        "If I then use BT24-003 [Tsunomon] or BT24-084 [Inori Misono]'s effect to digivolve P-194 [Aegiomon] into this card, do I perform another security check using",
-        "?"
+      "q": "P-194 [Aegiomon] performs a security check, and when it would be deleted in battle against a Security Digimon,  prevents the deletion. If I then use BT24-003 [Tsunomon] or BT24-084 [Inori Misono]'s effect to digivolve P-194 [Aegiomon] into this card, do I perform another security check using ?",
+      "relatedCards": [
+        "P-194",
+        "BT24-003",
+        "BT24-084"
       ]
     }
   ],

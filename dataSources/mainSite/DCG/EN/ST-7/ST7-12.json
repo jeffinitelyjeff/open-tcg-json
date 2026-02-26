@@ -13,13 +13,13 @@
       "q": "Can I choose fewer cards than possible, even if the DP of the chosen cards adds up to less than 8000?"
     },
     {
-      "a": [
-        "No. When [BT4-066 Golemon] is deleted, reducing the DP of your opponent’s Digimon, this card’s effect will have already finished activating. As such, you cannot choose additional Digimon with this card’s effect midway.",
-        "Related Cards"
-      ],
+      "a": "No. When [BT4-066 Golemon] is deleted, reducing the DP of your opponent’s Digimon, this card’s effect will have already finished activating. As such, you cannot choose additional Digimon with this card’s effect midway.\n                                            \n                        Related Cards",
       "date": "Mar. 28, 2024",
       "num": "Q694",
-      "q": "My opponent has a [BT4-066 Golemon] in play. If [BT4-066 Golemon] is chosen as part of this card’s effect, [BT4-066 Golemon]’s deletion will cause my opponent’s black Digimon to each receive -1000 DP. Can I choose more of my opponent’s Digimon with this card’s effect to cover the gap to reach 8000 DP?"
+      "q": "My opponent has a [BT4-066 Golemon] in play. If [BT4-066 Golemon] is chosen as part of this card’s effect, [BT4-066 Golemon]’s deletion will cause my opponent’s black Digimon to each receive -1000 DP. Can I choose more of my opponent’s Digimon with this card’s effect to cover the gap to reach 8000 DP?",
+      "relatedCards": [
+        "BT4-066"
+      ]
     }
   ],
   "Color": "Red",

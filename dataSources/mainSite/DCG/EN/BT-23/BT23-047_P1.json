@@ -2,11 +2,7 @@
   "Attribute": "Data",
   "Card Q&A": [
     {
-      "a": [
-        "[Security] effects take precedence for activation.",
-        "Upon a security check, a [Security] effect will immediately activate without pending activation.",
-        "For other triggered effects, the turn player activates their effects first."
-      ],
+      "a": "[Security] effects take precedence for activation. Upon a security check, a [Security] effect will immediately activate without pending activation. For other triggered effects, the turn player activates their effects first.",
       "date": "Oct. 3, 2025",
       "num": "Q5313",
       "q": "What order do a [Security] effect, \"when [...] performs a security check\" effect, and \"when a card is removed from [...] security stack\" effect activate when they trigger simultaneously upon a security check?"
@@ -18,16 +14,12 @@
       "q": "What does the \"trash 1 Option card in your opponent's battle area\" effect do, exactly?"
     },
     {
-      "a": [
-        "Yes, you can.",
-        "If this card is used to check your opponent's security stack and P-035 [Red Memory Boost!] is revealed, this card's [Your Turn] effect will trigger at the same time. The [Security] effect will activate first, therefore P-035 [Red Memory Boost!]'s [Security] effect places that card in the battle area. You can then use the [Your Turn] effect that's pending activation on this card to trash that P-035 [Red Memory Boost!].",
-        "Related Cards"
-      ],
+      "a": "Yes, you can. If this card is used to check your opponent's security stack and P-035 [Red Memory Boost!] is revealed, this card's [Your Turn] effect will trigger at the same time. The [Security] effect will activate first, therefore P-035 [Red Memory Boost!]'s [Security] effect places that card in the battle area. You can then use the [Your Turn] effect that's pending activation on this card to trash that P-035 [Red Memory Boost!].\n                                            \n                        Related Cards",
       "date": "Oct. 3, 2025",
       "num": "Q5315",
-      "q": [
-        "When this card is used to check my opponent's security stack, P-035 [Red Memory Boost!] is checked, and its [Security] effect places that card in the battle area.",
-        "Can I then use this card's [Your Turn] effect to trash the P-035 [Red Memory Boost!] that was placed in the battle area?"
+      "q": "When this card is used to check my opponent's security stack, P-035 [Red Memory Boost!] is checked, and its [Security] effect places that card in the battle area. Can I then use this card's [Your Turn] effect to trash the P-035 [Red Memory Boost!] that was placed in the battle area?",
+      "relatedCards": [
+        "P-035"
       ]
     }
   ],

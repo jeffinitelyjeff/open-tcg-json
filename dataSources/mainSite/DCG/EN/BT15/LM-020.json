@@ -2,17 +2,10 @@
   "Attribute": "Data",
   "Card Q&A": [
     {
-      "a": [
-        "You choose and declare 1 card category. Then, you reveal the top card of your opponent's deck.",
-        "If that card is of the declared category, this Digimon isn't affected by the effects of that card category for the turn.",
-        "The revealed card is returned to the top or the bottom of your opponent's deck."
-      ],
+      "a": "You choose and declare 1 card category. Then, you reveal the top card of your opponent's deck. If that card is of the declared category, this Digimon isn't affected by the effects of that card category for the turn. The revealed card is returned to the top or the bottom of your opponent's deck.",
       "date": "Aug. 1, 2024",
       "num": "Q4003",
-      "q": [
-        "What does this card's [Start of Opponent's Turn] effect do, exactly?",
-        "(*This card's [Start of Opponent's Turn] effect has been changed to \"[Start of Opponent's Turn] Declare 1 card category. Then, reveal the top card of your opponent's deck. If that card is of the declared category, this Digimon isn't affected by the effects of that card category for the turn. Return the revealed card to the top or the bottom of your opponent's deck.\")"
-      ]
+      "q": "What does this card's [Start of Opponent's Turn] effect do, exactly? (*This card's [Start of Opponent's Turn] effect has been changed to \"[Start of Opponent's Turn] Declare 1 card category. Then, reveal the top card of your opponent's deck. If that card is of the declared category, this Digimon isn't affected by the effects of that card category for the turn. Return the revealed card to the top or the bottom of your opponent's deck.\")"
     },
     {
       "a": "Yes, you can.",
@@ -21,75 +14,52 @@
       "q": "Can I use this card's [Start of Opponent's Turn] effect to declare a card category such as Digi-Egg cards that can't be placed in decks?"
     },
     {
-      "a": [
-        "No, it's affected by such effects.",
-        "Inherited effects are gained and activated by Digimon, therefore such effects are considered Digimon effects.",
-        "In this case, inherited effects on Tamer cards in digivolution cards of Digimon are considered Digimon effects, therefore they will affect this card."
-      ],
+      "a": "No, it's affected by such effects. Inherited effects are gained and activated by Digimon, therefore such effects are considered Digimon effects. In this case, inherited effects on Tamer cards in digivolution cards of Digimon are considered Digimon effects, therefore they will affect this card.",
       "date": "Aug. 1, 2024",
       "num": "Q4005",
-      "q": [
-        "I used this card's [Start of Opponent's Turn] effect to prevent Tamer effects from affecting this card.",
-        "At such times, is this Digimon unaffected by inherited effects on Tamer cards in the digivolution cards of my opponent's Digimon?"
-      ]
+      "q": "I used this card's [Start of Opponent's Turn] effect to prevent Tamer effects from affecting this card. At such times, is this Digimon unaffected by inherited effects on Tamer cards in the digivolution cards of my opponent's Digimon?"
     },
     {
       "a": "Yes, it gains inherited effects.",
       "date": "Aug. 1, 2024",
       "num": "Q4006",
-      "q": [
-        "I used this card's [Start of Opponent's Turn] effect to prevent Digimon effects from affecting this card.",
-        "At such times, does this card still gain the inherited effects on Digimon cards in its digivolution cards?"
-      ]
+      "q": "I used this card's [Start of Opponent's Turn] effect to prevent Digimon effects from affecting this card. At such times, does this card still gain the inherited effects on Digimon cards in its digivolution cards?"
     },
     {
-      "a": [
-        "Yes, it isn't affected.",
-        "Effects activated by Security Digimon are considered Digimon effects."
-      ],
+      "a": "Yes, it isn't affected. Effects activated by Security Digimon are considered Digimon effects.",
       "date": "Aug. 1, 2024",
       "num": "Q4007",
-      "q": [
-        "I used this card's [Start of Opponent's Turn] effect to prevent Digimon effects from affecting this card.",
-        "At such times, is this card no longer affected by effects on my other Digimon?"
+      "q": "I used this card's [Start of Opponent's Turn] effect to prevent Digimon effects from affecting this card. At such times, is this card no longer affected by effects on my other Digimon?"
+    },
+    {
+      "a": "Yes, you can. If your [EX2-007 Mother D-Reaper] is chosen as the target to place in the security stack, it will ultimately be placed at the bottom of the Digi-Egg deck instead of the security stack according to the rules, but it meets this card's \"by placing 1 Digimon on top of its owner's security stack\" condition. A card isn't actually added to the security stack, therefore effects such as \"when a card is added to the security stack\" don't trigger.\n                                            \n                        Related Cards",
+      "date": "Mar. 28, 2024",
+      "num": "Q4008",
+      "q": "Can I use this card's [When Digivolving] effect to return my [EX2-007 Mother D-Reaper] from the battle area to the security stack, reveal all cards in my opponent's security stack, and place 1 card among them at the top of my opponent's deck?",
+      "relatedCards": [
+        "EX2-007"
       ]
     },
     {
-      "a": [
-        "Yes, you can.",
-        "If your [EX2-007 Mother D-Reaper] is chosen as the target to place in the security stack, it will ultimately be placed at the bottom of the Digi-Egg deck instead of the security stack according to the rules, but it meets this card's \"by placing 1 Digimon on top of its owner's security stack\" condition. A card isn't actually added to the security stack, therefore effects such as \"when a card is added to the security stack\" don't trigger.",
-        "Related Cards"
-      ],
-      "date": "Mar. 28, 2024",
-      "num": "Q4008",
-      "q": "Can I use this card's [When Digivolving] effect to return my [EX2-007 Mother D-Reaper] from the battle area to the security stack, reveal all cards in my opponent's security stack, and place 1 card among them at the top of my opponent's deck?"
-    },
-    {
-      "a": [
-        "Yes, you can.",
-        "If your token is chosen as the target to place in the security stack, it will ultimately be removed from the game instead of being placed in the security stack according to the rules, but it meets this card's \"by placing 1 Digimon on top of its owner's security stack\" condition. A card isn't actually added to the security stack, therefore effects such as \"when a card is added to the security stack\" don't trigger."
-      ],
+      "a": "Yes, you can. If your token is chosen as the target to place in the security stack, it will ultimately be removed from the game instead of being placed in the security stack according to the rules, but it meets this card's \"by placing 1 Digimon on top of its owner's security stack\" condition. A card isn't actually added to the security stack, therefore effects such as \"when a card is added to the security stack\" don't trigger.",
       "date": "Mar. 28, 2024",
       "num": "Q4009",
       "q": "Can I use this card's [When Digivolving] effect to return my token played as a Digimon from the battle area to the hand, reveal all cards in my opponent's security stack, and place 1 card among them at the top of my opponent's deck?"
     },
     {
-      "a": [
-        "No, it doesn’t trigger.",
-        "Related Cards"
-      ],
+      "a": "No, it doesn’t trigger.\n                                            \n                        Related Cards",
       "date": "Mar. 28, 2024",
       "num": "Q4010",
-      "q": "If I choose my [EX2-007 Mother D-Reaper] or token that is treated as a Digimon in the battle area as the target for this card's [When Digivolving] effect, it isn't placed in the security stack. In such cases, do \"when a card is removed from the security stack\" effects trigger because a card wasn't added to the security stack even though it normally should have been added?"
+      "q": "If I choose my [EX2-007 Mother D-Reaper] or token that is treated as a Digimon in the battle area as the target for this card's [When Digivolving] effect, it isn't placed in the security stack. In such cases, do \"when a card is removed from the security stack\" effects trigger because a card wasn't added to the security stack even though it normally should have been added?",
+      "relatedCards": [
+        "EX2-007"
+      ]
     },
     {
       "a": "Yes, it isn't affected.",
       "date": "Aug. 1, 2024",
       "num": "Q4011",
-      "q": [
-        "I used this card's [Start of Opponent's Turn] effect to prevent Digimon effects from affecting this card.",
-        "At such times, is this card no longer affected by effects on my other Digimon?"
-      ]
+      "q": "I used this card's [Start of Opponent's Turn] effect to prevent Digimon effects from affecting this card. At such times, is this card no longer affected by effects on my other Digimon?"
     }
   ],
   "Color": [

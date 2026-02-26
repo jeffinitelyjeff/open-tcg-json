@@ -2,34 +2,25 @@
   "Attribute": "Virus",
   "Card Q&A": [
     {
-      "a": [
-        "[Security] effects take precedence for activation.",
-        "Upon a security check, a [Security] effect will immediately activate without pending activation.",
-        "For other triggered effects, the turn player activates their effects first."
-      ],
+      "a": "[Security] effects take precedence for activation. Upon a security check, a [Security] effect will immediately activate without pending activation. For other triggered effects, the turn player activates their effects first.",
       "date": "Dec. 25, 2025",
       "num": "Q4537",
       "q": "In what order do a [Security] effect, \"when [...] performs a security check\" effect, and \"when a card is removed from [...] security stack\" effect activate when they trigger simultaneously upon a security check?"
     },
     {
-      "a": [
-        "The token of the player that activated this card's [All Turns] effect is played as an opponent's Digimon.",
-        "If the token played by this effect is removed from the field or the game ends, the token is returned to that player."
-      ],
+      "a": "The token of the player that activated this card's [All Turns] effect is played as an opponent's Digimon. If the token played by this effect is removed from the field or the game ends, the token is returned to that player.",
       "date": "Feb. 6, 2026",
       "num": "Q4538",
       "q": "Which player's token does this card's [All Turns] effect play as an opponent's Digimon?"
     },
     {
-      "a": [
-        "Yes, you can.",
-        "This card's [All Turns] effect plays one of your cards.",
-        "Cards can be played by your effects even after a \"your opponent can't play Digimon by effects\" effect has activated.",
-        "Related Cards"
-      ],
+      "a": "Yes, you can. This card's [All Turns] effect plays one of your cards. Cards can be played by your effects even after a \"your opponent can't play Digimon by effects\" effect has activated.\n                                            \n                        Related Cards",
       "date": "Apr. 4, 2025",
       "num": "Q4539",
-      "q": "Can I use this card's [All Turns] effect to play a [Petrification] Token during the turn I activated BT8-097 [Crimson Blaze]'s [Main] effect?"
+      "q": "Can I use this card's [All Turns] effect to play a [Petrification] Token during the turn I activated BT8-097 [Crimson Blaze]'s [Main] effect?",
+      "relatedCards": [
+        "BT8-097"
+      ]
     }
   ],
   "Color": "Red",

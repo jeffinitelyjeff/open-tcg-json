@@ -5,11 +5,7 @@
       "a": "Yes, you can.",
       "date": "Nov. 21, 2025",
       "num": "Q5417",
-      "q": [
-        "I used this card's {Hand} [Counter]",
-        "to digivolve my Digimon into this card during my opponent's counter timing, and I used its [When Digivolving] effect to play a [Pipe Fox] Token.",
-        "At such times, can I use the [Pipe Fox] Token to block during the block timing?"
-      ]
+      "q": "I used this card's {Hand} [Counter]  to digivolve my Digimon into this card during my opponent's counter timing, and I used its [When Digivolving] effect to play a [Pipe Fox] Token. At such times, can I use the [Pipe Fox] Token to block during the block timing?"
     },
     {
       "a": "As with the standard rules, a used Option card is temporarily treated as not being in any area. After using it and activating the Option card's [Main] effect, the card is trashed unless it's to be placed in an area.",
@@ -21,24 +17,16 @@
       "a": "Yes, you can.",
       "date": "Nov. 21, 2025",
       "num": "Q5419",
-      "q": [
-        "If I use this card to attack and use its [When Attacking] effect to play a [Pipe Fox] Token, can I then use",
-        "to suspend the [Pipe Fox] Token?"
-      ]
+      "q": "If I use this card to attack and use its [When Attacking] effect to play a [Pipe Fox] Token, can I then use  to suspend the [Pipe Fox] Token?"
     },
     {
-      "a": [
-        "No, you can't activate it.",
-        "is an effect that triggers upon an attack. In this case, ST22-04 [Taomon] attacks in its current state where this card's",
-        "hasn't triggered, therefore it can't activate.",
-        "Related Cards"
-      ],
+      "a": "No, you can't activate it.  is an effect that triggers upon an attack. In this case, ST22-04 [Taomon] attacks in its current state where this card's  hasn't triggered, therefore it can't activate.\n                                            \n                        Related Cards",
       "date": "Nov. 21, 2025",
       "num": "Q5420",
-      "q": [
-        "ST22-04 [Taomon] with ST22-01 [Viximon] in digivolution cards attacks, and I use ST22-04 [Taomon]'s [When Attacking] effect to use an Option card.",
-        "If I use ST22-01 [Viximon]'s inherited effect to digivolve this card at such times, can I activate this card's",
-        "?"
+      "q": "ST22-04 [Taomon] with ST22-01 [Viximon] in digivolution cards attacks, and I use ST22-04 [Taomon]'s [When Attacking] effect to use an Option card. If I use ST22-01 [Viximon]'s inherited effect to digivolve this card at such times, can I activate this card's ?",
+      "relatedCards": [
+        "ST22-01",
+        "ST22-04"
       ]
     }
   ],

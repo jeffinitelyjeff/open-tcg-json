@@ -7,26 +7,19 @@
       "q": "When a card with a [Main] inherited effect digivolves into a card with the [Flame] or [CS] trait, can I activate this card's [Your Turn] effect and activate that [Main] effect?"
     },
     {
-      "a": [
-        "After all of BT22-010 [Meramon]'s [Main] effect has resolved, then you process the part of the effect after \"if this activated any effect.\"",
-        "If you use BT22-010 [Meramon]'s effect to attack, you gain 1 memory after the attack declaration.",
-        "Related Cards"
-      ],
+      "a": "After all of BT22-010 [Meramon]'s [Main] effect has resolved, then you process the part of the effect after \"if this activated any effect.\" If you use BT22-010 [Meramon]'s effect to attack, you gain 1 memory after the attack declaration.\n                                            \n                        Related Cards",
       "date": "Jul. 4, 2025",
       "num": "Q4962",
-      "q": "If I use this card's [Your Turn] effect to activate BT22-010 [Meramon]'s [Main] effect, when do I process the part of the effect after \"if this activated any effect\"?"
+      "q": "If I use this card's [Your Turn] effect to activate BT22-010 [Meramon]'s [Main] effect, when do I process the part of the effect after \"if this activated any effect\"?",
+      "relatedCards": [
+        "BT22-010"
+      ]
     },
     {
-      "a": [
-        "No, you can't.",
-        "If a [Once Per Turn] effect activates, it can't activate again during the same turn."
-      ],
+      "a": "No, you can't. If a [Once Per Turn] effect activates, it can't activate again during the same turn.",
       "date": "Jul. 4, 2025",
       "num": "Q4963",
-      "q": [
-        "I used this card's [Your Turn] effect to activate a [Main] [Once Per Turn] effect.",
-        "Can I activate that [Main] [Once Per Turn] effect again during the same turn?"
-      ]
+      "q": "I used this card's [Your Turn] effect to activate a [Main] [Once Per Turn] effect. Can I activate that [Main] [Once Per Turn] effect again during the same turn?"
     }
   ],
   "Color": "Purple",

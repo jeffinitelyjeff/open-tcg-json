@@ -8,25 +8,19 @@
       "q": "What cards can be placed as a security card by this card's [On Play] [When Digivolving] effect?"
     },
     {
-      "a": [
-        "Yes, you reveal it.",
-        "After revealing the card to your opponent, you place it as a security card."
-      ],
+      "a": "Yes, you reveal it. After revealing the card to your opponent, you place it as a security card.",
       "date": "Nov. 21, 2025",
       "num": "Q4025",
       "q": "When I use this card's [On Play] [When Digivolving] effect to place a card as a security card, do I reveal the card to my opponent?"
     },
     {
-      "a": [
-        "Yes, you can.",
-        "If a card's use cost itself is reduced when it's used from the hand and the use cost is 5 or less, this card's [On Play] [When Digivolving] effect can place that card as a security card.",
-        "Related Cards"
-      ],
+      "a": "Yes, you can. If a card's use cost itself is reduced when it's used from the hand and the use cost is 5 or less, this card's [On Play] [When Digivolving] effect can place that card as a security card.\n                                            \n                        Related Cards",
       "date": "Nov. 21, 2025",
       "num": "Q5516",
-      "q": [
-        "An Option card's use cost is 5 or less when used from the hand due to an effect such as BT2-099 [Glorious Burst] or BT8-097 [Crimson Blaze]'s 1st effect.",
-        "Can I use this card's [On Play] [When Digivolving] effect to place that card as a security card?"
+      "q": "An Option card's use cost is 5 or less when used from the hand due to an effect such as BT2-099 [Glorious Burst] or BT8-097 [Crimson Blaze]'s 1st effect. Can I use this card's [On Play] [When Digivolving] effect to place that card as a security card?",
+      "relatedCards": [
+        "BT2-099",
+        "BT8-097"
       ]
     },
     {
@@ -36,11 +30,7 @@
       "q": "If the \"when you use an Option card\" effect triggers, what is the timing when it can activate?"
     },
     {
-      "a": [
-        "No, it doesn't trigger.",
-        "If an Option card's effect activates without using it, such as activation by a [Security] effect or",
-        ", the \"when you use an Option card\" effect doesn't trigger."
-      ],
+      "a": "No, it doesn't trigger. If an Option card's effect activates without using it, such as activation by a [Security] effect or , the \"when you use an Option card\" effect doesn't trigger.",
       "date": "Nov. 21, 2025",
       "num": "Q5518",
       "q": "Does the \"when you use an Option card\" effect trigger if an Option card's effect activates by a method other than using the card?"

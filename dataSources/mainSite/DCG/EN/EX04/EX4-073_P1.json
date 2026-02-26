@@ -2,46 +2,30 @@
   "Attribute": "Virus",
   "Card Q&A": [
     {
-      "a": [
-        "No, you can't.",
-        "You must delete at least 1 of your opponent's Digimon."
-      ],
+      "a": "No, you can't. You must delete at least 1 of your opponent's Digimon.",
       "date": "Oct. 3, 2025",
       "num": "Q3519",
       "q": "Can I choose to not delete any of my opponent's Digimon by not choosing them for this card's [When Digivolving] effect?"
     },
     {
-      "a": [
-        "No, you can't.",
-        "If this card's [When Attacking] effect activates, you must trash at least 1 card from digivolution cards.",
-        "However, if you choose to not activate this effect, it won't activate, and no digivolution cards will be trashed."
-      ],
+      "a": "No, you can't. If this card's [When Attacking] effect activates, you must trash at least 1 card from digivolution cards. However, if you choose to not activate this effect, it won't activate, and no digivolution cards will be trashed.",
       "date": "Oct. 3, 2025",
       "num": "Q3520",
       "q": "Can I activate this card's [When Attacking] effect, but then choose to not trash any cards in this card's digivolution cards?"
     },
     {
-      "a": [
-        "No, the 2 Digimon or Tamers aren't deleted at the same time.",
-        "You repeat this card's [When Attacking] effect of deleting 1 of your opponent's Digimon or Tamers with the lowest play cost for each card trashed from digivolution cards.",
-        "In this case, you trashed 2 digivolution cards, therefore you first delete 1 of your opponent's Digimon or Tamers with the lowest play cost, then you again delete 1 of their Digimon or Tamers with the lowest play cost."
-      ],
+      "a": "No, the 2 Digimon or Tamers aren't deleted at the same time. You repeat this card's [When Attacking] effect of deleting 1 of your opponent's Digimon or Tamers with the lowest play cost for each card trashed from digivolution cards. In this case, you trashed 2 digivolution cards, therefore you first delete 1 of your opponent's Digimon or Tamers with the lowest play cost, then you again delete 1 of their Digimon or Tamers with the lowest play cost.",
       "date": "Oct. 3, 2025",
       "num": "Q3521",
       "q": "If I trash 2 digivolution cards for this card's [When Attacking] effect, do I delete 2 of my opponent's Digimon or Tamers at the same time?"
     },
     {
-      "a": [
-        "No, you can't.",
-        "You repeat this card's [When Attacking] effect of deleting 1 of your opponent's Digimon or Tamers with the lowest play cost for each card trashed from digivolution cards.",
-        "In this case, you choose BT14-062 [Datamon] as the Digimon with the lowest play cost, but its effect prevents it from being deleted both times.",
-        "Related Cards"
-      ],
+      "a": "No, you can't. You repeat this card's [When Attacking] effect of deleting 1 of your opponent's Digimon or Tamers with the lowest play cost for each card trashed from digivolution cards. In this case, you choose BT14-062 [Datamon] as the Digimon with the lowest play cost, but its effect prevents it from being deleted both times.\n                                            \n                        Related Cards",
       "date": "Oct. 3, 2025",
       "num": "Q3522",
-      "q": [
-        "My opponent has BT14-062 [Datamon] and a Digimon with a play cost of 7.",
-        "If I trash 2 digivolution cards for this card's [When Attacking] effect, can I delete  BT14-062 [Datamon] and the Digimon with a play cost of 7?"
+      "q": "My opponent has BT14-062 [Datamon] and a Digimon with a play cost of 7. If I trash 2 digivolution cards for this card's [When Attacking] effect, can I delete  BT14-062 [Datamon] and the Digimon with a play cost of 7?",
+      "relatedCards": [
+        "BT14-062"
       ]
     }
   ],

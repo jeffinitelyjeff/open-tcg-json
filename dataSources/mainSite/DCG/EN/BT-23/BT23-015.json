@@ -2,32 +2,19 @@
   "Attribute": "Vaccine",
   "Card Q&A": [
     {
-      "a": [
-        "No, it can't be activated.",
-        "When a card with an effect that's pending activation leaves its current area while activation is pending, the effect can no longer be activated.",
-        "In this case, the deleted card's [On Deletion] effect triggers, but it's removed from the trash before the effect can activate."
-      ],
+      "a": "No, it can't be activated. When a card with an effect that's pending activation leaves its current area while activation is pending, the effect can no longer be activated. In this case, the deleted card's [On Deletion] effect triggers, but it's removed from the trash before the effect can activate.",
       "date": "Oct. 3, 2025",
       "num": "Q5230",
-      "q": [
-        "I used this card's [On Play] [When Digivolving] [When Attacking] effect to delete an opponent's Digimon with an [On Deletion] effect, and I used the part of the effect after \"then\" to return that card from their trash to the bottom of the deck.",
-        "Can that deleted card's [On Deletion] effect activate at such times?"
-      ]
+      "q": "I used this card's [On Play] [When Digivolving] [When Attacking] effect to delete an opponent's Digimon with an [On Deletion] effect, and I used the part of the effect after \"then\" to return that card from their trash to the bottom of the deck. Can that deleted card's [On Deletion] effect activate at such times?"
     },
     {
-      "a": [
-        "They become face-up security cards that remain revealed.",
-        "Other than rules that specify face-up security cards, the rules apply in the same manner as standard security cards."
-      ],
+      "a": "They become face-up security cards that remain revealed. Other than rules that specify face-up security cards, the rules apply in the same manner as standard security cards.",
       "date": "Oct. 3, 2025",
       "num": "Q5231",
       "q": "What happens to cards placed face up in the security stack by effects?"
     },
     {
-      "a": [
-        "The check is performed with the card left revealed.",
-        "Other than rules for cards left revealed, the rules apply in the same manner as standard security checks."
-      ],
+      "a": "The check is performed with the card left revealed. Other than rules for cards left revealed, the rules apply in the same manner as standard security checks.",
       "date": "Oct. 3, 2025",
       "num": "Q5232",
       "q": "What happens upon a security check for a security card that is placed face-up?"
@@ -39,10 +26,7 @@
       "q": "Does a card's [Security] effect trigger upon a security check with that card placed face-up?"
     },
     {
-      "a": [
-        "Any face-up cards are placed face down, then you shuffle the cards.",
-        "After shuffling, all cards are left face-down."
-      ],
+      "a": "Any face-up cards are placed face down, then you shuffle the cards. After shuffling, all cards are left face-down.",
       "date": "Oct. 3, 2025",
       "num": "Q5234",
       "q": "What happens if I shuffle a security stack that includes security cards placed face-up?"

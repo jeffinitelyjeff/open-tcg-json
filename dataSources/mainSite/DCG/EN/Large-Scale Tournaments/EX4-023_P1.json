@@ -8,23 +8,22 @@
       "q": "Is the card placed on top of my security stack by this card’s effect the Digimon played by my opponent or the card revealed from my hand?"
     },
     {
-      "a": [
-        "You can activate the effect, but you can't add cards to your security stack, therefore the revealed card can't be added to your security stack and is trashed by the rules.",
-        "Related Cards"
-      ],
+      "a": "You can activate the effect, but you can't add cards to your security stack, therefore the revealed card can't be added to your security stack and is trashed by the rules.\n                                            \n                        Related Cards",
       "date": "Mar. 28, 2024",
       "num": "Q3464",
-      "q": "Can I activate this card's [Opponent's Turn] effect when [BT9-103 Kongou]'s effect is preventing cards from being added to my security stack?"
+      "q": "Can I activate this card's [Opponent's Turn] effect when [BT9-103 Kongou]'s effect is preventing cards from being added to my security stack?",
+      "relatedCards": [
+        "BT9-103"
+      ]
     },
     {
-      "a": [
-        "No, you can't.",
-        "[EX2-045 Calumon] is a card with no level, so it isn't considered to have the same level even though it's the same card, and you can't use this card's effect to reveal it.",
-        "Related Cards"
-      ],
+      "a": "No, you can't.[EX2-045 Calumon] is a card with no level, so it isn't considered to have the same level even though it's the same card, and you can't use this card's effect to reveal it.\n                                            \n                        Related Cards",
       "date": "Mar. 28, 2024",
       "num": "Q3465",
-      "q": "Can I use this card's [Opponent's Turn] effect to reveal [EX2-045 Calumon] from my hand when my opponent plays a Lv.- [EX2-045 Calumon]?"
+      "q": "Can I use this card's [Opponent's Turn] effect to reveal [EX2-045 Calumon] from my hand when my opponent plays a Lv.- [EX2-045 Calumon]?",
+      "relatedCards": [
+        "EX2-045"
+      ]
     }
   ],
   "Color": "Yellow",

@@ -14,25 +14,16 @@
       "q": "I attack an opponent's Digimon with this Digimon, and use its [When Attacking] effect to delete the opposing Digimon. What happens to the attack?"
     },
     {
-      "a": [
-        "No. You didn't delete the opponent's Digimon in battle, so",
-        "doesn't activate."
-      ],
+      "a": "No. You didn't delete the opponent's Digimon in battle, so  doesn't activate.",
       "date": "Mar. 28, 2024",
       "num": "Q1387",
-      "q": [
-        "I attack an opponent's Digimon with this Digimon, and use its [When Attacking] effect to delete the opposing Digimon. If this Digimon has",
-        ", can I check the opponent's security cards?"
-      ]
+      "q": "I attack an opponent's Digimon with this Digimon, and use its [When Attacking] effect to delete the opposing Digimon. If this Digimon has , can I check the opponent's security cards?"
     },
     {
       "a": "Yes, you can. If you do, the blocking Digimon will battle this Digimon.",
       "date": "Mar. 28, 2024",
       "num": "Q1388",
-      "q": [
-        "My opponent attacks one of my Digimon with this Digimon, using its [When Attacking] effect to delete my Digimon. Can I use another Digimon with",
-        "to block the attack?"
-      ]
+      "q": "My opponent attacks one of my Digimon with this Digimon, using its [When Attacking] effect to delete my Digimon. Can I use another Digimon with  to block the attack?"
     },
     {
       "a": "No. This effect is activated at counter timing, which means it only activates after the [When Attacking] effect has finished activating.",
@@ -47,13 +38,13 @@
       "q": "My opponent's Digimon used a [When Attacking] effect to delete one of my Digimon with an [On Deletion] effect. If I use this card's [Opponent's Turn] effect to end the attack, does the [On Deletion] effect activate?"
     },
     {
-      "a": [
-        "Yes, you can.",
-        "Related Cards"
-      ],
+      "a": "Yes, you can.\n                                            \n                        Related Cards",
       "date": "Mar. 28, 2024",
       "num": "Q1391",
-      "q": "My opponent attacks with a Digimon. After activating my [BT1-082 Rosemon]'s effect, can I use this card's [Opponent's Turn] effect to end the attack?"
+      "q": "My opponent attacks with a Digimon. After activating my [BT1-082 Rosemon]'s effect, can I use this card's [Opponent's Turn] effect to end the attack?",
+      "relatedCards": [
+        "BT1-082"
+      ]
     },
     {
       "a": "No. The battle has already concluded, which means the counter timing window for activating the effect has passed, so you can't activate this effect.",

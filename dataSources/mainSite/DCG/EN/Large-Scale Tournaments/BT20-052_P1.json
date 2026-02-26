@@ -5,25 +5,16 @@
       "a": "The 2nd card from the top of their security stack is flipped to face up.",
       "date": "Jan. 24, 2025",
       "num": "Q4375",
-      "q": [
-        "Only the top card of my opponent's security card is face up.",
-        "If this card's [When Digivolving] effect activates, what security card is flipped to face up?"
-      ]
+      "q": "Only the top card of my opponent's security card is face up. If this card's [When Digivolving] effect activates, what security card is flipped to face up?"
     },
     {
-      "a": [
-        "They become face-up security cards that remain revealed.",
-        "Other than rules that specify face-up security cards, the rules apply in the same manner as standard security cards."
-      ],
+      "a": "They become face-up security cards that remain revealed. Other than rules that specify face-up security cards, the rules apply in the same manner as standard security cards.",
       "date": "Jan. 24, 2025",
       "num": "Q4376",
       "q": "What happens to cards placed face up in the security stack by effects?"
     },
     {
-      "a": [
-        "The check is performed with the card left revealed.",
-        "Other than rules for cards left revealed, the rules apply in the same manner as standard security checks."
-      ],
+      "a": "The check is performed with the card left revealed. Other than rules for cards left revealed, the rules apply in the same manner as standard security checks.",
       "date": "Jan. 24, 2025",
       "num": "Q4377",
       "q": "What happens upon a security check for a security card that is placed face-up?"
@@ -35,20 +26,13 @@
       "q": "Does a card's [Security] effect trigger upon a security check with that card placed face-up?"
     },
     {
-      "a": [
-        "Any face-up cards are placed face down, then you shuffle the cards.",
-        "After shuffling, all cards are left face-down."
-      ],
+      "a": "Any face-up cards are placed face down, then you shuffle the cards. After shuffling, all cards are left face-down.",
       "date": "Jan. 24, 2025",
       "num": "Q4379",
       "q": "What happens if I shuffle a security stack that includes security cards placed face-up?"
     },
     {
-      "a": [
-        "[Security] effects take precedence for activation.",
-        "Upon a security check, a [Security] effect will immediately activate without pending activation.",
-        "For other triggered effects, the turn player activates their effects first."
-      ],
+      "a": "[Security] effects take precedence for activation. Upon a security check, a [Security] effect will immediately activate without pending activation. For other triggered effects, the turn player activates their effects first.",
       "date": "Jan. 24, 2025",
       "num": "Q4380",
       "q": "What order do a [Security] effect, \"when [...] performs a security check\" effect, and \"when a card is removed from [...] security stack\" effect activate when they trigger simultaneously upon a security check?"
@@ -63,19 +47,16 @@
       "a": "You lose the game.",
       "date": "Jun. 13, 2025",
       "num": "Q4719",
-      "q": [
-        "An opponent's Digimon attacks a player by an effect at the end of their turn.",
-        "What happens if this card's {Security} [End of Opponent's Turn] effect then plays this card, my security stack is reduced to 0 cards, and the attack against the player is successful?"
-      ]
+      "q": "An opponent's Digimon attacks a player by an effect at the end of their turn. What happens if this card's {Security} [End of Opponent's Turn] effect then plays this card, my security stack is reduced to 0 cards, and the attack against the player is successful?"
     },
     {
-      "a": [
-        "This card stacked on top is gone, causing this Digimon to become a Tamer, therefore the attacking Digimon will no longer be present.",
-        "Related Cards"
-      ],
+      "a": "This card stacked on top is gone, causing this Digimon to become a Tamer, therefore the attacking Digimon will no longer be present.\n                                            \n                        Related Cards",
       "date": "Feb. 6, 2026",
       "num": "Q4720",
-      "q": "What happens if this card has just BT15-086 [Marvin Jackson] in its digivolution cards, it performs a security check on a face-up security card, and this card's [Your Turn] effect activates?"
+      "q": "What happens if this card has just BT15-086 [Marvin Jackson] in its digivolution cards, it performs a security check on a face-up security card, and this card's [Your Turn] effect activates?",
+      "relatedCards": [
+        "BT15-086"
+      ]
     }
   ],
   "Color": [

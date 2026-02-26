@@ -8,10 +8,7 @@
       "q": "This card’s [When Digivolving] effect reads “Delete 1 of your opponent's Digimon with 10000 DP or less. If no Digimon was deleted by this effect...” What situations does “If no Digimon was deleted by this effect” refer to, specifically?"
     },
     {
-      "a": [
-        "No. If there’s a valid target in play, you must choose it with the effect.",
-        "You can't choose to NOT activate the effect."
-      ],
+      "a": "No. If there’s a valid target in play, you must choose it with the effect. You can't choose to NOT activate the effect.",
       "date": "Mar. 28, 2024",
       "num": "Q3299",
       "q": "My opponent has a Digimon with 10000 DP or less in play. Can I choose not to delete my opponent’s Digimon with this card’s [When Digivolving] effect so we both trash the top 5 cards of our deck?"
@@ -23,36 +20,25 @@
       "q": "My opponent has a Digimon with 10000 DP or less and an effect that reads, “This Digimon can't be deleted by your opponent’s effects,” and another Digimon with 10000 DP or less but no effect. Can I intentionally have this card’s [When Digivolving] effect target the Digimon with the effect preventing deletion to have us both trash the top 5 cards of our decks?"
     },
     {
-      "a": [
-        "Yes, you can.",
-        "Related Cards"
-      ],
+      "a": "Yes, you can.\n                                            \n                        Related Cards",
       "date": "Mar. 28, 2024",
       "num": "Q3301",
-      "q": "If [EX2-008 Guilmon]’s [On Play] effect reveals this card from my deck, can I add it to my hand as a card that has [Gallantmon] in its name?"
+      "q": "If [EX2-008 Guilmon]’s [On Play] effect reveals this card from my deck, can I add it to my hand as a card that has [Gallantmon] in its name?",
+      "relatedCards": [
+        "EX2-008"
+      ]
     },
     {
-      "a": [
-        "Yes. The Digimon chosen as a target for this effect is not deleted, and the Digimon that activates",
-        "is deleted by the effect of",
-        "and not this effect. As such, the condition is satisfied for \"if no Digimon was deleted by this effect,\" and both players will trash the top 5 cards of their decks."
-      ],
+      "a": "Yes. The Digimon chosen as a target for this effect is not deleted, and the Digimon that activates  is deleted by the effect of  and not this effect. As such, the condition is satisfied for \"if no Digimon was deleted by this effect,\" and both players will trash the top 5 cards of their decks.",
       "date": "Mar. 28, 2024",
       "num": "Q3302",
-      "q": [
-        "I try to delete an opponent's Digimon with this card’s [When Digivolving] effect, and my opponent activates",
-        "to prevent the chosen Digimon from being deleted. If the Digimon that activated",
-        "is deleted, does the “if no Digimon was deleted by this effect” part of this card's effect still activate?"
-      ]
+      "q": "I try to delete an opponent's Digimon with this card’s [When Digivolving] effect, and my opponent activates  to prevent the chosen Digimon from being deleted. If the Digimon that activated  is deleted, does the “if no Digimon was deleted by this effect” part of this card's effect still activate?"
     },
     {
       "a": "This is a special rule for this card that always treats it as if it also has the [ChaosGallantmon] name.",
       "date": "Aug. 1, 2024",
       "num": "Q3303",
-      "q": [
-        "What does this card's (Rule) mean, exactly?",
-        "(*This card's \"The name of this card/Digimon is also treated as [ChaosGallantmon]\" has been changed to \"(Rule) Name: Also treated as [ChaosGallantmon].\")"
-      ]
+      "q": "What does this card's (Rule) mean, exactly?(*This card's \"The name of this card/Digimon is also treated as [ChaosGallantmon]\" has been changed to \"(Rule) Name: Also treated as [ChaosGallantmon].\")"
     }
   ],
   "Color": [

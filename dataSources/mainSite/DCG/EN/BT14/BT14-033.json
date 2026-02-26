@@ -14,26 +14,19 @@
       "q": "Can I use an effect that digivolves my Digimon to digivolve this card into a security card with the [Vaccine] trait?"
     },
     {
-      "a": [
-        "Yes.",
-        "added a card to your security, so you gain 1 memory.",
-        "Related Cards"
-      ],
+      "a": "Yes.  added a card to your security, so you gain 1 memory.\n                                            \n                        Related Cards",
       "date": "Mar. 28, 2024",
       "num": "Q2409",
-      "q": [
-        "I have a Digimon in play with this card in its digivolution cards. [BT1-087 T.K. Takaishi]’s effect adds a yellow card from my security stack to my hand, and",
-        "adds a card to my security stack. The number of cards in my security stack ultimately remained the same, but can I still gain 1 memory from this card’s inherited effect?"
+      "q": "I have a Digimon in play with this card in its digivolution cards. [BT1-087 T.K. Takaishi]’s effect adds a yellow card from my security stack to my hand, and  adds a card to my security stack. The number of cards in my security stack ultimately remained the same, but can I still gain 1 memory from this card’s inherited effect?",
+      "relatedCards": [
+        "BT1-087"
       ]
     },
     {
       "a": "Yes, they trigger simultaneously.",
       "date": "Jun. 21, 2024",
       "num": "Q2410",
-      "q": [
-        "I used this card's [Start of Your Main Phase] effect to digivolve from a security card, then place a card from my hand at the bottom of the security stack.",
-        "Do \"when a card is added to the security stack\" and \"when a card is removed from the security stack\" effects trigger simultaneously at such times?"
-      ]
+      "q": "I used this card's [Start of Your Main Phase] effect to digivolve from a security card, then place a card from my hand at the bottom of the security stack. Do \"when a card is added to the security stack\" and \"when a card is removed from the security stack\" effects trigger simultaneously at such times?"
     }
   ],
   "Color": "Yellow",

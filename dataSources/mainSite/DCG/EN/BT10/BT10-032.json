@@ -14,48 +14,32 @@
       "q": "If the \"when you use an Option card\" effect triggers, what is the timing when it can activate?"
     },
     {
-      "a": [
-        "No, it doesn't trigger.",
-        "If an Option card's effect activates without using it, such as activation by a [Security] effect or",
-        ", the \"when you use an Option card\" effect doesn't trigger."
-      ],
+      "a": "No, it doesn't trigger. If an Option card's effect activates without using it, such as activation by a [Security] effect or , the \"when you use an Option card\" effect doesn't trigger.",
       "date": "Nov. 21, 2025",
       "num": "Q1955",
       "q": "Does the \"when you use an Option card\" effect trigger if an Option card's effect activates by a method other than using the card?"
     },
     {
-      "a": [
-        "No, it doesn't trigger.",
-        "If a card's cost itself is reduced when it's used from the hand, it's considered to be using an Option card with a use cost after the reduction is applied. Therefore, the \"when you use an Option card with a use cost of 2 or more\" effect doesn't trigger.",
-        "Related Cards"
-      ],
+      "a": "No, it doesn't trigger. If a card's cost itself is reduced when it's used from the hand, it's considered to be using an Option card with a use cost after the reduction is applied. Therefore, the \"when you use an Option card with a use cost of 2 or more\" effect doesn't trigger.\n                                            \n                        Related Cards",
       "date": "Nov. 21, 2025",
       "num": "Q1956",
-      "q": [
-        "An Option card's use cost is 1 or less when used from the hand due to an effect such as BT2-099 [Glorious Burst] or BT8-097 [Crimson Blaze]'s 1st effect.",
-        "When such a card is used, does this card's \"when you use an Option card with a use cost of 2 or more\" effect trigger?"
+      "q": "An Option card's use cost is 1 or less when used from the hand due to an effect such as BT2-099 [Glorious Burst] or BT8-097 [Crimson Blaze]'s 1st effect. When such a card is used, does this card's \"when you use an Option card with a use cost of 2 or more\" effect trigger?",
+      "relatedCards": [
+        "BT2-099",
+        "BT8-097"
       ]
     },
     {
-      "a": [
-        "Yes, it triggers.",
-        "If the card's cost to pay is reduced and not the use cost itself, it's considered to be using an Option card with its original value as its use cost. Therefore, the \"when you use an Option card with a use cost of 2 or more\" effect triggers."
-      ],
+      "a": "Yes, it triggers. If the card's cost to pay is reduced and not the use cost itself, it's considered to be using an Option card with its original value as its use cost. Therefore, the \"when you use an Option card with a use cost of 2 or more\" effect triggers.",
       "date": "Nov. 21, 2025",
       "num": "Q1957",
-      "q": [
-        "An Option card has an original use cost of 2 or more, and I use it when the cost to pay is reduced to 1 or less.",
-        "At such times, does this card's \"when you use an Option card with a use cost of 2 or more\" effect trigger?"
-      ]
+      "q": "An Option card has an original use cost of 2 or more, and I use it when the cost to pay is reduced to 1 or less. At such times, does this card's \"when you use an Option card with a use cost of 2 or more\" effect trigger?"
     },
     {
       "a": "Yes, it triggers.",
       "date": "Nov. 21, 2025",
       "num": "Q5450",
-      "q": [
-        "I used an effect to use an Option card with an original use cost of 2 or more without paying the cost.",
-        "At such times, does this card's \"when you use an Option card with a use cost of 2 or more\" effect trigger?"
-      ]
+      "q": "I used an effect to use an Option card with an original use cost of 2 or more without paying the cost. At such times, does this card's \"when you use an Option card with a use cost of 2 or more\" effect trigger?"
     }
   ],
   "Color": "Yellow",

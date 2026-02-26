@@ -2,10 +2,7 @@
   "Attribute": "Data",
   "Card Q&A": [
     {
-      "a": [
-        "This effect prevents players from ignoring digivolution requirements.",
-        "This effect affects both players."
-      ],
+      "a": "This effect prevents players from ignoring digivolution requirements. This effect affects both players.",
       "date": "Sep. 20, 2024",
       "num": "Q1738",
       "q": "What does a \"players can't ignore digivolution requirements\" effect do, exactly?"
@@ -17,10 +14,7 @@
       "q": "Is DNA digivolution or Burst Digivolve possible while a \"players can't ignore digivolution requirements\" effect is activated?"
     },
     {
-      "a": [
-        "Yes, such digivolving is still possible.",
-        "Digivolving without paying the cost isn't the same as ignoring the digivolution requirements."
-      ],
+      "a": "Yes, such digivolving is still possible. Digivolving without paying the cost isn't the same as ignoring the digivolution requirements.",
       "date": "Sep. 20, 2024",
       "num": "Q1740",
       "q": "Is digivolution without paying the cost possible while a \"players can't ignore digivolution requirements\" effect is activated?"
@@ -32,23 +26,22 @@
       "q": "If a \"players can't ignore digivolution requirements\" effect is activated, is digivolution possible using effects such as those that ignore parts of the digivolution requirements such as levels?"
     },
     {
-      "a": [
-        "No, such digivolution isn't possible.",
-        "Related Cards"
-      ],
+      "a": "No, such digivolution isn't possible.\n                                            \n                        Related Cards",
       "date": "Sep. 20, 2024",
       "num": "Q1742",
-      "q": "Is digivolution using BT10-067 [Justimon: Critical Arm]'s [When Attacking] effect possible while a \"players can't ignore digivolution requirements\" effect is activated?"
+      "q": "Is digivolution using BT10-067 [Justimon: Critical Arm]'s [When Attacking] effect possible while a \"players can't ignore digivolution requirements\" effect is activated?",
+      "relatedCards": [
+        "BT10-067"
+      ]
     },
     {
-      "a": [
-        "Yes, such digivolution is possible.",
-        "Effects that add to card information for digivolution aren't the same as effects that ignore digivolution requirements.",
-        "Related Cards"
-      ],
+      "a": "Yes, such digivolution is possible. Effects that add to card information for digivolution aren't the same as effects that ignore digivolution requirements.\n                                            \n                        Related Cards",
       "date": "Sep. 20, 2024",
       "num": "Q1743",
-      "q": "Is digivolution from a Tamer using BT4-011 [Agunimon]'s 1st effect possible while a \"players can't ignore digivolution requirements\" effect is activated?"
+      "q": "Is digivolution from a Tamer using BT4-011 [Agunimon]'s 1st effect possible while a \"players can't ignore digivolution requirements\" effect is activated?",
+      "relatedCards": [
+        "BT4-011"
+      ]
     }
   ],
   "Color": "Black",

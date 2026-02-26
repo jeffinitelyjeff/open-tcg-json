@@ -20,13 +20,13 @@
       "q": "An effect that reads, “Reveal a card from your deck” reveals this card and trashes it. Does this card's “When this card is trashed from your deck” effect activate?"
     },
     {
-      "a": [
-        "Yes. This effect specifies a specific card number (EX2-039 Impmon), so as long as the effect is from a card with a different card number, the effect will activate.",
-        "Related Cards"
-      ],
+      "a": "Yes. This effect specifies a specific card number (EX2-039 Impmon), so as long as the effect is from a card with a different card number, the effect will activate.\n                                            \n                        Related Cards",
       "date": "Mar. 28, 2024",
       "num": "Q3336",
-      "q": "If the effect of [BT2-068 Impmon] trashes this card from my deck, does this card’s “When this card is trashed from your deck” effect activate?"
+      "q": "If the effect of [BT2-068 Impmon] trashes this card from my deck, does this card’s “When this card is trashed from your deck” effect activate?",
+      "relatedCards": [
+        "BT2-068"
+      ]
     }
   ],
   "Color": "Purple",

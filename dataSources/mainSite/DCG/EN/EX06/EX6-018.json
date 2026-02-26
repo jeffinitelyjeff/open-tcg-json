@@ -8,10 +8,7 @@
       "q": "Does this card's \"when you would play this card\" effect also activate when this card would be played by an effect?"
     },
     {
-      "a": [
-        "Yes, you can.",
-        "Even if the part after the conditions specified with \"by X\" in an effect can't be resolved, the effect can still activate."
-      ],
+      "a": "Yes, you can. Even if the part after the conditions specified with \"by X\" in an effect can't be resolved, the effect can still activate.",
       "date": "Mar. 28, 2024",
       "num": "Q3715",
       "q": "Can I use this card's [End of Your Turn] effect to place 1 of my level 6 Digimon on top of my security stack even when I don't have [Lucemon: Chaos Mode] in my trash?"
@@ -23,14 +20,13 @@
       "q": "Can I use this card's [End of Your Turn] effect to place 1 of my level 6 Digimon on top of my security stack but choose to not digivolve this Digimon into [Lucemon: Chaos Mode] in my trash?"
     },
     {
-      "a": [
-        "No, you can't.",
-        "You can’t ignore the digivolution requirements.",
-        "Related Cards"
-      ],
+      "a": "No, you can't. You can’t ignore the digivolution requirements.\n                                            \n                        Related Cards",
       "date": "Sep. 5, 2025",
       "num": "Q5002",
-      "q": "Can I use this card's [End of Your Turn] effect to digivolve into a BT7-111 [Lucemon: Chaos Mode] in the trash?"
+      "q": "Can I use this card's [End of Your Turn] effect to digivolve into a BT7-111 [Lucemon: Chaos Mode] in the trash?",
+      "relatedCards": [
+        "BT7-111"
+      ]
     }
   ],
   "Color": "Yellow",

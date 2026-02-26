@@ -2,10 +2,7 @@
   "Attribute": "Virus",
   "Card Q&A": [
     {
-      "a": [
-        "The player that activated this card's effect.",
-        "The cards to return and their order are chosen by the player that activated this effect, then they are returned to the deck."
-      ],
+      "a": "The player that activated this card's effect. The cards to return and their order are chosen by the player that activated this effect, then they are returned to the deck.",
       "date": "Dec. 25, 2025",
       "num": "Q5589",
       "q": "Which player chooses the cards that are to be returned from my opponent’s trash to the deck by this card's [When Digivolving] effect?"
@@ -17,56 +14,37 @@
       "q": "I chose 2 cards including a Digi-Egg card from my opponent's trash for this card's [When Digivolving] effect. At such times, the rules place the Digi-Egg card at the bottom of the Digi-Egg deck when it would be returned to the deck, but is this effect's \"by\" condition met?"
     },
     {
-      "a": [
-        "No, you can't.",
-        "You can only use the part after \"after\" in this card's [When Digivolving] effect to get additional DP if 2 cards from your opponent's trash are returned to the bottom of the deck."
-      ],
+      "a": "No, you can't. You can only use the part after \"after\" in this card's [When Digivolving] effect to get additional DP if 2 cards from your opponent's trash are returned to the bottom of the deck.",
       "date": "Dec. 25, 2025",
       "num": "Q5591",
       "q": "Can I process the part of the effect after \"after\" in this card's [When Digivolving] effect without meeting the \"by\" condition?"
     },
     {
-      "a": [
-        "No, you can't.",
-        "A \"by\" condition can't be met if only some of the required actions are performed.",
-        "In order for the conditions for this card's [When Digivolving] effect to be met, you must return 2 cards from your opponent's trash to the bottom of the deck."
-      ],
+      "a": "No, you can't. A \"by\" condition can't be met if only some of the required actions are performed. In order for the conditions for this card's [When Digivolving] effect to be met, you must return 2 cards from your opponent's trash to the bottom of the deck.",
       "date": "Dec. 25, 2025",
       "num": "Q5592",
       "q": "Can I use this card's [When Digivolving] effect to return 1 card from my opponent's trash to the bottom of the deck?"
     },
     {
-      "a": [
-        "No, you can't activate it.",
-        "When a card with an effect that's pending activation leaves its current area while activation is pending, the effect can no longer be activated.",
-        "In this case, the deleted card's [On Deletion] effect triggers, but it's removed from the trash before the effect can activate."
-      ],
+      "a": "No, you can't activate it. When a card with an effect that's pending activation leaves its current area while activation is pending, the effect can no longer be activated. In this case, the deleted card's [On Deletion] effect triggers, but it's removed from the trash before the effect can activate.",
       "date": "Dec. 25, 2025",
       "num": "Q5593",
-      "q": [
-        "I used this card's [When Digivolving] effect to delete an opponent's Digimon with an [On Deletion] effect, and I used the part of the effect after \"then\" to return that card from their trash to the bottom of the deck.",
-        "Can that deleted card's [On Deletion] effect activate at such times?"
-      ]
+      "q": "I used this card's [When Digivolving] effect to delete an opponent's Digimon with an [On Deletion] effect, and I used the part of the effect after \"then\" to return that card from their trash to the bottom of the deck. Can that deleted card's [On Deletion] effect activate at such times?"
     },
     {
-      "a": [
-        "The token of the player that activated this card's [When Digivolving] effect is played as an opponent's Digimon.",
-        "If the token played by this effect is removed from the field or the game ends, the token is returned to that player."
-      ],
+      "a": "The token of the player that activated this card's [When Digivolving] effect is played as an opponent's Digimon. If the token played by this effect is removed from the field or the game ends, the token is returned to that player.",
       "date": "Feb. 6, 2026",
       "num": "Q5594",
       "q": "Which player's token does this card's [When Digivolving] effect play as an opponent's Digimon?"
     },
     {
-      "a": [
-        "Yes, it can be played.",
-        "This card's [When Digivolving] effect plays one of your cards.",
-        "Cards can be played by your effects even after a \"your opponent can't play Digimon by effects\" effect has activated.",
-        "Related Cards"
-      ],
+      "a": "Yes, it can be played. This card's [When Digivolving] effect plays one of your cards. Cards can be played by your effects even after a \"your opponent can't play Digimon by effects\" effect has activated.\n                                            \n                        Related Cards",
       "date": "Dec. 25, 2025",
       "num": "Q5595",
-      "q": "Can I use this card's [When Digivolving] effect to play a [Petrification] Token during the turn I activated BT8-097 [Crimson Blaze]'s [Main] effect?"
+      "q": "Can I use this card's [When Digivolving] effect to play a [Petrification] Token during the turn I activated BT8-097 [Crimson Blaze]'s [Main] effect?",
+      "relatedCards": [
+        "BT8-097"
+      ]
     }
   ],
   "Color": "Red",

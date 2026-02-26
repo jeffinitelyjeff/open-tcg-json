@@ -2,29 +2,25 @@
   "Attribute": "Virus",
   "Card Q&A": [
     {
-      "a": [
-        "Yes, the digivolution cost is 2.",
-        "Related Cards"
-      ],
+      "a": "Yes, the digivolution cost is 2.\n                                            \n                        Related Cards",
       "date": "Dec. 25, 2025",
       "num": "Q5586",
-      "q": "If I use this card's {Hand} [Main] effect to digivolve BT23-005 [Elizamon] into this card, ignoring digivolution requirements, does the combination with BT23-005 [Elizamon]'s effect make the digivolution cost 2?"
+      "q": "If I use this card's {Hand} [Main] effect to digivolve BT23-005 [Elizamon] into this card, ignoring digivolution requirements, does the combination with BT23-005 [Elizamon]'s effect make the digivolution cost 2?",
+      "relatedCards": [
+        "BT23-005"
+      ]
     },
     {
-      "a": [
-        "No, you can't.",
-        "Related Cards"
-      ],
+      "a": "No, you can't.\n                                            \n                        Related Cards",
       "date": "Dec. 25, 2025",
       "num": "Q5587",
-      "q": "Can I activate this card's {Hand} [Main] effect at the same time as an effect such as P-103 [Offense Training]'s effect that digivolves?"
+      "q": "Can I activate this card's {Hand} [Main] effect at the same time as an effect such as P-103 [Offense Training]'s effect that digivolves?",
+      "relatedCards": [
+        "P-103"
+      ]
     },
     {
-      "a": [
-        "[Security] effects take precedence for activation.",
-        "Upon a security check, a [Security] effect will immediately activate without pending activation.",
-        "For other triggered effects, the turn player activates their effects first."
-      ],
+      "a": "[Security] effects take precedence for activation. Upon a security check, a [Security] effect will immediately activate without pending activation. For other triggered effects, the turn player activates their effects first.",
       "date": "Dec. 25, 2025",
       "num": "Q5588",
       "q": "In what order do a [Security] effect, \"when [...] performs a security check\" effect, and \"when a card is removed from [...] security stack\" effect activate when they trigger simultaneously upon a security check?"

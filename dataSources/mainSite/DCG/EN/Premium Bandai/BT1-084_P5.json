@@ -20,13 +20,16 @@
       "q": "I choose [Greymon] with this card's When Digivolving effect while my opponent has a [Greymon], [MetalGreymon], and [WarGreymon] in play. Are all of them deleted, or just [Greymon]?"
     },
     {
-      "a": [
-        "Yes. The card numbers may be different, but the names match. All of your opponent's [MetalGreymon] cards are deleted.",
-        "Related Cards"
-      ],
+      "a": "Yes. The card numbers may be different, but the names match. All of your opponent's [MetalGreymon] cards are deleted.\n                                            \n                        Related Cards",
       "date": "Mar. 28, 2024",
       "num": "Q942",
-      "q": "My opponent has [ST1-09 MetalGreymon], [BT1-021 MetalGreymon], and [BT1-114 MetalGreymon] in play in their battle area. I use this card's When Digivolving effect to choose [ST1-09 MetalGreymon]. Are all of my opponent's [MetalGreymon] cards deleted?"
+      "q": "My opponent has [ST1-09 MetalGreymon], [BT1-021 MetalGreymon], and [BT1-114 MetalGreymon] in play in their battle area. I use this card's When Digivolving effect to choose [ST1-09 MetalGreymon]. Are all of my opponent's [MetalGreymon] cards deleted?",
+      "relatedCards": [
+        "ST1-09",
+        "BT1-021",
+        "BT1-114",
+        "ST1-09"
+      ]
     },
     {
       "a": "No, you can choose not to.",
