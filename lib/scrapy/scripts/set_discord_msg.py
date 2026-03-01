@@ -15,6 +15,7 @@ RUN_ID = os.getenv('GITHUB_RUN_ID')
 RUN_EVENT = os.getenv('GITHUB_EVENT_NAME')
 
 RUN_URL = f"{SERVER_URL}/{REPO_NAME}/actions/runs/{RUN_ID}"
+REPO_URL = f"{SERVER_URL}/{REPO_NAME}"
 
 START_TS = os.getenv('START_TS')
 JOB_DISPLAY_NAMES = {
@@ -46,8 +47,7 @@ def main():
   if args.start:
     JobState.START.write_env_var(args.job)
   elif args.end:
-    success_body = make_success_body(args.commit_hash)
-    JobState.SUCCEEDED.write_env_var(args.job, extra_body=success_body)
+    JobState.SUCCEEDED.write_env_var(args.job, success_commit=args.commit_hash)
     JobState.FAILED.write_env_var(args.job)
     JobState.CANCELED.write_env_var(args.job)
   else:
@@ -60,43 +60,60 @@ class JobState(enum.Enum):
   FAILED = 'failed'
   CANCELED = 'canceled'
 
-  def env_var(self):
-    if self is JobState.START:
-      return 'DISCORD_MSG_START'
-    if self is JobState.SUCCEEDED:
-      return 'DISCORD_MSG_SUCCESS'
-    if self is JobState.FAILED:
-      return 'DISCORD_MSG_FAIL'
-    if self is JobState.CANCELED:
-      return 'DISCORD_MSG_CANCEL'
-    raise ValueError(f"unsupported job state: {self}")
+  ENV_VARS = {
+      START: 'DISCORD_MSG_START',
+      SUCCEEDED: 'DISCORD_MSG_SUCCESS',
+      FAILED: 'DISCORD_MSG_FAIL',
+      CANCELED: 'DISCORD_MSG_CANCEL',
+  }
 
-  def write_env_var(self, job_key: str, extra_body: str | None = None):
-    md_link = run_md_link(job_key)
-    runtime = format_runtime(START_TS)
-    runtime_suffix = f" in {runtime}" if runtime else ""
+  STATUS_EMOJI = {
+      START: '⚙️',
+      SUCCEEDED: '✅',
+      FAILED: '⚠️',
+      CANCELED: '❌',
+  }
 
-    if self is JobState.START:
-      value = f"⚙️  {md_link} started for {RUN_EVENT} (<t:{START_TS}:R>)"
-    elif self is JobState.SUCCEEDED:
-      value = f"✅  {md_link} finished{runtime_suffix}"
-    elif self is JobState.FAILED:
-      value = f"⚠️  {md_link} failed{runtime_suffix}"
-    elif self is JobState.CANCELED:
-      value = f"❌  {md_link} cancelled{runtime_suffix}"
-    else:
+  def title(self, job_key: str, success_commit: str | None = None) -> str:
+    try:
+      status_emoji = self.STATUS_EMOJI[self]
+    except KeyError:
       raise ValueError(f"unsupported job state: {self}")
 
-    if extra_body:
+    md_link = run_md_link(job_key)
+    words = [status_emoji, md_link, self.value]
+
+    if self is JobState.START:
+      words.append(f"<t:{START_TS}:R>")
+      words.append(f"({RUN_EVENT})")
+    else:
+      words.append(f"in {format_runtime(START_TS)}")
+
+    if self is JobState.SUCCEEDED and success_commit:
+      words.append(
+          f"([{success_commit[:7]}](<{REPO_URL}/commit/{success_commit}>))")
+
+    return ' '.join(words)
+
+  def write_env_var(self, job_key: str, success_commit: str | None = None):
+    try:
+      env_var = self.ENV_VARS[self]
+    except KeyError:
+      raise ValueError(f"unsupported job state: {self}")
+
+    value = self.title(job_key, success_commit=success_commit)
+
+    if success_commit:
+      extra_body = make_success_body(success_commit, len(value))
       value += f"\n{extra_body}"
     elif self is JobState.SUCCEEDED:
-      value += " (no changes)"
+      value += "\n--> No changes"
 
     with open(GITHUB_ENV_FILE, 'a') as f:
-      f.write(f'{self.env_var()}<<EOF\n{value}\nEOF\n\n')
+      f.write(f'{env_var}<<EOF\n{value}\nEOF\n\n')
 
 
-def make_success_body(commit_hash: str | None) -> str:
+def make_success_body(commit_hash: str, title_len: int) -> str:
   try:
     with open(scrapy_util.DISCORD_STATS_PATH, "r") as f:
       discord_stats = f.read()
@@ -117,7 +134,7 @@ def make_success_body(commit_hash: str | None) -> str:
 
   # actual discord cutoff is 2000, but leave some buffer for formatting and
   # title
-  msg_cutoff = 1800
+  msg_cutoff = 1990 - title_len
 
   block_length = sum(len(b) for b in blocks)
   while block_length > msg_cutoff:
