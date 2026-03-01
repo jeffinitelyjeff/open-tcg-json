@@ -19,9 +19,9 @@ REPO_URL = f"{SERVER_URL}/{REPO_NAME}"
 
 START_TS = os.getenv('START_TS')
 JOB_DISPLAY_NAMES = {
-    'dcg_wiki': 'DCG Wiki (digimoncardgame.fandom.com)',
-    'dcg_main': 'DCG Main (digimoncard.com)',
-    'tcg_plus': 'TCG+ (bandai-tcg-plus.com)',
+    'dcg_wiki': 'DCG Wiki',
+    'dcg_main': 'DCG Main',
+    'tcg_plus': 'TCG+',
 }
 
 
@@ -60,28 +60,15 @@ class JobState(enum.Enum):
   FAILED = 'failed'
   CANCELED = 'canceled'
 
-  ENV_VARS = {
-      START: 'DISCORD_MSG_START',
-      SUCCEEDED: 'DISCORD_MSG_SUCCESS',
-      FAILED: 'DISCORD_MSG_FAIL',
-      CANCELED: 'DISCORD_MSG_CANCEL',
-  }
-
-  STATUS_EMOJI = {
-      START: '⚙️',
-      SUCCEEDED: '✅',
-      FAILED: '⚠️',
-      CANCELED: '❌',
-  }
-
   def title(self, job_key: str, success_commit: str | None = None) -> str:
     try:
-      status_emoji = self.STATUS_EMOJI[self]
+      status_emoji = JOB_STATE_STATUS_EMOJI[self]
+      past_tense = JOB_STATE_PAST_TENSE[self]
     except KeyError:
       raise ValueError(f"unsupported job state: {self}")
 
     md_link = run_md_link(job_key)
-    words = [status_emoji, md_link, self.value]
+    words = [status_emoji, md_link, past_tense]
 
     if self is JobState.START:
       words.append(f"<t:{START_TS}:R>")
@@ -97,7 +84,7 @@ class JobState(enum.Enum):
 
   def write_env_var(self, job_key: str, success_commit: str | None = None):
     try:
-      env_var = self.ENV_VARS[self]
+      env_var = JOB_STATE_ENV_VARS[self]
     except KeyError:
       raise ValueError(f"unsupported job state: {self}")
 
@@ -107,10 +94,32 @@ class JobState(enum.Enum):
       extra_body = make_success_body(success_commit, len(value))
       value += f"\n{extra_body}"
     elif self is JobState.SUCCEEDED:
-      value += "\n--> No changes"
+      value += " (no changes)"
 
     with open(GITHUB_ENV_FILE, 'a') as f:
       f.write(f'{env_var}<<EOF\n{value}\nEOF\n\n')
+
+
+JOB_STATE_ENV_VARS = {
+    JobState.START: 'DISCORD_MSG_START',
+    JobState.SUCCEEDED: 'DISCORD_MSG_SUCCESS',
+    JobState.FAILED: 'DISCORD_MSG_FAIL',
+    JobState.CANCELED: 'DISCORD_MSG_CANCEL',
+}
+
+JOB_STATE_STATUS_EMOJI = {
+    JobState.START: '⚙️',
+    JobState.SUCCEEDED: '✅',
+    JobState.FAILED: '⚠️',
+    JobState.CANCELED: '❌',
+}
+
+JOB_STATE_PAST_TENSE = {
+    JobState.START: 'started',
+    JobState.SUCCEEDED: 'succeeded',
+    JobState.FAILED: 'failed',
+    JobState.CANCELED: 'canceled',
+}
 
 
 def make_success_body(commit_hash: str, title_len: int) -> str:
