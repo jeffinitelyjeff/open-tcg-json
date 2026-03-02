@@ -1,5 +1,5 @@
 {
-  "blockIcon": "01",
+  "blockIcon": "01,05",
   "cardEffects": "[On Play] Reveal the top 3 cards of your deck. Add 1 Digimon card with the [X Antibody] trait and 1 Option Card with the [X Antibody] trait among them to your hand. Place the rest at the bottom of your deck in any order.\n[Your Turn] When one of your Digimon digivolves into a same-level Digimon with the [X Antibody] trait, you may suspend this Tamer to gain 1 memory and ＜Draw 1＞ (Draw 1 card from your deck.)",
   "cardRestriction": {
     "chinese": "Unrestricted",
@@ -70,20 +70,20 @@
         "uploadDate": "2022-02-18T11:04:43"
       },
       {
-        "captionLink": "https://digimoncardgame.fandom.com/wiki/PB-15:_Digimon_Card_Game_3rd_Anniversary_Set",
-        "captionText": "PB-15: Digimon Card Game 3rd Anniversary Set (JP)",
-        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-092_P1-J.png",
-        "imgName": "BT9-092_P1-J.png",
-        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c7/BT9-092_P1-J.png/revision/latest?cb=20230630104038",
-        "uploadDate": "2023-06-30T10:40:38"
-      },
-      {
         "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-09:_Booster_X_Record",
         "captionText": "BT-09: Booster X Record (JP Sample)",
         "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-092-Sample-J.png",
         "imgName": "BT9-092-Sample-J.png",
         "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e6/BT9-092-Sample-J.png/revision/latest?cb=20220203052514",
         "uploadDate": "2022-02-03T05:25:14"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/PB-15:_Digimon_Card_Game_3rd_Anniversary_Set",
+        "captionText": "PB-15: Digimon Card Game 3rd Anniversary Set (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT9-092_P1-J.png",
+        "imgName": "BT9-092_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c7/BT9-092_P1-J.png/revision/latest?cb=20230630104038",
+        "uploadDate": "2023-06-30T10:40:38"
       }
     ]
   },
@@ -118,6 +118,17 @@
     "ch": [
       {
         "boosterSet": "BTC-05: Booster Xros Record",
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
         "foil&Rarity": "Foil - Rare",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
@@ -191,6 +202,17 @@
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
           "text": "sasasi"
         }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
       }
     ],
     "jp": [
@@ -211,6 +233,30 @@
           "text": "PB-15: Digimon Card Game 3rd Anniversary Set"
         },
         "foil&Rarity": "Textured - Gold Background - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
           "text": "Kenji Watanabe"
