@@ -1,7 +1,7 @@
 {
   "altDigivolutionRequirements": "[Digivolve]  [DemiVeemon]: Cost 0",
   "attribute": "Free",
-  "blockIcon": "03",
+  "blockIcon": "03,05",
   "cardEffects": "[Your Turn] [Once Per Turn] When one of your other Digimon is played or digivolves, if it has the [Free] trait or is green, gain 1 memory.",
   "cardRestriction": {
     "chinese": "Unrestricted",
@@ -62,28 +62,12 @@
         "uploadDate": "2023-12-15T07:34:19"
       },
       {
-        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-16:_Booster_Beginning_Observer",
-        "captionText": "BT-16: Booster Beginning Observer (JP)",
-        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-017-Sample-J.png",
-        "imgName": "BT16-017-Sample-J.png",
-        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bd/BT16-017-Sample-J.png/revision/latest?cb=20231205063252",
-        "uploadDate": "2023-12-05T06:32:52"
-      },
-      {
         "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-07:_Legend_Pack_2024",
         "captionText": "EX-07: Legend Pack 2024 (JP)",
         "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-017_P1-J.png",
         "imgName": "BT16-017_P1-J.png",
         "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8e/BT16-017_P1-J.png/revision/latest?cb=20240525005828",
         "uploadDate": "2024-05-25T00:58:28"
-      },
-      {
-        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-07:_Legend_Pack_2024",
-        "captionText": "EX-07: Legend Pack 2024 (JP)",
-        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT16-017_P1-Sample-J.png",
-        "imgName": "BT16-017_P1-Sample-J.png",
-        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/04/BT16-017_P1-Sample-J.png/revision/latest?cb=20240517062614",
-        "uploadDate": "2024-05-17T06:26:14"
       }
     ]
   },
@@ -112,6 +96,19 @@
     ]
   },
   "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hokuyuu",
+          "text": "hokuyuu"
+        }
+      }
+    ],
     "en": [
       {
         "boosterSet": {
@@ -145,6 +142,17 @@
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Naru",
           "text": "naru"
         }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hokuyuu",
+          "text": "hokuyuu"
+        }
       }
     ],
     "jp": [
@@ -168,6 +176,30 @@
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Naru",
           "text": "naru"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hokuyuu",
+          "text": "hokuyuu"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_Advanced_Booster_Digimon_Generation",
+          "text": "AD-01: Advanced Booster Digimon Generation"
+        },
+        "foil&Rarity": "Foil - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hokuyuu",
+          "text": "hokuyuu"
         }
       }
     ]
