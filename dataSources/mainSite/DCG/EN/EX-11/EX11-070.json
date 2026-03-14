@@ -1,0 +1,50 @@
+{
+  "Card Q&A": [
+    {
+      "a": "Yes, you can.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5940",
+      "q": "Can I use this card's [End of Your Turn] effect to perform  without DNA digivolving?"
+    },
+    {
+      "a": "Its DP becomes 1000. For changes to DP, the values of the changes are first calculated, then the changes are applied to the original value. In this case, +2000 DP and -7000 DP are the values of the changes, and those values are applied to the original DP of 5000. If a Digimon with 5000 DP gets -5000 DP but it has a \"can't have less than 1000 DP\" effect, its DP will change to 1000.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5941",
+      "q": "There is a Digimon with a \"can't have less than 1000 DP\" effect and an original DP of 5000. It then gets +2000 DP, changing its DP to 7000. What happens if another effect gives that Digimon -7000 DP?"
+    },
+    {
+      "a": "It refers to a card that contains the specified text or icon in its name, traits, effects, inherited effects, (Rule), digivolution requirements, DNA digivolution, DigiXros requirements, burst digivolve, App Fusion, Link, or Assembly requirements. For example, a card with [Knightmon] in its text would include cards with the name [DarkKnightmon] and cards with the text [Knightmon] in their effects.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5942",
+      "q": "What does a card with \"X in its text\" refer to?"
+    },
+    {
+      "a": "This effect prevents cards stacked on top from being trashed by  or other effects, and cards stacked on the bottom can't be trashed by effects such as those that trash digivolution cards.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5943",
+      "q": "What does a \"can't trash stacked cards\" effect do, exactly?"
+    }
+  ],
+  "Color": "White",
+  "Cost": "4",
+  "Effect": [
+    "[Security] Play this card without paying the cost.",
+    "[Start of Your Turn] If you have 2 or less memory, set it to 3.",
+    "[End of Your Turn] 2 of your Digimon may DNA digivolve into [ExMaquinamon] in the hand. Then, this Tamer may ＜Mind Link＞ with 1 of your Digimon with [Maquinamon] in its text."
+  ],
+  "Inherited Effect": [
+    "[All Turns] This Digimon with [Maquinamon] in its text can't have less than 1000 DP, and your opponent's effects can't trash its stacked cards.",
+    "[End of All Turns] You may play 1 [Unchained] from this Digimon's digivolution cards without paying the cost."
+  ],
+  "Notes": [
+    "Extra Booster DAWON OF LIBERATOR [EX-11]",
+    "?search=true&category=522034",
+    "/products/pack/ex-11"
+  ],
+  "Type": "LIBERATOR",
+  "cardNo": "EX11-070",
+  "cardRarity": "R",
+  "cardTitle": "Unchained",
+  "cardType": "Tamer",
+  "imgSrc": "../images/cardlist/card/EX11-070.png?260210"
+}

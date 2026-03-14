@@ -8,12 +8,42 @@
       "q": "Can I process the part of the effect after \"then\" in this card's [On Play] [When Digivolving] effect even if the \"if\" condition in the 1st process isn't met?"
     },
     {
-      "a": "Yes, it can. The 2nd [All Turns] effect on EX1-073 [Machinedramon] can interrupt both deletions performed by this card's [On Play] [When Digivolving] effect.\n                                            \n                        Related Cards",
-      "date": "May. 24, 2024",
+      "a": "Yes, you can. If an effect activates, it is to be fully resolved even if the card that activated the effect is removed from that area during the processing.",
+      "date": "Mar. 13, 2026",
       "num": "Q3667",
-      "q": "I play this card when my opponent only has 1 EX1-073 [Machinedramon] in the battle area. At this time, I use \"delete 1 of your opponent's highest level Digimon\" in this card's [On Play] [When Digivolving] effect, and the 2nd [All Turns] effect on my opponent's EX1-073 [Machinedramon] interrupts it and prevents the deletion. If I then use this card's \"delete 1 of your opponent's lowest level Digimon\" effect, can the 2nd [All Turns] effect on my opponent's EX1-073 [Machinedramon] again interrupt the effect?",
+      "q": "I activated this card's [On Play] [When Digivolving] effect, and when my opponent's Digimon would leave the battle area for the 1st process, an immediate-type effect such as a \"when [...] would leave\" effect caused this card to be removed from the battle area. Can I then process the part of the effect after \"then\" in this card's effect?"
+    },
+    {
+      "a": "Yes, you can. If an effect activates, it is to be fully resolved even if the card that activated the effect is removed from that area during the processing. However, you can't activate this card's [All Turns] effect.",
+      "date": "Mar. 13, 2026",
+      "num": "Q6035",
+      "q": "I activated this card's [On Play] [When Digivolving] effect, and when my opponent's Digimon would leave the battle area for the 1st process, an immediate-type effect such as a \"when [...] would leave\" effect caused this card to be removed from the battle area. Can I then process the part of the effect after \"then\" in this card's effect?"
+    },
+    {
+      "a": "No, you can't. Once all of the processing is resolved for this card's [On Play] [When Digivolving] effect, then you can activate the [All Turns] effect for each deletion.",
+      "date": "Mar. 13, 2026",
+      "num": "Q6036",
+      "q": "When I use this card's [On Play] [When Digivolving] effect to delete my opponent's highest level Digimon, can I activate this card's [All Turns] effect and then activate the part of the [On Play] [When Digivolving] effect after \"then\"?"
+    },
+    {
+      "a": "Yes, it does. You can reference the number of your opponent's Digimon for \"gain 1 memory for each Digimon deleted\" even when multiple Digimon are deleted. Even if multiple opponent's Digimon are deleted at the same time, this effect gives you 1 memory for each one deleted.",
+      "date": "Mar. 13, 2026",
+      "num": "Q6037",
+      "q": "Does this card's [All Turns] effect give me 1 memory for each deletion if multiple opponent's Digimon are deleted at the same time in cases such as a \"delete 2 of your opponent's Digimon\" effect?"
+    },
+    {
+      "a": "You only gain 1 memory for each opponent's Digimon deleted. You can reference the number of your opponent's Digimon for \"gain 1 memory for each Digimon deleted\" even when multiple Digimon are deleted. However, you can't include any of your Digimon that are deleted at the same time.",
+      "date": "Mar. 13, 2026",
+      "num": "Q6038",
+      "q": "Does this card's [All Turns] effect give me 1 memory for each deletion if both my Digimon and my opponent's Digimon are deleted at the same time in cases such as a \"delete 2 Digimon\" effect?"
+    },
+    {
+      "a": "You gain 1 memory.\n                                            \n                        Related Cards",
+      "date": "Mar. 13, 2026",
+      "num": "Q6039",
+      "q": "I attempted to delete my opponent's EX10-052 [Lucemon] using this card's [On Play] [When Digivolving] effect. Then, the [All Turns] effect on my opponent's EX10-052 [Lucemon] activated, I deleted one of my Digimon other than this card, and EX10-052 [Lucemon] was deleted. If I then activate this card's [All Turns] effect, how much memory do I gain?",
       "relatedCards": [
-        "EX1-073"
+        "EX10-052"
       ]
     }
   ],

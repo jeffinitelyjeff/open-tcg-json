@@ -2,22 +2,22 @@
   "Attribute": "Vaccine",
   "Card Q&A": [
     {
-      "a": "No, this card's effect does not allow ignoring digivolution requirements, so you can only digivolve into a card that meets the digivolution requirements.",
-      "date": "Mar. 28, 2024",
+      "a": "Yes, you can choose to not digivolve. In such cases, you shuffle all of the searched cards and return them to the security stack.",
+      "date": "Mar. 13, 2026",
       "num": "Q2619",
-      "q": "When I use this card's [On Play] [When Digivolving] effect to digivolve it into a Digimon card with the [Angel]/[Three Great Angels] trait in my security stack, can it digivolve regardless of its digivolution requirements?"
+      "q": "Can I use this card's [On Play] [When Digivolving] effect to search my security stack but choose to not digivolve?"
+    },
+    {
+      "a": "You perform the digivolution bonus draw when a card is placed on top of the Digimon to digivolve. A digivolution includes the bonus draw in accordance with the rules. After the card to digivolve is stacked and the digivolution bonus draw is performed, you process the remaining effects.",
+      "date": "Mar. 13, 2026",
+      "num": "Q2620",
+      "q": "When exactly is the timing for the digivolution bonus draw when a digivolution would occur by this card's [On Play] [When Digivolving] effect?"
     },
     {
       "a": "No, you can't.",
-      "date": "Mar. 28, 2024",
-      "num": "Q2620",
-      "q": "Can I use an effect that digivolves my Digimon to digivolve this Digimon into a Digimon card with the [Angel]/[Three Great Angels] trait in my security stack?"
-    },
-    {
-      "a": "Yes, they trigger.",
-      "date": "Mar. 28, 2024",
+      "date": "Mar. 13, 2026",
       "num": "Q2621",
-      "q": "I used this card's [On Play] [When Digivolving] effect to digivolve into a card with the [Angel]/[Three Great Angels] trait in my security stack, then I placed 1 Digimon card with the [Angel]/[Archangel]/[Three Great Angels] trait from the hand at the bottom of my security stack. The number of cards in my security stack remained the same, but do \"when a card is removed from a security stack\" or \"When a card is added to a security stack\" effects trigger?"
+      "q": "If I use this card's [On Play] [When Digivolving] effect to digivolve, can I activate the digivolved card's [When Digivolving] effect before returning the remaining cards to the security stack?"
     }
   ],
   "Color": [

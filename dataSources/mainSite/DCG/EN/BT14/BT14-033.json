@@ -2,31 +2,28 @@
   "Attribute": "Data",
   "Card Q&A": [
     {
-      "a": "No, this card's effect does not allow ignoring digivolution requirements, so you can only digivolve into a card that meets the digivolution requirements.",
-      "date": "Mar. 28, 2024",
+      "a": "Yes, you can choose to not digivolve. In such cases, you shuffle all of the searched cards and return them to the security stack.",
+      "date": "Mar. 13, 2026",
       "num": "Q2407",
-      "q": "When I use this card's effect to digivolve it into a yellow Digimon card with the [Vaccine] trait in my security stack, can it digivolve regardless of its digivolution requirements?"
+      "q": "Can I use this card's [Start of Your Main Phase] effect to search my security stack but choose to not digivolve?"
+    },
+    {
+      "a": "You perform the digivolution bonus draw when a card is placed on top of the Digimon to digivolve. A digivolution includes the bonus draw in accordance with the rules. After the card to digivolve is stacked and the digivolution bonus draw is performed, you process the remaining effects.",
+      "date": "Mar. 13, 2026",
+      "num": "Q2408",
+      "q": "When exactly is the timing for the digivolution bonus draw when a digivolution would occur by this card's [Start of Your Main Phase] effect?"
     },
     {
       "a": "No, you can't.",
-      "date": "Mar. 28, 2024",
-      "num": "Q2408",
-      "q": "Can I use an effect that digivolves my Digimon to digivolve this card into a security card with the [Vaccine] trait?"
-    },
-    {
-      "a": "Yes.  added a card to your security, so you gain 1 memory.\n                                            \n                        Related Cards",
-      "date": "Mar. 28, 2024",
+      "date": "Mar. 13, 2026",
       "num": "Q2409",
-      "q": "I have a Digimon in play with this card in its digivolution cards. [BT1-087 T.K. Takaishi]’s effect adds a yellow card from my security stack to my hand, and  adds a card to my security stack. The number of cards in my security stack ultimately remained the same, but can I still gain 1 memory from this card’s inherited effect?",
-      "relatedCards": [
-        "BT1-087"
-      ]
+      "q": "If I use this card's [Start of Your Main Phase] effect to digivolve, can I activate the digivolved card's [When Digivolving] effect before returning the remaining cards to the security stack?"
     },
     {
-      "a": "Yes, they trigger simultaneously.",
-      "date": "Jun. 21, 2024",
+      "a": "Yes, you can.",
+      "date": "Mar. 13, 2026",
       "num": "Q2410",
-      "q": "I used this card's [Start of Your Main Phase] effect to digivolve from a security card, then place a card from my hand at the bottom of the security stack. Do \"when a card is added to the security stack\" and \"when a card is removed from the security stack\" effects trigger simultaneously at such times?"
+      "q": "I used this card's [Start of Your Main Phase] effect to digivolve this card. If I then use the part of the effect after \"then\" to place a card from the hand into the security stack, can I activate this card's inherited effect?"
     }
   ],
   "Color": "Yellow",

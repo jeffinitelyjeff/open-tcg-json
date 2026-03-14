@@ -1,25 +1,22 @@
 {
   "Card Q&A": [
     {
-      "a": "No, this card's effect does not allow ignoring digivolution requirements, so you can only digivolve into a card that meets the digivolution requirements.",
-      "date": "Mar. 28, 2024",
+      "a": "Yes, you can choose to not digivolve. In such cases, you shuffle all of the searched cards and return them to the security stack.",
+      "date": "Mar. 13, 2026",
       "num": "Q2468",
-      "q": "When I use this card's effect to digivolve it into a yellow Digimon card with the [Vaccine] trait in my security stack, can it digivolve regardless of its digivolution requirements?"
+      "q": "Can I use this card's [Main] effect to search my security stack but choose to not digivolve?"
     },
     {
-      "a": "You place it after shuffling.",
-      "date": "Mar. 28, 2024",
+      "a": "You perform the digivolution bonus draw when a card is placed on top of the Digimon to digivolve. A digivolution includes the bonus draw in accordance with the rules. After the card to digivolve is stacked and the digivolution bonus draw is performed, you process the remaining effects.",
+      "date": "Mar. 13, 2026",
       "num": "Q2469",
-      "q": "When using this card's effect to digivolve a security card and I have a Tamer with [T.K. Takaishi] in its name, do I place 1 card in my security stack for  before or after I shuffle my security stack?"
+      "q": "When a digivolution would occur by this card's [Main] effect, when exactly is the timing for the digivolution bonus draw?"
     },
     {
-      "a": "No, you can't. Since you have 3 cards in your security stack [BT8-024 Angemon]'s effect will trigger, but effects that add or remove cards from the security stack aren't allowed while looking at a security stack, so the effect won't activate.\n                                            \n                        Related Cards",
-      "date": "Mar. 28, 2024",
+      "a": "No, you can't.",
+      "date": "Mar. 13, 2026",
       "num": "Q2470",
-      "q": "I use this card's effect to digivolve my [BT8-024 Angemon] into a level 5 yellow Digimon card with the [Vaccine] trait in my security stack when my security stack has 4 cards. Can I activate my [BT8-024 Angemon]'s [Your Turn] effect to  if it were to digivolve when my security stack has 3 cards?",
-      "relatedCards": [
-        "BT8-024"
-      ]
+      "q": "If I use this card's [Main] effect to digivolve, can I activate the digivolved card's [When Digivolving] effect before returning the remaining cards to the security stack?"
     }
   ],
   "Color": "Yellow",

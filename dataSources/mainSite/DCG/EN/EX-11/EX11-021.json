@@ -1,0 +1,50 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": "No, you can't end that attack. If the \"by\" condition isn't met, the rest of the effect isn't processed. In this case, if you can't delete 1 of your other Digimon, then you can't end the attack.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5806",
+      "q": "I tried to delete 1 of my other Digimon using this card's inherited effect when an opponent's Digimon attacked, but I couldn't delete the other Digimon due to another effect. Can I end that attack at such times?"
+    },
+    {
+      "a": "After this effect activates, the current timing makes a transition to the end of attack timing. For example, if this effect activates during the attack declaration timing, it will make a transition to the end of attack timing. A transition to the counter timing or block timing won't occur, and the attack won't succeed.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5807",
+      "q": "What does \"end the attack\" mean, exactly?"
+    },
+    {
+      "a": "Yes, such attacks can be ended. \"End the attack\" effects are effects that change the timing, they don't affect an attacking Digimon.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5808",
+      "q": "Can an \"end the attack\" effect end an attack by a Digimon that isn't affected by effects?"
+    }
+  ],
+  "Color": [
+    "Yellow",
+    "Purple"
+  ],
+  "Cost": "5",
+  "DP": "6000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "Purple",
+    "3 from Lv.3"
+  ],
+  "Effect": "[When Digivolving] If you have 1 or fewer Tamers, you may play 1 [Mirai Kinosaki] from your hand without paying the cost.",
+  "Form": "Champion",
+  "Inherited Effect": "[Opponent's Turn] [Once Per Turn] When one of your opponent's Digimon attacks, by deleting 1 of your other Digimon, end that attack.",
+  "Notes": [
+    "Extra Booster DAWON OF LIBERATOR [EX-11]",
+    "?search=true&category=522034",
+    "/products/pack/ex-11"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.3 w/[Puppet] trait: Cost 2",
+  "Type": "Puppet/LIBERATOR",
+  "cardLv": "Lv.4",
+  "cardNo": "EX11-021",
+  "cardRarity": "C",
+  "cardTitle": "Kokeshimon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX11-021.png?260210"
+}

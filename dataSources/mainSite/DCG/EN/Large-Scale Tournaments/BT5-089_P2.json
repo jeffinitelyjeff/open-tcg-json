@@ -1,55 +1,52 @@
 {
   "Card Q&A": [
     {
-      "a": "Yes, it does. [Start of Your Turn] effects activate before your unsuspend phase.",
-      "date": "Mar. 28, 2024",
+      "a": "Yes, you can. [Start of Your Turn] effects trigger and activate before cards are unsuspended for the unsuspend phase.",
+      "date": "Mar. 13, 2026",
       "num": "Q1360",
-      "q": "My opponent's suspended Digimon unsuspends during my unsuspend phase using . Does this card's [Start of Your Turn] effect activate?"
+      "q": "My opponent has a suspended Digimon with . Upon my turn, can I use this card's [Start of Your Turn] effect to gain 2 memory before that opponent Digimon unsuspends in the unsuspend phase?"
     },
     {
-      "a": "No. The effect reads, \"you may,\" so you can choose not to digivolve.",
-      "date": "Mar. 28, 2024",
+      "a": "Yes, you can choose to not digivolve. In such cases, you return all of the revealed cards to the bottom of your deck in any order.",
+      "date": "Mar. 13, 2026",
       "num": "Q1361",
-      "q": "I attack with a green level 5 Digimon, and use this card's [Your Turn] effect to reveal a green level 6 Digimon card. Do I have to digivolve into that card?"
+      "q": "Can I use this card's [Your Turn] effect to reveal cards from my deck, but then choose to not digivolve?"
     },
     {
-      "a": "Yes, you get to choose which card to digivolve into.",
-      "date": "Mar. 28, 2024",
+      "a": "You perform the digivolution bonus draw when this card is placed on top of that Digimon for the digivolution, and you draw from the unrevealed cards in your deck. A digivolution includes the bonus draw in accordance with the rules. After the card to digivolve is stacked and the digivolution bonus draw is performed, you process the remaining effects.",
+      "date": "Mar. 13, 2026",
       "num": "Q1362",
-      "q": "This card's [Your Turn] effect revealed 2 or more green level 6 Digimon. Can I choose which card to digivolve into?"
-    },
-    {
-      "a": "Yes, you do.",
-      "date": "Mar. 28, 2024",
-      "num": "Q1363",
-      "q": "I attack with a green level 5 Digimon, and use this card's [Your Turn] effect to digivolve it. Do I get to draw a bonus card from digivolving?"
+      "q": "When a digivolution would occur by this card's [Your Turn] effect, when exactly is the timing for the digivolution bonus draw and where do I draw from?"
     },
     {
       "a": "No, you can't.",
-      "date": "Mar. 28, 2024",
+      "date": "Mar. 13, 2026",
+      "num": "Q1363",
+      "q": "If I use this card's [Your Turn] effect to digivolve, can I activate the digivolved card's [When Digivolving] effect before returning the remaining cards to the bottom of the deck?"
+    },
+    {
+      "a": "Yes, you can. In such cases, you reveal as many cards from your deck as possible.",
+      "date": "Mar. 13, 2026",
       "num": "Q1364",
-      "q": "This card's [Your Turn] effect revealed a non-green level 6 Digimon card. Can I digivolve into that card?"
+      "q": "Can I activate this card's [Your Turn] effect when I have 2 or fewer cards in my deck?"
     },
     {
-      "a": "\"You can choose to activate this card's effect twice off a single attack, but you can't activate both effects simultaneously. Instead, you activate each Tamer's effect one at a time.First, activate the first Tamer's effect, reveal 3 cards from your deck, and choose whether or not to digivolve the attacking Digimon. From there, you can decide whether or not to activate the second Tamer's effect.Furthermore, if you digivolve into a card revealed from the first Tamer's effect, the card revealed from the second Tamer's effect must be a green level 6 card that can digivolve from a level 6 Digimon. (i.e. [BT5-056 Rafflesimon])\"\n                                            \n                        Related Cards",
-      "date": "Mar. 28, 2024",
+      "a": "No, you can't. When your Digimon attacks, the [Your Turn] effects on the 2 copies of this card trigger simultaneously. Effects that trigger simultaneously can be activated 1 at a time, therefore you can activate the [Your Turn] effect on the 1st copy of this card, and once all effects have been resolved, you can then activate the [Your Turn] effect on the 2nd copy of this card.",
+      "date": "Mar. 13, 2026",
       "num": "Q1365",
-      "q": "I have 2 copies of this Tamer in play, and attack with a green level 5 Digimon. Can I suspend both Tamers, reveal 6 cards from my deck, and choose a card to digivolve into from among them?",
-      "relatedCards": [
-        "BT5-056"
-      ]
+      "q": "2 copies of this card are in the battle area. Can I activate the [Your Turn] effect on the 2 copies of this card, reveal 6 cards from the top of my deck, and then digivolve my Digimon into a card among them?"
     },
     {
-      "a": "It activates immediately after you draw the bonus card for digivolving. Even if there are other [When Attacking] or \"When one of your Digimon attacks\" effects, the [When Digivolving] effect activates first as a newly triggered effect.",
-      "date": "Mar. 28, 2024",
+      "a": "The effects trigger simultaneously, so the player can choose the activation order. However, if this card's [Your Turn] effect is activated first and that Digimon digivolves, its [When Attacking] effect is considered to be lost and can no longer activate.",
+      "date": "Mar. 13, 2026",
       "num": "Q1366",
-      "q": "If I use this card's [Your Turn] effect to digivolve into a level 6 Digimon with a [When Digivolving] effect, when does that effect activate?"
+      "q": "When a green level 5 Digimon with a [When Attacking] effect attacks, in what order can this card's [Your Turn] effect and the attacking Digimon's [When Attacking] effect activate?"
     },
     {
-      "a": "No. The window for activating [When Attacking] effects has already passed, so the effect doesn't activate.",
-      "date": "Mar. 28, 2024",
+      "a": "No, you can't activate it. This card's [Your Turn] effect triggers when a green level 5 Digimon attacks. It doesn't trigger when other Digimon attack, therefore it can't be activated.",
+      "date": "Mar. 13, 2026",
       "num": "Q1367",
-      "q": "If I use this card's [Your Turn] effect to digivolve into a level 6 Digimon with a [When Attacking] effect, does that effect activate?"
+      "q": "My green Digimon that isn't level 5 attacks, and another effect digivolves it into a green level 5 Digimon. Can I then activate this card's [Your Turn] effect?"
     }
   ],
   "Color": "Green",

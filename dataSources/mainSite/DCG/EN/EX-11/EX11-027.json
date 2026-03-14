@@ -1,0 +1,55 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": "It refers to a card that contains the specified text or icon in its name, traits, effects, inherited effects, (Rule), digivolution requirements, DNA digivolution, DigiXros requirements, burst digivolve, App Fusion, Link, or Assembly requirements. For example, a card with [Knightmon] in its text would include cards with the name [DarkKnightmon] and cards with the text [Knightmon] in their effects.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5822",
+      "q": "What does a card with \"X in its text\" refer to?"
+    },
+    {
+      "a": "Yes, they trigger.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5823",
+      "q": "If I activate this card's link effect and this link card is placed as the bottom digivolution card, do \"when digivolution cards are added\" effects trigger?"
+    },
+    {
+      "a": "No, you can't. A link card is a card plugged in sideways with a Digimon upon a link.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5824",
+      "q": "If a card was placed in digivolution cards by , can I activate this card's link effect and place that card as the bottom digivolution card?"
+    }
+  ],
+  "Color": [
+    "Green",
+    "Black"
+  ],
+  "Cost": "3",
+  "DP": "1000",
+  "Digivolve Cost 1": [
+    "Green",
+    "Black",
+    "1 from Lv.2"
+  ],
+  "Effect": [
+    "[On Play] Reveal the top 3 cards of your deck. Add 1 [Maquinamon] and 1 card with [Maquinamon] in its text among them to the hand. Return the rest to the bottom of the deck. Then, you may link this Digimon or 1 [Maquinamon] in your hand to 1 of your other Digimon without paying the cost.",
+    "(Rule) You can include up to 50 copies of cards with this card's card number in your deck."
+  ],
+  "Form": "Rookie",
+  "Link Condition": "＜Link＞ [Maquinamon] in text: Cost 2 (Plug this card from the hand or battle area sideways into the specified Digimon in the battle area.)",
+  "Link DP": "DP+2000",
+  "Link Effect": "[All Turns] When this Digimon would leave the battle area, by placing 1 of its link cards as its bottom digivolution card, it doesn't leave.",
+  "Notes": [
+    "Extra Booster DAWON OF LIBERATOR [EX-11]",
+    "?search=true&category=522034",
+    "/products/pack/ex-11"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.2 w/[Maquinamon] in text: Cost 0",
+  "Type": "Composite/LIBERATOR",
+  "cardLv": "Lv.3",
+  "cardNo": "EX11-027",
+  "cardRarity": "C",
+  "cardTitle": "Maquinamon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX11-027.png?260210"
+}

@@ -2,22 +2,28 @@
   "Attribute": "Free",
   "Card Q&A": [
     {
-      "a": "Yes, you can.",
-      "date": "Mar. 28, 2024",
+      "a": "Yes, it returns all Tamers of both players to their owners' hands.",
+      "date": "Mar. 13, 2026",
       "num": "Q2672",
-      "q": "Can I use this card's [On Deletion] effect to play 1 Tamer card from my hand without paying the cost even when I don't have [Ukkomon] in my trash?"
+      "q": "Does this card's [On Deletion] effect return all Tamers of both players to their owners' hands?"
     },
     {
-      "a": "No, they don’t activate.",
-      "date": "Mar. 28, 2024",
+      "a": "Yes, you can. If an effect activates, it is to be fully resolved even if the card that activated the effect is removed from that area during the processing.",
+      "date": "Mar. 13, 2026",
       "num": "Q2673",
-      "q": "Do [On Play] effects activate for Digimon played into the breeding area by this card's [End of Your Turn] effect?"
+      "q": "I activated this card's [End of Your Turn] effect, and when my opponent's Digimon would leave the battle area for the 1st process, an immediate-type effect such as a \"when [...] would leave\" effect caused this card to be removed from the battle area. Can I then process the part of the effect after \"then\" in this card's effect?"
     },
     {
       "a": "Yes, you can.",
-      "date": "Mar. 28, 2024",
+      "date": "Mar. 13, 2026",
       "num": "Q2674",
-      "q": "Can I perform a DigiXros when a Digimon with DigiXros requirements is played into the breeding area by this card's [End of Your Turn] effect?"
+      "q": "When I would play a Digimon card to the breeding area, can I perform a DigiXros or Assembly for the card to be played?"
+    },
+    {
+      "a": "No, it doesn't trigger.",
+      "date": "Mar. 13, 2026",
+      "num": "Q6005",
+      "q": "When a Digimon is played to the breeding area, does that Digimon's [On Play] effects or \"when a Digimon is played\" effects trigger?"
     }
   ],
   "Color": "White",

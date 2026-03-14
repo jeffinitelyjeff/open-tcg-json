@@ -1,0 +1,93 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "The 2nd card from the top of their security stack is flipped to face up.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5867",
+      "q": "Only the top card of my opponent's security card is face up. If this card's [On Play] [When Digivolving] effect activates, what security card is flipped to face up?"
+    },
+    {
+      "a": "They become face-up security cards that remain revealed. Other than rules that specify face-up security cards, the rules apply in the same manner as standard security cards.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5868",
+      "q": "What happens to cards placed face up in the security stack by effects?"
+    },
+    {
+      "a": "The check is performed with the card left revealed. Other than rules for cards left revealed, the rules apply in the same manner as standard security checks.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5869",
+      "q": "What happens upon a security check for a security card that is placed face-up?"
+    },
+    {
+      "a": "Yes, it triggers.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5870",
+      "q": "Does a card's [Security] effect trigger upon a security check with that card placed face-up?"
+    },
+    {
+      "a": "Any face-up cards are placed face down, then you shuffle the cards. After shuffling, all cards are left face-down.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5871",
+      "q": "What happens if I shuffle a security stack that includes security cards placed face-up?"
+    },
+    {
+      "a": "[Security] effects take precedence for activation. Upon a security check, a [Security] effect will immediately activate without pending activation. For other triggered effects, the turn player activates their effects first.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5872",
+      "q": "In what order do a [Security] effect, \"when [...] performs a security check\" effect, and \"when a card is removed from [...] security stack\" effect activate when they trigger simultaneously upon a security check?"
+    },
+    {
+      "a": "Yes, it triggers.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5873",
+      "q": "If I attack with this card, an opponent's face-up security card is checked for the security check, then this card's [Your Turn] effect activates and I place the top card of this Digimon at the bottom of the security stack, does the [End of Attack] effect on the Digimon under this card trigger?"
+    },
+    {
+      "a": "You lose the game.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5874",
+      "q": "An opponent's Digimon attacks a player by an effect at the end of their turn. What happens if this card's {Security} [End of Opponent's Turn] effect then plays this card, my security stack is reduced to 0 cards, and the attack against the player is successful?"
+    },
+    {
+      "a": "This card stacked on top is removed, causing this Digimon to become a Tamer, therefore the attacking Digimon is considered to be removed.\n                                            \n                        Related Cards",
+      "date": "Feb. 6, 2026",
+      "num": "Q5875",
+      "q": "What happens if this card has just BT15-086 [Marvin Jackson] in its digivolution cards, it performs a security check on a face-up security card, and this card's [Your Turn] effect activates?",
+      "relatedCards": [
+        "BT15-086"
+      ]
+    }
+  ],
+  "Color": [
+    "Black",
+    "Blue"
+  ],
+  "Cost": "7",
+  "DP": "7000",
+  "Digivolve Cost 1": [
+    "Black",
+    "Blue",
+    "4 from Lv.4"
+  ],
+  "Effect": [
+    "{Security} [End of Opponent’s Turn] Play this card without paying the cost.",
+    "[On Play] [When Digivolving] Flip your opponent's top face-down security card face up and ＜De-Digivolve 1＞ 1 of their Digimon. Then, if it's their turn, this Digimon may digivolve into [Invisimon] in the hand without paying the cost.",
+    "[Your Turn] When any of your Digimon check face-up security cards, you may place this Digimon's top stacked card face up as the bottom security card."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "[Your Turn] This Digimon's attack target can't change.",
+  "Notes": [
+    "Extra Booster DAWON OF LIBERATOR [EX-11]",
+    "?search=true&category=522034",
+    "/products/pack/ex-11"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.4 w/[Cyborg]/[Machine] trait: Cost 3",
+  "Type": "Cyborg/LIBERATOR",
+  "cardLv": "Lv.5",
+  "cardNo": "EX11-041",
+  "cardRarity": "U",
+  "cardTitle": "Oblivimon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX11-041.png?260210"
+}

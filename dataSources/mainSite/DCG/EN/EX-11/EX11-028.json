@@ -1,0 +1,75 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": "Yes, either can be suspended.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5825",
+      "q": "Can I use this card's [On Play] [When Digivolving] effect to suspend either my Digimon or my opponent's Digimon?"
+    },
+    {
+      "a": "No, you can't. EX11-062 [Shoto Kazama]'s [Your Turn] effect allows players to also be chosen as the attack target at the time of an attack declaration. It doesn't allow for changing the attack target.\n                                            \n                        Related Cards",
+      "date": "Feb. 6, 2026",
+      "num": "Q5826",
+      "q": "My Digimon attacks an opponent's Digimon using , and I use this card's [All Turns] effect to play EX11-062 [Shoto Kazama]. Can I then use EX11-062 [Shoto Kazama]'s [Your Turn] effect to change the  attack target to a player?",
+      "relatedCards": [
+        "EX11-062"
+      ]
+    },
+    {
+      "a": "It triggers when the battle is won. When the Digimon with this effect wins a battle, the opponent's Digimon that lost the battle is deleted, then the \"when this Digimon wins a battle\" effect can be activated.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5827",
+      "q": "When does \"when this Digimon wins a battle\" trigger?"
+    },
+    {
+      "a": "Yes, it triggers.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5828",
+      "q": "Does a \"when this Digimon wins a battle\" effect also trigger when a battle against a Security Digimon is won?"
+    },
+    {
+      "a": "They trigger simultaneously, so the turn player can activate their effects first.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5829",
+      "q": "A Digimon with a \"when this Digimon wins a battle\" effect won a battle, and the opponent's Digimon that lost the battle is deleted. At such times, in what order can players activate the \"when this Digimon wins a battle\" effect and the effects that trigger upon the losing Digimon being deleted?"
+    },
+    {
+      "a": "The \"when this Digimon is deleted\" and \"when this Digimon would leave the battle area\" effects can be activated first.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5830",
+      "q": "A Digimon with a \"when this Digimon wins a battle\" effect won a battle, and the opponent's Digimon lost the battle. At such times, in what order can players activate the \"when this Digimon wins a battle\" effect and the loser Digimon's effects such as \"when this Digimon is deleted\" and \"when this Digimon would leave the battle area\" effects?"
+    },
+    {
+      "a": "Yes, it can be activated.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5831",
+      "q": "A Digimon with a \"when this Digimon wins a battle\" effect won a battle, and the opponent's Digimon lost the battle. At such times, can the \"when this Digimon wins a battle\" effect be activated even if an effect prevents the opponent's Digimon from being deleted?"
+    }
+  ],
+  "Color": "Green",
+  "Cost": "4",
+  "DP": "4000",
+  "Digivolve Cost 1": [
+    "Green",
+    "2 from Lv.3"
+  ],
+  "Effect": [
+    "[On Play] [When Digivolving] You may suspend 1 Digimon.",
+    "[All Turns] [Once Per Turn] When any of your Digimon suspend, if you have 1 or fewer Tamers, you may play 1 [Shoto Kazama] from your hand without paying the cost."
+  ],
+  "Form": "Champion",
+  "Inherited Effect": "[Your Turn] [Once Per Turn] When this Digimon wins a battle, gain 1 memory.",
+  "Notes": [
+    "Extra Booster DAWON OF LIBERATOR [EX-11]",
+    "?search=true&category=522034",
+    "/products/pack/ex-11"
+  ],
+  "Type": "Bird Dragon/LIBERATOR",
+  "cardLv": "Lv.4",
+  "cardNo": "EX11-028",
+  "cardRarity": "C",
+  "cardTitle": "Galemon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX11-028.png?260210"
+}

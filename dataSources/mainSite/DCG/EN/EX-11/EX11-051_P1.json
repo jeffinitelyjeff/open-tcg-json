@@ -1,0 +1,46 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "The effects trigger simultaneously, so the player can choose the activation order.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5904",
+      "q": "Multiple effects trigger when this card is deleted. In what order can they be activated?"
+    },
+    {
+      "a": "No, you can't. If a card with an effect that's pending activation leaves that area before the effect activates, the effect can no longer be activated. In this case, the deleted card's [On Deletion] effect triggers, but it's removed from the trash before the effect can activate.\n                                            \n                        Related Cards",
+      "date": "Feb. 6, 2026",
+      "num": "Q5905",
+      "q": "When this card with BT20-006 [DemiMeramon] in its digivolution cards is deleted, can I use BT20-006 [DemiMeramon]'s inherited effect to return this card to my hand after deletion, then activate this card's [On Deletion] effect to digivolve my Digimon into this card?",
+      "relatedCards": [
+        "BT20-006"
+      ]
+    }
+  ],
+  "Color": "Purple",
+  "Cost": "11",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Purple",
+    "3 from Lv.5"
+  ],
+  "Effect": [
+    "＜Piercing＞ ＜Execute＞",
+    "[On Play] [When Digivolving] [On Deletion] Delete 1 of your opponent's Digimon with the lowest level. Then, you may play 1 level 4 or lower [Ghost] trait Digimon card from your trash without paying the cost.",
+    "[On Deletion] 1 of your [Ghost] trait Digimon may digivolve into a [Ghost] trait Digimon card in the hand without paying the cost."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Extra Booster DAWON OF LIBERATOR [EX-11]",
+    "?search=true&category=522034",
+    "/products/pack/ex-11"
+  ],
+  "Type": "Ghost/LIBERATOR",
+  "cardLv": "Lv.6",
+  "cardNo": "EX11-051",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "Necromon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX11-051_P1.png?260210"
+}

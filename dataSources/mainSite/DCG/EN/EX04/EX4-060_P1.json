@@ -2,13 +2,22 @@
   "Attribute": "Virus",
   "Card Q&A": [
     {
-      "a": "This effect is a \"\"would\"\" effect, so its activation comes first and interrupts [BT11-109 Astral Snatcher]'s effect that places this card in digivolution cards.Therefore, you play 1 [BlitzGreymon] and 1 [CresGarurumon] from the digivolution cards without paying the costs, then place this Digimon at the bottom of your security stack face down. [BT11-109 Astral Snatcher]'s effect that places a card as the bottom digivolution card under another Digimon will fail because its target has been removed.\n                                            \n                        Related Cards",
-      "date": "Mar. 28, 2024",
+      "a": "Yes, you can. If an effect activates, it is to be fully resolved even if the card that activated the effect is removed from that area during the processing.",
+      "date": "Mar. 13, 2026",
       "num": "Q3501",
-      "q": "When [BT11-109 Astral Snatcher]'s effect places this card in another Digimon’s digivolution cards, does this card’s [All Turns] effect activate?",
-      "relatedCards": [
-        "BT11-109"
-      ]
+      "q": "I activated this card's [When Digivolving] effect, and when my opponent's Digimon would leave the battle area for the 1st process, an immediate-type effect such as a \"when [...] would leave\" effect caused this card to be removed from the battle area. Can I then process the rest of this effect?"
+    },
+    {
+      "a": "No, you can't. You must play the specified cards for this card's [All Turns] effect whenever possible.",
+      "date": "Mar. 13, 2026",
+      "num": "Q6031",
+      "q": "1 [BlitzGreymon] and 1 [CresGarurumon] are in this card's digivolution cards. Can I use this card's [All Turns] effect to play just [BlitzGreymon] from this Digimon's digivolution cards?"
+    },
+    {
+      "a": "Yes, it can be played.",
+      "date": "Mar. 13, 2026",
+      "num": "Q6032",
+      "q": "There is just 1 [BlitzGreymon] in this card's digivolution cards.Can I use this card's [All Turns] effect to play just [BlitzGreymon] from this Digimon's digivolution cards?"
     }
   ],
   "Color": "White",

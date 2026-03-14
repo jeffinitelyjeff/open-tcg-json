@@ -2,52 +2,52 @@
   "Attribute": "Vaccine",
   "Card Q&A": [
     {
-      "a": "The player who controls this card decides.",
-      "date": "Mar. 28, 2024",
+      "a": "Yes, you can. If an effect activates, it is to be fully resolved even if the card that activated the effect is removed from that area during the processing.",
+      "date": "Mar. 13, 2026",
       "num": "Q1879",
-      "q": "When placing cards from my opponent's trash at the bottom of their deck with this card’s [When Digivolving] effect, who gets to decide the order of the cards?"
+      "q": "I activated this card's [When Digivolving] effect, and when my opponent's Digimon would leave the battle area for the 1st process, an immediate-type effect such as a \"when [...] would leave\" effect caused this card to be removed from the battle area. Can I then process the part of the effect after \"then\" in this card's effect?"
     },
     {
-      "a": "Digi-Egg cards in your opponent’s trash can be chosen as part of the effect, but they’re returned to the bottom of your opponent’s Digi-Egg deck instead of their normal deck.",
-      "date": "Mar. 28, 2024",
+      "a": "The player that activated this effect chooses.",
+      "date": "Mar. 13, 2026",
       "num": "Q1880",
-      "q": "Does this card’s [When Digivolving] effect let me place Digi-Egg cards from my opponent's trash at the bottom of their deck?"
+      "q": "Which player chooses the order in which the cards are returned to the deck for this card's [When Digivolving] effect?"
     },
     {
-      "a": "No. Even if you have multiple cards with [Mega] in their traits, this effect will only place 10 cards from your opponent's trash at the bottom of their deck.",
-      "date": "Mar. 28, 2024",
+      "a": "Yes, it's returned to the Digi-Egg deck.",
+      "date": "Mar. 13, 2026",
       "num": "Q1881",
-      "q": "If there are 2 cards with [Mega] in their traits in this Digimon’s digivolution cards, do I get to place 20 cards from my opponent’s trash at the bottom of their deck with this card's [When Digivolving] effect?"
+      "q": "If this card's [When Digivolving] effect would return a Digi-Egg card to the deck, is it returned to the Digi-Egg deck?"
     },
     {
-      "a": "Yes, it does. Place as many cards as you can at the bottom of your opponent’s deck.",
-      "date": "Mar. 28, 2024",
+      "a": "No. For each card with the [Mega] trait in digivolution cards, you choose 1 of your opponent's Digimon and delete it, but you only return 10 cards from the trash to the deck.",
+      "date": "Mar. 13, 2026",
       "num": "Q1882",
-      "q": "If my opponent has 9 or fewer cards in their trash, does this card’s [When Digivolving] effect still activate?"
+      "q": "Does this card's [When Digivolving] effect delete 1 of my opponent's Digimon for each card with the [Mega] trait in this card's digivolution cards and return 10 cards in my opponent's trash to the bottom of their deck for each card with the [Mega] trait in this card's digivolution cards?"
     },
     {
-      "a": "No, you can't. You must activate this effect at the start of your turn.",
-      "date": "Mar. 28, 2024",
+      "a": "Yes, you can return them.",
+      "date": "Mar. 13, 2026",
       "num": "Q1883",
-      "q": "Can I choose not to activate this card’s [Start of Your Turn] effect to avoid trashing any cards?"
+      "q": "Can I use this card's [When Digivolving] effect to return cards from my opponent's trash to the bottom of the deck even if they only have 9 or fewer cards in their trash?"
     },
     {
-      "a": "Yes, it does. While there are no cards in your opponent’s security stack to trash, you still perform the part of the effect that reads, “Trash the top card of this Digimon.”",
-      "date": "Mar. 28, 2024",
+      "a": "Yes, you must activate it.",
+      "date": "Mar. 13, 2026",
       "num": "Q1884",
-      "q": "Does this card’s [Start of Your Turn] effect activate even when my opponent’s security stack is empty?"
+      "q": "Do I have to activate this card's [Start of Your Turn] effect?"
     },
     {
-      "a": "No. When there are no digivolution cards, you can't perform \"trash the top card of this Digimon,\" so it doesn't activate.",
-      "date": "Mar. 28, 2024",
+      "a": "No, it isn't trashed. If this card doesn't have any digivolution cards, it isn't considered to have any stacked cards, therefore it isn't trashed.",
+      "date": "Mar. 13, 2026",
       "num": "Q1885",
-      "q": "Does this card's [Start of Your Turn] effect activate when this card has no digivolution cards?"
+      "q": "This card is in the battle area and it has no digivolution cards. Does this card's [Start of Your Turn] effect trash this card?"
     },
     {
-      "a": "No. The [Start of Your Turn] effect on the [BT9-083 Omnimon: Merciful Mode] that was a digivolution card isn't yet in a state where it can activate at the start of your turn, therefore it doesn't trigger.",
-      "date": "Mar. 28, 2024",
+      "a": "No, it doesn't activate.",
+      "date": "Mar. 13, 2026",
       "num": "Q1886",
-      "q": "My turn starts when I have this card with [BT9-083 Omnimon: Merciful Mode] as its top digivolution card. If I use this card's [Start of Your Turn] effect to trash this card, then activate the [Start of Your Turn] effect on the [BT9-083 Omnimon: Merciful Mode] that was a digivolution card, can I trash a total of 2 cards from my opponent's security stack?"
+      "q": "This card has digivolution cards, then I place 1 more card on top and digivolve it. At the start of my turn, I activate this card's [Start of Your Turn] effect and trash the top card. Does this card's [Start of Your Turn] effect activate from under it?"
     }
   ],
   "Color": "White",
