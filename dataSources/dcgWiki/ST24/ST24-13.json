@@ -1,18 +1,33 @@
 {
   "blockIcon": "06",
+  "cardEffects": "[Start of Your Main Phase] [On Play] You may place the top card of your deck face down under this Tamer. Then, if your opponent has a Digimon, gain 1 memory.\n[Your Turn] When effects trash cards from under this Tamer, by suspending this Tamer, 1 of your [DATA SQUAD] trait Digimon gains ＜Jamming＞ for the turn. (This Digimon can't be deleted in battles against Security Digimon.)",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Tamer",
+  "color": "Yellow/Blue",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-24:_Starter_Deck_Data_Squad",
+        "captionText": "ST-24: Starter Deck Data Squad (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST24-13-Sample.png",
+        "imgName": "ST24-13-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fc/ST24-13-Sample.png/revision/latest?cb=20260316071028",
+        "uploadDate": "2026-03-16T07:10:28"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fc/ST24-13-Sample.png/revision/latest?cb=20260316071028",
+  "name": "Marcus Damon & Thomas H. Norstein",
+  "nameJapanese": "大門大＆トーマ・H・ノルシュタイン",
+  "playCost": "4",
+  "rarity": "Rare",
+  "rule": "[Rule] Name: Also treated as [Marcus Damon]/[Thomas H. Norstein].",
+  "securityEffect": "[Security] Play this card without paying the cost.",
   "setData": {
     "ch": [
       {
@@ -20,11 +35,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/ST-24:_Starter_Deck_Data_Squad",
           "text": "ST-24: Starter Deck Data Squad"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": "ST-23 & ST-24: Welcome Tamers Pack",
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": "No Illustrator"
       }
     ],
     "en": [
@@ -33,11 +50,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/ST-24:_Starter_Deck_Data_Squad",
           "text": "ST-24: Starter Deck Data Squad"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": "ST-23 & ST-24: Welcome Tamers Pack",
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": "No Illustrator"
       }
     ],
     "jp": [
@@ -46,11 +65,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/ST-24:_Starter_Deck_Data_Squad",
           "text": "ST-24: Starter Deck Data Squad"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": "ST-23 & ST-24: Welcome Tamers Pack",
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": "No Illustrator"
       }
     ],
     "kr": [
@@ -59,12 +80,15 @@
           "link": "https://digimoncardgame.fandom.com/wiki/ST-24:_Starter_Deck_Data_Squad",
           "text": "ST-24: Starter Deck Data Squad"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": "ST-23 & ST-24: Welcome Tamers Pack",
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": "No Illustrator"
       }
     ]
-  }
+  },
+  "type": "DATA SQUAD"
 }
