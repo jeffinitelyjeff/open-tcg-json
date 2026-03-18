@@ -1,18 +1,42 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[DATA SQUAD] trait: Cost 2",
+  "attribute": "Data",
   "blockIcon": "06",
+  "cardEffects": "[On Play] [When Digivolving] You may return 1 of your opponent's level 3 Digimon to the hand. Then, you may place the top card of your deck face down under any of your [DATA SQUAD] trait Tamers.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-24:_Starter_Deck_Data_Squad",
+        "captionText": "ST-24: Starter Deck Data Squad (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST24-03-Sample.png",
+        "imgName": "ST24-03-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/68/ST24-03-Sample.png/revision/latest?cb=20260318153831",
+        "uploadDate": "2026-03-18T15:38:31"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/68/ST24-03-Sample.png/revision/latest?cb=20260318153831",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] If your hand has 7 or fewer cards, ＜Draw 1＞ (Draw 1 card from your deck.)",
+  "level": "4",
+  "name": "Gaogamon",
+  "nameJapanese": "ガオガモン",
+  "playCost": "4",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -20,10 +44,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/ST-24:_Starter_Deck_Data_Squad",
           "text": "ST-24: Starter Deck Data Squad"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
+        }
+      },
+      {
+        "boosterSet": "ST-23 & ST-24: Welcome Tamers Pack",
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
         }
       }
     ],
@@ -33,10 +65,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/ST-24:_Starter_Deck_Data_Squad",
           "text": "ST-24: Starter Deck Data Squad"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
+        }
+      },
+      {
+        "boosterSet": "ST-23 & ST-24: Welcome Tamers Pack",
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
         }
       }
     ],
@@ -46,10 +86,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/ST-24:_Starter_Deck_Data_Squad",
           "text": "ST-24: Starter Deck Data Squad"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
+        }
+      },
+      {
+        "boosterSet": "ST-23 & ST-24: Welcome Tamers Pack",
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
         }
       }
     ],
@@ -59,12 +107,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/ST-24:_Starter_Deck_Data_Squad",
           "text": "ST-24: Starter Deck Data Squad"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
+        }
+      },
+      {
+        "boosterSet": "ST-23 & ST-24: Welcome Tamers Pack",
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
         }
       }
     ]
-  }
+  },
+  "type": "Beast/DATA SQUAD"
 }
