@@ -1,4 +1,6 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[DATA SQUAD] trait: Cost 3",
+  "attribute": "Data",
   "blockIcon": "06",
   "cardRestriction": {
     "chinese": "Not released",
@@ -6,13 +8,20 @@
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "3",
+    "level": "5"
+  },
+  "form": "Mega",
   "galleryImages": {},
   "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "level": "6",
+  "name": "Rosemon",
+  "nameJapanese": "ロゼモン",
+  "rarity": "Super Rare",
   "setData": {
     "ch": [
       {
@@ -20,10 +29,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/ST-24:_Starter_Deck_Data_Squad",
           "text": "ST-24: Starter Deck Data Squad"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
+        }
+      },
+      {
+        "boosterSet": "ST-23 & ST-24: Welcome Tamers Pack",
+        "foil&Rarity": "Foil - Pre Release Stamp - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
         }
       }
     ],
@@ -33,10 +50,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/ST-24:_Starter_Deck_Data_Squad",
           "text": "ST-24: Starter Deck Data Squad"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
+        }
+      },
+      {
+        "boosterSet": "ST-23 & ST-24: Welcome Tamers Pack",
+        "foil&Rarity": "Foil - Pre Release Stamp - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
         }
       }
     ],
@@ -46,10 +71,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/ST-24:_Starter_Deck_Data_Squad",
           "text": "ST-24: Starter Deck Data Squad"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
+        }
+      },
+      {
+        "boosterSet": "ST-23 & ST-24: Welcome Tamers Pack",
+        "foil&Rarity": "Foil - Pre Release Stamp - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
         }
       }
     ],
@@ -59,12 +92,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/ST-24:_Starter_Deck_Data_Squad",
           "text": "ST-24: Starter Deck Data Squad"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
+        }
+      },
+      {
+        "boosterSet": "ST-23 & ST-24: Welcome Tamers Pack",
+        "foil&Rarity": "Foil - Pre Release Stamp - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
         }
       }
     ]
-  }
+  },
+  "type": "Fairy/DATA SQUAD"
 }
