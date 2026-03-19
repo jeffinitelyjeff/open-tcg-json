@@ -2,6 +2,7 @@
   "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[DATA SQUAD] trait: Cost 3",
   "attribute": "Data",
   "blockIcon": "06",
+  "cardEffects": "[On Play] [When Digivolving] [When Attacking] [Once Per Turn] Suspend 1 of your opponent's Digimon or Tamers. It can't unsuspend until their turn ends. Then, by trashing 2 bottom face-down cards from under any of your Tamers, this Digimon may digivolve into a [DATA SQUAD] trait Digimon card in the hand without paying the cost.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
@@ -15,12 +16,26 @@
     "digivolveCost": "3",
     "level": "4"
   },
+  "dp": "7000 DP",
   "form": "Ultimate",
-  "galleryImages": {},
-  "image": null,
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-24:_Starter_Deck_Data_Squad",
+        "captionText": "ST-24: Starter Deck Data Squad (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST24-10-Sample.png",
+        "imgName": "ST24-10-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/19/ST24-10-Sample.png/revision/latest?cb=20260319123109",
+        "uploadDate": "2026-03-19T12:31:09"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/19/ST24-10-Sample.png/revision/latest?cb=20260319123109",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When this Digimon with [Rosemon] in its name or the [DATA SQUAD] trait would leave the battle area, by trashing the bottom face-down card from under any of your Tamers, it doesn't leave.",
   "level": "5",
   "name": "Lilamon",
   "nameJapanese": "ライラモン",
+  "playCost": "7",
   "rarity": "Uncommon",
   "setData": {
     "ch": [

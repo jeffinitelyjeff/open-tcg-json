@@ -1,7 +1,8 @@
 {
-  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[DATA SQUAD] trait: Cost 3",
+  "altDigivolutionRequirements": "[Digivolve]  [Lilamon]/Lv.5 w/[DATA SQUAD] trait: Cost 3",
   "attribute": "Data",
   "blockIcon": "06",
+  "cardEffects": "[When Digivolving] [When Attacking] [Once Per Turn] You may suspend up to 2 of your opponent's Digimon or Tamers. Then, by trashing the bottom face-down card from under any of your Tamers, none of their Digimon can unsuspend until their turn ends.\n[All Turns] [Once Per Turn] When any of your opponent's Digimon or Tamers suspend, or effects trash cards from under your Tamers, trash your opponent's top security card.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
@@ -9,18 +10,31 @@
     "nameJapanese": "Not released"
   },
   "cardType": "Digimon",
-  "color": "Green",
+  "color": "Green/Red",
   "digivolutionRequirements": {
     "color": "Green",
-    "digivolveCost": "3",
+    "digivolveCost": "4",
     "level": "5"
   },
+  "dp": "12000 DP",
   "form": "Mega",
-  "galleryImages": {},
-  "image": null,
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-24:_Starter_Deck_Data_Squad",
+        "captionText": "ST-24: Starter Deck Data Squad (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST24-11-Sample.png",
+        "imgName": "ST24-11-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e3/ST24-11-Sample.png/revision/latest?cb=20260319123536",
+        "uploadDate": "2026-03-19T12:35:36"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e3/ST24-11-Sample.png/revision/latest?cb=20260319123536",
   "level": "6",
   "name": "Rosemon",
   "nameJapanese": "ロゼモン",
+  "playCost": "11",
   "rarity": "Super Rare",
   "setData": {
     "ch": [
