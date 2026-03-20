@@ -1,18 +1,42 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Three Musketeers] in text or w/[TS] trait: Cost 3",
+  "attribute": "Virus",
   "blockIcon": "06",
+  "cardEffects": "[On Play] [When Digivolving] By placing 1 [Three Musketeers] trait card from your hand or trash as any of your Digimon's bottom digivolution cards, ＜Draw 1＞ (Draw 1 card from your deck.)\n[When Digivolving] [When Attacking] [Once Per Turn] By trashing 1 Option card from any of your Digimon's digivolution cards, you may use 1 [Three Musketeers] trait Option card from your trash with the cost reduced by 3.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-083-Sample.png",
+        "imgName": "BT25-083-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e5/BT25-083-Sample.png/revision/latest?cb=20260320123139",
+        "uploadDate": "2026-03-20T12:31:39"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e5/BT25-083-Sample.png/revision/latest?cb=20260320123139",
+  "inheritedEffect": "[On Deletion] You may play 1 level 4 or lower Digimon card with [Three Musketeers] in its text from your trash without paying the cost.",
+  "level": "5",
+  "name": "LadyDevimon",
+  "nameJapanese": "レディーデビモン",
+  "playCost": "7",
+  "rarity": "Common",
   "setData": {
     "ch": [
       {
@@ -20,10 +44,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
         }
       }
     ],
@@ -33,10 +57,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
         }
       }
     ],
@@ -46,10 +70,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
         }
       }
     ],
@@ -59,12 +83,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
         }
       }
     ]
-  }
+  },
+  "type": "Fallen Angel/Titan/TS"
 }
