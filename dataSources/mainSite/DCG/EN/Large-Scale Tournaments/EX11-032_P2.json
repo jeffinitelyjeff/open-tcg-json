@@ -1,0 +1,84 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": "Yes, the digivolution cost is 2.\n                                            \n                        Related Cards",
+      "date": "Feb. 6, 2026",
+      "num": "Q5838",
+      "q": "If I use this card's {Hand} [Main] effect to digivolve EX7-031 [Pteromon] into this card, ignoring digivolution requirements, does the combination with EX7-031 [Pteromon]'s effect make the digivolution cost 2?",
+      "relatedCards": [
+        "EX7-031"
+      ]
+    },
+    {
+      "a": "No, you can't.\n                                            \n                        Related Cards",
+      "date": "Feb. 6, 2026",
+      "num": "Q5839",
+      "q": "Can I activate this card's {Hand} [Main] effect at the same time as an effect such as P-106 [Agility Training]'s effect that digivolves?",
+      "relatedCards": [
+        "P-106"
+      ]
+    },
+    {
+      "a": "Yes, either can be suspended.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5840",
+      "q": "Can I use this card's [When Digivolving] effect to suspend either my Digimon or my opponent's Digimon?"
+    },
+    {
+      "a": "It triggers when the battle is won. When the Digimon with this effect wins a battle, the opponent's Digimon that lost the battle is deleted, then the \"when this Digimon wins a battle\" effect can be activated.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5841",
+      "q": "When does \"when this Digimon wins a battle\" trigger?"
+    },
+    {
+      "a": "Yes, it triggers.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5842",
+      "q": "Does a \"when this Digimon wins a battle\" effect also trigger when a battle against a Security Digimon is won?"
+    },
+    {
+      "a": "They trigger simultaneously, so the turn player can activate their effects first.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5843",
+      "q": "A Digimon with a \"when this Digimon wins a battle\" effect won a battle, and the opponent's Digimon that lost the battle is deleted. At such times, in what order can players activate the \"when this Digimon wins a battle\" effect and the effects that trigger upon the losing Digimon being deleted?"
+    },
+    {
+      "a": "The \"when this Digimon is deleted\" and \"when this Digimon would leave the battle area\" effects can be activated first.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5844",
+      "q": "A Digimon with a \"when this Digimon wins a battle\" effect won a battle, and the opponent's Digimon lost the battle. At such times, in what order can players activate the \"when this Digimon wins a battle\" effect and the loser Digimon's effects such as \"when this Digimon is deleted\" and \"when this Digimon would leave the battle area\" effects?"
+    },
+    {
+      "a": "Yes, it can be activated.",
+      "date": "Feb. 6, 2026",
+      "num": "Q5845",
+      "q": "A Digimon with a \"when this Digimon wins a battle\" effect won a battle, and the opponent's Digimon lost the battle. At such times, can the \"when this Digimon wins a battle\" effect be activated even if an effect prevents the opponent's Digimon from being deleted?"
+    }
+  ],
+  "Color": "Green",
+  "Cost": "8",
+  "DP": "8000",
+  "Digivolve Cost 1": [
+    "Green",
+    "3 from Lv.4"
+  ],
+  "Effect": [
+    "{Hand} [Main] If you have [Shoto Kazama], by placing 1 [Galemon] from your trash as your [Pteromon]'s bottom digivolution card, it digivolves into this card for a digivolution cost of 3, ignoring digivolution requirements.",
+    "[When Digivolving] You may suspend 1 Digimon. Then, you may play 1 3000 DP or lower green Digimon card with [Avian] or [Bird] in any of its traits from your hand without paying the cost. For each suspended Digimon, add 1000 to this effect's DP maximum."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "[Your Turn] [Once Per Turn] When this Digimon wins a battle, this [Vortex Warriors] trait Digimon may unsuspend.",
+  "Notes": [
+    "Judge Pack 9",
+    "?search=true&category=522902"
+  ],
+  "Type": "Bird Dragon/Vortex Warriors/LIBERATOR",
+  "cardLv": "Lv.5",
+  "cardNo": "EX11-032",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "U",
+  "cardTitle": "GrandGalemon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX11-032_P2.png?260210"
+}

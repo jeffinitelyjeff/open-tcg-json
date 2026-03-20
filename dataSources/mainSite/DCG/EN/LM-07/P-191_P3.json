@@ -1,0 +1,86 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "No, it isn't deleted yet. Once all of the processing for this card's [On Play] [When Digivolving] effect is resolved, then all of the Digimon with 0 DP are deleted at the same time.",
+      "date": "Jul. 4, 2025",
+      "num": "Q4980",
+      "q": "I activated \"to 1 of your opponent’s Digimon, give -4000 DP for the turn for each of your Digimon with the [Olympos XII] trait\" in this card's [On Play] [When Digivolving] effect, and the DP of my opponent's Digimon became 0. At such times, is that Digimon deleted before the part of the effect after \"then\"?"
+    },
+    {
+      "a": "No, you can't. You choose 1 of your opponent's Digimon, then that Digimon's DP is reduced by this card's [On Play] [When Digivolving] effect.",
+      "date": "Jul. 4, 2025",
+      "num": "Q4981",
+      "q": "Can I use this card's [On Play] [When Digivolving] effect to reduce the DP of multiple Digimon?"
+    },
+    {
+      "a": "Yes, it can attack.",
+      "date": "Jul. 4, 2025",
+      "num": "Q4982",
+      "q": "After DNA digivolving, can the DNA digivolved Digimon attack using this card's [End of Your Turn] effect?"
+    },
+    {
+      "a": "Yes, it can attack.",
+      "date": "Jul. 4, 2025",
+      "num": "Q4983",
+      "q": "If I choose to not use this card's [End of Your Turn] effect to DNA digivolve, can I still use it to have 1 of my Digimon attack?"
+    },
+    {
+      "a": "No, you can't. This card's inherited effect doesn't trigger at such timings.",
+      "date": "Jul. 4, 2025",
+      "num": "Q4984",
+      "q": "At the end of my turn, I used this card's [End of Your Turn] effect to DNA digivolve this card and 1 of my Digimon into [GraceNovamon], then I used that [GraceNovamon] to attack. Can I then activate this card's inherited effect?"
+    },
+    {
+      "a": "Yes, you can. If you use this card's inherited effect to attack, then use BT22-077 [Dianamon]'s [End of Your Turn] effect to unsuspend, the counter timing will occur once all other processing has been resolved.\n                                            \n                        Related Cards",
+      "date": "Jul. 4, 2025",
+      "num": "Q4985",
+      "q": "I have an unsuspended BT22-077 [Dianamon] with this card in its digivolution cards in the battle area. At the end of my turn, can I activate this card's inherited effect to attack, then use BT22-077 [Dianamon]'s [End of Your Turn] effect to unsuspend?",
+      "relatedCards": [
+        "BT22-077"
+      ]
+    },
+    {
+      "a": "Yes, you can.\n                                            \n                        Related Cards",
+      "date": "Jul. 4, 2025",
+      "num": "Q4986",
+      "q": "I have a suspended BT22-077 [Dianamon] with this card in its digivolution cards in the battle area. At the end of my turn, can I activate BT22-077 [Dianamon]'s [End of Your Turn] effect, unsuspend, and then use this card's inherited effect to attack?",
+      "relatedCards": [
+        "BT22-077"
+      ]
+    }
+  ],
+  "Color": [
+    "Yellow",
+    "Red"
+  ],
+  "Cost": "7",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "Red",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "{Hand} [Counter] ＜Blast Digivolve＞",
+    "[On Play] [When Digivolving] To 1 of your opponent’s Digimon, give -4000 DP for the turn for each of your Digimon with the [Olympos XII] trait. Then, delete up to 7000 DP total worth of their Digimon.",
+    "[End of Your Turn] 2 of your Digimon may DNA digivolve into [GraceNovamon] in the hand. Then, 1 of your Digimon may attack."
+  ],
+  "Form": "Mega",
+  "Inherited Effect": "[End of Your Turn] [Once Per Turn] 1 of your Digimon may attack.",
+  "Notes": [
+    "Limited Card Pack ANOTHER KNIGHT [LM-07]",
+    "?search=true&category=522203",
+    "/products/goods/limited-lm-07.php"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.5 w/[Light Fang]/[Night Claw] trait: Cost 3",
+  "Special Rule": "＜Overflow (-4)＞ (As this card moves from the field or under a card to an area other than those, lose 4 memory.)",
+  "Type": "Shaman/Olympos XII/Light Fang",
+  "cardLv": "Lv.6",
+  "cardNo": "P-191",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "P",
+  "cardTitle": "Apollomon ACE",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/P-191_P3.png?260210"
+}

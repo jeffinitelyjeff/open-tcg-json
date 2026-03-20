@@ -1,0 +1,56 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": "No, this effect is a [Once Per Turn] effect, so it can only activate once.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3584",
+      "q": "If this card's [When Digivolving][When Attacking] effect activates when digivolving, does it activate again in the same turn when attacking?"
+    },
+    {
+      "a": "Yes. They can't suspend by effects regardless of whether they were activated by you or your opponent.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3585",
+      "q": "Does this card's [When Digivolving][When Attacking] effect prevent my opponent's Digimon from suspending even when I activate an effect such as a \"suspend 1 of your opponent’s Digimon\" effect?"
+    },
+    {
+      "a": "No, it can't. This card's effect targets \"all of their Digimon with no digivolution cards,\" therefore even if your opponent's Digimon with no digivolution cards later enters the battle area, they are still affected by this effect.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3586",
+      "q": "If an opponent's Digimon with no digivolution cards enters the battle area after this card's [When Digivolving][When Attacking] effect activates, can that Digimon suspend?"
+    },
+    {
+      "a": "Yes, it can now suspend.",
+      "date": "Mar. 28, 2024",
+      "num": "Q3587",
+      "q": "If an opponent's Digimon gains digivolution cards through digivolution or some other method after this card's [When Digivolving][When Attacking] effect activates, can that Digimon now suspend?"
+    }
+  ],
+  "Color": "Blue",
+  "Cost": "12",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Blue",
+    "Red",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "＜Blocker＞",
+    "[When Digivolving][When Attacking][Once Per Turn] From 1 of your opponent's Digimon, trash any 1 digivolution card for each of this Digimon's digivolution cards. Then, until your opponent's turn ends, none of their Digimon with no digivolution cards can suspend.",
+    "[All Turns][Once Per Turn] When effects trash your opponent's Digimon's digivolution cards, this Digimon unsuspends."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Premium Heroines Set Ver. 2 [PB-23]",
+    "?search=true&category=522904"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.5 w/[Night Claw]/[Light Fang] trait: Cost 4",
+  "Type": "Shaman/Olympos XII/Night Claw",
+  "cardLv": "Lv.6",
+  "cardNo": "EX5-025",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "Dianamon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX5-025_P2.png?260210"
+}

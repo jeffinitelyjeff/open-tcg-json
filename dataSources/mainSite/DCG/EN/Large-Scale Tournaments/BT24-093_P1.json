@@ -1,0 +1,47 @@
+{
+  "Card Q&A": [
+    {
+      "a": "Yes, you can.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5692",
+      "q": "I have 0 security cards. Can I activate this card’s [Main] effect and perform  without adding a security card to the hand?"
+    },
+    {
+      "a": "[Security] effects take precedence for activation. Upon a security check, a [Security] effect will immediately activate without pending activation. For other triggered effects, the turn player activates their effects first.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5693",
+      "q": "In what order do a [Security] effect, \"when [...] performs a security check\" effect, and \"when a card is removed from [...] security stack\" effect activate when they trigger simultaneously upon a security check?"
+    },
+    {
+      "a": "This effect allows you to choose one of your Digimon with [Aegiochusmon] or [Jupitermon] in its name and place its top stacked card as your top security card.",
+      "date": "Dec. 25, 2025",
+      "num": "Q5694",
+      "q": "What does this card's  effect do, exactly?"
+    },
+    {
+      "a": "No, you can't. Only 1 card isn't considered \"stacked cards.\"",
+      "date": "Dec. 25, 2025",
+      "num": "Q5695",
+      "q": "Can I use this card’s  effect to place one of Digimon with [Aegiochusmon] or [Jupitermon] in its name that doesn't have any cards under it on top of the security stack?"
+    }
+  ],
+  "Color": "Yellow",
+  "Cost": "2",
+  "Effect": [
+    "[Main] Add your top security card to the hand and ＜Recovery +1 ≪Deck≫＞. Then, place this card in the battle area.",
+    "[All Turns] When your security stack is removed from, ＜Delay＞.",
+    "・You may place the top stacked card of any of your Digimon with [Aegiochusmon] or [Jupitermon] in their names as the top security card."
+  ],
+  "Notes": [
+    "Judge Pack 9",
+    "?search=true&category=522902"
+  ],
+  "Security Effect": "[Security] You may play 1 [Aegiomon] or [Elecmon] from your hand or trash without paying the cost.",
+  "Type": "Iliad/TS",
+  "cardNo": "BT24-093",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "U",
+  "cardTitle": "Temple of Beginnings",
+  "cardType": "Option",
+  "imgSrc": "../images/cardlist/card/BT24-093_P1.png?260210"
+}
