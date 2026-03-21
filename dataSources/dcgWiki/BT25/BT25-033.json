@@ -1,13 +1,23 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[TS] trait: Cost 2",
+  "attribute": "Vaccine",
   "blockIcon": "06",
+  "cardEffects": "＜Barrier＞ (When this Digimon would be deleted in battle, by trashing your top security card, it isn't deleted.)\n[On Play] [When Digivolving] By adding your top security card to the hand, 1 of your opponent's Digimon gets -5000 DP for the turn.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "form": "Champion",
   "galleryImages": {
     "en": [
       {
@@ -21,9 +31,12 @@
     ]
   },
   "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/79/BT25-033-Sample.png/revision/latest?cb=20260321013802",
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "inheritedEffect": "＜Barrier＞ (When this Digimon would be deleted in battle, by trashing your top security card, it isn't deleted.)",
+  "level": "4",
+  "name": "Aegiomon",
+  "nameJapanese": "アイギオモン",
+  "playCost": "5",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -31,10 +44,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
         }
       }
     ],
@@ -44,10 +57,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
         }
       }
     ],
@@ -57,10 +70,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
         }
       }
     ],
@@ -70,12 +83,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
         }
       }
     ]
-  }
+  },
+  "type": "Shaman/Iliad/TS"
 }

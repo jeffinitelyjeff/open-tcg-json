@@ -1,13 +1,23 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.2 w/[TS] trait: Cost 0",
+  "attribute": "Data",
   "blockIcon": "06",
+  "cardEffects": "[Start of Your Main Phase] By adding your top security card to the hand, gain 1 memory.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "2000 DP",
+  "form": "Rookie",
   "galleryImages": {
     "en": [
       {
@@ -21,9 +31,12 @@
     ]
   },
   "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f8/BT25-030-Sample.png/revision/latest?cb=20260321013740",
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] You may add your top security card to the hand. Then, if you have 0 security cards, ＜Recovery +1＞ (Place the top card of your deck as your top security card.)",
+  "level": "3",
+  "name": "Elecmon",
+  "nameJapanese": "エレキモン",
+  "playCost": "3",
+  "rarity": "Common",
   "setData": {
     "ch": [
       {
@@ -31,10 +44,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
         }
       }
     ],
@@ -44,10 +57,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
         }
       }
     ],
@@ -57,10 +70,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
         }
       }
     ],
@@ -70,12 +83,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
         }
       }
     ]
-  }
+  },
+  "type": "Mammal/Iliad/TS"
 }
