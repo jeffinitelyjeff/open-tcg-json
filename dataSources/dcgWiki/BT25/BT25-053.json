@@ -2,7 +2,7 @@
   "altDigivolutionRequirements": "[Digivolve]  [Aegiomon]: Cost 3",
   "attribute": "Vaccine",
   "blockIcon": "05",
-  "cardEffects": "＜Vortex＞ (At the end of your turn, this Digimon may attack an opponent's Digimon. With this effect, it can attack the turn it was played.)\n＜Decode ([Aegiomon])＞ (When this Digimon would leave the battle area other than in battle, you may play 1 [Aegiomon] from its digivolution cards without paying the cost.)\n[On Play] [When Digivolving]",
+  "cardEffects": "＜Vortex＞ (At the end of your turn, this Digimon may attack an opponent's Digimon. With this effect, it can attack the turn it was played.)\n＜Decode ([Aegiomon])＞ (When this Digimon would leave the battle area other than in battle, you may play 1 [Aegiomon] from its digivolution cards without paying the cost.)\n[On Play] [When Digivolving] Suspend 1 of your opponent's Digimon or Tamers. It can't unsuspend until their turn ends. Then, if you have 3 or fewer security cards, this Digimon gains ＜Piercing＞  (When this Digimon attacks and deletes an opponent's Digimon in battle, it checks security before the attack ends.) and +5000 DP for the turn.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
@@ -25,9 +25,20 @@
   ],
   "dp": "8000 DP",
   "form": "Ultimate",
-  "galleryImages": {},
-  "image": null,
-  "inheritedEffect": "[All Turns] [Once Per Turn]",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-053-Sample.png",
+        "imgName": "BT25-053-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/42/BT25-053-Sample.png/revision/latest?cb=20260321185235",
+        "uploadDate": "2026-03-21T18:52:35"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/42/BT25-053-Sample.png/revision/latest?cb=20260321185235",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When your security stack is removed from, you may suspend 1 of your opponent's Digimon or Tamers.",
   "level": "5",
   "name": "Aegiochusmon: Green",
   "nameJapanese": "アイギオテュースモン：グリーン",
