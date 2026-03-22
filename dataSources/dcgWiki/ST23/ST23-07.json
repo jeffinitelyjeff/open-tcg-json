@@ -1,8 +1,8 @@
 {
-  "altDigivolutionRequirements": "[Digivolve]  Lv.2 w/[Glowing Dawn] trait: Cost 0",
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Glowing Dawn] trait: Cost 2",
   "attribute": "Data",
   "blockIcon": "06",
-  "cardEffects": "[When Moving] [On Play] Reveal the top 3 cards of your deck. Among them, add 1 [Glowing Dawn] trait card to the hand and place 1 such card face down under any of your [Glowing Dawn] trait Tamers. Return the rest to the bottom of the deck.",
+  "cardEffects": "[On Play] [When Digivolving] If you have 1 or fewer Tamers, you may play 1 Tamer card with the [Glowing Dawn] trait from your hand without paying the cost.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
@@ -13,30 +13,30 @@
   "color": "Green",
   "digivolutionRequirements": {
     "color": "Green",
-    "digivolveCost": "0",
-    "level": "2"
+    "digivolveCost": "2",
+    "level": "3"
   },
-  "dp": "1000 DP",
-  "form": "Rookie",
+  "dp": "6000 DP",
+  "form": "Champion",
   "galleryImages": {
     "en": [
       {
         "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-23:_Starter_Deck_Digimon_Beatbreak",
         "captionText": "ST-23: Starter Deck Digimon Beatbreak (EN)",
-        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST23-06-Sample.png",
-        "imgName": "ST23-06-Sample.png",
-        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/dd/ST23-06-Sample.png/revision/latest?cb=20260207034754",
-        "uploadDate": "2026-02-07T03:47:54"
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST23-07-Sample.png",
+        "imgName": "ST23-07-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9c/ST23-07-Sample.png/revision/latest?cb=20260322003306",
+        "uploadDate": "2026-03-22T00:33:06"
       }
     ]
   },
-  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/dd/ST23-06-Sample.png/revision/latest?cb=20260207034754",
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9c/ST23-07-Sample.png/revision/latest?cb=20260322003306",
   "inheritedEffect": "＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon in battle, it checks security before the attack ends.)",
-  "level": "3",
-  "name": "Gekkomon",
-  "nameJapanese": "ゲッコーモン",
-  "playCost": "3",
-  "rarity": "Rare",
+  "level": "4",
+  "name": "Armalizamon",
+  "nameJapanese": "アルマリザモン",
+  "playCost": "5",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -44,7 +44,7 @@
           "link": "https://digimoncardgame.fandom.com/wiki/ST-23:_Starter_Deck_Digimon_Beatbreak",
           "text": "ST-23: Starter Deck Digimon Beatbreak"
         },
-        "foil&Rarity": "Foil - Rare",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
           "text": "Spareribs"
@@ -52,7 +52,7 @@
       },
       {
         "boosterSet": "ST-23 & ST-24: Welcome Tamers Pack",
-        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
           "text": "Spareribs"
@@ -65,7 +65,7 @@
           "link": "https://digimoncardgame.fandom.com/wiki/ST-23:_Starter_Deck_Digimon_Beatbreak",
           "text": "ST-23: Starter Deck Digimon Beatbreak"
         },
-        "foil&Rarity": "Foil - Rare",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
           "text": "Spareribs"
@@ -73,7 +73,7 @@
       },
       {
         "boosterSet": "ST-23 & ST-24: Welcome Tamers Pack",
-        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
           "text": "Spareribs"
@@ -86,7 +86,7 @@
           "link": "https://digimoncardgame.fandom.com/wiki/ST-23:_Starter_Deck_Digimon_Beatbreak",
           "text": "ST-23: Starter Deck Digimon Beatbreak"
         },
-        "foil&Rarity": "Foil - Rare",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
           "text": "Spareribs"
@@ -94,7 +94,7 @@
       },
       {
         "boosterSet": "ST-23 & ST-24: Welcome Tamers Pack",
-        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
           "text": "Spareribs"
@@ -107,7 +107,7 @@
           "link": "https://digimoncardgame.fandom.com/wiki/ST-23:_Starter_Deck_Digimon_Beatbreak",
           "text": "ST-23: Starter Deck Digimon Beatbreak"
         },
-        "foil&Rarity": "Foil - Rare",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
           "text": "Spareribs"
@@ -115,7 +115,7 @@
       },
       {
         "boosterSet": "ST-23 & ST-24: Welcome Tamers Pack",
-        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "foil&Rarity": "Foil - Pre Release Stamp - Uncommon",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
           "text": "Spareribs"
