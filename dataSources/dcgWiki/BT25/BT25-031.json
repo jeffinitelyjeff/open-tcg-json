@@ -1,18 +1,42 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.2 w/[TS] trait: Cost 0",
+  "attribute": "Data",
   "blockIcon": "06",
+  "cardEffects": "[On Play] Reveal the top 3 cards of your deck. Add 1 [Angel], [Archangel], [Three Great Angels] or [Four Great Dragons] trait card and 1 [TS] trait card among them to the hand. Return the rest to the bottom of the deck.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-031-Sample.png",
+        "imgName": "BT25-031-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c1/BT25-031-Sample.png/revision/latest?cb=20260325003339",
+        "uploadDate": "2026-03-25T00:33:39"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c1/BT25-031-Sample.png/revision/latest?cb=20260325003339",
+  "inheritedEffect": "＜Barrier＞ (When this Digimon would be deleted in battle, by trashing your top security card, it isn't deleted.)",
+  "level": "3",
+  "name": "Patamon",
+  "nameJapanese": "パタモン",
+  "playCost": "3",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -20,10 +44,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NAOKI_AKAMINE",
+          "text": "NAOKI AKAMINE"
+        }
+      },
+      {
+        "boosterSet": "Box Promotion Pack: Dual Revolution",
+        "foil&Rarity": "Full Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NAOKI_AKAMINE",
+          "text": "NAOKI AKAMINE"
         }
       }
     ],
@@ -33,10 +65,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NAOKI_AKAMINE",
+          "text": "NAOKI AKAMINE"
+        }
+      },
+      {
+        "boosterSet": "Box Promotion Pack: Dual Revolution",
+        "foil&Rarity": "Full Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NAOKI_AKAMINE",
+          "text": "NAOKI AKAMINE"
         }
       }
     ],
@@ -46,10 +86,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NAOKI_AKAMINE",
+          "text": "NAOKI AKAMINE"
+        }
+      },
+      {
+        "boosterSet": "Box Promotion Pack: Dual Revolution",
+        "foil&Rarity": "Full Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NAOKI_AKAMINE",
+          "text": "NAOKI AKAMINE"
         }
       }
     ],
@@ -59,12 +107,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NAOKI_AKAMINE",
+          "text": "NAOKI AKAMINE"
+        }
+      },
+      {
+        "boosterSet": "Box Promotion Pack: Dual Revolution",
+        "foil&Rarity": "Full Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NAOKI_AKAMINE",
+          "text": "NAOKI AKAMINE"
         }
       }
     ]
-  }
+  },
+  "type": "Mammal/Iliad/ADAMAS/TS"
 }
