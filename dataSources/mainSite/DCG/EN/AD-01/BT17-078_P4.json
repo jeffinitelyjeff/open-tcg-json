@@ -1,0 +1,46 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "Yes, you can process it. Even if this Digimon didn't DNA digivolve, this card's [On Play] [When Digivolving] effect will delete 1 of your opponent's Digimon.",
+      "date": "Jun. 13, 2025",
+      "num": "Q2851",
+      "q": "Can I process the part of the effect after \"then\" in this card's [On Play] [When Digivolving] effect even if the \"if\" condition in the 1st process isn't met?"
+    },
+    {
+      "a": "Yes, you can. If an effect activates, it is to be fully resolved even if the card that activated the effect is removed from that area during the processing.",
+      "date": "Mar. 13, 2026",
+      "num": "Q6006",
+      "q": "I activated this card's [On Play] [When Digivolving] effect, and when my opponent's Digimon would leave the battle area for the 1st process, an immediate-type effect such as a \"when [...] would leave\" effect caused this card to be removed from the battle area. Can I then process the part of the effect after \"then\" in this card's effect?"
+    }
+  ],
+  "Color": "White",
+  "Cost": "9",
+  "DP": "15000",
+  "Digivolve Cost 1": [
+    "Red",
+    "Blue",
+    "5 from Lv.6"
+  ],
+  "Effect": [
+    "{Hand} [Counter] ＜Blast DNA Digivolve ([WarGreymon] + [MetalGarurumon])＞ (1 of your specified Digimon and 1 specified card in the hand may DNA digivolve into this card.)",
+    "＜Raid＞ ＜Blocker＞",
+    "[On Play] [When Digivolving] If DNA digivolving, choose 1 of your opponent's Digimon, and return all of their Digimon with the same level as it to the bottom of the deck. Then, delete 1 of their Digimon."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Advanced Booster DIGIMON GENERATION [AD-01]",
+    "?search=true&category=522035",
+    "/products/pack/ad-01"
+  ],
+  "Special Digivolution Condition": "[DNA Digivolve] Lv.6 w/[Greymon] in name+Lv.6 w/[Garurumon] in name: Cost 0",
+  "Special Rule": "＜Overflow (-5)＞ (As this card moves from the field or under a card to an area other than those, lose 5 memory.)",
+  "Type": "Holy Warrior/Royal Knight",
+  "cardLv": "Lv.7",
+  "cardNo": "BT17-078",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "Omnimon ACE",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT17-078_P4.png?260210"
+}

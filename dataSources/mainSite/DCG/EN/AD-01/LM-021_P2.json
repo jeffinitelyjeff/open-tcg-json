@@ -1,0 +1,78 @@
+{
+  "Attribute": "Unknown",
+  "Card Q&A": [
+    {
+      "a": "No, this is a standard digivolution requirement for a Digimon card. It references the number of your security cards, but it's not an effect.",
+      "date": "Mar. 28, 2024",
+      "num": "Q4012",
+      "q": "Is \"[Digivolve] While you have 2 or fewer security cards, [Agumon]: Cost 3\" a digivolution requirement added by an effect while I have 2 or fewer security cards?"
+    },
+    {
+      "a": "Yes, you can. Digivolution is possible as long as you have 2 or fewer security cards when you use .",
+      "date": "Mar. 28, 2024",
+      "num": "Q4013",
+      "q": "Can I use  to digivolve my [Agumon] into this card in the hand when I have 2 or fewer security cards and an opponent's Digimon attacks?"
+    },
+    {
+      "a": "No, it can't. Digivolution from [Agumon] isn't possible because the digivolution requirements aren't met when you use .",
+      "date": "Mar. 28, 2024",
+      "num": "Q4014",
+      "q": "If an opponent's Digimon attacks when I have 2 or fewer security cards, then an effect adds a card to my security stack so my security stack has 3 or more cards when I use , can my [Agumon] digivolve into this card in the hand?"
+    },
+    {
+      "a": "Yes, it can. Digivolution from [Agumon] is possible as long as the digivolution requirements are met when you use .",
+      "date": "Mar. 28, 2024",
+      "num": "Q4015",
+      "q": "If an opponent's Digimon attacks when I have 3 security cards, then an effect removes a card from my security stack so my security stack has 2 or fewer cards when I use , can my [Agumon] digivolve into this card in the hand?"
+    },
+    {
+      "a": "Yes, it can.\n                                            \n                        Related Cards",
+      "date": "Mar. 28, 2024",
+      "num": "Q4016",
+      "q": "If I use an effect such as P-103 [Offense Training]'s  that digivolves a Digimon, can my [Agumon] digivolve into this card in the hand when I have 2 or fewer security cards?",
+      "relatedCards": [
+        "P-103"
+      ]
+    },
+    {
+      "a": "This effect allows you to choose any number of your opponent's Digimon whose total DP adds up to the same as this Digimon's DP or less, then you delete all of them. For example, if this Digimon has 14000 DP when its [On Play] [When Digivolving] effect activates, you can choose any number of your opponent's Digimon whose DP adds up to a total of 14000 or less, such as 1 with 10000 DP and 1 with 4000 DP, or 2 of their Digimon with 7000 DP each, then you delete them.",
+      "date": "Mar. 28, 2024",
+      "num": "Q4017",
+      "q": "What does \"[On Play] [When Digivolving] Delete your opponent's Digimon up to a total DP equal to this Digimon's DP\" mean, exactly?"
+    },
+    {
+      "a": "Yes, you can choose any targets as long as their total DP adds up to a value less than or equal to this Digimon's DP. However, you must choose at least 1 of your opponent's Digimon whose total DP is equal to or less than this Digimon's DP.",
+      "date": "Mar. 28, 2024",
+      "num": "Q4018",
+      "q": "Can I intentionally choose targets whose total DP adds up to a lower value than this Digimon's DP?"
+    }
+  ],
+  "Color": "Red",
+  "Cost": "8",
+  "DP": "14000",
+  "Digivolve Cost 1": [
+    "Red",
+    "3 from Lv.6"
+  ],
+  "Effect": [
+    "{Hand} [Counter] ＜Blast Digivolve＞ (Your Digimon may digivolve into this card without paying the cost.)",
+    "[On Play] [When Digivolving] Delete up to this Digimon's DP's total worth of your opponent's Digimon.",
+    "[When Attacking] [Once Per Turn] If you have a Tamer, trash your opponent's top security card."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Advanced Booster DIGIMON GENERATION [AD-01]",
+    "?search=true&category=522035",
+    "/products/pack/ad-01"
+  ],
+  "Special Digivolution Condition": "[Digivolve] While you have 2 or fewer security cards, [Agumon]: Cost 3",
+  "Special Rule": "＜Overflow (-5)＞ (As this card moves from the field or under a card to an area other than those, lose 5 memory.)",
+  "Type": "Unknown",
+  "cardLv": "Lv.7",
+  "cardNo": "LM-021",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "P",
+  "cardTitle": "Agumon - Bond of Bravery ACE",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/LM-021_P2.png?260210"
+}

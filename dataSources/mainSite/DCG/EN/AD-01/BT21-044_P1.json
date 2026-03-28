@@ -1,0 +1,96 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "It causes that card to also be treated as a Digimon with X000 DP. For example, if a Tamer is also treated as a Digimon, it can attack like a standard Digimon, and it will gain inherited effects from cards stacked under it. However, even if a Tamer is played and then treated as a Digimon in the same turn, it can't attack during that turn.",
+      "date": "Mar. 13, 2026",
+      "num": "Q4545",
+      "q": "What does an \"is also treated as a Digimon with X000 DP\" effect do, exactly?"
+    },
+    {
+      "a": "No, it is treated as both a Digimon and a Tamer.",
+      "date": "Mar. 13, 2026",
+      "num": "Q4546",
+      "q": "If a Tamer is also treated as a Digimon using an \"is also treated as a Digimon with X000 DP\" effect, is it no longer considered a Tamer?"
+    },
+    {
+      "a": "Yes, it's treated as an effect of both. Because the card is treated as both a Digimon and a Tamer, the activated effect is treated as both a Digimon effect and a Tamer effect.",
+      "date": "Mar. 13, 2026",
+      "num": "Q4547",
+      "q": "If a Tamer is also treated as a Digimon using an \"is also treated as a Digimon with X000 DP\" effect and it activates an effect, is it treated as both a Digimon effect and a Tamer effect?"
+    },
+    {
+      "a": "Yes, it's deleted upon the rule check timing.",
+      "date": "Mar. 13, 2026",
+      "num": "Q4548",
+      "q": "If a Tamer is also treated as a Digimon using an \"is also treated as a Digimon with X000 DP\" effect, then another effect causes its DP to become 0, is it deleted upon a rule check?"
+    },
+    {
+      "a": "Yes, it can attack.",
+      "date": "Apr. 4, 2025",
+      "num": "Q4549",
+      "q": "If this card's [On Play] [When Digivolving] effect is used to treat [Marcus Damon] as a Digimon, can I use the part of the effect after \"then\" to attack using that [Marcus Damon]?"
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Apr. 4, 2025",
+      "num": "Q4550",
+      "q": "If this card's [On Play] [When Digivolving] effect is used to treat [Marcus Damon] as a Digimon, can I choose to not attack using the part of the effect after \"then\"?"
+    },
+    {
+      "a": "Yes, it triggers.",
+      "date": "Apr. 4, 2025",
+      "num": "Q4551",
+      "q": "Does this card's [All Turns] effect also trigger when a [Marcus Damon] treated as a Digimon is deleted?"
+    },
+    {
+      "a": "The effect that later gives it a play cost, level, or DP overwrites the older effect. Any other effects later gained will be added. For example, if a Tamer is also treated as a Digimon with  and 3000 DP from an \"is also treated as a Digimon with 3000 DP, gains , and can't digivolve\" effect, then it gains an \"is also treated as a Digimon with 6000 DP, gains , and can't digivolve\" effect, that Tamer will also be treated as a Digimon with , , and 6000 DP.",
+      "date": "Mar. 13, 2026",
+      "num": "Q6019",
+      "q": "If a Tamer is also treated as a Digimon using an \"is also treated as a Digimon with 3000 DP\" effect, and later it gains another \"is also treated as a Digimon with 6000 DP\" effect, what happens?"
+    },
+    {
+      "a": "Yes, you can. When an effect is activated on a card that's treated as both a Digimon and a Tamer, the effect is treated as both a Digimon effect and a Tamer effect, therefore you can gain memory.",
+      "date": "Mar. 13, 2026",
+      "num": "Q6020",
+      "q": "Can I gain memory using an effect on a Tamer that's treated as a Digimon with X000 DP due to an effect while my opponent has \"your opponent can't gain memory other than by Tamer effects\" activated?"
+    },
+    {
+      "a": "No, it won't be affected by effects. When an effect is activated on a card that's treated as both a Digimon and a Tamer, the effect is treated as both a Digimon effect and a Tamer effect, therefore the chosen opponent Digimon won't be affected by effects.",
+      "date": "Mar. 13, 2026",
+      "num": "Q6021",
+      "q": "If an opponent's card has \"isn't affected by Digimon effects\" and it's chosen for an \"is also treated as a Digimon with X000 DP\" Tamer effect that treats it as a Digimon, will the chosen opponent Digimon be affected by effects?"
+    }
+  ],
+  "Color": [
+    "Yellow",
+    "Red"
+  ],
+  "Cost": "7",
+  "DP": "7000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "Red",
+    "4 from Lv.4"
+  ],
+  "Effect": [
+    "[On Play] [When Digivolving] For the turn, 1 of your [Marcus Damon]s is also treated as a 3000 DP Digimon, can't digivolve and gains ＜Rush＞ and ＜Alliance＞. Then, 1 of your Digimon may attack.",
+    "[All Turns] [Once Per Turn] When any of your yellow or red Tamers are deleted, you may place 1 [Marcus Damon] from your trash as the top security card."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "[All Turns] [Once Per Turn] When any of your yellow or red Tamers are deleted, you may place 1 [Marcus Damon] from your trash as the top security card.",
+  "Notes": [
+    "Advanced Booster DIGIMON GENERATION [AD-01]",
+    "?search=true&category=522035",
+    "/products/pack/ad-01"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [GeoGreymon]: Cost 3",
+  "Type": "Cyborg",
+  "cardLv": "Lv.5",
+  "cardNo": "BT21-044",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "U",
+  "cardTitle": "RizeGreymon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT21-044_P1.png?260210"
+}

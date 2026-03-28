@@ -1,0 +1,51 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "No, it isn't deleted yet. Once all of the processing for this card's [On Play] [When Digivolving] effect is resolved, then all of the Digimon with 0 DP are deleted at the same time.",
+      "date": "Jan. 24, 2025",
+      "num": "Q4398",
+      "q": "A Digimon's DP became 0 from this card's [On Play] [When Digivolving] effect. At such times, is that Digimon deleted before the rest of this effect's processing is resolved?"
+    },
+    {
+      "a": "[Security] effects take precedence for activation. Upon a security check, a [Security] effect will immediately activate without pending activation. For other triggered effects, the turn player activates their effects first.",
+      "date": "Jan. 24, 2025",
+      "num": "Q4399",
+      "q": "What order do a [Security] effect, \"when [...] performs a security check\" effect, and \"when a card is removed from [...] security stack\" effect activate when they trigger simultaneously upon a security check?"
+    }
+  ],
+  "Color": [
+    "Black",
+    "Yellow",
+    "Red"
+  ],
+  "Cost": "9",
+  "DP": "16000",
+  "Digivolve Cost 1": [
+    "Black",
+    "Yellow",
+    "Red",
+    "6 from Lv.6"
+  ],
+  "Effect": [
+    "{Hand} [Counter] ＜Blast DNA Digivolve ([Alphamon] + [Ouryumon])＞ (1 of your specified Digimon and 1 specified card in the hand may DNA digivolve into this card.)",
+    "[On Play] [When Digivolving] 1 of your opponent's Digimon gets -15000 DP until their turn ends. Then, if DNA digivolving, trash your opponent's top security card and ＜Recovery +1≪Deck≫＞.",
+    "[All Turns] [Once per Turn] When security stacks are removed from, gain 3 memory."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Advanced Booster DIGIMON GENERATION [AD-01]",
+    "?search=true&category=522035",
+    "/products/pack/ad-01"
+  ],
+  "Special Digivolution Condition": "[DNA Digivolve] Black Lv.6 + yellow/red Lv.6: Cost 0",
+  "Special Rule": "＜Overflow (-5)＞ (As this card moves from the field or under a card to an area other than those, lose 5 memory.)",
+  "Type": "NO DATA/X Antibody/Royal Knight/Chronicle",
+  "cardLv": "Lv.7",
+  "cardNo": "BT20-060",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "Alphamon: Ouryuken ACE",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT20-060_P4.png?260210"
+}

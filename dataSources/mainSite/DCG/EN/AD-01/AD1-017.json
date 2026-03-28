@@ -1,0 +1,59 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": "No, you can't.",
+      "date": "Mar. 13, 2026",
+      "num": "Q6084",
+      "q": "If I use this card's [On Play] [When Digivolving] effect to trash a security card, can I activate this card's [All Turns] effect before giving all of my opponent's Digimon -6000 DP?"
+    },
+    {
+      "a": "[Security] effects take precedence for activation. Upon a security check, a [Security] effect will immediately activate without pending activation. For other triggered effects, the turn player activates their effects first.",
+      "date": "Mar. 13, 2026",
+      "num": "Q6085",
+      "q": "In what order do a [Security] effect, \"when [...] performs a security check\" effect, and \"when a card is removed from [...] security stack\" effect activate when they trigger simultaneously upon a security check?"
+    },
+    {
+      "a": "Yes, its [Security] effect activates, then it battles.",
+      "date": "Mar. 13, 2026",
+      "num": "Q6086",
+      "q": "If this card is checked from a security stack, does its [Security] effect activate, then does it battle with the attacking Digimon?"
+    },
+    {
+      "a": "It refers to a card that contains the specified text or icon in its name, traits, effects, inherited effects, (Rule), digivolution requirements, DNA digivolution, DigiXros requirements, burst digivolve, App Fusion, Link, or Assembly requirements. For example, a card with [Knightmon] in its text would include cards with the name [DarkKnightmon] and cards with the text [Knightmon] in their effects.",
+      "date": "Mar. 13, 2026",
+      "num": "Q6087",
+      "q": "What does a card with \"X in its text\" refer to?"
+    }
+  ],
+  "Color": [
+    "Yellow",
+    "Red"
+  ],
+  "Cost": "11",
+  "DP": "11000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "Red",
+    "3 from Lv.5"
+  ],
+  "Effect": [
+    "When this card would be played, if you have 4 or more cards with [Lucemon] or [Witchelny] in their texts in your trash, reduce the play cost by 5.",
+    "[On Play] [When Digivolving] By trashing your top or bottom security card, all of your opponent's Digimon get -6000 DP for the turn.",
+    "[All Turns] [Once Per Turn] When your security stack is removed from, you may delete 1 of your opponent's lowest DP Digimon."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Advanced Booster DIGIMON GENERATION [AD-01]",
+    "?search=true&category=522035",
+    "/products/pack/ad-01"
+  ],
+  "Security Effect": "[Security] Give 1 of your opponent's Digimon ＜Security A. -1＞ for the turn. Then, 1 of their Digimon gets -3000 DP until your turn ends.",
+  "Type": "Holy Warrior/Royal Knight",
+  "cardLv": "Lv.6",
+  "cardNo": "AD1-017",
+  "cardRarity": "R",
+  "cardTitle": "Dynasmon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/AD1-017.png?260210"
+}
