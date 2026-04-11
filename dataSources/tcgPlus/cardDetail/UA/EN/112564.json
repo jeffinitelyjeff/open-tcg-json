@@ -1,0 +1,108 @@
+{
+  "backcard_card_config": [
+    {
+      "config_name": "Title"
+    },
+    {
+      "config_name": "Card Type"
+    },
+    {
+      "config_name": "Card Color"
+    },
+    {
+      "config_name": "Required Energy"
+    },
+    {
+      "config_name": "Energy Generation"
+    },
+    {
+      "config_name": "AP Cost"
+    },
+    {
+      "config_name": "BP"
+    },
+    {
+      "config_name": "Rarity"
+    },
+    {
+      "config_name": "Trigger Effect Type"
+    },
+    {
+      "config_name": "Trigger Effect Text"
+    },
+    {
+      "config_name": "Affinity"
+    },
+    {
+      "config_name": "Notes"
+    }
+  ],
+  "backcard_is_favorite": false,
+  "card_config": [
+    {
+      "config_name": "Title",
+      "value": "Tokyo Ghoul"
+    },
+    {
+      "config_name": "Card Type",
+      "value": "Character"
+    },
+    {
+      "config_name": "Card Color",
+      "value": "Yellow"
+    },
+    {
+      "config_name": "Required Energy",
+      "value": "4"
+    },
+    {
+      "config_name": "Energy Generation",
+      "value": "1"
+    },
+    {
+      "config_name": "AP Cost",
+      "value": "1"
+    },
+    {
+      "config_name": "BP",
+      "value": "4000"
+    },
+    {
+      "config_name": "Rarity",
+      "value": "R"
+    },
+    {
+      "config_name": "Trigger Effect Type",
+      "value": "Raid"
+    },
+    {
+      "config_name": "Trigger Effect Text",
+      "value": "Add this card to your hand, or if you have the required energy, perform Raid with it."
+    },
+    {
+      "config_name": "Affinity",
+      "value": "CCG / Mado Squad"
+    },
+    {
+      "config_name": "Notes"
+    }
+  ],
+  "card_name": "Haise Sasaki",
+  "card_number": "TKG-1-111",
+  "card_set": "STARTER DECK Tokyo Ghoul [UE18ST]",
+  "card_text": "【Raid】 <Haise Sasaki> Switch to active. May move to the front line.<br>[When Played] Look at the top three cards of your deck. Reveal up to one [Mado Squad] affinity card and add it to your hand. Place the remaining cards on the bottom of your deck in any order.<br>[Activate: Main] #If on the Front Line# #Pay 1 AP# 『Once Per Turn』 Play one yellow card with 3 or less required energy, 1 AP cost, and [Mado Squad] affinity from your hand set to resting onto your field.",
+  "id": 112564,
+  "image_url": "https://files.bandai-tcg-plus.com/card_image/UA-EN/ST18/batch_UE18ST_TKG-1-111_R.png",
+  "is_division_text": false,
+  "is_favorite": false,
+  "regulations": [
+    {
+      "id": 102,
+      "title": "Basic Battle Rule"
+    },
+    {
+      "id": 183,
+      "title": "Tokyo Ghoul"
+    }
+  ]
+}
