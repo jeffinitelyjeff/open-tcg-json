@@ -1,18 +1,76 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Glowing Dawn] trait: Cost 2",
+  "attribute": "Virus",
   "blockIcon": "06",
+  "cardEffects": "[On Play] [When Digivolving] 1 of your opponent's Digimon gets -3000 DP for the turn. Then, by trashing 2 bottom face-down cards from under any of your Tamers, this Digimon may digivolve into a [Glowing Dawn] trait Digimon card in the hand without paying the cost.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "6000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-035.png",
+        "imgName": "BT25-035.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b8/BT25-035.png/revision/latest?cb=20260501072130",
+        "uploadDate": "2026-05-01T07:21:30"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-035-Sample.png",
+        "imgName": "BT25-035-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d0/BT25-035-Sample.png/revision/latest?cb=20260412060748",
+        "uploadDate": "2026-04-12T06:07:48"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Dual_Revolution",
+        "captionText": "Box Promotion Pack: Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-035_P1.png",
+        "imgName": "BT25-035_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/02/BT25-035_P1.png/revision/latest?cb=20260501080033",
+        "uploadDate": "2026-05-01T08:00:33"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-035-J.png",
+        "imgName": "BT25-035-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6b/BT25-035-J.png/revision/latest?cb=20260501104356",
+        "uploadDate": "2026-05-01T10:43:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Dual_Revolution",
+        "captionText": "Box Promotion Pack: Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-035_P1-J.png",
+        "imgName": "BT25-035_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/db/BT25-035_P1-J.png/revision/latest?cb=20260501104356",
+        "uploadDate": "2026-05-01T10:43:56"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b8/BT25-035.png/revision/latest?cb=20260501072130",
+  "inheritedEffect": "＜Barrier＞ (When this Digimon would be deleted in battle, by trashing your top security card, it isn't deleted.)",
+  "level": "4",
+  "name": "Cougarmon",
+  "nameJapanese": "クーガモン",
+  "playCost": "5",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -20,10 +78,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Dual_Revolution",
+          "text": "Box Promotion Pack: Dual Revolution"
+        },
+        "foil&Rarity": "Full Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
         }
       }
     ],
@@ -33,10 +102,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Dual_Revolution",
+          "text": "Box Promotion Pack: Dual Revolution"
+        },
+        "foil&Rarity": "Full Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
         }
       }
     ],
@@ -46,10 +126,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Dual_Revolution",
+          "text": "Box Promotion Pack: Dual Revolution"
+        },
+        "foil&Rarity": "Full Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
         }
       }
     ],
@@ -59,12 +150,24 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Dual_Revolution",
+          "text": "Box Promotion Pack: Dual Revolution"
+        },
+        "foil&Rarity": "Full Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
         }
       }
     ]
-  }
+  },
+  "type": "Mammal/Glowing Dawn/BEATBREAK"
 }

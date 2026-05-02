@@ -1,18 +1,60 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Glowing Dawn] trait: Cost 3",
+  "attribute": "Data",
   "blockIcon": "06",
+  "cardEffects": "＜Alliance＞ (When this Digimon attacks, by suspending 1 of your other Digimon, add the suspended Digimon's DP to this Digimon and it gains ＜Security A. +1＞ for the attack.)\n[On Play] [When Digivolving] This Digimon gets +3000 DP until your opponent's turn ends. Then, if it's your turn, by trashing the bottom face-down card from under any of your Tamers, you may play or use 1 [Glowing Dawn] trait card from your hand with the cost reduced by 3.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-24:_Starter_Deck_Digimon_Data_Squad",
+        "captionText": "ST-24: Starter Deck Digimon Data Squad (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST23-08.png",
+        "imgName": "ST23-08.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/93/ST23-08.png/revision/latest?cb=20260501072816",
+        "uploadDate": "2026-05-01T07:28:16"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-24:_Starter_Deck_Digimon_Data_Squad",
+        "captionText": "ST-24: Starter Deck Digimon Data Squad (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST23-08-Sample.png",
+        "imgName": "ST23-08-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/38/ST23-08-Sample.png/revision/latest?cb=20260407061402",
+        "uploadDate": "2026-04-07T06:14:02"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-24:_Starter_Deck_Digimon_Data_Squad",
+        "captionText": "ST-24: Starter Deck Digimon Data Squad (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST23-08-J.png",
+        "imgName": "ST23-08-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0c/ST23-08-J.png/revision/latest?cb=20260501103729",
+        "uploadDate": "2026-05-01T10:37:29"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/93/ST23-08.png/revision/latest?cb=20260501072816",
+  "inheritedEffect": "[End of Attack] [Once Per Turn] By trashing the bottom face-down card from under any of your Tamers, this [Glowing Dawn] trait Digimon unsuspends.",
+  "level": "5",
+  "name": "Monarchlizamon",
+  "nameJapanese": "モナークリザモン",
+  "playCost": "7",
+  "rarity": "Rare",
   "setData": {
     "ch": [
       {
@@ -20,10 +62,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/ST-23:_Starter_Deck_Digimon_Beatbreak",
           "text": "ST-23: Starter Deck Digimon Beatbreak"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-23_%26_ST-24:_Welcome_Tamers_Pack",
+          "text": "ST-23 & ST-24: Welcome Tamers Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
         }
       }
     ],
@@ -33,10 +86,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/ST-23:_Starter_Deck_Digimon_Beatbreak",
           "text": "ST-23: Starter Deck Digimon Beatbreak"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-23_%26_ST-24:_Welcome_Tamers_Pack",
+          "text": "ST-23 & ST-24: Welcome Tamers Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
         }
       }
     ],
@@ -46,10 +110,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/ST-23:_Starter_Deck_Digimon_Beatbreak",
           "text": "ST-23: Starter Deck Digimon Beatbreak"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-23_%26_ST-24:_Welcome_Tamers_Pack",
+          "text": "ST-23 & ST-24: Welcome Tamers Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
         }
       }
     ],
@@ -59,12 +134,24 @@
           "link": "https://digimoncardgame.fandom.com/wiki/ST-23:_Starter_Deck_Digimon_Beatbreak",
           "text": "ST-23: Starter Deck Digimon Beatbreak"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-23_%26_ST-24:_Welcome_Tamers_Pack",
+          "text": "ST-23 & ST-24: Welcome Tamers Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
+          "text": "Spareribs"
         }
       }
     ]
-  }
+  },
+  "type": "Cyborg/Glowing Dawn/BEATBREAK"
 }

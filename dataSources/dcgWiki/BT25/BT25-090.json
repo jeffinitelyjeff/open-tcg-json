@@ -1,18 +1,74 @@
 {
   "blockIcon": "06",
+  "cardEffects": "[Start of Your Turn] If you have 2 or less memory, set it to 3.\n[All Turns] When any Digimon suspend, by suspending this Tamer, you may place the top 2 cards of your deck face down under this Tamer.\n[Your Turn] [Once Per Turn] When you would use [Glowing Dawn] trait Option cards, by trashing the bottom face-down card from under any of your Tamers, reduce the cost by 1.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Tamer",
+  "color": "Green",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-090.png",
+        "imgName": "BT25-090.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8e/BT25-090.png/revision/latest?cb=20260501074744",
+        "uploadDate": "2026-05-01T07:47:44"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-090-Sample.png",
+        "imgName": "BT25-090-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/ff/BT25-090-Sample.png/revision/latest?cb=20260426051220",
+        "uploadDate": "2026-04-26T05:12:20"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-090_P1.png",
+        "imgName": "BT25-090_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5b/BT25-090_P1.png/revision/latest?cb=20260501074126",
+        "uploadDate": "2026-05-01T07:41:26"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-090_P1-Sample.png",
+        "imgName": "BT25-090_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/45/BT25-090_P1-Sample.png/revision/latest?cb=20260426051207",
+        "uploadDate": "2026-04-26T05:12:07"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-090-J.png",
+        "imgName": "BT25-090-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3b/BT25-090-J.png/revision/latest?cb=20260501103520",
+        "uploadDate": "2026-05-01T10:35:20"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-090_P1-J.png",
+        "imgName": "BT25-090_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f5/BT25-090_P1-J.png/revision/latest?cb=20260501103520",
+        "uploadDate": "2026-05-01T10:35:20"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8e/BT25-090.png/revision/latest?cb=20260501074744",
+  "name": "Tomoro Tenma",
+  "nameJapanese": "天馬トモロウ",
+  "playCost": "4",
+  "rarity": "Rare",
+  "securityEffect": "[Security] Play this card without paying the cost.",
   "setData": {
     "ch": [
       {
@@ -20,11 +76,16 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+          "text": "BT-25: Booster Dual Revolution"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": "No Illustrator"
       }
     ],
     "en": [
@@ -33,11 +94,16 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+          "text": "BT-25: Booster Dual Revolution"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": "No Illustrator"
       }
     ],
     "jp": [
@@ -46,11 +112,16 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+          "text": "BT-25: Booster Dual Revolution"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": "No Illustrator"
       }
     ],
     "kr": [
@@ -59,12 +130,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+          "text": "BT-25: Booster Dual Revolution"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": "No Illustrator"
       }
     ]
-  }
+  },
+  "type": "Glowing Dawn/BEATBREAK"
 }

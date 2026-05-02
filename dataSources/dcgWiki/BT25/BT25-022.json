@@ -1,18 +1,67 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.2 w/[TS] trait: Cost 0",
+  "attribute": "Data",
   "blockIcon": "06",
+  "cardEffects": "[On Play] Reveal the top 3 cards of your deck. Add 1 [Iliad] trait card and 1 [TS] trait card among them to the hand. Return the rest to the bottom of the deck.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "0",
+      "level": "2"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "0",
+      "level": "2"
+    }
+  ],
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-022.png",
+        "imgName": "BT25-022.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c2/BT25-022.png/revision/latest?cb=20260501072127",
+        "uploadDate": "2026-05-01T07:21:27"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-022-Sample.png",
+        "imgName": "BT25-022-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d1/BT25-022-Sample.png/revision/latest?cb=20260406073338",
+        "uploadDate": "2026-04-06T07:33:38"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-022-J.png",
+        "imgName": "BT25-022-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/44/BT25-022-J.png/revision/latest?cb=20260501104355",
+        "uploadDate": "2026-05-01T10:43:55"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c2/BT25-022.png/revision/latest?cb=20260501072127",
+  "inheritedEffect": "＜Jamming＞ (This Digimon can't be deleted in battles against Security Digimon.)",
+  "level": "3",
+  "name": "Lunamon",
+  "nameJapanese": "ルナモン",
+  "playCost": "3",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -20,10 +69,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
         }
       }
     ],
@@ -33,10 +82,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
         }
       }
     ],
@@ -46,10 +95,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
         }
       }
     ],
@@ -59,12 +108,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
         }
       }
     ]
-  }
+  },
+  "type": "Mammal/Iliad/TS"
 }

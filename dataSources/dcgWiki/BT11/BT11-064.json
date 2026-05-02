@@ -6,7 +6,7 @@
   "cardRestriction": {
     "chinese": "Restricted to 1",
     "english": "Restricted to 1",
-    "korean": "Unrestricted",
+    "korean": "Restricted to 1",
     "nameJapanese": "Restricted to 1"
   },
   "cardType": "Digimon",
@@ -34,6 +34,14 @@
         "imgName": "BT11-064.png",
         "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0e/BT11-064.png/revision/latest?cb=20230210132458",
         "uploadDate": "2023-02-10T13:24:58"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-064_P1.png",
+        "imgName": "BT11-064_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/ba/BT11-064_P1.png/revision/latest?cb=20260501075329",
+        "uploadDate": "2026-05-01T07:53:29"
       }
     ],
     "jp": [
@@ -46,12 +54,12 @@
         "uploadDate": "2022-09-22T11:49:15"
       },
       {
-        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-11:_Booster_Dimensional_Phase",
-        "captionText": "BT-11: Booster Dimensional Phase (JP Sample)",
-        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-064-Sample-J.png",
-        "imgName": "BT11-064-Sample-J.png",
-        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bd/BT11-064-Sample-J.png/revision/latest?cb=20220904052543",
-        "uploadDate": "2022-09-04T05:25:43"
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT11-064_P1-J.png",
+        "imgName": "BT11-064_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/db/BT11-064_P1-J.png/revision/latest?cb=20260501110118",
+        "uploadDate": "2026-05-01T11:01:18"
       }
     ]
   },
@@ -63,6 +71,19 @@
   "playCost": "5",
   "rarity": "Common",
   "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+          "text": "BT-25: Booster Dual Revolution"
+        },
+        "foil&Rarity": "Rare Pull",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:P!k@ru",
+          "text": "p!k@ru"
+        }
+      }
+    ],
     "en": [
       {
         "boosterSet": {
@@ -85,6 +106,17 @@
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
           "text": "koki"
         }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+          "text": "BT-25: Booster Dual Revolution"
+        },
+        "foil&Rarity": "Rare Pull",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:P!k@ru",
+          "text": "p!k@ru"
+        }
       }
     ],
     "jp": [
@@ -97,6 +129,30 @@
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
           "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+          "text": "BT-25: Booster Dual Revolution"
+        },
+        "foil&Rarity": "Rare Pull",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:P!k@ru",
+          "text": "p!k@ru"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+          "text": "BT-25: Booster Dual Revolution"
+        },
+        "foil&Rarity": "Rare Pull",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:P!k@ru",
+          "text": "p!k@ru"
         }
       }
     ]

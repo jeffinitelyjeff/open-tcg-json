@@ -1,18 +1,66 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  [Patamon]/Lv.3 w/[TS] trait: Cost 2",
+  "attribute": "Free",
   "blockIcon": "06",
+  "cardEffects": "＜Armor Purge＞  (When this Digimon would be deleted, you may trash the top card of this Digimon to prevent that deletion.)\n[On Play] [When Digivolving] Add your top security card to the hand. Then, you may place 1 [Angel], [Archangel], [Three Great Angels] or [Iliad] trait Digimon card or 1 [TS] trait Tamer card from your hand as the top or bottom security card.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Yellow/Blue",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "6000 DP",
+  "form": "Armor Form",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-037.png",
+        "imgName": "BT25-037.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/40/BT25-037.png/revision/latest?cb=20260501072131",
+        "uploadDate": "2026-05-01T07:21:31"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-037-Sample.png",
+        "imgName": "BT25-037-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fd/BT25-037-Sample.png/revision/latest?cb=20260411094148",
+        "uploadDate": "2026-04-11T09:41:48"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-037-J.png",
+        "imgName": "BT25-037-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5c/BT25-037-J.png/revision/latest?cb=20260501104454",
+        "uploadDate": "2026-05-01T10:44:54"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/40/BT25-037.png/revision/latest?cb=20260501072131",
+  "level": "4",
+  "name": "Pegasusmon",
+  "nameJapanese": "ペガスモン",
+  "playCost": "6",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -20,10 +68,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
         }
       }
     ],
@@ -33,10 +81,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
         }
       }
     ],
@@ -46,10 +94,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
         }
       }
     ],
@@ -59,12 +107,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
         }
       }
     ]
-  }
+  },
+  "type": "Holy Beast/Iliad/TS"
 }

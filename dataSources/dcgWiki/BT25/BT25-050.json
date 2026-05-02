@@ -1,18 +1,56 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[TS] trait: Cost 2",
+  "attribute": "Data",
   "blockIcon": "06",
+  "cardEffects": "[On Play] [When Digivolving] You may suspend 1 Digimon. Then, if there are 2 or more suspended Digimon, 1 of your opponent's Digimon can't unsuspend until their turn ends.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Green",
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-050.png",
+        "imgName": "BT25-050.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e2/BT25-050.png/revision/latest?cb=20260501073634",
+        "uploadDate": "2026-05-01T07:36:34"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-050-Sample.png",
+        "imgName": "BT25-050-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8a/BT25-050-Sample.png/revision/latest?cb=20260328004945",
+        "uploadDate": "2026-03-28T00:49:45"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-050-J.png",
+        "imgName": "BT25-050-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/73/BT25-050-J.png/revision/latest?cb=20260501104456",
+        "uploadDate": "2026-05-01T10:44:56"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e2/BT25-050.png/revision/latest?cb=20260501073634",
+  "inheritedEffect": "[Your Turn] All of your Digimon get +1000 DP.",
+  "level": "4",
+  "name": "Kiwimon",
+  "nameJapanese": "キウイモン",
+  "playCost": "4",
+  "rarity": "Common",
+  "rule": "[Rule] Trait: Has [Vegetation] Type.",
   "setData": {
     "ch": [
       {
@@ -20,10 +58,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NIJIMAARC",
+          "text": "NIJIMAARC"
         }
       }
     ],
@@ -33,10 +71,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NIJIMAARC",
+          "text": "NIJIMAARC"
         }
       }
     ],
@@ -46,10 +84,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NIJIMAARC",
+          "text": "NIJIMAARC"
         }
       }
     ],
@@ -59,12 +97,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NIJIMAARC",
+          "text": "NIJIMAARC"
         }
       }
     ]
-  }
+  },
+  "type": "Ancient Bird/Iliad/TS"
 }

@@ -1,18 +1,60 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.2 w/[Glowing Dawn] trait: Cost 0",
+  "attribute": "Virus",
   "blockIcon": "06",
+  "cardEffects": "[On Play] By trashing the bottom face-down card from under any of your Tamers, you may return 1 Digimon card with the [Glowing Dawn] trait from your trash to the hand.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-24:_Starter_Deck_Digimon_Data_Squad",
+        "captionText": "ST-24: Starter Deck Digimon Data Squad (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST23-12.png",
+        "imgName": "ST23-12.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f7/ST23-12.png/revision/latest?cb=20260501073021",
+        "uploadDate": "2026-05-01T07:30:21"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-24:_Starter_Deck_Digimon_Data_Squad",
+        "captionText": "ST-24: Starter Deck Digimon Data Squad (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST23-12-Sample.png",
+        "imgName": "ST23-12-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1a/ST23-12-Sample.png/revision/latest?cb=20260405081134",
+        "uploadDate": "2026-04-05T08:11:34"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-24:_Starter_Deck_Digimon_Data_Squad",
+        "captionText": "ST-24: Starter Deck Digimon Data Squad (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST23-12-J.png",
+        "imgName": "ST23-12-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/db/ST23-12-J.png/revision/latest?cb=20260501103524",
+        "uploadDate": "2026-05-01T10:35:24"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f7/ST23-12.png/revision/latest?cb=20260501073021",
+  "inheritedEffect": "＜Retaliation＞  (When only this Digimon is deleted in battle, delete the Digimon it battled.)",
+  "level": "3",
+  "name": "Chiropmon",
+  "nameJapanese": "キロプモン",
+  "playCost": "3",
+  "rarity": "Common",
   "setData": {
     "ch": [
       {
@@ -20,10 +62,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/ST-23:_Starter_Deck_Digimon_Beatbreak",
           "text": "ST-23: Starter Deck Digimon Beatbreak"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-23_%26_ST-24:_Welcome_Tamers_Pack",
+          "text": "ST-23 & ST-24: Welcome Tamers Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
         }
       }
     ],
@@ -33,10 +86,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/ST-23:_Starter_Deck_Digimon_Beatbreak",
           "text": "ST-23: Starter Deck Digimon Beatbreak"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-23_%26_ST-24:_Welcome_Tamers_Pack",
+          "text": "ST-23 & ST-24: Welcome Tamers Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
         }
       }
     ],
@@ -46,10 +110,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/ST-23:_Starter_Deck_Digimon_Beatbreak",
           "text": "ST-23: Starter Deck Digimon Beatbreak"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-23_%26_ST-24:_Welcome_Tamers_Pack",
+          "text": "ST-23 & ST-24: Welcome Tamers Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
         }
       }
     ],
@@ -59,12 +134,24 @@
           "link": "https://digimoncardgame.fandom.com/wiki/ST-23:_Starter_Deck_Digimon_Beatbreak",
           "text": "ST-23: Starter Deck Digimon Beatbreak"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-23_%26_ST-24:_Welcome_Tamers_Pack",
+          "text": "ST-23 & ST-24: Welcome Tamers Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Banira",
+          "text": "banira"
         }
       }
     ]
-  }
+  },
+  "type": "Mammal/Glowing Dawn/BEATBREAK"
 }

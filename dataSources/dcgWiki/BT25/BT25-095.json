@@ -1,18 +1,49 @@
 {
   "blockIcon": "06",
+  "cardEffects": "While you have no face-up security cards, you can ignore this card's color requirements.\n[Security] [All Turns] All of your red or green [TS] trait Digimon get +2000 DP. While you have [Marsmon] or [Callismon], they also gain ＜Rush＞ (This Digimon can attack the turn it comes into play.)\n[Main] Add your bottom security card to the hand and place this card face up as the bottom security card. Then, you may play 1 red or green  [TS] trait Digimon card from your hand with the cost reduced by 3.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Option",
+  "color": "Red/Green",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-095.png",
+        "imgName": "BT25-095.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0d/BT25-095.png/revision/latest?cb=20260501074259",
+        "uploadDate": "2026-05-01T07:42:59"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-095-Sample.png",
+        "imgName": "BT25-095-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3c/BT25-095-Sample.png/revision/latest?cb=20260417141743",
+        "uploadDate": "2026-04-17T14:17:43"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-095-J.png",
+        "imgName": "BT25-095-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d5/BT25-095-J.png/revision/latest?cb=20260501103521",
+        "uploadDate": "2026-05-01T10:35:21"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0d/BT25-095.png/revision/latest?cb=20260501074259",
+  "name": "Paradise Colosseum",
+  "nameJapanese": "ハイライズ・コロシアム",
+  "rarity": "Uncommon",
+  "securityEffect": "[Security] You may play 1 level 4 or lower red or green  [TS] trait Digimon card from your hand or trash without paying the cost.",
   "setData": {
     "ch": [
       {
@@ -20,11 +51,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
       }
     ],
     "en": [
@@ -33,11 +61,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
       }
     ],
     "jp": [
@@ -46,11 +71,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
       }
     ],
     "kr": [
@@ -59,12 +81,11 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
       }
     ]
-  }
+  },
+  "type": "Iliad/TS",
+  "useCost": "3"
 }

@@ -1,18 +1,49 @@
 {
   "blockIcon": "06",
+  "cardEffects": "＜Use Req. ([Appmon] trait)＞ (Specified cards let you ignore color requirements.)\n[Main] Reveal the top 3 cards of your deck. Add 1 [Appmon] trait card among them to the hand. Trash the rest. Then, place this card in the battle area.\n[Main] ＜Delay＞ (By trashing this card after the placing turn, activate the effect below.)\n・You may play 1 [Appmon] trait card from your hand with the cost reduced by 3.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Option",
+  "color": "Yellow",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-098.png",
+        "imgName": "BT25-098.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/98/BT25-098.png/revision/latest?cb=20260501074729",
+        "uploadDate": "2026-05-01T07:47:29"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-098-Sample.png",
+        "imgName": "BT25-098-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0b/BT25-098-Sample.png/revision/latest?cb=20260414055256",
+        "uploadDate": "2026-04-14T05:52:56"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-098-J.png",
+        "imgName": "BT25-098-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3a/BT25-098-J.png/revision/latest?cb=20260501103521",
+        "uploadDate": "2026-05-01T10:35:21"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0b/BT25-098-Sample.png/revision/latest?cb=20260414055256",
+  "name": "Cyber Engage",
+  "nameJapanese": "サイバーエンゲージ",
+  "rarity": "Common",
+  "securityEffect": "[Security] Place this card in the battle area.",
   "setData": {
     "ch": [
       {
@@ -20,11 +51,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
       }
     ],
     "en": [
@@ -33,11 +61,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
       }
     ],
     "jp": [
@@ -46,11 +71,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
       }
     ],
     "kr": [
@@ -59,12 +81,11 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
       }
     ]
-  }
+  },
+  "type": "Appmon",
+  "useCost": "3"
 }

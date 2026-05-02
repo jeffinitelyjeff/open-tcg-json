@@ -1,18 +1,68 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[TS] trait: Cost 2",
+  "attribute": "Vaccine",
   "blockIcon": "06",
+  "cardEffects": "＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Play] [When Digivolving] 1 of your Digimon with [Beast], [Animal] or [Sovereign], other than [Sea Animal] trait, in any of its traits or the [Shaman] or [TS] trait gets +3000 DP until your opponent's turn ends.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Green/Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-051.png",
+        "imgName": "BT25-051.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/17/BT25-051.png/revision/latest?cb=20260501073634",
+        "uploadDate": "2026-05-01T07:36:34"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-051-Sample.png",
+        "imgName": "BT25-051-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/90/BT25-051-Sample.png/revision/latest?cb=20260418044450",
+        "uploadDate": "2026-04-18T04:44:50"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-051-J.png",
+        "imgName": "BT25-051-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1d/BT25-051-J.png/revision/latest?cb=20260501104457",
+        "uploadDate": "2026-05-01T10:44:57"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/17/BT25-051.png/revision/latest?cb=20260501073634",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When this Digimon wins a battle, ＜Draw 1＞ (Draw 1 card from your deck.)",
+  "level": "4",
+  "name": "Grizzlymon",
+  "nameJapanese": "グリズモン",
+  "nameTranslated": "Gryzmon",
+  "playCost": "4",
+  "rarity": "Common",
   "setData": {
     "ch": [
       {
@@ -20,10 +70,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ],
@@ -33,10 +83,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ],
@@ -46,10 +96,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ],
@@ -59,12 +109,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ]
-  }
+  },
+  "type": "Beast/Iliad/TS"
 }

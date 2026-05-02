@@ -1,18 +1,66 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[TS] trait: Cost 4",
+  "attribute": "Virus",
   "blockIcon": "06",
+  "cardEffects": "＜Reboot＞ (This Digimon also unsuspends in your opponent's unsuspend phase.)\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n＜Fortitude＞ (When this Digimon with digivolution cards is deleted, play this card without paying the cost.)\n[On Play] [When Digivolving] [When Attacking] [Once Per Turn] You may suspend 1 of your opponent's Digimon or Tamers. Then, 1 of their Digimon or Tamers can't unsuspend until their turn ends.\n[All Turns] [Once Per Turn] When effects play or digivolve any Digimon, ＜De-Digivolve  1＞ 1 of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.) Then, this Digimon may battle 1 of your opponent's Digimon.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Green/Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "5",
+      "level": "5"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "5",
+      "level": "5"
+    }
+  ],
+  "dp": "13000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-058.png",
+        "imgName": "BT25-058.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5a/BT25-058.png/revision/latest?cb=20260501073634",
+        "uploadDate": "2026-05-01T07:36:34"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-058-Sample.png",
+        "imgName": "BT25-058-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bd/BT25-058-Sample.png/revision/latest?cb=20260418123105",
+        "uploadDate": "2026-04-18T12:31:05"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-058-J.png",
+        "imgName": "BT25-058-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/da/BT25-058-J.png/revision/latest?cb=20260501104457",
+        "uploadDate": "2026-05-01T10:44:57"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5a/BT25-058.png/revision/latest?cb=20260501073634",
+  "level": "6",
+  "name": "Callismon",
+  "nameJapanese": "カリスモン",
+  "playCost": "13",
+  "rarity": "Rare",
   "setData": {
     "ch": [
       {
@@ -20,10 +68,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ],
@@ -33,10 +81,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ],
@@ -46,10 +94,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ],
@@ -59,12 +107,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ]
-  }
+  },
+  "type": "Dark Animal/Iliad/TS"
 }

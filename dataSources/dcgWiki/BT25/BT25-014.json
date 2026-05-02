@@ -1,18 +1,60 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Flame]/[TS] trait: Cost 2",
+  "attribute": "Data",
   "blockIcon": "06",
+  "cardEffects": "[Main] [Once Per Turn] By trashing 1 [Flame] or [TS] trait card from your hand, delete 1 of your opponent's Digimon with 4000 DP or less. If this effect didn't delete, ＜Draw 2＞ (Draw 2 cards from your deck.)",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-014.png",
+        "imgName": "BT25-014.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6e/BT25-014.png/revision/latest?cb=20260501072127",
+        "uploadDate": "2026-05-01T07:21:27"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-014-Sample.png",
+        "imgName": "BT25-014-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/ba/BT25-014-Sample.png/revision/latest?cb=20260327230905",
+        "uploadDate": "2026-03-27T23:09:05"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-014-J.png",
+        "imgName": "BT25-014-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f2/BT25-014-J.png/revision/latest?cb=20260501104354",
+        "uploadDate": "2026-05-01T10:43:54"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6e/BT25-014.png/revision/latest?cb=20260501072127",
+  "inheritedEffect": "[When Attacking] Delete 1 of your opponent's Digimon with 4000 DP or less.",
+  "level": "4",
+  "name": "Meramon",
+  "nameJapanese": "メラモン",
+  "playCost": "4",
+  "rarity": "Common",
   "setData": {
     "ch": [
       {
@@ -20,10 +62,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
         }
       }
     ],
@@ -33,10 +75,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
         }
       }
     ],
@@ -46,10 +88,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
         }
       }
     ],
@@ -59,12 +101,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
         }
       }
     ]
-  }
+  },
+  "type": "Flame/Iliad/TS"
 }

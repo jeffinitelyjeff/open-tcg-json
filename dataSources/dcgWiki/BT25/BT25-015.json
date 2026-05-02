@@ -1,18 +1,67 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Giant Bird]/[TS] trait: Cost 3",
+  "attribute": "Vaccine",
   "blockIcon": "06",
+  "cardEffects": "＜Raid＞ (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.)\n＜Fortitude＞ (When this Digimon with digivolution cards is deleted, play this card without paying the cost.)\n[On Play] [When Digivolving] Delete 1 of your opponent's Digimon with 6000 DP or less.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Red/Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-015.png",
+        "imgName": "BT25-015.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/44/BT25-015.png/revision/latest?cb=20260501072127",
+        "uploadDate": "2026-05-01T07:21:27"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-015-Sample.png",
+        "imgName": "BT25-015-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/df/BT25-015-Sample.png/revision/latest?cb=20260410141936",
+        "uploadDate": "2026-04-10T14:19:36"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-015-J.png",
+        "imgName": "BT25-015-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bb/BT25-015-J.png/revision/latest?cb=20260501104354",
+        "uploadDate": "2026-05-01T10:43:54"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/44/BT25-015.png/revision/latest?cb=20260501072127",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When this Digimon deletes your opponent's Digimon in battle, trash their top security card.",
+  "level": "5",
+  "name": "Garudamon",
+  "nameJapanese": "ガルダモン",
+  "playCost": "7",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -20,10 +69,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kakiken",
+          "text": "Kakiken"
         }
       }
     ],
@@ -33,10 +82,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kakiken",
+          "text": "Kakiken"
         }
       }
     ],
@@ -46,10 +95,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kakiken",
+          "text": "Kakiken"
         }
       }
     ],
@@ -59,12 +108,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kakiken",
+          "text": "Kakiken"
         }
       }
     ]
-  }
+  },
+  "type": "Birdkin/Iliad/TS"
 }

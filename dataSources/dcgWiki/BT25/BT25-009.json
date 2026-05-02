@@ -1,18 +1,83 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.2 w/[TS] trait: Cost 0",
+  "attribute": "Vaccine",
   "blockIcon": "06",
+  "cardEffects": "[Start of Your Main Phase] If you have 4 or less memory, this Digimon may digivolve into a Digimon card with [Beast], [Animal] or [Sovereign], other than [Sea Animal], in any of its traits or the [TS] trait in the hand without paying the cost.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "0",
+      "level": "2"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "0",
+      "level": "2"
+    }
+  ],
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-009.png",
+        "imgName": "BT25-009.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/21/BT25-009.png/revision/latest?cb=20260501072127",
+        "uploadDate": "2026-05-01T07:21:27"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-009-Sample.png",
+        "imgName": "BT25-009-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f9/BT25-009-Sample.png/revision/latest?cb=20260409070417",
+        "uploadDate": "2026-04-09T07:04:17"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Dual_Revolution",
+        "captionText": "Box Promotion Pack: Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-009_P1.png",
+        "imgName": "BT25-009_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/11/BT25-009_P1.png/revision/latest?cb=20260501075330",
+        "uploadDate": "2026-05-01T07:53:30"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-009-J.png",
+        "imgName": "BT25-009-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/92/BT25-009-J.png/revision/latest?cb=20260501104354",
+        "uploadDate": "2026-05-01T10:43:54"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Dual_Revolution",
+        "captionText": "Box Promotion Pack: Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-009_P1-J.png",
+        "imgName": "BT25-009_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/59/BT25-009_P1-J.png/revision/latest?cb=20260501104353",
+        "uploadDate": "2026-05-01T10:43:53"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/21/BT25-009.png/revision/latest?cb=20260501072127",
+  "inheritedEffect": "[All Turns] This Digimon gets +1000 DP.",
+  "level": "3",
+  "name": "Bearmon",
+  "nameJapanese": "ベアモン",
+  "playCost": "3",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -20,10 +85,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Dual_Revolution",
+          "text": "Box Promotion Pack: Dual Revolution"
+        },
+        "foil&Rarity": "Full Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ],
@@ -33,10 +109,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Dual_Revolution",
+          "text": "Box Promotion Pack: Dual Revolution"
+        },
+        "foil&Rarity": "Full Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ],
@@ -46,10 +133,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Dual_Revolution",
+          "text": "Box Promotion Pack: Dual Revolution"
+        },
+        "foil&Rarity": "Full Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ],
@@ -59,12 +157,24 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Dual_Revolution",
+          "text": "Box Promotion Pack: Dual Revolution"
+        },
+        "foil&Rarity": "Full Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ]
-  }
+  },
+  "type": "Beast/Iliad/TS"
 }

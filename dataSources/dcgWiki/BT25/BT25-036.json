@@ -1,18 +1,69 @@
 {
+  "altDigivolutionRequirements": "[App Fusion]  [Kabemon] & [Gomimon] & [Ecomon] & [Puzzlemon]: Cost 0 \nIf 2 such cards are linked together, stack the link card on top and digivolve.",
+  "attribute": "Tool",
   "blockIcon": "06",
+  "cardEffects": "[Security] At the end of the battle, play this card without paying the cost.\n[On Play] [When Digivolving] Add your top security card to the hand. Then, ＜Recovery +1＞ (Place the top card of your deck as your top security card.)",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "2",
+      "level": "3"
+    },
+    {
+      "color": "All",
+      "digivolveCost": "2",
+      "form": "Stnd."
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Sup./Appmon",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-036.png",
+        "imgName": "BT25-036.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/97/BT25-036.png/revision/latest?cb=20260501072131",
+        "uploadDate": "2026-05-01T07:21:31"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-036-Sample.png",
+        "imgName": "BT25-036-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/54/BT25-036-Sample.png/revision/latest?cb=20260425043109",
+        "uploadDate": "2026-04-25T04:31:09"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-036-J.png",
+        "imgName": "BT25-036-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9b/BT25-036-J.png/revision/latest?cb=20260501104356",
+        "uploadDate": "2026-05-01T10:43:56"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/97/BT25-036.png/revision/latest?cb=20260501072131",
+  "level": "4",
+  "linkDp": "<< +3000 DP",
+  "linkEffect": "[When Linking] By trashing 1 [Appmon] trait card from your hand, ＜Draw 2＞ (Draw 2 cards from your deck.)",
+  "linkRequirements": "[Link] [Appmon] trait: Cost 2 \n(Plug this card from the hand or battle area sideways into the specified Digimon in the battle area.)",
+  "name": "Craftmon",
+  "nameJapanese": "クラフトモン",
+  "playCost": "5",
+  "rarity": "Common",
   "setData": {
     "ch": [
       {
@@ -20,10 +71,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
         }
       }
     ],
@@ -33,10 +84,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
         }
       }
     ],
@@ -46,10 +97,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
         }
       }
     ],
@@ -59,12 +110,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
         }
       }
     ]
-  }
+  },
+  "type": "Design (App Name)"
 }

@@ -6,13 +6,45 @@
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digi-Egg",
+  "color": "Red",
+  "form": "In-Training",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-001.png",
+        "imgName": "BT25-001.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/dc/BT25-001.png/revision/latest?cb=20260501072125",
+        "uploadDate": "2026-05-01T07:21:25"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-001-Sample.png",
+        "imgName": "BT25-001-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b8/BT25-001-Sample.png/revision/latest?cb=20260411094135",
+        "uploadDate": "2026-04-11T09:41:35"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-001-J.png",
+        "imgName": "BT25-001-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b4/BT25-001-J.png/revision/latest?cb=20260501105658",
+        "uploadDate": "2026-05-01T10:56:58"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/dc/BT25-001.png/revision/latest?cb=20260501072125",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] If this Digimon has the [TS] trait, ＜Draw 1＞ (Draw 1 card from your deck.)",
+  "level": "2",
+  "name": "Tokomon",
+  "nameJapanese": "トコモン",
+  "rarity": "Common",
   "setData": {
     "ch": [
       {
@@ -66,5 +98,6 @@
         }
       }
     ]
-  }
+  },
+  "type": "Lesser/Iliad/TS"
 }

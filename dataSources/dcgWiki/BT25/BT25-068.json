@@ -1,18 +1,60 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[TS] trait: Cost 2",
+  "attribute": "Virus",
   "blockIcon": "06",
+  "cardEffects": "＜Collision＞ (During this Digimon's attack, all of your opponent's Digimon gain ＜Blocker＞, and must block if possible.)\n[All Turns] [Once Per Turn] When this Digimon suspends, ＜De-Digivolve  1＞ 1 of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.)",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-068.png",
+        "imgName": "BT25-068.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/95/BT25-068.png/revision/latest?cb=20260501073635",
+        "uploadDate": "2026-05-01T07:36:35"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-068-Sample.png",
+        "imgName": "BT25-068-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5d/BT25-068-Sample.png/revision/latest?cb=20260403065751",
+        "uploadDate": "2026-04-03T06:57:51"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-068-J.png",
+        "imgName": "BT25-068-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2f/BT25-068-J.png/revision/latest?cb=20260501104458",
+        "uploadDate": "2026-05-01T10:44:58"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/95/BT25-068.png/revision/latest?cb=20260501073635",
+  "inheritedEffect": "[All Turns] This Digimon gets +1000 DP.",
+  "level": "4",
+  "name": "Deltamon",
+  "nameJapanese": "デルタモン",
+  "playCost": "4",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -20,10 +62,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
         }
       }
     ],
@@ -33,10 +75,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
         }
       }
     ],
@@ -46,10 +88,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
         }
       }
     ],
@@ -59,12 +101,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
         }
       }
     ]
-  }
+  },
+  "type": "Composite/Titan/TS"
 }

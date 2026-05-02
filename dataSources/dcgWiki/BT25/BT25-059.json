@@ -1,18 +1,91 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[Vegetation]/[TS] trait: Cost 3",
+  "attribute": "Data",
   "blockIcon": "06",
+  "cardEffects": "When this card would be played, if there are 2 or more suspended Digimon, reduce the cost by 5.\n[On Play] [When Digivolving] You may suspend up to 2 Digimon. Then, none of your suspended [Vegetation] or [TS] trait Digimon are affected by your opponent's Digimon effects until their turn ends.\n[All Turns] [Once Per Turn] When any Digimon suspend, to 1 of your opponent's Digimon, give -3000 DP until their turn ends for each suspended Digimon.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Green/Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "4",
+      "level": "5"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "5"
+    }
+  ],
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-059.png",
+        "imgName": "BT25-059.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/03/BT25-059.png/revision/latest?cb=20260501074604",
+        "uploadDate": "2026-05-01T07:46:04"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-059-Sample.png",
+        "imgName": "BT25-059-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/05/BT25-059-Sample.png/revision/latest?cb=20260424052656",
+        "uploadDate": "2026-04-24T05:26:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-059_P1.png",
+        "imgName": "BT25-059_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/09/BT25-059_P1.png/revision/latest?cb=20260501073635",
+        "uploadDate": "2026-05-01T07:36:35"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-059_P1-Sample.png",
+        "imgName": "BT25-059_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a0/BT25-059_P1-Sample.png/revision/latest?cb=20260424052641",
+        "uploadDate": "2026-04-24T05:26:41"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-059-J.png",
+        "imgName": "BT25-059-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/69/BT25-059-J.png/revision/latest?cb=20260501104457",
+        "uploadDate": "2026-05-01T10:44:57"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-059_P1-J.png",
+        "imgName": "BT25-059_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0b/BT25-059_P1-J.png/revision/latest?cb=20260501104457",
+        "uploadDate": "2026-05-01T10:44:57"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/03/BT25-059.png/revision/latest?cb=20260501074604",
+  "level": "6",
+  "name": "Ceresmon",
+  "nameJapanese": "ケレスモン",
+  "playCost": "12",
+  "rarity": "Super Rare",
+  "rule": "[Rule] Trait: Has [Vegetation] Type.",
   "setData": {
     "ch": [
       {
@@ -20,10 +93,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NIJIMAARC",
+          "text": "NIJIMAARC"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+          "text": "BT-25: Booster Dual Revolution"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
         }
       }
     ],
@@ -33,10 +117,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NIJIMAARC",
+          "text": "NIJIMAARC"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+          "text": "BT-25: Booster Dual Revolution"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
         }
       }
     ],
@@ -46,10 +141,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NIJIMAARC",
+          "text": "NIJIMAARC"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+          "text": "BT-25: Booster Dual Revolution"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
         }
       }
     ],
@@ -59,12 +165,24 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NIJIMAARC",
+          "text": "NIJIMAARC"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+          "text": "BT-25: Booster Dual Revolution"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
         }
       }
     ]
-  }
+  },
+  "type": "Shaman/Olympos XII/Iliad/TS"
 }

@@ -1,18 +1,49 @@
 {
   "blockIcon": "06",
+  "cardEffects": "While you have no face-up security cards, you can ignore this card's color requirements.\n[Security] [Your Turn] All of your green or black [TS] trait Digimon gain ＜Alliance＞  (When this Digimon attacks, by suspending 1 of your other Digimon, add the suspended Digimon's DP to this Digimon and it gains ＜Security A. +1＞ for the attack.) While you have [Bacchusmon] or [Ceresmon], they also gain ＜Piercing＞  (When this Digimon attacks and deletes an opponent's Digimon in battle, it checks security before the attack ends.)\n[Main] Add your bottom security card to the hand and place this card face up as the bottom security card. Then, you may play 1 green or black [TS] trait Digimon card from your hand with the cost reduced by 3.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Option",
+  "color": "Green/Black",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-099.png",
+        "imgName": "BT25-099.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e3/BT25-099.png/revision/latest?cb=20260501074259",
+        "uploadDate": "2026-05-01T07:42:59"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-099-Sample.png",
+        "imgName": "BT25-099-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/24/BT25-099-Sample.png/revision/latest?cb=20260417053938",
+        "uploadDate": "2026-04-17T05:39:38"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-099-J.png",
+        "imgName": "BT25-099-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/70/BT25-099-J.png/revision/latest?cb=20260501103521",
+        "uploadDate": "2026-05-01T10:35:21"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e3/BT25-099.png/revision/latest?cb=20260501074259",
+  "name": "Gear Forest Village",
+  "nameJapanese": "ギア・フォレスト 森の集落",
+  "rarity": "Uncommon",
+  "securityEffect": "[Security] You may play 1 level 4 or lower green or black [TS] trait Digimon card from your hand or trash without paying the cost.",
   "setData": {
     "ch": [
       {
@@ -20,10 +51,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "Itohiro"
         }
       }
     ],
@@ -33,10 +64,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "Itohiro"
         }
       }
     ],
@@ -46,10 +77,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "Itohiro"
         }
       }
     ],
@@ -59,12 +90,14 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "Itohiro"
         }
       }
     ]
-  }
+  },
+  "type": "Iliad/TS",
+  "useCost": "3"
 }

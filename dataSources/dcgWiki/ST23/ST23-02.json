@@ -1,18 +1,60 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.2 w/[Glowing Dawn] trait: Cost 0",
+  "attribute": "Vaccine",
   "blockIcon": "06",
+  "cardEffects": "[Your Turn] When this Digimon would digivolve into a Digimon card with the [Glowing Dawn] trait, reduce the cost by 1.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-24:_Starter_Deck_Digimon_Data_Squad",
+        "captionText": "ST-24: Starter Deck Digimon Data Squad (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST23-02.png",
+        "imgName": "ST23-02.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/74/ST23-02.png/revision/latest?cb=20260501072816",
+        "uploadDate": "2026-05-01T07:28:16"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-24:_Starter_Deck_Digimon_Data_Squad",
+        "captionText": "ST-24: Starter Deck Digimon Data Squad (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST23-02-Sample.png",
+        "imgName": "ST23-02-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/ff/ST23-02-Sample.png/revision/latest?cb=20260405123134",
+        "uploadDate": "2026-04-05T12:31:34"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/ST-24:_Starter_Deck_Digimon_Data_Squad",
+        "captionText": "ST-24: Starter Deck Digimon Data Squad (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:ST23-02-J.png",
+        "imgName": "ST23-02-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/40/ST23-02-J.png/revision/latest?cb=20260501103523",
+        "uploadDate": "2026-05-01T10:35:23"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/74/ST23-02.png/revision/latest?cb=20260501072816",
+  "inheritedEffect": "＜Barrier＞ (When this Digimon would be deleted in battle, by trashing your top security card, it isn't deleted.)",
+  "level": "3",
+  "name": "Liollmon",
+  "nameJapanese": "レオルモン",
+  "playCost": "3",
+  "rarity": "Common",
   "setData": {
     "ch": [
       {
@@ -20,10 +62,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/ST-23:_Starter_Deck_Digimon_Beatbreak",
           "text": "ST-23: Starter Deck Digimon Beatbreak"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-23_%26_ST-24:_Welcome_Tamers_Pack",
+          "text": "ST-23 & ST-24: Welcome Tamers Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
         }
       }
     ],
@@ -33,10 +86,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/ST-23:_Starter_Deck_Digimon_Beatbreak",
           "text": "ST-23: Starter Deck Digimon Beatbreak"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-23_%26_ST-24:_Welcome_Tamers_Pack",
+          "text": "ST-23 & ST-24: Welcome Tamers Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
         }
       }
     ],
@@ -46,10 +110,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/ST-23:_Starter_Deck_Digimon_Beatbreak",
           "text": "ST-23: Starter Deck Digimon Beatbreak"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-23_%26_ST-24:_Welcome_Tamers_Pack",
+          "text": "ST-23 & ST-24: Welcome Tamers Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
         }
       }
     ],
@@ -59,12 +134,24 @@
           "link": "https://digimoncardgame.fandom.com/wiki/ST-23:_Starter_Deck_Digimon_Beatbreak",
           "text": "ST-23: Starter Deck Digimon Beatbreak"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/ST-23_%26_ST-24:_Welcome_Tamers_Pack",
+          "text": "ST-23 & ST-24: Welcome Tamers Pack"
+        },
+        "foil&Rarity": "Foil - Pre Release Stamp - Common",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
         }
       }
     ]
-  }
+  },
+  "type": "Holy Beast/Glowing Dawn/BEATBREAK"
 }

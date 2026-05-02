@@ -1,18 +1,61 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[TS] trait: Cost 3",
+  "attribute": "Virus",
   "blockIcon": "06",
+  "cardEffects": "＜Jamming＞ (This Digimon can't be deleted in battles against Security Digimon.)\n[On Play] [When Digivolving] By trashing 1 of your Digimon's link cards, you may play or use 1 [TS] trait card with a play or use cost of 5 or less from your hand without paying the cost.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-073.png",
+        "imgName": "BT25-073.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/23/BT25-073.png/revision/latest?cb=20260501073635",
+        "uploadDate": "2026-05-01T07:36:35"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-073-Sample.png",
+        "imgName": "BT25-073-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cb/BT25-073-Sample.png/revision/latest?cb=20260403123433",
+        "uploadDate": "2026-04-03T12:34:33"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-073-J.png",
+        "imgName": "BT25-073-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/63/BT25-073-J.png/revision/latest?cb=20260501104459",
+        "uploadDate": "2026-05-01T10:44:59"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/23/BT25-073.png/revision/latest?cb=20260501073635",
+  "inheritedEffect": "[All Turns] When this Digimon would leave the battle area, by trashing 1 of its link cards, it doesn't leave.",
+  "level": "5",
+  "name": "Dragomon",
+  "nameJapanese": "ダゴモン",
+  "nameTranslated": "Dagomon",
+  "playCost": "7",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -20,10 +63,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
         }
       }
     ],
@@ -33,10 +76,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
         }
       }
     ],
@@ -46,10 +89,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
         }
       }
     ],
@@ -59,12 +102,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
         }
       }
     ]
-  }
+  },
+  "type": "Aquabeast/Titan/TS"
 }

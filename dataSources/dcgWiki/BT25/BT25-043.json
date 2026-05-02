@@ -1,18 +1,109 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[Glowing Dawn] trait: Cost 3",
+  "attribute": "Virus",
   "blockIcon": "06",
+  "cardEffects": "[When Digivolving] [When Attacking] [Once Per Turn] ＜Recovery +1＞ (Place the top card of your deck as your top security card.) Then, by trashing the top security card of 1 player with the most security cards, this Digimon unsuspends.\n[All Turns] [Once Per Turn] When any of your [Glowing Dawn] trait Digimon would leave the battle area, by trashing your top security card, they don't leave.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon/Option",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "4",
+    "level": "5"
+  },
+  "dp": "12000 DP",
+  "dual": "[Arts Digivolve] (Instead of trashing after use, your cards may digivolve into this card without paying the cost.)",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-043.png",
+        "imgName": "BT25-043.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b1/BT25-043.png/revision/latest?cb=20260501073223",
+        "uploadDate": "2026-05-01T07:32:23"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-043-Sample.png",
+        "imgName": "BT25-043-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3c/BT25-043-Sample.png/revision/latest?cb=20260412123221",
+        "uploadDate": "2026-04-12T12:32:21"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-043_P1.png",
+        "imgName": "BT25-043_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1f/BT25-043_P1.png/revision/latest?cb=20260501074011",
+        "uploadDate": "2026-05-01T07:40:11"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-043_P1-Sample.png",
+        "imgName": "BT25-043_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c9/BT25-043_P1-Sample.png/revision/latest?cb=20260427135442",
+        "uploadDate": "2026-04-27T13:54:42"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-043_P2.png",
+        "imgName": "BT25-043_P2.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/db/BT25-043_P2.png/revision/latest?cb=20260501075845",
+        "uploadDate": "2026-05-01T07:58:45"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-043_P2-Sample.png",
+        "imgName": "BT25-043_P2-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f0/BT25-043_P2-Sample.png/revision/latest?cb=20260428125444",
+        "uploadDate": "2026-04-28T12:54:44"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-043-J.png",
+        "imgName": "BT25-043-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/ac/BT25-043-J.png/revision/latest?cb=20260501104456",
+        "uploadDate": "2026-05-01T10:44:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-043_P1-J.png",
+        "imgName": "BT25-043_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b4/BT25-043_P1-J.png/revision/latest?cb=20260501104356",
+        "uploadDate": "2026-05-01T10:43:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-043_P2-J.png",
+        "imgName": "BT25-043_P2-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c3/BT25-043_P2-J.png/revision/latest?cb=20260501104455",
+        "uploadDate": "2026-05-01T10:44:55"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b1/BT25-043.png/revision/latest?cb=20260501073223",
+  "level": "6",
+  "name": "Habakirimon/Habakiri",
+  "nameJapanese": "ハバキリモン/羽々斬",
+  "optionCardColourRequirements": "Yellow",
+  "optionCardEffect": "＜Use Req. ([Glowing Dawn] trait)＞ (Specified cards let you ignore color requirements.)\n[Main] 1 of your opponent's Digimon gets -8000 DP for the turn. Then, by trashing your top security card, all of your opponent's Digimon get -5000 DP for the turn.",
+  "rarity": "Ultimate Rare",
   "setData": {
     "ch": [
       {
@@ -20,10 +111,32 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Ultimate Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+          "text": "BT-25: Booster Dual Revolution"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+          "text": "BT-25: Booster Dual Revolution"
+        },
+        "foil&Rarity": "Textured - Special Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
         }
       }
     ],
@@ -33,10 +146,32 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Ultimate Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+          "text": "BT-25: Booster Dual Revolution"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+          "text": "BT-25: Booster Dual Revolution"
+        },
+        "foil&Rarity": "Textured - Special Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
         }
       }
     ],
@@ -46,10 +181,32 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Ultimate Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+          "text": "BT-25: Booster Dual Revolution"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+          "text": "BT-25: Booster Dual Revolution"
+        },
+        "foil&Rarity": "Textured - Special Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
         }
       }
     ],
@@ -59,12 +216,36 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Ultimate Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+          "text": "BT-25: Booster Dual Revolution"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tonamikanji",
+          "text": "Tonamikanji"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+          "text": "BT-25: Booster Dual Revolution"
+        },
+        "foil&Rarity": "Textured - Special Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
         }
       }
     ]
-  }
+  },
+  "type": "Shaman/Glowing Dawn/BEATBREAK",
+  "useCost": "6"
 }

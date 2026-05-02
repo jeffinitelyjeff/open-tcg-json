@@ -1,18 +1,49 @@
 {
   "blockIcon": "06",
+  "cardEffects": "When this card would be used, by trashing the bottom face-down card from under any of your Tamers, reduce the use cost by 2.\n[Main] By placing 1 [Gaogamon] and 1 [MachGaogamon] from your trash as 1 of your [Gaomon]'s bottom digivolution cards, that Digimon may digivolve into [MirageGaogamon] in the hand, ignoring digivolution requirements and without paying the cost.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Option",
+  "color": "Blue",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-096.png",
+        "imgName": "BT25-096.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e9/BT25-096.png/revision/latest?cb=20260501074126",
+        "uploadDate": "2026-05-01T07:41:26"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-096-Sample.png",
+        "imgName": "BT25-096-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fa/BT25-096-Sample.png/revision/latest?cb=20260402141621",
+        "uploadDate": "2026-04-02T14:16:21"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-096-J.png",
+        "imgName": "BT25-096-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e6/BT25-096-J.png/revision/latest?cb=20260501103521",
+        "uploadDate": "2026-05-01T10:35:21"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e9/BT25-096.png/revision/latest?cb=20260501074126",
+  "name": "Mirage Beast Knight",
+  "nameJapanese": "蜃気楼の獣騎士",
+  "rarity": "Common",
+  "securityEffect": "[Security] You may play 1 [Gaomon] or [Thomas H. Norstein] from your hand or trash without paying the cost. Then, add this card to the hand.",
   "setData": {
     "ch": [
       {
@@ -20,11 +51,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
       }
     ],
     "en": [
@@ -33,11 +61,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
       }
     ],
     "jp": [
@@ -46,11 +71,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
       }
     ],
     "kr": [
@@ -59,12 +81,11 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
       }
     ]
-  }
+  },
+  "type": "DATA SQUAD",
+  "useCost": "5"
 }

@@ -1,18 +1,67 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  [Missimon]/Lv.2 w/[ACCEL] trait: Cost 0",
+  "attribute": "Virus",
   "blockIcon": "06",
+  "cardEffects": "[When Moving] [On Play] Reveal the top 3 cards of your deck. Add 1 card with [Chaosmon] in its name or the [D-Brigade] or [ACCEL] trait among them to the hand. Return the rest to the top or bottom of the deck.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Black/Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "1",
+      "level": "2"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "1",
+      "level": "2"
+    }
+  ],
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-063.png",
+        "imgName": "BT25-063.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/23/BT25-063.png/revision/latest?cb=20260501073635",
+        "uploadDate": "2026-05-01T07:36:35"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-063-Sample.png",
+        "imgName": "BT25-063-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/07/BT25-063-Sample.png/revision/latest?cb=20260419063855",
+        "uploadDate": "2026-04-19T06:38:55"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-063-J.png",
+        "imgName": "BT25-063-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/29/BT25-063-J.png/revision/latest?cb=20260501104458",
+        "uploadDate": "2026-05-01T10:44:58"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/23/BT25-063.png/revision/latest?cb=20260501073635",
+  "inheritedEffect": "[All Turns] This Digimon gets +1000 DP.",
+  "level": "3",
+  "name": "Commandramon",
+  "nameJapanese": "コマンドラモン",
+  "playCost": "3",
+  "rarity": "Common",
   "setData": {
     "ch": [
       {
@@ -20,10 +69,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:KISUKE",
+          "text": "KISUKE"
         }
       }
     ],
@@ -33,10 +82,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:KISUKE",
+          "text": "KISUKE"
         }
       }
     ],
@@ -46,10 +95,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:KISUKE",
+          "text": "KISUKE"
         }
       }
     ],
@@ -59,12 +108,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:KISUKE",
+          "text": "KISUKE"
         }
       }
     ]
-  }
+  },
+  "type": "Cyborg/D-Brigade/ACCEL"
 }

@@ -1,18 +1,67 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.2 w/[TS] trait: Cost 0",
+  "attribute": "Vaccine",
   "blockIcon": "06",
+  "cardEffects": "[When Moving] [On Play] By trashing up to 2 [Iliad] or [TS] trait cards from your hand, ＜Draw 1＞ (Draw 1 card from your deck.) for each card trashed.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "0",
+      "level": "2"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "0",
+      "level": "2"
+    }
+  ],
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-008.png",
+        "imgName": "BT25-008.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b6/BT25-008.png/revision/latest?cb=20260501072126",
+        "uploadDate": "2026-05-01T07:21:26"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-008-Sample.png",
+        "imgName": "BT25-008-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/94/BT25-008-Sample.png/revision/latest?cb=20260421062933",
+        "uploadDate": "2026-04-21T06:29:33"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-008-J.png",
+        "imgName": "BT25-008-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8e/BT25-008-J.png/revision/latest?cb=20260501103731",
+        "uploadDate": "2026-05-01T10:37:31"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b6/BT25-008.png/revision/latest?cb=20260501072126",
+  "inheritedEffect": "[Your Turn] This Digimon gets +2000 DP.",
+  "level": "3",
+  "name": "Coronamon",
+  "nameJapanese": "コロナモン",
+  "playCost": "3",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -20,10 +69,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Souichirou_Gunjima",
+          "text": "Souichirou Gunjima"
         }
       }
     ],
@@ -33,10 +82,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Souichirou_Gunjima",
+          "text": "Souichirou Gunjima"
         }
       }
     ],
@@ -46,10 +95,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Souichirou_Gunjima",
+          "text": "Souichirou Gunjima"
         }
       }
     ],
@@ -59,12 +108,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Souichirou_Gunjima",
+          "text": "Souichirou Gunjima"
         }
       }
     ]
-  }
+  },
+  "type": "Beast/Iliad/TS"
 }

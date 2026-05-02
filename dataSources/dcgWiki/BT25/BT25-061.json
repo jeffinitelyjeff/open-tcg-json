@@ -1,18 +1,78 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.2 w/[Appmon] trait: Cost 0",
+  "attribute": "Game",
   "blockIcon": "06",
+  "cardEffects": "[Start of Your Main Phase] By trashing 1 card with the [Appmon] trait from your hand, ＜Draw 1＞ (Draw 1 card from your deck.) and gain 1 memory.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "2000 DP",
+  "form": "Stnd./Appmon",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-061.png",
+        "imgName": "BT25-061.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/91/BT25-061.png/revision/latest?cb=20260501073635",
+        "uploadDate": "2026-05-01T07:36:35"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-061-Sample.png",
+        "imgName": "BT25-061-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/10/BT25-061-Sample.png/revision/latest?cb=20260415060807",
+        "uploadDate": "2026-04-15T06:08:07"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Dual_Revolution",
+        "captionText": "Box Promotion Pack: Dual Revolution (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-061_P1.png",
+        "imgName": "BT25-061_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2c/BT25-061_P1.png/revision/latest?cb=20260501080121",
+        "uploadDate": "2026-05-01T08:01:21"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
+        "captionText": "BT-25: Booster Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-061-J.png",
+        "imgName": "BT25-061-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/07/BT25-061-J.png/revision/latest?cb=20260501104457",
+        "uploadDate": "2026-05-01T10:44:57"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Dual_Revolution",
+        "captionText": "Box Promotion Pack: Dual Revolution (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT25-061_P1-J.png",
+        "imgName": "BT25-061_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/64/BT25-061_P1-J.png/revision/latest?cb=20260501104457",
+        "uploadDate": "2026-05-01T10:44:57"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/91/BT25-061.png/revision/latest?cb=20260501073635",
+  "level": "3",
+  "linkDp": "<< +2000 DP",
+  "linkEffect": "[When Linking] 1 of your opponent's Digimon can't unsuspend until their turn ends.",
+  "linkRequirements": "[Link] [Appmon] trait: Cost 1 \n(Plug this card from the hand or battle area sideways into the specified Digimon in the battle area.)",
+  "name": "Offmon",
+  "nameJapanese": "オフモン",
+  "playCost": "3",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -20,10 +80,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Dual_Revolution",
+          "text": "Box Promotion Pack: Dual Revolution"
+        },
+        "foil&Rarity": "Full Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
         }
       }
     ],
@@ -33,10 +104,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Dual_Revolution",
+          "text": "Box Promotion Pack: Dual Revolution"
+        },
+        "foil&Rarity": "Full Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
         }
       }
     ],
@@ -46,10 +128,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Dual_Revolution",
+          "text": "Box Promotion Pack: Dual Revolution"
+        },
+        "foil&Rarity": "Full Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
         }
       }
     ],
@@ -59,12 +152,24 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_Booster_Dual_Revolution",
           "text": "BT-25: Booster Dual Revolution"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Box_Promotion_Pack:_Dual_Revolution",
+          "text": "Box Promotion Pack: Dual Revolution"
+        },
+        "foil&Rarity": "Full Art - Box Topper",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
         }
       }
     ]
-  }
+  },
+  "type": "Offline (App Name)"
 }
