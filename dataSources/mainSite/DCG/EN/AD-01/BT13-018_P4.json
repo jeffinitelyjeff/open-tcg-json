@@ -1,0 +1,77 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "It causes that card to also be treated as a Digimon with X000 DP. For example, if a Tamer is also treated as a Digimon, it can attack like a standard Digimon, and it will gain inherited effects from cards stacked under it. However, even if a Tamer is played and then treated as a Digimon in the same turn, it can't attack during that turn.",
+      "date": "Mar. 13, 2026",
+      "num": "Q2276",
+      "q": "What does an \"is also treated as a Digimon with X000 DP\" effect do, exactly?"
+    },
+    {
+      "a": "No, it is treated as both a Digimon and a Tamer.",
+      "date": "Mar. 13, 2026",
+      "num": "Q5986",
+      "q": "If a Tamer is also treated as a Digimon using an \"is also treated as a Digimon with X000 DP\" effect, is it no longer considered a Tamer?"
+    },
+    {
+      "a": "Yes, it's treated as an effect of both. Because the card is treated as both a Digimon and a Tamer, the activated effect is treated as both a Digimon effect and a Tamer effect.",
+      "date": "Mar. 13, 2026",
+      "num": "Q5987",
+      "q": "If a Tamer is also treated as a Digimon using an \"is also treated as a Digimon with X000 DP\" effect and it activates an effect, is it treated as both a Digimon effect and a Tamer effect?"
+    },
+    {
+      "a": "Yes, it's deleted upon the rule check timing.",
+      "date": "Mar. 13, 2026",
+      "num": "Q5988",
+      "q": "If a Tamer is also treated as a Digimon using an \"is also treated as a Digimon with X000 DP\" effect, then another effect causes its DP to become 0, is it deleted upon a rule check?"
+    },
+    {
+      "a": "The effect that later gives it a play cost, level, or DP overwrites the older effect. Any other effects later gained will be added. For example, if a Tamer is also treated as a Digimon with  and 3000 DP from an \"is also treated as a Digimon with 3000 DP, gains , and can't digivolve\" effect, then it gains an \"is also treated as a Digimon with 6000 DP, gains , and can't digivolve\" effect, that Tamer will also be treated as a Digimon with , , and 6000 DP.",
+      "date": "Mar. 13, 2026",
+      "num": "Q5989",
+      "q": "If a Tamer is also treated as a Digimon using an \"is also treated as a Digimon with 3000 DP\" effect, and later it gains another \"is also treated as a Digimon with 6000 DP\" effect, what happens?"
+    },
+    {
+      "a": "Yes, you can. When an effect is activated on a card that's treated as both a Digimon and a Tamer, the effect is treated as both a Digimon effect and a Tamer effect, therefore you can gain memory.",
+      "date": "Mar. 13, 2026",
+      "num": "Q5990",
+      "q": "Can I gain memory using an effect on a Tamer that's treated as a Digimon with X000 DP due to an effect while my opponent has \"your opponent can't gain memory other than by Tamer effects\" activated?"
+    },
+    {
+      "a": "No, it won't be affected by effects. When an effect is activated on a card that's treated as both a Digimon and a Tamer, the effect is treated as both a Digimon effect and a Tamer effect, therefore the chosen opponent Digimon won't be affected by effects.",
+      "date": "Mar. 13, 2026",
+      "num": "Q5991",
+      "q": "If an opponent's card has \"isn't affected by Digimon effects\" and it's chosen for an \"is also treated as a Digimon with X000 DP\" Tamer effect that treats it as a Digimon, will the chosen opponent Digimon be affected by effects?"
+    }
+  ],
+  "Color": [
+    "Red",
+    "Yellow"
+  ],
+  "Cost": "12",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Red",
+    "Yellow",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "[Start of Your Main Phase] [When Digivolving] Until your opponent's turn ends, 1 of your [Marcus Damon]s is also treated as a 3000 DP Digimon, can't digivolve and gains ＜Blocker＞.",
+    "[All Turns] [Once Per Turn] When any of your red or yellow Tamers suspend, 1 of your opponent's Digimon gets -6000 DP for the turn."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Advanced Booster DIGIMON GENERATION [AD-01]",
+    "?search=true&category=522035",
+    "/products/pack/ad-01"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.5 w/[RizeGreymon] in name: Cost 3",
+  "Type": "Light Dragon",
+  "cardLv": "Lv.6",
+  "cardNo": "BT13-018",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "R",
+  "cardTitle": "ShineGreymon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT13-018_P4.png?260424"
+}

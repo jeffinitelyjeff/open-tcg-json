@@ -1,0 +1,66 @@
+{
+  "Attribute": "Unknown",
+  "Card Q&A": [
+    {
+      "a": "No, this is a standard digivolution requirement for a Digimon card. It references the number of your security cards, but it's not an effect.",
+      "date": "Mar. 28, 2024",
+      "num": "Q4019",
+      "q": "Is \"[Digivolve] While you have 2 or fewer security cards, [Gabumon]: Cost 3\" a digivolution requirement added by an effect while I have 2 or fewer security cards?"
+    },
+    {
+      "a": "Yes, you can. Digivolution is possible as long as you have 2 or fewer security cards when you use .",
+      "date": "Mar. 28, 2024",
+      "num": "Q4020",
+      "q": "Can I use  to digivolve my [Gabumon] into this card in the hand when I have 2 or fewer security cards and an opponent's Digimon attacks?"
+    },
+    {
+      "a": "No, it can't. Digivolution from [Gabumon] isn't possible because the digivolution requirements aren't met when you use .",
+      "date": "Mar. 28, 2024",
+      "num": "Q4021",
+      "q": "If an opponent's Digimon attacks when I have 2 or fewer security cards, then an effect adds a card to my security stack so my security stack has 3 or more cards when I use , can my [Gabumon] digivolve into this card in the hand?"
+    },
+    {
+      "a": "Yes, you can. Digivolution from [Gabumon] is possible as long as the digivolution requirements are met when you use .",
+      "date": "Mar. 28, 2024",
+      "num": "Q4022",
+      "q": "If an opponent's Digimon attacks when I have 3 security cards, then an effect removes a card from my security stack so my security stack has 2 or fewer cards when I use , can my [Gabumon] digivolve into this card in the hand?"
+    },
+    {
+      "a": "Yes, you can.\n                                            \n                        Related Cards",
+      "date": "Mar. 28, 2024",
+      "num": "Q4023",
+      "q": "If I use an effect such as P-103 [Offense Training]'s  that digivolves a Digimon, can my [Gabumon] digivolve into this card in the hand when I have 2 or fewer security cards?",
+      "relatedCards": [
+        "P-104"
+      ]
+    }
+  ],
+  "Color": "Blue",
+  "Cost": "8",
+  "DP": "14000",
+  "Digivolve Cost 1": [
+    "Blue",
+    "3 from Lv.6"
+  ],
+  "Effect": [
+    "{Hand} [Counter] ＜Blast Digivolve＞ (Your Digimon may digivolve into this card without paying the cost.)",
+    "[On Play] [When Digivolving] Return 2 of your opponent's Digimon with as many or fewer digivolution cards as this Digimon to the bottom of the deck.",
+    "[When Attacking] [Once Per Turn] If you have a Tamer, this Digimon unsuspends."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Advanced Booster DIGIMON GENERATION [AD-01]",
+    "?search=true&category=522035",
+    "/products/pack/ad-01"
+  ],
+  "Special Digivolution Condition": "[Digivolve] While you have 2 or fewer security cards, [Gabumon]: Cost 3",
+  "Special Rule": "＜Overflow (-5)＞ (As this card moves from the field or under a card to an area other than those, lose 5 memory.)",
+  "Type": "Unknown",
+  "cardLv": "Lv.7",
+  "cardNo": "LM-022",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "P",
+  "cardTitle": "Gabumon - Bond of Friendship ACE",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/LM-022_P2.png?260424"
+}

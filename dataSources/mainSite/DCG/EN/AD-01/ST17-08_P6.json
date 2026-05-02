@@ -1,0 +1,62 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "Yes, it can.",
+      "date": "Mar. 28, 2024",
+      "num": "Q828",
+      "q": "Can this card's [When Digivolving] effect suspend 1 each of my opponent's Digimon and Tamers?"
+    },
+    {
+      "a": "Yes. Digivolutions from Tamers are also no longer possible.",
+      "date": "Mar. 28, 2024",
+      "num": "Q829",
+      "q": "Does this card's [When Digivolving] effect also prevent my opponent's Tamers from digivolving into Digimon cards in cases where Tamers can digivolve?"
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Mar. 28, 2024",
+      "num": "Q830",
+      "q": "Can I activate the \"can't unsuspend or digivolve\" effect in this card's [When Digivolving] effect on opponent's Digimon/Tamers other than the ones suspended by this effect?"
+    },
+    {
+      "a": "No, it doesn't unsuspend. The target Digimon is unaffected by this card's effect during the turn it activated, but the \"this Digimon isn't affected by the effects of your opponent’s Digimon until the end of your opponent's turn\" effect is lost when the turn switches, and then this card's effect prevents it from unsuspending.",
+      "date": "Mar. 28, 2024",
+      "num": "Q831",
+      "q": "If this card's [When Digivolving] effect is activated for an opponent's suspended Digimon with a \"this Digimon isn't affected by the effects of your opponent’s Digimon until the end of your opponent's turn,\" does that Digimon unsuspend during my opponent's next turn?"
+    }
+  ],
+  "Color": [
+    "Green",
+    "Black"
+  ],
+  "Cost": "7",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Green",
+    "Black",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "{Hand} [Counter] ＜Blast Digivolve＞ (Your Digimon may digivolve into this card without paying the cost.)",
+    "＜Reboot＞ ＜Blocker＞",
+    "[When Digivolving] Suspend 2 of your opponent's Digimon or Tamers. Then, 2 of their Digimon or Tamers can't unsuspend or digivolve until their turn ends.",
+    "[When Digivolving] [End of Attack] [Once Per Turn] This Digimon may unsuspend."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Advanced Booster DIGIMON GENERATION [AD-01]",
+    "?search=true&category=522035",
+    "/products/pack/ad-01"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [Rapidmon] in name: Cost 5",
+  "Special Rule": "＜Overflow (-4)＞ (As this card moves from the field or under a card to an area other than those, lose 4 memory.)",
+  "Type": "Machine",
+  "cardLv": "Lv.6",
+  "cardNo": "ST17-08",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "MegaGargomon ACE",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/ST17-08_P6.png?260424"
+}

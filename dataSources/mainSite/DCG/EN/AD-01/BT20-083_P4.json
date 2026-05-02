@@ -1,0 +1,47 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": "A [Breeding] effect can be triggered/activated while its card is in the breeding area. Such effects can't be triggered or activated in areas other than the breeding area.",
+      "date": "Jan. 24, 2025",
+      "num": "Q4409",
+      "q": "What is a [Breeding] effect?"
+    },
+    {
+      "a": "[Security] effects take precedence for activation. Upon a security check, a [Security] effect will immediately activate without pending activation. For other triggered effects, the turn player activates their effects first.",
+      "date": "Jan. 24, 2025",
+      "num": "Q4410",
+      "q": "What order do a [Security] effect, \"when [...] performs a security check\" effect, and \"when a card is removed from [...] security stack\" effect activate when they trigger simultaneously upon a security check?"
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Jan. 24, 2025",
+      "num": "Q4411",
+      "q": "I have a Digimon with this card in its digivolution cards in my breeding area. Can I use this card's inherited effect to suspend that Digimon and play this card itself from digivolution cards?"
+    }
+  ],
+  "Color": "White",
+  "Cost": "5",
+  "DP": "5000",
+  "Effect": [
+    "＜Blocker＞",
+    "[On Play] If you have 1 or fewer security cards, this Digimon may digivolve into [Omnimon (X Antibody)] in the hand, ignoring digivolution requirements and without paying the cost.",
+    "[On Deletion] You may place this card as the bottom digivolution card of your [King Drasil_7D6] in the breeding area.",
+    "(Rule) Name: Also treated as [X Antibody]."
+  ],
+  "Form": "Champion",
+  "Inherited Effect": "{Breeding} [Opponent's Turn] When your security stack is removed from, by suspending this Digimon, play 1 [Omekamon] from this Digimon's digivolution cards without paying the cost.",
+  "Notes": [
+    "Advanced Booster DIGIMON GENERATION [AD-01]",
+    "?search=true&category=522035",
+    "/products/pack/ad-01"
+  ],
+  "Type": "Puppet/X Antibody/LIBERATOR",
+  "cardLv": "Lv.4",
+  "cardNo": "BT20-083",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "R",
+  "cardTitle": "Omekamon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT20-083_P4.png?260424"
+}
