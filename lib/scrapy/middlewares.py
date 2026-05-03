@@ -3,11 +3,12 @@
 # See documentation in:
 # https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-import base64
 import collections
 import logging
 import os
+import random
 import re
+import urllib.parse
 from itertools import cycle
 
 from scrapy import signals
@@ -111,8 +112,20 @@ class OTCGJDownloaderMiddleware:
     spider.logger.info("Spider opened: %s" % spider.name)
 
 
+# Realistic Accept-Language values to rotate through alongside User-Agent.
+_ACCEPT_LANGUAGES = [
+    'en-US,en;q=0.9',
+    'en-GB,en;q=0.9',
+    'en-US,en;q=0.8',
+    'en-US,en;q=0.9,fr;q=0.6',
+    'en-US,en;q=0.8,de;q=0.5',
+    'en-US,en;q=0.9,ja;q=0.7',
+    'en,en-US;q=0.9',
+]
+
+
 class RotateUserAgentMiddleware:
-  """Cycle through USER_AGENTS for every outgoing request."""
+  """Cycle through USER_AGENTS and randomize Accept-Language for every request."""
 
   def __init__(self, user_agents: list[str]):
     self.user_agents_cycle = cycle(user_agents) if user_agents else None
@@ -125,29 +138,66 @@ class RotateUserAgentMiddleware:
     return cls(agents)
 
   def process_request(self, request, spider):
-    if not self.user_agents_cycle:
-      return None
-    request.headers['User-Agent'] = next(self.user_agents_cycle)
+    if self.user_agents_cycle:
+      request.headers['User-Agent'] = next(self.user_agents_cycle)
+    request.headers['Accept-Language'] = random.choice(_ACCEPT_LANGUAGES)
     return None
 
 
 class StopOnForbiddenMiddleware:
-  """Stop crawl immediately when final 403 response is seen."""
+  """Retry 403 responses with exponential backoff.
 
-  def __init__(self, max_retry_times: int):
-    self.max_retry_times = max_retry_times
+  On each 403 the download slot's delay is raised so that the next request
+  to that domain (including the retry) waits before being sent, giving the
+  server's rate-limiter time to reset.  AutoThrottle will then gradually
+  bring the delay back down as successful responses come in.
+
+  This middleware runs at priority 560 (after RetryMiddleware at 550 in the
+  process_response chain), so returning the 403 response here lets
+  RetryMiddleware handle the actual retry scheduling.
+  """
+
+  # Backoff ladder (seconds): 15, 30, 60, 120, 120, ...
+  BASE_BACKOFF_S = 15
+  BACKOFF_MULTIPLIER = 2
+  MAX_BACKOFF_S = 120
 
   @classmethod
   def from_crawler(cls, crawler):
-    # Defer to RETRY_TIMES so behavior matches RetryMiddleware.
-    return cls(crawler.settings.getint('RETRY_TIMES', 2))
+    instance = cls()
+    instance.max_retry_times = crawler.settings.getint('RETRY_TIMES', 2)
+    return instance
 
   def process_response(self, request, response, spider):
-    if response.status == 403:
-      retries = request.meta.get('retry_times', 0)
-      if retries >= self.max_retry_times:
-        spider.logger.error("403 retry exhausted at %s", response.url)
-        raise CloseSpider("403 forbidden after retries")
+    if response.status != 403:
+      return response
+
+    retry_times = request.meta.get('retry_times', 0)
+
+    if retry_times >= self.max_retry_times:
+      spider.logger.error("403 retry exhausted at %s", response.url)
+      raise CloseSpider("403 forbidden after retries")
+
+    backoff = min(
+        self.BASE_BACKOFF_S * (self.BACKOFF_MULTIPLIER**retry_times),
+        self.MAX_BACKOFF_S,
+    )
+
+    slot_key = (request.meta.get('download_slot') or
+                urllib.parse.urlparse(request.url).hostname)
+    slots = spider.crawler.engine.downloader.slots
+    if slot_key in slots:
+      slots[slot_key].delay = backoff
+
+    spider.logger.warning(
+        "403 at %s (attempt %d/%d) — backing off slot '%s' to %.0fs",
+        response.url,
+        retry_times + 1,
+        self.max_retry_times,
+        slot_key,
+        backoff,
+    )
+    # Return the response so RetryMiddleware (550) schedules the retry.
     return response
 
 
@@ -192,44 +242,28 @@ class RetryHistogramMiddleware:
     for i in range(max_retries + 1):
       n = counts.get(i, 0)
       bar = '█' * min(n, 60)
-      lines.append(
-          f"  {i:>2} {'retry' if i == 1 else 'retries'}: {n:>6,}  {bar}")
+      lines.append(f"  {i:>2} retries: {n:>6,}  {bar}")
     logging.info('\n'.join(lines))
 
-    # Also save a PNG histogram.
-    try:
-      import matplotlib
-      matplotlib.use('Agg')
-      import matplotlib.pyplot as plt
-      from . import scrapy_util
-
-      x = list(range(max_retries + 1))
-      y = [counts.get(i, 0) for i in x]
-
-      fig, ax = plt.subplots(figsize=(max(6, max_retries + 2), 4))
-      ax.bar(x, y, color='steelblue', edgecolor='black')
-      ax.set_xlabel('Retry attempts')
-      ax.set_ylabel('Number of URLs')
-      ax.set_title(f'Retry distribution — {spider.name}')
-      ax.set_xticks(x)
-
-      slug = re.sub(r'[^\w]+', '_', spider.name).strip('_').lower()
-      fname = f"retry_histogram_{slug}_{scrapy_util.RUN_TS:%Y%m%d_%H%M%S}.png"
-      out_path = scrapy_util.LOG_DIR / fname
-      scrapy_util.make_log_dir()
-      fig.savefig(out_path, dpi=150, bbox_inches='tight')
-      plt.close(fig)
-      logging.info("Retry histogram saved to %s", out_path)
-
-      summary_path = os.getenv('GITHUB_STEP_SUMMARY')
-      if summary_path:
-        with open(out_path, 'rb') as img_f:
-          img_b64 = base64.b64encode(img_f.read()).decode('ascii')
+    # Write a Mermaid xychart to GITHUB_STEP_SUMMARY if running in Actions.
+    summary_path = os.getenv('GITHUB_STEP_SUMMARY')
+    if summary_path:
+      try:
+        x_labels = ' '.join(f'"{i}"' for i in range(max_retries + 1))
+        y_values = ' '.join(
+            str(counts.get(i, 0)) for i in range(max_retries + 1))
+        mermaid = (f'## Retry distribution — {spider.name}\n\n'
+                   f'```mermaid\n'
+                   f'xychart-beta\n'
+                   f'    title "Retry distribution ({total:,} URLs)"\n'
+                   f'    x-axis "Retry attempts" [{x_labels}]\n'
+                   f'    y-axis "Number of URLs"\n'
+                   f'    bar [{y_values}]\n'
+                   f'```\n')
         with open(summary_path, 'a') as f:
-          f.write(f'\n<img src="data:image/png;base64,{img_b64}"'
-                  f' alt="Retry histogram — {spider.name}" />\n')
-    except Exception as e:
-      logging.warning("Could not generate retry histogram: %s", e)
+          f.write(mermaid)
+      except Exception as e:
+        logging.warning("Could not write retry histogram to summary: %s", e)
 
 
 class MaxRequestsMiddleware:
