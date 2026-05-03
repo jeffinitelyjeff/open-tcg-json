@@ -107,11 +107,15 @@ AUTOTHROTTLE_ENABLED = True
 AUTOTHROTTLE_START_DELAY = 5
 AUTOTHROTTLE_MAX_DELAY = 60
 AUTOTHROTTLE_TARGET_CONCURRENCY = 3.0
-AUTOTHROTTLE_DEBUG = True
 RANDOMIZE_DOWNLOAD_DELAY = True
 RETRY_ENABLED = True
 RETRY_HTTP_CODES = [500, 502, 503, 504, 522, 524, 408, 429, 403]
 RETRY_TIMES = 10
+
+# AUTOTHROTTLE_DEBUG adds lines like this, which are very verbose and don't add
+# much actionable info:
+# [INFO] slot: api.bandai-tcg-plus.com | conc: 1 | delay:  145 ms (-72) | latency:  217 ms | size: 48790 bytes
+AUTOTHROTTLE_DEBUG = False
 
 # Enable and configure HTTP caching (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html#httpcache-middleware-settings
