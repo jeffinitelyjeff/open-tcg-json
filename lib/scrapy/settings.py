@@ -75,6 +75,8 @@ DOWNLOADER_MIDDLEWARES = {
     'lib.scrapy.middlewares.StopOnForbiddenMiddleware': 560,
     # Counts every outgoing request (including retries) per spider.
     'lib.scrapy.middlewares.MaxRequestsMiddleware': 450,
+    # Tracks per-URL retry depth and emits a histogram on spider close.
+    'lib.scrapy.middlewares.RetryHistogramMiddleware': 100,
 }
 
 # Enable or disable extensions

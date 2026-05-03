@@ -3,6 +3,11 @@
 # See documentation in:
 # https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
+import base64
+import collections
+import logging
+import os
+import re
 from itertools import cycle
 
 from scrapy import signals
@@ -144,6 +149,87 @@ class StopOnForbiddenMiddleware:
         spider.logger.error("403 retry exhausted at %s", response.url)
         raise CloseSpider("403 forbidden after retries")
     return response
+
+
+class RetryHistogramMiddleware:
+  """Track per-URL retry counts and emit a text summary + PNG histogram on
+  spider close.  Hooks into process_request so every outgoing attempt
+  (including retries) is recorded; only the highest retry number seen for
+  each URL is kept, giving the final retry depth for that URL.
+  """
+
+  def __init__(self):
+    # url -> max retry_times value seen for that url
+    self._url_retry_counts: dict[str, int] = {}
+
+  @classmethod
+  def from_crawler(cls, crawler):
+    instance = cls()
+    crawler.signals.connect(instance.spider_closed,
+                            signal=signals.spider_closed)
+    return instance
+
+  def process_request(self, request, spider):
+    retry_times = request.meta.get('retry_times', 0)
+    url = request.url
+    current = self._url_retry_counts.get(url, 0)
+    if retry_times > current:
+      self._url_retry_counts[url] = retry_times
+    elif url not in self._url_retry_counts:
+      self._url_retry_counts[url] = 0
+    return None
+
+  def spider_closed(self, spider):
+    if not self._url_retry_counts:
+      return
+
+    counts = collections.Counter(self._url_retry_counts.values())
+    max_retries = max(counts)
+    total = sum(counts.values())
+
+    # Always log a text summary.
+    lines = [f"Retry distribution for {spider.name} ({total:,} URLs total):"]
+    for i in range(max_retries + 1):
+      n = counts.get(i, 0)
+      bar = '█' * min(n, 60)
+      lines.append(
+          f"  {i:>2} {'retry' if i == 1 else 'retries'}: {n:>6,}  {bar}")
+    logging.info('\n'.join(lines))
+
+    # Also save a PNG histogram.
+    try:
+      import matplotlib
+      matplotlib.use('Agg')
+      import matplotlib.pyplot as plt
+      from . import scrapy_util
+
+      x = list(range(max_retries + 1))
+      y = [counts.get(i, 0) for i in x]
+
+      fig, ax = plt.subplots(figsize=(max(6, max_retries + 2), 4))
+      ax.bar(x, y, color='steelblue', edgecolor='black')
+      ax.set_xlabel('Retry attempts')
+      ax.set_ylabel('Number of URLs')
+      ax.set_title(f'Retry distribution — {spider.name}')
+      ax.set_xticks(x)
+
+      slug = re.sub(r'[^\w]+', '_', spider.name).strip('_').lower()
+      fname = f"retry_histogram_{slug}_{scrapy_util.RUN_TS:%Y%m%d_%H%M%S}.png"
+      out_path = scrapy_util.LOG_DIR / fname
+      scrapy_util.make_log_dir()
+      fig.savefig(out_path, dpi=150, bbox_inches='tight')
+      plt.close(fig)
+      logging.info("Retry histogram saved to %s", out_path)
+
+      summary_path = os.getenv('GITHUB_STEP_SUMMARY')
+      if summary_path:
+        with open(out_path, 'rb') as img_f:
+          img_b64 = base64.b64encode(img_f.read()).decode('ascii')
+        with open(summary_path, 'a') as f:
+          f.write(f'\n<img src="data:image/png;base64,{img_b64}"'
+                  f' alt="Retry histogram — {spider.name}" />\n')
+    except Exception as e:
+      logging.warning("Could not generate retry histogram: %s", e)
 
 
 class MaxRequestsMiddleware:
