@@ -249,8 +249,8 @@ class RetryHistogramMiddleware:
     summary_path = os.getenv('GITHUB_STEP_SUMMARY')
     if summary_path:
       try:
-        x_labels = ' '.join(f'"{i}"' for i in range(max_retries + 1))
-        y_values = ' '.join(
+        x_labels = ', '.join(str(i) for i in range(max_retries + 1))
+        y_values = ', '.join(
             str(counts.get(i, 0)) for i in range(max_retries + 1))
         mermaid = (f'## Retry distribution — {spider.name}\n\n'
                    f'```mermaid\n'
