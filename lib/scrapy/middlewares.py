@@ -6,7 +6,7 @@
 from itertools import cycle
 
 from scrapy import signals
-from scrapy.exceptions import CloseSpider
+from scrapy.exceptions import CloseSpider, IgnoreRequest
 
 # useful for handling different item types with a single interface
 from itemadapter import is_item, ItemAdapter
@@ -144,3 +144,34 @@ class StopOnForbiddenMiddleware:
         spider.logger.error("403 retry exhausted at %s", response.url)
         raise CloseSpider("403 forbidden after retries")
     return response
+
+
+class MaxRequestsMiddleware:
+  """Close a spider once it has issued max_requests outgoing HTTP requests.
+
+  The limit is tracked per spider instance, so each spider in a multi-spider
+  run has its own independent counter.  Set spider.max_requests = 0 (default)
+  to disable the limit.
+  """
+
+  def process_request(self, request, spider):
+    limit = getattr(spider, 'max_requests', 0)
+    if not limit:
+      return None
+
+    # Once close has been initiated, silently drop all further requests so
+    # they don't show up as "Error downloading" in the logs.
+    if getattr(spider, '_max_requests_closing', False):
+      raise IgnoreRequest('max_requests_reached')
+
+    count = getattr(spider, '_request_count', 0) + 1
+    spider._request_count = count
+
+    if count > limit:
+      spider._max_requests_closing = True
+      # Use engine.close_spider for a graceful close with the correct reason.
+      # IgnoreRequest drops this over-limit request silently.
+      spider.crawler.engine.close_spider(spider, 'max_requests_reached')
+      raise IgnoreRequest('max_requests_reached')
+
+    return None

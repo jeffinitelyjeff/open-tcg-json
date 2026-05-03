@@ -41,7 +41,10 @@ class OTCGJPipeline:
     supportedItems = [JSONItem, JSONLItem, TextItem]
     for cls in supportedItems:
       if isinstance(item, cls):
-        item.write(spider)
+        if getattr(spider, 'dry_run', False):
+          logging.debug("[dry-run] skipping write of %s", type(item).__name__)
+        else:
+          item.write(spider)
         return item
 
     return item

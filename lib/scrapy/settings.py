@@ -73,6 +73,8 @@ DOWNLOADER_MIDDLEWARES = {
     'lib.scrapy.middlewares.RotateUserAgentMiddleware': 500,
     # Run after RetryMiddleware (550) so we see final 403 responses.
     'lib.scrapy.middlewares.StopOnForbiddenMiddleware': 560,
+    # Counts every outgoing request (including retries) per spider.
+    'lib.scrapy.middlewares.MaxRequestsMiddleware': 450,
 }
 
 # Enable or disable extensions

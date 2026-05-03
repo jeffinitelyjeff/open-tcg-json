@@ -51,8 +51,14 @@ class BaseSpider(scrapy.Spider):
   notice_keys: list[str] = []
   error_keys: list[str] = []
 
-  def __init__(self, *args, **kwargs):
+  def __init__(self,
+               *args,
+               dry_run: bool = False,
+               max_requests: int = 0,
+               **kwargs):
     super().__init__(*args, **kwargs)
+    self.dry_run = dry_run
+    self.max_requests = max_requests
     self.jsonl_files_written: set[pathlib.Path] = set()
 
   def log_error(self, error: Error, message: str):
@@ -71,10 +77,15 @@ class BaseSpider(scrapy.Spider):
     self.crawler.stats.inc_value(notice.name)
 
   def maybe_clear_output_dir(self):
+    if self.dry_run:
+      logging.info("[dry-run] skipping output dir clear for %s", self.name)
+      return
     if self.clear_output_dir and self.output_dir and self.output_dir.exists():
       shutil.rmtree(self.output_dir)
 
   def append_github_summary(self):
+    if self.dry_run:
+      return
     summary_path = os.getenv("GITHUB_STEP_SUMMARY")
     stats = self.crawler.stats.get_stats()
     if summary_path:
@@ -114,6 +125,8 @@ class BaseSpider(scrapy.Spider):
       util.truthy_print(self.github_annotation('error', key))
 
   def append_discord_stats(self):
+    if self.dry_run:
+      return
     lines = []
 
     for key in self.notice_keys:

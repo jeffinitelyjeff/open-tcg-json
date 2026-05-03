@@ -49,7 +49,22 @@ def get_cli_args() -> argparse.Namespace:
       help=
       'A quick, lightweight check to determine if a full scrape is necessary.')
 
+  parser.add_argument('--dry-run',
+                      action='store_true',
+                      help='Run spiders without writing or deleting any files.')
+
+  parser.add_argument(
+      '--max-requests',
+      type=int,
+      default=0,
+      metavar='N',
+      help='Stop each spider after it has issued N HTTP requests.')
+
   args = parser.parse_args()
+
+  if args.max_requests < 0:
+    parser.error('--max-requests must be a non-negative integer')
+
   return args
 
 
@@ -85,17 +100,27 @@ def run_spiders(scrapy_settings: project.Settings, args: argparse.Namespace):
     logging.info(
         "--poll-only flag ignored because no supported spiders were selected")
 
-  run_spiders_parallel(scrapy_settings, selected_spiders)
+  run_spiders_parallel(scrapy_settings, selected_spiders, args.max_requests)
 
 
 def get_spider_kwargs(spider_name: str, args: argparse.Namespace) -> dict:
+  kwargs = {}
+
   if spider_name in POLL_SUPPORTED_SPIDERS:
-    return {'poll_only': args.poll_only}
+    kwargs['poll_only'] = args.poll_only
 
-  return {}
+  if args.dry_run:
+    kwargs['dry_run'] = True
+
+  if args.max_requests:
+    kwargs['max_requests'] = args.max_requests
+
+  return kwargs
 
 
-def run_spiders_parallel(scrapy_settings: project.Settings, selected_spiders):
+def run_spiders_parallel(scrapy_settings: project.Settings,
+                         selected_spiders,
+                         max_requests: int = 0):
   process = CrawlerProcess(scrapy_settings)
 
   crawlers = []
@@ -112,8 +137,12 @@ def run_spiders_parallel(scrapy_settings: project.Settings, selected_spiders):
     spider_label = crawler.spider.name if crawler.spider else spider_name
     finish_reason = crawler.stats.get_value('finish_reason')
     if finish_reason and finish_reason != 'finished':
-      raise RuntimeError(
-          f"Spider [{spider_label}] stopped early ({finish_reason})")
+      if finish_reason == 'max_requests_reached' and max_requests:
+        logging.info("Spider [%s] stopped at max_requests=%s", spider_label,
+                     max_requests)
+      else:
+        raise RuntimeError(
+            f"Spider [{spider_label}] stopped early ({finish_reason})")
 
     error_count = crawler.stats.get_value('log_count/ERROR', 0)
     if error_count > 0:
