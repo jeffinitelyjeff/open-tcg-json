@@ -76,7 +76,7 @@ class DCGWikiSpider(base_spider.BaseSpider):
   # custom properties
   output_dir = scrapy_util.ROOT_DIR / 'dataSources' / 'dcgWiki'
   clear_output_dir = True
-  custom_settings = {'AUTOTHROTTLE_TARGET_CONCURRENCY': 1.0}
+  custom_settings = {'AUTOTHROTTLE_TARGET_CONCURRENCY': 2.0}
 
   def __init__(self, *args, **kwargs):
     super().__init__(*args, **kwargs)
