@@ -1,5 +1,25 @@
 {
   "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "No, you can't.  A \"by\" condition can't be met if only some of the required actions are performed.  The conditions for this [On Play] [When Digivolving] [When Attacking] effect require you to trash the specified number of cards under your Tamer.",
+      "date": "May. 8, 2026",
+      "num": "Q6211",
+      "q": "Can I trash just 1 face-down card from under a Tamer for the conditions of this card's [On Play] [When Digivolving] [When Attacking] effect?"
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "May. 8, 2026",
+      "num": "Q6212",
+      "q": "Can I trash a total of 2 face-down cards from under multiple Tamers for the conditions of this card's [On Play] [When Digivolving] [When Attacking] effect?"
+    },
+    {
+      "a": "No, it isn't deleted yet.  Once all of the processing for this card's [On Play] [When Digivolving] [When Attacking] effect is resolved, then all of the Digimon with 0 DP are deleted at the same time.  In addition, if an Option card is used by this effect, once the used Option card's [Main] effect has resolved and the Option card is trashed, then all Digimon with DPs of 0 will be deleted.  If digivolving by Arts Digivolve, after digivolving, all of the Digimon with 0 DP are deleted.",
+      "date": "May. 8, 2026",
+      "num": "Q6213",
+      "q": "This card's effect caused the DP of my opponent's Digimon to become 0.  At such times, is the Digimon with a DP of zero deleted?"
+    }
+  ],
   "Color": [
     "Yellow",
     "Red"
