@@ -40,15 +40,15 @@
     },
     {
       "config_name": "レアリティ",
-      "value": "C"
+      "value": "R"
     },
     {
       "config_name": "コスト",
-      "value": "4"
+      "value": "5"
     },
     {
       "config_name": "系統",
-      "value": "黄玉/山臥"
+      "value": "黄玉/煉蛇"
     },
     {
       "config_name": "ブロックアイコン",
@@ -56,7 +56,7 @@
     },
     {
       "config_name": "BP/コア",
-      "value": "Lv1 : 3000 / 1<br />Lv2 : 5000 / 3<br />Lv3 : - / -<br />Lv4 : - / -<br />Lv5 : - / -<br />Lv6 : - / -<br />OC : - / -"
+      "value": "Lv1 : 5000 / 1<br />Lv2 : 7000 / 3/{ソウルコア}<br />Lv3 : - / -<br />Lv4 : - / -<br />Lv5 : - / -<br />Lv6 : - / -<br />OC : - / -"
     },
     {
       "config_name": "軽減コスト",
@@ -66,10 +66,10 @@
       "config_name": "備考"
     }
   ],
-  "card_name": "サンダースカッチ",
-  "card_number": "26RBS01-067",
+  "card_name": "スネクロウリー",
+  "card_number": "26RBS01-068",
   "card_set": "【26RBS01】 創世の鼓動",
-  "card_text": "［Lv1-2］『相手のアタックステップ』自分が系統：「黄玉」を持つマジックカードを使用した時、このスピリットを回復できる。",
+  "card_text": "［Lv1-2］『召喚時』このターンに自分が系統：「黄玉」を持つマジックカードを使用していたなら、2枚ドローする。<br />［Lv2］《真界放》『相手のアタックステップ』自分が系統：「黄玉」を持つマジックカードを使用した時、このバトル中、このスピリットをBP+2000する。",
   "id": 112666,
   "image_url": "https://files.bandai-tcg-plus.com/card_image/BS-JA/RBS2601/26RBS01-068p%2B.png",
   "is_division_text": false,
