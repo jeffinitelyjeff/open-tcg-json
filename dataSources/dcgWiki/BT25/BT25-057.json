@@ -28,13 +28,13 @@
   "errata": [
     {
       "afterImageURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3e/BT25-057.png/revision/latest?cb=20260501211942",
-      "afterText": "[Main] 1 of your Digimon gains ＜Rush＞ (This Digimon can attack the turn it comes into play.), ＜Security A. +1＞  (This Digimon checks 1 additional security card.) and +5000 DP for the turn. Then, it may attack.",
-      "beforeText": "[Main] 1 of your Digimon gains ＜Rush＞ (This Digimon can attack the turn it comes into play.), ＜Security A. +1＞  (This Digimon checks 1 additional security card.) and +5000 DP until your opponent's turn ends. Then, it may attack."
+      "afterText": "[Main] 1 of your Digimon gains ＜Rush＞ (This Digimon can attack the turn it was played.), ＜Security A. +1＞  (This Digimon checks 1 additional security card.) and +5000 DP for the turn. Then, it may attack.",
+      "beforeText": "[Main] 1 of your Digimon gains ＜Rush＞ (This Digimon can attack the turn it was played.), ＜Security A. +1＞  (This Digimon checks 1 additional security card.) and +5000 DP until your opponent's turn ends. Then, it may attack."
     },
     {
       "afterImageURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c9/BT25-057_P1.png/revision/latest?cb=20260501211942",
-      "afterText": "[Main] 1 of your Digimon gains ＜Rush＞ (This Digimon can attack the turn it comes into play.), ＜Security A. +1＞  (This Digimon checks 1 additional security card.) and +5000 DP for the turn. Then, it may attack.",
-      "beforeText": "[Main] 1 of your Digimon gains ＜Rush＞ (This Digimon can attack the turn it comes into play.), ＜Security A. +1＞  (This Digimon checks 1 additional security card.) and +5000 DP until your opponent's turn ends. Then, it may attack."
+      "afterText": "[Main] 1 of your Digimon gains ＜Rush＞ (This Digimon can attack the turn it was played.), ＜Security A. +1＞  (This Digimon checks 1 additional security card.) and +5000 DP for the turn. Then, it may attack.",
+      "beforeText": "[Main] 1 of your Digimon gains ＜Rush＞ (This Digimon can attack the turn it was played.), ＜Security A. +1＞  (This Digimon checks 1 additional security card.) and +5000 DP until your opponent's turn ends. Then, it may attack."
     }
   ],
   "form": "Ultimate",
@@ -121,7 +121,7 @@
   "name": "Monarchlizamon/Final Judgment",
   "nameJapanese": "モナークリザモン/ファイナルジャッジメント",
   "optionCardColourRequirements": "Green",
-  "optionCardEffect": "＜Use Req. ([Glowing Dawn] trait)＞ (Specified cards let you ignore color requirements.)\n[Main] 1 of your Digimon gains ＜Rush＞ (This Digimon can attack the turn it comes into play.), ＜Security A. +1＞  (This Digimon checks 1 additional security card.) and +5000 DP for the turn. Then, it may attack.",
+  "optionCardEffect": "＜Use Req. ([Glowing Dawn] trait)＞ (Specified cards let you ignore color requirements.)\n[Main] 1 of your Digimon gains ＜Rush＞ (This Digimon can attack the turn it was played.), ＜Security A. +1＞  (This Digimon checks 1 additional security card.) and +5000 DP for the turn. Then, it may attack.",
   "rarity": "Ultimate Rare",
   "setData": {
     "ch": [
