@@ -1,7 +1,6 @@
 from collections import defaultdict
 from datetime import datetime
 import functools
-import logging
 import re
 from urllib.parse import urlencode, urlparse, unquote
 
@@ -22,7 +21,7 @@ SET_LIST_PATHS = [
     "/wiki/Starter_Decks",
 ]
 
-CARD_LIST_PATHS = [
+CARD_CATEGORY_PATHS = [
     "/wiki/Category:Promo",
 ]
 
@@ -37,6 +36,8 @@ DEBUG_CARDS = set([
     'EX10-074',
     'EX9-021',
     'Familiar_Token',
+    'P-001',
+    'LM-045',
 ])
 DEBUG_ON = False
 
@@ -75,18 +76,33 @@ class DCGWikiSpider(base_spider.BaseSpider):
 
   # custom properties
   output_dir = scrapy_util.ROOT_DIR / 'dataSources' / 'dcgWiki'
-  clear_output_dir = True
-  custom_settings = {'AUTOTHROTTLE_TARGET_CONCURRENCY': 2.0}
+  clear_output_dir = not DEBUG_ON
+  custom_settings = {
+      'AUTOTHROTTLE_TARGET_CONCURRENCY': 2.0,
+  }
 
   def __init__(self, *args, **kwargs):
     super().__init__(*args, **kwargs)
 
-    self.seen_cards: set[str] = set()
+    self.requested_urls: set[str] = set()
 
-  def request(self, path, callback, **kwargs):
-    title = self._page_title_from_path(path)
-    assert title, f"invalid wiki path: {path}"
-    return self._api_parse_request(title, callback, **kwargs)
+  def request(self, path, callback, referrer=None, **kwargs):
+    if path in self.requested_urls:
+      self.logger.debug(f"already requested {path}, skipping duplicate")
+      return None
+
+    if referrer:
+      kwargs.setdefault('headers', {}).update({'Referer': referrer})
+      self.logger.info(f"{referrer} -> {path}")
+
+    self.requested_urls.add(path)
+
+    if 'category:' in path.lower():
+      return scrapy.Request(wiki_url(path), callback=callback, **kwargs)
+    else:
+      title = self._page_title_from_path(path)
+      assert title, f"invalid wiki path: {path}"
+      return self._api_parse_request(title, callback, **kwargs)
 
   def _api_parse_request(self, title: str, callback, **kwargs):
     params = {
@@ -160,17 +176,85 @@ class DCGWikiSpider(base_spider.BaseSpider):
 
     return unquote(path) if path else None
 
+  def _category_members_request(self,
+                                category_title: str,
+                                callback,
+                                cmcontinue=None,
+                                **kwargs):
+    params = {
+        'action': 'query',
+        'format': 'json',
+        'formatversion': '2',
+        'list': 'categorymembers',
+        'cmtitle': f'Category:{category_title}',
+        'cmlimit': '500',
+    }
+    if cmcontinue:
+      params['cmcontinue'] = cmcontinue
+    url = f"{WIKI_API}?{urlencode(params)}"
+    return scrapy.Request(url, callback=callback, **kwargs)
+
   async def start(self):
-    for path in CARD_LIST_PATHS:
-      yield self.card_list_item(path)
-      yield self.request(path, self.parse_card_list)
+    for path in CARD_CATEGORY_PATHS:
+      # Category pages use action=query&list=categorymembers for pagination;
+      # action=parse only returns article body and omits pagination chrome.
+      title = self._page_title_from_path(path)
+      category_name = title.split(':', 1)[-1] if ':' in title else title
+      yield self._category_members_request(category_name,
+                                           self.parse_category_members)
 
     for path in SET_LIST_PATHS:
-      yield self.request(path, self.parse_set_list)
+      yield self.request(path, self.parse_list_of_sets)
 
-  def card_list_item(self, path):
-    sort = self.card_list_sort_value(path)
-    yield JSONLItem(path, sort, subpath=['[cardListPages].jsonl'])
+  def _card_path_requests(self, card_paths, referrer):
+    for card_path in card_paths:
+      card_num = card_path.split('/')[-1]
+      set_id = card_num.split('-')[0]
+
+      if '-' not in card_num:
+        set_id = 'tokens'
+
+      # yield JSONLItem(card_path,
+      #                 card_num,
+      #                 subpath=[set_id, '[cardPages].jsonl'])
+
+      if DEBUG_ON and card_num not in DEBUG_CARDS:
+        continue
+
+      # ignore links for tokens that just go to the generic token page.
+      if card_path.endswith('/wiki/Token'):
+        continue
+
+      yield self.request(card_path,
+                         self.parse_card_page,
+                         referrer=referrer,
+                         meta={
+                             'card_num': card_num,
+                             'set_id': set_id
+                         })
+
+  @scrapy_util.log_response_INFO
+  def parse_category_members(self, response):
+    data = response.json()
+    members = data.get('query', {}).get('categorymembers', [])
+
+    card_paths = [f"/wiki/{m['title'].replace(' ', '_')}" for m in members]
+    self.logger.info("category_members: %s", card_paths)
+
+    yield from self._card_path_requests(card_paths, referrer=response.url)
+
+    cont = data.get('continue', {})
+    cmcontinue = cont.get('cmcontinue')
+    if cmcontinue:
+      self.logger.info("category pagination continue: %s", cmcontinue)
+      parsed = urlparse(response.url)
+      orig_params = dict(
+          p.split('=', 1) for p in parsed.query.split('&') if '=' in p)
+      category_name = unquote(
+          orig_params.get('cmtitle', 'Category:').split(':', 1)[-1])
+      yield self._category_members_request(category_name,
+                                           self.parse_category_members,
+                                           cmcontinue=cmcontinue)
 
   def card_list_sort_value(self, path):
     # examples:
@@ -192,51 +276,17 @@ class DCGWikiSpider(base_spider.BaseSpider):
     return f"{set_type}-{int(set_num):03d}"
 
   @scrapy_util.log_response_INFO
-  def parse_set_list(self, response):
-    # Parses a page that has a list OF sets.
-    # NOT a page that has a list of cards in a set.
-
+  def parse_list_of_sets(self, response):
     paths = response.css('.NavFrame .setLink a::attr(href)').getall()
 
     for path in paths:
-      yield self.card_list_item(path)
-      yield self.request(path, self.parse_card_list)
+      yield self.request(path, self.parse_list_of_cards, referrer=response.url)
 
   @scrapy_util.log_response_INFO
-  def parse_card_list(self, response):
-    # Parses a page that has a list of cards.
+  def parse_list_of_cards(self, response):
     card_paths = response.css('.cardlist th a::attr(href)').getall()
 
-    for card_path in card_paths:
-      card_num = card_path.split('/')[-1]
-      set_id = card_num.split('-')[0]
-
-      if '-' not in card_num:
-        set_id = 'tokens'
-
-      if (card_num in self.seen_cards):
-        # duplicates will be encountered whenever an older card gets a new
-        # alt art alongside a new set (as a box topper, etc).
-        continue
-      self.seen_cards.add(card_num)
-
-      # yield JSONLItem(card_path,
-      #                 card_num,
-      #                 subpath=[set_id, '[cardPages].jsonl'])
-
-      if DEBUG_ON and card_num not in DEBUG_CARDS:
-        continue
-
-      # ignore links for tokens that just go to the generic token page.
-      if card_path.endswith('/wiki/Token'):
-        continue
-
-      yield self.request(card_path,
-                         self.parse_card_page,
-                         meta={
-                             'card_num': card_num,
-                             'set_id': set_id
-                         })
+    yield from self._card_path_requests(card_paths, referrer=response.url)
 
   @scrapy_util.log_response_INFO
   def parse_card_page(self, response):
@@ -297,9 +347,9 @@ class DCGWikiSpider(base_spider.BaseSpider):
 
     meta['card_data'] = card_data
     meta['pending_subpages'] = pending_subpages
-    yield self.request_or_result(meta)
+    yield self.request_or_result(meta, referrer=response.url)
 
-  def request_or_result(self, meta):
+  def request_or_result(self, meta, referrer):
     pending_subpages = meta.get('pending_subpages', [])
     card_data = meta.get('card_data')
     card_num = meta.get('card_num')
@@ -307,7 +357,10 @@ class DCGWikiSpider(base_spider.BaseSpider):
 
     if pending_subpages:
       next_path = pending_subpages.pop()
-      return self.request(next_path, self.parse_card_subpage, meta=meta)
+      return self.request(next_path,
+                          self.parse_card_subpage,
+                          referrer=referrer,
+                          meta=meta)
     else:
       return JSONItem(card_data, subpath=[set_id, f'{card_num}.json'])
 
@@ -327,7 +380,7 @@ class DCGWikiSpider(base_spider.BaseSpider):
     else:
       assert False, f"unexpected subpage url: {url}"
 
-    yield self.request_or_result(meta)
+    yield self.request_or_result(meta, referrer=response.url)
 
   @staticmethod
   def parse_key_value_table(table,
