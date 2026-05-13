@@ -1,5 +1,4 @@
-from email.mime import base
-import enum
+from collections import defaultdict
 import logging
 
 import scrapy
@@ -41,8 +40,11 @@ class Error(base_spider.Error):
   LIST_NO_CARDS = 1
   LIST_NO_TOTAL = 2
   LIST_NO_ID = 3
-  DETAIL_NO_DATA = 4
-  DETAIL_NO_ID = 5
+  LIST_NO_CARDNUM = 4
+  LIST_NO_SET = 5
+  DETAIL_NO_DATA = 6
+  DETAIL_NO_ID = 7
+  DETAIL_NO_SET = 8
 
 
 class Notice(base_spider.Notice):
@@ -101,6 +103,7 @@ class TCGPlusSpider(base_spider.BaseSpider):
 
     game, lang = GAME_ID_MAPPING[game_id]
     game_key = f"{game.abbr().lower()}_{lang.abbr().lower()}"
+    prefix = [game.abbr(), lang.abbr()]
 
     cards = data.get('cards', [])
     if not cards:
@@ -136,12 +139,58 @@ class TCGPlusSpider(base_spider.BaseSpider):
       )
     else:
       logging.info("finished fetching %s cards for %s", len(results), game_key)
-      subpath = ['cardList', game.abbr(), f"{lang.abbr()}.json"]
-      yield JSONItem(results, subpath=subpath)
+
+      tcgplus_id_to_card_number = {}
+      tcgplus_id_to_detail_path = {}
+      card_number_to_tcgplus_ids = defaultdict(list)
+      card_number_to_detail_paths = defaultdict(list)
+      set_to_results = defaultdict(dict)
+
+      for card in results.values():
+        card_number = card.get('card_number')
+        if not card_number:
+          self.log_error(
+              Error.LIST_NO_CARDNUM,
+              f"card with no card number found for {game_key}: {card}")
+          continue
+
+        tcgplus_id = card.get('id')
+        if not tcgplus_id:
+          self.log_error(Error.LIST_NO_ID,
+                         f"card with no TCG+ ID found for {game_key}: {card}")
+          continue
+
+        set_name = set_abbr(card.get('image_url', ''))
+        if not set_name:
+          self.log_error(Error.LIST_NO_SET,
+                         f"card with no set name found for {game_key}: {card}")
+          continue
+
+        tcgplus_id_to_card_number[tcgplus_id] = card_number
+        tcgplus_id_to_detail_path[tcgplus_id] = f"{set_name}/{tcgplus_id}.json"
+        card_number_to_tcgplus_ids[card_number].append(str(tcgplus_id))
+        card_number_to_detail_paths[card_number].append(
+            f"{set_name}/{tcgplus_id}.json")
+        set_to_results[set_name][tcgplus_id] = card
+
+      for product_id_list in card_number_to_tcgplus_ids.values():
+        product_id_list.sort()
+
+      yield JSONItem(tcgplus_id_to_card_number,
+                     subpath=prefix + ['_index', 'id_to_cardNum.json'])
+      yield JSONItem(tcgplus_id_to_detail_path,
+                     subpath=prefix + ['_index', 'id_to_detailPath.json'])
+      yield JSONItem(card_number_to_tcgplus_ids,
+                     subpath=prefix + ['_index', 'cardNum_to_ids.json'])
+      yield JSONItem(card_number_to_detail_paths,
+                     subpath=prefix + ['_index', 'cardNum_to_detailPaths.json'])
+      for set, set_results in set_to_results.items():
+        yield JSONItem(set_results, subpath=prefix + [set, 'cardList.json'])
 
   def parse_card_detail(self, response):
     game_id = response.meta['game_id']
     game, lang = GAME_ID_MAPPING[game_id]
+    prefix = [game.abbr(), lang.abbr()]
 
     data = response.json().get('success', {})
     json_response_code = data.get('code')
@@ -160,5 +209,16 @@ class TCGPlusSpider(base_spider.BaseSpider):
                      f"TCG+ ID not in output for URL: {response.url}")
       return None
 
-    subpath = ['cardDetail', game.abbr(), lang.abbr(), f"{card_id}.json"]
-    yield JSONItem(card_data, subpath=subpath)
+    set_name = set_abbr(card_data.get('image_url', ''))
+    if not set_name:
+      self.log_error(Error.DETAIL_NO_SET,
+                     f"set number not found for URL: {response.url}")
+      return None
+
+    yield JSONItem(card_data, subpath=prefix + [set_name, f"{card_id}.json"])
+
+
+def set_abbr(image_url: str) -> str:
+  # /card_image/DG-EN/BT22/e_BT22-001_D.png -> BT22
+  # /card_image/BS-JA/X/020.JPG -> X
+  return image_url.split('/')[-2]
