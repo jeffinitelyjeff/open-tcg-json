@@ -1,0 +1,108 @@
+{
+  "ace": "Overflow ＜-4＞ (As this card moves from the field or under a card to an area other than those, lose 4 memory.)",
+  "altDigivolutionRequirements": "[Digivolve]  [Sakuyamon]: Cost 1",
+  "attribute": "Data",
+  "blockIcon": "03",
+  "cardEffects": "[Hand] [Counter] ＜Blast Digivolve＞ (Your Digimon may digivolve into this card without paying the cost.)\n[On Play] [When Digivolving] You may place 1 yellow Tamer card or 1 single-color Option card with a cost of 5 or less from your hand on top of your security stack.\n[All Turns] [Once Per Turn] When an Option card is used, or when a card is added to a security stack, 1 of your opponent's Digimon gets -6000 DP for the turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "3",
+    "level": "5"
+  },
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Special_Limited_Set",
+        "captionText": "Special Limited Set (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:LM-023.png",
+        "imgName": "LM-023.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b0/LM-023.png/revision/latest?cb=20241129082458",
+        "uploadDate": "2024-11-29T08:24:58"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-03:_Limited_Card_Set_2024",
+        "captionText": "LM-03: Limited Card Set 2024 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:LM-023-J.png",
+        "imgName": "LM-023-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/43/LM-023-J.png/revision/latest?cb=20240301113132",
+        "uploadDate": "2024-03-01T11:31:32"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-03:_Limited_Card_Set_2024",
+        "captionText": "LM-03: Limited Card Set 2024 (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:LM-023-Sample-J.png",
+        "imgName": "LM-023-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/73/LM-023-Sample-J.png/revision/latest?cb=20240213062103",
+        "uploadDate": "2024-02-13T06:21:03"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b0/LM-023.png/revision/latest?cb=20241129082458",
+  "level": "6",
+  "name": "Sakuyamon: Maid Mode",
+  "nameJapanese": "サクヤモン：巫女モード",
+  "playCost": "6",
+  "rarity": "Promo",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=LM-023#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for LM-023 (Dec. 13, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can't.  Option cards that reduce the cost upon use don't change the card's original cost, therefore you can't use this card's effect to place such a card on top of your security stack.",
+        "question": "When I use this card's [On Play] [When Digivolving] effect to place a card on top of my security stack, can I place an Option card with an original cost of 6 or more that has its cost reduced upon use?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.  If the cost of an Option card consistently changes when it's in the hand and becomes 5 or less due to that card's effect, you can use this card's effect to place it on top of your security stack.",
+        "question": "When I use this card's [On Play] [When Digivolving] effect to place an Option card on top of my security stack, can I place an Option card that had its cost reduced to 5 or less by a \"reduce the cost of this card in the hand by 1\" effect on a card such as BT2-099 [Glorious Burst] or BT8-097 [Crimson Blaze]?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Limited_Set",
+          "text": "Special Limited Set"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Minato_Sashima",
+          "text": "Minato Sashima"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-03:_Limited_Card_Set_2024",
+          "text": "LM-03: Limited Card Set 2024"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Minato_Sashima",
+          "text": "Minato Sashima"
+        }
+      }
+    ]
+  },
+  "type": "Shaman"
+}

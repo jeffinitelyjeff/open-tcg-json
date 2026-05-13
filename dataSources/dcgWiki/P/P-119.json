@@ -1,0 +1,162 @@
+{
+  "attribute": "Free",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] Reveal the top 3 cards of your deck. Add 1 red or yellow card with 2 or more colors and 1 Tamer card with [Yolei Inoue] in its name among them to the hand. Return the rest to the bottom of the deck.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "0",
+      "level": "2"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "0",
+      "level": "2"
+    }
+  ],
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Tamer_Party_Pack:_The_Beginning_Ver._2.0",
+        "captionText": "Tamer Party Pack: The Beginning Ver. 2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-119.png",
+        "imgName": "P-119.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/70/P-119.png/revision/latest?cb=20231208193200",
+        "uploadDate": "2023-12-08T19:32:00"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/PB-17:_Digimon_Adventure_02:_The_Beginning_Set",
+        "captionText": "PB-17: Digimon Adventure 02: The Beginning Set (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-119_P1.png",
+        "imgName": "P-119_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/fb/P-119_P1.png/revision/latest?cb=20231106003628",
+        "uploadDate": "2023-11-06T00:36:28"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/AB-03:_Adventure_Box_3",
+        "captionText": "AB-03: Adventure Box 3 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-119_P2.png",
+        "imgName": "P-119_P2.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bb/P-119_P2.png/revision/latest?cb=20240419113419",
+        "uploadDate": "2024-04-19T11:34:19"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Digimon_Adventure_02:_The_Beginning_Promotion_Pack",
+        "captionText": "Digimon Adventure 02: The Beginning Promotion Pack (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-119-J.png",
+        "imgName": "P-119-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6b/P-119-J.png/revision/latest?cb=20230901105826",
+        "uploadDate": "2023-09-01T10:58:26"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/PB-17:_Digimon_Adventure_02:_The_Beginning_Set",
+        "captionText": "PB-17: Digimon Adventure 02: The Beginning Set (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-119_P1-J.png",
+        "imgName": "P-119_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/20/P-119_P1-J.png/revision/latest?cb=20231029064627",
+        "uploadDate": "2023-10-29T06:46:27"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/70/P-119.png/revision/latest?cb=20231208193200",
+  "inheritedEffect": "[End of Your Turn] This Digimon and any of your other Digimon may DNA digivolve into a Digimon card in the hand.",
+  "korean": "호크몬",
+  "level": "3",
+  "name": "Hawkmon",
+  "nameJapanese": "ホークモン",
+  "playCost": "3",
+  "rarity": "Promo",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=P-119#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for P-119 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.  In such cases, you add as many cards to your hand as possible.",
+        "question": "If the cards I reveal from my deck for this card's effect include only either a red or yellow card with 2 or more colors or a Tamer card with [Yolei Inoue], can I only add 1 card to my hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, you can.",
+        "question": "Does \"red or yellow card with 2 or more colors\" in this card's [On Play] effect mean that I can add a red/yellow or yellow/red card to my hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No. If you have cards that are targets of this effect, you must add as many cards to your hand as possible.",
+        "question": "If the cards I reveal from my deck for this card's effect include both a red or yellow card with 2 or more colors and a Tamer card with [Yolei Inoue], can I choose to only add one of them to my hand, and place the remaining cards at the bottom of my deck?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Tamer_Party_Pack:_The_Beginning_Ver._2.0",
+          "text": "Tamer Party Pack: The Beginning Ver. 2.0"
+        },
+        "foil&Rarity": "Foil - Promo",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/PB-17:_Digimon_Adventure_02:_The_Beginning_Set",
+          "text": "PB-17: Digimon Adventure 02: The Beginning Set"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AB-03:_Adventure_Box_3",
+          "text": "AB-03: Adventure Box 3"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Digimon_Adventure_02:_The_Beginning_Promotion_Pack",
+          "text": "Digimon Adventure 02: The Beginning Promotion Pack"
+        },
+        "foil&Rarity": "No Foil - Promo",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/PB-17:_Digimon_Adventure_02:_The_Beginning_Set",
+          "text": "PB-17: Digimon Adventure 02: The Beginning Set"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "麻鹰兽",
+  "traditionalChinese": "麻鷹獸",
+  "type": "Avian"
+}

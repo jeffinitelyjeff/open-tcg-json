@@ -1,0 +1,90 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[On Play] If you have a purple Tamer in play, if its your turn, you may digivolve this Digimon into a Digimon card with the [Undead] or [Dark Animal] trait from your trash by paying its digivolution cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Official_Tournament_Pack_Vol._13",
+        "captionText": "Official Tournament Pack Vol. 13 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-085.png",
+        "imgName": "P-085.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/60/P-085.png/revision/latest?cb=20240330185453",
+        "uploadDate": "2024-03-30T18:54:53"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Digimon_Survive_Promo_Pack",
+        "captionText": "Digimon Survive Promo Pack (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-085-J.png",
+        "imgName": "P-085-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/89/P-085-J.png/revision/latest?cb=20221020185942",
+        "uploadDate": "2022-10-20T18:59:42"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/60/P-085.png/revision/latest?cb=20240330185453",
+  "korean": "드라큐몬",
+  "level": "3",
+  "name": "Dracmon",
+  "nameJapanese": "ドラクモン",
+  "playCost": "3",
+  "rarity": "Promo",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=P-085#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for P-085 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, it can't.  You can’t ignore digivolution requirements when using this card's effect.",
+        "question": "When I use this card's [On Play] effect to digivolve it into a Digimon card with [Dark Animal] or [Undead] in its traits from my trash, can it digivolve regardless of its digivolution requirements?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Official_Tournament_Pack_Vol._13",
+          "text": "Official Tournament Pack Vol. 13"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Digimon_Survive_Promo_Pack",
+          "text": "Digimon Survive Promo Pack"
+        },
+        "foil&Rarity": "Foil - Promo",
+        "illustrator": "No Illustrator"
+      }
+    ]
+  },
+  "simplifiedChinese": "德拉库兽",
+  "traditionalChinese": "德古獸",
+  "type": "Undead"
+}

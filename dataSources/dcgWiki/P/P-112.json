@@ -1,0 +1,107 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[On Play] Reveal the top 3 cards of your deck. Add 1 [Eosmon] and 1 [Menoa Bellucci] among them to the hand. Return the rest to the bottom of the deck. Then, by placing this Digimon as 1 of your [Eosmon]'s bottom digivolution card, you may play 1 [Menoa Bellucci] from your hand without paying the cost.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/3rd_Anniversary_Survey_Pack",
+        "captionText": "3rd Anniversary Survey Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-112.png",
+        "imgName": "P-112.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b5/P-112.png/revision/latest?cb=20231108222824",
+        "uploadDate": "2023-11-08T22:28:24"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/3rd_Anniversary_Survey_Pack",
+        "captionText": "3rd Anniversary Survey Pack (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-112-J.png",
+        "imgName": "P-112-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/01/P-112-J.png/revision/latest?cb=20231108222955",
+        "uploadDate": "2023-11-08T22:29:55"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b5/P-112.png/revision/latest?cb=20231108222824",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When another [Eosmon] is played, this Digimon may digivolve into an [Eosmon] in your hand, reducing the digivolution cost reduced by 3.",
+  "korean": "모르포몬",
+  "level": "3",
+  "name": "Morphomon",
+  "nameJapanese": "モルフォモン",
+  "playCost": "3",
+  "rarity": "Promo",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=P-112#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for P-112 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can add just 1 card to your hand when only 1 or the other is revealed.",
+        "question": "If the cards I reveal from my deck with this card's [On Play] effect don't contain both [Eosmon] and [Menoa Bellucci], do I still get to add a card to my hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, you can't. You must add as many cards to your hand as possible.",
+        "question": "When the cards revealed from my deck with this card's [On Play] effect contain both [Eosmon] and [Menoa Bellucci], am I allowed to add just one card to my hand?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "No, this card's effect does not allow ignoring digivolution requirements, so you can only digivolve into a card that meets the digivolution requirements.",
+        "question": "When I use this card's inherited effect to digivolve into [Eosmon] in my hand, can it digivolve regardless of its digivolution requirements?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/3rd_Anniversary_Survey_Pack",
+          "text": "3rd Anniversary Survey Pack"
+        },
+        "foil&Rarity": "No Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/3rd_Anniversary_Survey_Pack",
+          "text": "3rd Anniversary Survey Pack"
+        },
+        "foil&Rarity": "No Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "闪蝶兽",
+  "traditionalChinese": "閃蝶獸",
+  "type": "Insectoid"
+}

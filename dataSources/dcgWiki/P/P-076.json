@@ -1,0 +1,142 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "01",
+  "cardEffects": "[Your Turn] When this Digimon would digivolve into a card with 2 colors or [Composite] trait, reduce the digivolution cost by 2.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black/Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "6000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Update_Pack",
+        "captionText": "Update Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-076.png",
+        "imgName": "P-076.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/94/P-076.png/revision/latest?cb=20220731202233",
+        "uploadDate": "2022-07-31T20:22:33"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Update_Pack",
+        "captionText": "Update Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-076_P1.png",
+        "imgName": "P-076_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1c/P-076_P1.png/revision/latest?cb=20220731202238",
+        "uploadDate": "2022-07-31T20:22:38"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Update_Pack",
+        "captionText": "Update Pack (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-076-J.png",
+        "imgName": "P-076-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1d/P-076-J.png/revision/latest?cb=20220211174342",
+        "uploadDate": "2022-02-11T17:43:42"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-04:_Limited_Card_Pack_Torrid_Weiss",
+        "captionText": "LM-04: Limited Card Pack Torrid Weiss (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-076_P1-Sample-J.png",
+        "imgName": "P-076_P1-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a2/P-076_P1-Sample-J.png/revision/latest?cb=20240713171200",
+        "uploadDate": "2024-07-13T17:12:00"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-04:_Limited_Card_Pack_Torrid_Weiss",
+        "captionText": "LM-04: Limited Card Pack Torrid Weiss (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-076_P1-J.png",
+        "imgName": "P-076_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/18/P-076_P1-J.png/revision/latest?cb=20241128214619",
+        "uploadDate": "2024-11-28T21:46:19"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/94/P-076.png/revision/latest?cb=20220731202233",
+  "inheritedEffect": "[When Attacking] For each of this Digimon's colors, delete 1 of your opponent's Digimon with 3000 DP or less.",
+  "level": "4",
+  "name": "Deltamon",
+  "nameJapanese": "デルタモン",
+  "playCost": "5",
+  "rarity": "Promo",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack",
+          "text": "Update Pack"
+        },
+        "foil&Rarity": "No Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack",
+          "text": "Update Pack"
+        },
+        "foil&Rarity": "Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack",
+          "text": "Update Pack"
+        },
+        "foil&Rarity": "No Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack",
+          "text": "Update Pack"
+        },
+        "foil&Rarity": "Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-04:_Limited_Card_Pack_Torrid_Weiss",
+          "text": "LM-04: Limited Card Pack Torrid Weiss"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "itohiro"
+        }
+      }
+    ]
+  },
+  "type": "Composite"
+}

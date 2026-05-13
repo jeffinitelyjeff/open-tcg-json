@@ -1,0 +1,189 @@
+{
+  "ace": "Overflow ＜-4＞ (As this card moves from the field or under a card to an area other than those, lose 4 memory.)",
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[Light Fang]/[Night Claw] trait: Cost 3",
+  "attribute": "Vaccine",
+  "blockIcon": "05",
+  "cardEffects": "[Hand] [Counter] ＜Blast Digivolve＞ (Your Digimon may digivolve into this card without paying the cost.)\n[On Play] [When Digivolving] To 1 of your opponent’s Digimon, give -4000 DP for the turn for each of your Digimon with the [Olympos XII] trait. Then, delete up to 7000 DP total worth of their Digimon.\n[End of Your Turn] 2 of your Digimon may DNA digivolve into [GraceNovamon] in the hand. Then, 1 of your Digimon may attack.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow/Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "5"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "4",
+      "level": "5"
+    }
+  ],
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Official_Store_Tournament_2025_Vol.3",
+        "captionText": "Official Store Tournament 2025 Vol.3 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-191.png",
+        "imgName": "P-191.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/30/P-191.png/revision/latest?cb=20250613052100",
+        "uploadDate": "2025-06-13T05:21:00"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Official_Store_Tournament_2025_Vol.3",
+        "captionText": "Official Store Tournament 2025 Vol.3 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-191-Sample.png",
+        "imgName": "P-191-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7b/P-191-Sample.png/revision/latest?cb=20250607075321",
+        "uploadDate": "2025-06-07T07:53:21"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Official_Store_Tournament_2025_Vol.3",
+        "captionText": "Official Store Tournament 2025 Vol.3 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-191_P1.png",
+        "imgName": "P-191_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/53/P-191_P1.png/revision/latest?cb=20250613052101",
+        "uploadDate": "2025-06-13T05:21:01"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Official_Store_Tournament_2025_Vol.3",
+        "captionText": "Official Store Tournament 2025 Vol.3 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-191_P1-Sample.png",
+        "imgName": "P-191_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7d/P-191_P1-Sample.png/revision/latest?cb=20250607075305",
+        "uploadDate": "2025-06-07T07:53:05"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-07:_LIMITED_CARD_PACK_ANOTHER_KNIGHT",
+        "captionText": "LM-07: LIMITED CARD PACK ANOTHER KNIGHT (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-191_P3.png",
+        "imgName": "P-191_P3.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/62/P-191_P3.png/revision/latest?cb=20260319085715",
+        "uploadDate": "2026-03-19T08:57:15"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-07:_LIMITED_CARD_PACK_ANOTHER_KNIGHT",
+        "captionText": "LM-07: LIMITED CARD PACK ANOTHER KNIGHT (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-191_P3-J.png",
+        "imgName": "P-191_P3-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e4/P-191_P3-J.png/revision/latest?cb=20260320063857",
+        "uploadDate": "2026-03-20T06:38:57"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/3/30/P-191.png/revision/latest?cb=20250613052100",
+  "inheritedEffect": "[End of Your Turn] [Once Per Turn] 1 of your Digimon may attack.",
+  "level": "6",
+  "name": "Apollomon",
+  "nameJapanese": "アポロモン",
+  "playCost": "7",
+  "rarity": "Promo",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-07:_LIMITED_CARD_PACK_ANOTHER_KNIGHT",
+          "text": "LM-07: LIMITED CARD PACK ANOTHER KNIGHT"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Official_Store_Tournament_2025_Vol.3",
+          "text": "Official Store Tournament 2025 Vol.3"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Official_Store_Tournament_2025_Vol.3",
+          "text": "Official Store Tournament 2025 Vol.3"
+        },
+        "foil&Rarity": "Foil - Stamped - 1st Place Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-07:_LIMITED_CARD_PACK_ANOTHER_KNIGHT",
+          "text": "LM-07: LIMITED CARD PACK ANOTHER KNIGHT"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Tamer_Battle_Pack_28",
+          "text": "Tamer Battle Pack 28"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Tamer_Battle_Pack_28",
+          "text": "Tamer Battle Pack 28"
+        },
+        "foil&Rarity": "Foil - Stamped - 1st Place Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-07:_LIMITED_CARD_PACK_ANOTHER_KNIGHT",
+          "text": "LM-07: LIMITED CARD PACK ANOTHER KNIGHT"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
+        }
+      }
+    ],
+    "kr": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-07:_LIMITED_CARD_PACK_ANOTHER_KNIGHT",
+          "text": "LM-07: LIMITED CARD PACK ANOTHER KNIGHT"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takeuchi_Moto",
+          "text": "Takeuchi Moto"
+        }
+      }
+    ]
+  },
+  "type": "Shaman/Olympos XII/Light Fang"
+}

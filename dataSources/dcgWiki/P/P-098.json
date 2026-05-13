@@ -1,0 +1,122 @@
+{
+  "attribute": "Data",
+  "blockIcon": "02",
+  "cardEffects": "[On Play] [When Digivolving] 1 of your blue Digimon cannot be deleted in battle until the end of your opponent's turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": null,
+        "captionText": "Event Card Pack (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-098-C.png",
+        "imgName": "P-098-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b5/P-098-C.png/revision/latest?cb=20231219160539",
+        "uploadDate": "2023-12-19T16:05:39"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Limited_Card_Set_Ver_2",
+        "captionText": "Limited Card Set Ver 2 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-098.png",
+        "imgName": "P-098.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/16/P-098.png/revision/latest?cb=20240121111555",
+        "uploadDate": "2024-01-21T11:15:55"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Limited_Card_Set_ONLINE_2023",
+        "captionText": "Limited Card Set ONLINE 2023 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-098-J.png",
+        "imgName": "P-098-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3a/P-098-J.png/revision/latest?cb=20240115154915",
+        "uploadDate": "2024-01-15T15:49:15"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/16/P-098.png/revision/latest?cb=20240121111555",
+  "inheritedEffect": "[Your Turn] [Once Per Turn] When you play another Digimon by an effect, 1 of your blue Digimon gains ＜Rush＞ for the turn. (This Digimon can attack the turn it was played)",
+  "korean": "시드라몬",
+  "level": "4",
+  "name": "Seadramon",
+  "nameJapanese": "シードラモン",
+  "playCost": "5",
+  "rarity": "Promo",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=P-098#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for P-098 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. DigiXros itself is not an effect, so the effect doesn't activate for a card played by a DigiXros as a main phase action.  The effect will activate if a DigiXros is performed when a Digimon is played by an effect.",
+        "question": "Does this card's inherited effect activate if 1 of my Digimon is played by a DigiXros?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it prevents that deletion.",
+        "question": "When my Digimon is affected by this card's [On Play] [When Digivolving] effect, is deletion prevented when it loses in battles against my opponent's Security Digimon?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "Event Card Pack",
+        "foil&Rarity": "Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Limited_Card_Set_Ver_2",
+          "text": "Limited Card Set Ver 2"
+        },
+        "foil&Rarity": "Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Limited_Card_Set_ONLINE_2023",
+          "text": "Limited Card Set ONLINE 2023"
+        },
+        "foil&Rarity": "Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "海龙兽",
+  "traditionalChinese": "海龍獸",
+  "type": "Aquatic"
+}

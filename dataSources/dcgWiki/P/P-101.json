@@ -1,0 +1,182 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[On Play] [When Digivolving] By trashing 1 card from your hand, ＜Draw 2＞ (Draw 2 cards from your deck.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black/Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": null,
+        "captionText": "Event Card Pack (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-101-C.png",
+        "imgName": "P-101-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cb/P-101-C.png/revision/latest?cb=20231219160618",
+        "uploadDate": "2023-12-19T16:06:18"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Limited_Card_Set_Ver_2",
+        "captionText": "Limited Card Set Ver 2 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-101.png",
+        "imgName": "P-101.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/be/P-101.png/revision/latest?cb=20240121111556",
+        "uploadDate": "2024-01-21T11:15:56"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Regionals_2024_Participation_Set_3",
+        "captionText": "Regionals 2024 Participation Set 3 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-101_P1.png",
+        "imgName": "P-101_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b7/P-101_P1.png/revision/latest?cb=20240726115702",
+        "uploadDate": "2024-07-26T11:57:02"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Regionals_2024_Finalist_Set_3",
+        "captionText": "Regionals 2024 Finalist Set 3 (Top 32 & Top 8 Prize) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-101_P2.png",
+        "imgName": "P-101_P2.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7c/P-101_P2.png/revision/latest?cb=20240726115702",
+        "uploadDate": "2024-07-26T11:57:02"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Regionals_2024_Champion_Set_3",
+        "captionText": "Regionals 2024 Champion Set 3 (Top 2 & 1st Place Prize) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-101_P3.png",
+        "imgName": "P-101_P3.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e2/P-101_P3.png/revision/latest?cb=20240726115701",
+        "uploadDate": "2024-07-26T11:57:01"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Limited_Card_Set_ONLINE_2023",
+        "captionText": "Limited Card Set ONLINE 2023 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-101-J.png",
+        "imgName": "P-101-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/44/P-101-J.png/revision/latest?cb=20240115155306",
+        "uploadDate": "2024-01-15T15:53:06"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/be/P-101.png/revision/latest?cb=20240121111556",
+  "inheritedEffect": "[When Attacking] By trashing 1 card from your hand, delete 1 of your opponent's level 3 Digimon.",
+  "korean": "레어몬",
+  "level": "4",
+  "name": "Raremon",
+  "nameJapanese": "レアモン",
+  "playCost": "4",
+  "rarity": "Promo",
+  "rule": "[Rule] Trait: Has [Cyborg] Type.",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=P-101#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for P-101 (Sep. 13, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "This is a special rule for this card that always treats it as if it also has the [Cyborg] type trait.",
+        "question": "What does this card's (Rule) mean, exactly?  (*This card's \"This card/Digimon is also treated as having the [Cyborg] trait\" has been changed to \"(Rule) Trait: Has [Cyborg] type.\")",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "Event Card Pack",
+        "foil&Rarity": "Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:KISUKE",
+          "text": "KISUKE"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Limited_Card_Set_Ver_2",
+          "text": "Limited Card Set Ver 2"
+        },
+        "foil&Rarity": "Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:KISUKE",
+          "text": "KISUKE"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Regionals_2024_Participation_Set_3",
+          "text": "Regionals 2024 Participation Set 3"
+        },
+        "foil&Rarity": "Foil - Participation Stamp - Participation",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Regionals_2024_Finalist_Set_3",
+          "text": "Regionals 2024 Finalist Set 3"
+        },
+        "foil&Rarity": "Foil - Finalist Stamp - Top 32 Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Regionals_2024_Champion_Set_3",
+          "text": "Regionals 2024 Champion Set 3"
+        },
+        "foil&Rarity": "Foil - Champion Stamp - Top 2 Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Hisashi_Fujiwara",
+          "text": "Hisashi Fujiwara"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Limited_Card_Set_ONLINE_2023",
+          "text": "Limited Card Set ONLINE 2023"
+        },
+        "foil&Rarity": "Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:KISUKE",
+          "text": "KISUKE"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "烂泥兽",
+  "traditionalChinese": "爛泥獸",
+  "type": "Undead"
+}

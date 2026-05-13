@@ -1,0 +1,101 @@
+{
+  "attribute": "Virus",
+  "blockIcon": "02",
+  "cardEffects": "[On Play] [When Digivolving] 1 of your opponent's Digimon or Tamers cannot unsuspend until the end of your opponent's turn.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": null,
+        "captionText": "Event Card Pack (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-100-C.png",
+        "imgName": "P-100-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/97/P-100-C.png/revision/latest?cb=20231219160602",
+        "uploadDate": "2023-12-19T16:06:02"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Limited_Card_Set_Ver_2",
+        "captionText": "Limited Card Set Ver 2 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-100.png",
+        "imgName": "P-100.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/20/P-100.png/revision/latest?cb=20240121111556",
+        "uploadDate": "2024-01-21T11:15:56"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Limited_Card_Set_ONLINE_2023",
+        "captionText": "Limited Card Set ONLINE 2023 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-100-J.png",
+        "imgName": "P-100-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/30/P-100-J.png/revision/latest?cb=20240115155137",
+        "uploadDate": "2024-01-15T15:51:37"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/20/P-100.png/revision/latest?cb=20240121111556",
+  "inheritedEffect": "[Your Turn] This Digimon gets +2000 DP.",
+  "korean": "쿠가몬",
+  "level": "4",
+  "name": "Kuwagamon",
+  "nameJapanese": "クワガーモン",
+  "playCost": "4",
+  "rarity": "Promo",
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "Event Card Pack",
+        "foil&Rarity": "Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Limited_Card_Set_Ver_2",
+          "text": "Limited Card Set Ver 2"
+        },
+        "foil&Rarity": "Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Limited_Card_Set_ONLINE_2023",
+          "text": "Limited Card Set ONLINE 2023"
+        },
+        "foil&Rarity": "Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tyuga",
+          "text": "tyuga"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "古加兽",
+  "traditionalChinese": "古加獸",
+  "type": "Insectoid"
+}

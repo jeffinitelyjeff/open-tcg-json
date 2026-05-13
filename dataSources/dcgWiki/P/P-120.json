@@ -1,0 +1,137 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "＜Barrier＞ (When this Digimon would be deleted in battle, by trashing your top security card, it isn't deleted.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "2",
+      "level": "3"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "2",
+      "level": "3"
+    }
+  ],
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Tamer_Party_Pack:_The_Beginning_Ver._2.0",
+        "captionText": "Tamer Party Pack: The Beginning Ver. 2.0 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-120.png",
+        "imgName": "P-120.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7a/P-120.png/revision/latest?cb=20231219031731",
+        "uploadDate": "2023-12-19T03:17:31"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/PB-17:_Digimon_Adventure_02:_The_Beginning_Set",
+        "captionText": "PB-17: Digimon Adventure 02: The Beginning Set (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-120_P1.png",
+        "imgName": "P-120_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cc/P-120_P1.png/revision/latest?cb=20231106003701",
+        "uploadDate": "2023-11-06T00:37:01"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/AB-03:_Adventure_Box_3",
+        "captionText": "AB-03: Adventure Box 3 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-120_P2.png",
+        "imgName": "P-120_P2.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1d/P-120_P2.png/revision/latest?cb=20240419113421",
+        "uploadDate": "2024-04-19T11:34:21"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Digimon_Adventure_02:_The_Beginning_Promotion_Pack",
+        "captionText": "Digimon Adventure 02: The Beginning Promotion Pack (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-120-J.png",
+        "imgName": "P-120-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/09/P-120-J.png/revision/latest?cb=20230901105826",
+        "uploadDate": "2023-09-01T10:58:26"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/PB-17:_Digimon_Adventure_02:_The_Beginning_Set",
+        "captionText": "PB-17: Digimon Adventure 02: The Beginning Set (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-120_P1-J.png",
+        "imgName": "P-120_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a1/P-120_P1-J.png/revision/latest?cb=20231029064628",
+        "uploadDate": "2023-10-29T06:46:28"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7a/P-120.png/revision/latest?cb=20231219031731",
+  "inheritedEffect": "[Your Turn] All of your opponent's security Digimon get -2000 DP.",
+  "korean": "가트몬",
+  "level": "4",
+  "name": "Gatomon",
+  "nameJapanese": "テイルモン",
+  "nameTranslated": "Tailmon",
+  "playCost": "4",
+  "rarity": "Promo",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Tamer_Party_Pack:_The_Beginning_Ver._2.0",
+          "text": "Tamer Party Pack: The Beginning Ver. 2.0"
+        },
+        "foil&Rarity": "Foil - Promo",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/PB-17:_Digimon_Adventure_02:_The_Beginning_Set",
+          "text": "PB-17: Digimon Adventure 02: The Beginning Set"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/AB-03:_Adventure_Box_3",
+          "text": "AB-03: Adventure Box 3"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": "No Illustrator"
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Digimon_Adventure_02:_The_Beginning_Promotion_Pack",
+          "text": "Digimon Adventure 02: The Beginning Promotion Pack"
+        },
+        "foil&Rarity": "No Foil - Promo",
+        "illustrator": "No Illustrator"
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/PB-17:_Digimon_Adventure_02:_The_Beginning_Set",
+          "text": "PB-17: Digimon Adventure 02: The Beginning Set"
+        },
+        "foil&Rarity": "Foil - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "迪路兽",
+  "traditionalChinese": "迪路獸",
+  "type": "Holy Beast"
+}

@@ -1,0 +1,124 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "01",
+  "cardEffects": "[Your Turn] When this Digimon would digivolve into a card with the [Shaman] or [Wizard] trait, you may trash up to 3 cards from the top of your security stack. For each security card trashed by this effect, reduce the digivolution cost by 1.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Update_Pack",
+        "captionText": "Update Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-074.png",
+        "imgName": "P-074.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/17/P-074.png/revision/latest?cb=20220731154441",
+        "uploadDate": "2022-07-31T15:44:41"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Update_Pack",
+        "captionText": "Update Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-074_P1.png",
+        "imgName": "P-074_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a8/P-074_P1.png/revision/latest?cb=20220731154441",
+        "uploadDate": "2022-07-31T15:44:41"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Update_Pack",
+        "captionText": "Update Pack (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-074-J.png",
+        "imgName": "P-074-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a4/P-074-J.png/revision/latest?cb=20220211174321",
+        "uploadDate": "2022-02-11T17:43:21"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/17/P-074.png/revision/latest?cb=20220731154441",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] If you have 3 security cards, unsuspend this Digimon.",
+  "level": "5",
+  "name": "Boutmon",
+  "nameJapanese": "バウトモン",
+  "playCost": "7",
+  "rarity": "Promo",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=P-074#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for P-074 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you can't.  The period starting from the use of [BT14-093 Emissary of Hope] until the digivolution is complete and you shuffle your security stack is considered checking your security stack, so it isn't affected by other cards' effects. Therefore, you can't use this card's effect to trash cards from your security stack.",
+        "question": "I used [BT14-093 Emissary of Hope] to digivolve this Digimon into a card with the [Shaman] or [Wizard] trait in my security stack. In such cases, can I use this card's [Your Turn] effect to trash cards from my security stack?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack",
+          "text": "Update Pack"
+        },
+        "foil&Rarity": "No Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:P!k@ru",
+          "text": "p!k@ru"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack",
+          "text": "Update Pack"
+        },
+        "foil&Rarity": "Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:P!k@ru",
+          "text": "p!k@ru"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack",
+          "text": "Update Pack"
+        },
+        "foil&Rarity": "No Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:P!k@ru",
+          "text": "p!k@ru"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack",
+          "text": "Update Pack"
+        },
+        "foil&Rarity": "Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:P!k@ru",
+          "text": "p!k@ru"
+        }
+      }
+    ]
+  },
+  "type": "Beastkin"
+}
