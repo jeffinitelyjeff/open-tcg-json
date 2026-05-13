@@ -1,0 +1,136 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  [MetalGreymon]: Cost 0",
+  "attribute": "Vaccine",
+  "blockIcon": "01",
+  "cardEffects": "[When Digivolving] If you have a Tamer in play, delete 1 of your opponent's Digimon with 5000 DP or less.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Update_Pack",
+        "captionText": "Update Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-072.png",
+        "imgName": "P-072.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/aa/P-072.png/revision/latest?cb=20220731154432",
+        "uploadDate": "2022-07-31T15:44:32"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Update_Pack",
+        "captionText": "Update Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-072_P1.png",
+        "imgName": "P-072_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/43/P-072_P1.png/revision/latest?cb=20220731154441",
+        "uploadDate": "2022-07-31T15:44:41"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Update_Pack",
+        "captionText": "Update Pack (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-072-J.png",
+        "imgName": "P-072-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f7/P-072-J.png/revision/latest?cb=20220211174244",
+        "uploadDate": "2022-02-11T17:42:44"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/aa/P-072.png/revision/latest?cb=20220731154432",
+  "inheritedEffect": "[All Turns] When this Digimon has [Greymon] or [Omnimon] in its name and an effect would delete it or return it to your hand or deck, you may trash 2 cards of the same level in this Digimon's digivolution cards to prevent it from leaving play.",
+  "level": "5",
+  "name": "MetalGreymon: Alterous Mode",
+  "nameJapanese": "メタルグレイモン：アルタラウスモード",
+  "playCost": "7",
+  "rarity": "Promo",
+  "rule": "[Rule] Name: Also treated as [MetalGreymon].",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=P-072#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for P-072 (Mar. 28, 2024)"
+      },
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=P-072#qaResult_card",
+        "num": 2,
+        "text": "Official English Q&A for P-072 (Sep. 13, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No. You trash 2 cards of the same level as each other from among this Digimon's digivolution cards.  For example, by trashing 2 level 5 cards in digivolution cards, this Digimon won't be deleted or returned to hands/decks.",
+        "question": "Do I trash 2 cards of the same level as this card for \"you may trash 2 cards of the same level\" in this Digimon's inherited effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "This is a special rule for this card that always treats it as if it also has the [MetalGreymon] name.",
+        "question": "What does this card's (Rule) mean, exactly?  (*This card's \"The name of this card/Digimon is also treated as [MetalGreymon]\" has been changed to \"(Rule) Name: Also treated as [MetalGreymon].\")",
+        "reference": "[2]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack",
+          "text": "Update Pack"
+        },
+        "foil&Rarity": "No Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack",
+          "text": "Update Pack"
+        },
+        "foil&Rarity": "Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack",
+          "text": "Update Pack"
+        },
+        "foil&Rarity": "No Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Update_Pack",
+          "text": "Update Pack"
+        },
+        "foil&Rarity": "Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      }
+    ]
+  },
+  "type": "Cyborg"
+}

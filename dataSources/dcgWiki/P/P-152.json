@@ -1,0 +1,168 @@
+{
+  "altDigivolutionRequirements": "[Digivolve]  Play cost 4 or lower [Shoutmon] or [Dorulumon]: Cost 0",
+  "attribute": "Data",
+  "blockIcon": "04",
+  "cardEffects": "[When Attacking] 1 of your opponent's Digimon gets -2000 DP for the turn. Then, by placing 1 Digimon card with the [Xros Heart] trait in this Digimon's digivolution cards under 1 of your Tamers, delete 1 of their Digimon with 3000 DP or less.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red/Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "1",
+      "level": "2"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "1",
+      "level": "2"
+    }
+  ],
+  "digixrosRequirements": "[DigiXros -1] [Shoutmon] x [Dorulumon] \nWhen this would be played, you may place specified cards from your hand/battle area under it. Each one reduces the play cost.",
+  "dp": "4000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Store_Tournament_2024_Oct.%E2%80%93Dec._Participation_Pack",
+        "captionText": "Store Tournament 2024 Oct.–Dec. Participation Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-152.png",
+        "imgName": "P-152.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bd/P-152.png/revision/latest?cb=20241004221521",
+        "uploadDate": "2024-10-04T22:15:21"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Store_Tournament_2024_Oct.%E2%80%93Dec._Winner_Pack",
+        "captionText": "Store Tournament 2024 Oct.–Dec. Winner Pack (Winner Stamp) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-152_P1.png",
+        "imgName": "P-152_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b6/P-152_P1.png/revision/latest?cb=20241004221522",
+        "uploadDate": "2024-10-04T22:15:22"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Tamer_Battle_Pack_23",
+        "captionText": "Tamer Battle Pack 23 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-152-J.png",
+        "imgName": "P-152-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/cf/P-152-J.png/revision/latest?cb=20240531091331",
+        "uploadDate": "2024-05-31T09:13:31"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Tamer_Battle_Pack_23",
+        "captionText": "Tamer Battle Pack 23 (Winner Stamp) (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-152_P1-J.png",
+        "imgName": "P-152_P1-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/25/P-152_P1-J.png/revision/latest?cb=20240531091331",
+        "uploadDate": "2024-05-31T09:13:31"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-05:_Limited_Card_Pack_Final_Elysion",
+        "captionText": "LM-05: Limited Card Pack Final Elysion (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-152_P2-J.png",
+        "imgName": "P-152_P2-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a6/P-152_P2-J.png/revision/latest?cb=20250404055943",
+        "uploadDate": "2025-04-04T05:59:43"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-05:_Limited_Card_Pack_Final_Elysion",
+        "captionText": "LM-05: Limited Card Pack Final Elysion (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-152_P2-Sample-J.png",
+        "imgName": "P-152_P2-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6a/P-152_P2-Sample-J.png/revision/latest?cb=20250213061335",
+        "uploadDate": "2025-02-13T06:13:35"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bd/P-152.png/revision/latest?cb=20241004221521",
+  "level": "3",
+  "name": "Shoutmon + Dorulu Cannon",
+  "nameJapanese": "シャウトモン＋ドルルキャノン",
+  "playCost": "5",
+  "rarity": "Promo",
+  "rule": "[Rule] Name: Also treated as [Shoutmon]/[Dorulumon].",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=P-152#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for P-152 (Nov. 1, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "This card can digivolve from [Shoutmon] with a play cost of 4 or less or a [Dorulumon] with a play of cost 4 or less for a cost of 0.",
+        "question": "When is digivolution possible with this card's digivolution requirements?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Store_Tournament_2024_Oct.%E2%80%93Dec._Participation_Pack",
+          "text": "Store Tournament 2024 Oct.–Dec. Participation Pack"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Store_Tournament_2024_Oct.%E2%80%93Dec._Winner_Pack",
+          "text": "Store Tournament 2024 Oct.–Dec. Winner Pack"
+        },
+        "foil&Rarity": "Foil - Stamped - 1st Place Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Tamer_Battle_Pack_23",
+          "text": "Tamer Battle Pack 23"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Tamer_Battle_Pack_23",
+          "text": "Tamer Battle Pack 23"
+        },
+        "foil&Rarity": "Foil - Stamped - 1st Place Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-05:_Limited_Card_Pack_Final_Elysion",
+          "text": "LM-05: Limited Card Pack Final Elysion"
+        },
+        "foil&Rarity": "Foil - Coloured Border - Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ]
+  },
+  "type": "Enhancement/Xros Heart"
+}

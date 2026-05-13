@@ -1,0 +1,87 @@
+{
+  "ace": "Overflow ＜-3＞ (As this card moves from the field or under a card to an area other than those, lose 3 memory.)",
+  "attribute": "Vaccine",
+  "blockIcon": "03",
+  "cardEffects": "[Hand] [Counter] ＜Blast Digivolve＞ (Your Digimon may digivolve into this card without paying the cost.)\n[On Play] [When Digivolving] Reveal the top 5 cards of your deck. You may play 1 black Tamer card with a play cost of 4 or less among without paying the cost. Return the rest to the top or bottom of the deck. Then, if you have a Tamer, ＜De-Digivolve  1＞ 1 of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.)",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Special_Limited_Set",
+        "captionText": "Special Limited Set (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:LM-025.png",
+        "imgName": "LM-025.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/04/LM-025.png/revision/latest?cb=20241129082458",
+        "uploadDate": "2024-11-29T08:24:58"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-03:_Limited_Card_Set_2024",
+        "captionText": "LM-03: Limited Card Set 2024 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:LM-025-J.png",
+        "imgName": "LM-025-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/78/LM-025-J.png/revision/latest?cb=20240301113131",
+        "uploadDate": "2024-03-01T11:31:31"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-03:_Limited_Card_Set_2024",
+        "captionText": "LM-03: Limited Card Set 2024 (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:LM-025-Sample-J.png",
+        "imgName": "LM-025-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2d/LM-025-Sample-J.png/revision/latest?cb=20240212063536",
+        "uploadDate": "2024-02-12T06:35:36"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/04/LM-025.png/revision/latest?cb=20241129082458",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] ＜De-Digivolve  1＞ 1 of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.)",
+  "level": "5",
+  "name": "Cyberdramon",
+  "nameJapanese": "サイバードラモン",
+  "playCost": "5",
+  "rarity": "Promo",
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Limited_Set",
+          "text": "Special Limited Set"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-03:_Limited_Card_Set_2024",
+          "text": "LM-03: Limited Card Set 2024"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tomotake_Kinoshita",
+          "text": "Tomotake Kinoshita"
+        }
+      }
+    ]
+  },
+  "type": "Cyborg"
+}

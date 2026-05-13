@@ -1,0 +1,113 @@
+{
+  "ace": "Overflow ＜-4＞ (As this card moves from the field or under a card to an area other than those, lose 4 memory.)",
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[Pulsemon] in text: Cost 3",
+  "attribute": "Data",
+  "blockIcon": "03",
+  "cardEffects": "[Hand] [Counter] ＜Blast Digivolve＞ (Your Digimon may digivolve into this card without paying the cost.)\n[On Play] [When Digivolving] If you have 3 or more security cards, suspend 1 Digimon, and 1 of your Digimon gets +3000 DP until the end of your opponent's turn. If you have 3 or fewer security cards, return 1 of your opponent's suspended Digimon to the bottom of the deck.\n[All Turns] While this Digimon is suspended, it isn't affected by the effects of your opponent's Digimon.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "3",
+    "level": "5"
+  },
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Special_Limited_Set",
+        "captionText": "Special Limited Set (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:LM-024.png",
+        "imgName": "LM-024.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c4/LM-024.png/revision/latest?cb=20241129082458",
+        "uploadDate": "2024-11-29T08:24:58"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-03:_Limited_Card_Set_2024",
+        "captionText": "LM-03: Limited Card Set 2024 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:LM-024-J.png",
+        "imgName": "LM-024-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/31/LM-024-J.png/revision/latest?cb=20240301113132",
+        "uploadDate": "2024-03-01T11:31:32"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/LM-03:_Limited_Card_Set_2024",
+        "captionText": "LM-03: Limited Card Set 2024 (JP Sample)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:LM-024-Sample-J.png",
+        "imgName": "LM-024-Sample-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/72/LM-024-Sample-J.png/revision/latest?cb=20240209062518",
+        "uploadDate": "2024-02-09T06:25:18"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c4/LM-024.png/revision/latest?cb=20241129082458",
+  "level": "6",
+  "name": "Shivamon",
+  "nameJapanese": "シーヴァモン",
+  "playCost": "6",
+  "rarity": "Promo",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=LM-024#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for LM-024 (Dec. 13, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, that's correct.",
+        "question": "If I have exactly 3 cards in my security stack, do I activate both \"suspend 1 Digimon, and 1 of your Digimon gets +3000 DP until the end of your opponent's turn\" and the \"return 1 of your opponent's suspended Digimon to the bottom of the deck\" effect when activating this card's [On Play] [When Digivolving] effect?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it isn't affected.  [Security] effects on Security Digimon are treated as Digimon effects, so the \"this Digimon isn't affected by the effects of your opponent's Digimon\" effect prevents such effects from affecting this Digimon.",
+        "question": "Does this card's [All Turns] effect prevent [Security] effects on my opponent's Security Digimon from affecting this Digimon while it's suspended?",
+        "reference": "[1]"
+      },
+      {
+        "answer": "Yes, it unsuspends.  After it suspends, it's no longer affected by your opponent's effects, so it can now unsuspend.",
+        "question": "If this Digimon is affected by a \"can't unsuspend\" effect from an opponent's Digimon, does it unsuspend during my unsuspend phase?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Limited_Set",
+          "text": "Special Limited Set"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/LM-03:_Limited_Card_Set_2024",
+          "text": "LM-03: Limited Card Set 2024"
+        },
+        "foil&Rarity": "Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
+        }
+      }
+    ]
+  },
+  "type": "Insectoid"
+}

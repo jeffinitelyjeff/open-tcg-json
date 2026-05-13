@@ -1,0 +1,181 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "02",
+  "cardEffects": "[On Play] By placing this card under 1 of your other Digimon in play as its bottom digivolution card, reveal the top 3 cards of your deck. Place those cards at either the top or bottom of your deck in any order. Then, if you have a Digimon with the [Legend-Arms] trait in play, gain 2 memory.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "0",
+      "level": "2"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "0",
+      "level": "2"
+    }
+  ],
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "ch": [
+      {
+        "captionLink": null,
+        "captionText": "Event Card Pack (CN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-097-C.png",
+        "imgName": "P-097-C.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/73/P-097-C.png/revision/latest?cb=20231219160528",
+        "uploadDate": "2023-12-19T16:05:28"
+      }
+    ],
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Limited_Card_Set_Ver_2",
+        "captionText": "Limited Card Set Ver 2 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-097.png",
+        "imgName": "P-097.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a3/P-097.png/revision/latest?cb=20240121111555",
+        "uploadDate": "2024-01-21T11:15:55"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Regionals_2024_Participation_Set_3",
+        "captionText": "Regionals 2024 Participation Set 3 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-097_P1.png",
+        "imgName": "P-097_P1.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0a/P-097_P1.png/revision/latest?cb=20240726115702",
+        "uploadDate": "2024-07-26T11:57:02"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Regionals_2024_Finalist_Set_3",
+        "captionText": "Regionals 2024 Finalist Set 3 (Top 32 & Top 8 Prize) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-097_P2.png",
+        "imgName": "P-097_P2.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9a/P-097_P2.png/revision/latest?cb=20240726115702",
+        "uploadDate": "2024-07-26T11:57:02"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Regionals_2024_Champion_Set_3",
+        "captionText": "Regionals 2024 Champion Set 3 (Top 2 & 1st Place Prize) (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-097_P3.png",
+        "imgName": "P-097_P3.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/10/P-097_P3.png/revision/latest?cb=20240726115701",
+        "uploadDate": "2024-07-26T11:57:01"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Limited_Card_Set_ONLINE_2023",
+        "captionText": "Limited Card Set ONLINE 2023 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-097-J.png",
+        "imgName": "P-097-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/12/P-097-J.png/revision/latest?cb=20240115154748",
+        "uploadDate": "2024-01-15T15:47:48"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a3/P-097.png/revision/latest?cb=20240121111555",
+  "inheritedEffect": "[Your Turn] While you have a Digimon with the [Legend-Arms] trait or a black Digimon in play, this Digimon gains ＜Raid＞  (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.)",
+  "korean": "즈바몬",
+  "level": "3",
+  "name": "Zubamon",
+  "nameJapanese": "ズバモン",
+  "playCost": "3",
+  "rarity": "Promo",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://digimoncardgame.fandom.com/wiki/P-097-J/Gallery?file=P-097-J.png",
+        "num": 1,
+        "text": "P-097 original Japanese card text"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "No, you must place all cards at the top or all cards at the bottom.",
+        "question": "When I place 3 cards at the top or bottom of my deck for this card's [On Play] effect, can I place some cards at the top and some at the bottom?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "ch": [
+      {
+        "boosterSet": "Event Card Pack",
+        "foil&Rarity": "Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      }
+    ],
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Limited_Card_Set_Ver_2",
+          "text": "Limited Card Set Ver 2"
+        },
+        "foil&Rarity": "Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Regionals_2024_Participation_Set_3",
+          "text": "Regionals 2024 Participation Set 3"
+        },
+        "foil&Rarity": "Foil - Participation Stamp - Participation",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Regionals_2024_Finalist_Set_3",
+          "text": "Regionals 2024 Finalist Set 3"
+        },
+        "foil&Rarity": "Foil - Finalist Stamp - Top 32 Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Regionals_2024_Champion_Set_3",
+          "text": "Regionals 2024 Champion Set 3"
+        },
+        "foil&Rarity": "Foil - Champion Stamp - Top 2 Prize",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Limited_Card_Set_ONLINE_2023",
+          "text": "Limited Card Set ONLINE 2023"
+        },
+        "foil&Rarity": "Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kenji_Watanabe",
+          "text": "Kenji Watanabe"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "兹巴兽",
+  "traditionalChinese": "茲巴獸",
+  "type": "Weapon/Legend-Arms"
+}

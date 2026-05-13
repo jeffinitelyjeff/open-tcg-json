@@ -1,0 +1,97 @@
+{
+  "attribute": "Vaccine",
+  "blockIcon": "01",
+  "cardEffects": "[When Digivolving] Suspend 1 of your opponent's Digimon, or 2 of your opponent's Digimon with 5000 DP or less.",
+  "cardRestriction": {
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
+  },
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "3",
+    "level": "5"
+  },
+  "dp": "11000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Double_Diamond_Dash_Pack",
+        "captionText": "Double Diamond Dash Pack (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-044.png",
+        "imgName": "P-044.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/be/P-044.png/revision/latest?cb=20210904040333",
+        "uploadDate": "2021-09-04T04:03:33"
+      }
+    ],
+    "jp": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Special_Promotion_Pack_2022",
+        "captionText": "Special Promotion Pack 2022 (JP)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-044-J.png",
+        "imgName": "P-044-J.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d7/P-044-J.png/revision/latest?cb=20220121144322",
+        "uploadDate": "2022-01-21T14:43:22"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/be/P-044.png/revision/latest?cb=20210904040333",
+  "korean": "헤라클레스캅테리몬",
+  "level": "6",
+  "name": "HerculesKabuterimon",
+  "nameJapanese": "ヘラクルカブテリモン",
+  "nameTranslated": "HerakleKabuterimon",
+  "playCost": "11",
+  "rarity": "Promo",
+  "rulings": {
+    "references": [
+      {
+        "link": "https://world.digimoncard.com/rule/?card_no=P-044#qaResult_card",
+        "num": 1,
+        "text": "Official English Q&A for P-044 (Mar. 28, 2024)"
+      }
+    ],
+    "rulings": [
+      {
+        "answer": "Yes, you can.  You can choose to suspend 1 of your opponent's Digimon, and it is possible to choose an opponent's Digimon with 5000 DP or less as the target.",
+        "question": "Can I use this card's effect to suspend just 1 of my opponent's Digimon when they have 2 Digimon with 5000 DP or less?",
+        "reference": "[1]"
+      }
+    ]
+  },
+  "setData": {
+    "en": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Double_Diamond_Dash_Pack",
+          "text": "Double Diamond Dash Pack"
+        },
+        "foil&Rarity": "Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shin_Sasaki",
+          "text": "Shin Sasaki"
+        }
+      }
+    ],
+    "jp": [
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Special_Promotion_Pack_2022",
+          "text": "Special Promotion Pack 2022"
+        },
+        "foil&Rarity": "No Foil - Promo",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Shin_Sasaki",
+          "text": "Shin Sasaki"
+        }
+      }
+    ]
+  },
+  "simplifiedChinese": "力神比多兽",
+  "traditionalChinese": "力神比多獸",
+  "type": "Insectoid"
+}
