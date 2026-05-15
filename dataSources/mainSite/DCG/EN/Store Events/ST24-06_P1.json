@@ -1,0 +1,50 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "No, you can't.  A \"by\" condition can't be met if only some of the required actions are performed.  The conditions for this [On Play] [When Digivolving] [When Attacking] effect require you to trash the specified number of cards under your Tamer.",
+      "date": "May. 8, 2026",
+      "num": "Q6211",
+      "q": "Can I trash just 1 face-down card from under a Tamer for the conditions of this card's [On Play] [When Digivolving] [When Attacking] effect?"
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "May. 8, 2026",
+      "num": "Q6212",
+      "q": "Can I trash a total of 2 face-down cards from under multiple Tamers for the conditions of this card's [On Play] [When Digivolving] [When Attacking] effect?"
+    },
+    {
+      "a": "No, it isn't deleted yet.  Once all of the processing for this card's [On Play] [When Digivolving] [When Attacking] effect is resolved, then all of the Digimon with 0 DP are deleted at the same time.  In addition, if an Option card is used by this effect, once the used Option card's [Main] effect has resolved and the Option card is trashed, then all Digimon with DPs of 0 will be deleted.  If digivolving by Arts Digivolve, after digivolving, all of the Digimon with 0 DP are deleted.",
+      "date": "May. 8, 2026",
+      "num": "Q6213",
+      "q": "This card's effect caused the DP of my opponent's Digimon to become 0.  At such times, is the Digimon with a DP of zero deleted?"
+    }
+  ],
+  "Color": [
+    "Yellow",
+    "Red"
+  ],
+  "Cost": "7",
+  "DP": "8000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "Red",
+    "4 from Lv.4"
+  ],
+  "Effect": "[On Play] [When Digivolving] [When Attacking] [Once Per Turn] 1 of your opponent's Digimon gets -5000 DP for the turn. Then, by trashing 2 bottom face-down cards from under any of your Tamers, you may play or use 1 [DATA SQUAD] trait card with a play or use cost of 5 or less from your hand without paying the cost.",
+  "Form": "Ultimate",
+  "Inherited Effect": "[All Turns] [Once Per Turn] When this Digimon with [ShineGreymon] in its name or the [DATA SQUAD] trait would leave the battle area, by trashing the bottom face-down card from under any of your Tamers, it doesn't leave.",
+  "Notes": [
+    "Welcome Tamers Pack Vol. 2",
+    "?search=true&category=522903"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [GeoGreymon]/Lv.4 w/[DATA SQUAD] trait: Cost 3",
+  "Type": "Cyborg/DATA SQUAD",
+  "cardLv": "Lv.5",
+  "cardNo": "ST24-06",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "R",
+  "cardTitle": "RizeGreymon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/ST24-06_P1.png?260424"
+}

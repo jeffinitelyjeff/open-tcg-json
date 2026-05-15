@@ -31,10 +31,10 @@
       "q": "If a Tamer is also treated as a Digimon using an \"is also treated as a Digimon with X000 DP\" effect, then another effect causes its DP to become 0, is it deleted upon a rule check?"
     },
     {
-      "a": "The effect that later gives it a play cost, level, or DP overwrites the older effect. Any other effects later gained will be added. For example, if a Tamer is also treated as a Digimon with  and 3000 DP from an \"is also treated as a Digimon with 3000 DP, gains , and can't digivolve\" effect, then it gains an \"is also treated as a Digimon with 6000 DP, gains , and can't digivolve\" effect, that Tamer will also be treated as a Digimon with , , and 6000 DP.",
-      "date": "Mar. 13, 2026",
+      "a": "If an effect has triggered and the card is affected by a \"is also treated as a Digimon with X000 DP\" effect, the play cost, level, and DP are overwritten by the newer effect.  However, if an effect has already activated and the card is affected by a \"is also treated as a Digimon with X000 DP\" effect, the already activated effect will be overwritten.  Any other effects such as  that are later gained will be added.",
+      "date": "May. 8, 2026",
       "num": "Q6106",
-      "q": "If a Tamer is also treated as a Digimon using an \"is also treated as a Digimon with 3000 DP\" effect, and later it gains another \"is also treated as a Digimon with 6000 DP\" effect, what happens?"
+      "q": "If a Tamer is also treated as a Digimon using an \"is also treated as a Digimon with X000 DP\" effect, and later it gains another \"is also treated as a Digimon with X000 DP\" effect, what happens?"
     },
     {
       "a": "Yes, you can. When an effect is activated on a card that's treated as both a Digimon and a Tamer, the effect is treated as both a Digimon effect and a Tamer effect, therefore you can gain memory.",

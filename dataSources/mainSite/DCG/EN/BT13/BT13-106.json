@@ -1,34 +1,22 @@
 {
   "Card Q&A": [
     {
-      "a": "This card's effect activates before the security check.",
-      "date": "Mar. 28, 2024",
+      "a": "No, you can't. You can only activate the \"when an effect trashes this card from the security stack\" when this card is directly trashed from the security stack.",
+      "date": "May. 8, 2026",
       "num": "Q2354",
-      "q": "If my opponent's Digimon attacks a player and this card is trashed from the security stack by a [When Attacking] effect, which comes first, the security check from the attack or this card's “When this card is trashed from a security stack by an effect” effect?"
+      "q": "Can I activate the \"when an effect trashes this card from the security stack\" effect when this card is revealed from the security stack or when searching/looking at this card from the security stack?"
     },
     {
-      "a": "No, it means if the total sum of cards in your security stack and the cards in your opponent's security stack is 6 or less.",
-      "date": "Mar. 28, 2024",
+      "a": "It refers to when the total number of cards in both you and your opponent's security stacks is X or fewer.  The text \"if there're 6 or fewer total cards in both players' security stacks\" would include when there're 3 cards in both players' security stacks, 2 cards in your security stack and 4 cards in your opponent's security stack, etc.",
+      "date": "May. 8, 2026",
       "num": "Q2355",
-      "q": "Does \"If the total cards in both players' security stacks is 6 or less\" mean 6 or less cards in either me or my opponent's security stacks?"
+      "q": "What does \"if there're X or fewer total cards in both players' security stacks\" mean, exactly?"
     },
     {
-      "a": "No, the Digimon's security check is zero. No checks are performed.",
-      "date": "Mar. 28, 2024",
+      "a": "No, it isn't deleted yet.  Once all of the processing for the activated effect has resolved, a rule check will occur, then all of the Digimon with 0 DP are deleted at the same time.",
+      "date": "May. 8, 2026",
       "num": "Q2356",
-      "q": "My opponent's Digimon attacks a player and this card is trashed from the security stack by a [When Attacking] effect. If this card's [Main] effect gives all of my opponent's Digimon  and the attacking Digimon now has a security check number of 0, is a security check performed?"
-    },
-    {
-      "a": "Yes. It activates because \"When this card is trashed from a security stack by an effect\" isn't a [Security] effect.",
-      "date": "Mar. 28, 2024",
-      "num": "Q2357",
-      "q": "Does this card's [Main] effect activate if this card is trashed from the security stack when my opponent has activated a \"your opponent doesn't activate [Security] effects\" effect?"
-    },
-    {
-      "a": "No, it doesn't. A card revealed from your security stack and then trashed isn't considered \"When this card is trashed from a security stack.\"",
-      "date": "Mar. 28, 2024",
-      "num": "Q2358",
-      "q": "If this card is revealed from my security stack and trashed by [BT10-086 Omnimon (X Antibody)]'s effect, does this card's “When this card is trashed from a security stack by an effect” effect activate?"
+      "q": "This card's effect caused the DP of my opponent's Digimon to become 0.  At such times, is the Digimon with a DP of zero deleted?"
     }
   ],
   "Color": "Yellow",

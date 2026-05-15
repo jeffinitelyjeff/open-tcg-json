@@ -1,16 +1,16 @@
 {
   "Card Q&A": [
     {
-      "a": "Yes, they trigger simultaneously.",
-      "date": "Jun. 21, 2024",
+      "a": "No, you can't. You can only activate the \"when an effect trashes this card from the security stack\" when this card is directly trashed from the security stack.",
+      "date": "May. 8, 2026",
       "num": "Q3049",
-      "q": "When multiple copies of this card are trashed from the security stack at the same time, does the \"when this card is trashed from the security stack\" effect on each of those cards trigger simultaneously?"
+      "q": "Can I activate the \"when an effect trashes this card from the security stack\" effect when this card is revealed from the security stack or when searching/looking at this card from the security stack?"
     },
     {
-      "a": "No, you can't. If the \"by trashing your top security card\" condition isn't performed, the rest of the effect isn't processed. In this case, you can't process this effect unless you trash your top security card.",
-      "date": "Jun. 21, 2024",
+      "a": "No, you can't.  If you don't trash your security card, you can't process the part after \"then\" in this card's [Main] effect.",
+      "date": "May. 8, 2026",
       "num": "Q3050",
-      "q": "Can I process \"then, if you have 2 or fewer security cards, place this card as your bottom security card\" in this card's [Main] effect even I don't perform \"by trashing your top security card\"?"
+      "q": "Can I process the part of the effect after \"then\" in this card's [Main] effect without meeting the \"by\" condition?"
     }
   ],
   "Color": [

@@ -1,0 +1,56 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "Yes, it is.  This card is treated as an Option card with the DATA SQUAD trait.",
+      "date": "May. 8, 2026",
+      "num": "Q6214",
+      "q": "Is this card treated as an Option card with the traits shown on this card?"
+    },
+    {
+      "a": "No, it isn't deleted yet.  After trashing the used Option card or digivolving by Arts Digivolve, all of the Digimon with 0 DP are deleted upon the rule check. Then, if the deleted card has an [On Deletion] effect, it will trigger simultaneously with this card's [When Digivolving] effect.",
+      "date": "May. 8, 2026",
+      "num": "Q6215",
+      "q": "I used [GeoGrey Sword], and its [Main] effect caused the DP of my opponent's Digimon to become 0.  At such times, is the Digimon with a DP of zero deleted?"
+    }
+  ],
+  "Color": [
+    "Yellow",
+    "Red"
+  ],
+  "Cost": "D",
+  "DP": "12000",
+  "DUAL Color": [
+    "Yellow",
+    "Red"
+  ],
+  "DUAL Cost": "5",
+  "DUAL Effect": [
+    "＜Use Req. ([DATA SQUAD] trait)＞ (Specified cards let you ignore color requirements.)",
+    "[Main] 1 of your opponent's Digimon gets -6000 DP for the turn. Then, delete 1 of your opponent's Digimon with 7000 DP or less."
+  ],
+  "DUAL Rule": "＜Arts Digivolve＞ (Instead of trashing after use, your cards may digivolve into this card without paying the cost.)",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "Red",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "＜Raid＞ ＜Piercing＞ ＜Security A. +1＞",
+    "[When Digivolving] [When Attacking] [Once Per Turn] You may play 1 Tamer card with a play cost of 5 or less from your hand or trash without paying the cost. Then, 1 of your opponent's Digimon gets -9000 DP for the turn."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "DUAL REVOLUTION [BT-25] Release Event",
+    "?search=true&category=522903"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.5 w/[RizeGreymon] in name or w/[DATA SQUAD] trait: Cost 3",
+  "Type": "Light Dragon/DATA SQUAD",
+  "cardLv": "Lv.6",
+  "cardNo": "ST24-07",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "ShineGreymon          GeoGrey Sword",
+  "cardType": "Digimon/Option",
+  "imgSrc": "../images/cardlist/card/ST24-07_P2.png?260424"
+}
