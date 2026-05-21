@@ -1,5 +1,6 @@
 {
   "blockIcon": "06",
+  "cardEffects": "[Start of Your Turn] If you have 2 or less memory, set it to 3.\n[Your Turn] When any of your Digimon get linked, by suspending this Tamer, 1 of your Digimon with the [Appmon] trait gains ＜Vortex＞ (At the end of your turn, this Digimon may attack an opponent's Digimon. With this effect, it can attack the turn it was played.) and +3000 DP for the turn. Then, 1 of your Digimon may app fuse into a Digimon card in the hand.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
@@ -7,12 +8,14 @@
     "nameJapanese": "Not released"
   },
   "cardType": "Tamer",
-  "color": "[[]]",
+  "color": "Green",
   "galleryImages": {},
   "image": null,
   "name": "Yujin Ozora",
   "nameJapanese": "大空勇仁",
+  "playCost": "4",
   "rarity": "Promo",
+  "securityEffect": "[Security] Play this card without paying the cost.",
   "setData": {
     "en": [
       {
