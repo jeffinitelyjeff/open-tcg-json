@@ -1,18 +1,31 @@
 {
   "blockIcon": "06",
+  "cardEffects": "＜Use Req. ([Shambala] trait)＞ (Specified cards let you ignore color requirements.)\n[Security] [Your Turn] [Once Per Turn] When one of your [Shambala] trait Digimon attacks, it may digivolve into a [Shambala] trait Digimon card in the hand with the cost reduced by 1.\n[Main] Add your bottom security card to the hand and place this card face up as the bottom security card. Then, you may play 1 [Shambala] trait card from your hand with the cost reduced by 3.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Option",
+  "color": "White",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
+        "captionText": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX12-074-Sample.png",
+        "imgName": "EX12-074-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f9/EX12-074-Sample.png/revision/latest?cb=20260523041400",
+        "uploadDate": "2026-05-23T04:14:00"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f9/EX12-074-Sample.png/revision/latest?cb=20260523041400",
+  "name": "Genshi Continent & Ashino Island",
+  "nameJapanese": "ゲンシ大陸＆アシノ島",
+  "rarity": "Uncommon",
+  "securityEffect": "[Security] You may play 1 play cost 5 or lower [Shambala] trait card from your hand or trash without paying the cost.",
   "setData": {
     "ch": [
       {
@@ -20,22 +33,16 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
       },
       {
         "boosterSet": {
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
+        "illustrator": "No Illustrator"
       }
     ],
     "en": [
@@ -44,22 +51,16 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
       },
       {
         "boosterSet": {
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
+        "illustrator": "No Illustrator"
       }
     ],
     "jp": [
@@ -68,22 +69,16 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
       },
       {
         "boosterSet": {
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
+        "illustrator": "No Illustrator"
       }
     ],
     "kr": [
@@ -92,23 +87,19 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
       },
       {
         "boosterSet": {
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
+        "illustrator": "No Illustrator"
       }
     ]
-  }
+  },
+  "type": "Shambala/SW/TB",
+  "useCost": "3"
 }
