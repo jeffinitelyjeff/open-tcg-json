@@ -1,7 +1,8 @@
 {
-  "altDigivolutionRequirements": "[Digivolve]  [SymbareAngoramon]/Lv.4 w/[NSp] trait: Cost 3",
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Angoramon] in text or w/[NSp] trait: Cost 3",
   "attribute": "Vaccine",
   "blockIcon": "06",
+  "cardEffects": "＜Reboot＞ (This Digimon also unsuspends in your opponent's unsuspend phase.)\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Play] [When Digivolving] Suspend 1 of your opponent's Digimon or Tamers. Then, ＜De-Digivolve  1＞ (Trash the top card. You can't trash past level 3 cards.) 1 of their Digimon.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
@@ -22,13 +23,27 @@
       "level": "4"
     }
   ],
+  "dp": "7000 DP",
   "form": "Ultimate",
-  "galleryImages": {},
-  "image": null,
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
+        "captionText": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX12-051-Sample.png",
+        "imgName": "EX12-051-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/df/EX12-051-Sample.png/revision/latest?cb=20260525135436",
+        "uploadDate": "2026-05-25T13:54:36"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/df/EX12-051-Sample.png/revision/latest?cb=20260525135436",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When this Digimon with [Angoramon] in its text or the [NSp] trait wins a battle, trash your opponent's top security card.",
   "level": "5",
   "name": "Lamortmon",
   "nameJapanese": "ラモールモン",
-  "rarity": "",
+  "playCost": "7",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -36,7 +51,7 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
           "text": "SENNSU"
@@ -47,7 +62,7 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
           "text": "SENNSU"
@@ -60,7 +75,7 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
           "text": "SENNSU"
@@ -71,7 +86,7 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
           "text": "SENNSU"
@@ -84,7 +99,7 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
           "text": "SENNSU"
@@ -95,7 +110,7 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
           "text": "SENNSU"
@@ -108,7 +123,7 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
           "text": "SENNSU"
@@ -119,7 +134,7 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
           "text": "SENNSU"
