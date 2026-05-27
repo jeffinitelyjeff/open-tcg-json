@@ -1,4 +1,5 @@
 {
+  "attribute": "Vaccine",
   "blockIcon": "06",
   "cardRestriction": {
     "chinese": "Not released",
@@ -6,13 +7,22 @@
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "2000 DP",
+  "form": "Rookie",
   "galleryImages": {},
   "image": null,
-  "name": "[[:Category:|]]",
+  "level": "3",
+  "name": "Wankomon",
   "nameJapanese": "",
-  "rarity": "",
+  "playCost": "3",
+  "rarity": "Rare",
   "setData": {
     "ch": [
       {
@@ -110,5 +120,6 @@
         }
       }
     ]
-  }
+  },
+  "type": "Beast/Shambala/TB"
 }
