@@ -13,6 +13,7 @@
   "name": "Unique Emblem: Ragnarok Attainer",
   "nameJapanese": "ユニークエンブレム：終焉の到達者",
   "rarity": "Promo",
+  "securityEffect": "[Security] Activate this card's [Main] effects.",
   "setData": {
     "en": [
       {
@@ -65,5 +66,6 @@
       }
     ]
   },
-  "type": "LIBERATOR"
+  "type": "LIBERATOR",
+  "useCost": "3"
 }
