@@ -1,18 +1,42 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.2 w/[ME] trait: Cost 0",
+  "attribute": "Virus",
   "blockIcon": "06",
+  "cardEffects": "[On Play] Reveal the top 3 cards of your deck. Add 1 card with the [Machine], [Cyborg] or [Mutant] trait and 1 card with the [ME] trait among them to the hand. Return the rest to the bottom of the deck.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
+        "captionText": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX12-053-Sample.png",
+        "imgName": "EX12-053-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/29/EX12-053-Sample.png/revision/latest?cb=20260529141632",
+        "uploadDate": "2026-05-29T14:16:32"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/29/EX12-053-Sample.png/revision/latest?cb=20260529141632",
+  "inheritedEffect": "＜Blocker＞ (This Digimon can block in the blocker timing.)",
+  "level": "3",
+  "name": "Hagurumon",
+  "nameJapanese": "ハグルモン",
+  "playCost": "3",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -20,10 +44,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
         }
       },
       {
@@ -31,10 +55,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
         }
       }
     ],
@@ -44,10 +68,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
         }
       },
       {
@@ -55,10 +79,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
         }
       }
     ],
@@ -68,10 +92,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
         }
       },
       {
@@ -79,10 +103,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
         }
       }
     ],
@@ -92,10 +116,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
         }
       },
       {
@@ -103,12 +127,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
         }
       }
     ]
-  }
+  },
+  "type": "Machine/ME"
 }

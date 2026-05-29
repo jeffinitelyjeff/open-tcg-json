@@ -1,18 +1,42 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.2 w/[ME] trait: Cost 0",
+  "attribute": "Vaccine",
   "blockIcon": "06",
+  "cardEffects": "[Start of Your Main Phase] By trashing 1 card with the [Puppet] or [ME] trait from your hand, ＜Draw 1＞ (Draw 1 card from your deck.) and gain 1 memory.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Red",
+  "digivolutionRequirements": {
+    "color": "Red",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
+        "captionText": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX12-008-Sample.png",
+        "imgName": "EX12-008-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4d/EX12-008-Sample.png/revision/latest?cb=20260529141746",
+        "uploadDate": "2026-05-29T14:17:46"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4d/EX12-008-Sample.png/revision/latest?cb=20260529141746",
+  "inheritedEffect": "＜Raid＞ (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.)",
+  "level": "3",
+  "name": "ToyAgumon",
+  "nameJapanese": "トイアグモン",
+  "playCost": "3",
+  "rarity": "Rare",
   "setData": {
     "ch": [
       {
@@ -20,21 +44,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
-      },
-      {
-        "boosterSet": {
-          "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
-          "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
-        },
-        "foil&Rarity": "Foil - Coloured Border -",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
         }
       }
     ],
@@ -44,21 +57,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
-      },
-      {
-        "boosterSet": {
-          "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
-          "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
-        },
-        "foil&Rarity": "Foil - Coloured Border -",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
         }
       }
     ],
@@ -68,21 +70,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
-      },
-      {
-        "boosterSet": {
-          "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
-          "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
-        },
-        "foil&Rarity": "Foil - Coloured Border -",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
         }
       }
     ],
@@ -92,23 +83,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
-      },
-      {
-        "boosterSet": {
-          "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
-          "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
-        },
-        "foil&Rarity": "Foil - Coloured Border -",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
         }
       }
     ]
-  }
+  },
+  "type": "Puppet/ME"
 }
