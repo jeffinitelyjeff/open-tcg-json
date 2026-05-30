@@ -1,7 +1,7 @@
 {
   "attribute": "Virus",
   "blockIcon": "06",
-  "cardEffects": "＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Deletion] By placing 1 Digimon card with [Myotismon] in its text from your trash as the bottom digivolution card of 1 of your Digimon, that Digimon may digivolve into a Digimon card with  [Myotismon] in its name in your hand without paying the cost.",
+  "cardEffects": "＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Deletion] By placing this Digimon card as the bottom digivolution card of 1 of your Digimon with [Myotismon] in its text, that Digimon may digivolve into a Digimon card with  [Myotismon] in its name in your hand without paying the cost.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
@@ -17,8 +17,27 @@
   },
   "dp": "3000 DP",
   "form": "Rookie",
-  "galleryImages": {},
-  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/07/P-239-Sample-J.png/revision/latest?cb=20260529094741",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Official_Store_Tournament_2026_Vol.3",
+        "captionText": "Official Store Tournament 2026 Vol.3 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-239-Sample.png",
+        "imgName": "P-239-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/09/P-239-Sample.png/revision/latest?cb=20260530041802",
+        "uploadDate": "2026-05-30T04:18:02"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/Official_Store_Tournament_2026_Vol.3",
+        "captionText": "Official Store Tournament 2026 Vol.3 (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:P-239_P1-Sample.png",
+        "imgName": "P-239_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/0c/P-239_P1-Sample.png/revision/latest?cb=20260530041847",
+        "uploadDate": "2026-05-30T04:18:47"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/09/P-239-Sample.png/revision/latest?cb=20260530041802",
   "inheritedEffect": "[On Deletion] By trashing 1 card in your hand, delete 1 of your opponent's level 4 or lower Digimon.",
   "level": "3",
   "name": "DemiDevimon",
