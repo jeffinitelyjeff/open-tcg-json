@@ -1,18 +1,49 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[DS] trait: Cost 3 \n[DNA Digivolve] Blue/Purple Lv.4 + Black/Yellow Lv.4 : Cost 0\nStack the 2 specified Digimon and digivolve unsuspended.",
+  "attribute": "Vaccine",
   "blockIcon": "06",
+  "cardEffects": "＜Blocker＞ (This Digimon can block in the blocker timing.)\n＜Decode ([Lv.4 or lower w/[DS] trait])＞ (When this Digimon would leave the battle area other than in battle, you may play 1 specified Digimon card from its digivolution cards without paying the cost.)\n[All Turns] [Once Per Turn] When a Digimon attacks, by placing 1 [DS] trait Digimon card from your hand as this Digimon's bottom digivolution card, ＜De-Digivolve  1＞ 1 of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.) After, if you have 0 or less memory, gain 1 memory.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Blue/Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "8000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
+        "captionText": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX12-028-Sample.png",
+        "imgName": "EX12-028-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9d/EX12-028-Sample.png/revision/latest?cb=20260601133513",
+        "uploadDate": "2026-06-01T13:35:13"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9d/EX12-028-Sample.png/revision/latest?cb=20260601133513",
+  "inheritedEffect": "[Opponent's Turn] [Once Per Turn] When one of your opponent's Digimon attacks, you may change the attack target to 1 of your [DS] trait Digimon.",
+  "level": "5",
+  "name": "Gusokumon",
+  "nameJapanese": "グソクモン",
+  "playCost": "8",
+  "rarity": "Common",
   "setData": {
     "ch": [
       {
@@ -110,5 +141,6 @@
         }
       }
     ]
-  }
+  },
+  "type": "Crustacean/DS"
 }
