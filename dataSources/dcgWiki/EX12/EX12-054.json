@@ -1,18 +1,42 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[ME] trait: Cost 2",
+  "attribute": "Virus",
   "blockIcon": "06",
+  "cardEffects": "＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Play] [When Digivolving] By trashing 1 card with the [Machine], [Cyborg] or [ME] trait from your hand, ＜Draw 2＞ (Draw 2 cards from your deck.)",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
+        "captionText": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX12-054-Sample.png",
+        "imgName": "EX12-054-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/93/EX12-054-Sample.png/revision/latest?cb=20260602040431",
+        "uploadDate": "2026-06-02T04:04:31"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/93/EX12-054-Sample.png/revision/latest?cb=20260602040431",
+  "inheritedEffect": "＜Blocker＞ (This Digimon can block in the blocker timing.)",
+  "level": "4",
+  "name": "Guardromon",
+  "nameJapanese": "ガードロモン",
+  "playCost": "5",
+  "rarity": "Common",
   "setData": {
     "ch": [
       {
@@ -20,10 +44,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "Itohiro"
         }
       },
       {
@@ -31,10 +55,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Foil - Coloured Border - Limited Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "Itohiro"
         }
       }
     ],
@@ -44,10 +68,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "Itohiro"
         }
       },
       {
@@ -55,10 +79,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Foil - Coloured Border - Limited Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "Itohiro"
         }
       }
     ],
@@ -68,10 +92,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "Itohiro"
         }
       },
       {
@@ -79,10 +103,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Foil - Coloured Border - Limited Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "Itohiro"
         }
       }
     ],
@@ -92,10 +116,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "Itohiro"
         }
       },
       {
@@ -103,12 +127,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Foil - Coloured Border - Limited Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Itohiro",
+          "text": "Itohiro"
         }
       }
     ]
-  }
+  },
+  "type": "Machine/ME"
 }
