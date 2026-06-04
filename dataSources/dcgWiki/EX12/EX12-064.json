@@ -12,6 +12,18 @@
   },
   "cardType": "Digimon",
   "color": "Purple/Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
   "dp": "7000 DP",
   "form": "Ultimate",
   "galleryImages": {
