@@ -1,29 +1,54 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.6 w/[Hybrid]/[Shambala]/[TS] trait: Cost 5",
+  "assemblyRequirements": "[Assembly -9] 8 [Hybrid]/[Shambala] trait cards w/different names\nWhen this would be played, by placing the specified cards from the trash under it, reduce the play cost.",
+  "attribute": "Vaccine",
   "blockIcon": "06",
+  "cardEffects": "＜Rush＞ (This Digimon can attack the turn it was played.)\n＜Raid＞ (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.)\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Play] [When Digivolving] To all of your opponent's Digimon, give -3000 DP for the turn for each color in this Digimon's digivolution cards.\n[When Attacking] [Once Per Turn] Place 1 of your opponent's Digimon as the top security card. Then, if this Digimon has 4 or more colors in its digivolution cards, trash their top security card and ＜Recovery +1＞ (Place the top card of your deck as your top security card.)",
   "cardRestriction": {
-    "chinese": "Not released",
-    "english": "Not released",
-    "korean": "Not released",
-    "nameJapanese": "Not released"
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Yellow/White/Red",
+  "digivolutionRequirements": {
+    "color": "All",
+    "digivolveCost": "5",
+    "level": "6"
+  },
+  "dp": "16000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
+        "captionText": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX12-076-Sample.png",
+        "imgName": "EX12-076-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ec/EX12-076-Sample.png/revision/latest?cb=20260606070742",
+        "uploadDate": "2026-06-06T07:07:42"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/ec/EX12-076-Sample.png/revision/latest?cb=20260606070742",
+  "level": "7",
+  "name": "Susanoomon",
+  "nameJapanese": "スサノオモン",
+  "playCost": "16",
+  "rarity": "Secret Rare",
+  "rule": "[Rule] Trait: Has [Hybrid] Type.",
   "setData": {
     "ch": [
       {
         "boosterSet": {
-          "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
-          "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_ADVANCED_BOOSTER_DIGIMON_GENERATION",
+          "text": "AD-01: ADVANCED BOOSTER DIGIMON GENERATION"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Secret Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
         }
       },
       {
@@ -31,7 +56,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
+          "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
+        },
+        "foil&Rarity": "Rare Pull",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
           "text": "To be completed"
@@ -41,13 +77,13 @@
     "en": [
       {
         "boosterSet": {
-          "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
-          "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_ADVANCED_BOOSTER_DIGIMON_GENERATION",
+          "text": "AD-01: ADVANCED BOOSTER DIGIMON GENERATION"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Secret Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
         }
       },
       {
@@ -55,7 +91,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
+          "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
+        },
+        "foil&Rarity": "Rare Pull",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
           "text": "To be completed"
@@ -65,13 +112,13 @@
     "jp": [
       {
         "boosterSet": {
-          "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
-          "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_ADVANCED_BOOSTER_DIGIMON_GENERATION",
+          "text": "AD-01: ADVANCED BOOSTER DIGIMON GENERATION"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Secret Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
         }
       },
       {
@@ -79,7 +126,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
+          "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
+        },
+        "foil&Rarity": "Rare Pull",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
           "text": "To be completed"
@@ -89,13 +147,13 @@
     "kr": [
       {
         "boosterSet": {
-          "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
-          "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
+          "link": "https://digimoncardgame.fandom.com/wiki/AD-01:_ADVANCED_BOOSTER_DIGIMON_GENERATION",
+          "text": "AD-01: ADVANCED BOOSTER DIGIMON GENERATION"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Secret Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
         }
       },
       {
@@ -103,12 +161,24 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
+          "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
+        },
+        "foil&Rarity": "Rare Pull",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
           "text": "To be completed"
         }
       }
     ]
-  }
+  },
+  "type": "Shaman/Shambala/SW/TB/TS"
 }
