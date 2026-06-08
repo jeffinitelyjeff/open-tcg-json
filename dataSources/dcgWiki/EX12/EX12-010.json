@@ -1,18 +1,49 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Agumon] in name or w/[ME]/[VB] trait: Cost 2",
+  "attribute": "Vaccine",
   "blockIcon": "06",
+  "cardEffects": "＜Raid＞ (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.)\n[On Play] [When Digivolving] You may return 1 Digimon card with [Greymon] in its name or the [VB] or [ME] trait from your trash to the hand.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Red/Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
+        "captionText": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX12-010-Sample.png",
+        "imgName": "EX12-010-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/aa/EX12-010-Sample.png/revision/latest?cb=20260608050738",
+        "uploadDate": "2026-06-08T05:07:38"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/aa/EX12-010-Sample.png/revision/latest?cb=20260608050738",
+  "inheritedEffect": "＜Raid＞ (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.)",
+  "level": "4",
+  "name": "Greymon",
+  "nameJapanese": "グレイモン",
+  "playCost": "5",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -20,10 +51,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       },
       {
@@ -31,10 +62,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       }
     ],
@@ -44,10 +75,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       },
       {
@@ -55,10 +86,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       }
     ],
@@ -68,10 +99,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       },
       {
@@ -79,10 +110,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       }
     ],
@@ -92,10 +123,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       },
       {
@@ -103,12 +134,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
           "text": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       }
     ]
-  }
+  },
+  "type": "Dinosaur/ME/VB"
 }
