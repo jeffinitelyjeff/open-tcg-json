@@ -2,7 +2,7 @@
   "altDigivolutionRequirements": "[Digivolve]  Lv.6 w/[Gammamon] in text or w/[VB] trait: Cost 5 \n[DNA Digivolve] Red/Blue Lv.6 + Black/Purple Lv.6 : Cost 0\nStack the 2 specified Digimon and digivolve unsuspended.",
   "attribute": "Virus",
   "blockIcon": "06",
-  "cardEffects": "＜Security A. +1＞ (This Digimon checks 1 additional security card.)\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Play] [When Digivolving]\n[On Play] [When Digivolving] [When Attacking] [Counter] [Once Per Turn]",
+  "cardEffects": "＜Security A. +1＞ (This Digimon checks 1 additional security card.)\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Play] [When Digivolving] By placing 2 cards with  [Gammamon] in their texts or the [VB] trait from your hand or trash as 1 of your Digimon's top or bottom digivolution cards, delete 1 of your opponent's Digimon or Tamers.\n[On Play] [When Digivolving] [When Attacking] [Counter] [Once Per Turn] You may play or use 1 play or use cost 10 or lower card with [Gammamon] in its text or the [VB] trait from any of your Digimon's digivolution cards without paying the cost.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
@@ -25,8 +25,19 @@
   ],
   "dp": "15000 DP",
   "form": "Mega",
-  "galleryImages": {},
-  "image": null,
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-12:_EXTRA_BOOSTER_DIGITAL_WORLD_SHAMBALA",
+        "captionText": "EX-12: EXTRA BOOSTER DIGITAL WORLD SHAMBALA (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX12-077-Sample.png",
+        "imgName": "EX12-077-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/76/EX12-077-Sample.png/revision/latest?cb=20260611123251",
+        "uploadDate": "2026-06-11T12:32:51"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/76/EX12-077-Sample.png/revision/latest?cb=20260611123251",
   "level": "7",
   "name": "Proximamon",
   "nameJapanese": "プロキシマモン",
