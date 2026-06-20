@@ -1,0 +1,79 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": "Yes, they can suspend.",
+      "date": "May. 8, 2026",
+      "num": "Q6350",
+      "q": "Can I use this card's [On Play] [When Digivolving] effect to suspend either my Digimon or my opponent's Digimon?"
+    },
+    {
+      "a": "This effect prevents a card from being affected by effects.  For example, your Digimon won't suspend if it's chosen for a \"suspend 1 of your opponent's Digimon\" effect, and its DP won't be reduced by 3000 if it's chosen for a \"1 of your opponent's Digimon gets -3000 DP\" effect.",
+      "date": "May. 8, 2026",
+      "num": "Q6351",
+      "q": "What does \"effects don't affect\" mean, exactly?"
+    },
+    {
+      "a": "Yes, it can be chosen.  For example, a Digimon that isn't affected by effects can be chosen for a \"suspend 1 of your opponent's Digimon\" effect.",
+      "date": "May. 8, 2026",
+      "num": "Q6352",
+      "q": "Can a card that has an \"effects don't affect\" effect be chosen for an effect?"
+    },
+    {
+      "a": "Yes, it can.  It won't be affected by it, but it can be given an effect.  However, if an effect such as  is given to a Digimon that isn't affected by effects, the Digimon won't be considered to have that effect.",
+      "date": "May. 8, 2026",
+      "num": "Q6353",
+      "q": "Can a card that has an \"effects don't affect\" effect be given an effect?"
+    },
+    {
+      "a": "As soon as it gains the \"effects don't affect\" effect, it will no longer be affected.",
+      "date": "May. 8, 2026",
+      "num": "Q6354",
+      "q": "If a card is affected by an effect, then it later gains an \"effects don't affect\" effect, what happens to the effect that was affecting it?"
+    },
+    {
+      "a": "It will be affected by the effect as soon as it can be affected by effects.",
+      "date": "May. 8, 2026",
+      "num": "Q6355",
+      "q": "If a card has an \"effects don't affect\" effect, it gains an effect, then it later loses the \"effects don't affect\" effect, what happens to the effect that it gained?"
+    },
+    {
+      "a": "If the Digimon isn't affected by effects upon the trigger timing, the effect won't trigger.",
+      "date": "May. 8, 2026",
+      "num": "Q6356",
+      "q": "A card that has an \"effects don't affect\" effect was given an effect that triggers at a timing such as [When Attacking].  Will the effect trigger if that card later meets the trigger conditions?"
+    }
+  ],
+  "Color": [
+    "Green",
+    "Yellow"
+  ],
+  "Cost": "12",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Green",
+    "Yellow",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "When this card would be played, if there are 2 or more suspended Digimon, reduce the cost by 5.",
+    "[On Play] [When Digivolving] You may suspend up to 2 Digimon. Then, none of your suspended [Vegetation] or [TS] trait Digimon are affected by your opponent's Digimon effects until their turn ends.",
+    "[All Turns] [Once Per Turn] When any Digimon suspend, to 1 of your opponent's Digimon, give -3000 DP until their turn ends for each suspended Digimon.",
+    "(Rule) Trait: Has [Vegetation] Type."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster DUAL REVOLUTION [BT-25]",
+    "?search=true&category=522036",
+    "/products/pack/ver25"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.5 w/[Vegetation]/[TS] trait: Cost 3",
+  "Type": "Shaman/Olympos XII/Iliad/TS",
+  "cardLv": "Lv.6",
+  "cardNo": "BT25-059",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "Ceresmon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT25-059_P1.png?260529"
+}

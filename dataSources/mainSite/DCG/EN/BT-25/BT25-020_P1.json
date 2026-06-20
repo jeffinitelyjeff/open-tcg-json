@@ -1,0 +1,90 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "This effect directly performs a battle.  If this effect is activated, the chosen Digimon battle, as with the standard rules.",
+      "date": "May. 8, 2026",
+      "num": "Q6278",
+      "q": "What does \"may battle\" mean, exactly?"
+    },
+    {
+      "a": "Yes, they can battle.  A card that has an \"effects don't affect\" effect can still be chosen for an effect. In addition, a battle itself is a rule that compares DP, not an effect. Therefore, a Digimon that isn't affected by effects can be chosen, and then it can battle.  If it loses the battle, it will be deleted as normal according to the rules.",
+      "date": "May. 8, 2026",
+      "num": "Q6279",
+      "q": "If 2 Digimon including a Digimon that has an \"effects don't affect\" effect are chosen for a \"may battle\" effect, can those Digimon battle?"
+    },
+    {
+      "a": "No, you only perform 1 security check for .  Only 1 security check can be performed during a single attack, even if  activates multiple times.  However, if the number of checks is modified by , that number of cards will be checked in a single security check.",
+      "date": "May. 8, 2026",
+      "num": "Q6280",
+      "q": "During an attack by my Digimon with , I activate this card's [On Play] [When Digivolving] [When Attacking] effect, the attacking Digimon and an opponent's Digimon battle, and my opponent's Digimon was deleted in battle.  Then, if the attack target successfully becomes an opponent's Digimon and it's also deleted in battle, do I use that Digimon's  to perform 2 checks?"
+    },
+    {
+      "a": "Yes, you can.   is an effect that triggers and activates if an opponent's Digimon is deleted in battle during the attack, and it's processed immediately before the end of attack timing.   will still trigger if the Digimon with  successfully attacks a Digimon, even if another battle occurs during this battle.",
+      "date": "May. 8, 2026",
+      "num": "Q6281",
+      "q": "During an attack by my Digimon with , I use this card's [On Play] [When Digivolving] [When Attacking] effect to have that Digimon and an opponent's Digimon battle, and my opponent's Digimon was deleted in battle.  Then, if the attack target successfully becomes an opponent's Digimon, it loses the battle, but an effect prevents it from being deleted, can I still activate that Digimon's ?"
+    },
+    {
+      "a": "It triggers when the battle is won.  When the Digimon with this effect wins a battle, the opponent's Digimon that lost the battle is deleted, then the \"when this Digimon wins a battle\" effect can be activated.",
+      "date": "May. 8, 2026",
+      "num": "Q6282",
+      "q": "When does \"when this Digimon wins a battle\" trigger?"
+    },
+    {
+      "a": "Yes, it triggers.",
+      "date": "May. 8, 2026",
+      "num": "Q6283",
+      "q": "Does a \"when this Digimon wins a battle\" effect also trigger when a battle against a Security Digimon is won?"
+    },
+    {
+      "a": "They trigger simultaneously, so the turn player can activate their effects first.",
+      "date": "May. 8, 2026",
+      "num": "Q6284",
+      "q": "A Digimon with a \"when this Digimon wins a battle\" effect won a battle, and the opponent's Digimon that lost the battle is deleted.  At such times, in what order can players activate the \"when this Digimon wins a battle\" effect and the effects that trigger upon the losing Digimon being deleted?"
+    },
+    {
+      "a": "The \"when this Digimon would be deleted\" and \"when this Digimon would leave the battle area\" effects can be activated first.",
+      "date": "May. 8, 2026",
+      "num": "Q6285",
+      "q": "A Digimon with a \"when this Digimon wins a battle\" effect won a battle, and the opponent's Digimon lost the battle.  At such times, in what order can players activate the \"when this Digimon wins a battle\" effect and the loser Digimon's effects such as \"when this Digimon would be deleted\" and \"when this Digimon would leave the battle area\" effects?"
+    },
+    {
+      "a": "Yes, it can be activated.",
+      "date": "May. 8, 2026",
+      "num": "Q6286",
+      "q": "A Digimon with a \"when this Digimon wins a battle\" effect won a battle, and the opponent's Digimon lost the battle.  At such times, can the \"when this Digimon wins a battle\" effect be activated even if an effect prevents the opponent's Digimon from being deleted?"
+    }
+  ],
+  "Color": [
+    "Red",
+    "Green"
+  ],
+  "Cost": "12",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Red",
+    "Green",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "When this card would be played, if there is a Digimon with 13000 DP or more, reduce the cost by 5.",
+    "[On Play] [When Digivolving] [When Attacking] 1 of your Digimon gets +3000 DP for the turn. Then, 1 of your Digimon may battle 1 of your opponent's Digimon.",
+    "[All Turns] [Once Per Turn] When any of your [TS] trait Digimon win a battle, trash your opponent's top security card."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster DUAL REVOLUTION [BT-25]",
+    "?search=true&category=522036",
+    "/products/pack/ver25"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.5 w/[TS] trait: Cost 3",
+  "Type": "Shaman/Olympos XII/Iliad/TS",
+  "cardLv": "Lv.6",
+  "cardNo": "BT25-020",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "Marsmon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT25-020_P1.png?260529"
+}

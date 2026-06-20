@@ -1,0 +1,47 @@
+{
+  "Card Q&A": [
+    {
+      "a": "It refers to when the memory gauge is at 4 or further to the right on your side.",
+      "date": "May. 8, 2026",
+      "num": "Q6405",
+      "q": "What position on the memory gauge does \"while you have 4 or less memory\" refer to?"
+    },
+    {
+      "a": "It adds 5000 DP.",
+      "date": "May. 8, 2026",
+      "num": "Q6406",
+      "q": "How much DP does this card's [End of Your Turn] effect add when my opponent has 5 memory?"
+    },
+    {
+      "a": "No, you can't.  If you don't suspend this Tamer, you can't process the part after \"after\" in its [End of Your Turn] effect.",
+      "date": "May. 8, 2026",
+      "num": "Q6407",
+      "q": "Can I process the part of the effect after \"after\" in this card's [End of Your Turn] effect without meeting the \"by\" condition?"
+    },
+    {
+      "a": "No, an attack using the 2nd effect isn't possible. A new attack declaration can't be made during an attack.  In this case, the [End of Your Turn] effects on both copies of this card trigger simultaneously at the end of your turn, and you use the [End of Your Turn] effect on the 1st copy of this card to attack.  The 2nd [End of Your Turn] effect can be activated before the counter timing, but because you can't declare another attack during an attack, you won't be able to attack using the 2nd effect, even if you activate it.",
+      "date": "May. 8, 2026",
+      "num": "Q6408",
+      "q": "I have 2 copies of this card in the battle area.  At the end of my turn, I used the [End of Your Turn] effect on the 1st copy of this card to attack. Can I then use the [End of Your Turn] effect on the 2nd copy of this card to attack?"
+    }
+  ],
+  "Color": "Red",
+  "Cost": "3",
+  "Effect": [
+    "[Start of Your Main Phase] If you have 4 or less memory, gain 1 memory.",
+    "[End of Your Turn] By suspending this Tamer, 1 of your [TS] trait Digimon gets +1000 DP for the turn for each memory your opponent has. After, that Digimon may attack."
+  ],
+  "Notes": [
+    "Booster DUAL REVOLUTION [BT-25]",
+    "?search=true&category=522036",
+    "/products/pack/ver25"
+  ],
+  "Security Effect": "[Security] Play this card without paying the cost.",
+  "Type": "ADAMAS/TS",
+  "cardNo": "BT25-086",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "R",
+  "cardTitle": "Dan Yuki",
+  "cardType": "Tamer",
+  "imgSrc": "../images/cardlist/card/BT25-086_P1.png?260529"
+}

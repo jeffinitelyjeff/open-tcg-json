@@ -1,0 +1,65 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "It triggers when the battle is won.  When the Digimon with this effect wins a battle, the opponent's Digimon that lost the battle is deleted, then the \"when this Digimon wins a battle\" effect can be activated.",
+      "date": "May. 8, 2026",
+      "num": "Q6323",
+      "q": "When does \"when this Digimon wins a battle\" trigger?"
+    },
+    {
+      "a": "Yes, it triggers.",
+      "date": "May. 8, 2026",
+      "num": "Q6324",
+      "q": "Does a \"when this Digimon wins a battle\" effect also trigger when a battle against a Security Digimon is won?"
+    },
+    {
+      "a": "They trigger simultaneously, so the turn player can activate their effects first.",
+      "date": "May. 8, 2026",
+      "num": "Q6325",
+      "q": "A Digimon with a \"when this Digimon wins a battle\" effect won a battle, and the opponent's Digimon that lost the battle is deleted.  At such times, in what order can players activate the \"when this Digimon wins a battle\" effect and the effects that trigger upon the losing Digimon being deleted?"
+    },
+    {
+      "a": "The \"when this Digimon would be deleted\" and \"when this Digimon would leave the battle area\" effects can be activated first.",
+      "date": "May. 8, 2026",
+      "num": "Q6326",
+      "q": "A Digimon with a \"when this Digimon wins a battle\" effect won a battle, and the opponent's Digimon lost the battle.  At such times, in what order can players activate the \"when this Digimon wins a battle\" effect and the loser Digimon's effects such as \"when this Digimon would be deleted\" and \"when this Digimon would leave the battle area\" effects?"
+    },
+    {
+      "a": "Yes, it can be activated.",
+      "date": "May. 8, 2026",
+      "num": "Q6327",
+      "q": "A Digimon with a \"when this Digimon wins a battle\" effect won a battle, and the opponent's Digimon lost the battle.  At such times, can the \"when this Digimon wins a battle\" effect be activated even if an effect prevents the opponent's Digimon from being deleted?"
+    }
+  ],
+  "Color": [
+    "Green",
+    "Black"
+  ],
+  "Cost": "4",
+  "DP": "4000",
+  "Digivolve Cost 1": [
+    "Green",
+    "Black",
+    "3 from Lv.3"
+  ],
+  "Effect": [
+    "＜Blocker＞",
+    "[On Play] [When Digivolving] 1 of your Digimon with [Beast], [Animal] or [Sovereign], other than [Sea Animal], in any of its traits or the [Shaman] or [TS] trait gets +3000 DP until your opponent's turn ends."
+  ],
+  "Form": "Champion",
+  "Inherited Effect": "[All Turns] [Once Per Turn] When this Digimon wins a battle, ＜Draw 1＞.",
+  "Notes": [
+    "Booster DUAL REVOLUTION [BT-25]",
+    "?search=true&category=522036",
+    "/products/pack/ver25"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.3 w/[TS] trait: Cost 2",
+  "Type": "Beast/Iliad/TS",
+  "cardLv": "Lv.4",
+  "cardNo": "BT25-051",
+  "cardRarity": "C",
+  "cardTitle": "Grizzlymon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT25-051.png?260529"
+}

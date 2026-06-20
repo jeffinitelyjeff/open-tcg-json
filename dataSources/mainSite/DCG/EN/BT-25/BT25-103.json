@@ -1,0 +1,84 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "The effects trigger simultaneously, so the player can choose the activation order.",
+      "date": "May. 8, 2026",
+      "num": "Q6488",
+      "q": "Multiple effects trigger when this card attacks. In what order do they activate?"
+    },
+    {
+      "a": "Yes, you can.\n                                            \n                        Related Cards",
+      "date": "May. 8, 2026",
+      "num": "Q6489",
+      "q": "An opponent's Digimon attacks, and its [When Attacking] effect causes a Digimon to be played by an effect.  I then activate the [All Turns] effect on my BT25-028 [Dianamon] and DNA digivolve into this card.  Can I activate this card's [When Attacking] [Counter] effect during the counter timing after that?",
+      "relatedCards": [
+        "BT25-028"
+      ]
+    },
+    {
+      "a": "Yes, you can.  However, if there is an [End of Attack] effect, it will be a derived triggering effect, therefore that effect will activate before the [When Digivolving] [When Attacking] effect.",
+      "date": "May. 8, 2026",
+      "num": "Q6490",
+      "q": "This card attacks, and its [When Digivolving] [When Attacking] effect and [When Attacking] [Counter] effect trigger simultaneously.  If I activate the [When Attacking] [Counter] effect first and end this attack, can I then activate the [When Digivolving] [When Attacking] effect?"
+    },
+    {
+      "a": "After this effect activates, the current timing makes a transition to the end of attack timing. For example, if this effect activates during the counter timing, the counter timing makes a transition to the end of attack timing. A transition to the block timing won't occur, and the attack won't succeed.",
+      "date": "May. 8, 2026",
+      "num": "Q6491",
+      "q": "What does \"end the attack\" mean, exactly?"
+    },
+    {
+      "a": "Yes, such attacks can be ended. \"End the attack\" effects are effects that change the timing, they don't affect an attacking Digimon.",
+      "date": "May. 8, 2026",
+      "num": "Q6492",
+      "q": "Can an \"end the attack\" effect end an attack by a Digimon that isn't affected by effects?"
+    },
+    {
+      "a": "Yes, it triggers.",
+      "date": "May. 8, 2026",
+      "num": "Q6493",
+      "q": "If an attack is ended by an \"end the attack\" effect, do [End of Attack] effects still trigger?"
+    },
+    {
+      "a": "No. Only one [Counter] effect can be activated per an attack.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6717",
+      "q": "After activating this card's [Counter] effect, can I activate another [Counter] effect?"
+    }
+  ],
+  "Color": [
+    "Red",
+    "Blue"
+  ],
+  "Cost": "15",
+  "DP": "15000",
+  "Digivolve Cost 1": [
+    "Red",
+    "Blue",
+    "5 from Lv.6"
+  ],
+  "Effect": [
+    "＜Security A. +1＞ ＜Iceclad＞ ＜Partition ([Apollomon] & [Dianamon])＞",
+    "[When Digivolving] [When Attacking] Return 1 of your opponent's Digimon with as many or fewer digivolution cards as this Digimon to the bottom of the deck.",
+    "[When Attacking] [Counter] [Once Per Turn] For each of this Digimon's digivolution cards, you may trash any 1 digivolution card from your opponent's Digimon. Then, you may end this attack.",
+    "(Rule) Trait: Has [Olympos XII]."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster DUAL REVOLUTION [BT-25]",
+    "?search=true&category=522036",
+    "/products/pack/ver25"
+  ],
+  "Special Digivolution Condition": [
+    "[Digivolve] Lv.6 w/[TS] trait: Cost 5",
+    "[DNA Digivolve] Red Lv.6 + Blue Lv.6: Cost 0"
+  ],
+  "Type": "Galaxy/Iliad/TS",
+  "cardLv": "Lv.7",
+  "cardNo": "BT25-103",
+  "cardRarity": "SEC",
+  "cardTitle": "GraceNovamon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT25-103.png?260529"
+}

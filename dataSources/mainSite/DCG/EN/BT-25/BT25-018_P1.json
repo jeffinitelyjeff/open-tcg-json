@@ -1,0 +1,55 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "No, it isn't deleted yet.  Once all of the processing for the activated effect has resolved, a rule check will occur, then all of the Digimon with 0 DP are deleted at the same time.",
+      "date": "May. 8, 2026",
+      "num": "Q6267",
+      "q": "This card's effect caused the DP of my opponent's Digimon to become 0.  At such times, is the Digimon with a DP of zero deleted?"
+    },
+    {
+      "a": "Yes, it can attack.",
+      "date": "May. 8, 2026",
+      "num": "Q6268",
+      "q": "After DNA digivolving, can the DNA digivolved Digimon attack using this card's [End of Your Turn] effect?"
+    },
+    {
+      "a": "Yes, it can attack.",
+      "date": "May. 8, 2026",
+      "num": "Q6269",
+      "q": "If I choose to not use this card's [End of Your Turn] effect to DNA digivolve, can I still use it to have 1 of my Digimon attack?"
+    }
+  ],
+  "Color": [
+    "Red",
+    "Yellow"
+  ],
+  "Cost": "12",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Red",
+    "Yellow",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "When this card would be played, if your opponent has a Digimon with 12000 DP or more, reduce the cost by 5.",
+    "[On Play] [When Digivolving] For the turn, all of your opponent's Digimon get -2000 DP for each of your Digimon. Then, delete 1 of their Digimon with as much DP as this Digimon or less.",
+    "[End of Your Turn] 2 of your Digimon may DNA digivolve into [GraceNovamon] in the hand. Then, 1 of your Digimon may attack."
+  ],
+  "Form": "Mega",
+  "Inherited Effect": "[When Attacking] [Once Per Turn] Delete 1 of your opponent's Digimon with as much DP as this Digimon or less.",
+  "Notes": [
+    "Booster DUAL REVOLUTION [BT-25]",
+    "?search=true&category=522036",
+    "/products/pack/ver25"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.5 w/[TS] trait: Cost 3",
+  "Type": "Shaman/Olympos XII/Iliad/TS",
+  "cardLv": "Lv.6",
+  "cardNo": "BT25-018",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "Apollomon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT25-018_P1.png?260529"
+}

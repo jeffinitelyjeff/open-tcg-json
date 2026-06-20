@@ -1,0 +1,45 @@
+{
+  "Attribute": "Free",
+  "Card Q&A": [
+    {
+      "a": "[Security] effects take precedence for activation.  Upon a check, a [Security] effect will immediately activate without pending activation.  For other triggered effects, the turn player activates their effects first.",
+      "date": "May. 8, 2026",
+      "num": "Q6305",
+      "q": "In what order do a [Security] effect, \"when [...] performs a security check\" effect, and \"when a card is removed from [...] security stack\" effect activate when they trigger simultaneously upon a security check?"
+    }
+  ],
+  "Color": [
+    "Yellow",
+    "Black"
+  ],
+  "Cost": "8",
+  "DP": "8000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "Black",
+    "4 from Lv.4"
+  ],
+  "Effect": [
+    "[On Play] [When Digivolving] You may place 1 [Angel], [Archangel], [Three Great Angels] or [Iliad] trait Digimon card from your hand or your Digimon's digivolution cards as the top or bottom security card. Then, if DNA digivolving, trash both players' top security cards.",
+    "[All Turns] [Once Per Turn] When your security stack is added to, ＜De-Digivolve 1＞ 1 of your opponent's Digimon.",
+    "(Rule) Trait: Has [Angel] Type."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "[All Turns] [Once Per Turn] When your security stack is removed from, 1 of your opponent's Digimon gets -4000 DP for the turn.",
+  "Notes": [
+    "Booster DUAL REVOLUTION [BT-25]",
+    "?search=true&category=522036",
+    "/products/pack/ver25"
+  ],
+  "Special Digivolution Condition": [
+    "[Digivolve] Lv.4 w/[TS] trait: Cost 3",
+    "[DNA Digivolve] Yellow Lv.4 + blue/black Lv.4: Cost 0"
+  ],
+  "Type": "Mutant/Iliad/TS",
+  "cardLv": "Lv.5",
+  "cardNo": "BT25-038",
+  "cardRarity": "C",
+  "cardTitle": "Shakkoumon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT25-038.png?260529"
+}

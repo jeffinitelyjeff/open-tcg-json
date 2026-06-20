@@ -1,0 +1,70 @@
+{
+  "Card Q&A": [
+    {
+      "a": "No, you can't.  If you don't trash 1 [TS] trait card from your hand, you can't process the part after \"after\" in this card's [Main] effect.",
+      "date": "May. 8, 2026",
+      "num": "Q6475",
+      "q": "Can I process the part of the effect after \"after\" in this card's [Main] effect without meeting the \"by\" condition?"
+    },
+    {
+      "a": "It's considered a Digimon effect.",
+      "date": "May. 8, 2026",
+      "num": "Q6476",
+      "q": "This card is linked to a Digimon.  If this card activates a link effect, is that effect considered a Digimon effect or an Option card effect?"
+    },
+    {
+      "a": "Yes, you can link it.  Linking a card isn't the same as using an Option card, therefore a card can still get linked when you can't use Option cards.",
+      "date": "May. 8, 2026",
+      "num": "Q6477",
+      "q": "Due to an effect, I can't use an Option card.  Can I pay this card's link cost and link to one of my Digimon?"
+    },
+    {
+      "a": "Yes, you can also link to a Digimon in the breeding area.",
+      "date": "May. 8, 2026",
+      "num": "Q6478",
+      "q": "Can I also use this card's [Main] effect to link to a Digimon in the breeding area?"
+    },
+    {
+      "a": "No, you can't.",
+      "date": "May. 8, 2026",
+      "num": "Q6479",
+      "q": "Can I use this card's [Main] effect to link a card that doesn't have ?"
+    },
+    {
+      "a": "Yes, you can.  However, a Digimon without DP won't be considered to have DP from link DP.",
+      "date": "May. 8, 2026",
+      "num": "Q6480",
+      "q": "Can I use a \"you may link this card to 1 of your Digimon on the field without paying the cost\" effect to link to a Digimon even if it doesn't have DP and is in the breeding area?"
+    },
+    {
+      "a": "No, you can't.  The [All Turns] effect in this card's link effects triggers and activates immediately before both Digimon lose the battle and would be deleted.   is lost when your opponent's Digimon is deleted, therefore you can't activate it.",
+      "date": "May. 8, 2026",
+      "num": "Q6481",
+      "q": "A card that has  in its link effects and this card got linked to my Digimon that has .  That Digimon attacked my opponent's Digimon, but both Digimon had the same DP and both lost the battle.  At such times, if I activate the [All Turns] effect in this card's link effects immediately before my Digimon would be deleted and trash the card that has  in its link effects, only the opponent's Digimon would be deleted in battle, but can I activate  in those link effects?"
+    }
+  ],
+  "Color": "Black",
+  "Cost": "3",
+  "Effect": [
+    "＜Use Req. ([TS] trait)＞ (Specified cards let you ignore color requirements.)",
+    "[Security] Activate this card's [Main] effects.",
+    "[Main] By trashing 1 [TS] trait card from your hand, ＜Draw 2＞. After, you may link this card or 1 [TS] trait card from your trash to 1 of your Digimon on the field without paying the cost."
+  ],
+  "Link Condition": "＜Link＞ [Vulcanusmon]: Cost 3 (Plug this card from the hand or battle area sideways into the specified Digimon in the battle area.)",
+  "Link DP": "DP+4000",
+  "Link Effect": [
+    "＜Security A. +1＞ ＜Reboot＞",
+    "[All Turns] When this [Vulcanusmon] would leave the battle area, by trashing 1 of its link cards, it doesn't leave."
+  ],
+  "Notes": [
+    "Booster DUAL REVOLUTION [BT-25]",
+    "?search=true&category=522036",
+    "/products/pack/ver25"
+  ],
+  "Type": "TS",
+  "cardNo": "BT25-101",
+  "cardRarity": "C",
+  "cardTitle": "Divine Arms Version Ω",
+  "cardType": "Option",
+  "imgSrc": "../images/cardlist/card/BT25-101.png?260529"
+}

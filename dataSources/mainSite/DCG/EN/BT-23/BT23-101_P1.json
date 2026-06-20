@@ -2,10 +2,10 @@
   "Attribute": "Free",
   "Card Q&A": [
     {
-      "a": "No, it can't. Even if a card digivolves from a card that was placed on the field in the same turn, it can't attack during that turn. It can only attack in the turns after it's played.",
-      "date": "Oct. 3, 2025",
+      "a": "No, it can't.  Even if a card digivolves from a card that was placed on the field in the same turn, it can't attack during that turn. It can only attack in the turns after it's played.",
+      "date": "Jun. 19, 2026",
       "num": "Q5389",
-      "q": "If this Digimon digivolves from a [Erika Mishima] that was played this turn, can it attack in the same turn?"
+      "q": "If this card digivolves from a Tamer that was played this turn, can it attack in the same turn?"
     },
     {
       "a": "No, you can't. You choose 1 of your opponent's Digimon, then that Digimon's DP is reduced by this card's [On Play] [When Digivolving] effect.",
@@ -24,6 +24,36 @@
       "date": "Dec. 25, 2025",
       "num": "Q5573",
       "q": "All of my Digimon get -5000 DP. I used this card's [On Play] [When Digivolving] effect to play a Digimon with 5000 DP or less. At such times, is the played Digimon deleted before the part of the effect after \"then\"?"
+    },
+    {
+      "a": "No. Digivolve from the Tamer as such, and do not treat it as if it is a digivolving Digimon. \"When digivolving\" effects and \"when a Digimon digivolves\" effects don't trigger.Additionally, if a \"Digimon can't digivolve\" effect has activated, you can still digivolve from a Tamer with this digivolve requirement.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6708",
+      "q": "Does the digivolution requirement that this card digivolve from a Tamer mean the Tamer that becomes a digivolution card is treated as if it is a Digimon when digivolving?"
+    },
+    {
+      "a": "Yes, you do.A digivolution bonus draw is performed for any kind of digivolution.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6709",
+      "q": "Do I perform a digivolution bonus draw even if I digivolve from a Tamer?"
+    },
+    {
+      "a": "Yes, it is.If the Digimon leaves the field, that Tamer is trashed like normal digivolution cards.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6710",
+      "q": "Is a Tamer card placed under a Digimon considered a digivolution card?"
+    },
+    {
+      "a": "No, it does not.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6711",
+      "q": "Does a Digimon gain the security effects in the lower text of a Tamer card in its digivolution cards?"
+    },
+    {
+      "a": "Yes, it does.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6712",
+      "q": "Does a Digimon gain the inherited effects in the lower text of a Tamer card in its digivolution cards?"
     }
   ],
   "Color": [

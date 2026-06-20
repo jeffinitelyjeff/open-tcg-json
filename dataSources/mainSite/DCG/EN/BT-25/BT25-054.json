@@ -1,0 +1,78 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "You can give that effect to such Digimon, but if the Digimon isn't affected by effects upon the trigger timing, the gained effect won't trigger.",
+      "date": "May. 8, 2026",
+      "num": "Q6331",
+      "q": "Can I use this card's [On Play] [When Digivolving] effect to give \"[Start of Your Main Phase] This Digimon attacks\" to a Digimon that isn't affected by effects?"
+    },
+    {
+      "a": "It triggers when the battle is won.  When the Digimon with this effect wins a battle, the opponent's Digimon that lost the battle is deleted, then the \"when this Digimon wins a battle\" effect can be activated.",
+      "date": "May. 8, 2026",
+      "num": "Q6332",
+      "q": "When does \"when this Digimon wins a battle\" trigger?"
+    },
+    {
+      "a": "Yes, it triggers.",
+      "date": "May. 8, 2026",
+      "num": "Q6333",
+      "q": "Does a \"when this Digimon wins a battle\" effect also trigger when a battle against a Security Digimon is won?"
+    },
+    {
+      "a": "They trigger simultaneously, so the turn player can activate their effects first.",
+      "date": "May. 8, 2026",
+      "num": "Q6334",
+      "q": "A Digimon with a \"when this Digimon wins a battle\" effect won a battle, and the opponent's Digimon that lost the battle is deleted.  At such times, in what order can players activate the \"when this Digimon wins a battle\" effect and the effects that trigger upon the losing Digimon being deleted?"
+    },
+    {
+      "a": "The \"when this Digimon would be deleted\" and \"when this Digimon would leave the battle area\" effects can be activated first.",
+      "date": "May. 8, 2026",
+      "num": "Q6335",
+      "q": "A Digimon with a \"when this Digimon wins a battle\" effect won a battle, and the opponent's Digimon lost the battle.  At such times, in what order can players activate the \"when this Digimon wins a battle\" effect and the loser Digimon's effects such as \"when this Digimon would be deleted\" and \"when this Digimon would leave the battle area\" effects?"
+    },
+    {
+      "a": "Yes, it can be activated.",
+      "date": "May. 8, 2026",
+      "num": "Q6336",
+      "q": "A Digimon with a \"when this Digimon wins a battle\" effect won a battle, and the opponent's Digimon lost the battle.  At such times, can the \"when this Digimon wins a battle\" effect be activated even if an effect prevents the opponent's Digimon from being deleted?"
+    },
+    {
+      "a": "No, you can't activate it.",
+      "date": "May. 8, 2026",
+      "num": "Q6337",
+      "q": "Can I activate this card's inherited effect even if my opponent's Digimon and the Digimon that has this card in its digivolution cards are deleted at the same timing?"
+    }
+  ],
+  "Color": [
+    "Green",
+    "Black"
+  ],
+  "Cost": "8",
+  "DP": "7000",
+  "Digivolve Cost 1": [
+    "Green",
+    "Black",
+    "4 from Lv.4"
+  ],
+  "Effect": [
+    "＜Blocker＞",
+    "[On Play] [When Digivolving] Give 1 of your opponent's Digimon \"[Start of Your Main Phase] This Digimon attacks.\" until their turn ends.",
+    "[All Turns] When this Digimon wins a battle, it may digivolve into [Callismon] or [Marsmon] in the hand without paying the cost."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "[All Turns] [Once Per Turn] When this Digimon deletes your opponent's Digimon in battle, trash their top security card.",
+  "Notes": [
+    "Booster DUAL REVOLUTION [BT-25]",
+    "?search=true&category=522036",
+    "/products/pack/ver25"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.4 w/[TS] trait: Cost 3",
+  "Type": "Beastkin/Iliad/TS",
+  "cardLv": "Lv.5",
+  "cardNo": "BT25-054",
+  "cardRarity": "R",
+  "cardTitle": "GreatGrizzlymon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT25-054.png?260529"
+}

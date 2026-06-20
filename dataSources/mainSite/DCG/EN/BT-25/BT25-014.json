@@ -1,0 +1,46 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": "Yes, you can.",
+      "date": "May. 8, 2026",
+      "num": "Q6258",
+      "q": "Can I activate this card's [Main] effect even when my opponent doesn't have any Digimon that can be deleted?"
+    },
+    {
+      "a": "No, you can't.  If your opponent has a Digimon with 4000 DP or less, you must choose that card and delete it.",
+      "date": "May. 8, 2026",
+      "num": "Q6259",
+      "q": "My opponent has a Digimon with 4000 DP or less.  Can I meet the \"if this effect didn't delete\" condition in this card's [Main] effect by not choosing a card to delete?"
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "May. 8, 2026",
+      "num": "Q6260",
+      "q": "My opponent has a Digimon with 4000 DP or less.  Can I meet the \"if this effect didn't delete\" condition in this card's [Main] effect by choosing an opponent's Digimon with an effect that prevents deletion and 4000 DP or less?"
+    }
+  ],
+  "Color": "Red",
+  "Cost": "4",
+  "DP": "5000",
+  "Digivolve Cost 1": [
+    "Red",
+    "2 from Lv.3"
+  ],
+  "Effect": "[Main] [Once Per Turn] By trashing 1 [Flame] or [TS] trait card from your hand, delete 1 of your opponent's Digimon with 4000 DP or less. If this effect didn't delete, ＜Draw 2＞.",
+  "Form": "Champion",
+  "Inherited Effect": "[When Attacking] Delete 1 of your opponent's Digimon with 4000 DP or less.",
+  "Notes": [
+    "Booster DUAL REVOLUTION [BT-25]",
+    "?search=true&category=522036",
+    "/products/pack/ver25"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.3 w/[Flame]/[TS] trait: Cost 2",
+  "Type": "Flame/Iliad/TS",
+  "cardLv": "Lv.4",
+  "cardNo": "BT25-014",
+  "cardRarity": "C",
+  "cardTitle": "Meramon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT25-014.png?260529"
+}

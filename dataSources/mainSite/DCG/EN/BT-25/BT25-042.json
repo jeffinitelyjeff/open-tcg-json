@@ -1,0 +1,41 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "[Security] effects take precedence for activation.  Upon a check, a [Security] effect will immediately activate without pending activation.  For other triggered effects, the turn player activates their effects first.",
+      "date": "May. 8, 2026",
+      "num": "Q6311",
+      "q": "In what order do a [Security] effect, \"when [...] performs a security check\" effect, and \"when a card is removed from [...] security stack\" effect activate when they trigger simultaneously upon a security check?"
+    }
+  ],
+  "Color": [
+    "Yellow",
+    "Black"
+  ],
+  "Cost": "12",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "Black",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "[On Play] [When Digivolving] [When Attacking] [Once Per Turn] By trashing your top or bottom security card, your opponent's Digimon effects don't affect this Digimon until their turn ends.",
+    "[All Turns] [Once Per Turn] When your security stack is removed from, you may play 1 level 4 or lower [Angel] or [Iliad] trait card from your hand without paying the cost. Then, 2 of your Digimon gain ＜Reboot＞ and ＜Blocker＞ until your opponent's turn ends.",
+    "(Rule) Trait: Has [Angel] Type."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster DUAL REVOLUTION [BT-25]",
+    "?search=true&category=522036",
+    "/products/pack/ver25"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.5 w/[Angel]/[Archangel]/[TS] trait: Cost 3",
+  "Type": "Virtue/Iliad/TS",
+  "cardLv": "Lv.6",
+  "cardNo": "BT25-042",
+  "cardRarity": "R",
+  "cardTitle": "ClavisAngemon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT25-042.png?260529"
+}

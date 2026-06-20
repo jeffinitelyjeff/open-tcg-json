@@ -1,0 +1,48 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "No, even if this effect didn't suspend the target, it can still give it \"can't unsuspend.\"",
+      "date": "May. 8, 2026",
+      "num": "Q6329",
+      "q": "If this card's [On Play] [When Digivolving] effect couldn't suspend a Digimon, does that mean it can't give that Digimon \"can't unsuspend\"?"
+    },
+    {
+      "a": "[Security] effects take precedence for activation.  Upon a check, a [Security] effect will immediately activate without pending activation.  For other triggered effects, the turn player activates their effects first.",
+      "date": "May. 8, 2026",
+      "num": "Q6330",
+      "q": "In what order do a [Security] effect, \"when [...] performs a security check\" effect, and \"when a card is removed from [...] security stack\" effect activate when they trigger simultaneously upon a security check?"
+    }
+  ],
+  "Color": [
+    "Green",
+    "Red"
+  ],
+  "Cost": "8",
+  "DP": "8000",
+  "Digivolve Cost 1": [
+    "Green",
+    "Red",
+    "4 from Lv.4"
+  ],
+  "Effect": [
+    "＜Vortex＞ ＜Decode ([Aegiomon])＞",
+    "[On Play] [When Digivolving] Suspend 1 of your opponent's Digimon or Tamers. It can't unsuspend until their turn ends. Then, if you have 3 or fewer security cards, this Digimon gains ＜Piercing＞ and +5000 DP for the turn.",
+    "(Rule) Trait: Has [Vegetation] Type."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "[All Turns] [Once Per Turn] When your security stack is removed from, you may suspend 1 of your opponent's Digimon or Tamers.",
+  "Notes": [
+    "Booster DUAL REVOLUTION [BT-25]",
+    "?search=true&category=522036",
+    "/products/pack/ver25"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [Aegiomon]: Cost 3",
+  "Type": "Shaman/Iliad/TS",
+  "cardLv": "Lv.5",
+  "cardNo": "BT25-053",
+  "cardRarity": "R",
+  "cardTitle": "Aegiochusmon: Green",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT25-053.png?260529"
+}

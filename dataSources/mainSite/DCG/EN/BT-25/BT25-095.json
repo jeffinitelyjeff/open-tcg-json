@@ -1,0 +1,62 @@
+{
+  "Card Q&A": [
+    {
+      "a": "Yes, it's met.",
+      "date": "May. 8, 2026",
+      "num": "Q6450",
+      "q": "Is the \"while you have no face-up security cards\" condition met when I have 0 cards in my security stack?"
+    },
+    {
+      "a": "Yes, you can.  In such cases, you can't add a card from your security stack to your hand, therefore you only place this card in your security stack.",
+      "date": "May. 8, 2026",
+      "num": "Q6451",
+      "q": "Can I also activate this card's [Main] effect when I have 0 cards in my security stack?"
+    },
+    {
+      "a": "They become face-up security cards that remain revealed.  Other than rules that specify face-up security cards, the rules apply in the same manner as standard security cards.",
+      "date": "May. 8, 2026",
+      "num": "Q6452",
+      "q": "What happens to cards placed face up in the security stack by effects?"
+    },
+    {
+      "a": "The check is performed with the card left revealed.  Other than rules for cards left revealed, the rules apply in the same manner as standard checks.",
+      "date": "May. 8, 2026",
+      "num": "Q6453",
+      "q": "What happens upon a security check for a security card that is placed face-up?"
+    },
+    {
+      "a": "Yes, it triggers.",
+      "date": "May. 8, 2026",
+      "num": "Q6454",
+      "q": "Does a card's [Security] effect trigger upon a security check with that card placed face-up?"
+    },
+    {
+      "a": "Any face-up cards are placed face down, then you shuffle the cards.  After shuffling, those cards are left face-down.",
+      "date": "May. 8, 2026",
+      "num": "Q6455",
+      "q": "What happens if I shuffle a security stack that includes security cards placed face-up?"
+    }
+  ],
+  "Color": [
+    "Red",
+    "Green"
+  ],
+  "Cost": "3",
+  "Effect": [
+    "While you have no face-up security cards, you can ignore this card's color requirements.",
+    "{Security} [All Turns] All of your red or green [TS] trait Digimon get +2000 DP. While you have [Marsmon] or [Callismon], they also gain ＜Rush＞.",
+    "[Main] Add your bottom security card to the hand and place this card face up as the bottom security card. Then, you may play 1 red or green [TS] trait Digimon card from your hand with the cost reduced by 3."
+  ],
+  "Notes": [
+    "Booster DUAL REVOLUTION [BT-25]",
+    "?search=true&category=522036",
+    "/products/pack/ver25"
+  ],
+  "Security Effect": "[Security] You may play 1 level 4 or lower red or green [TS] trait Digimon card from your hand or trash without paying the cost.",
+  "Type": "Iliad/TS",
+  "cardNo": "BT25-095",
+  "cardRarity": "U",
+  "cardTitle": "Paradise Colosseum",
+  "cardType": "Option",
+  "imgSrc": "../images/cardlist/card/BT25-095.png?260529"
+}

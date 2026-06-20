@@ -71,10 +71,10 @@
       "q": "If this card digivolves from a Tamer that was played this turn, can it attack in the same turn?"
     },
     {
-      "a": "No, it isn't. Lower text only becomes an inherited effect when it's marked as an \"Inherited Effect\".",
-      "date": "Apr. 4, 2025",
+      "a": "Yes, it also treats the Tamer as a Digimon when it digivolves. It treats it as a Digimon that digivolves, therefore \"when a Digimon would digivolve\" effects and \"when a Digimon digivolves\" effects will trigger.  In addition, if a \"Digimon can't digivolve\" effect activates, digivolution won't be possible using this effect that also treats the Tamer as a Digimon.",
+      "date": "Jun. 19, 2026",
       "num": "Q1690",
-      "q": "If a Tamer with a [Security] effect as its lower text digivolves into this card, is that Tamer card's lower text gained as an inherited effect when it's a digivolution card?"
+      "q": "Does a \"may digivolve this card as if the Tamer is a Digimon\" effect also treat the Tamer that will become a digivolution card as a Digimon when it digivolves?"
     },
     {
       "a": "Yes, you reveal them to your opponent. The cards to be returned are revealed, then both players confirm the order in which they're returned to the bottom of the deck.",
@@ -83,10 +83,28 @@
       "q": "When returning cards from my hand or trash to the bottom of the deck for this card's 1st effect, do I have to reveal them to my opponent?"
     },
     {
-      "a": "Any color of card can be digivolved from.",
-      "date": "Apr. 4, 2025",
+      "a": "Yes, you perform a digivolution bonus draw.  A digivolution bonus draw is performed for any kind of digivolution.",
+      "date": "Jun. 19, 2026",
       "num": "Q1692",
-      "q": "What card colors are possible for cards to digivolve from with this card's digivolution requirements?"
+      "q": "Is a digivolution bonus draw performed even when a Tamer digivolves?"
+    },
+    {
+      "a": "Yes, it is.If the Digimon leaves the field, that Tamer is trashed like normal digivolution cards.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6533",
+      "q": "Is a Tamer card placed under a Digimon considered a digivolution card?"
+    },
+    {
+      "a": "No, it does not.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6534",
+      "q": "Does a Digimon gain the security effects in the lower text of a Tamer card in its digivolution cards?"
+    },
+    {
+      "a": "Yes, it does.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6535",
+      "q": "Does a Digimon gain the inherited effects in the lower text of a Tamer card in its digivolution cards?"
     }
   ],
   "Color": "White",

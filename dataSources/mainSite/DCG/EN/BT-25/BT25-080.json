@@ -1,0 +1,58 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": "No, you can't.  If you don't trash 1 card in your hand, you can't process the part after \"after\" in this card's [On Play] [When Attacking] [When Digivolving] effect.",
+      "date": "May. 8, 2026",
+      "num": "Q6382",
+      "q": "Can I process the part of the effect after \"after\" in this card's [On Play] [When Attacking] [When Digivolving] effect without meeting the \"by\" condition?"
+    },
+    {
+      "a": "No, you can't activate it.",
+      "date": "May. 8, 2026",
+      "num": "Q6383",
+      "q": "I used this card's [On Play] [When Attacking] effect to trash a card that has a \"when this card is trashed from the hand\" effect and return the trashed card to the hand.  Can I then activate the trashed card's \"when this card is trashed from the hand\" effect?"
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "May. 8, 2026",
+      "num": "Q6384",
+      "q": "I used this card's [On Play] [When Attacking] effect to trash a card in the hand and return the trashed card to the hand.  Can I then activate a \"when your hand is trashed from\" effect?"
+    },
+    {
+      "a": "No, you can't.  If this card was played or digivolved by an effect, you must delete an opponent's Digimon.",
+      "date": "May. 8, 2026",
+      "num": "Q6385",
+      "q": "When this card was played by an effect, can I use its [On Play] [When Attacking] effect to trash a card in my hand but then choose to not delete an opponent's Digimon?"
+    },
+    {
+      "a": "Yes, you can.However, if you choose a Digi-Egg card, it will be returned to the bottom of the Digi-Egg deck.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6715",
+      "q": "Can I choose a Digi-Egg card for the card returned to the hand with this card's [On Play] [When Attacking] effect?"
+    }
+  ],
+  "Color": "Purple",
+  "Cost": "5",
+  "DP": "6000",
+  "Digivolve Cost 1": [
+    "Purple",
+    "2 from Lv.3"
+  ],
+  "Effect": "[On Play] [When Attacking] [Once Per Turn] By trashing 1 card in your hand, you may return 1 [Titan] trait card from your trash to the hand. After, if played by an effect, delete 1 of your opponent's level 5 or lower Digimon.",
+  "Form": "Champion",
+  "Inherited Effect": "[All Turns] [Once Per Turn] When your hand is trashed from, if this Digimon has the [Titan] trait, delete 1 of your opponent's level 4 or lower Digimon.",
+  "Notes": [
+    "Booster DUAL REVOLUTION [BT-25]",
+    "?search=true&category=522036",
+    "/products/pack/ver25"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.3 w/[TS] trait: Cost 2",
+  "Type": "Wizard/Titan/TS",
+  "cardLv": "Lv.4",
+  "cardNo": "BT25-080",
+  "cardRarity": "C",
+  "cardTitle": "Witchmon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT25-080.png?260529"
+}

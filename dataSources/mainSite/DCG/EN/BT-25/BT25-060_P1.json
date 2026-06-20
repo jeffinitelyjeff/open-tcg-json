@@ -1,0 +1,84 @@
+{
+  "Attribute": "God",
+  "Card Q&A": [
+    {
+      "a": "No, you can't.",
+      "date": "May. 8, 2026",
+      "num": "Q6357",
+      "q": "Can I use this card's [When Digivolving] [When Attacking] effect to link a card that doesn't have ?"
+    },
+    {
+      "a": "This effect prevents a card from being affected by effects.  For example, your Digimon won't suspend if it's chosen for a \"suspend 1 of your opponent's Digimon\" effect, and its DP won't be reduced by 3000 if it's chosen for a \"1 of your opponent's Digimon gets -3000 DP\" effect.",
+      "date": "May. 8, 2026",
+      "num": "Q6358",
+      "q": "What does \"effects don't affect\" mean, exactly?"
+    },
+    {
+      "a": "Yes, it can be chosen.  For example, a Digimon that isn't affected by effects can be chosen for a \"suspend 1 of your opponent's Digimon\" effect.",
+      "date": "May. 8, 2026",
+      "num": "Q6359",
+      "q": "Can a card that has an \"effects don't affect\" effect be chosen for an effect?"
+    },
+    {
+      "a": "Yes, it can.  It won't be affected by it, but it can be given an effect.  However, if an effect such as  is given to a Digimon that isn't affected by effects, the Digimon won't be considered to have that effect.",
+      "date": "May. 8, 2026",
+      "num": "Q6360",
+      "q": "Can a card that has an \"effects don't affect\" effect be given an effect?"
+    },
+    {
+      "a": "As soon as it gains the \"effects don't affect\" effect, it will no longer be affected.",
+      "date": "May. 8, 2026",
+      "num": "Q6361",
+      "q": "If a card is affected by an effect, then it later gains an \"effects don't affect\" effect, what happens to the effect that was affecting it?"
+    },
+    {
+      "a": "It will be affected by the effect as soon as it can be affected by effects.",
+      "date": "May. 8, 2026",
+      "num": "Q6362",
+      "q": "If a card has an \"effects don't affect\" effect, it gains an effect, then it later loses the \"effects don't affect\" effect, what happens to the effect that it gained?"
+    },
+    {
+      "a": "If the Digimon isn't affected by effects upon the trigger timing, the effect won't trigger.",
+      "date": "May. 8, 2026",
+      "num": "Q6363",
+      "q": "A card that has an \"effects don't affect\" effect was given an effect that triggers at a timing such as [When Attacking].  Will the effect trigger if that card later meets the trigger conditions?"
+    }
+  ],
+  "Color": [
+    "Green",
+    "White"
+  ],
+  "Cost": "12",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Green",
+    "4 from Lv.5"
+  ],
+  "Digivolve Cost 2": [
+    "Multicolor",
+    "4 from Ult."
+  ],
+  "Effect": [
+    "＜Security A. +1＞ ＜Reboot＞ ＜Link +1＞",
+    "[When Digivolving] [When Attacking] [Once Per Turn] By linking 1 [Appmon] trait Digimon card from your hand or this Digimon's digivolution cards to this Digimon without paying the cost, 1 of your Digimon may unsuspend.",
+    "[All Turns] [Once Per Turn] When this Digimon gets linked or unsuspends, until your turn ends, this Digimon gains ＜Piercing＞ and ＜Blocker＞, and your opponent's Digimon effects don't affect it."
+  ],
+  "Form": "God/Appmon",
+  "Notes": [
+    "Booster DUAL REVOLUTION [BT-25]",
+    "?search=true&category=522036",
+    "/products/pack/ver25"
+  ],
+  "Special Digivolution Condition": [
+    "[App Fusion] [Bootmon] & [Shutmon]: Cost 0",
+    "If 2 such cards are linked together, stack the link card on top and digivolve."
+  ],
+  "Type": "Reboot",
+  "cardLv": "Lv.6",
+  "cardNo": "BT25-060",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "Rebootmon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT25-060_P1.png?260529"
+}

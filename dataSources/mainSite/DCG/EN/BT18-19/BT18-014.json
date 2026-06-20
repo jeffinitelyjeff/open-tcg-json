@@ -2,22 +2,40 @@
   "Attribute": "Variable",
   "Card Q&A": [
     {
-      "a": "No, it digivolves from the Tamer as-is.",
-      "date": "Jun. 21, 2024",
+      "a": "No, it digivolves from the Tamer as-is. It isn't treated as a Digimon that digivolves, therefore \"when a Digimon would digivolve\" effects and \"when a Digimon digivolves\" effects don't trigger.  In addition, this digivolution requirement can be used to digivolve a Tamer even if a \"Digimon can't digivolve\" effect activates.",
+      "date": "Jun. 19, 2026",
       "num": "Q2919",
-      "q": "Does this card's digivolution requirement where it can digivolve from a Tamer mean that the Tamer that will become a digivolution card is treated as a Digimon when it digivolves?"
+      "q": "Does a digivolution requirement that digivolves from a Tamer mean that the Tamer that will become a digivolution card is treated as a Digimon when it digivolves?"
     },
     {
-      "a": "No, it isn't considered a Digimon that would digivolve. When a Tamer would digivolve using this card's digivolution requirement, \"when a Digimon would digivolve\" effects don't trigger.",
-      "date": "Jun. 21, 2024",
+      "a": "Yes, you perform a digivolution bonus draw.  A digivolution bonus draw is performed for any kind of digivolution.",
+      "date": "Jun. 19, 2026",
       "num": "Q2920",
-      "q": "When a Tamer would digivolve using this card's digivolution requirement, is it considered a Digimon that would digivolve?"
+      "q": "Is a digivolution bonus draw performed even when a Tamer digivolves?"
     },
     {
-      "a": "No, it isn't considered a Digimon that digivolves. When a Tamer digivolves using this card's digivolution requirement, \"when a Digimon digivolves\" effects don't trigger.",
-      "date": "Jun. 21, 2024",
+      "a": "No, it can't.  Even if a card digivolves from a card that was placed on the field in the same turn, it can't attack during that turn. It can only attack in the turns after it's played.",
+      "date": "Jun. 19, 2026",
       "num": "Q2921",
-      "q": "When a Tamer digivolves using this card's digivolution requirement, is it considered a Digimon that digivolves?"
+      "q": "If this card digivolves from a Tamer that was played this turn, can it attack in the same turn?"
+    },
+    {
+      "a": "Yes, it is.If the Digimon leaves the field, that Tamer is trashed like normal digivolution cards.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6580",
+      "q": "Is a Tamer card placed under a Digimon considered a digivolution card?"
+    },
+    {
+      "a": "No, it does not.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6581",
+      "q": "Does a Digimon gain the security effects in the lower text of a Tamer card in its digivolution cards?"
+    },
+    {
+      "a": "Yes, it does.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6582",
+      "q": "Does a Digimon gain the inherited effects in the lower text of a Tamer card in its digivolution cards?"
     }
   ],
   "Color": "Red",

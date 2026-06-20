@@ -1,0 +1,55 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "The player that activated the effect choses 1 player.",
+      "date": "May. 8, 2026",
+      "num": "Q6312",
+      "q": "What happens for \"1 player with the most security cards\" if both players have the same number of security cards?"
+    },
+    {
+      "a": "No, it isn't deleted yet.  After trashing the used Option card or digivolving by Arts Digivolve, all of the Digimon with 0 DP are deleted upon the rule check. Then, if the deleted card has an [On Deletion] effect, it will trigger simultaneously with this card's [When Digivolving] effect.",
+      "date": "May. 8, 2026",
+      "num": "Q6313",
+      "q": "I used [Habakiri], and its [Main] effect caused the DP of my opponent's Digimon to become 0.  At such times, is the Digimon with a DP of zero deleted?"
+    },
+    {
+      "a": "Yes, all of those Digimon are prevented from leaving.  This card's [All Turns] effect affects all Digimon without having to choose them.",
+      "date": "May. 8, 2026",
+      "num": "Q6314",
+      "q": "If I activate this card's [All Turns] effect when multiples of my specified Digimon would leave the battle area at the same time, are all of those Digimon prevented from leaving?"
+    }
+  ],
+  "Color": "Yellow",
+  "Cost": "D",
+  "DP": "12000",
+  "DUAL Color": "Yellow",
+  "DUAL Cost": "6",
+  "DUAL Effect": [
+    "＜Use Req. ([Glowing Dawn] trait)＞ (Specified cards let you ignore color requirements.)",
+    "[Main] 1 of your opponent's Digimon gets -8000 DP for the turn. Then, by trashing your top security card, all of your opponent's Digimon get -5000 DP for the turn."
+  ],
+  "DUAL Rule": "＜Arts Digivolve＞ (Instead of trashing after use, your cards may digivolve into this card without paying the cost.)",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "[When Digivolving] [When Attacking] [Once Per Turn] ＜Recovery +1＞. Then, by trashing the top security card of 1 player with the most security cards, this Digimon unsuspends.",
+    "[All Turns] [Once Per Turn] When any of your [Glowing Dawn] trait Digimon would leave the battle area, by trashing your top security card, they don't leave."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster DUAL REVOLUTION [BT-25]",
+    "?search=true&category=522036",
+    "/products/pack/ver25"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.5 w/[Glowing Dawn] trait: Cost 3",
+  "Type": "Shaman/Glowing Dawn/BEATBREAK",
+  "cardLv": "Lv.6",
+  "cardNo": "BT25-043",
+  "cardRarity": "UR",
+  "cardTitle": "Habakirimon          Habakiri",
+  "cardType": "Digimon/Option",
+  "imgSrc": "../images/cardlist/card/BT25-043.png?260529"
+}

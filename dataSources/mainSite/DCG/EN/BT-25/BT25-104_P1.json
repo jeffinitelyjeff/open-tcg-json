@@ -1,0 +1,133 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "Yes, you trash it.  The standard rules apply even when notes aren't shown.",
+      "date": "May. 8, 2026",
+      "num": "Q6494",
+      "q": "Does a burst digivolve without notes also trash the top card of the stack at the end of the turn it digivolved, as with normal burst digivolve?"
+    },
+    {
+      "a": "No, it isn't deleted yet.  After trashing the used Option card or digivolving by Arts Digivolve, all of the Digimon with 0 DP are deleted upon the rule check. Then, if the deleted card has an [On Deletion] effect, it will trigger simultaneously with this card's [When Digivolving] effect.",
+      "date": "May. 8, 2026",
+      "num": "Q6495",
+      "q": "I used [Final Shining Burst], and its [Main] effect caused the DP of my opponent's Digimon to become 0.  At such times, is the Digimon with a DP of zero deleted?"
+    },
+    {
+      "a": "A [Main] effect shown on the DUAL card's Option side will activate.  Activated effects on the Option side are treated as Option card effects.",
+      "date": "May. 8, 2026",
+      "num": "Q6496",
+      "q": "What does \"activate 1 [Main] effect on this card's Option side\" mean, exactly?"
+    },
+    {
+      "a": "No, it isn't considered to be using an Option card.  This effect directly activates a [Main] effect shown on the DUAL card's Option side.",
+      "date": "May. 8, 2026",
+      "num": "Q6497",
+      "q": "Is an \"activate 1 [Main] effect on this card's Option side\" effect considered to be using an Option card?"
+    },
+    {
+      "a": "Yes, you can.  If an effect on the Option side is activated, it's considered to be an Option card effect.  Because it isn't a Digimon effect, the DP will be reduced by -15000.",
+      "date": "May. 8, 2026",
+      "num": "Q6498",
+      "q": "Can I use this card's [When Digivolving][When Attacking] effect to activate the [Main] effect on the Option side and give -15000 DP to a Digimon that isn't affected by Digimon effects?"
+    },
+    {
+      "a": "It causes that card to also be treated as a Digimon with X000 DP.  For example, if a Tamer is also treated as a Digimon, it can attack like a standard Digimon, and it will gain inherited effects from cards stacked under it.  However, even if a Tamer is played and then treated as a Digimon in the same turn, it can't attack during that turn.",
+      "date": "May. 8, 2026",
+      "num": "Q6499",
+      "q": "What does an \"is also treated as a Digimon with X000 DP\" effect do, exactly?"
+    },
+    {
+      "a": "No, it is treated as both a Digimon and a Tamer.",
+      "date": "May. 8, 2026",
+      "num": "Q6500",
+      "q": "If a Tamer is also treated as a Digimon using an \"is also treated as a Digimon with X000 DP\" effect, is it no longer considered a Tamer?"
+    },
+    {
+      "a": "Yes, it's treated as an effect of both.  Because the card is treated as both a Digimon and a Tamer, the activated effect is treated as both a Digimon effect and a Tamer effect.",
+      "date": "May. 8, 2026",
+      "num": "Q6501",
+      "q": "If a Tamer is also treated as a Digimon using an \"is also treated as a Digimon with X000 DP\" effect and it activates an effect, is it treated as both a Digimon effect and a Tamer effect?"
+    },
+    {
+      "a": "Yes, it's deleted upon the rule check timing.",
+      "date": "May. 8, 2026",
+      "num": "Q6502",
+      "q": "If a Tamer is also treated as a Digimon using an \"is also treated as a Digimon with X000 DP\" effect, then another effect causes its DP to become 0, is it deleted upon a rule check?"
+    },
+    {
+      "a": "If an effect has triggered and the card is affected by a \"is also treated as a Digimon with X000 DP\" effect, the play cost, level, and DP are overwritten by the newer effect.  However, if an effect has already activated and the card is affected by a \"is also treated as a Digimon with X000 DP\" effect, the already activated effect will be overwritten.  Any other effects such as  that are later gained will be added.",
+      "date": "May. 8, 2026",
+      "num": "Q6503",
+      "q": "If a Tamer is also treated as a Digimon using an \"is also treated as a Digimon with X000 DP\" effect, and later it gains another \"is also treated as a Digimon with X000 DP\" effect, what happens?"
+    },
+    {
+      "a": "Yes, you can.  When an effect is activated on a card that's treated as both a Digimon and a Tamer, the effect is treated as both a Digimon effect and a Tamer effect, therefore you can gain memory.",
+      "date": "May. 8, 2026",
+      "num": "Q6504",
+      "q": "Can I gain memory using an effect on a Tamer that's treated as a Digimon with X000 DP due to an effect while my opponent has \"your opponent can't gain memory other than by Tamer effects\" activated?"
+    },
+    {
+      "a": "No, it won't be affected by effects.  When an effect is activated on a card that's treated as both a Digimon and a Tamer, the effect is treated as both a Digimon effect and a Tamer effect, therefore the chosen opponent Digimon won't be affected by effects.",
+      "date": "May. 8, 2026",
+      "num": "Q6505",
+      "q": "If an opponent's card has \"isn't affected by Digimon effects\" and it's chosen for an \"is also treated as a Digimon with X000 DP\" Tamer effect that treats it as a Digimon, will the chosen opponent Digimon be affected by effects?"
+    },
+    {
+      "a": "It will be treated as a Digimon with 6000 DP, and it will lose .  This card's [All Turns] effect is always activated while it's in the battle area.  As soon as this card is removed from the battle area, the effect will be lost, and the [Marcus Damon] will be treated as it was before.",
+      "date": "May. 8, 2026",
+      "num": "Q6506",
+      "q": "I have a [Marcus Damon] that is treated as a Digimon with 6000 DP.  My Digimon in the battle area digivolves into this card, and I use this card's [All Turns] effect to increase that [Marcus Damon]'s DP to 12000 and give it .  What happens to that [Marcus Damon] if this card is then removed from the battle area?"
+    },
+    {
+      "a": "Yes, you can.  This card is treated as an Option card with the [DATA SQUAD] trait.",
+      "date": "May. 8, 2026",
+      "num": "Q6507",
+      "q": "Can I reference this card as an Option card with the traits shown on this card?"
+    }
+  ],
+  "Color": [
+    "Red",
+    "Yellow"
+  ],
+  "Cost": "D",
+  "DP": "15000",
+  "DUAL Color": [
+    "Red",
+    "Yellow"
+  ],
+  "DUAL Cost": "6",
+  "DUAL Effect": [
+    "＜Use Req. ([DATA SQUAD] trait)＞ (Specified cards let you ignore color requirements.)",
+    "[Main] 1 of your opponent's Digimon gets -15000 DP for the turn. Then, you may play 1 Tamer card from your hand without paying the cost."
+  ],
+  "DUAL Rule": "＜Arts Digivolve＞ (Instead of trashing after use, your cards may digivolve into this card without paying the cost.)",
+  "Digivolve Cost 1": [
+    "Red",
+    "Yellow",
+    "5 from Lv.6"
+  ],
+  "Effect": [
+    "＜Raid＞ ＜Piercing＞ ＜Security A. +1＞ ＜Blocker＞ ＜Barrier＞",
+    "[When Digivolving] [When Attacking] [Once Per Turn] Activate 1 [Main] effect on this card's Option side.",
+    "[Your Turn] All of your [Marcus Damon]s are also treated as 12000 DP Digimon and gain ＜Rush＞."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster DUAL REVOLUTION [BT-25]",
+    "?search=true&category=522036",
+    "/products/pack/ver25"
+  ],
+  "Special Digivolution Condition": [
+    "[Digivolve] Lv.6 w/[DATA SQUAD] trait: Cost 5",
+    "[Burst Digivolve] [ShineGreymon]: Cost 0 by returning 1 [Marcus Damon] to the hand."
+  ],
+  "Type": "Light Dragon/DATA SQUAD",
+  "cardLv": "Lv.7",
+  "cardNo": "BT25-104",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SEC",
+  "cardTitle": "ShineGreymon: Burst Mode          Final Shining Burst",
+  "cardType": "Digimon/Option",
+  "imgSrc": "../images/cardlist/card/BT25-104_P1.png?260529"
+}

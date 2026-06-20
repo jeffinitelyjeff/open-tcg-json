@@ -1,0 +1,50 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "Yes, you can.",
+      "date": "May. 8, 2026",
+      "num": "Q6255",
+      "q": "Can I use this card's [On Play] [When Digivolving] effect to trash a card in my hand but then choose to not return a card from my trash to the hand?"
+    },
+    {
+      "a": "Yes, it triggers.  However, this effect can only be activated when that Digimon is blue.",
+      "date": "May. 8, 2026",
+      "num": "Q6256",
+      "q": "Does this card's [Your Turn] effect trigger even when my non-blue Digimon are played or digivolve?"
+    },
+    {
+      "a": "It references the Digimon after it digivolves.",
+      "date": "May. 8, 2026",
+      "num": "Q6257",
+      "q": "Does this card's [Your Turn] effect reference the card for the Digimon before or after it digivolves?"
+    }
+  ],
+  "Color": "Red",
+  "Cost": "4",
+  "DP": "5000",
+  "Digivolve Cost 1": [
+    "Red",
+    "Blue",
+    "2 from Lv.3"
+  ],
+  "Effect": [
+    "[On Play] [When Digivolving] By trashing 1 card in your hand, you may return 1 red or blue [Iliad] trait Digimon card from your trash to the hand.",
+    "[Your Turn] When your Digimon are played or digivolve, if any of them are blue, this Digimon may digivolve into [Flaremon] in the hand with the cost reduced by 1."
+  ],
+  "Form": "Champion",
+  "Inherited Effect": "[Your Turn] This Digimon gets +2000 DP.",
+  "Notes": [
+    "Booster DUAL REVOLUTION [BT-25]",
+    "?search=true&category=522036",
+    "/products/pack/ver25"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.3 w/[TS] trait: Cost 2",
+  "Type": "Beast/Iliad/TS",
+  "cardLv": "Lv.4",
+  "cardNo": "BT25-013",
+  "cardRarity": "C",
+  "cardTitle": "Firamon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT25-013.png?260529"
+}

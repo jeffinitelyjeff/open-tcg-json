@@ -2,37 +2,37 @@
   "Attribute": "Variable",
   "Card Q&A": [
     {
-      "a": "No, [Takuya Kanbara] digivolves as a Tamer.",
-      "date": "Mar. 28, 2024",
+      "a": "Yes, it also treats the Tamer as a Digimon when it digivolves. It treats it as a Digimon that digivolves, therefore \"when a Digimon would digivolve\" effects and \"when a Digimon digivolves\" effects will trigger.  In addition, if a \"Digimon can't digivolve\" effect activates, digivolution won't be possible using this effect that also treats the Tamer as a Digimon.",
+      "date": "Jun. 19, 2026",
       "num": "Q2732",
-      "q": "Does this card's \"[Takuya Kanbara]: Cost 2\" digivolution requirement mean that [Takuya Kanbara] is treated as a Digimon when it digivolves?"
+      "q": "Does a \"may digivolve this card as if the Tamer is a Digimon\" effect also treat the Tamer that will become a digivolution card as a Digimon when it digivolves?"
     },
     {
-      "a": "No, they don’t trigger. \"When a Digimon digivolves\" effects don't trigger when a Tamer digivolves.",
-      "date": "Mar. 28, 2024",
+      "a": "Yes, you can. If you do, it's treated as a Digimon that digivolves, therefore \"when a Digimon would digivolve\" effects and \"when a Digimon digivolves\" effects will trigger.  In addition, if a \"Digimon can't digivolve\" effect activates, it won't be possible to use this effect to treat that Tamer as a Digimon.",
+      "date": "Jun. 19, 2026",
       "num": "Q2733",
-      "q": "If I use this card's \"[Takuya Kanbara]: Cost 2\" digivolution requirement to digivolve, do \"when a Digimon digivolves\" effects trigger?"
+      "q": "When using the [Takuya Kanbara]: Cost 2 digivolution requirement to digivolve, can I use a \"may digivolve this card as if the Tamer is a Digimon\" effect to treat that [Takuya Kanbara] as a Digimon for digivolving?"
     },
     {
-      "a": "No, they don’t trigger. \"When a Digimon digivolves\" effects don't trigger when a Tamer digivolves.",
-      "date": "Mar. 28, 2024",
+      "a": "Yes, you perform a digivolution bonus draw.  A digivolution bonus draw is performed for any kind of digivolution.",
+      "date": "Jun. 19, 2026",
       "num": "Q2734",
-      "q": "If I use this card's \"[Takuya Kanbara]: Cost 2\" digivolution requirement to digivolve, do \"when a Digimon would digivolve\" effects trigger?"
+      "q": "Is a digivolution bonus draw performed even when a Tamer digivolves?"
     },
     {
-      "a": "Yes, you can. Because you're digivolving from a Tamer, it isn't considered an unsuspended Digimon.\n                                            \n                        Related Cards",
-      "date": "Mar. 28, 2024",
+      "a": "No, it can't.  Even if a card digivolves from a card that was placed on the field in the same turn, it can't attack during that turn. It can only attack in the turns after it's played.\n                                            \n                        Related Cards",
+      "date": "Jun. 19, 2026",
       "num": "Q2735",
-      "q": "My opponent activates EX3-053 [Metallicdramon]'s [On Play] effect. Can I digivolve an unsuspended [Takuya Kanbara] using this card's \"[Takuya Kanbara]: Cost 2\" digivolution requirement in the next turn?",
+      "q": "If this card digivolves from a Tamer that was played this turn, can it attack in the same turn?",
       "relatedCards": [
         "EX3-053"
       ]
     },
     {
-      "a": "No, you can't. P-103 [Offense Training]'s  effect digivolves 1 Digimon. It doesn't digivolve Tamers.\n                                            \n                        Related Cards",
-      "date": "Mar. 28, 2024",
+      "a": "Yes, it becomes a digivolution card.  If that Digimon would leave the field, the Tamer card will be trashed like a normal digivolution card.\n                                            \n                        Related Cards",
+      "date": "Jun. 19, 2026",
       "num": "Q2736",
-      "q": "Can I activate P-103 [Offense Training]'s  effect and digivolve using this card's \"[Takuya Kanbara]: Cost 2\" digivolution requirement to digivolve?",
+      "q": "Does a Tamer card placed under a Digimon become a digivolution card?",
       "relatedCards": [
         "P-103"
       ]
@@ -54,6 +54,18 @@
       "date": "Apr. 4, 2025",
       "num": "Q4658",
       "q": "Can I choose to not digivolve with this card's 1st effect?"
+    },
+    {
+      "a": "No, it does not.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6556",
+      "q": "Does a Digimon gain the security effects in the lower text of a Tamer card in its digivolution cards?"
+    },
+    {
+      "a": "Yes, it does.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6557",
+      "q": "Does a Digimon gain the inherited effects in the lower text of a Tamer card in its digivolution cards?"
     }
   ],
   "Color": [
