@@ -1,4 +1,5 @@
 {
+  "attribute": "Vaccine",
   "blockIcon": "06",
   "cardRestriction": {
     "chinese": "Not released",
@@ -6,12 +7,14 @@
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
+  "cardType": "Digimon",
+  "color": "Yellow/Red/Black",
+  "dp": "16000 DP",
   "galleryImages": {},
   "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
+  "name": "Jupitermon: Wrath Mode",
+  "nameJapanese": "ユピテルモン：ラースモード",
+  "playCost": "16",
   "rarity": "Secret Rare",
   "setData": {
     "ch": [
@@ -154,5 +157,6 @@
         }
       }
     ]
-  }
+  },
+  "type": "Shaman/Olympos XII/Iliad/TS"
 }
