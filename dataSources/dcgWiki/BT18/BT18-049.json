@@ -2,7 +2,7 @@
   "altDigivolutionRequirements": "[Digivolve]  [Zoe Orimoto]: Cost 3 \n[Digivolve]  [Kazemon]: Cost 1",
   "attribute": "Variable",
   "blockIcon": "04",
-  "cardEffects": "＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon in battle, it checks security before the attack ends.)\n[On Play] [When Digivolving] 1 of your Digimon gets +3000 DP until the end of your opponent's turn.",
+  "cardEffects": "＜Piercing＞ (When this Digimon deletes your opponent's Digimon in battle while attacking, it checks security before the attack ends.)\n[On Play] [When Digivolving] 1 of your Digimon gets +3000 DP until the end of your opponent's turn.",
   "cardRestriction": {
     "chinese": "Unrestricted",
     "english": "Unrestricted",
@@ -90,7 +90,7 @@
     ]
   },
   "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/58/BT18-049.png/revision/latest?cb=20241011092634",
-  "inheritedEffect": "＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon in battle, it checks security before the attack ends.)",
+  "inheritedEffect": "＜Piercing＞ (When this Digimon deletes your opponent's Digimon in battle while attacking, it checks security before the attack ends.)",
   "level": "4",
   "name": "Zephyrmon",
   "nameJapanese": "シューツモン",

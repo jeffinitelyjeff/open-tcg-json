@@ -2,7 +2,7 @@
   "altDigivolutionRequirements": "[Digivolve]  [Jesmon]: Cost 1",
   "attribute": "Data",
   "blockIcon": "04",
-  "cardEffects": "＜Alliance＞ (When this Digimon attacks, by suspending 1 of your other Digimon, add the suspended Digimon's DP to this Digimon and it gains ＜Security A. +1＞ for the attack.)\n[When Digivolving] If [Jesmon] or [X Antibody] is in this Digimon's digivolution cards, for the turn, 1 of your Digimon isn't affected by your opponent's effects. Then, 1 of your Digimon may attack.\n[Your Turn] All of your Digimon with [Sistermon] in their names or the [Royal Knight] trait gain ＜Piercing＞  (When this Digimon attacks and deletes an opponent's Digimon in battle, it checks security before the attack ends.) and can also attack unsuspended Digimon.",
+  "cardEffects": "＜Alliance＞ (When this Digimon attacks, by suspending 1 of your other Digimon, add the suspended Digimon's DP to this Digimon and it gains ＜Security A. +1＞ for the attack.)\n[When Digivolving] If [Jesmon] or [X Antibody] is in this Digimon's digivolution cards, for the turn, 1 of your Digimon isn't affected by your opponent's effects. Then, 1 of your Digimon may attack.\n[Your Turn] All of your Digimon with [Sistermon] in their names or the [Royal Knight] trait gain ＜Piercing＞  (When this Digimon deletes your opponent's Digimon in battle while attacking, it checks security before the attack ends.) and can also attack unsuspended Digimon.",
   "cardRestriction": {
     "chinese": "Unrestricted",
     "english": "Unrestricted",
@@ -57,7 +57,7 @@
     ]
   },
   "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/7e/BT20-019.png/revision/latest?cb=20250207070810",
-  "inheritedEffect": "[Your Turn] While this Digimon is [Jesmon GX], all of your Digimon gain ＜Piercing＞  (When this Digimon attacks and deletes an opponent's Digimon in battle, it checks security before the attack ends.) and can also attack unsuspended Digimon.",
+  "inheritedEffect": "[Your Turn] While this Digimon is [Jesmon GX], all of your Digimon gain ＜Piercing＞  (When this Digimon deletes your opponent's Digimon in battle while attacking, it checks security before the attack ends.) and can also attack unsuspended Digimon.",
   "level": "6",
   "name": "Jesmon (X Antibody)",
   "nameJapanese": "ジエスモンX抗体",
