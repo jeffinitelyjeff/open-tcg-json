@@ -13245,6 +13245,10 @@
         "id": 13
       },
       {
+        "format_name": "Standard：仮面ライダー",
+        "id": 250
+      },
+      {
         "format_name": "Standard Regulation",
         "id": 224
       },
@@ -13273,6 +13277,10 @@
         "id": 13
       },
       {
+        "format_name": "Standard：仮面ライダー",
+        "id": 250
+      },
+      {
         "format_name": "Standard Regulation",
         "id": 224
       },
@@ -13299,6 +13307,10 @@
       {
         "format_name": "Official Rule",
         "id": 13
+      },
+      {
+        "format_name": "Standard：仮面ライダー",
+        "id": 250
       },
       {
         "format_name": "Standard Regulation",
@@ -13438,5 +13450,61 @@
       }
     ],
     "type": "マジック"
+  },
+  "117315": {
+    "card_name": "ブーストエナジー",
+    "card_number": "26RBS02-092",
+    "card_set_id": 505,
+    "color": "青",
+    "cost": "4",
+    "id": 117315,
+    "image_url": "https://files.bandai-tcg-plus.com/card_image/BS-JA/P/26RBS02-092pr%2B.png",
+    "is_extra2_legal": 0,
+    "is_extra_legal": 0,
+    "is_main_legal": 1,
+    "is_side_legal": 1,
+    "regulations": [
+      {
+        "format_name": "Official Rule",
+        "id": 13
+      },
+      {
+        "format_name": "Standard Regulation",
+        "id": 224
+      },
+      {
+        "format_name": "Eternal Regulation",
+        "id": 225
+      }
+    ],
+    "type": "マジック"
+  },
+  "117316": {
+    "card_name": "戦局：太陽大破",
+    "card_number": "26RBS02-081",
+    "card_set_id": 505,
+    "color": "白",
+    "cost": "4",
+    "id": 117316,
+    "image_url": "https://files.bandai-tcg-plus.com/card_image/BS-JA/P/26RBS02-081pr%2B.png",
+    "is_extra2_legal": 0,
+    "is_extra_legal": 0,
+    "is_main_legal": 1,
+    "is_side_legal": 1,
+    "regulations": [
+      {
+        "format_name": "Official Rule",
+        "id": 13
+      },
+      {
+        "format_name": "Standard Regulation",
+        "id": 224
+      },
+      {
+        "format_name": "Eternal Regulation",
+        "id": 225
+      }
+    ],
+    "type": "ネクサス"
   }
 }
