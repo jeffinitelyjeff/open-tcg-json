@@ -1,4 +1,5 @@
 {
+  "attribute": "Virus",
   "blockIcon": "06",
   "cardRestriction": {
     "chinese": "Not released",
@@ -7,12 +8,27 @@
     "nameJapanese": "Not released"
   },
   "cardType": "",
-  "color": "[[]]",
+  "color": "Yellow/Blue",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Blue",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "8000 DP",
+  "form": "Ultimate",
   "galleryImages": {},
   "image": null,
-  "name": "[[:Category:|]]",
+  "level": "5",
+  "name": "Murasamemon/Gonozan: Murashigure",
   "nameJapanese": "",
-  "rarity": "",
+  "rarity": "Super Rare",
   "setData": {
     "ch": [
       {
@@ -66,5 +82,6 @@
         }
       }
     ]
-  }
+  },
+  "type": "Beastkin/Glowing Dawn/BEATBREAK"
 }
