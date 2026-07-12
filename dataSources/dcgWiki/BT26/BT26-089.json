@@ -1,5 +1,6 @@
 {
   "blockIcon": "06",
+  "cardEffects": "[Start of Your Main Phase] By placing 1 [BEATBREAK] trait card from your hand face down under this Tamer, ＜Draw 1＞ (Draw 1 card from your deck.) and gain 1 memory.\n[All Turns] When your security stack is removed from, by suspending this Tamer, place the top card of your deck face down under this Tamer. After, if removed from by effects, give 1 of your opponent's Digimon ＜Security A. -1＞  (This Digimon checks 1 fewer security card.) until their turn ends.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
@@ -8,12 +9,24 @@
   },
   "cardType": "Tamer",
   "color": "Yellow",
-  "galleryImages": {},
-  "image": null,
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+        "captionText": "BT-26: BOOSTER TIMELESS BONDS (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT26-089-Sample.png",
+        "imgName": "BT26-089-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8d/BT26-089-Sample.png/revision/latest?cb=20260712050737",
+        "uploadDate": "2026-07-12T05:07:37"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/8d/BT26-089-Sample.png/revision/latest?cb=20260712050737",
   "name": "Kyo Sawashiro",
   "nameJapanese": "沢城 キョウ",
   "playCost": "3",
   "rarity": "Rare",
+  "securityEffect": "[Security] Play this card without paying the cost.",
   "setData": {
     "ch": [
       {
@@ -21,11 +34,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
       }
     ],
     "en": [
@@ -34,11 +44,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
       }
     ],
     "jp": [
@@ -47,11 +54,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
       }
     ],
     "kr": [
@@ -60,11 +64,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
       }
     ]
   },
