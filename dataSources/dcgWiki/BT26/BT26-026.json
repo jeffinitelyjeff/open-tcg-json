@@ -1,70 +1,95 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Glowing Dawn] trait: Cost 2",
+  "attribute": "Virus",
   "blockIcon": "06",
+  "cardEffects": "＜Barrier＞ (When this Digimon would be deleted in battle, by trashing your top security card, it isn't deleted.)\n[When Attacking] [Once Per Turn] By trashing the bottom face-down card from under any of your Tamers or your top security card, you may use 1 Option card with the [Glowing Dawn] trait from your hand with the cost reduced by 2.",
   "cardRestriction": {
-    "chinese": "Not released",
-    "english": "Not released",
-    "korean": "Not released",
-    "nameJapanese": "Not released"
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Yellow",
+  "digivolutionRequirements": {
+    "color": "Yellow",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+        "captionText": "BT-26: BOOSTER TIMELESS BONDS (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT26-026-Sample.png",
+        "imgName": "BT26-026-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/80/BT26-026-Sample.png/revision/latest?cb=20260712062301",
+        "uploadDate": "2026-07-12T06:23:01"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/80/BT26-026-Sample.png/revision/latest?cb=20260712062301",
+  "inheritedEffect": "＜Barrier＞ (When this Digimon would be deleted in battle, by trashing your top security card, it isn't deleted.)",
+  "level": "4",
+  "name": "Cougarmon",
+  "nameJapanese": "クーガモン",
+  "playCost": "4",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
         "boosterSet": {
-          "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
-          "text": "BT-26: BOOSTER TIMELESS BONDS"
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_BOOSTER_DUAL_REVOLUTION",
+          "text": "BT-25: BOOSTER DUAL REVOLUTION"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Souichirou_Gunjima",
+          "text": "Souichirou Gunjima"
         }
       }
     ],
     "en": [
       {
         "boosterSet": {
-          "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
-          "text": "BT-26: BOOSTER TIMELESS BONDS"
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_BOOSTER_DUAL_REVOLUTION",
+          "text": "BT-25: BOOSTER DUAL REVOLUTION"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Souichirou_Gunjima",
+          "text": "Souichirou Gunjima"
         }
       }
     ],
     "jp": [
       {
         "boosterSet": {
-          "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
-          "text": "BT-26: BOOSTER TIMELESS BONDS"
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_BOOSTER_DUAL_REVOLUTION",
+          "text": "BT-25: BOOSTER DUAL REVOLUTION"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Souichirou_Gunjima",
+          "text": "Souichirou Gunjima"
         }
       }
     ],
     "kr": [
       {
         "boosterSet": {
-          "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
-          "text": "BT-26: BOOSTER TIMELESS BONDS"
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-25:_BOOSTER_DUAL_REVOLUTION",
+          "text": "BT-25: BOOSTER DUAL REVOLUTION"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Souichirou_Gunjima",
+          "text": "Souichirou Gunjima"
         }
       }
     ]
-  }
+  },
+  "type": "Mammal/Glowing Dawn/BEATBREAK"
 }
