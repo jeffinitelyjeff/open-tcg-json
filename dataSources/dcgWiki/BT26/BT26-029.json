@@ -1,4 +1,5 @@
 {
+  "attribute": "Vaccine",
   "blockIcon": "06",
   "cardRestriction": {
     "chinese": "Not released",
@@ -6,13 +7,29 @@
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
+  "cardType": "Digimon",
+  "color": "Yellow/Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "8000 DP",
+  "form": "Ultimate",
   "galleryImages": {},
   "image": null,
-  "name": "[[:Category:|]]",
+  "level": "5",
+  "name": "Aegiochusmon: Holy",
   "nameJapanese": "",
-  "rarity": "",
+  "playCost": "8",
+  "rarity": "Rare",
   "setData": {
     "ch": [
       {
@@ -66,5 +83,6 @@
         }
       }
     ]
-  }
+  },
+  "type": "Shaman/Iliad/TS"
 }
