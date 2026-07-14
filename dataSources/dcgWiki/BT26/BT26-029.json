@@ -1,6 +1,8 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  [Aegiomon]: Cost 3",
   "attribute": "Vaccine",
   "blockIcon": "06",
+  "cardEffects": "＜Decode ([Aegiomon])＞ (When this Digimon would leave the battle area other than in battle, you may play 1 specified Digimon card from its digivolution cards without paying the cost.)\n＜Ascension＞ (When this Digimon is deleted, you may place this card as the top security card.)\n[On Play] [When Digivolving] By trashing your top security card, until your opponent's turn ends, their effects can't reduce the DP of 1 of your Digimon, trash any of its stacked cards, or return them to hands or decks.\n[All Turns] [Once Per Turn] When your security stack is removed from, 3 of your opponent's Digimon get -5000 DP for the turn.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
@@ -23,13 +25,26 @@
   ],
   "dp": "8000 DP",
   "form": "Ultimate",
-  "galleryImages": {},
-  "image": null,
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+        "captionText": "BT-26: BOOSTER TIMELESS BONDS (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT26-029-Sample.png",
+        "imgName": "BT26-029-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f9/BT26-029-Sample.png/revision/latest?cb=20260714051750",
+        "uploadDate": "2026-07-14T05:17:50"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f9/BT26-029-Sample.png/revision/latest?cb=20260714051750",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When your security stack is removed from, ＜De-Digivolve  1＞ 1 of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.)",
   "level": "5",
   "name": "Aegiochusmon: Holy",
-  "nameJapanese": "",
+  "nameJapanese": "アイギオテュースモン：ホーリー",
   "playCost": "8",
   "rarity": "Rare",
+  "rule": "[Rule] Trait: Has [Angel] Type.",
   "setData": {
     "ch": [
       {
@@ -37,10 +52,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
         }
       }
     ],
@@ -50,10 +65,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
         }
       }
     ],
@@ -63,10 +78,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
         }
       }
     ],
@@ -76,10 +91,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Nakano_Haito",
+          "text": "Nakano Haito"
         }
       }
     ]
