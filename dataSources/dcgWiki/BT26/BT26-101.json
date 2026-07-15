@@ -1,5 +1,6 @@
 {
   "blockIcon": "06",
+  "cardEffects": "＜Use Req. ([TS] trait)＞ (Specified cards let you ignore color requirements.)\n[Main] If you have a Tamer with [Dan Yuki] or [Kanan Yuki] in its name, all of your [TS] trait Digimon gain ＜Blocker＞ (This Digimon can block in the blocker timing.) and +3000 DP until your opponent's turn ends. Then, activate 1 of the effects below:\n・Delete 1 of your opponent's Digimon with as much DP as 1 of your [TS] trait Digimon or less.\n・1 of your [TS] trait Digimon unsuspends.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
@@ -8,11 +9,23 @@
   },
   "cardType": "Option",
   "color": "White",
-  "galleryImages": {},
-  "image": null,
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+        "captionText": "BT-26: BOOSTER TIMELESS BONDS (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT26-101-Sample.png",
+        "imgName": "BT26-101-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/57/BT26-101-Sample.png/revision/latest?cb=20260715130047",
+        "uploadDate": "2026-07-15T13:00:47"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/57/BT26-101-Sample.png/revision/latest?cb=20260715130047",
   "name": "Cross Arts",
-  "nameJapanese": "",
+  "nameJapanese": "クロスアーツ",
   "rarity": "Rare",
+  "securityEffect": "[Security] You may play 1 play cost 4 or lower [TS] card from your hand or trash without paying the cost.",
   "setData": {
     "ch": [
       {
@@ -20,11 +33,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
       }
     ],
     "en": [
@@ -33,11 +43,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
       }
     ],
     "jp": [
@@ -46,11 +53,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
       }
     ],
     "kr": [
@@ -59,11 +63,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
       }
     ]
   },
