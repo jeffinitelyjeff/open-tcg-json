@@ -1,18 +1,42 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  [Crowmon]/Lv.5 w/[DATA SQUAD] trait: Cost 3",
+  "attribute": "Vaccine",
   "blockIcon": "06",
+  "cardEffects": "[Security] [End of Opponent's Turn] Play this card without paying the cost.\n[When Digivolving] [End of Attack] By deleting this Digimon or trashing 2 bottom face-down cards from under any of your Tamers, delete 1 of your opponent's highest DP Digimon.\n[On Deletion] Your opponent trashes 1 card in their hand. Then, if their hand has 7 or fewer cards, you may place this card face up as the bottom security card.",
   "cardRestriction": {
-    "chinese": "Not released",
-    "english": "Not released",
-    "korean": "Not released",
-    "nameJapanese": "Not released"
+    "chinese": "Unrestricted",
+    "english": "Unrestricted",
+    "korean": "Unrestricted",
+    "nameJapanese": "Unrestricted"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "4",
+    "level": "5"
+  },
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+        "captionText": "BT-26: BOOSTER TIMELESS BONDS (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT26-082-Sample.png",
+        "imgName": "BT26-082-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/93/BT26-082-Sample.png/revision/latest?cb=20260716123141",
+        "uploadDate": "2026-07-16T12:31:41"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/93/BT26-082-Sample.png/revision/latest?cb=20260716123141",
+  "level": "6",
+  "name": "Ravemon",
+  "nameJapanese": "レイヴモン",
+  "playCost": "12",
+  "rarity": "Super Rare",
+  "rule": "[Rule] Trait: Has [Birdkin] Type.",
   "setData": {
     "ch": [
       {
@@ -20,7 +44,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NAOKI_AKAMINE",
+          "text": "NAOKI AKAMINE"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+          "text": "BT-26: BOOSTER TIMELESS BONDS"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
           "text": "To be completed"
@@ -33,7 +68,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NAOKI_AKAMINE",
+          "text": "NAOKI AKAMINE"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+          "text": "BT-26: BOOSTER TIMELESS BONDS"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
           "text": "To be completed"
@@ -46,7 +92,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NAOKI_AKAMINE",
+          "text": "NAOKI AKAMINE"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+          "text": "BT-26: BOOSTER TIMELESS BONDS"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
           "text": "To be completed"
@@ -59,12 +116,24 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NAOKI_AKAMINE",
+          "text": "NAOKI AKAMINE"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+          "text": "BT-26: BOOSTER TIMELESS BONDS"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
           "text": "To be completed"
         }
       }
     ]
-  }
+  },
+  "type": "Cyborg/DATA SQUAD"
 }
