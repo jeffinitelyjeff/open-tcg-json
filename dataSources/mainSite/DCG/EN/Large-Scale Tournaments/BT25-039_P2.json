@@ -1,0 +1,57 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": "Yes, the play cost will be reduced by a total of 12.\n                                            \n                        Related Cards",
+      "date": "May. 8, 2026",
+      "num": "Q6306",
+      "q": "When using this card's {Security} [End of Your Turn] effect to play BT25-059 [Ceresmon], if I activate BT25-059 [Ceresmon]'s 1st effect, is the play cost reduced by a total of 12?",
+      "relatedCards": [
+        "BT25-059"
+      ]
+    },
+    {
+      "a": "Yes, all of those Digimon or Tamers are prevented from leaving.  This card's [All Turns] effect affects all Digimon without having to choose them.",
+      "date": "May. 8, 2026",
+      "num": "Q6307",
+      "q": "If I activate this card's [All Turns] effect when multiples of my other specified Digimon or Tamers would leave the battle area at the same time by one of my effects, are all of those Digimon or Tamers prevented from leaving?"
+    },
+    {
+      "a": "No, you can't.  Once all of your opponent's effects are resolved, then you can activate this card's [On Deletion] effect.",
+      "date": "May. 8, 2026",
+      "num": "Q6308",
+      "q": "I activated this card's [All Turns] effect when multiples of my Digimon would leave the battle area by an opponent's effect, and I deleted this card.  Can I then activate this card's [On Deletion] effect before all of my opponent's effects are resolved?"
+    }
+  ],
+  "Color": [
+    "Yellow",
+    "Green"
+  ],
+  "Cost": "6",
+  "DP": "6000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "Green",
+    "4 from Lv.4"
+  ],
+  "Effect": [
+    "{Security} [End of Your Turn] You may play 1 [Ceresmon] from your hand with the cost reduced by 7. If this effect played, you may place this card as the played Digimon's bottom digivolution card.",
+    "[All Turns] When any of your other [Shaman] or [Iliad] trait Digimon or Tamers would leave the battle area other than by your effects, by deleting this Digimon, they don't leave.",
+    "[On Deletion] You may place this card face up as the bottom security card."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "[Opponent's Turn] [Once Per Turn] When one of your opponent's Digimon attacks, you may change the attack target to 1 of your suspended Digimon.",
+  "Notes": [
+    "Regionals 26-27 Season 2 Finalist Card Set",
+    "?search=true&category=522902"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.4 w/[TS] trait: Cost 3",
+  "Type": "Shaman/Iliad/TS",
+  "cardLv": "Lv.5",
+  "cardNo": "BT25-039",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "R",
+  "cardTitle": "Sirenmon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT25-039_P2.png?260529"
+}
