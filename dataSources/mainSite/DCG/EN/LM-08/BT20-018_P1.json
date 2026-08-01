@@ -1,0 +1,54 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "No, it doesn’t trigger.",
+      "date": "Jan. 24, 2025",
+      "num": "Q4300",
+      "q": "If I use this card's [On Play] [When Digivolving] effect to digivolve a Digimon in the breeding area, does that Digimon's [When Digivolving] effect trigger?"
+    },
+    {
+      "a": "[Security] effects take precedence for activation. Upon a security check, a [Security] effect will immediately activate without pending activation. For other triggered effects, the turn player activates their effects first.",
+      "date": "Jan. 24, 2025",
+      "num": "Q4301",
+      "q": "What order do a [Security] effect, \"when [...] performs a security check\" effect, and \"when a card is removed from [...] security stack\" effect activate when they trigger simultaneously upon a security check?"
+    },
+    {
+      "a": "Yes, it does.",
+      "date": "Jun. 13, 2025",
+      "num": "Q4716",
+      "q": "If an opponent's Digimon is attacking and another effect digivolves one of my Digimon into this card, does that meet the \"if during an attack\" condition in this card's [On Play] [When Digivolving] effect?"
+    }
+  ],
+  "Color": [
+    "Red",
+    "Black"
+  ],
+  "Cost": "12",
+  "DP": "11000",
+  "Digivolve Cost 1": [
+    "Red",
+    "Black",
+    "3 from Lv.5"
+  ],
+  "Effect": [
+    "＜Piercing＞",
+    "[On Play] [When Digivolving] ＜De-Digivolve 2＞ 1 of your opponent's Digimon. Then, if during an attack, 1 of your Digimon in the breeding area may digivolve into a level 6 or lower [Chronicle] trait Digimon card in the hand or trash without paying the cost.",
+    "[All Turns] [Once per Turn] When security stacks are removed from, delete 1 of your opponent's Digimon with the lowest DP."
+  ],
+  "Form": "Mega",
+  "Inherited Effect": "[When Attacking] [Once Per Turn] If this Digimon is [Alphamon: Ouryuken], trash your opponent's top security card.",
+  "Notes": [
+    "Limited Card Pack FINAL CREST [LM-08]",
+    "?search=true&category=522204",
+    "/products/goods/limited-lm-08.php"
+  ],
+  "Type": "Beast Dragon/X Antibody/Chronicle",
+  "cardLv": "Lv.6",
+  "cardNo": "BT20-018",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "R",
+  "cardTitle": "Ouryumon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT20-018_P1.png?260529"
+}

@@ -1,0 +1,129 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "It refers to when the memory gauge is at 1 or further to the left on your side.",
+      "date": "Nov. 22, 2024",
+      "num": "Q3898",
+      "q": "What position on the memory gauge does \"if you have 1 or more memory\" refer to?"
+    },
+    {
+      "a": "It refers to when the memory gauge is at 1 or further to the right on your side.",
+      "date": "Nov. 22, 2024",
+      "num": "Q3899",
+      "q": "What position on the memory gauge does \"while you have 1 or less\" memory refer to?"
+    },
+    {
+      "a": "This effect prevents [On Play] effects on cards from activating. Triggered [On Play] effects can no longer activate when a card is played or when effects such as \"activate that card's [On Play]\" effect\" activate.",
+      "date": "Nov. 22, 2024",
+      "num": "Q3900",
+      "q": "What does \"none of your opponent's Digimon can activate [On Play] effects\" mean, exactly?"
+    },
+    {
+      "a": "Yes, you can. The effect can activate if it's triggered upon the [When Attacking] timing.",
+      "date": "Nov. 22, 2024",
+      "num": "Q3901",
+      "q": "I used a card affected by \"none of your opponent's Digimon can activate [On Play] effects\" to attack. Can I activate that card's [On Play] [When Attacking] effect at such times?"
+    },
+    {
+      "a": "No, it can't be activated.",
+      "date": "Nov. 22, 2024",
+      "num": "Q3902",
+      "q": "If a card is affected by \"none of your opponent's Digimon can activate [On Play] effects,\" can it activate its own [On Play] effect using an effect such as \"activate 1 of that card's [On Play] effects\"?"
+    },
+    {
+      "a": "No, it can't be activated.",
+      "date": "Nov. 22, 2024",
+      "num": "Q3903",
+      "q": "If a card is affected by \"none of your opponent's Digimon can activate [On Play] effects,\" can another card's [On Play] effect be activated using an effect such as \"activate 1 of that card's [On Play] effects as an effect of this card\"?"
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Nov. 22, 2024",
+      "num": "Q3904",
+      "q": "Can I use \"activate 1 of that card's [On Play] effects as an effect of this card\" on a card that isn't affected by \"none of your opponent's Digimon can activate [On Play] effects\" to activate the [On Play] effect on another card that's affected by \"none of your opponent's Digimon can activate [On Play] effects\"?"
+    },
+    {
+      "a": "No, you can't.",
+      "date": "Nov. 22, 2024",
+      "num": "Q3905",
+      "q": "If a card is affected by \"none of your opponent's Digimon can activate [On Play] effects,\" can I perform just the \"by doing X\" condition in its [On Play] effect?"
+    },
+    {
+      "a": "No, it doesn't count. The effect can't activate upon the [On Play] timing, therefore it doesn't count as an instance of that effect's [X Per Turn].",
+      "date": "Apr. 4, 2025",
+      "num": "Q3906",
+      "q": "A card digivolved into a card that has an [On Play] [When Attacking] [Once Per Turn] effect while \"none of your opponent's Digimon can activate [On Play] effects\" was activated. Does that count as an instance of that effect's [X Per Turn] even if that effect can't be activated upon the timing when that card is played?"
+    },
+    {
+      "a": "This effect prevents Digimon from being affected by effects. For example, your Digmon won't suspend if it's chosen for a \"suspend 1 of your opponent's Digimon\" effect, and its DP won't be reduced if it's chosen for a \"1 of your opponent's Digimon gets -3000 DP\" effect.",
+      "date": "Nov. 22, 2024",
+      "num": "Q3907",
+      "q": "What does \"isn't affected by [...] effects\" mean, exactly?"
+    },
+    {
+      "a": "Yes, it can be chosen.",
+      "date": "Nov. 22, 2024",
+      "num": "Q3908",
+      "q": "Can a card that has an \"isn't affected by [...] effects\" effect be chosen for an effect?"
+    },
+    {
+      "a": "Yes, it can. It won't be affected by it, but it can be given an effect. However, if an effect such as  is given to a Digimon that isn't affected by effects, the Digimon won't be considered to have that effect.",
+      "date": "Apr. 4, 2025",
+      "num": "Q3909",
+      "q": "Can a card that has an \"effects don't affect\" effect be given an effect?"
+    },
+    {
+      "a": "As soon as it gains the \"isn't affected by [...] effects\" effect, it will no longer be affected.",
+      "date": "Nov. 22, 2024",
+      "num": "Q3910",
+      "q": "If a card is affected by an effect, then it later gains an \"isn't affected by [...] effects\" effect, what happens to the effect that was affecting it?"
+    },
+    {
+      "a": "It will be affected by the effect as soon as it can be affected by effects.",
+      "date": "Nov. 22, 2024",
+      "num": "Q3911",
+      "q": "If a card has an \"isn't affected by [...] effects\" effect, it gains an effect, then it later loses the \"isn't affected by [...] effects\" effect, what happens to the effect that it gained?"
+    },
+    {
+      "a": "If the Digimon isn't affected by effects upon the trigger timing, the effect won't trigger.",
+      "date": "Jun. 13, 2025",
+      "num": "Q3912",
+      "q": "A card that has an \"isn't affected by [...] effects\" effect was given an effect that triggers at a timing such as [When Attacking]. Will the effect trigger if that card later meets the trigger conditions?"
+    }
+  ],
+  "Color": [
+    "Blue",
+    "Black",
+    "Yellow"
+  ],
+  "Cost": "15",
+  "DP": "15000",
+  "Digivolve Cost 1": [
+    "Blue",
+    "Black",
+    "Yellow",
+    "5 from Lv.6"
+  ],
+  "Effect": [
+    "[DNA Digivolve] [Plesiomon] + Lv.5 w/[Seadramon] in name: Cost 0",
+    "[When Digivolving] Return up to 14 play cost's total worth of your opponent's Digimon to the bottom of the deck. If DNA digivolving, you may play up to 12 play cost's total worth of [DS] trait cards from this Digimon's digivolution cards without paying the costs.",
+    "[All Turns] While you have 1 or more memory, none of your [DS] trait Digimon are affected by your opponent's Digimon effects. While you have 1 or less, none of your opponent's Digimon can activate [On Play] effects.",
+    "(Rule) Trait: Has [Aquatic] Type."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Limited Card Pack FINAL CREST [LM-08]",
+    "?search=true&category=522204",
+    "/products/goods/limited-lm-08.php"
+  ],
+  "Special Digivolution Condition": "[DNA Digivolve] Blue/purple Lv.6 + black/yellow Lv.6: Cost 0",
+  "Type": "Cyborg/DS",
+  "cardLv": "Lv.7",
+  "cardNo": "EX8-029",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "Aegisdramon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX8-029_P2.png?260529"
+}
