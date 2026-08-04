@@ -53,7 +53,7 @@
     },
     {
       "config_name": "Required Energy",
-      "value": "0"
+      "value": "4"
     },
     {
       "config_name": "Energy Generation",
@@ -65,7 +65,7 @@
     },
     {
       "config_name": "BP",
-      "value": "1500"
+      "value": "4000"
     },
     {
       "config_name": "Rarity",
@@ -73,11 +73,11 @@
     },
     {
       "config_name": "Trigger Effect Type",
-      "value": "Draw"
+      "value": "Raid"
     },
     {
       "config_name": "Trigger Effect Text",
-      "value": "Draw a card."
+      "value": "Add this card to your hand, or if you have the required energy, perform Raid with it."
     },
     {
       "config_name": "Affinity",
@@ -87,10 +87,10 @@
       "config_name": "Notes"
     }
   ],
-  "card_name": "Shishiba",
-  "card_number": "SMD-1-052",
+  "card_name": "Taro Sakamoto",
+  "card_number": "SMD-1-051",
   "card_set": "BOOSTER PACK SAKAMOTO DAYS [UE19BT]",
-  "card_text": "[When Played] Draw a card, then place one card from your hand into your sideline.",
+  "card_text": "【Raid】 <Taro Sakamoto> Switch to active. May move to the front line.<br>[When Played] Draw a card.<br>[Activate: Main] #If on the Front Line# 『Once Per Turn』 Look at the top five cards of your deck. Place up to one purple card with 2 or less required energy into your sideline. Place the remaining cards on the bottom of your deck in any order. Then, activate the 【Trigger】 ability on the card placed into your sideline with this ability.",
   "id": 114003,
   "image_url": "https://files.bandai-tcg-plus.com/card_image/UA-EN/BT19/batch_UE19BT_SMD-1-052_SRp.png",
   "is_division_text": false,
