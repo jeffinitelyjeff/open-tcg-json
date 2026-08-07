@@ -1,18 +1,49 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Shambala] trait: Cost 2",
+  "attribute": "Vaccine",
   "blockIcon": "06",
+  "cardEffects": "[Main] [Once Per Turn] You may play or use 1 [TB] trait card from your hand with the cost reduced by 2.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Red/Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "6000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+        "captionText": "BT-26: BOOSTER TIMELESS BONDS (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT26-012-Sample.png",
+        "imgName": "BT26-012-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/eb/BT26-012-Sample.png/revision/latest?cb=20260723041835",
+        "uploadDate": "2026-07-23T04:18:35"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/eb/BT26-012-Sample.png/revision/latest?cb=20260723041835",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] 1 of your opponent's Digimon gets -2000 DP for the turn.",
+  "level": "4",
+  "name": "Manekimon",
+  "nameJapanese": "マネキモン",
+  "playCost": "5",
+  "rarity": "Common",
   "setData": {
     "ch": [
       {
@@ -20,10 +51,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ],
@@ -33,10 +64,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ],
@@ -46,10 +77,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ],
@@ -59,12 +90,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ]
-  }
+  },
+  "type": "Puppet/Shambala/TB"
 }

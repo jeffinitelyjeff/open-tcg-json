@@ -1,18 +1,43 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.0 w/[2] trait: Cost DS",
+  "attribute": "Data",
   "blockIcon": "06",
+  "cardEffects": "[When Moving] [On Play] Reveal the top 3 cards of your deck. Add 1 card with [Aqua] or [Sea Animal] in any of its traits or 1 card with the [DS] trait among them to the hand. Return the rest to the bottom of the deck. Then, trash the bottom digivolution card of 1 of your opponent's Digimon.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+        "captionText": "BT-26: BOOSTER TIMELESS BONDS (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT26-018-Sample.png",
+        "imgName": "BT26-018-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/15/BT26-018-Sample.png/revision/latest?cb=20260731060720",
+        "uploadDate": "2026-07-31T06:07:20"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/15/BT26-018-Sample.png/revision/latest?cb=20260731060720",
+  "inheritedEffect": "＜Jamming＞ (This Digimon can't be deleted in battles against Security Digimon.)",
+  "level": "3",
+  "name": "Sangomon",
+  "nameJapanese": "サンゴモン",
+  "playCost": "3",
+  "rarity": "Common",
+  "rule": "[Rule] Trait: Has [Aquatic] Type.",
   "setData": {
     "ch": [
       {
@@ -20,10 +45,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naru",
+          "text": "naru"
         }
       }
     ],
@@ -33,10 +58,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naru",
+          "text": "naru"
         }
       }
     ],
@@ -46,10 +71,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naru",
+          "text": "naru"
         }
       }
     ],
@@ -59,12 +84,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Naru",
+          "text": "naru"
         }
       }
     ]
-  }
+  },
+  "type": "Mollusk/DS"
 }

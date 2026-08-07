@@ -1,18 +1,49 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[DM] trait: Cost 3",
+  "attribute": "Virus",
   "blockIcon": "06",
+  "cardEffects": "＜Security A. +1＞ (This Digimon checks 1 additional security card.)\n＜Execute＞ (At the end of your turn, this Digimon may attack. At the end of that attack, delete this Digimon. Your opponent's unsuspended Digimon can also be attacked with this effect.)\n＜Fragment (2)＞ (When this Digimon would be deleted, by trashing any 2 of its digivolution cards, it isn't deleted.)\n[On Play] [When Digivolving] [When Attacking] [Once Per Turn] You may play 1 play cost of 6 or lower [Ver.3] trait Digimon card from your trash without paying the cost. For each of this Digimon's face-down digivolution cards, add 1 to the play cost maximum.\n[On Deletion] Delete 1 of your opponent's Digimon or Tamers with the highest play cost.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Purple/Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "4",
+      "level": "5"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "5"
+    }
+  ],
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+        "captionText": "BT-26: BOOSTER TIMELESS BONDS (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT26-077-Sample.png",
+        "imgName": "BT26-077-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2e/BT26-077-Sample.png/revision/latest?cb=20260728060732",
+        "uploadDate": "2026-07-28T06:07:32"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2e/BT26-077-Sample.png/revision/latest?cb=20260728060732",
+  "level": "6",
+  "name": "Reapermon",
+  "nameJapanese": "ゴクモン",
+  "nameTranslated": "Gokumon",
+  "playCost": "12",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -20,10 +51,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
         }
       }
     ],
@@ -33,10 +64,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
         }
       }
     ],
@@ -46,10 +77,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
         }
       }
     ],
@@ -59,12 +90,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Ishibashi_Yosuke",
+          "text": "Ishibashi Yosuke"
         }
       }
     ]
-  }
+  },
+  "type": "Cyborg/DM/Ver.3"
 }

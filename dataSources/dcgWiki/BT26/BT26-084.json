@@ -1,18 +1,44 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.2 w/[Appmon] trait: Cost 0",
+  "attribute": "System",
   "blockIcon": "06",
+  "cardEffects": "＜Detach ([Seven Code] trait)＞ (When this Digimon would leave the battle area other than by your effects, by trashing 1 of its specified link cards, it doesn't leave.)\n[Your Turn] [Once Per Turn] When this Digimon gets linked, reveal the top 3 cards of your deck. You may play or use 1 [Seven Code] trait card among them with the cost reduced by 3. Return the rest to the top or bottom of the deck.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "White",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "4000 DP",
+  "form": "Stnd./Appmon",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+        "captionText": "BT-26: BOOSTER TIMELESS BONDS (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT26-084-Sample.png",
+        "imgName": "BT26-084-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1c/BT26-084-Sample.png/revision/latest?cb=20260727061931",
+        "uploadDate": "2026-07-27T06:19:31"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1c/BT26-084-Sample.png/revision/latest?cb=20260727061931",
+  "level": "3",
+  "linkDp": "<< +3000 DP",
+  "linkEffect": "[When Linking] You may link 1 non-white level 4 or lower [System] or [Seven Code] trait card from your trash to this Digimon without paying the cost.",
+  "linkRequirements": "[Link] [Appmon] trait: Cost 3 \n(Plug this card from the hand or battle area sideways into the specified Digimon in the battle area.)",
+  "name": "Copipemon",
+  "nameJapanese": "コピペモン",
+  "playCost": "4",
+  "rarity": "Common",
   "setData": {
     "ch": [
       {
@@ -20,10 +46,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
         }
       }
     ],
@@ -33,10 +59,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
         }
       }
     ],
@@ -46,10 +72,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
         }
       }
     ],
@@ -59,12 +85,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:YAMURETSU",
+          "text": "YAMURETSU"
         }
       }
     ]
-  }
+  },
+  "type": "Copy & Paste (App Name)/Seven Code"
 }

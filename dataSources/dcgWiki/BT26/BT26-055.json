@@ -1,18 +1,42 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[DM] trait: Cost 3",
+  "attribute": "Vaccine",
   "blockIcon": "06",
+  "cardEffects": "＜Fragment (2)＞ (When this Digimon would be deleted, by trashing any 2 of its digivolution cards, it isn't deleted.)\n[On Play] [When Digivolving] [Counter] [Once Per Turn] You may place 1 card in your hand face down as this Digimon's bottom digivolution card. Then, you may delete 1 of your Digimon with the [Ver.3] trait and all of your opponent's Digimon with the lowest play cost.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+        "captionText": "BT-26: BOOSTER TIMELESS BONDS (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT26-055-Sample.png",
+        "imgName": "BT26-055-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3b/BT26-055-Sample.png/revision/latest?cb=20260728043809",
+        "uploadDate": "2026-07-28T04:38:09"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3b/BT26-055-Sample.png/revision/latest?cb=20260728043809",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When this Digimon would leave the battle area, trash your opponent's top security card.",
+  "level": "5",
+  "name": "Giromon",
+  "nameJapanese": "ギロモン",
+  "playCost": "7",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -20,10 +44,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:BIRU_YAMAGUCHI",
+          "text": "BIRU YAMAGUCHI"
         }
       }
     ],
@@ -33,10 +57,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:BIRU_YAMAGUCHI",
+          "text": "BIRU YAMAGUCHI"
         }
       }
     ],
@@ -46,10 +70,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:BIRU_YAMAGUCHI",
+          "text": "BIRU YAMAGUCHI"
         }
       }
     ],
@@ -59,12 +83,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:BIRU_YAMAGUCHI",
+          "text": "BIRU YAMAGUCHI"
         }
       }
     ]
-  }
+  },
+  "type": "Mine/DM/Ver.3"
 }

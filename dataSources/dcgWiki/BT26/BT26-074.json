@@ -1,18 +1,49 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[TS] trait: Cost 3",
+  "attribute": "Vaccine",
   "blockIcon": "06",
+  "cardEffects": "[On Play] [When Digivolving] [When Attacking] [Once Per Turn] If it's your turn, by trashing 1 card in your hand, you may use 1 Option card with the [Titan] trait from your trash with the cost reduced by 2.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Purple/Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+        "captionText": "BT-26: BOOSTER TIMELESS BONDS (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT26-074-Sample.png",
+        "imgName": "BT26-074-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/7/78/BT26-074-Sample.png/revision/latest?cb=20260722070408",
+        "uploadDate": "2026-07-22T07:04:08"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/7/78/BT26-074-Sample.png/revision/latest?cb=20260722070408",
+  "inheritedEffect": "[On Deletion] Delete 1 of your opponent's Digimon with the lowest level.",
+  "level": "5",
+  "name": "Cerberusmon",
+  "nameJapanese": "ケルベロモン",
+  "playCost": "7",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -20,10 +51,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:K.Dra",
+          "text": "k.Dra"
         }
       }
     ],
@@ -33,10 +64,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:K.Dra",
+          "text": "k.Dra"
         }
       }
     ],
@@ -46,10 +77,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:K.Dra",
+          "text": "k.Dra"
         }
       }
     ],
@@ -59,12 +90,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:K.Dra",
+          "text": "k.Dra"
         }
       }
     ]
-  }
+  },
+  "type": "Dark Animal/Titan/TS"
 }

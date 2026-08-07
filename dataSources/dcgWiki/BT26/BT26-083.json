@@ -1,18 +1,57 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.6 w/[TS] trait: Cost 4",
+  "assemblyRequirements": "[Assembly -4] [Junomon]\nWhen this would be played, by placing the specified cards from the trash under it, reduce the play cost.",
+  "attribute": "Virus",
   "blockIcon": "06",
+  "cardEffects": "＜Rush＞ (This Digimon can attack the turn it was played.)\n＜Piercing＞ (When this Digimon deletes your opponent's Digimon in battle while attacking, it checks security before the attack ends.)\n＜Execute＞ (At the end of your turn, this Digimon may attack. At the end of that attack, delete this Digimon. Your opponent's unsuspended Digimon can also be attacked with this effect.)\n＜Decode ([Junomon]/Lv.5 or lower w/[Iliad] trait)＞ (When this Digimon would leave the battle area other than in battle, you may play 1 specified Digimon card from its digivolution cards without paying the cost.)\n[On Play] [When Digivolving] Trash all of your security cards. For each card this effect trashed, delete 1 of your opponent's Digimon. Then, ＜Recovery +3＞ (Place the top 3 cards of your deck as your top 3 security cards.)\n[On Deletion] Give all of your opponent's Digimon ＜Security A. -1＞ until their turn ends. (This Digimon checks 1 fewer security card.)",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Purple/Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "4",
+      "level": "6"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "6"
+    }
+  ],
+  "dp": "14000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+        "captionText": "BT-26: BOOSTER TIMELESS BONDS (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT26-083-Sample.png",
+        "imgName": "BT26-083-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/36/BT26-083-Sample.png/revision/latest?cb=20260801062242",
+        "uploadDate": "2026-08-01T06:22:42"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+        "captionText": "BT-26: BOOSTER TIMELESS BONDS (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT26-083_P1-Sample.png",
+        "imgName": "BT26-083_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a6/BT26-083_P1-Sample.png/revision/latest?cb=20260801090146",
+        "uploadDate": "2026-08-01T09:01:46"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/3/36/BT26-083-Sample.png/revision/latest?cb=20260801062242",
+  "level": "7",
+  "name": "Junomon: Hysteric Mode",
+  "nameJapanese": "ユノモン：ヒステリックモード",
+  "playCost": "14",
+  "rarity": "Super Rare",
   "setData": {
     "ch": [
       {
@@ -20,10 +59,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+          "text": "BT-26: BOOSTER TIMELESS BONDS"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
         }
       }
     ],
@@ -33,10 +83,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+          "text": "BT-26: BOOSTER TIMELESS BONDS"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
         }
       }
     ],
@@ -46,10 +107,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+          "text": "BT-26: BOOSTER TIMELESS BONDS"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
         }
       }
     ],
@@ -59,12 +131,24 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Takase",
+          "text": "Takase"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+          "text": "BT-26: BOOSTER TIMELESS BONDS"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
         }
       }
     ]
-  }
+  },
+  "type": "Shaman/Olympos XII/Iliad/TS"
 }

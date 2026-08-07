@@ -1,4 +1,5 @@
 {
+  "attribute": "Navi",
   "blockIcon": "06",
   "cardRestriction": {
     "chinese": "Not released",
@@ -6,13 +7,27 @@
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digi-Egg",
+  "color": "White",
+  "form": "Appmon",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+        "captionText": "BT-26: BOOSTER TIMELESS BONDS (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT26-007-Sample.png",
+        "imgName": "BT26-007-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b7/BT26-007-Sample.png/revision/latest?cb=20260727052014",
+        "uploadDate": "2026-07-27T05:20:14"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b7/BT26-007-Sample.png/revision/latest?cb=20260727052014",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] You may link 1 [Seven Code] trait Digimon card from your hand or this Digimon's digivolution cards to this Digimon with the cost reduced by 2.",
+  "level": "2",
+  "name": "Swipemon",
+  "nameJapanese": "スワイプモン",
+  "rarity": "Common",
   "setData": {
     "ch": [
       {
@@ -20,10 +35,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:BIRU_YAMAGUCHI",
+          "text": "BIRU YAMAGUCHI"
         }
       }
     ],
@@ -33,10 +48,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:BIRU_YAMAGUCHI",
+          "text": "BIRU YAMAGUCHI"
         }
       }
     ],
@@ -46,10 +61,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:BIRU_YAMAGUCHI",
+          "text": "BIRU YAMAGUCHI"
         }
       }
     ],
@@ -59,12 +74,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:BIRU_YAMAGUCHI",
+          "text": "BIRU YAMAGUCHI"
         }
       }
     ]
-  }
+  },
+  "type": "Swipe"
 }

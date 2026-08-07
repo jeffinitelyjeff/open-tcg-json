@@ -1,18 +1,50 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Shambala] trait: Cost 3",
+  "assemblyRequirements": "[Assembly -2] Lv.4 or lower [TB] trait card\nWhen this would be played, by placing the specified cards from the trash under it, reduce the play cost.",
+  "attribute": "Vaccine",
   "blockIcon": "06",
+  "cardEffects": "[On Play] [When Digivolving] Delete 1 of your opponent's Digimon with 7000 DP or less.\n [On Deletion] You may return 1 [Shambala] trait card from your trash to the hand. Then, you may play 1 [TB] trait Digimon card with 6000 DP or less from your hand without paying the cost.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Red/Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+        "captionText": "BT-26: BOOSTER TIMELESS BONDS (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT26-014-Sample.png",
+        "imgName": "BT26-014-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/8/89/BT26-014-Sample.png/revision/latest?cb=20260723042119",
+        "uploadDate": "2026-07-23T04:21:19"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/8/89/BT26-014-Sample.png/revision/latest?cb=20260723042119",
+  "inheritedEffect": "[On Deletion] You may play 1 [TB] trait Digimon card with 6000 DP or less from your hand without paying the cost.",
+  "level": "5",
+  "name": "Darumamon",
+  "nameJapanese": "ダルマモン",
+  "playCost": "7",
+  "rarity": "Rare",
   "setData": {
     "ch": [
       {
@@ -20,10 +52,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ],
@@ -33,10 +65,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ],
@@ -46,10 +78,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ],
@@ -59,12 +91,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tessy",
+          "text": "tessy"
         }
       }
     ]
-  }
+  },
+  "type": "Mutant/Shambala/TB"
 }

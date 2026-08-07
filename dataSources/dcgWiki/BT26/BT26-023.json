@@ -1,18 +1,42 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[DM] trait: Cost 2",
+  "attribute": "Vaccine",
   "blockIcon": "06",
+  "cardEffects": "＜Training＞ (In the main phase, by suspending this Digimon, place your deck's top card face down as this Digimon's bottom digivolution card. This effect can also activate in the breeding area.)\n＜Jamming＞ (This Digimon can't be deleted in battles against Security Digimon.)\n[On Play] [When Attacking] By placing 1 card in your hand face down as this Digimon's bottom digivolution card, return 1 of your opponent's level 4 or lower Digimon to the bottom of the deck.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "4000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+        "captionText": "BT-26: BOOSTER TIMELESS BONDS (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT26-023-Sample.png",
+        "imgName": "BT26-023-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/66/BT26-023-Sample.png/revision/latest?cb=20260803135729",
+        "uploadDate": "2026-08-03T13:57:29"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/66/BT26-023-Sample.png/revision/latest?cb=20260803135729",
+  "inheritedEffect": "[When Attacking] If your hand has 7 or fewer cards, ＜Draw 1＞ (Draw 1 card from your deck.)",
+  "level": "4",
+  "name": "Mojyamon",
+  "nameJapanese": "モジャモン",
+  "playCost": "4",
+  "rarity": "Common",
   "setData": {
     "ch": [
       {
@@ -20,10 +44,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
         }
       }
     ],
@@ -33,10 +57,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
         }
       }
     ],
@@ -46,10 +70,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
         }
       }
     ],
@@ -59,12 +83,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
         }
       }
     ]
-  }
+  },
+  "type": "Rare Animal/DM/Ver.4"
 }

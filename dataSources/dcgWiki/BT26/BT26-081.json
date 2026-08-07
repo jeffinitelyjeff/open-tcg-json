@@ -1,18 +1,62 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  [Minervamon]: Cost 2 \n[Digivolve]  Lv.5 w/[TS] trait: Cost 4",
+  "assemblyRequirements": "[Assembly -5] [Minervamon]\nWhen this would be played, by placing the specified cards from the trash under it, reduce the play cost.",
+  "attribute": "Virus",
   "blockIcon": "06",
+  "cardEffects": "[On Play] [When Digivolving] You may play up to 8 play cost's total worth of [Iliad] trait cards from your hand or trash without paying the costs. Then, to 1 of your opponent's Digimon, give -4000 DP until their turn ends for each of your [Iliad] or [TS] trait Digimon or Tamers.\n[All Turns] All of your [Iliad] trait Digimon gain ＜Alliance＞  (When this Digimon attacks, by suspending 1 of your other Digimon, add the suspended Digimon's DP to this Digimon and it gains ＜Security A. +1＞ for the attack.), ＜Reboot＞ (This Digimon also unsuspends in your opponent's unsuspend phase.), ＜Blocker＞ (This Digimon can block in the blocker timing.) and +2000 DP.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Purple/Yellow/Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "5",
+      "level": "5"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "5",
+      "level": "5"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "5",
+      "level": "5"
+    }
+  ],
+  "dp": "13000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+        "captionText": "BT-26: BOOSTER TIMELESS BONDS (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT26-081-Sample.png",
+        "imgName": "BT26-081-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c7/BT26-081-Sample.png/revision/latest?cb=20260730135016",
+        "uploadDate": "2026-07-30T13:50:16"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+        "captionText": "BT-26: BOOSTER TIMELESS BONDS (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT26-081_P1-Sample.png",
+        "imgName": "BT26-081_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/9a/BT26-081_P1-Sample.png/revision/latest?cb=20260731062347",
+        "uploadDate": "2026-07-31T06:23:47"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/c/c7/BT26-081-Sample.png/revision/latest?cb=20260730135016",
+  "level": "6",
+  "name": "Mervamon",
+  "nameJapanese": "メルヴァモン",
+  "playCost": "13",
+  "rarity": "Super Rare",
   "setData": {
     "ch": [
       {
@@ -20,10 +64,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+          "text": "BT-26: BOOSTER TIMELESS BONDS"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
         }
       }
     ],
@@ -33,10 +88,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+          "text": "BT-26: BOOSTER TIMELESS BONDS"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
         }
       }
     ],
@@ -46,10 +112,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+          "text": "BT-26: BOOSTER TIMELESS BONDS"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
         }
       }
     ],
@@ -59,12 +136,24 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Yuuki.",
+          "text": "yuuki."
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+          "text": "BT-26: BOOSTER TIMELESS BONDS"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
         }
       }
     ]
-  }
+  },
+  "type": "Shaman/Olympos XII/Iliad/TS"
 }

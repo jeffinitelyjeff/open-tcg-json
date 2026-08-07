@@ -1,18 +1,31 @@
 {
   "blockIcon": "06",
+  "cardEffects": "＜Use Req. ([DM] trait)＞ (Specified cards let you ignore color requirements.)\n[Main] Reveal the top 3 cards of your deck. Add 1 [DM] card among them to the hand. Return the rest to the bottom of the deck. Then, place this card in the battle area.\n[All Turns] When face-down cards are placed in any of your Digimon's digivolution cards, ＜Delay＞ (By trashing this card after the placing turn, activate the effect below.)\n・Any of those Digimon may digivolve into a level 6 or lower [DM] trait Digimon card in the hand without paying the cost.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Option",
+  "color": "Green",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+        "captionText": "BT-26: BOOSTER TIMELESS BONDS (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT26-099-Sample.png",
+        "imgName": "BT26-099-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5d/BT26-099-Sample.png/revision/latest?cb=20260804062229",
+        "uploadDate": "2026-08-04T06:22:29"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/5d/BT26-099-Sample.png/revision/latest?cb=20260804062229",
+  "name": "Training Manual",
+  "nameJapanese": "トレーマニュアル",
+  "rarity": "Uncommon",
+  "securityEffect": "[Security] Activate this card's [Main] effects.",
   "setData": {
     "ch": [
       {
@@ -20,11 +33,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
       }
     ],
     "en": [
@@ -33,11 +43,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
       }
     ],
     "jp": [
@@ -46,11 +53,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
       }
     ],
     "kr": [
@@ -59,12 +63,11 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
       }
     ]
-  }
+  },
+  "type": "DM",
+  "useCost": "3"
 }

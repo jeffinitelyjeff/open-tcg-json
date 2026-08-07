@@ -1,18 +1,49 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[Shambala]/[TS] trait: Cost 3",
+  "assemblyRequirements": "[Assembly -4] 2 Lv.5 or lower [Shambala] trait cards w/different levels\nWhen this would be played, by placing the specified cards from the trash under it, reduce the play cost.",
+  "attribute": "Virus",
   "blockIcon": "06",
+  "cardEffects": "＜Blocker＞ (This Digimon can block in the blocker timing.)\n＜Retaliation＞ (When only this Digimon is deleted in battle, delete the Digimon it battled.) \n[On Play] [When Digivolving] 1 of your Digimon with the [Shambala] trait gains ＜Security A. +1＞  (This Digimon checks 1 additional security card.) and ＜Progress＞ for the turn. (While attacking, your opponent's effects don't affect this Digimon.)\n[On Deletion] You may play 1 [Shambala] or [TS] trait card with a play cost of 5 or less from your trash without paying the cost.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Red/Purple",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "4",
+      "level": "5"
+    },
+    {
+      "color": "Purple",
+      "digivolveCost": "4",
+      "level": "5"
+    }
+  ],
+  "dp": "12000 DP",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+        "captionText": "BT-26: BOOSTER TIMELESS BONDS (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT26-017-Sample.png",
+        "imgName": "BT26-017-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d2/BT26-017-Sample.png/revision/latest?cb=20260724133507",
+        "uploadDate": "2026-07-24T13:35:07"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/d2/BT26-017-Sample.png/revision/latest?cb=20260724133507",
+  "level": "6",
+  "name": "Zanbamon",
+  "nameJapanese": "ザンバモン",
+  "playCost": "12",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -20,10 +51,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NIJIMAARC",
+          "text": "NIJIMAARC"
         }
       }
     ],
@@ -33,10 +64,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NIJIMAARC",
+          "text": "NIJIMAARC"
         }
       }
     ],
@@ -46,10 +77,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NIJIMAARC",
+          "text": "NIJIMAARC"
         }
       }
     ],
@@ -59,12 +90,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NIJIMAARC",
+          "text": "NIJIMAARC"
         }
       }
     ]
-  }
+  },
+  "type": "Wizard/Shambala/TB/TS"
 }

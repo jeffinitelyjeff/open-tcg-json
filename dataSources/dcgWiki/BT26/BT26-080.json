@@ -1,18 +1,63 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Play cost 12 [Bacchusmon]: Cost 2",
+  "attribute": "Virus",
   "blockIcon": "06",
+  "cardEffects": "＜Security A. +1＞ (This Digimon checks 1 additional security card.)\n＜Succession ([Bacchusmon])＞ (This Digimon gains all effects other than ＜Succession＞ on its topmost specified digivolution card.)\n[When Digivolving] By suspending 1 Digimon, this Digimon may attack without suspending.\n[When Attacking] [Once Per Turn] Delete 1 of your opponent's Digimon with the same orientation as this Digimon.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon/Option",
+  "color": "Purple/Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "5",
+      "level": "5"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "5",
+      "level": "5"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "5",
+      "level": "5"
+    }
+  ],
+  "dp": "13000 DP",
+  "dual": "[Arts Digivolve] (Instead of trashing after use, your cards may digivolve into this card without paying the cost.)",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+        "captionText": "BT-26: BOOSTER TIMELESS BONDS (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT26-080-Sample.png",
+        "imgName": "BT26-080-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/0/03/BT26-080-Sample.png/revision/latest?cb=20260805061400",
+        "uploadDate": "2026-08-05T06:14:00"
+      },
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+        "captionText": "BT-26: BOOSTER TIMELESS BONDS (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT26-080_P1-Sample.png",
+        "imgName": "BT26-080_P1-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e8/BT26-080_P1-Sample.png/revision/latest?cb=20260805132458",
+        "uploadDate": "2026-08-05T13:24:58"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/03/BT26-080-Sample.png/revision/latest?cb=20260805061400",
+  "level": "6",
+  "name": "Bacchusmon/Reversal of the Dead",
+  "nameJapanese": "バッカスモン/リバース・オブ・ザ・デッド",
+  "optionCardColourRequirements": "Purple",
+  "optionCardEffect": "＜Use Req. ([TS] trait)＞ (Specified cards let you ignore color requirements.)\n[Main] You may unsuspend 1 Digimon. Then, delete all of your opponent's unsuspended Digimon with the lowest DP.",
+  "rarity": "Super Rare",
   "setData": {
     "ch": [
       {
@@ -20,10 +65,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+          "text": "BT-26: BOOSTER TIMELESS BONDS"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
         }
       }
     ],
@@ -33,10 +89,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+          "text": "BT-26: BOOSTER TIMELESS BONDS"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
         }
       }
     ],
@@ -46,10 +113,21 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+          "text": "BT-26: BOOSTER TIMELESS BONDS"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
         }
       }
     ],
@@ -59,12 +137,25 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Koki",
+          "text": "koki"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+          "text": "BT-26: BOOSTER TIMELESS BONDS"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Sasasi",
+          "text": "sasasi"
         }
       }
     ]
-  }
+  },
+  "type": "Shaman/Olympos XII/Iliad/TS",
+  "useCost": "5"
 }
