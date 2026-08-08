@@ -1,18 +1,31 @@
 {
   "blockIcon": "06",
+  "cardEffects": "Add 1 to this card's use cost for each of your security cards.\n[Main] By placing 1 of your Tamers with [Dan Yuki] or [Kanan Yuki] in their names as any of your [Aegiomon]'s bottom digivolution card, it may digivolve into [Jupitermon] in the hand or trash, ignoring digivolution requirements and without paying the cost. After, you may place 1 card with [Aegiochusmon] in its name in your trash as any of your [Jupitermon]'s top digivolution card.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Option",
+  "color": "Yellow",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
+        "captionText": "BT-26: BOOSTER TIMELESS BONDS (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT26-097-Sample.png",
+        "imgName": "BT26-097-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/aa/BT26-097-Sample.png/revision/latest?cb=20260808062654",
+        "uploadDate": "2026-08-08T06:26:54"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/aa/BT26-097-Sample.png/revision/latest?cb=20260808062654",
+  "name": "The Thunder Emperor Awakens",
+  "nameJapanese": "雷霆の覚醒",
+  "rarity": "Rare",
+  "securityEffect": "[Security] You may play 1 play cost 5 or lower [TS] trait card from your hand without paying the cost. Then, add this card to the hand.",
   "setData": {
     "ch": [
       {
@@ -20,11 +33,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
       }
     ],
     "en": [
@@ -33,11 +43,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
       }
     ],
     "jp": [
@@ -46,11 +53,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
       }
     ],
     "kr": [
@@ -59,12 +63,11 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-26:_BOOSTER_TIMELESS_BONDS",
           "text": "BT-26: BOOSTER TIMELESS BONDS"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "Foil - Rare",
+        "illustrator": "No Illustrator"
       }
     ]
-  }
+  },
+  "type": "TS",
+  "useCost": "2"
 }
