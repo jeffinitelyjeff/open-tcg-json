@@ -1,4 +1,5 @@
 {
+  "attribute": "Data",
   "blockIcon": "06",
   "cardRestriction": {
     "chinese": "Not released",
@@ -6,13 +7,29 @@
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
+  "cardType": "Digimon",
+  "color": "Yellow/Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "2",
+      "level": "3"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "2",
+      "level": "3"
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Champion",
   "galleryImages": {},
   "image": null,
-  "name": "[[:Category:|]]",
+  "level": "4",
+  "name": "Petermon",
   "nameJapanese": "",
-  "rarity": "",
+  "playCost": "4",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -66,5 +83,6 @@
         }
       }
     ]
-  }
+  },
+  "type": "Fairy/WG"
 }

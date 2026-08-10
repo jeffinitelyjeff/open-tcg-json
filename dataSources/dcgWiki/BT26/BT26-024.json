@@ -1,4 +1,5 @@
 {
+  "attribute": "Virus",
   "blockIcon": "06",
   "cardRestriction": {
     "chinese": "Not released",
@@ -7,12 +8,28 @@
     "nameJapanese": "Not released"
   },
   "cardType": "Digimon",
-  "color": "[[]]",
+  "color": "Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "0",
+      "level": "2"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "0",
+      "level": "2"
+    }
+  ],
+  "dp": "2000 DP",
+  "form": "Rookie",
   "galleryImages": {},
   "image": null,
-  "name": "[[:Category:|]]",
+  "level": "3",
+  "name": "Tinkermon",
   "nameJapanese": "",
-  "rarity": "",
+  "playCost": "3",
+  "rarity": "Common",
   "setData": {
     "ch": [
       {
@@ -66,5 +83,6 @@
         }
       }
     ]
-  }
+  },
+  "type": "Fairy/WG"
 }
