@@ -1,5 +1,6 @@
 {
   "blockIcon": "06",
+  "cardEffects": "＜Collision＞ (During this Digimon's attack, all of your opponent's Digimon gain ＜Blocker＞, and must block if possible.) ＜Reboot＞ (This Digimon also unsuspends in your opponent's unsuspend phase.) ＜Blocker＞ (This Digimon can block in the blocker timing.) Template:On Play Until your opponent's turn ends, your opponent's effects can't reduce this Digimon's DP or trash its stacked cards. Template:All Turns When this Digimon would leave the battle area, by digivolving it into Chronomon: Destroy Mode in the hand or trash without paying the cost, it doesn't leave.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
@@ -8,11 +9,14 @@
   },
   "cardType": "Digimon",
   "color": "White",
+  "dp": "14000 DP",
+  "form": "",
   "galleryImages": {},
   "image": null,
   "name": "Giant Slayer",
   "nameJapanese": "巨神兵器",
-  "rarity": "",
+  "playCost": "12",
+  "rarity": "Rare",
   "setData": {
     "ch": [
       {
@@ -66,5 +70,6 @@
         }
       }
     ]
-  }
+  },
+  "type": "TS"
 }
