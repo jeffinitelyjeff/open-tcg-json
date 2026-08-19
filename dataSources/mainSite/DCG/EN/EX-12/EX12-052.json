@@ -1,0 +1,132 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "It refers to a card that contains the specified text or icon in its name, traits, effects, inherited effects, (Rule), digivolution requirements, DNA digivolution, DigiXros requirements, burst digivolve, App Fusion, Link, or Assembly requirements.  For example, a card with [Knightmon] in its text would include cards with the name [DarkKnightmon] and cards with the text [Knightmon] in their effects.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6835",
+      "q": "What does a card with \"X in its text\" refer to?"
+    },
+    {
+      "a": "No, you can't.  The Digimon that gets additional DP from this effect must battle an opponent's Digimon if possible.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6836",
+      "q": "Can I use this card's [When Digivolving] [When Attacking] [Counter] effect to get additional DP but then choose to not have that Digimon and an opponent's Digimon battle?"
+    },
+    {
+      "a": "This effect prevents a card from being affected by effects.  For example, your Digimon won't suspend if it's chosen for a \"suspend 1 of your opponent's Digimon\" effect, and its DP won't be reduced by 3000 if it's chosen for a \"1 of your opponent's Digimon gets -3000 DP\" effect.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6837",
+      "q": "What does \"effects don't affect\" mean, exactly?"
+    },
+    {
+      "a": "Yes, it can be chosen.  For example, a Digimon that isn't affected by effects can be chosen for a \"suspend 1 of your opponent's Digimon\" effect.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6838",
+      "q": "Can a card that has an \"effects don't affect\" effect be chosen for an effect?"
+    },
+    {
+      "a": "Yes, it can.  It won't be affected by it, but it can be given an effect.  However, if an effect such as  is given to a Digimon that isn't affected by effects, the Digimon won't be considered to have that effect.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6839",
+      "q": "Can a card that has an \"effects don't affect\" effect be given an effect?"
+    },
+    {
+      "a": "As soon as it gains the \"effects don't affect\" effect, it will no longer be affected.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6840",
+      "q": "If a card is affected by an effect, then it later gains an \"effects don't affect\" effect, what happens to the effect that was affecting it?"
+    },
+    {
+      "a": "It will be affected by the effect as soon as it can be affected by effects.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6841",
+      "q": "If a card has an \"effects don't affect\" effect, it gains an effect, then it later loses the \"effects don't affect\" effect, what happens to the effect that it gained?"
+    },
+    {
+      "a": "If the Digimon isn't affected by effects upon the trigger timing, the effect won't trigger.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6842",
+      "q": "A card that has an \"effects don't affect\" effect was given an effect that triggers at a timing such as [When Attacking].  Will the effect trigger if that card later meets the trigger conditions?"
+    },
+    {
+      "a": "This effect directly performs a battle.  If this effect is activated, the chosen Digimon battle, as with the standard rules.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6843",
+      "q": "What does \"may battle\" mean, exactly?"
+    },
+    {
+      "a": "Yes, they can battle.  A card that has an \"effects don't affect\" effect can still be chosen for an effect. In addition, a battle itself is a rule that compares DP, not an effect. Therefore, a Digimon that isn't affected by effects can be chosen, and then it can battle.  If it loses the battle, it will be deleted as normal according to the rules.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6844",
+      "q": "If 2 Digimon including a Digimon that has an \"effects don't affect\" effect are chosen for a \"may battle\" effect, can those Digimon battle?"
+    },
+    {
+      "a": "No, you can't. Only 1 [Counter] effect can be activated during 1 attack.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6845",
+      "q": "Can I activate a [Counter] effect and then activate another [Counter] effect?"
+    },
+    {
+      "a": "No, you only perform 1 security check for .  Only 1 security check can be performed during a single attack, even if  activates multiple times.  However, if the number of checks is modified by , that number of cards will be checked in a single security check.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6846",
+      "q": "During an attack by my Digimon with , I activate this card's [When Digivolving] [When Attacking] [Counter] effect, the attacking Digimon and an opponent's Digimon battle, and my opponent's Digimon was deleted in battle.  Then, if the attack target successfully becomes an opponent's Digimon and it's also deleted in battle, do I use that Digimon's  to perform 2 checks?"
+    },
+    {
+      "a": "Yes, you can.   is an effect that triggers and activates if an opponent's Digimon is deleted in battle during the attack, and it's processed immediately before the end of attack timing.   will still trigger if the Digimon with  successfully attacks a Digimon, even if another battle occurs during this battle.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6847",
+      "q": "During an attack by my Digimon with , I use this card's [When Digivolving] [When Attacking] [Counter] effect to have that Digimon and an opponent's Digimon battle, and my opponent's Digimon was deleted in battle.  Then, if the attack target successfully becomes an opponent's Digimon, it loses the battle, but an effect prevents it from being deleted, can I still activate that Digimon's ?"
+    },
+    {
+      "a": "No, you can't.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6848",
+      "q": "During an attack by an opponent's Digimon, if I activate this card's [When Digivolving] [When Attacking] [Counter] effect and my opponent's Digimon is deleted in battle, can I activate  on this card and perform a security check?"
+    },
+    {
+      "a": "Yes, it can.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6849",
+      "q": "Can this card's [Main] effect suspend a different card from the one that's given \"can't unsuspend\"?"
+    }
+  ],
+  "Color": [
+    "Green",
+    "Black"
+  ],
+  "Cost": "D",
+  "DP": "12000",
+  "DUAL Color": "Green",
+  "DUAL Cost": "5",
+  "DUAL Effect": [
+    "＜Use Req. ([NSp] trait)＞ (Specified cards let you ignore color requirements.)",
+    "[Main] 1 of your Digimon may unsuspend. Then, suspend 2 of your opponent's Digimon. 2 of their Digimon or Tamers can't unsuspend until their turn ends."
+  ],
+  "DUAL Rule": "＜Arts Digivolve＞ (Instead of trashing after use, your cards may digivolve into this card without paying the cost.)",
+  "Digivolve Cost 1": [
+    "Green",
+    "Black",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "＜Piercing＞ ＜Vortex＞",
+    "[When Digivolving] Your opponent's Digimon effects don't affect 1 of your Digimon until their turn ends.",
+    "[When Digivolving] [When Attacking] [Counter] [Once Per Turn] 1 of your Digimon may get +3000 DP until your opponent's turn ends and battle 1 of their Digimon."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Extra Booster DIGITAL WORLD SHAMBALA [EX-12]",
+    "?search=true&category=522037",
+    "/products/pack/ex-12"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.5 w/[Angoramon] in text or w/[NSp] trait: Cost 3",
+  "Type": "Beast Knight/NSp",
+  "cardLv": "Lv.6",
+  "cardNo": "EX12-052",
+  "cardRarity": "SR",
+  "cardTitle": "Diarbbitmon          Truskmore Advance",
+  "cardType": "Digimon/Option",
+  "imgSrc": "../images/cardlist/card/EX12-052.png?260529"
+}

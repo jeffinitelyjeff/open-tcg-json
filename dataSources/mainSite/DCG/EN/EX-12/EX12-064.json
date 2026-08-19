@@ -1,0 +1,63 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "No, you can't.  If your opponent has a level 4 or lower Digimon, you must choose that card and delete it.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6862",
+      "q": "My opponent has a level 4 or lower Digimon.  Can I meet the \"if this effect didn't delete\" condition in this card's [On Play] [When Digivolving] effect by not choosing a card to delete?"
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6863",
+      "q": "My opponent has a level 4 or lower Digimon with an effect that prevents deletion.  Can I meet the \"if this effect didn't delete\" condition in this card's [On Play] [When Digivolving] effect by choosing the opponent's level 4 or lower Digimon that has an effect that prevents deletion?"
+    },
+    {
+      "a": "Yes, it triggers.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6864",
+      "q": "Does this card's [All Turns] effect also trigger when this card itself is played?"
+    },
+    {
+      "a": "Yes, you can.\n                                            \n                        Related Cards",
+      "date": "Jun. 19, 2026",
+      "num": "Q6865",
+      "q": "At the end of an attack by a EX12-059 [Machinedramon ACE] that has this card in its digivolution cards, I use this card's inherited effect to unsuspend EX12-059 [Machinedramon ACE] and then try to delete it.  At such times, can I activate EX12-059  on [Machinedramon ACE] and prevent it from leaving?",
+      "relatedCards": [
+        "EX12-059"
+      ]
+    }
+  ],
+  "Color": [
+    "Purple",
+    "Black"
+  ],
+  "Cost": "7",
+  "DP": "7000",
+  "Digivolve Cost 1": [
+    "Purple",
+    "Black",
+    "4 from Lv.4"
+  ],
+  "Effect": [
+    "[On Play] [When Digivolving] Delete 1 of your opponent's level 4 or lower Digimon. If this effect didn't delete, ＜De-Digivolve 1＞ 1 of your opponent's Digimon.",
+    "[All Turns] [Once Per Turn] When any of your [Machine], [Cyborg] or [ME] trait Digimon are played, you may activate 1 of this Digimon's [When Digivolving] effects."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "[End of Attack] [Once Per Turn] By unsuspending this Digimon, delete 1 of your Digimon with the lowest play cost.",
+  "Notes": [
+    "Extra Booster DIGITAL WORLD SHAMBALA [EX-12]",
+    "?search=true&category=522037",
+    "/products/pack/ex-12"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.4 w/[Machine]/[ME] trait: Cost 3",
+  "Special Play Condition": "Assembly -2: Lv.4 or lower [Machine]/[Cyborg]/[ME] trait card",
+  "Type": "Cyborg/ME",
+  "cardLv": "Lv.5",
+  "cardNo": "EX12-064",
+  "cardRarity": "R",
+  "cardTitle": "Megadramon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX12-064.png?260529"
+}

@@ -1,0 +1,75 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": "Yes, both have to be on XX.  For example, if text reads \"level 4 or lower Digimon card with the [CS] trait or is yellow or black,\" it refers to a level 4 or lower Digimon card that has the [CS] trait or a level 4 or lower Digimon card that is yellow or black.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6779",
+      "q": "If text reads \"XX with AA or BB,\" do both AA and BB have to be on XX?"
+    },
+    {
+      "a": "Yes, each must be one of the specified cards.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6780",
+      "q": "Do this card's Assembly requirements mean that each Lv.5/Lv.4/Lv.3 card must have [Gabumon] or [Garurumon] in its name or the [ME] or [VB] trait?"
+    },
+    {
+      "a": "Yes, it triggers.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6781",
+      "q": "Does this card's [All Turns] effect also trigger when this card itself is played or when one of my Digimon in the battle area would digivolve into this card?"
+    },
+    {
+      "a": "The effects trigger simultaneously, so the player can choose the activation order.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6782",
+      "q": "Multiple effects trigger when this card is played. In what order do they activate?"
+    },
+    {
+      "a": "Yes, you can.  When this card's DP becomes 0 and it would be deleted by a rule check, its  and  will trigger simultaneously. You can activate , play a Digimon, activate , prevent the deletion, then activate this card's  again when it would be deleted by the next rule check. If the played Digimon has [On Play] effects, once all processing has been resolved for the rule checks, those [On Play] effects will trigger simultaneously.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6783",
+      "q": "I activated  to play a Digimon when this card's DP became 0 and it would be deleted, then I activated , and it was prevented from being deleted.  If this card's DP is still 0 after that and it would be deleted, can I activate  again?"
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6784",
+      "q": "When this card would be deleted, can I first activate  to prevent the deletion, then activate  to play a card from digivolution cards?"
+    }
+  ],
+  "Color": [
+    "Blue",
+    "Purple"
+  ],
+  "Cost": "12",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Blue",
+    "Purple",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "＜Evade＞ ＜Decode (Lv.5 or lower w/[Gabumon]/[Garurumon] in name or w/[ME]/[VB] trait)＞",
+    "[On Play] [When Digivolving] Trash any 4 digivolution cards from your opponent's Digimon. Then, return 1 of your opponent's Digimon with as many or fewer digivolution cards as this Digimon to the bottom of the deck.",
+    "[All Turns] [Once Per Turn] When any Digimon are played or digivolve, 1 of your opponent's Digimon can't suspend until their turn ends."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Extra Booster DIGITAL WORLD SHAMBALA [EX-12]",
+    "?search=true&category=522037",
+    "/products/pack/ex-12"
+  ],
+  "Special Digivolution Condition": [
+    "[Digivolve] Lv.5 w/[Garurumon] in name or w/[ME]/[VB] trait: Cost 3",
+    "[DNA Digivolve] Blue/black Lv.5 + purple/yellow Lv.5: Cost 0"
+  ],
+  "Special Play Condition": "Assembly -6: Lv.5 × Lv.4 × Lv.3, all w/[Gabumon]/[Garurumon] in name or w/[ME]/[VB] trait",
+  "Type": "Cyborg/ME/VB",
+  "cardLv": "Lv.6",
+  "cardNo": "EX12-035",
+  "cardRarity": "SR",
+  "cardTitle": "MetalGarurumon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX12-035.png?260529"
+}

@@ -1,0 +1,71 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "Yes, you can.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6795",
+      "q": "If an effect that activates another effect for each XX can activate multiple types of effects multiple times, can I activate the same effect multiple times or activate different effects?"
+    },
+    {
+      "a": "An effect to activate is chosen, then the next effect to activate is chosen after the previous effect has been resolved.  This is repeated for each XX.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6796",
+      "q": "If an effect that activates another effect for each XX can activate multiple types of effects multiple times, how is the effect activation order determined?"
+    },
+    {
+      "a": "No, it doesn't.  The number of XX is referenced at the timing of activation for the effect that activates another effect for each XX.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6797",
+      "q": "If the number of XX changes during activation of effects by an effect that activates another effect for each XX, does the number of activations also change?"
+    },
+    {
+      "a": "No, it isn't deleted yet.  Once all of the processing for the activated effect has resolved, a rule check will occur, then all of the Digimon with 0 DP are deleted at the same time.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6798",
+      "q": "This card's effect caused the DP of my opponent's Digimon to become 0.  At such times, is the Digimon with a DP of 0 deleted?"
+    },
+    {
+      "a": "No, you can't. When this card leaves the battle area, you can no longer reference the number of digivolution cards it has, so it can't be processed.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7191",
+      "q": "When I activate this card's [When Digivolving] [When Attacking] effect and my opponent's Digimon would leave the battle area due to the \"Delete 1 of your opponent's Digimon\" part, an immediate-type effect such as \"when [...] would leave\" removes this card from the battle area.After that, can I process the \"then, for every 5 of this Digimon's digivolution cards\" part of this card's effect?"
+    }
+  ],
+  "Color": [
+    "Blue",
+    "Yellow",
+    "Red"
+  ],
+  "Cost": "15",
+  "DP": "15000",
+  "Digivolve Cost 1": [
+    "Blue",
+    "Yellow",
+    "Red",
+    "5 from Lv.6"
+  ],
+  "Effect": [
+    "＜Piercing＞ ＜Blocker＞ ＜Barrier＞",
+    "[When Digivolving] [When Attacking] [Once Per Turn] Delete 1 of your opponent's Digimon. Then, for every 5 of this Digimon's digivolution cards, activate 1 of the effects below:",
+    "・1 of your opponent's Digimon gets -13000 DP until their turn ends.",
+    "・Trash your opponent's top security card. Then, ＜Recovery +1＞."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Extra Booster DIGITAL WORLD SHAMBALA [EX-12]",
+    "?search=true&category=522037",
+    "/products/pack/ex-12"
+  ],
+  "Special Digivolution Condition": [
+    "[Digivolve] Lv.6 w/[ME]/[VB] trait: Cost 5",
+    "[DNA Digivolve] Blue/yellow Lv.6 + red/black Lv.6: Cost 0"
+  ],
+  "Type": "Holy Warrior/Royal Knight/ME/VB",
+  "cardLv": "Lv.7",
+  "cardNo": "EX12-037",
+  "cardRarity": "UR",
+  "cardTitle": "Omnimon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX12-037.png?260529"
+}

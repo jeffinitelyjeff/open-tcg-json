@@ -1,0 +1,48 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "[Security] effects take precedence for activation.  Upon a check, a [Security] effect will immediately activate without pending activation.  For other triggered effects, the turn player activates their effects first.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6813",
+      "q": "In what order do a [Security] effect, \"when [...] performs a security check\" effect, and \"when a card is removed from [...] security stack\" effect activate when they trigger simultaneously upon a security check?"
+    },
+    {
+      "a": "Yes, it triggers.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6814",
+      "q": "During an attack by this card, I used its [Your Turn] effect to digivolve it. Does this card's [End of Attack] inherited effect trigger at the end of the attack?"
+    }
+  ],
+  "Color": [
+    "Yellow",
+    "Red"
+  ],
+  "Cost": "7",
+  "DP": "7000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "Red",
+    "4 from Lv.4"
+  ],
+  "Effect": [
+    "[On Play] [When Digivolving] Give 1 of your opponent's Digimon ＜Security A. -1＞ and -3000 DP until their turn ends.",
+    "[Your Turn] When your opponent's security stack is removed from, this Digimon may digivolve into a [TB] trait Digimon card in the hand with the cost reduced by 2."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "[End of Attack] [Once Per Turn] You may play 1 [TB] trait Digimon card with 5000 DP or less from your hand without paying the cost.",
+  "Notes": [
+    "Extra Booster DIGITAL WORLD SHAMBALA [EX-12]",
+    "?search=true&category=522037",
+    "/products/pack/ex-12"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.4 w/[Shambala] trait: Cost 3",
+  "Special Play Condition": "Assembly -2: Lv.4 or lower [TB] trait card",
+  "Type": "Holy Beast/Shambala/TB",
+  "cardLv": "Lv.5",
+  "cardNo": "EX12-046",
+  "cardRarity": "R",
+  "cardTitle": "Shishimamon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX12-046.png?260529"
+}

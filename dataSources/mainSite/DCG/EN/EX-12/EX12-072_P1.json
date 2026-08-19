@@ -1,0 +1,54 @@
+{
+  "Card Q&A": [
+    {
+      "a": "Yes, you can.  In such cases, you can't add a card from your security stack to your hand, therefore you only place this card in your security stack.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6887",
+      "q": "Can I also activate this card's [Main] effect when I have 0 cards in my security stack?"
+    },
+    {
+      "a": "They become face-up security cards that remain revealed.  Other than rules that specify face-up security cards, the rules apply in the same manner as standard security cards.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6888",
+      "q": "What happens to cards placed face up in the security stack by effects?"
+    },
+    {
+      "a": "The check is performed with the card left revealed.  Other than rules for cards left revealed, the rules apply in the same manner as standard checks.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6889",
+      "q": "What happens upon a security check for a security card that is placed face-up?"
+    },
+    {
+      "a": "Yes, it triggers.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6890",
+      "q": "Does a card's [Security] effect trigger upon a security check with that card placed face-up?"
+    },
+    {
+      "a": "Any face-up cards are placed face down, then you shuffle the cards.  After shuffling, those cards are left face-down.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6891",
+      "q": "What happens if I shuffle a security stack that includes security cards placed face-up?"
+    }
+  ],
+  "Color": "Black",
+  "Cost": "2",
+  "Effect": [
+    "＜Use Req. ([ME] trait)＞ (Specified cards let you ignore color requirements.)",
+    "{Security} [All Turns] All of your [ME] trait Digimon gain ＜Guard＞. (When any of your other Digimon would leave the battle area by your opponent's effects, by deleting this Digimon, they don't leave.)",
+    "[Main] Add your bottom security card to the hand and place this card face up as the bottom security card."
+  ],
+  "Notes": [
+    "Extra Booster DIGITAL WORLD SHAMBALA [EX-12]",
+    "?search=true&category=522037",
+    "/products/pack/ex-12"
+  ],
+  "Security Effect": "[Security] You may play 1 level 5 or lower [ME] trait Digimon card from your hand without paying the cost.",
+  "Type": "ME",
+  "cardNo": "EX12-072",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "C",
+  "cardTitle": "Metal Empire",
+  "cardType": "Option",
+  "imgSrc": "../images/cardlist/card/EX12-072_P1.png?260529"
+}

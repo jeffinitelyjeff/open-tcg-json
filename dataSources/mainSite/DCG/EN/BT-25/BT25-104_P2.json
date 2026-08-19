@@ -56,7 +56,7 @@
       "q": "If a Tamer is also treated as a Digimon using an \"is also treated as a Digimon with X000 DP\" effect, then another effect causes its DP to become 0, is it deleted upon a rule check?"
     },
     {
-      "a": "If an effect has triggered and the card is affected by a \"is also treated as a Digimon with X000 DP\" effect, the play cost, level, and DP are overwritten by the newer effect.  However, if an effect has already activated and the card is affected by a \"is also treated as a Digimon with X000 DP\" effect, the already activated effect will be overwritten.  Any other effects such as  that are later gained will be added.",
+      "a": "In the case of multiple triggered effects that state \"is also treated as an X000 DP Digimon\", the later effect overwrites the play cost, level and DP. However, if the card was under the effect of a persistent effect that states \"is also treated as an X000 DP Digimon\", that persistent effect will continue to overwrite the information. Any gained effects such as  will be added on top of that.",
       "date": "May. 8, 2026",
       "num": "Q6503",
       "q": "If a Tamer is also treated as a Digimon using an \"is also treated as a Digimon with X000 DP\" effect, and later it gains another \"is also treated as a Digimon with X000 DP\" effect, what happens?"
@@ -84,6 +84,12 @@
       "date": "May. 8, 2026",
       "num": "Q6507",
       "q": "Can I reference this card as an Option card with the traits shown on this card?"
+    },
+    {
+      "a": "No, it is not deleted. The Marcus Damon loses its DP and is no longer being treated as a Digimon before a rule check occurs. Therefor, it is no longer subject to the rule \"Digimon with 0 DP are destroyed\" when a rule check occurs, and it is not destroyed.",
+      "date": "Aug. 18, 2026",
+      "num": "Q6947",
+      "q": "The battle area currently contains this card with digivolution cards and a Marcus Damon that is being treated as a Digimon due to this card's effect.My opponent activates the effect \"1 of your opponent's Digimon gets -X000 DP until the end of turn. Then,  1 of their Digimon\" and reduces Marcus Damon's DP to 0 then deletes this card with .At this time, the Marcus Damon has lost its DP and is no longer treated as a Digimon due to this card's deletion. Is it deleted upon a rule check?"
     }
   ],
   "Color": [

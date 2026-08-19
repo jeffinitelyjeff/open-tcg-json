@@ -1,0 +1,57 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "It refers to a card that contains the specified text or icon in its name, traits, effects, inherited effects, (Rule), digivolution requirements, DNA digivolution, DigiXros requirements, burst digivolve, App Fusion, Link, or Assembly requirements.  For example, a card with [Knightmon] in its text would include cards with the name [DarkKnightmon] and cards with the text [Knightmon] in their effects.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6821",
+      "q": "What does a card with \"X in its text\" refer to?"
+    },
+    {
+      "a": "No, it isn't deleted yet.  Once all of the processing for the activated effect has resolved, a rule check will occur, then all of the Digimon with 0 DP are deleted at the same time.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6822",
+      "q": "This card's effect caused the DP of my opponent's Digimon to become 0.  At such times, is the Digimon with a DP of 0 deleted?"
+    },
+    {
+      "a": "Yes, both have to be on XX.  For example, if text reads \"level 4 or lower Digimon card with the [CS] trait or is yellow or black,\" it refers to a level 4 or lower Digimon card that has the [CS] trait or a level 4 or lower Digimon card that is yellow or black.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6823",
+      "q": "If text reads \"XX with AA or BB,\" do both AA and BB have to be on XX?"
+    }
+  ],
+  "Color": [
+    "Yellow",
+    "Red",
+    "Blue"
+  ],
+  "Cost": "13",
+  "DP": "13000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "Red",
+    "Blue",
+    "5 from Lv.5"
+  ],
+  "Effect": [
+    "＜Rush＞ ＜Raid＞ ＜Piercing＞ ＜Security A. +1＞",
+    "[On Play] [When Digivolving] 1 of your opponent's Digimon gets -8000 DP until their turn ends. It further gets -3000 DP for each of this Digimon's level 5 digivolution cards. Then, this Digimon may attack.",
+    "[All Turns] When this Digimon would leave the battle area other than by your effects, you may play 2 level 5 cards with [Gokuumon] in their texts or the [SW] trait from its digivolution cards without paying the costs."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Extra Booster DIGITAL WORLD SHAMBALA [EX-12]",
+    "?search=true&category=522037",
+    "/products/pack/ex-12"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.5 w/[Gokuumon] in text or w/[Shambala] trait: Cost 4",
+  "Special Play Condition": "Assembly -6: 3 [Gokuumon]/[Sagomon]/[Cho-Hakkaimon]/[Sanzomon] w/different names",
+  "Type": "Tathāgata/Shambala/SW",
+  "cardLv": "Lv.6",
+  "cardNo": "EX12-048",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "UR",
+  "cardTitle": "SeitenGokuumon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX12-048_P1.png?260529"
+}

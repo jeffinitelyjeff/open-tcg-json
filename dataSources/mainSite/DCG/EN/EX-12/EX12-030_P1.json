@@ -1,0 +1,60 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": "It refers to a card that contains the specified text or icon in its name, traits, effects, inherited effects, (Rule), digivolve requirements, DNA Digivolve, DigiXros requirements, Burst Digivolve, App Fusion, Link, or Assembly requirements. For example, \"a card with [Knightmon] in its text\" would include cards with the name [DarkKnightmon] and cards with the text [Knightmon] in their effects.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6763",
+      "q": "What kind of card does \"a card with X in its text\" refer to?"
+    },
+    {
+      "a": "No, you can't. All of the conditions within \"by doing X\" must be fulfilled. For this inherited effect's conditions, it is necessary to return the designated number of cards to the bottom of the deck.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6764",
+      "q": "Can I only return one specified card to the bottom of the deck with this card's inherited effect?"
+    },
+    {
+      "a": "No, they are not immediately deleted at this point in time.All activated effects are resolved, after which a rule check occurs. At that point in time, all Digimon with 0 DP are deleted simultaneously.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6765",
+      "q": "Due to this card's effect, the DP on my opponent's Digimon become 0. At this point in time, are those Digimon with 0 DP immediately deleted?"
+    },
+    {
+      "a": "Yes, it does.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6766",
+      "q": "Using this card's inherited effect, I select three cards from my trash, including a Digi-Egg card. When returning the Digi-Egg card to the deck, I place it on the bottom of the Digi-Egg deck, according to the rules. Does this satisfy the effect's \"by doing X\" conditions?"
+    }
+  ],
+  "Color": [
+    "Blue",
+    "Yellow"
+  ],
+  "Cost": "7",
+  "DP": "7000",
+  "Digivolve Cost 1": [
+    "Blue",
+    "Yellow",
+    "4 from Lv.4"
+  ],
+  "Effect": [
+    "＜Jamming＞",
+    "[On Play] [When Digivolving] You may trash up to 3 cards from your hand. To 1 of your opponent's Digimon, give -2000 DP for the turn for each card this effect trashed. Then, return 1 of their Digimon with 5000 DP or less to the bottom of the deck."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "[All Turns] [Once Per Turn] When this Digimon suspends, by returning 3 cards with [Jellymon] in their texts or the [DS] trait from your trash to the bottom of the deck, this Digimon may unsuspend.",
+  "Notes": [
+    "Extra Booster DIGITAL WORLD SHAMBALA [EX-12]",
+    "?search=true&category=522037",
+    "/products/pack/ex-12"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.4 w/[Jellymon] in text or w/[DS] trait: Cost 3",
+  "Type": "Aquabeast/DS",
+  "cardLv": "Lv.5",
+  "cardNo": "EX12-030",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "U",
+  "cardTitle": "Thetismon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX12-030_P1.png?260529"
+}

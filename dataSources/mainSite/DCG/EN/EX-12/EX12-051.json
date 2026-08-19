@@ -1,0 +1,71 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "It refers to a card that contains the specified text or icon in its name, traits, effects, inherited effects, (Rule), digivolution requirements, DNA digivolution, DigiXros requirements, burst digivolve, App Fusion, Link, or Assembly requirements.  For example, a card with [Knightmon] in its text would include cards with the name [DarkKnightmon] and cards with the text [Knightmon] in their effects.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6829",
+      "q": "What does a card with \"X in its text\" refer to?"
+    },
+    {
+      "a": "It triggers when the battle is won.  When the Digimon with this effect wins a battle, the opponent's Digimon that lost the battle is deleted, then the \"when this Digimon wins a battle\" effect can be activated.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6830",
+      "q": "When does \"when this Digimon wins a battle\" trigger?"
+    },
+    {
+      "a": "Yes, it triggers.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6831",
+      "q": "Does a \"when this Digimon wins a battle\" effect also trigger when a battle against a Security Digimon is won?"
+    },
+    {
+      "a": "They trigger simultaneously, so the turn player can activate their effects first.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6832",
+      "q": "A Digimon with a \"when this Digimon wins a battle\" effect won a battle, and the opponent's Digimon that lost the battle is deleted.  At such times, in what order can players activate the \"when this Digimon wins a battle\" effect and the effects that trigger upon the losing Digimon being deleted?"
+    },
+    {
+      "a": "The \"when this Digimon would be deleted\" and \"when this Digimon would leave the battle area\" effects can be activated first.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6833",
+      "q": "A Digimon with a \"when this Digimon wins a battle\" effect won a battle, and the opponent's Digimon lost the battle.  At such times, in what order can players activate the \"when this Digimon wins a battle\" effect and the loser Digimon's effects such as \"when this Digimon would be deleted\" and \"when this Digimon would leave the battle area\" effects?"
+    },
+    {
+      "a": "Yes, it can be activated.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6834",
+      "q": "A Digimon with a \"when this Digimon wins a battle\" effect won a battle, and the opponent's Digimon lost the battle.  At such times, can the \"when this Digimon wins a battle\" effect be activated even if an effect prevents the opponent's Digimon from being deleted?"
+    }
+  ],
+  "Color": [
+    "Green",
+    "Black"
+  ],
+  "Cost": "7",
+  "DP": "7000",
+  "Digivolve Cost 1": [
+    "Green",
+    "Black",
+    "4 from Lv.4"
+  ],
+  "Effect": [
+    "＜Reboot＞ ＜Blocker＞",
+    "[On Play] [When Digivolving] Suspend 1 of your opponent's Digimon or Tamers. Then, ＜De-Digivolve 1＞ 1 of their Digimon."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "[All Turns] [Once Per Turn] When this Digimon with [Angoramon] in its text or the [NSp] trait wins a battle, trash your opponent's top security card.",
+  "Notes": [
+    "Extra Booster DIGITAL WORLD SHAMBALA [EX-12]",
+    "?search=true&category=522037",
+    "/products/pack/ex-12"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.4 w/[Angoramon] in text or w/[NSp] trait: Cost 3",
+  "Type": "Beast/NSp",
+  "cardLv": "Lv.5",
+  "cardNo": "EX12-051",
+  "cardRarity": "U",
+  "cardTitle": "Lamortmon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX12-051.png?260529"
+}

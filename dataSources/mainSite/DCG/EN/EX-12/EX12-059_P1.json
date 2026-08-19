@@ -1,0 +1,49 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "No, you can't.  A \"by\" condition can't be met if only some of the required actions are performed.  The conditions for this [On Play] [When Digivolving] [When Attacking] effect require you to place the specified number of cards as the bottom digivolution cards.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6858",
+      "q": "Can I place just 1 card in digivolution cards for the conditions of this card's [On Play] [When Digivolving] [When Attacking] effect?"
+    },
+    {
+      "a": "This effect prevents cards stacked on top from being trashed by  or other effects, and cards stacked on the bottom can't be trashed by effects such as those that trash digivolution cards.",
+      "date": "Jun. 19, 2026",
+      "num": "Q6859",
+      "q": "What does a \"can't trash stacked cards\" effect do, exactly?"
+    }
+  ],
+  "Color": [
+    "Black",
+    "Purple"
+  ],
+  "Cost": "7",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Black",
+    "Purple",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "{Hand} [Counter] ＜Blast Digivolve＞ (Your Digimon may digivolve into this card without paying the cost.)",
+    "＜Reboot＞ ＜Fragment ≪2≫＞",
+    "[On Play] [When Digivolving] [When Attacking] [Once Per Turn] ＜De-Digivolve 3＞ 1 of your opponent's Digimon. Then, by placing 2 level 5 or lower [Machine], [Cyborg] or [ME] trait cards from your hand or trash as this Digimon's bottom digivolution cards, your opponent's effects can't trash any of your Digimon's stacked cards until their turn ends."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Extra Booster DIGITAL WORLD SHAMBALA [EX-12]",
+    "?search=true&category=522037",
+    "/products/pack/ex-12"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.5 w/[Cyborg]/[ME] trait: Cost 3",
+  "Special Rule": "＜Overflow (-4)＞ (As this card moves from the field or under a card to an area other than those, lose 4 memory.)",
+  "Type": "Machine/ME",
+  "cardLv": "Lv.6",
+  "cardNo": "EX12-059",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "Machinedramon ACE",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/EX12-059_P1.png?260529"
+}
