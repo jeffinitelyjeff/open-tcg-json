@@ -1,62 +1,92 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  [DemiVeemon]: Cost 0",
+  "attribute": "Free",
   "blockIcon": "06",
+  "cardEffects": "[Start of Your Main Phase] By trashing 1 card with [Veedramon] in its text or the [Armor Form] or [Free] trait from your hand, ＜Draw 1＞ (Draw 1 card from your deck.) and gain 1 memory.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
+  "cardType": "Digimon",
+  "color": "Blue/Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "1",
+      "level": "2"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "1",
+      "level": "2"
+    }
+  ],
+  "dp": "2000 DP",
+  "form": "Rookie",
   "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/bd/P-248-Sample-J.png/revision/latest?cb=20260831134648",
+  "inheritedEffect": "[Your Turn] This Digimon gets +2000 DP.",
+  "level": "3",
+  "name": "Veemon",
+  "nameJapanese": "ブイモン",
+  "playCost": "3",
   "rarity": "Promo",
   "setData": {
     "en": [
       {
-        "boosterSet": "Official Store Tournament 2026 Vol.4",
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Official_Store_Tournament_2026_Vol.4",
+          "text": "Official Store Tournament 2026 Vol.4"
+        },
         "foil&Rarity": "Promo",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
-          "text": "GOSSAN"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
         }
       },
       {
-        "boosterSet": "Official Store Tournament 2026 Vol.4",
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Official_Store_Tournament_2026_Vol.4",
+          "text": "Official Store Tournament 2026 Vol.4"
+        },
         "foil&Rarity": "Foil - Stamped - 1st Place Prize",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
-          "text": "GOSSAN"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
         }
       },
       {
         "boosterSet": "LM-10",
         "foil&Rarity": "Foil - Coloured Border - Alternative Art",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
-          "text": "GOSSAN"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
         }
       }
     ],
     "jp": [
       {
-        "boosterSet": "Tamer Battle Pack 33",
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Tamer_Battle_Pack_33",
+          "text": "Tamer Battle Pack 33"
+        },
         "foil&Rarity": "Promo",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
-          "text": "GOSSAN"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
         }
       },
       {
         "boosterSet": "LM-10",
         "foil&Rarity": "Foil - Coloured Border - Alternative Art",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
-          "text": "GOSSAN"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Poroze",
+          "text": "poroze"
         }
       }
     ]
-  }
+  },
+  "type": "Mini Dragon"
 }
