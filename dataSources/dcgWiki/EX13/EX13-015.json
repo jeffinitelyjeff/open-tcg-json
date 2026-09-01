@@ -2,7 +2,7 @@
   "assemblyRequirements": "[Assembly -5] Lv.5 × Lv.4 × Lv.3, all w/[Guilmon]/[Growlmon] in name\nWhen this would be played, by placing the specified cards from the trash under it, reduce the play cost.",
   "attribute": "Virus",
   "blockIcon": "06",
-  "cardEffects": "＜Piercing＞ (When this Digimon deletes your opponent's Digimon in battle while attacking, it checks security before the attack ends.)\n＜Progress＞ (While attacking, your opponent's effects don't affect this Digimon.)\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Play] [When Digivolving] [When Attacking] [Counter] [Once Per Turn] Delete 1 of your opponent’s Digimon with 12000 DP or less. If this effect didn't delete, trash their top security card.\n[Opponent's Turn] [Once Per Turn] When this Digimon would leave the battle area other than by your effects, by deleting 1 of your opponent's 9000 DP or lower Digimon, it doesn't leave.",
+  "cardEffects": "＜Raid＞ (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.)\n＜Progress＞ (While attacking, your opponent's effects don't affect this Digimon.)\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Play] [When Digivolving] [When Attacking] [Counter] [Once Per Turn] Delete 1 of your opponent's 12000 DP or higher Digimon. If this effect didn't delete, trash their top security card.\n[All Turns] [Once Per Turn] When this Digimon would leave the battle area other than by your effects, by deleting 1 of your opponent's 9000 DP or lower Digimon, it doesn't leave.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
@@ -18,8 +18,19 @@
   },
   "dp": "12000 DP",
   "form": "Mega",
-  "galleryImages": {},
-  "image": null,
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
+        "captionText": "EX-13: EXTRA BOOSTER CHIVALROUS XIII (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX13-015-Sample.png",
+        "imgName": "EX13-015-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e7/EX13-015-Sample.png/revision/latest?cb=20260901123033",
+        "uploadDate": "2026-09-01T12:30:33"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/e/e7/EX13-015-Sample.png/revision/latest?cb=20260901123033",
   "level": "6",
   "name": "Gallantmon",
   "nameJapanese": "デュークモン",
