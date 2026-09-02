@@ -1,6 +1,6 @@
 {
   "blockIcon": "06",
-  "cardEffects": "[Start of Your Main Phase] By trashing 1 [Chronicle] trait card from your hand, ＜Draw 1＞ (Draw 1 card from your deck.) and gain 1 memory.\n[Your Turn] When one of your Digimon with the [Chronicle] trait attack, by suspending this Tamer, you may use 1 Option card with the [Chronicle] trait from your hand with the cost reduced by 1.",
+  "cardEffects": "[Start of Your Main Phase] By trashing 1 [Chronicle] trait card from your hand, ＜Draw 1＞ (Draw 1 card from your deck.) and gain 1 memory.\n[Your Turn] When one of your [Chronicle] trait Digimon attacks, by suspending this Tamer, you may use 1 [X Antibody] or 1 Option card with the [Chronicle] trait from your hand with the cost reduced by 1.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
@@ -9,8 +9,19 @@
   },
   "cardType": "Tamer",
   "color": "Black",
-  "galleryImages": {},
-  "image": null,
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
+        "captionText": "EX-13: EXTRA BOOSTER CHIVALROUS XIII (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX13-072-Sample.png",
+        "imgName": "EX13-072-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1f/EX13-072-Sample.png/revision/latest?cb=20260902053259",
+        "uploadDate": "2026-09-02T05:32:59"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1f/EX13-072-Sample.png/revision/latest?cb=20260902053259",
   "name": "Kota Domoto",
   "nameJapanese": "堂本コータ",
   "playCost": "4",
