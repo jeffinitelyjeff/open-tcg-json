@@ -1,18 +1,38 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  [Sistermon Blanc]: Cost 0 \n[Digivolve]  Lv.2 w/[Huckmon] in text: Cost 1",
+  "attribute": "Vaccine",
   "blockIcon": "06",
+  "cardEffects": "＜Decode ([Sistermon Blanc])＞ (When this Digimon would leave the battle area other than in battle, you may play 1 specified Digimon card from its digivolution cards without paying the cost.)\n＜Guard＞ (When any of your other Digimon would leave the battle area by your opponent's effects, by deleting this Digimon, they don't leave.)",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon/Option",
+  "color": "White/Yellow",
+  "dp": "5000 DP",
+  "dual": "[Arts Digivolve] (Instead of trashing after use, your cards may digivolve into this card without paying the cost.)",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
+        "captionText": "EX-13: EXTRA BOOSTER CHIVALROUS XIII (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX13-065-Sample.png",
+        "imgName": "EX13-065-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3a/EX13-065-Sample.png/revision/latest?cb=20260902060216",
+        "uploadDate": "2026-09-02T06:02:16"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/3/3a/EX13-065-Sample.png/revision/latest?cb=20260902060216",
+  "level": "3",
+  "name": "Sistermon Blanc (Awakened)/Divine Pierce (Awakened)",
+  "nameJapanese": "シスタモン ブラン（覚醒）/シスタモン ノワール（覚醒）",
+  "optionCardColourRequirements": "White",
+  "optionCardEffect": "[Main] You may play 1 play cost 4 or lower card with [Sistermon] from your hand or trash without paying the cost. Then, to 1 of your opponent's Digimon, give -3000 DP for the turn for each of your Digimon.",
+  "rarity": "Rare",
   "setData": {
     "ch": [
       {
@@ -20,21 +40,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
-      },
-      {
-        "boosterSet": {
-          "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
-          "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
-        },
-        "foil&Rarity": "Foil - Coloured Border -",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tsunemi_Aosa",
+          "text": "Tsunemi Aosa"
         }
       }
     ],
@@ -44,21 +53,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
-      },
-      {
-        "boosterSet": {
-          "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
-          "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
-        },
-        "foil&Rarity": "Foil - Coloured Border -",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tsunemi_Aosa",
+          "text": "Tsunemi Aosa"
         }
       }
     ],
@@ -68,21 +66,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
-      },
-      {
-        "boosterSet": {
-          "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
-          "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
-        },
-        "foil&Rarity": "Foil - Coloured Border -",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tsunemi_Aosa",
+          "text": "Tsunemi Aosa"
         }
       }
     ],
@@ -92,23 +79,14 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
-      },
-      {
-        "boosterSet": {
-          "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
-          "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
-        },
-        "foil&Rarity": "Foil - Coloured Border -",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Tsunemi_Aosa",
+          "text": "Tsunemi Aosa"
         }
       }
     ]
-  }
+  },
+  "type": "Puppet",
+  "useCost": "5"
 }
