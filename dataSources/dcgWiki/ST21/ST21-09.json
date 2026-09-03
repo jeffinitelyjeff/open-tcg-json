@@ -2,7 +2,7 @@
   "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[ADVENTURE] trait: Cost 3",
   "attribute": "Data",
   "blockIcon": "05",
-  "cardEffects": "[On Play] [When Digivolving] Suspend all of your opponent's 5000 DP or lower Digimon. Then, for every 2 colors your Tamers have, return 1 of their suspended Digimon to the bottom of the deck.\n[Your Turn] [Once Per Turn] When your other Digimon are played or digivolve, if any of them have the [ADVENTURE] trait, 1 of your Digimon gains ＜Alliance＞ for the turn. (When this Digimon attacks, by suspending 1 of your other Digimon, add the suspended Digimon's DP to this Digimon and it gains ＜Security A. +1＞ for the attack.) Then, 1 of your Digimon may attack.",
+  "cardEffects": "[On Play] [When Digivolving] Suspend all of your opponent's 5000 DP or lower Digimon. Then, for every 2 colors your Tamers have, return 1 of their suspended Digimon to the bottom of the deck.\n[Your Turn] [Once Per Turn] When your other Digimon are played or digivolve, if any of them have the [ADVENTURE] trait, 1 of your Digimon gains ＜Alliance＞ for the turn. (When this Digimon attacks, by suspending 1 of your other Digimon, this Digimon gains ＜Security A. +1＞ and the suspended Digimon's DP for the attack.) Then, 1 of your Digimon may attack.",
   "cardRestriction": {
     "chinese": "Unrestricted",
     "english": "Unrestricted",
@@ -65,7 +65,7 @@
     ]
   },
   "image": "https://static.wikia.nocookie.net/digimoncardgame/images/b/b2/ST21-09.png/revision/latest?cb=20250404051113",
-  "inheritedEffect": "＜Alliance＞ (When this Digimon attacks, by suspending 1 of your other Digimon, add the suspended Digimon's DP to this Digimon and it gains ＜Security A. +1＞ for the attack.)",
+  "inheritedEffect": "＜Alliance＞ (When this Digimon attacks, by suspending 1 of your other Digimon, this Digimon gains ＜Security A. +1＞ and the suspended Digimon's DP for the attack.)",
   "level": "5",
   "name": "Lillymon",
   "nameJapanese": "リリモン",

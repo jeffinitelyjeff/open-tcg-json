@@ -2,7 +2,7 @@
   "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[ADVENTURE] trait: Cost 3",
   "attribute": "Vaccine",
   "blockIcon": "05",
-  "cardEffects": "[On Play] [When Digivolving] 1 of your Digimon unsuspends. Then, for every 2 colors your Tamers with the [ADVENTURE] trait have, suspend 1 of your opponent's Digimon.\n[Your Turn] [Once Per Turn] When your other Digimon are played or digivolve, if any of them have the [ADVENTURE] trait, 1 of your Digimon gains ＜Alliance＞ for the turn. (When this Digimon attacks, by suspending 1 of your other Digimon, add the suspended Digimon's DP to this Digimon and it gains ＜Security A. +1＞ for the attack.) Then, 1 of your Digimon may attack.",
+  "cardEffects": "[On Play] [When Digivolving] 1 of your Digimon unsuspends. Then, for every 2 colors your Tamers with the [ADVENTURE] trait have, suspend 1 of your opponent's Digimon.\n[Your Turn] [Once Per Turn] When your other Digimon are played or digivolve, if any of them have the [ADVENTURE] trait, 1 of your Digimon gains ＜Alliance＞ for the turn. (When this Digimon attacks, by suspending 1 of your other Digimon, this Digimon gains ＜Security A. +1＞ and the suspended Digimon's DP for the attack.) Then, 1 of your Digimon may attack.",
   "cardRestriction": {
     "chinese": "Unrestricted",
     "english": "Unrestricted",
@@ -57,7 +57,7 @@
     ]
   },
   "image": "https://static.wikia.nocookie.net/digimoncardgame/images/0/09/ST20-09.png/revision/latest?cb=20250404051941",
-  "inheritedEffect": "＜Alliance＞ (When this Digimon attacks, by suspending 1 of your other Digimon, add the suspended Digimon's DP to this Digimon and it gains ＜Security A. +1＞ for the attack.)",
+  "inheritedEffect": "＜Alliance＞ (When this Digimon attacks, by suspending 1 of your other Digimon, this Digimon gains ＜Security A. +1＞ and the suspended Digimon's DP for the attack.)",
   "level": "5",
   "name": "MegaKabuterimon",
   "nameJapanese": "アトラーカブテリモン",
