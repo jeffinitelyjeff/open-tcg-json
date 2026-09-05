@@ -1,18 +1,42 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.4 w/[Knightmon] in text: Cost 3",
+  "attribute": "Data",
   "blockIcon": "06",
+  "cardEffects": "[When Attacking] [On Deletion] You may play or use 1 card with [Knightmon] in its text and a play or use cost of 4 or less from your hand without paying the cost.\n[Opponent's Turn] All of your Digimon with [Knightmon] in their texts gain ＜Reboot＞ (This Digimon also unsuspends in your opponent's unsuspend phase.) and ＜Blocker＞ (This Digimon can block in the blocker timing.)",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
+        "captionText": "EX-13: EXTRA BOOSTER CHIVALROUS XIII (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX13-058-Sample.png",
+        "imgName": "EX13-058-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6d/EX13-058-Sample.png/revision/latest?cb=20260905060221",
+        "uploadDate": "2026-09-05T06:02:21"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6d/EX13-058-Sample.png/revision/latest?cb=20260905060221",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When any of your Digimon with [Knightmon] in their texts are played, ＜De-Digivolve  1＞ 1 of your opponent's Digimon. (Trash the top card. You can't trash past level 3 cards.)",
+  "level": "5",
+  "name": "Knightmon",
+  "nameJapanese": "ナイトモン",
+  "playCost": "7",
+  "rarity": "Rare",
   "setData": {
     "ch": [
       {
@@ -20,21 +44,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
-      },
-      {
-        "boosterSet": {
-          "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
-          "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
-        },
-        "foil&Rarity": "Foil - Coloured Border -",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:BIRU_YAMAGUCHI",
+          "text": "BIRU YAMAGUCHI"
         }
       }
     ],
@@ -44,21 +57,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
-      },
-      {
-        "boosterSet": {
-          "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
-          "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
-        },
-        "foil&Rarity": "Foil - Coloured Border -",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:BIRU_YAMAGUCHI",
+          "text": "BIRU YAMAGUCHI"
         }
       }
     ],
@@ -68,21 +70,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
-      },
-      {
-        "boosterSet": {
-          "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
-          "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
-        },
-        "foil&Rarity": "Foil - Coloured Border -",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:BIRU_YAMAGUCHI",
+          "text": "BIRU YAMAGUCHI"
         }
       }
     ],
@@ -92,23 +83,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
-      },
-      {
-        "boosterSet": {
-          "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
-          "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
-        },
-        "foil&Rarity": "Foil - Coloured Border -",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:BIRU_YAMAGUCHI",
+          "text": "BIRU YAMAGUCHI"
         }
       }
     ]
-  }
+  },
+  "type": "Warrior"
 }
