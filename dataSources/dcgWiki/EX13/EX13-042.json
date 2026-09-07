@@ -1,18 +1,41 @@
 {
+  "attribute": "Virus",
   "blockIcon": "06",
+  "cardEffects": "＜Alliance＞ (When this Digimon attacks, by suspending 1 of your other Digimon, this Digimon gains ＜Security A. +1＞ and the suspended Digimon's DP for the attack.)\n[When Digivolving] [When Attacking] [Once Per Turn] You may play 1 play cost 4 or lower Digimon card with [Beast], [Animal] or [Sovereign], other than [Sea Animal], in any of its traits from your hand without paying the cost.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Green",
+  "digivolutionRequirements": {
+    "color": "Green",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
+        "captionText": "EX-13: EXTRA BOOSTER CHIVALROUS XIII (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX13-042-Sample.png",
+        "imgName": "EX13-042-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/63/EX13-042-Sample.png/revision/latest?cb=20260907055201",
+        "uploadDate": "2026-09-07T05:52:01"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/63/EX13-042-Sample.png/revision/latest?cb=20260907055201",
+  "inheritedEffect": "＜Alliance＞ (When this Digimon attacks, by suspending 1 of your other Digimon, this Digimon gains ＜Security A. +1＞ and the suspended Digimon's DP for the attack.)",
+  "level": "5",
+  "name": "Bastemon",
+  "nameJapanese": "バステモン",
+  "playCost": "7",
+  "rarity": "Rare",
   "setData": {
     "ch": [
       {
@@ -20,21 +43,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
-      },
-      {
-        "boosterSet": {
-          "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
-          "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
-        },
-        "foil&Rarity": "Foil - Coloured Border -",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       }
     ],
@@ -44,21 +56,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
-      },
-      {
-        "boosterSet": {
-          "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
-          "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
-        },
-        "foil&Rarity": "Foil - Coloured Border -",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       }
     ],
@@ -68,21 +69,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
-      },
-      {
-        "boosterSet": {
-          "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
-          "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
-        },
-        "foil&Rarity": "Foil - Coloured Border -",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       }
     ],
@@ -92,23 +82,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
-      },
-      {
-        "boosterSet": {
-          "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
-          "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
-        },
-        "foil&Rarity": "Foil - Coloured Border -",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       }
     ]
-  }
+  },
+  "type": "Beastkin"
 }
