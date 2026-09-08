@@ -1,18 +1,49 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  [Coredramon]: Cost 3",
+  "attribute": "Virus",
   "blockIcon": "06",
+  "cardEffects": "＜Fortitude＞ (When this Digimon with digivolution cards is deleted, play this card without paying the cost.)\n[On Play] [When Digivolving] Suspend 1 of your opponent's Digimon or Tamers. Then, 1 of their Digimon or Tamers can't unsuspend in their next unsuspend phase.\n[All Turns] This Digimon is also treated as Lv.6 [Breakdramon] for [Examon]'s DNA digivolution.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Green/Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
+        "captionText": "EX-13: EXTRA BOOSTER CHIVALROUS XIII (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX13-041-Sample.png",
+        "imgName": "EX13-041-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/66/EX13-041-Sample.png/revision/latest?cb=20260908051331",
+        "uploadDate": "2026-09-08T05:13:31"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/66/EX13-041-Sample.png/revision/latest?cb=20260908051331",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When any of your Digimon with [Dracomon] or [Examon] in their texts delete your opponent's Digimon in battle, trash their top security card.",
+  "level": "5",
+  "name": "Groundramon",
+  "nameJapanese": "グラウンドラモン",
+  "playCost": "7",
+  "rarity": "Common",
   "setData": {
     "ch": [
       {
@@ -20,10 +51,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:BIRU_YAMAGUCHI",
+          "text": "BIRU YAMAGUCHI"
         }
       },
       {
@@ -31,10 +62,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Limited Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:BIRU_YAMAGUCHI",
+          "text": "BIRU YAMAGUCHI"
         }
       }
     ],
@@ -44,10 +75,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:BIRU_YAMAGUCHI",
+          "text": "BIRU YAMAGUCHI"
         }
       },
       {
@@ -55,10 +86,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Limited Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:BIRU_YAMAGUCHI",
+          "text": "BIRU YAMAGUCHI"
         }
       }
     ],
@@ -68,10 +99,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:BIRU_YAMAGUCHI",
+          "text": "BIRU YAMAGUCHI"
         }
       },
       {
@@ -79,10 +110,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Limited Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:BIRU_YAMAGUCHI",
+          "text": "BIRU YAMAGUCHI"
         }
       }
     ],
@@ -92,10 +123,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:BIRU_YAMAGUCHI",
+          "text": "BIRU YAMAGUCHI"
         }
       },
       {
@@ -103,12 +134,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Limited Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:BIRU_YAMAGUCHI",
+          "text": "BIRU YAMAGUCHI"
         }
       }
     ]
-  }
+  },
+  "type": "Earth Dragon"
 }

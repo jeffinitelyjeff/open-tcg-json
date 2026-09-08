@@ -1,18 +1,49 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[Dracomon] in name: Cost 2",
+  "attribute": "Virus",
   "blockIcon": "06",
+  "cardEffects": "[On Play] [When Digivolving] You may return 1 non-Digi-Egg card with [Dracomon] or [Examon] in its text from your trash to the hand.\n[Your Turn] When any of your other Digimon with [Dracomon] or [Examon] in their texts are played, this Digimon may digivolve into a Digimon card with [Examon] in its text in the hand with the cost reduced by 2.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Green/Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Green",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
+        "captionText": "EX-13: EXTRA BOOSTER CHIVALROUS XIII (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX13-039-Sample.png",
+        "imgName": "EX13-039-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a3/EX13-039-Sample.png/revision/latest?cb=20260908051250",
+        "uploadDate": "2026-09-08T05:12:50"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/a/a3/EX13-039-Sample.png/revision/latest?cb=20260908051250",
+  "inheritedEffect": "[Your Turn] This Digimon gets +2000 DP.",
+  "level": "4",
+  "name": "Coredramon",
+  "nameJapanese": "コアドラモン",
+  "playCost": "5",
+  "rarity": "Common",
   "setData": {
     "ch": [
       {
@@ -20,10 +51,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
         }
       },
       {
@@ -31,10 +62,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Limited Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
         }
       }
     ],
@@ -44,10 +75,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
         }
       },
       {
@@ -55,10 +86,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Limited Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
         }
       }
     ],
@@ -68,10 +99,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
         }
       },
       {
@@ -79,10 +110,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Limited Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
         }
       }
     ],
@@ -92,10 +123,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
         }
       },
       {
@@ -103,12 +134,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Limited Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:SENNSU",
+          "text": "SENNSU"
         }
       }
     ]
-  }
+  },
+  "type": "Dragon"
 }
