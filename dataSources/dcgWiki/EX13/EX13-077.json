@@ -1,6 +1,9 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  [Omnimon]: Cost 2",
+  "assemblyRequirements": "[Assembly -8] 6 [ADVENTURE] trait Digimon cards w/different colors\nWhen this would be played, by placing the specified cards from the trash under it, reduce the play cost.",
   "attribute": "Vaccine",
   "blockIcon": "06",
+  "cardEffects": "[On Play] [When Digivolving] 1 of your Digimon may attack without suspending. Then, for every 2 of your Digimon and Tamers' colors, activate 1 effect below:\n・This Digimon may battle 1 of your opponent's Digimon.\n・By returning 5 cards from your opponent's trash to the bottom of the deck, ＜Recovery +1＞ (Place the top card of your deck as your top security card.)\n[All Turns] This Digimon gains all colors in its digivolution cards, and +1000 DP for each of your Digimon and Tamers' colors.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
@@ -9,12 +12,30 @@
   },
   "cardType": "Digimon",
   "color": "White",
+  "digivolutionRequirements": {
+    "color": "All",
+    "digivolveCost": "6",
+    "level": "6"
+  },
+  "dp": "16000 DP",
   "form": "Mega",
-  "galleryImages": {},
-  "image": null,
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
+        "captionText": "EX-13: EXTRA BOOSTER CHIVALROUS XIII (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX13-077-Sample.png",
+        "imgName": "EX13-077-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/43/EX13-077-Sample.png/revision/latest?cb=20260912133038",
+        "uploadDate": "2026-09-12T13:30:38"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/43/EX13-077-Sample.png/revision/latest?cb=20260912133038",
   "level": "7",
   "name": "Omnimon: Merciful Mode",
   "nameJapanese": "オメガモン：マーシフルモード",
+  "playCost": "16",
   "rarity": "Secret Rare",
   "setData": {
     "ch": [
@@ -25,8 +46,8 @@
         },
         "foil&Rarity": "Foil - Secret Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:K.Dra",
+          "text": "k.Dra"
         }
       },
       {
@@ -60,8 +81,8 @@
         },
         "foil&Rarity": "Foil - Secret Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:K.Dra",
+          "text": "k.Dra"
         }
       },
       {
@@ -95,8 +116,8 @@
         },
         "foil&Rarity": "Foil - Secret Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:K.Dra",
+          "text": "k.Dra"
         }
       },
       {
@@ -130,8 +151,8 @@
         },
         "foil&Rarity": "Foil - Secret Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:K.Dra",
+          "text": "k.Dra"
         }
       },
       {
@@ -158,5 +179,5 @@
       }
     ]
   },
-  "type": "Holy Warrior"
+  "type": "Holy Warrior/ADVENTURE"
 }
