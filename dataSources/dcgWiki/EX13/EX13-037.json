@@ -1,6 +1,9 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.5 w/[Witchelny] in text: Cost 3",
+  "assemblyRequirements": "[Assembly -5] Lv.5 × Lv.4 × Lv.3, all w/[Witchelny] in text\nWhen this would be played, by placing the specified cards from the trash under it, reduce the play cost.",
   "attribute": "Data",
   "blockIcon": "06",
+  "cardEffects": "＜Raid＞ (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.)\n＜Piercing＞ (When this Digimon deletes your opponent's Digimon in battle while attacking, it checks security before the attack ends.)\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n[On Play] [When Digivolving] [When Attacking] [Once Per Turn] trash your top security card and this Digimon gets +10000 DP until your opponent's turn ends. Then, if you have 3 or fewer security cards, trash their top security card.\n[All Turns] [Once Per Turn] When security stacks are removed from, 1 of your opponent's Digimon gets -12000 DP until their turn ends. Then, if you have 3 or fewer security cards, ＜Recovery +1＞ (Place the top card of your deck as your top security card.)",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
@@ -8,13 +11,38 @@
     "nameJapanese": "Not released"
   },
   "cardType": "Digimon",
-  "color": "Yellow",
+  "color": "Yellow/Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "5"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "4",
+      "level": "5"
+    }
+  ],
+  "dp": "12000 DP",
   "form": "Mega",
-  "galleryImages": {},
-  "image": null,
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
+        "captionText": "EX-13: EXTRA BOOSTER CHIVALROUS XIII (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX13-037-Sample.png",
+        "imgName": "EX13-037-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/59/EX13-037-Sample.png/revision/latest?cb=20260914062730",
+        "uploadDate": "2026-09-14T06:27:30"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/59/EX13-037-Sample.png/revision/latest?cb=20260914062730",
   "level": "6",
   "name": "Dynasmon",
   "nameJapanese": "デュナスモン",
+  "playCost": "12",
   "rarity": "Super Rare",
   "setData": {
     "ch": [
@@ -25,8 +53,8 @@
         },
         "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:K.Dra",
+          "text": "k.Dra"
         }
       },
       {
@@ -60,8 +88,8 @@
         },
         "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:K.Dra",
+          "text": "k.Dra"
         }
       },
       {
@@ -95,8 +123,8 @@
         },
         "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:K.Dra",
+          "text": "k.Dra"
         }
       },
       {
@@ -130,8 +158,8 @@
         },
         "foil&Rarity": "Foil - Super Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:K.Dra",
+          "text": "k.Dra"
         }
       },
       {
