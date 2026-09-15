@@ -1,6 +1,8 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  [Raptordramon]/Lv.4 w/[Chronicle] trait: Cost 3",
   "attribute": "Vaccine",
   "blockIcon": "06",
+  "cardEffects": "[On Play] [When Digivolving] Until your opponent's turn ends, 1 of your [X Antibody] or [Chronicle] trait Digimon gains ＜Reboot＞ (This Digimon also unsuspends in your opponent's unsuspend phase.) and ＜Blocker＞ (This Digimon can block in the blocker timing.). If during an attack, it also isn't affected by their Digimon effects and gets +5000 DP.\n[End of Attack] [Once Per Turn] This Digimon may digivolve into a Digimon card with the [Chronicle] trait in the hand or trash.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
@@ -8,12 +10,40 @@
     "nameJapanese": "Not released"
   },
   "cardType": "Digimon",
-  "color": "Black",
-  "galleryImages": {},
-  "image": null,
+  "color": "Black/Yellow",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "4",
+      "level": "4"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "4",
+      "level": "4"
+    }
+  ],
+  "dp": "7000 DP",
+  "form": "Ultimate",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
+        "captionText": "EX-13: EXTRA BOOSTER CHIVALROUS XIII (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:EX13-057-Sample.png",
+        "imgName": "EX13-057-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2d/EX13-057-Sample.png/revision/latest?cb=20260915050333",
+        "uploadDate": "2026-09-15T05:03:33"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2d/EX13-057-Sample.png/revision/latest?cb=20260915050333",
+  "inheritedEffect": "[All Turns] [Once Per Turn] When any of your [Chronicle] trait Digimon would leave the battle area, by trashing your top security card, they don't leave.",
+  "level": "5",
   "name": "Grademon",
   "nameJapanese": "グレイドモン",
-  "rarity": "",
+  "playCost": "7",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -21,7 +51,7 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
           "text": "Spareribs"
@@ -32,7 +62,7 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
           "text": "Spareribs"
@@ -45,7 +75,7 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
           "text": "Spareribs"
@@ -56,7 +86,7 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
           "text": "Spareribs"
@@ -69,7 +99,7 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
           "text": "Spareribs"
@@ -80,7 +110,7 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
           "text": "Spareribs"
@@ -93,7 +123,7 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
           "text": "Spareribs"
@@ -104,7 +134,7 @@
           "link": "https://digimoncardgame.fandom.com/wiki/EX-13:_EXTRA_BOOSTER_CHIVALROUS_XIII",
           "text": "EX-13: EXTRA BOOSTER CHIVALROUS XIII"
         },
-        "foil&Rarity": "Foil - Coloured Border -",
+        "foil&Rarity": "Foil - Coloured Border - Limited Uncommon",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:Spareribs",
           "text": "Spareribs"
