@@ -1,19 +1,34 @@
 {
   "Card Q&A": [
     {
-      "a": "Yes you can. In such cases, even if there's no [When Digivolving] effect to target with this effect, this card still becomes suspended.",
-      "date": "Mar. 28, 2024",
+      "a": "Yes you can.If activated, suspend this Tamer and no [When Digivolving] effect will activate.",
+      "date": "Sep. 18, 2026",
       "num": "Q2142",
-      "q": "When one of my Digimon with [Veedramon] in its name without a [When Digivolving] effect becomes suspended, can I suspend this card?"
+      "q": "When one of my Digimon with [Veedramon] in its name without a [When Digivolving] effect becomes suspended, can I activate this card's [All Turns] effect?"
     },
     {
-      "a": "Yes, you can.\n                                            \n                        Related Cards",
-      "date": "Mar. 28, 2024",
+      "a": "Yes, you can.If activated, you must activate the digivolved card's [When Digivolving] effect before you can activate this card's [All Turns] effect.Additionally, even if the digivolved card is a Digimon without [Veedramon] in its name, you can still activate that card's [When Digivolving] effect.",
+      "date": "Sep. 18, 2026",
       "num": "Q2143",
-      "q": "My Digimon with [Veedramon] in its name attacks and becomes suspended. After that, it digivolves into a different Digimon with the [When Attacking] effect of [BT9-109 X Antibody] in its digivolution cards. If the card it digivolved into has a [When Digivolving], if I suspend this card with this card's [All Turns] effect, can I activate the [When Digivolving] effect of the card it digivolved into?",
-      "relatedCards": [
-        "BT9-109"
-      ]
+      "q": "My Digimon with [Veedramon] in its name becomes suspended, and this card's [All Turns] effect and another effect trigger. At this time, the other effect is activated first, and the Digimon digivolves.Afterwards, if the digivolved card has a [When Digivolving] effect, can I activate this card's [All Turns] effect and activate the digivolved card's [When Digivolving] effect?"
+    },
+    {
+      "a": "No.",
+      "date": "Sep. 18, 2026",
+      "num": "Q7198",
+      "q": "Can I use this card's [All Turns] effect to activate a [When Digivolving] effect on another card that was given a \"[When Digivolving] effects don't activate\" effect?"
+    },
+    {
+      "a": "No.",
+      "date": "Sep. 18, 2026",
+      "num": "Q7199",
+      "q": "Can I use this card's [All Turns] effect to activate another card's [When Digivolving] effect even if it has used up all of its [X Per Turn] uses?"
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Sep. 18, 2026",
+      "num": "Q7200",
+      "q": "Can I use this card's [All Turns] effect to choose and activate one [When Digivolving] effect on another card that has multiple [When Digivolving] effects?"
     }
   ],
   "Color": "Blue",

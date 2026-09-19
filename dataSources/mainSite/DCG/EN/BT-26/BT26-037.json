@@ -1,0 +1,62 @@
+{
+  "Attribute": "Navi",
+  "Card Q&A": [
+    {
+      "a": "No, you can't.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7014",
+      "q": "Can I link a card without  with a \"you may link\" effect?"
+    },
+    {
+      "a": "This effect immediately initiates a battle. If this effect is activated, the chosen Digimon battle according to the standard rules.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7015",
+      "q": "What does \"may battle\" mean, exactly?"
+    },
+    {
+      "a": "Yes, they can battle. A card that has an \"effects don't affect\" effect can still be chosen for an effect. In addition, a battle itself is a rule that compares DP, not an effect. Therefore, a Digimon that isn't affected by effects can be chosen, and then it can battle. If it loses the battle, it will be deleted as normal according to the rules.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7016",
+      "q": "If 2 Digimon including a Digimon that has an \"effects don't affect\" effect are chosen for a \"may battle\" effect, can those Digimon battle?"
+    },
+    {
+      "a": "App Fusion is possible with the following combinations. ●[Weathermon] with [Rocketmon] link card●[Weathermon] with [Newsmon] link card●[Rocketmon] with [Weathermon] link card●[Rocketmon] with [Newsmon] link card●[Newsmon] with [Weathermon] link card●[Newsmon] with [Rocketmon] link card",
+      "date": "Aug. 18, 2026",
+      "num": "Q7017",
+      "q": "This card has 3 different cards in its App Fusion requirements. What combinations are possible for App Fusion?"
+    }
+  ],
+  "Color": "Green",
+  "Cost": "5",
+  "DP": "5000",
+  "Digivolve Cost 1": [
+    "Green",
+    "2 from Lv.3"
+  ],
+  "Digivolve Cost 2": [
+    "Multicolor",
+    "2 from Stnd."
+  ],
+  "Effect": [
+    "＜Blocker＞ ＜Detach ([Seven Code] trait)＞ (When this Digimon would leave the battle area other than by your effects, by trashing 1 of its specified link cards, it doesn't leave.)",
+    "[On Play] [When Digivolving] You may link 1 level 3 Digimon card with the [Navi], [System] or [Seven Code] trait from this Digimon's digivolution cards to this Digimon without paying the cost."
+  ],
+  "Form": "Sup./Appmon",
+  "Link Condition": "＜Link＞ [Appmon] trait: Cost 3 (Plug this card from the hand or battle area sideways into the specified Digimon in the battle area.)",
+  "Link DP": "DP+3000",
+  "Link Effect": "[When Linking] This Digimon may battle 1 of your opponent's Digimon.",
+  "Notes": [
+    "Booster TIMELESS BONDS [BT-26]",
+    "?search=true&category=522038",
+    "/products/pack/ver26"
+  ],
+  "Special Digivolution Condition": "[App Fusion] [Weathermon] & [Rocketmon] & [Newsmon]: Cost 0",
+  "Special Play Condition": "Assembly -2: Lv.3 [Navi]/[System]/[Seven Code] trait Digimon card",
+  "Type": "Weather/Seven Code",
+  "cardLv": "Lv.4",
+  "cardNo": "BT26-037",
+  "cardRarity": "U",
+  "cardTitle": "Weatherdramon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT26-037.png?260529"
+}

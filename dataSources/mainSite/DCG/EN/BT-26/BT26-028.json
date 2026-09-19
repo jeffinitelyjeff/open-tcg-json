@@ -1,0 +1,86 @@
+{
+  "Attribute": "Life",
+  "Card Q&A": [
+    {
+      "a": "No, you can't.",
+      "date": "Aug. 18, 2026",
+      "num": "Q6987",
+      "q": "Can I link a card without  with a \"you may link\" effect?"
+    },
+    {
+      "a": "This effect prevents [When Digivolving] effects on cards from activating. [When Digivolving] effects can no longer be activated by triggering or by effects that activate that card's \"[When Digivolving]\" effects.",
+      "date": "Aug. 18, 2026",
+      "num": "Q6988",
+      "q": "What does \"[When Digivolving] effects don't activate\" mean, exactly?"
+    },
+    {
+      "a": "Yes, you can. The effect can activate if it activates upon the [When Attacking] timing.",
+      "date": "Aug. 18, 2026",
+      "num": "Q6989",
+      "q": "I used a card affected by \"can't activate [When Digivolving] effects\" to attack. Can I activate that card's [When Digivolving] [When Attacking] effect at such times?"
+    },
+    {
+      "a": "No, they can't activate it.",
+      "date": "Aug. 18, 2026",
+      "num": "Q6990",
+      "q": "If a card is affected by \"can't activate [When Digivolving] effects,\" can other effects activate its [When Digivolving] effect?"
+    },
+    {
+      "a": "No, you can't.",
+      "date": "Aug. 18, 2026",
+      "num": "Q6991",
+      "q": "If a card is affected by \"can't activate [When Digivolving] effects,\" can I process just the \"by\" condition in its [When Digivolving] effect?"
+    },
+    {
+      "a": "No, it doesn't count. The effect can't activate upon the [When Digivolving] timing, therefore it doesn't count as an instance of that effect's [X Per Turn].",
+      "date": "Aug. 18, 2026",
+      "num": "Q6992",
+      "q": "A card that was given \"can't activate [When Digivolving] effects\" digivolved into a card that has a [When Digivolving] [When Attacking] [Once Per Turn] effect. Does that count as an instance of that effect's [X Per Turn] even if that effect can't be activated upon the timing when that card digivolved?"
+    },
+    {
+      "a": "App Fusion is possible with the following combinations. ●[Aidmon] with [Supplemon] link card●[Aidmon] with [Spamon] link card●[Supplemon] with [Aidmon] link card●[Supplemon] with [Spamon] link card●[Spamon] with [Aidmon] link card●[Spamon] with [Supplemon] link card",
+      "date": "Aug. 18, 2026",
+      "num": "Q6993",
+      "q": "This card has 3 different cards in its App Fusion requirements. What combinations are possible for App Fusion?"
+    },
+    {
+      "a": "Yes.",
+      "date": "Sep. 18, 2026",
+      "num": "Q7207",
+      "q": "When this card would be deleted in battle, can I activate  after activating this card's  and trash a link card?"
+    }
+  ],
+  "Color": "Yellow",
+  "Cost": "5",
+  "DP": "5000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "2 from Lv.3"
+  ],
+  "Digivolve Cost 2": [
+    "Multicolor",
+    "2 from Stnd."
+  ],
+  "Effect": [
+    "＜Barrier＞ ＜Detach ([Seven Code] trait)＞ (When this Digimon would leave the battle area other than by your effects, by trashing 1 of its specified link cards, it doesn't leave.)",
+    "[On Play] [When Digivolving] You may link 1 level 3 Digimon card with the [Life], [System] or [Seven Code] trait from this Digimon's digivolution cards to this Digimon without paying the cost."
+  ],
+  "Form": "Sup./Appmon",
+  "Link Condition": "＜Link＞ [Appmon] trait: Cost 3 (Plug this card from the hand or battle area sideways into the specified Digimon in the battle area.)",
+  "Link DP": "DP+3000",
+  "Link Effect": "[When Linking] Until your opponent's turn ends, 1 of their Digimon can't activate [When Digivolving] effects and gets -3000 DP.",
+  "Notes": [
+    "Booster TIMELESS BONDS [BT-26]",
+    "?search=true&category=522038",
+    "/products/pack/ver26"
+  ],
+  "Special Digivolution Condition": "[App Fusion] [Aidmon] & [Supplemon] & [Spamon]: Cost 0",
+  "Special Play Condition": "Assembly -2: Lv.3 [Life]/[System]/[Seven Code] trait Digimon card",
+  "Type": "Medical/Seven Code",
+  "cardLv": "Lv.4",
+  "cardNo": "BT26-028",
+  "cardRarity": "U",
+  "cardTitle": "Medicmon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT26-028.png?260529"
+}

@@ -1,0 +1,68 @@
+{
+  "Attribute": "Data",
+  "Card Q&A": [
+    {
+      "a": "Yes, you can.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7052",
+      "q": "Can I use this card's [When Digivolving] effect to suspend either my Digimon or Tamers or my opponent's Digimon or Tamers?"
+    },
+    {
+      "a": "Yes, it can.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7053",
+      "q": "Can this card's [When Digivolving] effect give \"can't unsuspend\" to a card that was not suspended by it?"
+    },
+    {
+      "a": "Yes, you trash it.  The standard rules apply even when notes aren't shown.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7054",
+      "q": "Does a burst digivolve without notes also trash the top card of the stack at the end of the turn it digivolved, like a normal burst digivolve?"
+    },
+    {
+      "a": "The effects trigger simultaneously, so the player can choose the activation order.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7055",
+      "q": "Multiple effects trigger when this card digivolves. In what order can they be activated?"
+    }
+  ],
+  "Color": [
+    "Green",
+    "Red"
+  ],
+  "Cost": "D",
+  "DP": "15000",
+  "DUAL Color": "Green",
+  "DUAL Cost": "6",
+  "DUAL Effect": [
+    "＜Use Req. ([DATA SQUAD] trait)＞ (Specified cards let you ignore color requirements.)",
+    "[Main] Suspend 2 of your opponent's Digimon or Tamers. Then, until their turn ends, none of their suspended Digimon or Tamers can digivolve or unsuspend."
+  ],
+  "DUAL Rule": "＜Arts Digivolve＞ (Instead of trashing after use, your cards may digivolve into this card without paying the cost.)",
+  "Digivolve Cost 1": [
+    "Green",
+    "5 from Lv.6"
+  ],
+  "Effect": [
+    "[When Digivolving] You may suspend 2 Digimon or Tamers. Then, 2 of your opponent's Digimon or Tamers can't unsuspend until their turn ends.",
+    "[When Digivolving] [When Attacking] By returning 1 other suspended Digimon to the bottom of the deck, trash your opponent's top security card."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster TIMELESS BONDS [BT-26]",
+    "?search=true&category=522038",
+    "/products/pack/ver26"
+  ],
+  "Special Digivolution Condition": [
+    "[Digivolve] Lv.6 w/[DATA SQUAD] trait: Cost 5",
+    "[Burst Digivolve] [Rosemon]: Cost 0 by returning 1 [Yoshino Fujieda] to the hand."
+  ],
+  "Type": "Fairy/DATA SQUAD",
+  "cardLv": "Lv.7",
+  "cardNo": "BT26-050",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "UR",
+  "cardTitle": "Rosemon: Burst Mode          Aguichant Lèvres",
+  "cardType": "Digimon/Tamer",
+  "imgSrc": "../images/cardlist/card/BT26-050_P1.png?260529"
+}

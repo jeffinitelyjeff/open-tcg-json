@@ -1,0 +1,67 @@
+{
+  "Card Q&A": [
+    {
+      "a": "No, they are not immediately deleted at this point in time.All activated effects are resolved, after which a rule check occurs. At that point in time, all Digimon with 0 DP are deleted simultaneously.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7000",
+      "q": "Due to this card's effect, the DP on my opponent's Digimon become 0. At this point in time, are those Digimon with 0 DP immediately deleted?"
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7001",
+      "q": "Can I use this card's [When Digivolving] effect to suspend either my Digimon or my opponent's Digimon?"
+    },
+    {
+      "a": "Yes, the play cost will be reduced by a total of 10.\n                                            \n                        Related Cards",
+      "date": "Aug. 18, 2026",
+      "num": "Q7002",
+      "q": "If I use this card's [When Digivolving] effect to play [BT25-077 Bacchusmon], can I activate [BT25-077 Bacchusmon]'s 1st effect and reduce the play cost by a total of 10?",
+      "relatedCards": [
+        "BT25-077"
+      ]
+    },
+    {
+      "a": "Yes, it can.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7003",
+      "q": "Can this card's [Main] effect give \"can't unsuspend\" to a card that was not suspended by it?"
+    }
+  ],
+  "Color": [
+    "Yellow",
+    "Green"
+  ],
+  "Cost": "D",
+  "DP": "13000",
+  "DUAL Color": "Green",
+  "DUAL Cost": "5",
+  "DUAL Effect": [
+    "＜Use Req. ([TS] trait)＞ (Specified cards let you ignore color requirements.)",
+    "[Main] You may suspend 2 of your opponent's Digimon or Tamers. Then, 3 of their Digimon or Tamers can't unsuspend until their turn ends."
+  ],
+  "DUAL Rule": "＜Arts Digivolve＞ (Instead of trashing after use, your cards may digivolve into this card without paying the cost.)",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "Green",
+    "5 from Lv.5"
+  ],
+  "Effect": [
+    "＜Alliance＞ ＜Succession ([Ceresmon])＞ (This Digimon gains all effects other than ＜Succession＞ on its topmost specified digivolution card.)",
+    "[When Digivolving] All of your opponent's suspended Digimon get -5000 DP until their turn ends. Then, by suspending 1 Digimon, if it's your turn, you may play or use 1 [Vegetation] or [TS] trait card from your hand with the cost reduced by 5.",
+    "(Rule) Trait: Has [Vegetation] Type."
+  ],
+  "Notes": [
+    "Booster TIMELESS BONDS [BT-26]",
+    "?search=true&category=522038",
+    "/products/pack/ver26"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Play cost 12 [Ceresmon]: Cost 2",
+  "cardLv": "Lv.6",
+  "cardNo": "BT26-032",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "Ceresmon          Famis",
+  "cardType": "Digimon/Tamer",
+  "imgSrc": "../images/cardlist/card/BT26-032_P1.png?260529"
+}

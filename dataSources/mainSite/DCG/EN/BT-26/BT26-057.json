@@ -1,0 +1,83 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "You can give the effect, but if the Digimon isn't affected by effects at the time it would be triggered, it will not trigger.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7060",
+      "q": "Can I give \"[Start of Your Main Phase] This Digimon attacks\" to a Digimon that isn't affected by effects?"
+    },
+    {
+      "a": "This effect prevents a card from being affected by effects. For example, your Digimon won't suspend if it's chosen for a \"suspend 1 of your opponent's Digimon\" effect, and its DP won't be reduced by 3000 if it's chosen for a \"1 of your opponent's Digimon gets -3000 DP\" effect.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7061",
+      "q": "What does \"effects don't affect\" mean, exactly?"
+    },
+    {
+      "a": "Yes, it can be chosen. For example, a Digimon that isn't affected by effects can be chosen for a \"suspend 1 of your opponent's Digimon\" effect.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7062",
+      "q": "Can a card that has an \"effects don't affect\" effect be chosen for an effect?"
+    },
+    {
+      "a": "Yes, it can. It won't be affected by it, but it can be given an effect. However, if an effect such as  is given to a Digimon that isn't affected by effects, the Digimon won't be considered to have that effect.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7063",
+      "q": "Can a card that has an \"effects don't affect\" effect be given an effect?"
+    },
+    {
+      "a": "As soon as it gains the \"effects don't affect\" effect, it will no longer be affected.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7064",
+      "q": "If a card is affected by an effect, then it later gains an \"effects don't affect\" effect, what happens to the effect that was affecting it?"
+    },
+    {
+      "a": "It will be affected by the gained effect as soon as it can be affected by effects.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7065",
+      "q": "If a card with an \"effects don't affect\" effect gains an effect then later loses the \"effects don't affect\" effect, what happens to the effect that it gained?"
+    },
+    {
+      "a": "If the Digimon isn't affected by effects upon the trigger timing, the effect won't trigger.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7066",
+      "q": "A card that has an \"effects don't affect\" effect was given an effect that triggers at a timing such as [When Attacking]. Will the effect trigger if that card later meets the trigger conditions?"
+    }
+  ],
+  "Color": [
+    "Black",
+    "Red"
+  ],
+  "Cost": "D",
+  "DP": "8000",
+  "DUAL Color": "Black",
+  "DUAL Cost": "4",
+  "DUAL Effect": [
+    "＜Use Req. ([Glowing Dawn] trait)＞ (Specified cards let you ignore color requirements.)",
+    "[Main] ＜De-Digivolve 1＞ 1 of your opponent's Digimon. Then, give 1 of their Digimon \"[Start of Your Main Phase] This Digimon attacks.\" until their turn ends."
+  ],
+  "DUAL Rule": "＜Arts Digivolve＞ (Instead of trashing after use, your cards may digivolve into this card without paying the cost.)",
+  "Digivolve Cost 1": [
+    "Black",
+    "Red",
+    "4 from Lv.4"
+  ],
+  "Effect": [
+    "[When Digivolving] By trashing the bottom face-down card from under any of your Tamers, until your opponent's turn ends, their Digimon effects don't affect this Digimon, and it gets +3000 DP.",
+    "[All Turns] [Once Per Turn] When attack targets change or effects trash cards from under your Tamers, this Digimon may unsuspend."
+  ],
+  "Form": "Ultimate",
+  "Notes": [
+    "Booster TIMELESS BONDS [BT-26]",
+    "?search=true&category=522038",
+    "/products/pack/ver26"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.4 w/[Glowing Dawn] trait: Cost 3",
+  "Type": "Beastkin/Glowing Dawn/BEATBREAK",
+  "cardLv": "Lv.5",
+  "cardNo": "BT26-057",
+  "cardRarity": "SR",
+  "cardTitle": "Bearcatmon          Penetrate Blow",
+  "cardType": "Digimon/Tamer",
+  "imgSrc": "../images/cardlist/card/BT26-057.png?260529"
+}

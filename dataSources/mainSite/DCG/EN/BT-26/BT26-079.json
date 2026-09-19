@@ -1,0 +1,54 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "A {Trash} effect can be triggered/activated while its card is in the trash. It can't be triggered or activated in areas other than the trash.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7109",
+      "q": "What is a {Trash} effect?"
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7110",
+      "q": "Can I activate this card's {Trash} [Main] effect, then declare an Assembly for this card when it's played to further reduce its play cost?"
+    },
+    {
+      "a": "Each player chooses the cards in their own hand to trash respectively.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7111",
+      "q": "When both players trash cards in their hand for this card's [All Turns] effect, which player chooses the cards to trash?"
+    }
+  ],
+  "Color": "Purple",
+  "Cost": "12",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Purple",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "{Trash} [Main] If your hand has 5 or fewer cards, play this card with the cost reduced by 4.",
+    "＜Security A. +1＞ ＜Decode ([Plutomon])＞ ＜Retaliation＞",
+    "[On Play] [When Digivolving] [When Attacking] By trashing 1 card in your hand, delete 1 of your opponent's level 6 or lower Digimon.",
+    "[All Turns] [Once Per Turn] When any of your opponent's Digimon are played or digivolve, both players trash cards in their hand so that they have 4 left."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster TIMELESS BONDS [BT-26]",
+    "?search=true&category=522038",
+    "/products/pack/ver26"
+  ],
+  "Special Digivolution Condition": [
+    "[Digivolve] [Plutomon]: Cost 1",
+    "[Digivolve] Lv.5 w/[TS] trait: Cost 3"
+  ],
+  "Special Play Condition": "Assembly -2: [Plutomon]",
+  "Type": "Undead/Titan/TS",
+  "cardLv": "Lv.6",
+  "cardNo": "BT26-079",
+  "cardRarity": "SR",
+  "cardTitle": "ZombiePlutomon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT26-079.png?260529"
+}

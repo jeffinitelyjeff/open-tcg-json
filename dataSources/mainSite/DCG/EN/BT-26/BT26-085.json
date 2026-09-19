@@ -1,0 +1,45 @@
+{
+  "Attribute": "NO DATA",
+  "Card Q&A": [
+    {
+      "a": "This means that the effect prevents processing of \"(perform XX on) stacked cards.\"For example, a \"can't trash stacked cards\" effect prevents trashing the top stacked cards by  (which trashes the top stacked cards) or similar effects, and it prevents trashing the bottom stacked cards by \"trash a digivolution card\" or similar effects.However, because the effect only prevents processing \"(perform XX on) stacked cards,\" XX is still permitted to be performed on the Digimon itself, for instance by effects that tell you to \"perform XX\" on the Digimon.",
+      "date": "Sep. 18, 2026",
+      "num": "Q7129",
+      "q": "What exactly does a \"can't (perform XX on) stacked cards\" effect mean?"
+    },
+    {
+      "a": "It refers to a card that contains the specified text or icon in its name, traits, effects, inherited effects, (Rule), digivolve requirements, DNA Digivolve, DigiXros requirements, Burst Digivolve, App Fusion, Link, or Assembly requirements. For example, \"a card with [Knightmon] in its text\" would include cards with the name [DarkKnightmon] and cards with the text [Knightmon] in their effects.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7130",
+      "q": "What kind of card does \"a card with X in its text\" refer to?"
+    },
+    {
+      "a": "No.The [BT26-085 Giant Slayer] card has no level, so it can't be referenced by this card's Assembly.",
+      "date": "Sep. 18, 2026",
+      "num": "Q7210",
+      "q": "Can I place [BT26-085 Giant Slayer] under this card when performing its Assembly?"
+    }
+  ],
+  "Color": "White",
+  "Cost": "12",
+  "DP": "14000",
+  "Effect": [
+    "＜Collision＞ ＜Reboot＞ ＜Blocker＞",
+    "[On Play] Until your opponent's turn ends, your opponent's effects can't reduce this Digimon's DP or trash its stacked cards.",
+    "[All Turns] When this Digimon would leave the battle area, by digivolving it into [Chronomon: Destroy Mode] in the hand or trash without paying the cost, it doesn't leave."
+  ],
+  "Inherited Effect": "ー",
+  "Notes": [
+    "Booster TIMELESS BONDS [BT-26]",
+    "?search=true&category=522038",
+    "/products/pack/ver26"
+  ],
+  "Special Play Condition": "Assembly -5: 5 different-level cards w/[Chronomon] in text or w/[Shaman] trait",
+  "Type": "TS",
+  "cardLv": "Lv.-",
+  "cardNo": "BT26-085",
+  "cardRarity": "R",
+  "cardTitle": "Giant Slayer",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT26-085.png?260529"
+}

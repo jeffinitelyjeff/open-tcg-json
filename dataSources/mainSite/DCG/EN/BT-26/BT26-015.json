@@ -1,0 +1,71 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "It refers to a card that contains the specified text or icon in its name, traits, effects, inherited effects, (Rule), digivolve requirements, DNA Digivolve, DigiXros requirements, Burst Digivolve, App Fusion, Link, or Assembly requirements. For example, \"a card with [Knightmon] in its text\" would include cards with the name [DarkKnightmon] and cards with the text [Knightmon] in their effects.",
+      "date": "Aug. 18, 2026",
+      "num": "Q6970",
+      "q": "What kind of card does \"a card with X in its text\" refer to?"
+    },
+    {
+      "a": "No, they are not immediately deleted at this point in time.All activated effects are resolved, after which a rule check occurs. At that point in time, all Digimon with 0 DP are deleted simultaneously.",
+      "date": "Aug. 18, 2026",
+      "num": "Q6971",
+      "q": "Due to this card's effect, the DP on my opponent's Digimon become 0. At this point in time, are those Digimon with 0 DP immediately deleted?"
+    },
+    {
+      "a": "No, you can't. The Digimon that gets additional DP from this effect must attack if possible.",
+      "date": "Aug. 18, 2026",
+      "num": "Q6972",
+      "q": "After using this card's [Your Turn] effect to give a Digimon DP, can I choose not to attack with it?"
+    },
+    {
+      "a": "This effect triggers when a card is placed in the deck from any area other than the deck.It triggers regardless of whether the card is placed on the top or the bottom of the deck. However, it does not trigger when a card is revealed from the deck and returned.",
+      "date": "Aug. 18, 2026",
+      "num": "Q6973",
+      "q": "When does \"when your effects add to decks\" trigger?"
+    },
+    {
+      "a": "Yes, it does.It also triggers when an effect adds cards to the deck then removes them.",
+      "date": "Aug. 18, 2026",
+      "num": "Q6974",
+      "q": "When an effect such as \". Then, if your hand has 6 or more cards, return 1 card in your hand to the bottom of the deck\" removes cards from the deck then adds cards to it, does the effect \"when your effects add to decks\" trigger?"
+    },
+    {
+      "a": "Yes, it does.",
+      "date": "Aug. 18, 2026",
+      "num": "Q6975",
+      "q": "When one of my effects adds cards to my opponent's deck, does this card's \"when your effects add to decks\" effect trigger?"
+    }
+  ],
+  "Color": [
+    "Red",
+    "Yellow"
+  ],
+  "Cost": "7",
+  "DP": "7000",
+  "Digivolve Cost 1": [
+    "Red",
+    "Yellow",
+    "4 from Lv.4"
+  ],
+  "Effect": [
+    "[On Play] [When Digivolving] 1 of your opponent's Digimon gets -4000 DP until their turn ends. Then, by returning 1 card in your trash to the bottom of the deck, delete 1 of your opponent's 5000 DP or lower Digimon.",
+    "[Your Turn] [Once Per Turn] When your effects add to decks, 1 of your Digimon may get +3000 DP until your opponent's turn ends and attack."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "[All Turns] [Once Per Turn] When your effects add to decks, this Digimon with [Chronomon] in its text may unsuspend.",
+  "Notes": [
+    "Booster TIMELESS BONDS [BT-26]",
+    "?search=true&category=522038",
+    "/products/pack/ver26"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.4 w/[TS] trait: Cost 3",
+  "Type": "Shaman/Iliad/TS",
+  "cardLv": "Lv.5",
+  "cardNo": "BT26-015",
+  "cardRarity": "R",
+  "cardTitle": "Butenmon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT26-015.png?260529"
+}

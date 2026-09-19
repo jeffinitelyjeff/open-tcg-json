@@ -1,0 +1,74 @@
+{
+  "Attribute": "Free",
+  "Card Q&A": [
+    {
+      "a": "Yes, you can.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7024",
+      "q": "I have 0 security cards. Can I activate this card's [On Play] [When Digivolving] effect and perform  without adding a security card to the hand?"
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7025",
+      "q": "Can I use this card's [On Play] [When Digivolving] effect to suspend either my Digimon or my opponent's Digimon?"
+    },
+    {
+      "a": "It triggers when the battle is won.  When the Digimon with this effect wins a battle, the opponent's Digimon that lost the battle is deleted, then the \"when this Digimon wins a battle\" effect can be activated.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7026",
+      "q": "When does \"when this Digimon wins a battle\" trigger?"
+    },
+    {
+      "a": "Yes, it triggers.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7027",
+      "q": "Does a \"when this Digimon wins a battle\" effect also trigger when a battle against a Security Digimon is won?"
+    },
+    {
+      "a": "They trigger simultaneously, so the turn player can activate their effects first.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7028",
+      "q": "A Digimon with a \"when this Digimon wins a battle\" effect won a battle, and the opponent's Digimon that lost the battle is deleted.  At such times, in what order can players activate the \"when this Digimon wins a battle\" effect and the effects that trigger upon the losing Digimon being deleted?"
+    },
+    {
+      "a": "The \"when this Digimon would be deleted\" and \"when this Digimon would leave the battle area\" effects can be activated first.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7029",
+      "q": "A Digimon with a \"when this Digimon wins a battle\" effect won a battle, and the opponent's Digimon lost the battle.  At such times, in what order can players activate the winning Digimon's \"when this Digimon wins a battle\" effect and the losing Digimon's effects such as \"when this Digimon would be deleted\" and \"when this Digimon would leave the battle area\" effects?"
+    },
+    {
+      "a": "Yes, it can be activated.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7030",
+      "q": "A Digimon with a \"when this Digimon wins a battle\" effect won a battle, and the opponent's Digimon lost the battle.  At such times, can the \"when this Digimon wins a battle\" effect be activated even if an effect prevents the opponent's Digimon from being deleted?"
+    }
+  ],
+  "Color": [
+    "Green",
+    "Yellow"
+  ],
+  "Cost": "4",
+  "DP": "5000",
+  "Digivolve Cost 1": [
+    "Green",
+    "Yellow",
+    "3 from Lv.3"
+  ],
+  "Effect": "[On Play] [When Digivolving] Add your top security card to the hand and ＜Recovery +1＞. Then, you may suspend 1 Digimon.",
+  "Form": "Champion",
+  "Inherited Effect": "[Your Turn] [Once Per Turn] When this Digimon wins a battle, gain 1 memory.",
+  "Notes": [
+    "Booster TIMELESS BONDS [BT-26]",
+    "?search=true&category=522038",
+    "/products/pack/ver26"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.3 w/[Larva]/[Insectoid]/[NSp] trait: Cost 2",
+  "Type": "Insectoid/NSp",
+  "cardLv": "Lv.4",
+  "cardNo": "BT26-041",
+  "cardRarity": "U",
+  "cardTitle": "Hudiemon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT26-041.png?260529"
+}

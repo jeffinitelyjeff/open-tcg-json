@@ -1,0 +1,56 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "No, you can't. Only 1 [Counter] effect can be activated during 1 attack.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7187",
+      "q": "Can I activate a [Counter] effect and then activate another [Counter] effect?"
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7188",
+      "q": "I have 0 security cards. Can I activate this card's [When Digivolving] [Counter] effect and perform  without trashing a security card?"
+    },
+    {
+      "a": "The [Security] effect is activated first. When a [Security] effect is checked, it is activated immediately without waiting. Activate the other triggered effects in order, starting with the turn player's effects.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7189",
+      "q": "When performing a security check, if a [Security] effect, a \"when this Digimon checks an opponent's security\" effect, and a \"when a security stack is removed from\" effect trigger simultaneously, what order do they activate in?"
+    }
+  ],
+  "Color": [
+    "Yellow",
+    "Red",
+    "Black"
+  ],
+  "Cost": "16",
+  "DP": "16000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "Red",
+    "Black",
+    "6 from Lv.6"
+  ],
+  "Effect": [
+    "＜Piercing＞ ＜Reboot＞ ＜Blocker＞ ＜Succession ([Jupitermon])＞ (This Digimon gains all effects other than ＜Succession＞ on its topmost specified digivolution card.)",
+    "[When Digivolving] [Counter] [Once Per Turn] Trash your top security card and ＜Recovery +2＞.",
+    "[All Turns] [Once Per Turn] When security stacks are removed from, 1 of your opponent's Digimon gets -15000 DP until their turn ends."
+  ],
+  "Form": "Mega",
+  "Inherited Effect": "ー",
+  "Notes": [
+    "Booster TIMELESS BONDS [BT-26]",
+    "?search=true&category=522038",
+    "/products/pack/ver26"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.6 w/[Olympos XII] trait: Cost 5",
+  "Type": "Shaman/Olympos XII/Iliad/TS",
+  "cardLv": "Lv.7",
+  "cardNo": "BT26-103",
+  "cardRarity": "SEC",
+  "cardTitle": "Jupitermon: Wrath Mode",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT26-103.png?260529"
+}

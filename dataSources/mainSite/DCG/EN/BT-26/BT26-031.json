@@ -1,0 +1,59 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "The player that activated the effect chooses 1 player.",
+      "date": "Aug. 18, 2026",
+      "num": "Q6997",
+      "q": "What happens for \"1 player with the most security cards\" if both players have the same number of security cards?"
+    },
+    {
+      "a": "No, it isn't deleted at that point in time. After trashing the used Option card or digivolving it with Arts Digivolve, all Digimon with 0 DP are deleted upon a rule check. Then, if the deleted card has an [On Deletion] effect, it will trigger simultaneously with this card's [When Digivolving] effect.",
+      "date": "Aug. 18, 2026",
+      "num": "Q6998",
+      "q": "I used [Gonozan: Murashigure], and its [Main] effect caused the DP of my opponent's Digimon to become 0.  At such times, is the Digimon with a DP of zero deleted?"
+    },
+    {
+      "a": "The effects trigger simultaneously, so the player can choose the activation order.",
+      "date": "Aug. 18, 2026",
+      "num": "Q6999",
+      "q": "Multiple effects trigger when this card digivolves. In what order can they be activated?"
+    }
+  ],
+  "Color": [
+    "Yellow",
+    "Blue"
+  ],
+  "Cost": "D",
+  "DP": "8000",
+  "DUAL Color": "Yellow",
+  "DUAL Cost": "4",
+  "DUAL Effect": [
+    "＜Use Req. ([Glowing Dawn] trait)＞ (Specified cards let you ignore color requirements.)",
+    "[Main] 1 of your opponent's Digimon gets -8000 DP until their turn ends. By trashing your top security card, it further gets -5000 DP."
+  ],
+  "DUAL Rule": "＜Arts Digivolve＞ (Instead of trashing after use, your cards may digivolve into this card without paying the cost.)",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "Blue",
+    "4 from Lv.4"
+  ],
+  "Effect": [
+    "[When Digivolving] By trashing the top security card of 1 player with the most security cards, 1 of your opponent's Digimon or Tamers can't suspend until their turn ends.",
+    "[When Digivolving] [When Attacking] [Once Per Turn] By trashing the bottom face-down card from under any of your Tamers, ＜Recovery +1＞."
+  ],
+  "Form": "Ultimate",
+  "Notes": [
+    "Booster TIMELESS BONDS [BT-26]",
+    "?search=true&category=522038",
+    "/products/pack/ver26"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.4 w/[Glowing Dawn] trait: Cost 3",
+  "Type": "Beastkin/Glowing Dawn/BEATBREAK",
+  "cardLv": "Lv.5",
+  "cardNo": "BT26-031",
+  "cardRarity": "SR",
+  "cardTitle": "Murasamemon          Gonozan: Murashigure",
+  "cardType": "Digimon/Tamer",
+  "imgSrc": "../images/cardlist/card/BT26-031.png?260529"
+}

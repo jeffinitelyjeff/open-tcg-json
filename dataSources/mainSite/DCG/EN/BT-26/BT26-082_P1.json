@@ -1,0 +1,75 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "A {Security} effect can be triggered/activated while its card is face up in the security stack. It can't be triggered or activated in areas other than the face-up security cards.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7117",
+      "q": "What is a {Security} effect?"
+    },
+    {
+      "a": "They become face-up security cards that remain revealed. Other than rules that specify face-up security cards, the rules apply in the same manner as standard security cards.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7118",
+      "q": "What happens to cards placed face up in the security stack by effects?"
+    },
+    {
+      "a": "The check is performed with the card left revealed. Other than rules for cards left revealed, the rules apply in the same manner as standard security checks.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7119",
+      "q": "What happens upon a security check for a security card that is placed face-up?"
+    },
+    {
+      "a": "Yes, it triggers.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7120",
+      "q": "Does a card's [Security] effect trigger upon a security check if that card is placed face-up?"
+    },
+    {
+      "a": "Any face-up cards are placed face down, then you shuffle the cards. After shuffling, all cards are left face-down.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7121",
+      "q": "What happens if I shuffle a security stack that includes security cards placed face-up?"
+    },
+    {
+      "a": "You lose the game.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7122",
+      "q": "An opponent's Digimon attacks the player with an effect at the end of their turn. What happens if this card's {Security} [End of Opponent's Turn] effect then plays this card, my security stack is reduced to 0 cards, and the attack against the player is successful?"
+    },
+    {
+      "a": "No, you can't. A \"by\" condition can't be met if only some of the required actions are performed. The conditions for this [When Digivolving] [End of Attack] effect require you to trash the specified number of cards.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7123",
+      "q": "Can I trash just 1 specified card for the conditions of this card's [When Digivolving] [End of Attack] effect?"
+    }
+  ],
+  "Color": "Purple",
+  "Cost": "12",
+  "DP": "12000",
+  "Digivolve Cost 1": [
+    "Purple",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "{Security} [End of Opponent's Turn] Play this card without paying the cost.",
+    "[When Digivolving] [End of Attack] By deleting this Digimon or trashing 2 bottom face-down cards from under any of your Tamers, delete 1 of your opponent's highest DP Digimon.",
+    "[On Deletion] Your opponent trashes 1 card in their hand. Then, if their hand has 7 or fewer cards, you may place this card face up as the bottom security card.",
+    "(Rule) Trait: Has [Birdkin] Type."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster TIMELESS BONDS [BT-26]",
+    "?search=true&category=522038",
+    "/products/pack/ver26"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [Crowmon]/Lv.5 w/[DATA SQUAD] trait: Cost 3",
+  "Type": "Cyborg/DATA SQUAD",
+  "cardLv": "Lv.6",
+  "cardNo": "BT26-082",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "Ravemon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT26-082_P1.png?260529"
+}

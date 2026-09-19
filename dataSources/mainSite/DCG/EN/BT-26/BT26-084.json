@@ -1,0 +1,63 @@
+{
+  "Attribute": "System",
+  "Card Q&A": [
+    {
+      "a": "No, you can't.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7125",
+      "q": "Can I link a card without  with a \"you may link\" effect?"
+    },
+    {
+      "a": "If you played the card, the remaining cards are returned to the deck after it's played to the battle area. Then you can activate any effects that triggered from it entering play.  If you used a card, the cards are returned to the deck after the used card's [Main] effect has been resolved and the card has been trashed.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7126",
+      "q": "If I used this card's [Your Turn] effect to play or use a card revealed from the deck, when do I return the rest of the cards to the deck?"
+    },
+    {
+      "a": "Place the specified cards from your battle area, link cards or trash under a specified Digimon with the used [BT26-102 Seven Code PAD]'s [Main] effect and digivolve that Digimon into [Dantemon]. Then, perform a digivolution bonus draw from the unrevealed deck.Afterwards, trash [BT26-102 Seven Code PAD] and perform the \"return the remaining cards to the deck\" action.\n                                            \n                        Related Cards",
+      "date": "Aug. 18, 2026",
+      "num": "Q7127",
+      "q": "What happens when I activate this card's [Your Turn] effect and use a [BT26-102 Seven Code PAD] that was revealed from the deck?",
+      "relatedCards": [
+        "BT26-102"
+      ]
+    },
+    {
+      "a": "No, you can't.\n                                            \n                        Related Cards",
+      "date": "Aug. 18, 2026",
+      "num": "Q7128",
+      "q": "A [Seven Code] trait card gets linked to this card, and this card's [Your Turn] effect and the linked card's [When Linking] effect trigger simultaneously.If I activate this card's [Your Turn] effect first and use [BT26-102 Seven Code PAD]'s [Main] effect, can I activate the [When Linking] effect on the card linked to this card after placing it as a digivolution card.",
+      "relatedCards": [
+        "BT26-102"
+      ]
+    }
+  ],
+  "Color": "White",
+  "Cost": "4",
+  "DP": "4000",
+  "Digivolve Cost 1": [
+    "Purple",
+    "0 from Lv.2"
+  ],
+  "Effect": [
+    "＜Detach ([Seven Code] trait)＞ (When this Digimon would leave the battle area other than by your effects, by trashing 1 of its specified link cards, it doesn't leave.)",
+    "[Your Turn] [Once Per Turn] When this Digimon gets linked, reveal the top 3 cards of your deck. You may play or use 1 [Seven Code] trait card among them with the cost reduced by 3. Return the rest to the top or bottom of the deck."
+  ],
+  "Form": "Stnd./Appmon",
+  "Link Condition": "＜Link＞ [Appmon] trait: Cost 3 (Plug this card from the hand or battle area sideways into the specified Digimon in the battle area.)",
+  "Link DP": "DP+3000",
+  "Link Effect": "[When Linking] You may link 1 non-white level 4 or lower [System] or [Seven Code] trait card from your trash to this Digimon without paying the cost.",
+  "Notes": [
+    "Booster TIMELESS BONDS [BT-26]",
+    "?search=true&category=522038",
+    "/products/pack/ver26"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.2 w/[Appmon] trait: Cost 0",
+  "Type": "Copy & Paste/Seven Code",
+  "cardLv": "Lv.3",
+  "cardNo": "BT26-084",
+  "cardRarity": "C",
+  "cardTitle": "Copipemon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT26-084.png?260529"
+}

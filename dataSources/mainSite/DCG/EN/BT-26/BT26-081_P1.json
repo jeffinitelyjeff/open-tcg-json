@@ -1,0 +1,62 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "Yes, you can still reduce the DP of an opponent's Digimon even if you don't play a card with the effect.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7115",
+      "q": "Can this card's [On Play] [When Digivolving] effect reduce an opponent's Digimon's DP even if I didn't play a card with it?"
+    },
+    {
+      "a": "No, it is not immediately deleted at this point in time.All activated effects are resolved, after which a rule check occurs. At that point in time, all Digimon with 0 DP are deleted simultaneously.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7116",
+      "q": "All of my Digimon are currently getting -5000 DP, and I use this card's [On Play] [When Digivolving] effect to play a Digimon with 5000 DP or less.At such times, is the played Digimon deleted before the part of the effect that follows after \"Then\" is processed?"
+    },
+    {
+      "a": "No, you can't.[BT24-041 Minervamon]'s first effect triggers when it's played, and the effect also reduces the cost paid but doesn't reduce the actual cost. Therefore, [BT24-041 Minervamon] can't be played with this card's [On Play] [When Digivolving] effect.\n                                            \n                        Related Cards",
+      "date": "Sep. 18, 2026",
+      "num": "Q7209",
+      "q": "Using this card's [On Play] [When Digivolving] effect, can I play a [BT24-041 Minervamon] whose cost has been reduced by 5?",
+      "relatedCards": [
+        "BT24-041"
+      ]
+    }
+  ],
+  "Color": [
+    "Purple",
+    "Yellow",
+    "Black"
+  ],
+  "Cost": "13",
+  "DP": "13000",
+  "Digivolve Cost 1": [
+    "Purple",
+    "Yellow",
+    "Black",
+    "5 from Lv.5"
+  ],
+  "Effect": [
+    "[On Play] [When Digivolving] You may play up to 8 play cost's total worth of [Iliad] trait cards from your hand or trash without paying the costs. Then, to 1 of your opponent's Digimon, give -4000 DP until their turn ends for each of your [Iliad] or [TS] trait Digimon or Tamers.",
+    "[All Turns] All of your [Iliad] trait Digimon gain ＜Alliance＞, ＜Reboot＞, ＜Blocker＞ and +2000 DP."
+  ],
+  "Form": "Mega",
+  "Notes": [
+    "Booster TIMELESS BONDS [BT-26]",
+    "?search=true&category=522038",
+    "/products/pack/ver26"
+  ],
+  "Special Digivolution Condition": [
+    "[Digivolve] [Minervamon]: Cost 2",
+    "[Digivolve] Lv.5 w/[TS] trait: Cost 4"
+  ],
+  "Special Play Condition": "Assembly -5: [Minervamon]",
+  "Type": "Shaman/Olympos XII/Iliad/TS",
+  "cardLv": "Lv.6",
+  "cardNo": "BT26-081",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "Mervamon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT26-081_P1.png?260529"
+}

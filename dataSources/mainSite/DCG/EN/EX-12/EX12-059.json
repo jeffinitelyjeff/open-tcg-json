@@ -8,10 +8,10 @@
       "q": "Can I place just 1 card in digivolution cards for the conditions of this card's [On Play] [When Digivolving] [When Attacking] effect?"
     },
     {
-      "a": "This effect prevents cards stacked on top from being trashed by  or other effects, and cards stacked on the bottom can't be trashed by effects such as those that trash digivolution cards.",
-      "date": "Jun. 19, 2026",
+      "a": "This means that the effect prevents processing of \"(perform XX on) stacked cards.\"For example, a \"can't trash stacked cards\" effect prevents trashing the top stacked cards by  (which trashes the top stacked cards) or similar effects, and it prevents trashing the bottom stacked cards by \"trash a digivolution card\" or similar effects.However, because the effect only prevents processing \"(perform XX on) stacked cards,\" XX is still permitted to be performed on the Digimon itself, for instance by effects that tell you to \"perform XX\" on the Digimon.",
+      "date": "Sep. 18, 2026",
       "num": "Q6859",
-      "q": "What does a \"can't trash stacked cards\" effect do, exactly?"
+      "q": "What exactly does a \"can't (perform XX on) stacked cards\" effect mean?"
     }
   ],
   "Color": [

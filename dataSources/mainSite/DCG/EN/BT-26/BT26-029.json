@@ -1,0 +1,55 @@
+{
+  "Attribute": "Vaccine",
+  "Card Q&A": [
+    {
+      "a": "The [Security] effect is activated first. When a [Security] effect is checked, it is activated immediately without waiting. Activate the other triggered effects in order, starting with the turn player's effects.",
+      "date": "Aug. 18, 2026",
+      "num": "Q6994",
+      "q": "When performing a security check, if a [Security] effect, a \"when this Digimon checks an opponent's security\" effect, and a \"when a security stack is removed from\" effect trigger simultaneously, what order do they activate in?"
+    },
+    {
+      "a": "This means that the effect prevents \"perform XX on stacked cards\" processing.For example, a \"can't trash stacked cards\" effect prevents trashing stacked cards from the top by  (which trashes the top stacked cards) or similar effects, and prevents trashing stacked cards from the bottom by \"trash the bottom digivolution cards\" or similar effects.However, because the effect only prevents processing that \"performs XX on stacked cards\", you can perform XX with processing that applies the action to a Digimon itself.",
+      "date": "Aug. 28, 2026",
+      "num": "Q6995",
+      "q": "What does a \"can't trash stacked cards\" effect do, exactly?"
+    },
+    {
+      "a": "Yes, the Digimon can be returned.",
+      "date": "Aug. 28, 2026",
+      "num": "Q7195",
+      "q": "If a Digimon has been given the \"can't return any of its stacked cards to hands or decks\" effect with this card's [On Play] [When Digivolving] effect, can that Digimon be returned with effects such as \"Return Digimon to the hand\" or \"Return Digimon to the deck\"?"
+    }
+  ],
+  "Color": [
+    "Yellow",
+    "Black"
+  ],
+  "Cost": "8",
+  "DP": "8000",
+  "Digivolve Cost 1": [
+    "Yellow",
+    "Black",
+    "4 from Lv.4"
+  ],
+  "Effect": [
+    "＜Decode ([Aegiomon])＞ ＜Ascension＞ (When this Digimon is deleted, you may place this card as the top security card.)",
+    "[On Play] [When Digivolving] By trashing your top security card, until your opponent's turn ends, their effects can't reduce the DP of 1 of your Digimon, trash any of its stacked cards, or return them to hands or decks.",
+    "[All Turns] [Once Per Turn] When your security stack is removed from, 3 of your opponent's Digimon get -5000 DP for the turn.",
+    "(Rule) Trait: Has [Angel] Type."
+  ],
+  "Form": "Ultimate",
+  "Inherited Effect": "[All Turns] [Once Per Turn] When your security stack is removed from, ＜De-Digivolve 1＞ 1 of your opponent's Digimon.",
+  "Notes": [
+    "Booster TIMELESS BONDS [BT-26]",
+    "?search=true&category=522038",
+    "/products/pack/ver26"
+  ],
+  "Special Digivolution Condition": "[Digivolve] [Aegiomon]: Cost 3",
+  "Type": "Shaman/Iliad/TS",
+  "cardLv": "Lv.5",
+  "cardNo": "BT26-029",
+  "cardRarity": "R",
+  "cardTitle": "Aegiochusmon: Holy",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT26-029.png?260529"
+}

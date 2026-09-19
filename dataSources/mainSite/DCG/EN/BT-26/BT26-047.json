@@ -1,0 +1,92 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "This effect immediately initiates a battle.If this effect is activated, the chosen Digimon battle according to the standard rules.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7040",
+      "q": "What does \"may battle\" mean, exactly?"
+    },
+    {
+      "a": "Yes, they can battle. A card that has an \"effects don't affect\" effect can still be chosen for an effect. In addition, a battle itself is a rule that compares DP, not an effect. Therefore, a Digimon that isn't affected by effects can be chosen, and then it can battle. If it loses the battle, it will be deleted as normal according to the rules.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7041",
+      "q": "If 2 Digimon including a Digimon that has an \"effects don't affect\" effect are chosen for a \"may battle\" effect, can those Digimon battle?"
+    },
+    {
+      "a": "Yes, you can.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7042",
+      "q": "Can I use this card's [Start of Your Main Phase] [On Play] [When Digivolving] effect to suspend either my Digimon or my opponent's Digimon?"
+    },
+    {
+      "a": "The effects trigger simultaneously, so the player can choose the activation order.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7043",
+      "q": "This card has multiple effects that trigger when it's played or when it digivolves. In what order can they be activated?"
+    },
+    {
+      "a": "This effect prevents a card from being affected by effects. For example, your Digimon won't suspend if it's chosen for a \"suspend 1 of your opponent's Digimon\" effect, and its DP won't be reduced by 3000 if it's chosen for a \"1 of your opponent's Digimon gets -3000 DP\" effect.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7044",
+      "q": "What does \"effects don't affect\" mean, exactly?"
+    },
+    {
+      "a": "Yes, it can be chosen. For example, a Digimon that isn't affected by effects can be chosen for a \"suspend 1 of your opponent's Digimon\" effect.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7045",
+      "q": "Can a card that has an \"effects don't affect\" effect be chosen for an effect?"
+    },
+    {
+      "a": "Yes, it can. It won't be affected by it, but it can be given an effect. However, if an effect such as  is given to a Digimon that isn't affected by effects, the Digimon won't be considered to have that effect.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7046",
+      "q": "Can a card that has an \"effects don't affect\" effect be given an effect?"
+    },
+    {
+      "a": "As soon as it gains the \"effects don't affect\" effect, it will no longer be affected.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7047",
+      "q": "If a card is affected by an effect, then it later gains an \"effects don't affect\" effect, what happens to the effect that was affecting it?"
+    },
+    {
+      "a": "It will be affected by the gained effect as soon as it can be affected by effects.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7048",
+      "q": "If a card with an \"effects don't affect\" effect gains an effect then later loses the \"effects don't affect\" effect, what happens to the effect that it gained?"
+    },
+    {
+      "a": "If the Digimon isn't affected by effects upon the trigger timing, the effect won't trigger.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7049",
+      "q": "A card that has an \"effects don't affect\" effect was given an effect that triggers at a timing such as [When Attacking]. Will the effect trigger if that card later meets the trigger conditions?"
+    }
+  ],
+  "Color": "Green",
+  "Cost": "13",
+  "DP": "13000",
+  "Digivolve Cost 1": [
+    "Green",
+    "4 from Lv.5"
+  ],
+  "Effect": [
+    "[On Play] [When Digivolving] This Digimon may battle 1 of your opponent's Digimon.",
+    "[Start of Your Main Phase] [On Play] [When Digivolving] By suspending 1 Digimon, until your opponent's turn ends, none of your suspended [Insectoid] or [Titan] trait Digimon are affected by your opponent's Option effects, and they get +3000 DP."
+  ],
+  "Form": "Mega",
+  "Inherited Effect": "ー",
+  "Notes": [
+    "Booster TIMELESS BONDS [BT-26]",
+    "?search=true&category=522038",
+    "/products/pack/ver26"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.5 w/[Insectoid]/[TS] trait: Cost 3",
+  "Special Play Condition": "Assembly -6: 4 [Larva]/[Insectoid]/[Titan] trait Digimon cards w/different levels",
+  "Type": "Insectoid/Titan/TS",
+  "cardLv": "Lv.6",
+  "cardNo": "BT26-047",
+  "cardRarity": "R",
+  "cardTitle": "TyrantKabuterimon",
+  "cardType": "Digimon",
+  "imgSrc": "../images/cardlist/card/BT26-047.png?260529"
+}

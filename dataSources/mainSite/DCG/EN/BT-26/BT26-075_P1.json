@@ -1,0 +1,66 @@
+{
+  "Attribute": "Virus",
+  "Card Q&A": [
+    {
+      "a": "The effects trigger simultaneously, so the player can choose the activation order.  However, if you first activate  and this card is removed from the trash, the other effects on this card that were pending activation can no longer activate.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7100",
+      "q": "Multiple effects trigger when this card is deleted. In what order can they be activated?"
+    },
+    {
+      "a": "Yes, it battles after its [Security] effect activates.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7101",
+      "q": "If this card is checked from a security stack, does it battle with the attacking Digimon after its [Security] effect activates?"
+    },
+    {
+      "a": "It's treated as a Digimon effect.  When an effect from a DUAL Card's Digimon side is activated, it is treated as a Digimon effect.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7102",
+      "q": "If this card is checked from a security stack and its [Security] effect is activated, is the effect treated as a Digimon effect or an Option card effect?"
+    },
+    {
+      "a": "No, it can't. Since DUAL cards checked from the security stack are treated as both Digimon and Option cards, it can't be activated.",
+      "date": "Aug. 18, 2026",
+      "num": "Q7103",
+      "q": "While the effect \"Option cards don't activate [Security] effects\" is activated, can this card's [Security] effect activate when it is checked?"
+    }
+  ],
+  "Color": [
+    "Purple",
+    "Yellow"
+  ],
+  "Cost": "D",
+  "DP": "8000",
+  "DUAL Color": "Purple",
+  "DUAL Cost": "4",
+  "DUAL Effect": [
+    "＜Use Req. ([Glowing Dawn] trait)＞ (Specified cards let you ignore color requirements.)",
+    "[Main] Delete 1 of your opponent's Digimon with the lowest level."
+  ],
+  "DUAL Rule": "＜Arts Digivolve＞ (Instead of trashing after use, your cards may digivolve into this card without paying the cost.)",
+  "Digivolve Cost 1": [
+    "Purple",
+    "Yellow",
+    "4 from Lv.4"
+  ],
+  "Effect": [
+    "＜Execute＞ ＜Ascension＞ (When this Digimon is deleted, you may place this card as the top security card.)",
+    "[Security] [On Deletion] By trashing the bottom face-down card from under any of your Tamers, you may play 1 [Glowing Dawn] trait card with a play cost of 5 or less from your trash without paying the cost."
+  ],
+  "Form": "Ultimate",
+  "Notes": [
+    "Booster TIMELESS BONDS [BT-26]",
+    "?search=true&category=522038",
+    "/products/pack/ver26"
+  ],
+  "Special Digivolution Condition": "[Digivolve] Lv.4 w/[Glowing Dawn] trait: Cost 3",
+  "Type": "Machine/Glowing Dawn/BEATBREAK",
+  "cardLv": "Lv.5",
+  "cardNo": "BT26-075",
+  "cardParallel": "Alternative Art",
+  "cardRarity": "SR",
+  "cardTitle": "ScourgeChiropmon          Despair Blast",
+  "cardType": "Digimon/Tamer",
+  "imgSrc": "../images/cardlist/card/BT26-075_P1.png?260529"
+}
