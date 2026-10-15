@@ -1,17 +1,54 @@
 {
+  "altDigivolutionRequirements": "[DNA Digivolve] [Alphamon] + [Ouryumon] : Cost 0\nStack the 2 specified Digimon and digivolve unsuspended.",
+  "attribute": "Vaccine",
   "blockIcon": "06",
+  "cardEffects": "＜Piercing＞ (When this Digimon deletes your opponent's Digimon in battle while attacking, it checks security before the attack ends.)\n＜Security A. +1＞ (This Digimon checks 1 additional security card.)\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n＜Partition ([Alphamon] & [Ouryumon])＞ (When this Digimon with each of the specified digivolution cards would leave the battle area other than by your own effects or by battle, you may play 1 each of the specified cards without paying the costs.)\n[When Digivolving] [When Attacking] [Once Per Turn] You may delete 1 of your opponent's Digimon. Then, if DNA digivolving, ＜Recovery +2＞ (Place the top 2 cards of your deck as your top 2 security cards.)\n[All Turns] During attacks, your opponent's effects don't affect this Digimon.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
+  "cardType": "Digimon/Option",
+  "color": "Black/Yellow/Red",
+  "digivolutionRequirements": [
+    {
+      "color": "Black",
+      "digivolveCost": "6",
+      "level": "6"
+    },
+    {
+      "color": "Yellow",
+      "digivolveCost": "6",
+      "level": "6"
+    },
+    {
+      "color": "Red",
+      "digivolveCost": "6",
+      "level": "6"
+    }
+  ],
+  "dp": "16000 DP",
+  "dual": "[Arts Digivolve] (Instead of trashing after use, your cards may digivolve into this card without paying the cost.)",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
+        "captionText": "BT-27: BOOSTER IGNITION OF X (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT27-103-Sample.png",
+        "imgName": "BT27-103-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2f/BT27-103-Sample.png/revision/latest?cb=20261015125751",
+        "uploadDate": "2026-10-15T12:57:51"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/2f/BT27-103-Sample.png/revision/latest?cb=20261015125751",
+  "level": "7",
+  "name": "Alphamon: Ouryuken/Ultimate Ouryuken",
+  "nameJapanese": "アルファモン：王竜剣/究極戦刃王竜剣",
+  "optionCardColourRequirements": "Black",
+  "optionCardEffect": "[Main] Delete 1 of your opponent's Digimon. Then, 2 of your Digimon may DNA digivolve into this card.",
   "rarity": "Secret Rare",
   "setData": {
     "ch": [
@@ -22,8 +59,8 @@
         },
         "foil&Rarity": "Foil - Secret Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
         }
       },
       {
@@ -57,8 +94,8 @@
         },
         "foil&Rarity": "Foil - Secret Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
         }
       },
       {
@@ -92,8 +129,8 @@
         },
         "foil&Rarity": "Foil - Secret Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
         }
       },
       {
@@ -127,8 +164,8 @@
         },
         "foil&Rarity": "Foil - Secret Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kaz",
+          "text": "kaz"
         }
       },
       {
@@ -154,5 +191,7 @@
         }
       }
     ]
-  }
+  },
+  "type": "NO DATA/X Antibody/Royal Knight/Chronicle",
+  "useCost": "6"
 }

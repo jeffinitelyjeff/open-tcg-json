@@ -1,18 +1,43 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  [Craniamon]: Cost 2",
+  "attribute": "Vaccine",
   "blockIcon": "06",
+  "cardEffects": "＜Reboot＞ (This Digimon also unsuspends in your opponent's unsuspend phase.)\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n[All Turns] When any of your Digimon would leave the battle area, by suspending this Digimon, they don't leave.\n[All Turns] [Once Per Turn] When this Digimon suspends, you may delete all of your opponent's lowest DP Digimon. Then, by trashing 1 [Craniamon] or [X Antibody] from this Digimon's digivolution cards, activate 1 [Main] effect on this card's Option side.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon/Option",
+  "color": "Black",
+  "digivolutionRequirements": {
+    "color": "Black",
+    "digivolveCost": "4",
+    "level": "5"
+  },
+  "dp": "13000 DP",
+  "dual": "[Arts Digivolve] (Instead of trashing after use, your cards may digivolve into this card without paying the cost.)",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
+        "captionText": "BT-27: BOOSTER IGNITION OF X (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT27-070-Sample.png",
+        "imgName": "BT27-070-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f1/BT27-070-Sample.png/revision/latest?cb=20261015124724",
+        "uploadDate": "2026-10-15T12:47:24"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f1/BT27-070-Sample.png/revision/latest?cb=20261015124724",
+  "level": "6",
+  "name": "Craniamon (X Antibody)/Ultimate Crossblade Dáinsleif",
+  "nameJapanese": "クレニアムモンX抗体/究極戦十剣ダインスレイヴ",
+  "optionCardColourRequirements": "Black",
+  "optionCardEffect": "[Main] Until your opponent's turn ends, 1 of your Digimon with ＜Blocker＞ (This Digimon can block in the blocker timing.) isn't affected by their Digimon effects and gets +5000 DP. Then, 1 of your Digimon may unsuspend.",
+  "rarity": "Super Rare",
   "setData": {
     "ch": [
       {
@@ -20,7 +45,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
+          "text": "BT-27: BOOSTER IGNITION OF X"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
           "text": "To be completed"
@@ -33,7 +69,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
+          "text": "BT-27: BOOSTER IGNITION OF X"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
           "text": "To be completed"
@@ -46,7 +93,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
+          "text": "BT-27: BOOSTER IGNITION OF X"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
           "text": "To be completed"
@@ -59,12 +117,25 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Super Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:GOSSAN",
+          "text": "GOSSAN"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
+          "text": "BT-27: BOOSTER IGNITION OF X"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
           "text": "To be completed"
         }
       }
     ]
-  }
+  },
+  "type": "Holy Warrior/X Antibody/Royal Knight",
+  "useCost": "5"
 }

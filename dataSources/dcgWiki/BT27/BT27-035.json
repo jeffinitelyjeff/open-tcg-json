@@ -1,18 +1,50 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.6 w/[DATA SQUAD] trait: Cost 5 \n[Burst Digivolve] [MirageGaogamon]: Cost 0 by returning 1 [Thomas H. Norstein] to the hand.\nAt the end of the burst digivolution turn, trash this Digimon's top card.",
+  "attribute": "Data",
   "blockIcon": "06",
+  "cardEffects": "＜Reboot＞ (This Digimon also unsuspends in your opponent's unsuspend phase.)\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n＜Evade＞ (When this Digimon would be deleted, you may suspend it to prevent that deletion.)\n[When Digivolving] [When Attacking] [Once Per Turn] You may activate 1 [Main] effect on this card's Option side.\n[When Digivolving] [When Attacking] If your opponent's hand has 8 or more cards, by returning cards without looking to the bottom of the deck so that it has 7 left, return their top security card to the bottom of the deck.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon/Option",
+  "color": "Blue/Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Blue",
+      "digivolveCost": "5",
+      "level": "6"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "5",
+      "level": "6"
+    }
+  ],
+  "dp": "15000 DP",
+  "dual": "[Arts Digivolve] (Instead of trashing after use, your cards may digivolve into this card without paying the cost.)",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
+        "captionText": "BT-27: BOOSTER IGNITION OF X (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT27-035-Sample.png",
+        "imgName": "BT27-035-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/9/94/BT27-035-Sample.png/revision/latest?cb=20261015125419",
+        "uploadDate": "2026-10-15T12:54:19"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/9/94/BT27-035-Sample.png/revision/latest?cb=20261015125419",
+  "level": "7",
+  "name": "MirageGaogamon: Burst Mode/Full Moon Meteor Impact",
+  "nameJapanese": "ミラージュガオガモン：バーストモード/フルムーンメテオインパクト",
+  "optionCardColourRequirements": "Blue",
+  "optionCardEffect": "＜Use Req. ([DATA SQUAD] trait)＞ (Specified conditions meet color requirements.)\n[Main] Return 1 of your opponent's Digimon to the hand. Then, if their hand has 8 or more cards, 1 of your Digimon may unsuspend.",
+  "rarity": "Ultimate Rare",
   "setData": {
     "ch": [
       {
@@ -20,7 +52,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
+          "text": "BT-27: BOOSTER IGNITION OF X"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
           "text": "To be completed"
@@ -33,7 +76,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
+          "text": "BT-27: BOOSTER IGNITION OF X"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
           "text": "To be completed"
@@ -46,7 +100,18 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
+          "text": "BT-27: BOOSTER IGNITION OF X"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
           "text": "To be completed"
@@ -59,12 +124,25 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Toriyufu",
+          "text": "toriyufu"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
+          "text": "BT-27: BOOSTER IGNITION OF X"
+        },
+        "foil&Rarity": "Alternative Art",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
           "text": "To be completed"
         }
       }
     ]
-  }
+  },
+  "type": "Beast Knight/DATA SQUAD",
+  "useCost": "6"
 }
