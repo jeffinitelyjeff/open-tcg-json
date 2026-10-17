@@ -1,18 +1,32 @@
 {
   "blockIcon": "06",
+  "cardEffects": "[Start of Your Main Phase] By placing 1 [Cyborg] or [Aquatic] trait card from your hand face down under this Tamer, ＜Draw 1＞ (Draw 1 card from your deck.) and gain 1 memory.\n[Main] By suspending this Tamer and trashing 2 bottom face-down cards from under any of your Tamers, 1 of your Digimon may digivolve into a [Cyborg] or [Aquatic] trait Digimon card in the hand with the cost reduced by 2.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Tamer",
+  "color": "Black/Blue",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
+        "captionText": "BT-27: BOOSTER IGNITION OF X (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT27-095-Sample.png",
+        "imgName": "BT27-095-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4e/BT27-095-Sample.png/revision/latest?cb=20261017123210",
+        "uploadDate": "2026-10-17T12:32:10"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4e/BT27-095-Sample.png/revision/latest?cb=20261017123210",
+  "name": "Homer Yushima",
+  "nameJapanese": "湯島浩",
+  "playCost": "4",
+  "rarity": "Common",
+  "securityEffect": "[Security] Play this card without paying the cost.",
   "setData": {
     "ch": [
       {
@@ -20,11 +34,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
       }
     ],
     "en": [
@@ -33,11 +44,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
       }
     ],
     "jp": [
@@ -46,11 +54,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
       }
     ],
     "kr": [
@@ -59,12 +64,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
       }
     ]
-  }
+  },
+  "type": "DATA SQUAD"
 }
