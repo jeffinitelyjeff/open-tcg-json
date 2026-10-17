@@ -1,18 +1,43 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.3 w/[DATA SQUAD] trait: Cost 2",
+  "attribute": "Data",
   "blockIcon": "06",
+  "cardEffects": "[On Play] [When Digivolving] 1 of your Digimon can't be deleted in battle until your opponent's turn ends. If played by effects, it also gains ＜Blocker＞ (This Digimon can block in the blocker timing.)",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "2",
+    "level": "3"
+  },
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
+        "captionText": "BT-27: BOOSTER IGNITION OF X (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT27-025-Sample.png",
+        "imgName": "BT27-025-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/45/BT27-025-Sample.png/revision/latest?cb=20261017070617",
+        "uploadDate": "2026-10-17T07:06:17"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/45/BT27-025-Sample.png/revision/latest?cb=20261017070617",
+  "inheritedEffect": "＜Evade＞ (When this Digimon would be deleted, you may suspend it to prevent that deletion.)",
+  "level": "4",
+  "name": "Gawappamon",
+  "nameJapanese": "ガワッパモン",
+  "playCost": "4",
+  "rarity": "Common",
+  "rule": "[Rule] Trait: Has [Aquatic] Type.",
   "setData": {
     "ch": [
       {
@@ -20,10 +45,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       }
     ],
@@ -33,10 +58,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       }
     ],
@@ -46,10 +71,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       }
     ],
@@ -59,12 +84,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       }
     ]
-  }
+  },
+  "type": "Cyborg/DATA SQUAD"
 }

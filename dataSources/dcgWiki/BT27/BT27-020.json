@@ -1,18 +1,43 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.2 w/[DATA SQUAD] trait: Cost 0",
+  "attribute": "Data",
   "blockIcon": "06",
+  "cardEffects": "[On Play] By placing 1 level 4 or lower [Aquatic] or [DATA SQUAD] trait Digimon card from your hand as any of your Digimon's bottom digivolution card, or face down under any of your [DATA SQUAD] trait Tamers, ＜Draw 1＞ (Draw 1 card from your deck.)",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digi-Egg",
+  "color": "Blue",
+  "digivolutionRequirements": {
+    "color": "Blue",
+    "digivolveCost": "0",
+    "level": "2"
+  },
+  "dp": "1000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
+        "captionText": "BT-27: BOOSTER IGNITION OF X (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT27-020-Sample.png",
+        "imgName": "BT27-020-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6e/BT27-020-Sample.png/revision/latest?cb=20261017070626",
+        "uploadDate": "2026-10-17T07:06:26"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/6/6e/BT27-020-Sample.png/revision/latest?cb=20261017070626",
+  "inheritedEffect": "[When Attacking] [Once Per Turn] Trash the top or bottom digivolution card of 1 of your opponent's Digimon.",
+  "level": "3",
+  "name": "Kamemon",
+  "nameJapanese": "カメモン",
+  "playCost": "3",
+  "rarity": "Common",
+  "rule": "[Rule] Trait: Has [Aquatic] Type.",
   "setData": {
     "ch": [
       {
@@ -20,10 +45,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       }
     ],
@@ -33,10 +58,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       }
     ],
@@ -46,10 +71,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       }
     ],
@@ -59,12 +84,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Kazumasa_Yasukuni",
+          "text": "Kazumasa Yasukuni"
         }
       }
     ]
-  }
+  },
+  "type": "Cyborg/DATA SQUAD"
 }
