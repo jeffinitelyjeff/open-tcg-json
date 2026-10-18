@@ -1,4 +1,5 @@
 {
+  "attribute": "Virus",
   "blockIcon": "06",
   "cardRestriction": {
     "chinese": "Not released",
@@ -6,13 +7,22 @@
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
+  "cardType": "Digimon",
+  "color": "Purple",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "3",
+    "level": "4"
+  },
+  "dp": "7000 DP",
+  "form": "Ultimate",
   "galleryImages": {},
   "image": null,
-  "name": "[[:Category:|]]",
+  "level": "5",
+  "name": "ScourgeChiropmon",
   "nameJapanese": "",
-  "rarity": "",
+  "playCost": "7",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -66,5 +76,6 @@
         }
       }
     ]
-  }
+  },
+  "type": "Machine/Glowing Dawn/BEATBREAK"
 }
