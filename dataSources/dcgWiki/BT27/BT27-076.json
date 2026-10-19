@@ -1,18 +1,35 @@
 {
+  "attribute": "Unknown",
   "blockIcon": "06",
+  "cardEffects": "When this card would be played, by deleting 1 of your level 3 Digimon, reduce the cost by 4.\n[On Play] You may play 1 [Akihiro Kurata] from your hand without paying the cost.\n[All Turns] This Digimon can't digivolve.\n[On Deletion] By returning 2 cards with [Gizmon] in their names from your trash to the bottom of the deck, you may play 1 [Gizmon: XT] from your trash without paying the cost.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Purple",
+  "dp": "6000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
+        "captionText": "BT-27: BOOSTER IGNITION OF X (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT27-076-Sample.png",
+        "imgName": "BT27-076-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/2/23/BT27-076-Sample.png/revision/latest?cb=20261019135853",
+        "uploadDate": "2026-10-19T13:58:53"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/2/23/BT27-076-Sample.png/revision/latest?cb=20261019135853",
+  "level": "4",
+  "name": "Gizmon: AT",
+  "nameJapanese": "ギズモン：AT",
+  "playCost": "6",
+  "rarity": "Common",
   "setData": {
     "ch": [
       {
@@ -20,11 +37,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
       }
     ],
     "en": [
@@ -33,11 +47,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
       }
     ],
     "jp": [
@@ -46,11 +57,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
       }
     ],
     "kr": [
@@ -59,12 +67,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
       }
     ]
-  }
+  },
+  "type": "Kurata's Army"
 }
