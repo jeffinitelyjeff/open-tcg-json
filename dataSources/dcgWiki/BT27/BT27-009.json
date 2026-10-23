@@ -1,18 +1,49 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  [Ryudamon]/Lv.3 w/[Chronicle] trait: Cost 2",
+  "attribute": "Vaccine",
   "blockIcon": "06",
+  "cardEffects": "[On Play] [When Digivolving] 1 of your Digimon gets +3000 DP until your opponent's turn ends.\n[When Attacking] This Digimon may digivolve into a Digimon card with the [Chronicle] trait in the hand or trash.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Red/Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "3",
+      "level": "3"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "3",
+      "level": "3"
+    }
+  ],
+  "dp": "5000 DP",
+  "form": "Champion",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
+        "captionText": "BT-27: BOOSTER IGNITION OF X (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT27-009-Sample.png",
+        "imgName": "BT27-009-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/5/52/BT27-009-Sample.png/revision/latest?cb=20261023070525",
+        "uploadDate": "2026-10-23T07:05:25"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/5/52/BT27-009-Sample.png/revision/latest?cb=20261023070525",
+  "inheritedEffect": "[Your Turn] This Digimon gets +2000 DP.",
+  "level": "4",
+  "name": "Ginryumon",
+  "nameJapanese": "ギンリュウモン",
+  "playCost": "5",
+  "rarity": "Common",
   "setData": {
     "ch": [
       {
@@ -20,10 +51,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Murakami_Hisashi",
+          "text": "Murakami Hisashi"
         }
       }
     ],
@@ -33,10 +64,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Murakami_Hisashi",
+          "text": "Murakami Hisashi"
         }
       }
     ],
@@ -46,10 +77,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Murakami_Hisashi",
+          "text": "Murakami Hisashi"
         }
       }
     ],
@@ -59,12 +90,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Common",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Murakami_Hisashi",
+          "text": "Murakami Hisashi"
         }
       }
     ]
-  }
+  },
+  "type": "Beast Dragon/X Antibody/Chronicle"
 }

@@ -1,18 +1,49 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  [Kyokomon]/Black Lv.2 w/[X Antibody] trait: Cost 0",
+  "attribute": "Vaccine",
   "blockIcon": "06",
+  "cardEffects": "[Start of Your Main Phase] By trashing 1 card with the [Chronicle] trait from your hand, ＜Draw 1＞ (Draw 1 card from your deck.) and gain 1 memory.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon",
+  "color": "Red/Black",
+  "digivolutionRequirements": [
+    {
+      "color": "Red",
+      "digivolveCost": "1",
+      "level": "2"
+    },
+    {
+      "color": "Black",
+      "digivolveCost": "1",
+      "level": "2"
+    }
+  ],
+  "dp": "2000 DP",
+  "form": "Rookie",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
+        "captionText": "BT-27: BOOSTER IGNITION OF X (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT27-008-Sample.png",
+        "imgName": "BT27-008-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f5/BT27-008-Sample.png/revision/latest?cb=20261023070528",
+        "uploadDate": "2026-10-23T07:05:28"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/f/f5/BT27-008-Sample.png/revision/latest?cb=20261023070528",
+  "inheritedEffect": "＜Raid＞ (When this Digimon attacks, you may switch the target of attack to 1 of your opponent's unsuspended Digimon with the highest DP.)",
+  "level": "3",
+  "name": "Ryudamon",
+  "nameJapanese": "リュウダモン",
+  "playCost": "3",
+  "rarity": "Uncommon",
   "setData": {
     "ch": [
       {
@@ -20,10 +51,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Murakami_Hisashi",
+          "text": "Murakami Hisashi"
         }
       }
     ],
@@ -33,10 +64,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Murakami_Hisashi",
+          "text": "Murakami Hisashi"
         }
       }
     ],
@@ -46,10 +77,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Murakami_Hisashi",
+          "text": "Murakami Hisashi"
         }
       }
     ],
@@ -59,12 +90,13 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "No Foil - Uncommon",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Murakami_Hisashi",
+          "text": "Murakami Hisashi"
         }
       }
     ]
-  }
+  },
+  "type": "Beast/X Antibody/Chronicle"
 }
