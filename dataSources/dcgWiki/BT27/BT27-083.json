@@ -1,20 +1,44 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  [Crowmon]/Lv.5 w/[DATA SQUAD] trait: Cost 3",
+  "attribute": "Vaccine",
   "blockIcon": "06",
+  "cardEffects": "＜Blocker＞ (This Digimon can block in the blocker timing.)\n＜Retaliation＞ (When only this Digimon is deleted in battle, delete the Digimon it battled.) \n[When Digivolving] Your opponent trashes any 1 card from their hand or security stack.\n[On Deletion] If your opponent's hand has 7 or fewer cards, you may play 1 play cost 7 or lower purple Digimon card with [Avian] or [Bird] in any of its traits from your trash without paying the cost.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
+  "cardType": "Digimon/Option",
+  "color": "Purple/Green",
+  "digivolutionRequirements": {
+    "color": "Purple",
+    "digivolveCost": "3",
+    "level": "5"
+  },
+  "dp": "12000 DP",
+  "dual": "[Arts Digivolve] (Instead of trashing after use, your cards may digivolve into this card without paying the cost.)",
   "form": "Mega",
-  "galleryImages": {},
-  "image": null,
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
+        "captionText": "BT-27: BOOSTER IGNITION OF X (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT27-083-Sample.png",
+        "imgName": "BT27-083-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/d/dd/BT27-083-Sample.png/revision/latest?cb=20261025062356",
+        "uploadDate": "2026-10-25T06:23:56"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/d/dd/BT27-083-Sample.png/revision/latest?cb=20261025062356",
   "level": "6",
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "name": "Ravemon/Ame-no-Ohabari",
+  "nameJapanese": "レイヴモン/天之尾羽張",
+  "optionCardColourRequirements": "Purple",
+  "optionCardEffect": "＜Use Req. ([DATA SQUAD] trait)＞ (Specified conditions meet color requirements.)\n[Main] Your opponent trashes cards in their hand so that they have 7 left. If this effect didn't trash, delete 1 of their Digimon.",
+  "rarity": "Rare",
+  "rule": "[Rule] Trait: Has [Birdkin] Type.",
   "setData": {
     "ch": [
       {
@@ -22,10 +46,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Moyasi",
+          "text": "Moyasi"
         }
       }
     ],
@@ -35,10 +59,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Moyasi",
+          "text": "Moyasi"
         }
       }
     ],
@@ -48,10 +72,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Moyasi",
+          "text": "Moyasi"
         }
       }
     ],
@@ -61,12 +85,14 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Foil - Rare",
         "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:Moyasi",
+          "text": "Moyasi"
         }
       }
     ]
-  }
+  },
+  "type": "Cyborg/DATA SQUAD",
+  "useCost": "5"
 }

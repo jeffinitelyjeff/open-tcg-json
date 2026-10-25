@@ -1,18 +1,31 @@
 {
   "blockIcon": "06",
+  "cardEffects": "When this card would be used, by trashing the bottom face-down card from under any of your Tamers, reduce the cost by 2.\n[Main] By placing 1 [Peckmon] and 1 [Crowmon] from your trash as 1 of your [Falcomon]'s bottom digivolution cards, that Digimon may digivolve into [Ravemon] in the trash, ignoring digivolution requirements and without paying the cost.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Option",
+  "color": "Purple",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
+        "captionText": "BT-27: BOOSTER IGNITION OF X (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT27-101-Sample.png",
+        "imgName": "BT27-101-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1a/BT27-101-Sample.png/revision/latest?cb=20261024130255",
+        "uploadDate": "2026-10-24T13:02:55"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1a/BT27-101-Sample.png/revision/latest?cb=20261024130255",
+  "name": "Silver-Winged Yaksha",
+  "nameJapanese": "銀翼の夜叉",
+  "rarity": "Common",
+  "securityEffect": "[Security] You may play 1 [Falcomon] or [Keenan Crier] from your hand or trash without paying the cost. Then, add this card to the hand.",
   "setData": {
     "ch": [
       {
@@ -20,11 +33,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
       }
     ],
     "en": [
@@ -33,11 +43,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
       }
     ],
     "jp": [
@@ -46,11 +53,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
       }
     ],
     "kr": [
@@ -59,12 +63,11 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Common",
+        "illustrator": "No Illustrator"
       }
     ]
-  }
+  },
+  "type": "DATA SQUAD",
+  "useCost": "5"
 }

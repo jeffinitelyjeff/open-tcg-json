@@ -1,18 +1,50 @@
 {
+  "altDigivolutionRequirements": "[Digivolve]  Lv.6 w/[DATA SQUAD] trait: Cost 5 \n[Burst Digivolve] [Ravemon]: Cost 0 by returning 1 [Keenan Crier] to the hand.\nAt the end of the burst digivolution turn, trash this Digimon's top card.",
+  "attribute": "Vaccine",
   "blockIcon": "06",
+  "cardEffects": "＜Piercing＞ (When this Digimon deletes your opponent's Digimon in battle while attacking, it checks security before the attack ends.)\n＜Blocker＞ (This Digimon can block in the blocker timing.)\n[When Digivolving] [When Attacking] You may activate 1 [Main] effect on this card's Option side.\n[All Turns] [Once Per Turn] When your opponent's hand is trashed from, this Digimon may unsuspend.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
     "korean": "Not released",
     "nameJapanese": "Not released"
   },
-  "cardType": "",
-  "color": "[[]]",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "cardType": "Digimon/Option",
+  "color": "Purple/Green",
+  "digivolutionRequirements": [
+    {
+      "color": "Purple",
+      "digivolveCost": "5",
+      "level": "6"
+    },
+    {
+      "color": "Green",
+      "digivolveCost": "5",
+      "level": "6"
+    }
+  ],
+  "dp": "15000 DP",
+  "dual": "[Arts Digivolve] (Instead of trashing after use, your cards may digivolve into this card without paying the cost.)",
+  "form": "Mega",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
+        "captionText": "BT-27: BOOSTER IGNITION OF X (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT27-085-Sample.png",
+        "imgName": "BT27-085-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1f/BT27-085-Sample.png/revision/latest?cb=20261025124016",
+        "uploadDate": "2026-10-25T12:40:16"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/1/1f/BT27-085-Sample.png/revision/latest?cb=20261025124016",
+  "level": "7",
+  "name": "Ravemon: Burst Mode/Mourning Dance",
+  "nameJapanese": "レイヴモン：バーストモード/怒涛闇供喪之舞",
+  "optionCardColourRequirements": "Purple",
+  "optionCardEffect": "＜Use Req. ([DATA SQUAD] trait)＞ (Specified conditions meet color requirements.)\n[Main] Your opponent trashes any 1 card from their hand or security stack. Then, delete 1 of their Digimon with a level as high as the number of cards in their hand or higher.",
+  "rarity": "Ultimate Rare",
   "setData": {
     "ch": [
       {
@@ -20,7 +52,29 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Ultimate Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NAOKI_AKAMINE",
+          "text": "NAOKI AKAMINE"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
+          "text": "BT-27: BOOSTER IGNITION OF X"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
+          "text": "To be completed"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
+          "text": "BT-27: BOOSTER IGNITION OF X"
+        },
+        "foil&Rarity": "Textured - Special Rare",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
           "text": "To be completed"
@@ -33,7 +87,29 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Ultimate Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NAOKI_AKAMINE",
+          "text": "NAOKI AKAMINE"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
+          "text": "BT-27: BOOSTER IGNITION OF X"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
+          "text": "To be completed"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
+          "text": "BT-27: BOOSTER IGNITION OF X"
+        },
+        "foil&Rarity": "Textured - Special Rare",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
           "text": "To be completed"
@@ -46,7 +122,29 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Ultimate Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NAOKI_AKAMINE",
+          "text": "NAOKI AKAMINE"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
+          "text": "BT-27: BOOSTER IGNITION OF X"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
+          "text": "To be completed"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
+          "text": "BT-27: BOOSTER IGNITION OF X"
+        },
+        "foil&Rarity": "Textured - Special Rare",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
           "text": "To be completed"
@@ -59,12 +157,36 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
+        "foil&Rarity": "Ultimate Rare",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:NAOKI_AKAMINE",
+          "text": "NAOKI AKAMINE"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
+          "text": "BT-27: BOOSTER IGNITION OF X"
+        },
+        "foil&Rarity": "Alternative Art",
+        "illustrator": {
+          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
+          "text": "To be completed"
+        }
+      },
+      {
+        "boosterSet": {
+          "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
+          "text": "BT-27: BOOSTER IGNITION OF X"
+        },
+        "foil&Rarity": "Textured - Special Rare",
         "illustrator": {
           "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
           "text": "To be completed"
         }
       }
     ]
-  }
+  },
+  "type": "Cyborg/DATA SQUAD",
+  "useCost": "6"
 }
