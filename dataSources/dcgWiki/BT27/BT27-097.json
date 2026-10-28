@@ -1,5 +1,6 @@
 {
   "blockIcon": "06",
+  "cardEffects": "[Start of Your Turn] If you have 2 or less memory, set it to 3.\n[All Turns] When a Digimon attacks, by suspending this Tamer, you may place the top 2 cards of your deck face down under this Tamer. After, if it's your turn, by trashing 4 bottom face-down cards from under any of your Tamers, you may use 1 purple [BEATBREAK] trait Option card from your trash with the cost reduced by 3.",
   "cardRestriction": {
     "chinese": "Not released",
     "english": "Not released",
@@ -8,11 +9,24 @@
   },
   "cardType": "Tamer",
   "color": "Purple",
-  "galleryImages": {},
-  "image": null,
-  "name": "[[:Category:|]]",
-  "nameJapanese": "",
-  "rarity": "",
+  "galleryImages": {
+    "en": [
+      {
+        "captionLink": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
+        "captionText": "BT-27: BOOSTER IGNITION OF X (EN)",
+        "filePage": "https://digimoncardgame.fandom.com/wiki/File:BT27-097-Sample.png",
+        "imgName": "BT27-097-Sample.png",
+        "imgURL": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4c/BT27-097-Sample.png/revision/latest?cb=20261028060138",
+        "uploadDate": "2026-10-28T06:01:38"
+      }
+    ]
+  },
+  "image": "https://static.wikia.nocookie.net/digimoncardgame/images/4/4c/BT27-097-Sample.png/revision/latest?cb=20261028060138",
+  "name": "Makoto Kuonji",
+  "nameJapanese": "久遠寺マコト",
+  "playCost": "4",
+  "rarity": "Uncommon",
+  "securityEffect": "[Security] Play this card without paying the cost.",
   "setData": {
     "ch": [
       {
@@ -20,11 +34,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
       }
     ],
     "en": [
@@ -33,11 +44,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
       }
     ],
     "jp": [
@@ -46,11 +54,8 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
       }
     ],
     "kr": [
@@ -59,12 +64,10 @@
           "link": "https://digimoncardgame.fandom.com/wiki/BT-27:_BOOSTER_IGNITION_OF_X",
           "text": "BT-27: BOOSTER IGNITION OF X"
         },
-        "foil&Rarity": "",
-        "illustrator": {
-          "link": "https://digimoncardgame.fandom.com/wiki/Category:To_be_completed",
-          "text": "To be completed"
-        }
+        "foil&Rarity": "No Foil - Uncommon",
+        "illustrator": "No Illustrator"
       }
     ]
-  }
+  },
+  "type": "Glowing Dawn/BEATBREAK"
 }
